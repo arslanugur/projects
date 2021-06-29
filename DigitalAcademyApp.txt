@@ -1,0 +1,33 @@
+Management, Teachers, Students, Parents 
+
+Modules
+  - Announcements (Posts/Files by Teachers) (Home Page)
+  - Academic Calendar (Weekly Classes Schedule) - for Teachers
+  - My Books
+  - Social Network
+  - Messages: Name-Surname-Phone Number List, Email, Up Search Bar - Chat App in the App
+                    Social Button:   Multiple Messages to send: Target Group
+                                                                Text Here Space
+                                                                Private message for parents (cannot read students)  SEND
+  - Video Lesson - Zoom App in the App
+                    Addition Button: Target Group
+                                     Lesson Name
+                                     Content
+                                     Starting Date (use calendar!!)
+                                     Number of Lessons
+                                     Duration of Lesson
+                                     Interval between Lessons
+                                     How Many Lessons to have a break
+                                     Duration of a break
+                                     Appoinment Block (Days): 10     SAVE
+  - Live Lesson: Create an Appointment Schedule
+                    Screen: Join the Conversation/Meeting
+                    Addition button: Target group
+                                     Lesson Name
+                                     Content
+                                     Which: E-Call Meet, ZOOM, Google Meet, Other
+                                     Write/Paste Live Lesson Link
+                                     Pinned or Timed (like Clubhouse Meeting)
+  - Profile (Teacher and Student)
+                    Edit Information, Upload Photo, Sign Out
+  
