@@ -1,11 +1,14 @@
 # Project Lists
  - Text-to-Speech
+ - Talking Dictionary
  - Mad Libs Generator
  - Number Guessing Game (Java)
  - Text-Based Adventure Game
  - Dice Rolling Simulator
  - Hangman
  - Tic-Tac-Toe
+ - Audio Video Converter
+ - Unit Converter (m, kg, ft, C etc.)
  - Contact Book
  - Real-Time Chat (Java)
  - E-Mail Slicer
@@ -13,6 +16,9 @@
  - Desktop Notifier App
  - Python Story Generator
  - Youtube Video Downloader
+ - Youtube Data Mining (List from Like, Dislike, Number of Comments, Number of Seen)
+ - Making GUI (Tkinter, PyQt, Kivi Libraries)
+ - Making a Simple Portfolio Website (Django, Flask)
  - Spin a Yarn
  - What's the Word?
  - Rock, Paper, Scissors
@@ -38,6 +44,9 @@
  - RSS Feed Reader (Java)
  - Search Engine (Java)
  - Airline Reservation System (Java)
+ - Online Banking Management System (Java)
+ - Student Management System
+ - Retail Management System
  - E-Mail Client Software (Java)
  - Library Management System (Java)
  - ATM Interface (Java)
@@ -46,7 +55,7 @@
  - Speed Typing Test
  - Content Aggregator
  - Bulk File Rename/Image Resize Application
- - Python File Explorer
+ - Python File Explorer (Rename, Date)
  - Plagiarism Checker
  - Web Crawler
  - Music Player
@@ -60,5 +69,22 @@
  - IP Address Changer (Java)
  - Text Editor (Java)
  - Distance Calculator w Google API (Java)
- - Count Number of Faces (Py)
+ - Face Detection - Count Number of Faces (Py)
+ - Car Detection - Count Number of Cars (Py)
+ - Audiobook
+ - Movie Recommendation System
+ - Spell Checker (Py)
+ - Instagram Automation
+ - Chess Game 
+ - Twitter Bot
+ - Dice Roller
+ - JS Slideshow
+ - Web Scraper
+ - Chatbot
  
+ 
+ - Marketler için, kayıt tutan ve stok belirten otomasyon
+ - Kan bağış sistemleri için otomasyon (Kan gruplarını ayıran, kimin kime kan verebileceği belirten)
+ - Araba parçası satan firmalar için takip yapan otomasyon
+ 
+ *Projelerde veritabanı bağlantılarını kullanmaya çalışmak bir artıdır.
