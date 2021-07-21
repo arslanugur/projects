@@ -1,0 +1,64 @@
+# Project Lists
+ - Text-to-Speech
+ - Mad Libs Generator
+ - Number Guessing Game (Java)
+ - Text-Based Adventure Game
+ - Dice Rolling Simulator
+ - Hangman
+ - Tic-Tac-Toe
+ - Contact Book
+ - Real-Time Chat (Java)
+ - E-Mail Slicer
+ - Binary Search Algorithm
+ - Desktop Notifier App
+ - Python Story Generator
+ - Youtube Video Downloader
+ - Spin a Yarn
+ - What's the Word?
+ - Rock, Paper, Scissors
+ - Leap it!
+ - Find Out, Fibonnacci!
+ - Calculator
+ - Advanced Calculator (Java)
+ - Countdown Clock and Timer
+ - Alarm Clock
+ - Random Password Generator
+ - Random Wikipedia Article
+ - Reddit Bot
+ - Python Command-Line Application
+ - Steganography
+ - Currency Converter
+ - Post-It Notes
+ - To-Do App
+ - Weather App
+ - Virtual Private Network - VPN (Java)
+ - Web City App (Java)
+ - Data Visualization Software (Java)
+ - Network Packet Sniffer (Java)
+ - RSS Feed Reader (Java)
+ - Search Engine (Java)
+ - Airline Reservation System (Java)
+ - E-Mail Client Software (Java)
+ - Library Management System (Java)
+ - ATM Interface (Java)
+ - Site Connectivity Checker
+ - Directory Tree Generator
+ - Speed Typing Test
+ - Content Aggregator
+ - Bulk File Rename/Image Resize Application
+ - Python File Explorer
+ - Plagiarism Checker
+ - Web Crawler
+ - Music Player
+ - Price Comparison Extension
+ - Expense Tracker
+ - Regex Query Tool
+ - Instagram Photo Downloader
+ - Quiz Application (Java)
+ - Online Survey App (Java)
+ - Online Learning Portal (Java)
+ - IP Address Changer (Java)
+ - Text Editor (Java)
+ - Distance Calculator w Google API (Java)
+ - Count Number of Faces (Py)
+ 
