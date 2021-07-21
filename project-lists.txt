@@ -3,6 +3,8 @@
  - Talking Dictionary
  - Mad Libs Generator
  - Number Guessing Game (Java)
+ - Color Guessing Game (JS)
+ - Interactive Map (JS)
  - Text-Based Adventure Game
  - Dice Rolling Simulator
  - Hangman
@@ -24,10 +26,14 @@
  - Rock, Paper, Scissors
  - Leap it!
  - Find Out, Fibonnacci!
- - Calculator
+ - Calculator (JS)
  - Advanced Calculator (Java)
  - Countdown Clock and Timer
  - Alarm Clock
+ - Digital Clock (JS)
+ - Authentication (JS)
+ - Sidebar (JS)
+ - Shopping Cart (JS)
  - Random Password Generator
  - Random Wikipedia Article
  - Reddit Bot
@@ -42,13 +48,21 @@
  - Data Visualization Software (Java)
  - Network Packet Sniffer (Java)
  - RSS Feed Reader (Java)
+ - Story Generator
+ - URL Shortener
+ - Desktop Notifier App
  - Search Engine (Java)
  - Airline Reservation System (Java)
  - Online Banking Management System (Java)
- - Student Management System
+ - Student Database Management System (SQL)
+ - Centralized College Database (SQL)
+ - Hospital Management System (SQL)
+ - Railway System Database (SQL)
+ - Payroll Management System (SQL)
+ - Inventory Control Management (SQL)
  - Retail Management System
  - E-Mail Client Software (Java)
- - Library Management System (Java)
+ - Library Management System (Java, SQL)
  - ATM Interface (Java)
  - Site Connectivity Checker
  - Directory Tree Generator
@@ -77,14 +91,27 @@
  - Instagram Automation
  - Chess Game 
  - Twitter Bot
+ - Youtube Clone (JS)
+ - Amazon Clone (JS)
+ - Unsplash Clone (JS)
+ - Multiplayer Game (JS)
+ - CMS (JS)
+ - Social Media (JS)
  - Dice Roller
  - JS Slideshow
  - Web Scraper
  - Chatbot
+ - Meditation App (JS)
+ - Expense Tracker (JS)
+ - Pinpad (JS)
+ - Virtual Keyboard/Keypad (JS)
+ - Fake News Detection (JS)
+ - Memory Game (JS)
  
+ - Login System
  
  - Marketler için, kayıt tutan ve stok belirten otomasyon
- - Kan bağış sistemleri için otomasyon (Kan gruplarını ayıran, kimin kime kan verebileceği belirten)
+ - Blood Donation Database (SQL) için otomasyon (Kan gruplarını ayıran, kimin kime kan verebileceği belirten)
  - Araba parçası satan firmalar için takip yapan otomasyon
  
  *Projelerde veritabanı bağlantılarını kullanmaya çalışmak bir artıdır.
