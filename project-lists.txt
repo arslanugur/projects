@@ -1,14 +1,21 @@
 # Project Lists
+ - Calculator (JS)
+ - Advanced Calculator (Java)
+   The mother of all projects: How to create Graphical User Interface App
+   Java: JavaFX, Swing
+   Python: Tkinter
  - Text-to-Speech
  - Talking Dictionary
  - Mad Libs Generator
  - Number Guessing Game (Java)
+ - Casino Number Guessing Game (C++)
  - Color Guessing Game (JS)
  - Interactive Map (JS)
  - Text-Based Adventure Game
  - Dice Rolling Simulator
  - Hangman
  - Tic-Tac-Toe
+ - Sudoku (C++)
  - Audio Video Converter
  - Unit Converter (m, kg, ft, C etc.)
  - Contact Book
@@ -26,14 +33,15 @@
  - Rock, Paper, Scissors
  - Leap it!
  - Find Out, Fibonnacci!
- - Calculator (JS)
- - Advanced Calculator (Java)
  - Countdown Clock and Timer
  - Alarm Clock
  - Digital Clock (JS)
  - Authentication (JS)
  - Sidebar (JS)
  - Shopping Cart (JS)
+ - Shop Management System
+   Practice Databases and GUI
+   Manage products from your shop. Add/Remove items, change the prices and taxes! Store all that inside a Database
  - Random Password Generator
  - Random Wikipedia Article
  - Reddit Bot
@@ -63,6 +71,7 @@
  - Retail Management System
  - E-Mail Client Software (Java)
  - Library Management System (Java, SQL)
+ - Kitap Envanter Sistemi
  - ATM Interface (Java)
  - Site Connectivity Checker
  - Directory Tree Generator
@@ -89,7 +98,7 @@
  - Movie Recommendation System
  - Spell Checker (Py)
  - Instagram Automation
- - Chess Game 
+ - Chess Game (Java, Py, C++)
  - Twitter Bot
  - Youtube Clone (JS)
  - Amazon Clone (JS)
@@ -107,11 +116,39 @@
  - Virtual Keyboard/Keypad (JS)
  - Fake News Detection (JS)
  - Memory Game (JS)
- 
+ - Website
+   Blog (HTML, CSS, JS)
+ - Kredi Kartı Onaylayıcı (Luhn Algorithm)
  - Login System
+ - Professional Login and Registration Form
  
+ - Real Time Model Training and Face Recognition
+ - GUI E-Mail Sender
+ - Movie Description
+ - Restaurant Management System w Sending E-Mail 
+ - Typing Master (PyGame)
+ - KBC Game
  - Marketler için, kayıt tutan ve stok belirten otomasyon
  - Blood Donation Database (SQL) için otomasyon (Kan gruplarını ayıran, kimin kime kan verebileceği belirten)
  - Araba parçası satan firmalar için takip yapan otomasyon
  
  *Projelerde veritabanı bağlantılarını kullanmaya çalışmak bir artıdır.
+
+ML Projects
+ - Handwritten Digits Recognition - PC App/Web App Development using tkinter and flask
+ - Face Recognition using Support Vector Machine and principal component analysis
+ - Predicting the risk of having heart disease using linear regression
+ - Brain Tumor Detection using color segmentation w KMeans Clustering
+ 
+   Introduction to Object Detection w Cascade classifier and 68 landmarks detection algorithm
+ - Vehicle Detection and Count using cascade classifiers
+
+DL Projects
+ Part 1 - Intro to DL, Supervised DL, Intro to feed forward neural networks
+ - Handwritten Digit Recognition (Web App Development using Flask w feed forward neural networks)
+ - Intro to Convolution Neural Networks and Face Mask Detection w Convolutional Neural Network
+ - Covid-19 Positive and Negative Detection Web Application w X-Ray Images using Convolutional Neural Networks
+ - Custom Object Detection using TensorFlow Object Detection API
+ 
+ - Building a Real Life Healthcare Chatbot and deploying in on Website
+ - Building One Landing Page
