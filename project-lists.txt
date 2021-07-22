@@ -92,10 +92,7 @@
  - IP Address Changer (Java)
  - Text Editor (Java)
  - Distance Calculator w Google API (Java)
- - Face Detection - Count Number of Faces (Py)
- - Car Detection - Count Number of Cars (Py)
  - Audiobook
- - Movie Recommendation System
  - Spell Checker (Py)
  - Instagram Automation
  - Chess Game (Java, Py, C++)
@@ -109,7 +106,6 @@
  - Dice Roller
  - JS Slideshow
  - Web Scraper
- - Chatbot
  - Meditation App (JS)
  - Expense Tracker (JS)
  - Pinpad (JS)
@@ -134,6 +130,28 @@
  
  *Projelerde veritabanı bağlantılarını kullanmaya çalışmak bir artıdır.
 
+AI Projects
+ - T-Rex Dino Bot (Google) - to implement reinforcement learning - learns itself by making mistakes 
+ - Next Word Predictor on visual keyboard
+ - Movie Recommendation System
+ - Music Recommendation App
+ - Self-Driving Car
+   - Indicate an optimal path on maps to the destination place
+       (cost and time can be minimized)
+   - Lane Line Detection Technique
+       (Computer Vision techniques such as color thresholding to detect the lanes)
+ - Face Detection - Count Number of Faces (Py)
+ - Car Detection - Count Number of Cars (Py)
+ - Automatic Attendance System 
+       (by using a camera that automatically recognizes the faces and marks the attendance of the people)
+ - Artificial Bot that can compete with humans
+ - Chatbot
+     - Building Chatbot using AIML
+     - Price Negotiator E-Commerce Chatbot System
+ - Fake Product Review Monitoring System
+       (Fake or Genuine Product Review - Track the IP addresses)
+ - Spam Classifier (Spam or Non-Spam based on the content of the email alone)
+ 
 ML Projects
  - Handwritten Digits Recognition - PC App/Web App Development using tkinter and flask
  - Face Recognition using Support Vector Machine and principal component analysis
