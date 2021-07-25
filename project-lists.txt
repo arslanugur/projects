@@ -11,6 +11,7 @@
  - Casino Number Guessing Game (C++)
  - Color Guessing Game (JS)
  - Interactive Map (JS)
+ - Calendar (C)
  - Text-Based Adventure Game
  - Dice Rolling Simulator
  - Hangman
@@ -32,13 +33,20 @@
  - What's the Word?
  - Rock, Paper, Scissors
  - Leap it!
+ - FlipImage App (App Beginner)
+ - Wallpaper Generator App (App Beginner)
+ - Notes App (App Beginner)
+ - Recipe App (App Beginner)
  - Find Out, Fibonnacci!
- - Countdown Clock and Timer
+ - Countdown Clock and Timer (App Beginner)
  - Alarm Clock
  - Digital Clock (JS)
  - Authentication (JS)
  - Sidebar (JS)
- - Shopping Cart (JS)
+ - Search Bar w Filter (Front-End Beginner)
+ - Image Slider w Navigator (Front-End Beginner)
+ - Shopping Cart (JS, Front-End Beginner)
+ - Glassmorphism Design (Front-End Beginner)
  - Shop Management System
    Practice Databases and GUI
    Manage products from your shop. Add/Remove items, change the prices and taxes! Store all that inside a Database
@@ -47,9 +55,11 @@
  - Reddit Bot
  - Python Command-Line Application
  - Steganography
+ - Snake Game (C)
+ - Pacman Game (C)
  - Currency Converter
  - Post-It Notes
- - To-Do App
+ - To-Do App (Front-End Beginner)
  - Weather App
  - Virtual Private Network - VPN (Java)
  - Web City App (Java)
@@ -59,18 +69,26 @@
  - Story Generator
  - URL Shortener
  - Desktop Notifier App
- - Search Engine (Java)
+ - Search Engine (Java, C)
+ - Compiler (C)
+ - Banking Application (C)
  - Airline Reservation System (Java)
  - Online Banking Management System (Java)
  - Student Database Management System (SQL)
+ - Student Result Management System (Back-End Beginner)
+ - Student Portfolio Website (Back-End Intermediate)
  - Centralized College Database (SQL)
- - Hospital Management System (SQL)
+ - College Website (Full Stack Dev Intermediate)
+ - Hospital Management System (SQL) (Full Stack Dev Intermediate)
  - Railway System Database (SQL)
  - Payroll Management System (SQL)
- - Inventory Control Management (SQL)
+ - Inventory Control Management System (SQL) (Back-End Intermediate)
+ - Bus Reservation System (C)
+ - Hotel Booking System (Back-End Intermediate)
  - Retail Management System
  - E-Mail Client Software (Java)
- - Library Management System (Java, SQL)
+ - Employee Detail Portal w Searching Feature (Back-End Beginner)
+ - Library Management System (Java, SQL, C) (Back-End Intermediate)
  - Kitap Envanter Sistemi
  - ATM Interface (Java)
  - Site Connectivity Checker
@@ -86,7 +104,12 @@
  - Expense Tracker
  - Regex Query Tool
  - Instagram Photo Downloader
- - Quiz Application (Java)
+ - Quiz Application/Game (Java, C, Front-End Intermediate, App Intermediate)
+ - Survey App (Back-End Beginner)
+ - Book Finder (App Intermediate)
+ - Giphy's API to recreate Giphy (Front-End  Intermediate)
+ - MemeMaker (Front-End  Intermediate)
+ - String Art (Front-End  Intermediate)
  - Online Survey App (Java)
  - Online Learning Portal (Java)
  - IP Address Changer (Java)
@@ -97,8 +120,20 @@
  - Instagram Automation
  - Chess Game (Java, Py, C++)
  - Twitter Bot
+ - Item Catalog (Full Stack Dev Beginner)
+ - Neighborhood Map Web Application (Full Stack Dev Beginner)
+ - TapNews Web App (Full Stack Dev Beginner)
+ - Event Webpage (Full Stack Dev Beginner)
+ - Image Uploader (Full Stack Dev Beginner)
+ - BookMyShow Clone (Full Stack Dev Intermediate)
+ - Web Portal for Motor Servicing at Home (Full Stack Dev Intermediate)
+ - File Sharing Website w Timer (Full Stack Dev Intermediate)
  - Youtube Clone (JS)
- - Amazon Clone (JS)
+ - Amazon Clone (JS) (Full Stack Dev Advanced)
+ - Online Shopping App (App Advanced)
+ - Ecommerce Portal for Used Furniture Sales (Full Stack Dev Advanced)
+ - Slack Clone (Full Stack Dev Advanced)
+ - E-Voting Web App (Full Stack Dev Advanced)
  - Unsplash Clone (JS)
  - Multiplayer Game (JS)
  - CMS (JS)
@@ -111,12 +146,35 @@
  - Pinpad (JS)
  - Virtual Keyboard/Keypad (JS)
  - Fake News Detection (JS)
+ - Calorie Counter (App Intermediate)
+ - Drawing App (App Intermediate)
  - Memory Game (JS)
+ - Card-Memory Game (App Intermediate)
+ - Match Score App (App Advanced)
+ - News App (App Advanced)
+ - Food App (App Advanced)
+ - Food Delivery App (Full Stack Dev Advanced)
+ - Document Scanner App (App Advanced)
  - Website
    Blog (HTML, CSS, JS)
  - Kredi Kartı Onaylayıcı (Luhn Algorithm)
+ - User Login Information (Back-End Beginner)
+ - Login Form w Google n Facebook (Back-End Intermediate)
  - Login System
+ - Login Form w Authentication (Front-End Intermediate)
  - Professional Login and Registration Form
+ - Chat App w Vue (Front-End Advanced)
+ - Chat App w Facetime (Back-End Advanced)
+ - A Website Change Detector using NodeJS (Back-End Advanced)
+ - Amazon Clone
+ - Backend of Ecommerce Website (Back-End Advanced)
+ - Simple CRUD sites (Back-End Advanced)
+ - API Integration n Workflow Automation (Back-End Advanced)
+ - Movie Search app using React (Front-End Advanced)
+ - Portfolio Website w Resume  (Front-End Advanced)
+ - Schedule Maker Website (Back-End Beginner)
+ - SoundCloud-like Audio Player (Front-End Advanced)
+ - Personal Blogging Site (Front-End Advanced)
  
  - Real Time Model Training and Face Recognition
  - GUI E-Mail Sender
@@ -157,6 +215,17 @@ ML Projects
  - Face Recognition using Support Vector Machine and principal component analysis
  - Predicting the risk of having heart disease using linear regression
  - Brain Tumor Detection using color segmentation w KMeans Clustering
+ 
+ - Automatic Translation
+ - Traffic Prediction
+ - Web Search and Recommendation Engines
+ - Online Fraud Detection
+ - Medical Diagnosis
+ - Text & Speech Recognition
+ - Email Spam Filtering
+ - Image Recognition
+ - Visual Personal Assistants
+ 
  
    Introduction to Object Detection w Cascade classifier and 68 landmarks detection algorithm
  - Vehicle Detection and Count using cascade classifiers
