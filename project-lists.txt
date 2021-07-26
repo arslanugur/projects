@@ -1,4 +1,4 @@
-# Project Lists
+# Project List
  - Calculator (JS)
  - Advanced Calculator (Java)
    The mother of all projects: How to create Graphical User Interface App
@@ -212,13 +212,18 @@ AI Projects
  
 ML Projects
  - Handwritten Digits Recognition - PC App/Web App Development using tkinter and flask
+ - Handwritten Character Recognition
  - Face Recognition using Support Vector Machine and principal component analysis
  - Predicting the risk of having heart disease using linear regression
  - Brain Tumor Detection using color segmentation w KMeans Clustering
  
  - Automatic Translation
+ - Self-Driving Car
  - Traffic Prediction
+ - Stock Price Prediction
+ - Bitcoin Price Prediction
  - Web Search and Recommendation Engines
+  - Movie Recommendation System
  - Online Fraud Detection
  - Medical Diagnosis
  - Text & Speech Recognition
