@@ -2567,197 +2567,102 @@ satisfied, pleased (with)
 because of, owing to
 грозить/при- (+d)
 to threaten (s.o.)
-далее
-further
-зависимость
-dependence
-кто-нибудь
-anyone
-одетый (в +a)
-dressed; wearing
-подруга
-(female) friend
-оказывать/оказать
-to render, give (+a)
-рубашка
-shirt
-правление
-government; board (of management)
-листок
-small sheet (of paper); small leaf, leaflet
-расходиться/разойтись
-to disperse, split up
-скала
-crag, rock face, cliff
-февраль
-February
+далее - further
+зависимость - dependence
+кто-нибудь  - anyone
+одетый (в +a)  - dressed; wearing
+подруга  - (female) friend
+оказывать/оказать  - to render, give (+a)
+рубашка - shirt
+правление  - government; board (of management)
+листок  - small sheet (of paper); small leaf, leaflet
+расходиться/разойтись - to disperse, split up
+скала - crag, rock face, cliff
+февраль - February
 сперва - at first (coll)
-управлять (+inst)
-to manage, control
-характерный
-characteristic (adj)
-справедливость
-justice, fairness
-хм
-hm! (expressing hesitation)
-тьма
-darkness
-артист
-artiste, performer
-благоприятный
-favourable
-выбирать/выбрать
-to choose (+a)
-декабрь
-December
-заря
-dawn; sunset
-колокол
-bell
-дыхание
-breathing
-медный
-copper (adj)
-дивизия
-division (army)
-крутой
-steep; severe; cool (coll)
-меняться/об-
-to change; p: (+inst) exchange
-невидимый
-invisible
-скидывать/скинуть
-(+a) to throw off (coll), take off (clothes), knock off (price)
-обязательство
-pledge, obligation, liability
-домашний
-domestic
-оглядываться/оглядеться
-to look round
-оглядываться/оглянуться
-to look back
-орден
-medal, decoration; order (society)
-силуэт
-silhouette
-очки
-glasses, spectacles
-синева
-blue colour, blueness
-отпускать/отпустить
-to release, let go (+a)
-перспектива
-perspective; prospect
-складка
-fold, crease
-переводить/перевести (+a)
-to take across; transfer; translate
-применять/применить (+a)
-to use, employ, apply
-присаживаться/присесть
-to take a seat, sit down
-проверять/проверить (+a)
-to check
-сборник
-collection (book of poems, stories, articles)
-смешной
-funny, ridiculous
-спектакль
-(theatre) performance
-справедливый
-fair, just
-сравнительно
-comparatively
-теоретический
-theoretical
-убирать/убрать
-to take away; tidy; p: tidy up (+a)
-агроном
-agronomist
-внедрение
-inculcation; putting into practice
-восточный
-eastern
-годиться (на +a or для +g)
-to be fit (for), be usable
-гордость
-pride [not самолюбие]
-жениться (на +pr)
-to marry (of man)
-заметно
-noticeably
-кино
-cinema
-коренной
-fundamental
-масло
-butter; oil
-мастерская
-workshop, studio
-мясо
-meat
-надёжный
-reliable
-назначать/назначить
-(+a +inst) to appoint (s.o. as sth); fix, arrange
-наступление
-offensive, advance
-невеста
-bride; fiancee
-обратный
-reverse (adj)
-одинаковый
-identical
-относительно
-relatively; (+g) concerning
-памятник
-monument
-перебивать/перебить
-to interrupt (+a)
-дарить/по-
-to give, present (sth to s.o.) (+a +d)
-подход
-approach
-помещик
-landowner
-появление
-appearance
-прибыль
-profit
-семейный
-family (adj)
-слыхать (о +pr)
-to hear (about) (coll)
-слышаться/по-
-to be heard
-сочинять/сочинить (+a)
-to compose, make up
-талантливый
-talented
-технология
-technology
-тихонько
-quietly (coll)
-ткань
-cloth
-толк
-sense, point; understanding
-тоска
-melancholy, depression, ennui; (по +d) yearning (for)
-фактор
-factor
-хохотать/за-
-to guffaw, laugh loudly
-агент
-agent
-бассейн
-pool, swimming-pool; basin (geog)
-вариант
-variant
-вне (+g)
-outside
-выбор
-choice
+управлять (+inst) - to manage, control
+характерный - characteristic (adj)
+справедливость - justice, fairness
+хм - hm! (expressing hesitation)
+тьма - darkness
+артист - artiste, performer
+благоприятный - favourable
+выбирать/выбрать - to choose (+a)
+декабрь - December
+заря - dawn; sunset
+колокол - bell
+дыхание - breathing
+медный - copper (adj)
+дивизия - division (army)
+крутой - steep; severe; cool (coll)
+меняться/об- - to change; p: (+inst) exchange
+невидимый - invisible
+скидывать/скинуть - (+a) to throw off (coll), take off (clothes), knock off (price)
+обязательство - pledge, obligation, liability
+домашний - domestic
+оглядываться/оглядеться - to look round
+оглядываться/оглянуться - to look back
+орден - medal, decoration; order (society)
+силуэт - silhouette
+очки - glasses, spectacles
+синева - blue colour, blueness
+отпускать/отпустить - to release, let go (+a)
+перспектива - perspective; prospect
+складка - fold, crease
+переводить/перевести (+a) - to take across; transfer; translate
+применять/применить (+a) - to use, employ, apply
+присаживаться/присесть - to take a seat, sit down
+проверять/проверить (+a) - to check
+сборник - collection (book of poems, stories, articles)
+смешной - funny, ridiculous
+спектакль - (theatre) performance
+справедливый - fair, just
+сравнительно - comparatively
+теоретический - theoretical
+убирать/убрать - to take away; tidy; p: tidy up (+a)
+агроном - agronomist
+внедрение - inculcation; putting into practice
+восточный - eastern
+годиться (на +a or для +g) - to be fit (for), be usable
+гордость - pride [not самолюбие]
+жениться (на +pr) - to marry (of man)
+заметно - noticeably
+кино - cinema
+коренной - fundamental
+масло - butter; oil
+мастерская - workshop, studio
+мясо - meat
+надёжный - reliable
+назначать/назначить - (+a +inst) to appoint (s.o. as sth); fix, arrange
+наступление - offensive, advance
+невеста - bride; fiancee
+обратный - reverse (adj)
+одинаковый - identical
+относительно - relatively; (+g) concerning
+памятник - monument
+перебивать/перебить - to interrupt (+a)
+дарить/по- - to give, present (sth to s.o.) (+a +d)
+подход - approach
+помещик - landowner
+появление - appearance
+прибыль - profit
+семейный - family (adj)
+слыхать (о +pr) - to hear (about) (coll)
+слышаться/по- - to be heard
+сочинять/сочинить (+a) - to compose, make up
+талантливый - talented
+технология - technology
+тихонько - quietly (coll)
+ткань - cloth
+толк - sense, point; understanding
+тоска - melancholy, depression, ennui; (по +d) yearning (for)
+фактор - factor
+хохотать/за- - to guffaw, laugh loudly
+агент - agent
+бассейн - pool, swimming-pool; basin (geog)
+вариант - variant
+вне (+g) - outside
+выбор - choice
 гул  - rumble, boom, hum
 забор  - fence [not ограда]
 задний - rear (adj)
@@ -2824,34 +2729,20 @@ to take fright (at)
 разрабатывать/разработать  - to work out, devise, develop, design, cultivate (+a)
 разум  - reason, intellect
 розовый  - pink; rosy
-славный
-glorious
-смешно
-comical(ly)
-фото
-photo
-шляпа
-hat (with brim)
-штука
-thing (coll)
-автоматический
-automatic
-активно
-actively
-вбегать/вбежать
-to run in (в +a)
-везти/по- (+a)
-to transport; (+d) be lucky
-ветвь
-branch; bough
-вредный
-harmful
-вскакивать/вскочить
-to jump in; leap up
-выводить/вывести (из +g)
-to lead out; remove
-грохот
-crash; rumble
+славный - glorious
+смешно - comical(ly)
+фото - photo
+шляпа - hat (with brim)
+штука - thing (coll)
+автоматический - automatic
+активно - actively
+вбегать/вбежать - to run in (в +a)
+везти/по- (+a) - to transport; (+d) be lucky
+ветвь - branch; bough
+вредный - harmful
+вскакивать/вскочить - to jump in; leap up
+выводить/вывести (из +g) - to lead out; remove
+грохот - crash; rumble
 десятилетие  - decade [not десяток]
 достойный  - worthy
 дурной  - bad, evil [not злой]
@@ -2921,14 +2812,10 @@ to convince; persuade (+a)
 to carry out, take away; endure
 выскакивать/выскочить (из +g)
 to jump out (of)
-горло
-throat
-действительный
-real, actual; valid
-доход
-income
-думаться
-to be thought
+горло - throat
+действительный - real, actual; valid
+доход - income
+думаться  - to be thought
 заключение  - conclusion; confinement
 издание - publication; edition
 изучать/изучит - to learn, master, study (+a)
@@ -2972,52 +2859,36 @@ to be thought
 драться/по-  - to fight
 запоминать/запомнить
 to commit to memory (+a)
-звено
-link [not связь]
-издательство
-publishing house
-интеллигенция
-intelligentsia; professional people
-командование
-command
-крепостной
-serf
-логика
-logic
-насилие
-violence, force
-наступать/наступить
-to advance; begin; tread on; come (of time, seasons)
-небесный
-heavenly, celestial
-независимый
-independent [not самостоятельный]
-огонёк
-(small) light
-освобождать/освободить
-to liberate, free (+a)
-отпуск
-leave (from work)
-переговоры
-negotiations
-пиджак
-jacket
-плотный
-compact; solid
+звено - link [not связь]
+издательство - publishing house
+интеллигенция  - intelligentsia; professional people
+командование  - command
+крепостной  - serf
+логика  - logic
+насилие  - violence, force
+наступать/наступить  - to advance; begin; tread on; come (of time, seasons)
+небесный  - heavenly, celestial
+независимый  - independent [not самостоятельный]
+огонёк  - (small) light
+освобождать/освободить  - to liberate, free (+a)
+переговоры   - negotiations
+пиджак  - jacket
+плотный  - compact; solid
 поддерживать/поддержать - to support (+a)
 полка - shelf
-посторонний
-outside, not directly involved; outsider
-поэтический
-poetic
-преступление
-crime
-пропадать/пропасть
-to vanish, be lost, p: go missing
-размах
-scope, range, scale [not масштаб]
-ранний
-early (adj)
+посторонний  - outside, not directly involved; outsider
+поэтический  - poetic
+преступление - crime
+
+пропадать/пропасть - to vanish, be lost, p: go missing
+ранний  - early (adj)
+отпуск  - leave (from work)
+бесполезный  - useless
+внизу  - below
+поздний - late
+скорый - fast
+
+размах  - scope, range, scale [not масштаб]
 расход - expenditure
 рейс  - journey (of vehicle)
 серия - series
@@ -3026,11 +2897,9 @@ early (adj)
 целиком  - entirely
 август  - August
 аэродром  - aerodrome, airfield
-бесполезный  - useless
 бесчисленный  - innumerable
 бледный  - pale
 вначале  - at first
-внизу  - below
 задумчиво  - thoughtfully, pensively
 мотив  - motive; motif
 наливать/налить  - to pour out (+a)
@@ -3041,21 +2910,14 @@ early (adj)
 никуда  - nowhere
 обманывать/обмануть  - to deceive (+a)
 одинокий  - solitary
-осенний
-autumn (adj)
-основывать/основать
-to found (+a)
-откладывать/отложить
-to put aside; postpone (+a)
-поздний - late
+осенний - autumn (adj)
+основывать/основать  - to found (+a)
+откладывать/отложить  - to put aside; postpone (+a)
 полоска  - strip
 поступок - action, act [not действие]
-разворачивать/развернуть
-(+a) to unfold; develop; expand
-разбирать/разобрать
-to take to pieces; make out, sort out, understand (+a)
+разворачивать/развернуть - (+a) to unfold; develop; expand
+разбирать/разобрать - to take to pieces; make out, sort out, understand (+a)
 раненый - wounded
-скорый - fast
 сосредоточивать/сосредоточить - (+a на +pr) to concentrate (sth on sth)
 сотрудник - employee, official, worker, colleague
 столетие - century
