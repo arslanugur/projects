@@ -2333,91 +2333,49 @@ to agree (c +inst) with, (на +a) to
 кое-что  - something, a thing or two
 выпуск  - output; issue
 грех  - sin
-дочка
-daughter (intimate form)
-изготовление
-production, manufacture, manufacturing
-полиция
-police [not милиция]
-великолепный
-magnificent
-исключительно- exclusively; exceptionally
-критика - criticism
+дочка - daughter (intimate form)
+изготовление - production, manufacture, manufacturing
+полиция - police [not милиция]
+великолепный - magnificent
+исключительно- exclusively; exceptionally - критика - criticism
 обращение (к +d) - appeal (to); (c +inst) treatment; circulation
-оттого
-for that reason, that is why
-плавать/по-
-to swim; sail
-поездка
-trip, journey
-грязный
-dirty
-пожилой
-elderly
-прочный
-firm, solid
-ружьё
-gun, rifle
-служащий
-office worker, white-collar worker
-рыжий
-red-haired
-растерянный
-perplexed, bewildered
-бродяга
-tramp, down-and-out
-справа
-on the right
-сахар
-sugar
-великан
-giant
-устройство
-organization; mechanism
-туча
-storm cloud
-утром
-in the morning
-благородный
-noble
-буря
-storm, gale
-вино
-wine
-возникать/возникнуть
-to arise
-молодец
-fine fellow; well done!
-вытаскивать/вытащить
-to drag out, pull out (from) (+a из +g)
-производить/произвести (+a)
-to produce
-гигантский
-giant (adj)
-жаловаться/по-
-to complain (about) (на +a)
-заменять/заменить
-to replace (sth with sth) (+a +inst)
-лично
-personally
-навсегда
-for ever
-батюшка
-father
-надевать/надеть
-to put on (clothing etc.) (+a)
-объяснять/объяснить (+a)
-to explain
-поворачивать/повернуть
-to turn (+a)
-стучать/по-
-to knock (at) (в +a)
-экспедиция
-expedition
-вооружённый
-armed
-гарантировать
-to guarantee (+a)
+оттого - for that reason, that is why
+плавать/по- - to swim; sail
+поездка - trip, journey
+грязный - dirty
+пожилой - elderly
+прочный - firm, solid
+ружьё - gun, rifle
+служащий - office worker, white-collar worker
+рыжий - red-haired
+растерянный - perplexed, bewildered
+бродяга - tramp, down-and-out
+справа - on the right
+сахар - sugar
+великан - giant
+устройство - organization; mechanism
+туча - storm cloud
+утром - in the morning
+благородный - noble
+буря - storm, gale
+вино - wine
+возникать/возникнуть - to arise
+молодец - fine fellow; well done!
+вытаскивать/вытащить - to drag out, pull out (from) (+a из +g)
+производить/произвести (+a) - to produce
+гигантский - giant (adj)
+жаловаться/по- - to complain (about) (на +a)
+заменять/заменить - to replace (sth with sth) (+a +inst)
+лично - personally
+навсегда - for ever
+батюшка - father
+надевать/надеть - to put on (clothing etc.) (+a)
+объяснять/объяснить (+a) - to explain
+поворачивать/повернуть - to turn (+a)
+стучать/по- - to knock (at) (в +a)
+экспедиция - expedition
+вооружённый - armed
+гарантировать - to guarantee (+a)
 жертва  - victim
 живо  - quickly; vividly
 животное  - animal
@@ -2754,64 +2712,37 @@ to take fright (at)
 махать/махнуть (+inst)  - to wave
 муха - fly
 негромко  - quietly, in a low voice
-непосредственный
-immediate, direct, spontaneous
-обижаться/обидеться
-to take offence
-обязанный
-obliged
-октябрьский
-October (adj)
-орать
-to howl, yell
-оценивать/оценить
-to evaluate, appreciate (+a)
-племя
-tribe
-поглощать/поглотить
-to swallow, absorb (+a)
-подготавливать/подготовить
-(+a) to prepare; make ready (for); train (for)
-подробно
-in detail
-потолок
-ceiling
-проводиться
-to be conducted, take place
-проклятый
-damned
-разрыв
-break, gap; shell-burst
-распространение
-spreading, dissemination
-самостоятельный
-independent [not независимый]
-складываться/сложиться
-to take shape; club together
-союзник
-ally
-страсть
-passion
-танк
-tank (mil)
-тарелка
-plate
-топливо
-fuel
-триста
-three hundred
-убеждать/убедить
-to convince; persuade (+a)
+непосредственный - immediate, direct, spontaneous
+обижаться/обидеться - to take offence
+обязанный - obliged
+октябрьский - October (adj)
+орать - to howl, yell
+оценивать/оценить - to evaluate, appreciate (+a)
+племя - tribe
+поглощать/поглотить - to swallow, absorb (+a)
+подготавливать/подготовить - (+a) to prepare; make ready (for); train (for)
+подробно - in detail
+потолок - ceiling
+проводиться - to be conducted, take place
+проклятый - damned
+разрыв - break, gap; shell-burst
+распространение - spreading, dissemination
+самостоятельный - independent [not независимый]
+складываться/сложиться - to take shape; club together
+союзник - ally
+страсть - passion
+танк - tank (mil)
+тарелка - plate
+топливо - fuel
+триста - three hundred
 удивление - surprise [not неожиданность]
 удобный  - comfortable; convenient
 холм  - hill
 четверть  - quarter
 больница - hospital
 восторг - delight
-выносить/вынести (+a)
-to carry out, take away; endure
-выскакивать/выскочить (из +g)
-to jump out (of)
+выносить/вынести (+a) - to carry out, take away; endure
+выскакивать/выскочить (из +g)- to jump out (of)
 горло - throat
 действительный - real, actual; valid
 доход - income
@@ -2880,13 +2811,18 @@ to commit to memory (+a)
 поэтический  - poetic
 преступление - crime
 
-пропадать/пропасть - to vanish, be lost, p: go missing
+**пропадать/пропасть - to vanish, be lost, p: go missing
+**убеждать/убедить - to convince; persuade (+a)
 ранний  - early (adj)
 отпуск  - leave (from work)
 бесполезный  - useless
 внизу  - below
 поздний - late
 скорый - fast
+никуда  - nowhere
+боль - pain
+воображение - imagination [not фантазия]
+закат - sunse - 
 
 размах  - scope, range, scale [not масштаб]
 расход - expenditure
@@ -2907,7 +2843,6 @@ to commit to memory (+a)
 направляться/направиться (к +d)  - to make for, head for
 напряжённый  - tense (adj)
 неправда  - untruth; untrue
-никуда  - nowhere
 обманывать/обмануть  - to deceive (+a)
 одинокий  - solitary
 осенний - autumn (adj)
@@ -2923,45 +2858,23 @@ to commit to memory (+a)
 столетие - century
 страдать/по-  - to suffer
 темно  - (it’s) dark
-удивляться/удивиться (+d)
-to be surprised (at)
-учительница
-teacher (f)
-финансовый
-financial
-чайник
-teapot; kettle
-экран
-screen
-бесцветный
-colourless
-биография
-biography
-блеск
-shine [noun]
-божий
-God’s (adj)
-боль
-pain
-верста
-verst (slightly over a kilometre)
-воображение
-imagination [not фантазия]
-вчерашний
-yesterday’s
-грозный
-threatening
-домик
-cottage [not изба]
-закат
-sunset
+удивляться/удивиться (+d) - to be surprised (at)
+учительница - teacher (f)
+финансовый - financial
+чайник - teapot; kettle
+экран - screen
+бесцветный - colourless
+биография - biography
+блеск - shine [noun]
+божий - God’s (adj)
+верста - verst (slightly over a kilometre)
+вчерашний - yesterday’s
+грозный - threatening
+домик - cottage [not изба]
 квартал - block (of buildings); quarter of year
-кукла
-doll
-летний
-summer (adj)
-ловить/поймать
-to catch (+a)
+кукла - doll
+летний - summer (adj)
+ловить/поймать - to catch (+a)
 модель  - model (of sth)
 называемый  - called
 нарочно  - deliberately
@@ -2974,110 +2887,58 @@ to catch (+a)
 целовать/по-  - to kiss (+a)
 превращать/превратить  - to convert, turn (into) (в +a)
 пуля  - bullet
-пьеса
-play (theatre)
-рубаха
-shirt
-руководить (+inst)
-to manage, supervise, lead
-сверкать
-to sparkle
-серебряный
-silver (adj)
-слушаться/по- (+g)
-to obey
-сорт
-grade, quality
-спасение
-salvation, rescue
-стиль
-style
-стимул
-stimulus
-строиться/по-
-to be built
-сумасшедший
-mad; madman
-то-то
-that’s it, that’s right
-угрожать (+d)
-to threaten (s.o.)
-умение
-ability
-фантастика
-fantastic, fantasy (noun)
-чтение
-reading (noun)
-верх
-top
-включать/включить
-to include; switch on (+a)
-внезапный
-sudden
-вслух
-aloud
-гордый
-proud
-горький
-bitter
-господство
-domination, supremacy
-делегат
-delegate
-дешёвый
-cheap
-длительный
-lengthy
-догонять/догнать
-to catch up (with) (+a)
-естественный
-natural [not природный]
-заяц
-hare
-коли
-if (coll)
-кора
-bark, rind, crust
-летать/по-
-to fly around
-лётчик
-pilot, airman
-луг
-meadow
-мгновение
-moment
-напротив
-opposite; on the contrary
-незнакомый
-unfamiliar
-нерв
-nerve
-публиковать/о-
-to publish (+a)
-отдыхать/отдохнуть
-to rest; have/take a holiday
-оценка
-assessment
-поэзия
-poetry
-предыдущий
-preceding
-приветствовать
-to greet (+a)
-применяться/примениться
-to be used; (к +d) adapt os (to)
-разрушение
-destruction
-ресурс
-resource
-ругаться
-to swear, curse
-сознательный
-(politically, socially) conscious; deliberate
-сравнивать/сравнить
-to compare (sth with sth) (+a с +inst)
-удовлетворение
-satisfaction
+пьеса - play (theatre)
+рубаха - shirt
+руководить (+inst) - to manage, supervise, lead
+сверкать - to sparkle
+серебряный - silver (adj)
+слушаться/по- (+g) - to obey
+сорт - grade, quality
+спасение - salvation, rescue
+стиль - style
+стимул - stimulus
+строиться/по- - to be built
+сумасшедший - mad; madman
+то-то - that’s it, that’s right
+угрожать (+d) - to threaten (s.o.)
+умение - ability
+фантастика - fantastic, fantasy (noun)
+чтение - reading (noun)
+верх - top
+включать/включить - to include; switch on (+a)
+внезапный - sudden
+вслух - aloud
+гордый - proud
+горький - bitter
+господство - domination, supremacy
+делегат - delegate
+дешёвый - cheap
+длительный - lengthy
+догонять/догнать - to catch up (with) (+a)
+естественный - natural [not природный]
+заяц - hare
+коли - if (coll)
+кора - bark, rind, crust
+летать/по- - to fly around
+лётчик - pilot, airman
+луг - meadow
+мгновение - moment
+напротив - opposite; on the contrary
+незнакомый - unfamiliar
+нерв - nerve
+публиковать/о- - to publish (+a)
+отдыхать/отдохнуть - to rest; have/take a holiday
+оценка - assessment
+поэзия - poetry
+предыдущий - preceding
+приветствовать - to greet (+a)
+применяться/примениться - to be used; (к +d) adapt os (to)
+разрушение - destruction
+ресурс - resource
+ругаться - to swear, curse
+сознательный - (politically, socially) conscious; deliberate
+сравнивать/сравнить - to compare (sth with sth) (+a с +inst)
+удовлетворение - satisfaction
 уничтожение - annihilation, destruction
 эй - Hey! (attracting attention)
 агрессор - aggressor
@@ -3115,18 +2976,9 @@ https://therussianblog.wordpress.com/2012/03/01/russian-swear-words/
 он был на работе - he was at work
 земля, воздух, море - land, air, sea
 только наличные - only cash
-Face лицо
-Arkasına geç
-Stand'a Uğra - bi anı yakala ve stokla sonrasında standa uğramalarını söyle rezervasyondan ziyade doğal olanı pazarla
-Diskolarda takıl
-Turcularla anlaş - mamma mia teknesi rehberle
-Bej süet ayakkabı yırtık siyah kot ve tshirt
-Kurallar güven sunar
-https://gist.github.com/oskarkv/c7aea99cbc2aeb5098ae/revisions
+
 
 уточнить - to clarify
-Kalabalıkta artizlik yapanın tenhada affı olmaz
-Belediye ihalesini banka kredisiyle fizibilitesini çıkarıp ortak bularak iş kurma fikri
 
 там не было телевизора - there was no tv
 там жило много людей - a lot of ppl lived there
@@ -3201,7 +3053,6 @@ yesterday temperature was minus 3 degrees
 вчера моя
 Tatil boyunca - во время..
 
-БОЕВОЕ
 ты умный парень, хорошее будущее себе создаёшь
 я в курсе - farkındayım/biliyorum/kursundayım bunun öğreniyorum duyuyorum başkalarından bu iltifatı
 восход солнца - sunrise
@@ -3304,7 +3155,7 @@ Give me your number to wake up - можно набирать мне свой н�
 гораздо лучше - much better
 тот самый случай - the same case..
 ——
-COOL
+
 у чёрта на куличиках - the middle of nowhere (god knows where)
 живёт у чёрта на куличиках. к нему не поеду
 He lives god know where, im not driving to him
@@ -3323,29 +3174,28 @@ He lives god know where, im not driving to him
 между тем, (при этом,) - at the same time,
 
 ——
-прогноз погоды- weather forecast
 ветер - wind
+великий новгород
+
+Proverbs
+Заруби себе на носу - remember never forget (mark on the wood with axe on the)
+
+Collocations
+наконец, мы совсем один - sonunda tamamen yalnızız
+прогноз погоды- weather forecast
 Не зли мне - dont piss me off
 Таких были - such people exist? Böyle insanlar var mı ki?
-великий новгород
-Proverbs
-Заруби себе на носу - remember never forget (mark on the wood with axe on the
+куда ты пропал - nereye kayboldun
 
-наконец, мы совсем один - sonunda tamamen yalnızız
-
-Так горячо
+так горячо
 Слижи у меня
-Я кончу их
-Ты такой вкусный
+я кончу их
+ты такой вкусный
 Кайф
-Так хорошо пахнешь, когда мокрая
-Трахни меня
-Трахает киску ещё сильнее
-Сжимает сиськи и сосет на них
+так хорошо пахнешь, когда мокрая
 Пися мокренькая очень мокренькая
 Скользить в несколько пальцев для меня
 я положу пальцы в твою киску и один медленно в твоей заднице
-Хочешь чтоб я тебя так трахнул
 чётко - true / очень чётко - really true
 
 Мой друг подошёл к девушке-my friend approached/came close to the girl
@@ -3390,12 +3240,8 @@ Proverbs
 мне тизер пора
 Сладкие губы твоего парня
 Привет! Очень рада тебя слышать. Настроение плохое - с мужем поругалась... Когда увидела твои сообщения лучше стало
-
-куда ты пропал - nereye kayboldun
-
 Лучше бы я хочу, услышать, что ты любишь меня, но нет - i wish, i could hear you love me
 Как это не знаю? Конечно получится!!! По другому и быть не может
-
 они все дышат. все они живы
 кто этот урод? - who is this guy?
 у него будет ребёнок - he will be father
@@ -3420,10 +3266,6 @@ doesnt matter you are loser, nerd or freak
 повторяйте за мной - repeat after me
 
 разойтись
-на фиг это - screw this/sikerler
-идём трахаться
-чертов ботан - u damn nerd
-черт! проклятье! блин!
 дай мне врезать ему
 закругляйтесь
 что ты натворил- what did u do
@@ -3684,7 +3526,6 @@ I was drinking a cup of water in the morning
 суббота (subbota) saturday sabbath/sebt
 воскресенье (vozkrisenya) sunday
 -воскрешение - resurrection/diriliş
-You
 
 первый,первое/второй/третий этаж
 сперва adv - first
@@ -9312,7 +9153,7 @@ To
 
 Отнюдь! Я знаю толк в хорошем виски. – Not at all! I know a lot about good whiskey.
 
-Посоветуйте, какое вино наилучшим образом подходит под этот стейк из говядины? – Please, could you recommend a good wine for this beef steak?
+Посоветуйте, какое вино наилучшим образом подходит под этот стейк из говядины? – Pls, could u recommend a good wine for this beef steak?
 
 У вас есть вегетарианские блюда? Что бы вы посоветовали? – Do you have vegetarian dishes? What would you suggest?
 
@@ -10064,6 +9905,15 @@ also ебать is like блять
 когда я вошёл, они ебались - when i came in, they were fucking/having sex
 ебанутый - fucking crazy
 чё ты сделал? ты ебанутый? - youre fucking crazy (crazy, bad, nonsense thing to do)
+на фиг это - screw this/sikerler
+идём трахаться
+чертов ботан - u damn nerd
+черт! проклятье! блин!
+Хочешь чтоб я тебя так трахнул
+трахни меня
+трахает киску ещё сильнее
+Сжимает сиськи и сосет на них
+
 
 RUSSIAN SUFFIXES
 -тель (m)/-тельница (f)
@@ -10190,44 +10040,27 @@ to wait (for)
 вовремя  - on time
 волновать/вз-  - to worry, excite, disturb (s.o.) (+a)
 всерьёз  - seriously
-вход
-entrance
-гроб
-coffin
-девка
-girl (coll)
-действующий
-functioning
-делегация
-delegation
-десятый
-tenth
-заметный
-noticeable
-заранее
-in advance [not вперёд]
-защитник
-defender
-звон
-ringing (noun)
-исполнять/исполнить (+a)
-to carry out, fulfil; perform
-какой-либо
-any, some
-кандидат
-candidate
+вход - entrance
+гроб - coffin
+девка - girl (coll)
+действующий - functioning
+делегация - delegation
+десятый - tenth
+заметный - noticeable
+заранее - in advance [not вперёд]
+защитник - defender
+звон - ringing (noun)
+исполнять/исполнить (+a) - to carry out, fulfil; perform
+какой-либо - any, some
+кандидат - candidate
 кирпич - brick
 куча - heap
 лидер - leader
 ложка - spoon
-любоваться/по-
-to admire (+inst or на +a)
-минувший
-past (adj)
-направо
-to the right
-невозможный
-impossible
+любоваться/по- - to admire (+inst or на +a)
+минувший - past (adj)
+направо - to the right
+невозможный - impossible
 ненависть - hate
 нитка - thread
 отражать/отразить  - to reflect; repulse (+a)
@@ -10252,72 +10085,39 @@ impossible
 стыдиться/по- (+g)  -  to be ashamed of
 удерживать/удержать  - to hold back, retain; hold onto; restrain (+a)
 сумка  - bag, handbag
-ценить (+a)
-to value
-сурово
-severely
-поднос
-tray
-поднятый
-raised [not повышенный]
-благодарный
-grateful
-воспитывать/воспитать
-to educate, bring up (+a)
-вспыхивать/вспыхнуть
-to blaze up, flare up
-в-третьих
-thirdly
-выгонять/выгнать
-to expel, drive out (+a)
-вытягивать/вытянуть
-to stretch out (+a)
-гений
-genius
-героический
-heroic
-зарабатывать/заработать
-to earn (+a)
-изволить
-to wish, desire; deign
-интересовать/за-
-to interest (+a)
-ишь
-look (drawing attention to sth) (coll)
-классический
-classical
-климат
-climate
-марш
-march
-медведь
-bear
-мрачный
-gloomy, baleful
-наполнять/наполнить
-to fill (+a)
-недавний
-recent
-неизбежно
-inevitably
-неподвижный
-motionless
-освещение
-illumination
-оттенок
-shade, nuance
-папка
-file, folder
-повышать/повысить
-to raise (+a)
-понадобиться
-to be necessary
-приступать/приступить (к +d)
-to get down to, start on
-продолжение
-continuation
-проявление
-manifestation, display
+ценить (+a) - to value
+сурово - severely
+поднос - tray
+поднятый - raised [not повышенный]
+благодарный - grateful
+воспитывать/воспитать - to educate, bring up (+a)
+вспыхивать/вспыхнуть - to blaze up, flare up
+в-третьих - thirdly
+выгонять/выгнать - to expel, drive out (+a)
+вытягивать/вытянуть - to stretch out (+a)
+гений - genius
+героический - heroic
+зарабатывать/заработать - to earn (+a)
+изволить - to wish, desire; deign
+интересовать/за- - to interest (+a)
+ишь - look (drawing attention to sth) (coll)
+классический - classical
+климат - climate
+марш - march
+медведь - bear
+мрачный - gloomy, baleful
+наполнять/наполнить - to fill (+a)
+недавний - recent
+неизбежно - inevitably
+неподвижный - motionless
+освещение - illumination
+оттенок - shade, nuance
+папка - file, folder
+повышать/повысить - to raise (+a)
+понадобиться - to be necessary
+приступать/приступить (к +d) - to get down to, start on
+продолжение - continuation
+проявление - manifestation, display
 публика - public [noun]
 будить/раз- - to wake, rouse (+a)
 разница - difference
@@ -10374,55 +10174,31 @@ manifestation, display
 узел  - knot; junction; bundle
 усмешка  - slight smile; sneer; smirk
 успешный  - successful
-учебный
-educational
-яблоко
-apple
-аккуратно
-thoroughly; tidily
-бедствие
-disaster [not катастрофа]
-ближний
-near
+учебный - educational
+яблоко - apple
+аккуратно - thoroughly; tidily
+бедствие - disaster [not катастрофа]
+ближний - near
 введение - introduction
-владеть/о- (+inst)
-to possess; have command of; master
-возрастать/возрасти
-to grow
-гаснуть/по-
-to go out, be extinguished, fade
-данные
-data; qualities
-девица
-girl
-отрывать/оторвать
-to tear off, tear away (+a от +g)
-дневник
-diary
-дружественный
-friendly
-заведующий (+inst)
-manager, head (of)
-исследователь
-researcher
-истинный
-true
-картинка
-picture, illustration
-когда-нибудь
-ever; some day
-коса
-plait; scythe
-кошка
-cat (f)
-кризис
-crisis
-кусочек
-small piece
-милиция
-police [not полиция]
-молния
-lightning
+владеть/о- (+inst) - to possess; have command of; master
+возрастать/возрасти - to grow
+гаснуть/по- - to go out, be extinguished, fade
+данные - data; qualities
+девица - girl
+отрывать/оторвать - to tear off, tear away (+a от +g)
+дневник - diary
+дружественный - friendly
+заведующий (+inst) - manager, head (of)
+исследователь - researcher
+истинный - true
+картинка - picture, illustration
+когда-нибудь - ever; some day
+коса - plait; scythe
+кошка - cat (f)
+кризис - crisis
+кусочек - small piece
+милиция - police [not полиция]
+молния - lightning
 мышь  - mouse
 намерение  - intention
 натура  - nature, character
@@ -10443,8 +10219,7 @@ lightning
 сладкий - sweet
 скука - boredom
 снежный - snow (adj), snowy
-сокращение
-reduction; abbreviation
+сокращение - reduction; abbreviation
 солдатский - soldier’s
 суббота  - Saturday
 таинственный  - mysterious [not загадочный]
@@ -10513,18 +10288,12 @@ to be determined, be defined
 бельё - linen
 берёза - birch
 бородатый - bearded
-ведущий
-leading; (as noun) presenter (of programme)
-визит
-official visit
-возмущение
-indignation
-возражать/возразить (против +g)
-to object (to)
-восклицать/воскликнуть
-to exclaim
-выделяться/выделиться (из +g)
-to stand out (from)
+ведущий - leading; (as noun) presenter (of programme)
+визит - official visit
+возмущение - indignation
+возражать/возразить (против +g) - to object (to)
+восклицать/воскликнуть - to exclaim
+выделяться/выделиться (из +g) - to stand out (from)
 выпадать/выпасть (из +g)  - to fall out (of)
 где-нибудь  - anywhere
 горшок  - pot
@@ -10611,112 +10380,59 @@ to turn away (from)
 красавица - beautiful woman
 ласковый - tender, affectionate
 тётка - aunt; (coll) woman
-минеральный
-mineral (adj)
-техник
-technician
-мягко
-softly
-тоненький
-slim
-недалеко
-not far
-облик
-look, appearance, image
-обломок
-fragment
-одеяло
-blanket
-опускаться/опуститься
-to lower os
-осколок
-splinter
-осуществлять/осуществить (+a)
-to carry out, accomplish, execute
-помирать/помереть
-to die (coll)
-поражение
-defeat
-праздничный
-festive
-предоставлять/предоставить
-to give, grant (sth to s.o.) (+a +d)
-пропускать/пропустить
-to let through; omit, miss (+a)
-разведка
-intelligence service; reconnaissance
-распространяться/распространиться
-to spread
-рубеж
-boundary
-сарай
-shed
-сиять
-to shine
-советовать/по- (+d)
-to advise (s.o.)
-современник
-contemporary (noun)
-сок
-juice
-соображать/сообразить
-to realize, work out, think out, understand
-сопровождать
-to accompany (+a)
-сохраняться/сохраниться
-to be preserved
-структура
-structure
-ступень
-step, rung; stage, level, grade
-стыд
-shame
-тайный
-secret (adj)
-угнетённый
-oppressed
-уснуть
-to fall asleep
-утренний
-morning (adj)
-философ
-philosopher
-холодно
-coldly; it’s cold
-аудитория
-auditorium
-базар
-bazaar, market
-бронзовый
-bronze (adj)
-валяться/по-
-to roll; lie about
-верёвка
-rope; string
-взволнованный
-anxious, agitated [not беспокойный]
-временный
-temporary
-выбрасывать/выбросить
-to throw out (+a)
-глупо
-stupidly
-долина
-valley
-дополнительный
-additional
-дуть/по-
-to blow
-жалкий
-pitiful
-зажигать/зажечь
-to set fire to (+a)
-засыпать/заснуть
-to fall asleep
-заставать/застать
-to find (a person) (+a)
-здороваться/по- (c +inst)
-to greet
+минеральный - mineral (adj)
+техник - technician
+мягко - softly
+тоненький - slim
+недалеко - not far
+облик - look, appearance, image
+обломок - fragment
+одеяло - blanket
+опускаться/опуститься - to lower os
+осколок - splinter
+осуществлять/осуществить (+a) - to carry out, accomplish, execute
+помирать/помереть - to die (coll)
+поражение - defeat
+праздничный - festive
+предоставлять/предоставить - to give, grant (sth to s.o.) (+a +d)
+пропускать/пропустить - to let through; omit, miss (+a)
+разведка - intelligence service; reconnaissance
+распространяться/распространиться - to spread
+рубеж - boundary
+сарай - shed
+сиять - to shine
+советовать/по- (+d) - to advise (s.o.)
+современник - contemporary (noun)
+сок - juice
+соображать/сообразить - to realize, work out, think out, understand
+сопровождать - to accompany (+a)
+сохраняться/сохраниться - to be preserved
+структура - structure
+ступень - step, rung; stage, level, grade
+стыд - shame
+тайный - secret (adj)
+угнетённый - oppressed
+уснуть - to fall asleep
+утренний - morning (adj)
+философ - philosopher
+холодно - coldly; it’s cold
+аудитория - auditorium
+базар - bazaar, market
+бронзовый - bronze (adj)
+валяться/по- - to roll; lie about
+верёвка - rope; string
+взволнованный - anxious, agitated [not беспокойный]
+временный - temporary
+выбрасывать/выбросить - to throw out (+a)
+глупо - stupidly
+долина - valley
+дополнительный - additional
+дуть/по- - to blow
+жалкий - pitiful
+зажигать/зажечь - to set fire to (+a)
+засыпать/заснуть - to fall asleep
+заставать/застать - to find (a person) (+a)
+здороваться/по- (c +inst) - to greet
 известие - piece of news
 искренний - sincere
 килограмм - kilogram
@@ -10740,60 +10456,33 @@ to greet
 роща  - small wood, copse
 случайный - chance (adj), fortuitous
 смело  - boldly
-смущённо
-with embarrassment
-создаваться/создаться
-to be created; arise
-сохранять/сохранить
-to keep, preserve (+a)
-спускаться/спуститься
-to go down, descend
-сумерки
-twilight, dusk
-тяжесть
-weight, burden [not бремя]
-увеличиваться/увеличиться
-to increase, be on the increase
-фашизм
-Fascism
-автомашина
-car, vehicle
-беспощадный
-merciless
-брак
-marriage; (no pl) defective product(s), reject(s)
-брошюра
-brochure
-бугор
-mound
-вечно
-eternally, always
-возить/по- (+a)
-to transport (around/there and back)
-вплоть (до +g)
-right up to (adv)
-выделять/выделить (+a)
-to pick out; allot, assign
-выезжать/выехать (из +g)
-to leave (by transport)
-вытирать/вытереть
-to wipe, wipe dry (+a)
-газетный
-newspaper (adj)
-топить/по- (+a)
-to stoke; heat; (p) sink (sth), drown (s.o.)
-голосовать/про-
-to vote (for/against) (за +a/против +g)
-трижды
-thrice, three times
-показание
-testimony; reading (on instrument)
-дуб
-oak
-жалоба
-complaint (about) (на +a)
-заболевать/заболеть
-to fall ill
+смущённо - with embarrassment
+создаваться/создаться - to be created; arise
+сохранять/сохранить - to keep, preserve (+a)
+спускаться/спуститься - to go down, descend
+сумерки - twilight, dusk
+тяжесть - weight, burden [not бремя]
+увеличиваться/увеличиться - to increase, be on the increase
+фашизм - Fascism
+автомашина - car, vehicle
+беспощадный - merciless
+брак - marriage; (no pl) defective product(s), reject(s)
+брошюра - brochure
+бугор - mound
+вечно - eternally, always
+возить/по- (+a) - to transport (around/there and back)
+вплоть (до +g) - right up to (adv)
+выделять/выделить (+a) - to pick out; allot, assign
+выезжать/выехать (из +g) - to leave (by transport)
+вытирать/вытереть - to wipe, wipe dry (+a)
+газетный - newspaper (adj)
+топить/по- (+a) - to stoke; heat; (p) sink (sth), drown (s.o.)
+голосовать/про- - to vote (for/against) (за +a/против +g)
+трижды - thrice, three times
+показание - testimony; reading (on instrument)
+дуб - oak
+жалоба - complaint (about) (на +a)
+заболевать/заболеть - to fall ill
 заводить/завести - to take somewhere; start (+a)
 катиться/по- - to roll
 книжный - book (adj); bookish
@@ -10850,22 +10539,14 @@ to fall ill
 доступный - accessible
 жарко  - hotly; it’s hot [not горячо]
 задумывать/задумать  - to think up; plan (+a)
-запрос
-official request
-издалека
-from a distance
-интересоваться/за- (+inst)
-to be interested in
-кадр
-frame; cadre
-кадры
-staff, personnel
-каковой
-which (official style)
-кивать/кивнуть (+inst)
-to nod
-китайский
-Chinese
+запрос - official request
+издалека - from a distance
+интересоваться/за- (+inst) - to be interested in
+кадр - frame; cadre
+кадры - staff, personnel
+каковой - which (official style)
+кивать/кивнуть (+inst) - to nod
+китайский - Chinese
 корм - fodder
 красиво  - beautifully, attractively
 кровавый - bloody
@@ -10904,258 +10585,137 @@ to rise; climb (coll)
 приниматься/приняться - to get down to, start work on (за +a)
 присущий (+d) - inherent (in)
 притом - besides, in addition
-проигрывать/проиграть
-to lose (a game, a bet) (+a)
-профессиональный
-professional (adj)
-растерянно
-in bewilderment
-реклама
-advertisement
-руководящий
-leading, guiding (adj)
-сжигать/сжечь
-to burn (+a)
-скамья
-bench
-скучный
-boring
-снизу
-from below
-собеседник
-interlocutor, the person one is talking to
-собор
-cathedral
-спинка
-back (of chair etc.)
-прятаться/с-
-to hide os
-стукать/стукнуть
-to knock, bang (+a)
-торопливо
-hastily
-тревожить/вс- (+a)
-to alarm; disturb
-убитый
-killed
-худой
-thin; bad
-чрезвычайный
-extreme; exceptional
-шагать/шагнуть
-to step, stride; take a step
+проигрывать/проиграть - to lose (a game, a bet) (+a)
+профессиональный - professional (adj)
+растерянно - in bewilderment
+реклама - advertisement
+руководящий - leading, guiding (adj)
+сжигать/сжечь - to burn (+a)
+скамья - bench
+скучный - boring
+снизу - from below
+собеседник - interlocutor, the person one is talking to
+собор - cathedral
+спинка - back (of chair etc.)
+прятаться/с- - to hide os
+стукать/стукнуть - to knock, bang (+a)
+торопливо - hastily
+тревожить/вс- (+a) - to alarm; disturb
+убитый - killed
+худой - thin; bad
+чрезвычайный - extreme; exceptional
+шагать/шагнуть - to step, stride; take a step
 якобы - allegedly
 ярость - rage
 аллея - avenue [not бульвар]
 баня - bath-house
-беспокойство
-agitation, anxiety
-беспорядок
-disorder, mess
-близ (+g)
-near
-бурый
-greyish-brown
-валить/с-
-to topple; heap up (+a)
-ведение
-conducting, conduct
-ведение
-authority, control
-величественный
-majestic
-вздумать (+inf)
-to decide suddenly (coll)
-вмешательство
-interference (in) (в +a)
-водный
-water (adj)
-возвращение
-return
-гриб
-mushroom
-гусь
-goose
-девятый
-ninth
-еда
-food
-жестоко
-cruelly
-животный
-animal (adj)
-забастовка
-strike (by workers)
-замок
-castle
-замок
-lock
-затылок
-back of the head
-идеал
-ideal (noun)
-ковёр
-carpet
-колоссальный
-colossal
-куда-то
-to some place, somewhere
-мощь
-power, might
-наивный
-naive
-налево
-to the left
-неведомый
-unknown [not неизвестный]
-неудобно
-uncomfortably, awkwardly; it’s awkward
-обман
-deceit, deception
-обходиться/обойтись
-to manage; treat; turn out
-обязывать/обязать
-to oblige s.o. to do sth (+a +inf)
-одерживать/одержать
-to obtain, gain (+a)
-освоение
-assimilation, mastery
-пение
-singing (noun)
-переживать/пережить
-(+a) to live through; experience; outlive; suffer
-печатать/на-
-to print (+a)
-пешком
-on foot
-планирование
-planning (noun)
-повар
-cook
-поделать
-to do (coll)
-познание
-knowledge, cognition
-полёт
-flight
-последствие
-consequence
-приблизительно
-approximately
-пригодиться
-to come in useful
-прогонять/прогнать
-to drive away; banish, throw out (+a)
+беспокойство - agitation, anxiety
+беспорядок - disorder, mess
+близ (+g) - near
+бурый - greyish-brown
+валить/с- - to topple; heap up (+a)
+ведение - conducting, conduct
+ведение - authority, control
+величественный - majestic
+вздумать (+inf) - to decide suddenly (coll)
+вмешательство - interference (in) (в +a)
+водный - water (adj)
+возвращение - return
+гриб - mushroom
+гусь - goose
+девятый - ninth
+еда - food
+жестоко - cruelly
+животный - animal (adj)
+забастовка - strike (by workers)
+замок - castle
+замок - lock
+затылок - back of the head
+идеал - ideal (noun)
+ковёр - carpet
+колоссальный - colossal
+куда-то - to some place, somewhere
+мощь - power, might
+наивный - naive
+налево - to the left
+неведомый - unknown [not неизвестный]
+неудобно - uncomfortably, awkwardly; it’s awkward
+обман - deceit, deception
+обходиться/обойтись - to manage; treat; turn out
+обязывать/обязать - to oblige s.o. to do sth (+a +inf)
+одерживать/одержать - to obtain, gain (+a)
+освоение - assimilation, mastery
+пение - singing (noun)
+переживать/пережить - (+a) to live through; experience; outlive; suffer
+печатать/на- - to print (+a)
+пешком - on foot
+планирование - planning (noun)
+повар - cook
+поделать - to do (coll)
+познание - knowledge, cognition
+полёт - flight
+последствие - consequence
+приблизительно - approximately
+пригодиться - to come in useful
+прогонять/прогнать - to drive away; banish, throw out (+a)
 просвещение - education; enlightenment
 проявляться/проявиться - to show itself, be revealed
 пустынный - desert (adj), deserted
 рана - wound
 расспрашивать/расспросить - to question (+a)
 рядовой - ordinary, rank and file; (as noun) private soldier
-свидетельствовать (о +pr)
-to show, be evidence (of)
-слепой
-blind
-поставка
-delivery
-трактор
-tractor
-удаляться/удалиться
-to move away, withdraw
-тушить/по-
-to extinguish (+a)
-штаб
-staff (mil); HQ
-борт
-side (of a ship)
-цех
-section of factory, shop
-порода
-kind, type, breed; rock (geological)
-германский
-Germanic
-орган
-organ (biol, political)
-орган
-organ (musical instrument)
-лаборатория
-laboratory
-казак
-Cossack
-металл
-metal
-прибор
-piece of apparatus, gadget, instrument
-обработка
-treatment, processing
-видимый
-visible, evident [not видно]
-эксплуатация
-exploitation
-колонна
-column
-рыбак
-fisherman
-производственный
-production (adj)
-полицейский
-police (adj); (adj used as noun) policeman
-завоевание
-conquest
-бригадир
-brigade leader; foreman
-показатель
-index, indicator
-часовой
-hour (adj); watch, clock (adj); (as noun) sentry
-слушатель
-listener
-слышный
-audible
-срочно
-urgently
-ссора
-quarrel
-стадия
-stage (of development)
-столкновение
-collision, clash
-ступенька
-step
-судно
-vessel, craft
-теряться/по-
-to get lost; lose one’s head
-увлечение
-enthusiasm; hobby
-удивлённо
-with surprise
-умственный
-mental, intellectual
-учитывать/учесть
-to take into account; take into consideration, bear in mind (+a)
-чей-то
-someone’s
-яма
-pit, hole
-бег
-running; race
-беспокоить/о- (+a)
-to worry (s.o.)
-бессмертный
-immortal
-веселье
-merriment
-взрывать/взорвать
-to blow up (+a)
-витрина
-shop-window; showcase
-внучка
-granddaughter
-внушать/внушить
-(+a +d) to instil, inspire (sth in s.o.), put sth in s.o.’s head
-возбуждать/возбудить
-to arouse (+a)
+свидетельствовать (о +pr) - to show, be evidence (of)
+слепой - blind
+поставка - delivery
+трактор - tractor
+удаляться/удалиться - to move away, withdraw
+тушить/по- - to extinguish (+a)
+штаб - staff (mil); HQ
+борт - side (of a ship)
+цех - section of factory, shop
+порода - kind, type, breed; rock (geological)
+германский- Germanic
+орган - organ (biol, political)
+орган - organ (musical instrument)
+лаборатория - laboratory
+казак - Cossack
+металл - metal
+прибор - piece of apparatus, gadget, instrument
+обработка - treatment, processing
+видимый - visible, evident [not видно]
+эксплуатация - exploitation
+колонна - column
+рыбак - fisherman
+производственный - production (adj)
+полицейский - police (adj); (adj used as noun) policeman
+завоевание - conquest
+бригадир - brigade leader; foreman
+показатель - index, indicator
+часовой - hour (adj); watch, clock (adj); (as noun) sentry
+слушатель - listener
+слышный - audible
+срочно - urgently
+ссора - quarrel
+стадия - stage (of development)
+столкновение - collision, clash
+ступенька - step
+судно - vessel, craft
+теряться/по- - to get lost; lose one’s head
+увлечение - enthusiasm; hobby
+удивлённо - with surprise
+умственный - mental, intellectual
+учитывать/учесть - to take into account; take into consideration, bear in mind (+a)
+чей-то - someone’s
+яма - pit, hole
+бег - running; race
+беспокоить/о- (+a) - to worry (s.o.)
+бессмертный - immortal
+веселье - merriment
+взрывать/взорвать - to blow up (+a)
+витрина - shop-window; showcase
+внучка - granddaughter
+внушать/внушить - (+a +d) to instil, inspire (sth in s.o.), put sth in s.o.’s head
+возбуждать/возбудить - to arouse (+a)
 воин - warrior
 гордиться (+inst) - to be proud of
 горько  - bitter(ly)
@@ -11164,8 +10724,6 @@ to arouse (+a)
 to fall to s.o.’s lot; (coll) catch it (be punished)
 дура  - idiot, stupid woman
 ежедневно  - every day
-
-
 
 
 кончаться/кончиться  - to end, come to an end
@@ -11223,109 +10781,58 @@ to fall to s.o.’s lot; (coll) catch it (be punished)
 патриотический  - patriotic
 передний  - front (adj)
 перерыв  - break, interval
-повторяться/повториться
-to be repeated
-поди
-probably (coll)
-подлец
-scoundrel
-подхватывать/подхватить
-to pick up, take up (+a)
-краснеть/по-
-to become red; blush, turn red
-поражать/поразить
-to strike; astonish; rout (+a)
-предполагать/предположить
-to suppose
-придавать/придать
-to impart, give (sth to sth) (+a +d)
-приезд
-arrival
-пробираться/пробраться
-to make one’s way through, force one’s way
-протест
-protest
-радоваться/об- (+d)
-to be glad (at), be pleased (about)
-радостный
-glad, joyful
-разноцветный
-many-coloured [not пёстрый]
-расстреливать/расстрелять
-to execute (by shooting) (+a)
-редактор
-editor
-рубить (+a)
-to chop
-сдавать/сдать
-(+a) to hand in, hand over; rent, let; surrender, give up; i: take (exam); p: pass (exam)
-уделять/уделить (+a +d)
-to allot, give
-очертание
-outline
-следствие
-consequence; investigation
-смущаться/смутиться
-to be embarrassed
-спускать/спустить
-to lower; release (+a)
-сухо
-drily
-телевидение
-television (medium)
-телевизионный
-television (adj)
-тревожно
-anxiously [not взволнованно]
-тяжкий
-heavy, serious
-увлекать/увлечь
-to carry away; fascinate, distract (+a)
-удобно
-comfortably; conveniently; it’s convenient
-уход
-departure; (за +inst) caring (for), maintenance (of)
-церковный
-church (adj)
-чудак
-eccentric person, crank
-экземпляр
-copy (of book etc.)
-юный
-young [not молодой]
-беспокойный
-anxious, agitated [not взволнованный]
-бинокль
-binoculars
-верхушка
-top; (coll) the bosses
-взаимоотношение
-interrelation
-восемьдесят
-eighty
-врезаться
-(в +a) to cut into, be engraved
-выгода
-advantage
-вырабатывать/выработать
-(+a) to produce; work out
-гладить/по-
-(+a) to stroke; iron
-городок
-small town
-гудок
-hooter, car horn; hooting
-договариваться/договориться (с +inst)
-to reach agreement (with)
-досада
-annoyance
-дьявол
-devil [not чёрт]
-жаркий
-hot [not горячий]
+повторяться/повториться - to be repeated
+поди - probably (coll)
+подлец - scoundrel
+подхватывать/подхватить - to pick up, take up (+a)
+краснеть/по- - to become red; blush, turn red
+поражать/поразить - to strike; astonish; rout (+a)
+предполагать/предположить - to suppose
+придавать/придать - to impart, give (sth to sth) (+a +d)
+приезд - arrival
+пробираться/пробраться - to make one’s way through, force one’s way
+протест - protest
+радоваться/об- (+d) - to be glad (at), be pleased (about)
+радостный - glad, joyful
+разноцветный - many-coloured [not пёстрый]
+расстреливать/расстрелять - to execute (by shooting) (+a)
+редактор - editor
+рубить (+a) - to chop
+сдавать/сдать - (+a) to hand in, hand over; rent, let; surrender, give up; i: take (exam); p: pass (exam)
+уделять/уделить (+a +d) - to allot, give
+очертание - outline
+следствие - consequence; investigation
+смущаться/смутиться - to be embarrassed
+спускать/спустить - to lower; release (+a)
+сухо - drily
+телевидение - television (medium)
+телевизионный - television (adj)
+тревожно - anxiously [not взволнованно]
+тяжкий - heavy, serious
+увлекать/увлечь - to carry away; fascinate, distract (+a)
+удобно - comfortably; conveniently; it’s convenient
+уход - departure; (за +inst) caring (for), maintenance (of)
+церковный - church (adj)
+чудак - eccentric person, crank
+экземпляр - copy (of book etc.)
+юный - young [not молодой]
+беспокойный - anxious, agitated [not взволнованный]
+бинокль - binoculars
+верхушка - top; (coll) the bosses
+взаимоотношение - interrelation
+восемьдесят - eighty
+врезаться - (в +a) to cut into, be engraved
+выгода - advantage
+вырабатывать/выработать - (+a) to produce; work out
+гладить/по- - (+a) to stroke; iron
+городок - small town
+гудок - hooter, car horn; hooting
+договариваться/договориться (с +inst) - to reach agreement (with)
+досада - annoyance
+дьявол - devil [not чёрт]
+жаркий - hot [not горячий]
 загадка - mystery; riddle
-загрязнение
-pollution
+загрязнение - pollution
 искра - spark
 искренне - sincerely
 исполнение - fulfilment; performance
@@ -11408,7 +10915,6 @@ pollution
 подробность – detail
 личность - personality; individual
 производительность - productivity
-
 гнездо - nest
 грузовик - lorry, truck
 дежурный - duty (adj); (as noun) person on duty
@@ -11664,7 +11170,6 @@ pollution
 грустно - sad(ly) [not печально]
 грустный - sad
 печально  - sad(ly) [not грустно]
-
 даваться/даться (+d) - to be given; come easily (to s.o.), be learnt easily
 дата - date
 дипломат - diplomat; attaché-case
@@ -12274,7 +11779,6 @@ to throw off; discard (+a)
 изложение  - exposition
 выявлять/выявить (+a) - to reveal, expose
 оголённый  - bare, exposed
-
 сев  - sowing (noun)
 разом  - at once, at one go; in a flash (coll)
 распространять/распространить  - to spread (+a)
@@ -13296,8 +12800,6 @@ to chance to, manage to, have occasion to (coll)
 переглядываться/переглянуться (с +inst)  - to exchange glances (with)
 перспективный  - promising, having prospects; long-term
 пирог  - pie
-
-
 питать/на-  - to feed (+a)
 повидать  - to see (coll) (+a)
 подаваться/податься - to move, shift; be served (of food)
@@ -13559,23 +13061,15 @@ to chance to, manage to, have occasion to (coll)
 систематический - systematic
 скрипка - violin
 словарь - dictionary
-служебный
-working
-смирный
-docile
-снаружи
-outside, from outside
-согласовывать/согласовать
-to coordinate (+a)
-соседка
-(female) neighbour
-соскучиться
-to get bored; (пo +d) miss
-спохватываться/спохватиться
-to remember suddenly (coll)
-спрашиваться
-to be asked
-срам - shame
+служебный - working
+смирный - docile
+снаружи - outside, from outside
+согласовывать/согласовать - to coordinate (+a)
+соседка - (female) neighbour
+соскучиться - to get bored; (пo +d) miss
+спохватываться/спохватиться - to remember suddenly (coll)
+спрашиваться - to be asked
+срам - sham - 
 стискивать/стиснуть - to squeeze (+a)
 сугубо  - especially; exclusively
 хвататься/схватиться  - (за +a) to seize; (c +inst) grapple with
@@ -13868,12 +13362,9 @@ to be asked
 ассамблея  - assembly
 багровый  - crimson
 барометр  - barometer
-барьер
-barrier 
-безнадёжный
-hopeless
-безымянный
-nameless
+барьер - barrier 
+безнадёжный - hopeless
+безымянный - nameless
 белорусский  - Belorussian
 береговой  - coastal
 беспартийный - without party affiliation, independent
@@ -13895,116 +13386,61 @@ nameless
 влезать/влезть  - to climb in
 внедрять/внедрить (+a в +a)  - to inculcate; introduce; put into practice
 воспитательный  - educational
-вращение
-rotation
-вспоминаться/вспомниться
-to be recalled, come to mind
-вторично
-secondarily
-вторичный
-second; secondary
-вцепляться/вцепиться (в +a)
-to grip, grip hold of
-вымывать/вымыть
-to wash (thoroughly) (+a)
-выходка
-bad behaviour, escapade
-гарантия
-guarantee
-гараж
-garage
-гласить
-to announce, say
-глушь
-backwoods, the sticks
-грядущий
-future (bookish)
-десант
-landing (mil, by air or sea)
-дефицитный
-scarce, in short supply
-директива
-directive
-днище
-bottom (of vessel)
-доезжать/доехать (до +g)
-to reach
-долой (+a)
-down with
-допрашивать/допросить
-to interrogate (+a)
-дорожить (+inst)
-to value
-дразнить
-to tease (+a)
-дремать
-to doze
-дружный
-amicable; simultaneous
-дуэль
-duel
-дымка
-haze
-дыра
-hole
-жильё
-accommodation
-забавно
-amusingly
-заблудиться
-to lose one’s way
-заваливать/завалить
-to block, cram (+a +inst)
-заинтересовываться/заинтересоваться (+inst)
-to become interested in
-запоминаться/запомниться
-to stick in one’s memory
-зарево
-glow
-затоплять/затопить
-to light (stove); flood, sink (+a)
-защитный
-protective
-звонко
-ringingly, clearly
-зеркальный
-mirror (adj)
-знаменательный
-significant
-значиться
-to be, figure
-золотистый
-golden
-избавлять/избавить
-to save (from) (+a от +g)
-извержение
-eruption
-извне
-from outside
-изменник
-traitor
-измерять/измерить (+a)
-to measure
-изнутри
-from inside
-изоляция
-isolation; insulation
-изумление
-amazement
-исполняться/исполниться
-to be fulfilled, be completed
-как-никак
-nevertheless, all the same (coll)
-кислый
-sour
-клоп
-bedbug
-клочок
-tuft, scrap
-кнут
-whip, knout
-колыхаться
-to sway; flutter
+вращение - rotation
+вспоминаться/вспомниться - to be recalled, come to mind
+вторично - secondarily
+вторичный - second; secondary
+вцепляться/вцепиться (в +a) - to grip, grip hold of
+вымывать/вымыть - to wash (thoroughly) (+a)
+выходка - bad behaviour, escapade
+гарантия - guarantee
+гараж - garage
+гласить - to announce, say
+глушь - backwoods, the sticks
+грядущий - future (bookish)
+десант - landing (mil, by air or sea)
+дефицитный - scarce, in short supply
+директива - directive
+днище - bottom (of vessel)
+доезжать/доехать (до +g) - to reach
+долой (+a) - down with
+допрашивать/допросить - to interrogate (+a)
+дорожить (+inst) - to value
+дразнить - to tease (+a)
+дремать - to doze
+дружный - amicable; simultaneous
+дуэль - duel
+дымка - haze
+дыра - hole
+жильё - accommodation
+забавно - amusingly
+заблудиться - to lose one’s way
+заваливать/завалить - to block, cram (+a +inst)
+заинтересовываться/заинтересоваться (+inst) - to become interested in
+запоминаться/запомниться - to stick in one’s memory
+зарево - glow
+затоплять/затопить - to light (stove); flood, sink (+a)
+защитный - protective
+звонко - ringingly, clearly
+зеркальный - mirror (adj)
+знаменательный - significant
+значиться - to be, figure
+золотистый - golden
+избавлять/избавить - to save (from) (+a от +g)
+извержение - eruption
+извне - from outside
+изменник - traitor
+измерять/измерить (+a) - to measure
+изнутри - from inside
+изоляция - isolation; insulation
+изумление - amazement
+исполняться/исполниться - to be fulfilled, be completed
+как-никак - nevertheless, all the same (coll)
+кислый - sour
+клоп - bedbug
+клочок - tuft, scrap
+кнут - whip, knout
+колыхаться - to sway; flutter
 командный  - command (adj), commanding
 косвенный   - oblique
 котёл  - boiler
@@ -14041,65 +13477,36 @@ to overtake, catch up (+a)
 нехороший  - bad
 нечистый  - unclean, impure
 неясно  - unclearly
-оборудовать
-to equip (+a)
-обряд
-rite, ceremony
-объявление
-announcement
-объятие
-embrace
-овладевать (+inst)
-to master; take possession of
-одалживать/одолжить
-to lend (sth to s.o.) (+a +d)
-оживляться/оживиться
-to become lively
-особняк
-detached house
-острота
-sharpness; witticism
-осуждение
-condemnation
-отвозить/отвезти (+a)
-to transport away
-отвлекать/отвлечь
-to distract (+a)
-отвращение
-disgust
+оборудовать - to equip (+a)
+обряд - rite, ceremony
+объявление - announcement
+объятие - embrace
+овладевать (+inst) - to master; take possession of
+одалживать/одолжить - to lend (sth to s.o.) (+a +d)
+оживляться/оживиться - to become lively
+особняк - detached house
+острота - sharpness; witticism
+осуждение - condemnation
+отвозить/отвезти (+a) - to transport away
+отвлекать/отвлечь - to distract (+a)
+отвращение - disgust
 отдача - return; performance, dedication (at work)
-откуда-то
-from somewhere
-отменять/отменить (+a)
-to abolish, cancel
-отсутствовать
-to be absent
-очищать/очистить
-to clean, purify (+a)
-парад
-parade
-парикмахерская
-hairdresser’s, barber’s
-перекидывать/перекинуть
-to throw over (+a через +a)
-плащ
-raincoat; cloak
-плести (+a)
-to weave
-повреждение
-damage
-поганый
-foul, vile
-погибший
-lost, ruined
-положено
-one is supposed to
-погружаться/погрузиться
-to immerse os (in sth) (в +a)
-поднятие
-raising
-подробный
-detailed
+откуда-то - from somewhere
+отменять/отменить (+a) - to abolish, cancel
+отсутствовать - to be absent
+очищать/очистить - to clean, purify (+a)
+парад - parade
+парикмахерская - hairdresser’s, barber’s
+перекидывать/перекинуть - to throw over (+a через +a)
+плащ - raincoat; cloak
+плести (+a) - to weave
+повреждение - damage
+поганый - foul, vile
+погибший - lost, ruined
+положено - one is supposed to
+погружаться/погрузиться - to immerse os (in sth) (в +a)
+поднятие - raising
+подробный - detailed
 подчёркиваться/подчеркнуться - to be emphasized
 позорный  - disgraceful
 покачивать/покачать - to rock (+a or +inst)
@@ -14123,181 +13530,94 @@ detailed
 притворяться/притвориться (+inst)  - to pretend (to be sth)
 притихать/притихнуть  - to quieten down
 пробиваться/пробиться  - to force one’s way through, fight one’s way through
-провал
-failure, collapse
-проводник
-guide, conductor
-продовольствие
-provisions
-промышленник
-industrialist
-проноситься/пронестись
-to rush through/past
-пропитывать/пропитать
-to feed; saturate (+a)
-шептать/про-
-to whisper
-прядь
-lock of hair
-пряник
-biscuit or cake with spices
-пулемётный
-machine-gun (adj)
-путаница
-confusion, mix-up
-пылающий
-flaming, blazing
-равномерно
-uniformly, evenly
-развалина
-ruin
-раздавать/раздать (+а)
-to distribute, give out
-раздвигать/раздвинуть
-to move apart (+a)
-раздражение
-irritation
-разлагаться/разложиться
-to decompose, disintegrate
-разумно
-sensibly
-рассеянно
-absent-mindedly
-расцвет
-bloom; flourishing
-расценивать/расценить (+а)
-to assess
-реализация
-implementation; sale
-резиновый
-rubber (adj)
-ремесло
-trade (profession)
-реплика
-rejoinder, retort
-родство
-kinship
-рожь
-rye
-роскошь
-luxury
-русый
-light brown (hair)
-ручаться/поручиться (за +а)
-to vouch for
-рывок
-jerk; spurt
-сваливать/свалить (+а)
-to throw down; pile up
-светло
-it’s light
-сетовать/по-
-to lament, complain (about) (о +pr/на +а)
-сжатый
-compressed
-скатываться/скатиться
-to roll down
-скверный
-lousy
-сколь
-so
-слон
-elephant
-смешивать/смешать (+а)
-to confuse, mix
-смущать/смутить
-to embarrass; disturb; trouble (+a)
-смущение
-embarrassment
-снежинка
-snowflake
-согревать/согреть
-to warm (+a)
-созидательный
-creative
-соотношение
-correlation
-сопка
-knoll, mound; volcano
-сопровождение
-accompaniment
-сосновый
-pine (adj)
-спотыкаться/споткнуться
-to trip, stumble (о +a)
-спуск
-descent; slope; release
-старина
-bygone times; (coll) old fellow
-старомодный
-old-fashioned
-стаскивать/стащить
-to drag off; (coll) pinch (+a)
-стойкий
-stable; steadfast
-столбик
-small column
-сторожевой
-watch, guard (adj)
-стоянка
-stop; parking
-трусить/с- (перед or +g)
-to be cowardly
-ездить/съ-
-to travel there and back
-таблетка
-pill
-тайно
-secretly
-таможенный
-customs (adj)
-твердить (+a)
-to repeat
-теплица
-hothouse
-травить
-to exterminate, poison; damage; hunt; persecute (+a)
-транспортный
-transport (adj)
-тропический
-tropical
-трофей
-trophy; booty
-тур
-round (sport)
+провал - failure, collapse
+проводник - guide, conductor
+продовольствие - provisions
+промышленник - industrialist
+проноситься/пронестись - to rush through/past
+пропитывать/пропитать - to feed; saturate (+a)
+шептать/про- - to whisper
+прядь - lock of hair
+пряник - biscuit or cake with spices
+пулемётный - machine-gun (adj)
+путаница - confusion, mix-up
+пылающий - flaming, blazing
+равномерно - uniformly, evenly
+развалина - ruin
+раздавать/раздать (+а) - to distribute, give out
+раздвигать/раздвинуть - to move apart (+a)
+раздражение - irritation
+разлагаться/разложиться - to decompose, disintegrate
+разумно - sensibly
+рассеянно - absent-mindedly
+расцвет - bloom; flourishing
+расценивать/расценить (+а) - to assess
+реализация - implementation; sale
+резиновый - rubber (adj)
+ремесло - trade (profession)
+реплика - rejoinder, retort
+родство - kinship
+рожь - rye
+роскошь - luxury
+русый - light brown (hair)
+ручаться/поручиться (за +а) - to vouch for
+рывок - jerk; spurt
+сваливать/свалить (+а) - to throw down; pile up
+светло - it’s light
+сетовать/по- - to lament, complain (about) (о +pr/на +а)
+сжатый - compressed
+скатываться/скатиться - to roll down
+скверный - lousy
+сколь - so
+слон - elephant
+смешивать/смешать (+а) - to confuse, mix
+смущать/смутить - to embarrass; disturb; trouble (+a)
+смущение - embarrassment
+снежинка - snowflake
+согревать/согреть - to warm (+a)
+созидательный - creative
+соотношение - correlation
+сопка - knoll, mound; volcano
+сопровождение - accompaniment
+сосновый - pine (adj)
+спотыкаться/споткнуться - to trip, stumble (о +a)
+спуск - descent; slope; release
+старина - bygone times; (coll) old fellow
+старомодный - old-fashioned
+стаскивать/стащить - to drag off; (coll) pinch (+a)
+стойкий - stable; steadfast
+столбик - small column
+сторожевой - watch, guard (adj)
+стоянка - stop; parking
+трусить/с- (перед or +g) - to be cowardly
+ездить/съ- - to travel there and back
+таблетка - pill
+тайно - secretly
+таможенный - customs (adj)
+твердить (+a) - to repeat
+теплица - hothouse
+травить - to exterminate, poison; damage; hunt; persecute (+a)
+транспортный - transport (adj)
+тропический - tropical
+трофей - trophy; booty
+тур - round (sport)
 
-туристский
-tourist (adj)
-тяга
-locomotion; (к +d) thirst for, attraction towards
-удалять/удалить
-to send away, remove (+a)
-удивлённый
-surprised
-указ
-decree
-умываться/умыться
-to wash os
-унижение
-humiliation
-упомянутый
-previously mentioned
-ураган
-hurricane
-формальный
-formal
-характерно
-characteristically
-хмурый
-gloomy
-храбрый
-brave
-цементный
-cement (adj)
-чаша
-cup; chalice
-черпать/черпнуть
-to scoop, draw (from) (+a из +g)
+туристский - tourist (adj)
+тяга - locomotion; (к +d) thirst for, attraction towards
+удалять/удалить - to send away, remove (+a)
+удивлённый - surprised
+указ - decree
+умываться/умыться - to wash os
+унижение - humiliation
+упомянутый - previously mentioned
+ураган - hurricane
+формальный - formal
+характерно - characteristically
+хмурый - gloomy
+храбрый - brave
+цементный - cement (adj)
+чаша - cup; chalice
+черпать/черпнуть - to scoop, draw (from) (+a из +g)
 четвёрка - four; group of four
 чугунный - cast-iron (adj)
 шанс - chance
@@ -14306,136 +13626,71 @@ to scoop, draw (from) (+a из +g)
 шибко - very (coll)
 шут - jester, clown
 щедро - generously
-щёлкать/щёлкнуть (+а)
-to flick; (+inst) click, crack, snap
-эгоизм
-egoism, selfishness
-энергично
-energetically
-энтузиаст
-enthusiast
-юмор
-humour
-юношеский
-youthful
-январский
-January (adj)
-амнистия
-amnesty
-асфальт
-asphalt
-аэропорт
-airport
-баловать/из-
-to spoil (s.o.) (+a)
-баррикада
-barricade
-барский
-lord’s, barin's
-безлюдный
-lacking people, unfrequented
-безразлично
-indifferently
-бесповоротно
-irreversibly
-беспредельный
-boundless, unlimited
-бесцеремонно
-unceremoniously
-благородство
-nobility
-блаженный
-blessed
-болтовня
-chatter, gossip (coll)
-бомбёжка
-bombardment (coll)
-брезгливо
-squeamishly
-бронза
-bronze
-бутылочка
-small bottle
-валун
-boulder
-варежка
-mitten
-веселиться/по-
-to make merry
-ветчина
-ham
-взаимно
-mutually
-виновато
-guiltily
-внешне
-outwardly
-возражение
-objection
-волжский
-Volga (adj)
-воровать/с-
-to steal (+a)
-ворочать
-(+a) to move (sth heavy); (+inst) have control of
-ворочаться
-to turn, toss and turn (coll)
-впадать/впасть
-to fall in/into (в +a)
-враз
-all together (coll)
-вручную
-by hand
-вставлять/вставить
-to insert (в +a)
-вступление
-introduction
-втроём
-as a threesome
-выносливый
-resilient
-высаживаться/высадиться
-to disembark, land
-высказываться/высказаться
-to speak out, state one’s opinion
-вычислять/вычислить (+a)
-to calculate
-гармонический
-harmonious
-гладко
-smoothly
-голубоватый
-light-bluish
-гуманный
-humane
-давным-давно
-ages ago (coll)
-дворянский
-gentry (adj)
-дёргать/дёрнуть
-to tug (+a)
-детектив
-detective story
-дико
-wildly; absurd
-добавка
-addition
-докатываться/докатиться (до +g)
-to roll to, come to
-домишко
-shack, hovel
-дополнительно
-additionally
-доставка
-delivery
-достойно
-worthily, properly
-дурацкий
-idiotic, stupid (coll)
-душно
-stuffy
-дымить
-to smoke
+щёлкать/щёлкнуть (+а) - to flick; (+inst) click, crack, snap
+эгоизм - egoism, selfishness
+энергично - energetically
+энтузиаст - enthusiast
+юмор - humour
+юношеский - youthful
+январский - January (adj)
+амнистия - amnesty
+асфальт - asphalt
+аэропорт - airport
+баловать/из- - to spoil (s.o.) (+a)
+баррикада - barricade
+барский - lord’s, barin's
+безлюдный - lacking people, unfrequented
+безразлично - indifferently
+бесповоротно - irreversibly
+беспредельный - boundless, unlimited
+бесцеремонно - unceremoniously
+благородство - nobility
+блаженный - blessed
+болтовня - chatter, gossip (coll)
+бомбёжка - bombardment (coll)
+брезгливо - squeamishly
+бронза - bronze
+бутылочка - small bottle
+валун - boulder
+варежка - mitten
+веселиться/по- - to make merry
+ветчина - ham
+взаимно - mutually
+виновато - guiltily
+внешне - outwardly
+возражение - objection
+волжский - Volga (adj)
+воровать/с- - to steal (+a)
+ворочать - (+a) to move (sth heavy); (+inst) have control of
+ворочаться - to turn, toss and turn (coll)
+впадать/впасть - to fall in/into (в +a)
+враз - all together (coll)
+вручную - by hand
+вставлять/вставить - to insert (в +a)
+вступление - introduction
+втроём - as a threesome
+выносливый - resilient
+высаживаться/высадиться - to disembark, land
+высказываться/высказаться - to speak out, state one’s opinion
+вычислять/вычислить (+a) - to calculate
+гармонический - harmonious
+гладко - smoothly
+голубоватый - light-bluish
+гуманный - humane
+давным-давно - ages ago (coll)
+дворянский - gentry (adj)
+дёргать/дёрнуть - to tug (+a)
+детектив - detective story
+дико - wildly; absurd
+добавка - addition
+докатываться/докатиться (до +g) - to roll to, come to
+домишко - shack, hovel
+дополнительно - additionally
+доставка - delivery
+достойно - worthily, properly
+дурацкий - idiotic, stupid (coll)
+душно - stuffy
+дымить - to smoke
 жаждать (+g)  - to thirst for
 забава  - amusement
 завеса - screen
@@ -14454,28 +13709,17 @@ to smoke
 иго  - yoke (oppression)
 игрушечный  - toy (adj); tiny
 идеальный  - ideal (adj)
-изобразительный
-graphic; decorative
-иронически
-ironically
-искренно
-sincerely
-истребитель
-fighter (plane)
-исходный
-initial
-каблук
-heel
-канава
-ditch
-кандидатура
-candidature
-капризный
-capricious
-кара
-punishment
-караулить
-(+a) to guard; lie in wait for
+изобразительный - graphic; decorative
+иронически - ironically
+искренно - sincerely
+истребитель - fighter (plane)
+исходный - initial
+каблук - heel
+канава - ditch
+кандидатура - candidature
+капризный - capricious
+кара - punishment
+караулить - (+a) to guard; lie in wait for
 категорически - categorically
 клок  - rag, shred, tuft
 конкретно - concretely, specifically
@@ -14504,244 +13748,125 @@ punishment
 миниатюрный  - miniature (adj)
 модный  - fashionable
 монастырь  - monastery; convent
-мускул
-muscle
-мучительно
-excruciatingly
-назло
-out of spite; (+d) to spite (s.o.)
-наименование
-designation, name
-напряжённо
-with strain, intensively
-нарушаться/нарушиться
-to be broken, be infringed
-наследник
-heir
-насчитывать (+а)
-to number, total
-невыносимый
-intolerable
-неизмеримо
-immeasurably
-ненадолго
-not for long
-неохота
-reluctance; (coll) (+d) to be unwilling
-неприятель
-enemy
-неторопливо
-unhurriedly
-неторопливый
-unhurried
-неуловимый
-elusive
-нехватка
-shortage (coll)
-нечаянно
-accidentally; unexpectedly
-новенький
-brand-new, nice and new
-носилки
-stretcher
-носовой
-nose (adj), nasal
-обилие
-abundance
-обобщать/обобщить (+а)
-to generalize
-обгонять/обогнать
-to overtake, outstrip (+a)
-обожать (+а)
-to adore
-обрез
-cut edge
-обхватывать/обхватить (+а)
-to encompass
-ограничение
-limitation
-однородный
-homogeneous, of one type
-одолевать/одолеть (+а)
-to overcome
-ожерелье
-necklace
-озарять/озарить
-to illuminate (+a)
-озорство
-naughtiness (coll)
-оккупация
-occupation
-округ
-okrug, region
-окурок
-cigarette end
-опровергать/опровергнуть
-to refute, disprove (+a)
-пустеть/о-
-to empty, become empty
-орёл
-eagle
-основательно
-solidly, soundly, thoroughly
-откидываться/откинуться
-to lean back
-отмахиваться/отмахнуться (от +g)
-to brush off
-отмена
-abolition, cancellation
-отметка
-note, mark
-отрабатывать/отработать
-to work off (debt etc.), work (shift etc.), finish working (+a)
-отставка
-retirement, resignation
-отход
-departure
-отчётливый
-clear, distinct
-парашют
-parachute
-парнишка
-lad (coll)
-педагог
-pedagogue, teacher
-переворачивать/перевернуть
-to turn over (+a)
-передвижение
-movement
-передразнивать/передразнить
-to mimic (+a)
-перемещаться/переместиться
-to move
-перемещение
-displacement, shifting
-перепутывать/перепутать
-to tangle, confuse (+a)
-пересматривать/пересмотреть
-to reconsider (+a)
-персонаж
-character
-персональный
-personal
-побеждённый
-defeated
-поблёскивать
-to gleam
-повестка
-notification
-повторный
-repeated
-повязка
-bandage
-погоня
-pursuit
-подвигаться/подвинуться
-to move; advance
-поджигать/поджечь
-to set fire to (+a)
-подол
-hem
-подрывать/подорвать
-to undermine (+a)
-подтверждение
-confirmation
-подтягивать/подтянуть
-to tighten; pull up (+a)
-позавчера
-the day before yesterday
-пола
-flap (of coat etc.)
-полено
-log
-ломать/по- (+а)
-to break
-полотно
-canvas (painting); linen
-полуостров
-peninsula
-порабощение
-enslavement
-посвистывать/посвистеть
-to whistle
-поселяться/поселиться
-to take up residence
-пособие
-financial assistance; textbook, educational aid
-постепенный
-gradual
-потрясать/потрясти
-to shake (+a)
-потрясающий
-staggering, astonishing
-похвала
-praise
-почтовый
-postal, mail (adj)
-править (+inst)
-to rule
-праздновать
-to celebrate (+a)
-предназначаться/предназначиться
-to be intended for (для +g or на +a)
-прекращать
-to stop, discontinue (+a)
-прибегать/прибежать
-to run up, come running
-приближение
-approach
-прибирать/прибрать
-to tidy up; (coll) take over, pocket (+a)
-привязываться/привязаться (к +d)
-to become attached to
-прилавок
-counter (in shop)
-примечательный
-noteworthy
-примиряться/примириться (с +inst)
-to be reconciled with
-припоминать/припомнить
-to remember, recall (+a)
-приставлять/приставить
-to place sth against sth (+a к +d)
-приставать/пристать (к +d)
-to stick to, adhere (to); pester
-провозглашать/провозгласить
-to proclaim (+a)
-проглатывать/проглотить
-to swallow (+a)
-продавец
-salesman, shop assistant
-продолжить (+a)
-to prolong
-проливать/пролить
-to spill (+a)
-молчать/про-
-to keep silent
-проскакивать/проскочить
-to rush past; slip through
-прославляться/прославиться
-to become famous
-просматривать/просмотреть
-to look over; overlook, look through (+a)
-просчёт
-miscalculation; counting
-противостоять (+d)
-to resist
-проход
-passage; passageway
-равномерный
-even, uniform
-равноправие
-equality
-разваливаться/развалиться
-to fall to pieces
-развёртывание
-unfolding; development
-развлечение
-entertainment
-раздражаться/раздражиться
-to become irritated
+мускул - muscle
+мучительно - excruciatingly
+назло - out of spite; (+d) to spite (s.o.)
+наименование - designation, name
+напряжённо - with strain, intensively
+нарушаться/нарушиться - to be broken, be infringed
+наследник - heir
+насчитывать (+а) - to number, total
+невыносимый - intolerable
+неизмеримо - immeasurably
+ненадолго - not for long
+неохота - reluctance; (coll) (+d) to be unwilling
+неприятель - enemy
+неторопливо - unhurriedly
+неторопливый - unhurried
+неуловимый - elusive
+нехватка - shortage (coll)
+нечаянно - accidentally; unexpectedly
+новенький - brand-new, nice and new
+носилки - stretcher
+носовой - nose (adj), nasal
+обилие - abundance
+обобщать/обобщить (+а) - to generalize
+обгонять/обогнать - to overtake, outstrip (+a)
+обожать (+а) - to adore
+обрез - cut edge
+обхватывать/обхватить (+а) - to encompass
+ограничение - limitation
+однородный - homogeneous, of one type
+одолевать/одолеть (+а) - to overcome
+ожерелье - necklace
+озарять/озарить - to illuminate (+a)
+озорство - naughtiness (coll)
+оккупация - occupation
+округ - okrug, region
+окурок - cigarette end
+опровергать/опровергнуть - to refute, disprove (+a)
+пустеть/о- - to empty, become empty
+орёл - eagle
+основательно - solidly, soundly, thoroughly
+откидываться/откинуться - to lean back
+отмахиваться/отмахнуться (от +g) - to brush off
+отмена - abolition, cancellation
+отметка - note, mark
+отрабатывать/отработать - to work off (debt etc.), work (shift etc.), finish working (+a)
+отставка - retirement, resignation
+отход - departure
+отчётливый - clear, distinct
+парашют - parachute
+парнишка - lad (coll)
+педагог - pedagogue, teacher
+переворачивать/перевернуть - to turn over (+a)
+передвижение - movement
+передразнивать/передразнить - to mimic (+a)
+перемещаться/переместиться - to move
+перемещение - displacement, shifting
+перепутывать/перепутать - to tangle, confuse (+a)
+пересматривать/пересмотреть - to reconsider (+a)
+персонаж - character
+персональный - personal
+побеждённый - defeated
+поблёскивать - to gleam
+повестка - notification
+повторный - repeated
+повязка - bandage
+погоня - pursuit
+подвигаться/подвинуться - to move; advance
+поджигать/поджечь - to set fire to (+a)
+подол - hem
+подрывать/подорвать - to undermine (+a)
+подтверждение - confirmation
+подтягивать/подтянуть - to tighten; pull up (+a)
+позавчера - the day before yesterday
+пола - flap (of coat etc.)
+полено - log
+ломать/по- (+а) - to break
+полотно - canvas (painting); linen
+полуостров - peninsula
+порабощение - enslavement
+посвистывать/посвистеть - to whistle
+поселяться/поселиться - to take up residence
+пособие - financial assistance; textbook, educational aid
+постепенный - gradual
+потрясать/потрясти - to shake (+a)
+потрясающий - staggering, astonishing
+похвала - praise
+почтовый - postal, mail (adj)
+править (+inst) - to rule
+праздновать - to celebrate (+a)
+предназначаться/предназначиться - to be intended for (для +g or на +a)
+прекращать - to stop, discontinue (+a)
+прибегать/прибежать - to run up, come running
+приближение - approach
+прибирать/прибрать - to tidy up; (coll) take over, pocket (+a)
+привязываться/привязаться (к +d) - to become attached to
+прилавок - counter (in shop)
+примечательный - noteworthy
+примиряться/примириться (с +inst) - to be reconciled with
+припоминать/припомнить - to remember, recall (+a)
+приставлять/приставить - to place sth against sth (+a к +d)
+приставать/пристать (к +d) - to stick to, adhere (to); pester
+провозглашать/провозгласить - to proclaim (+a)
+проглатывать/проглотить - to swallow (+a)
+продавец - salesman, shop assistant
+продолжить (+a) - to prolong
+проливать/пролить - to spill (+a)
+молчать/про- - to keep silent
+проскакивать/проскочить - to rush past; slip through
+прославляться/прославиться - to become famous
+просматривать/просмотреть - to look over; overlook, look through (+a)
+просчёт - miscalculation; counting
+противостоять (+d) - to resist
+проход - passage; passageway
+равномерный - even, uniform
+равноправие - equality
+разваливаться/развалиться - to fall to pieces
+развёртывание - unfolding; development
+развлечение - entertainment
+раздражаться/раздражиться - to become irritated
 раскол - split, schism
 расплачиваться/расплатиться - to settle up, pay
 распорядок  - routine
@@ -14749,34 +13874,20 @@ to become irritated
 рассеиваться/рассеяться  - to disperse; give os a break
 расстёгивать/расстегнуть  - to unfasten (+a)
 растить/вы-  - to grow, raise (+a)
-рвануться
-to dash
-редакционный
-editorial, editing
-репортаж
-reporting
-реставрация
-restoration
-родимый
-native; dear (= родной)
-румянец
-flush, rosy complexion
-рыть (+a)
-to dig
-свежесть
-freshness
-свержение
-overthrow
-своевременно
-in good time
-сдержанно
-with restraint
-сестрёнка
-little sister
-сигарета
-cigarette
-скачок
-leap
+рвануться - to dash
+редакционный - editorial, editing
+репортаж - reporting
+реставрация - restoration
+родимый - native; dear (= родной)
+румянец - flush, rosy complexion
+рыть (+a) - to dig
+свежесть - freshness
+свержение - overthrow
+своевременно - in good time
+сдержанно - with restraint
+сестрёнка - little sister
+сигарета - cigarette
+скачок - leap
 скверно - badly
 скрип - squeak, creak
 словесный - verbal
@@ -14792,104 +13903,55 @@ leap
 спасаться/спастись - to escape, save os
 спичечный  - match (adj)
 спящий  - sleeping
-среднеазиатский
-Central Asian
-средневековый
-medieval
-статься
-to happen (coll)
-стихать/стихнуть
-to abate, die down
-строгость
-strictness
-сумрак
-dusk
-суп
-soup
-сушёный
-dried
-сформулировать
-to formulate (+a)
-съёмка
-shooting (of film); surveying; taking away
-съезжать/съехать
-to drive down; (coll) slip
-сюрприз
-surprise
-таинственно
-mysteriously
-такт
-rhythm, time; tact
-телескоп
-telescope
-толпиться
-to crowd, throng
-тормозить/за-
-to slow down, impede; brake (+a)
-трезвый
-sober
-трон
-throne
-трос
-rope, cable
-тщеславие
-vanity
-убогий
-wretched
-углубление
-deepening; depression, hollow
-углубляться/углубиться
-to become deeper; (в +a) go deep into, become absorbed in
-удачно
-successfully
-улетать/улететь
-to fly away
-уменьшать/уменьшить
-to reduce (sg) (+a)
-уста
-mouth; lips (poetic)
-условный
-conventional; conditional; tentative
-усталость
-tiredness
-уткнуться (в +a)
-to bury os in; bump into
-фигурка
-small figure; figurine
-форточка
-ventilation window
-фыркать/фыркнуть
-to snort
-хлам
-junk
-хорошенький
-pretty
-худощавый
-thin
-цвести/рас-
-to flower, flourish
-цветочный
-flower (adj)
-цельный
-entire
-цыплёнок
-chicken
-цыпочки
-tiptoes
-чек
-cheque; receipt
-череп
-skull
-чудиться/по- (+d)
-to seem, imagine (coll)
-чулок
-stocking
-чуть-чуть
-a little bit, just a little (coll)
-шарить/по-
-to grope, fumble (в +pr)
-шелест
-rustling
+среднеазиатский - Central Asian
+средневековый - medieval
+статься - to happen (coll)
+стихать/стихнуть - to abate, die down
+строгость - strictness
+сумрак - dusk
+суп - soup
+сушёный - dried
+сформулировать - to formulate (+a)
+съёмка - shooting (of film); surveying; taking away
+съезжать/съехать - to drive down; (coll) slip
+сюрприз - surprise
+таинственно - mysteriously
+такт - rhythm, time; tact
+телескоп - telescope
+толпиться - to crowd, throng
+тормозить/за- - to slow down, impede; brake (+a)
+трезвый - sober
+трон - throne
+трос - rope, cable
+тщеславие - vanity
+убогий - wretched
+углубление - deepening; depression, hollow
+углубляться/углубиться - to become deeper; (в +a) go deep into, become absorbed in
+удачно - successfully
+улетать/улететь - to fly away
+уменьшать/уменьшить - to reduce (sg) (+a)
+уста - mouth; lips (poetic)
+условный - conventional; conditional; tentative
+усталость - tiredness
+уткнуться (в +a) - to bury os in; bump into
+фигурка - small figure; figurine
+форточка - ventilation window
+фыркать/фыркнуть - to snort
+хлам - junk
+хорошенький - pretty
+худощавый - thin
+цвести/рас- - to flower, flourish
+цветочный - flower (adj)
+цельный - entire
+цыплёнок - chicken
+цыпочки - tiptoes
+чек - cheque; receipt
+череп - skull
+чудиться/по- (+d) - to seem, imagine (coll)
+чулок - stocking
+чуть-чуть - a little bit, just a little (coll)
+шарить/по- - to grope, fumble (в +pr)
+шелест - rustling
 штамп  - stamp, punch; cliche
 штраф - fine
 штурм  - storm, assault
@@ -14934,18 +13996,12 @@ rustling
 взаимопомощь  - mutual assistance
 взлетать/взлететь  - to fly up
 визжать  - to scream; squeal
-виноград
-grapes
-водоём
-reservoir
-возводить/возвести (+a)
-to raise
-возвращать/возвратить
-to return (+a)
-возвышаться/возвыситься
-to rise
-возмездие
-retribution
+виноград - grapes
+водоём - reservoir
+возводить/возвести (+a) - to raise
+возвращать/возвратить - to return (+a)
+возвышаться/возвыситься - to rise
+возмездие - retribution
 вой  - howl; wailing
 волосатый  - hairy
 восторженно  - enthusiastically
@@ -15424,36 +14480,21 @@ retribution
 неслышно  - inaudible; inaudibly
 неутомимый  - tireless
 нырять/нырнуть  - to dive
-обдумывать/обдумать
-to consider, ponder, think over (+a)
-оберегать/оберечь
-to protect (s.o. from sth) (+a от +g)
-обиход
-use; custom, practice
-облачный
-cloudy
-обливать/облить
-to pour sth (inst) over sth (+a +inst)
-обложка
-cover (of book etc.)
-обнажённый
-naked
-обобщение
-generalization
-образцовый
-model, exemplary
-обрушиваться/обрушиться
-to collapse, cave in; (на +a) fall upon, attack (s.o. or sth)
-одновременный
-simultaneous
-оживлённый
-animated, excited
-окрестный
-surrounding
-опаска
-caution (coll)
-опровержение
-refutation
+обдумывать/обдумать - to consider, ponder, think over (+a)
+оберегать/оберечь - to protect (s.o. from sth) (+a от +g)
+обиход - use; custom, practice
+облачный - cloudy
+обливать/облить - to pour sth (inst) over sth (+a +inst)
+обложка - cover (of book etc.)
+обнажённый - naked
+обобщение - generalization
+образцовый - model, exemplary
+обрушиваться/обрушиться - to collapse, cave in; (на +a) fall upon, attack (s.o. or sth)
+одновременный - simultaneous
+оживлённый - animated, excited
+окрестный - surrounding
+опаска - caution (coll)
+опровержение - refutation
 опущенный  - lowered
 освободительный - liberation (adj)
 осложнение - complication
@@ -15511,26 +14552,16 @@ periodic, recurrent
 понедельник - Monday
 пить/по- - to have a drink
 порочный - vicious; defective
-поспевать/поспеть
-to be in time for; ripen (coll), be on time; keep up with (к +d/нa +a)
-посредство
-mediation
-посыпаться
-to pour down
-по-твоему
-in your opinion; as you want it
-потирать/потереть
-to rub (+a)
-тревожить/по- (+a)
-to trouble
-поучать (+a)
-to lecture (s.o.)
-щадить/по-
-to spare (+a)
-преграда
-obstacle
-предисловие
-foreword
+поспевать/поспеть - to be in time for; ripen (coll), be on time; keep up with (к +d/нa +a)
+посредство - mediation
+посыпаться - to pour down
+по-твоему - in your opinion; as you want it
+потирать/потереть - to rub (+a)
+тревожить/по- (+a) - to trouble
+поучать (+a) - to lecture (s.o.)
+щадить/по- - to spare (+a)
+преграда - obstacle
+предисловие - foreword
 предотвращение - prevention
 предшествовать (+d)  - to precede
 пренебрегать/пренебречь (+inst)  - to scorn (s.o. or sth)
@@ -15543,66 +14574,36 @@ foreword
 присваивать/присвоить  - (+a) to take over, appropriate; award, confer (sth on s.o.)
 присматривать/присмотреть (за +inst)
 to look after, supervise
-пристальный
-fixed, constant
-присутствующий
-present, (as noun) person present
-приучать/приучить (+inf or к +d)
-to train (to do sth)
-причёска
-hairstyle
-причудливый
-odd, whimsical
-проповедовать
-to preach; advocate (+a)
-прорываться/прорваться
-to break through; tear
-прорезывать/прорезать
-to cut through (+a)
-просвечивать
-to be translucent; shine through
-прославлять/прославить
-to make famous (+a)
-простаивать/простоять
-to stand idle
-простыня
-sheet (bedding)
-протокол
-protocol; minutes (of meeting)
-процедура
-procedure
-птичка
-small bird; tick
-пульс
-pulse
-пускай
-let (= пусть) (coll)
-пустырь
-waste ground
-пылать
-to blaze
-радикальный
-radical
-радужный
-iridescent; radiant
-разбег
-run
-разбой
-banditry
-разбойничий
-robber’s, brigand’s
-разводиться/развестись
-to get divorced; breed
-раздражённо
-with irritation, crossly
-разлетаться/разлететься
-to fly apart; scatter, shatter
-размещаться/разместиться
-to be seated, placed, accommodated, take one’s place
-разновидность
-variety, type
-разрываться/разорваться
-to break; explode
+пристальный - fixed, constant
+присутствующий - present, (as noun) person present
+приучать/приучить (+inf or к +d) - to train (to do sth)
+причёска - hairstyle
+причудливый - odd, whimsical
+проповедовать - to preach; advocate (+a)
+прорываться/прорваться - to break through; tear
+прорезывать/прорезать - to cut through (+a)
+просвечивать - to be translucent; shine through
+прославлять/прославить - to make famous (+a)
+простаивать/простоять - to stand idle
+простыня - sheet (bedding)
+протокол - protocol; minutes (of meeting)
+процедура - procedure
+птичка - small bird; tick
+пульс - pulse
+пускай - let (= пусть) (coll)
+пустырь - waste ground
+пылать - to blaze
+радикальный - radical
+радужный - iridescent; radiant
+разбег - run
+разбой - banditry
+разбойничий - robber’s, brigand’s
+разводиться/развестись - to get divorced; breed
+раздражённо - with irritation, crossly
+разлетаться/разлететься - to fly apart; scatter, shatter
+размещаться/разместиться - to be seated, placed, accommodated, take one’s place
+разновидность - variety, type
+разрываться/разорваться - to break; explode
 разоряться/разориться - to be ruined, bankrupt
 раса - race (ethnic)
 раскаиваться/раскаяться  - to repent (of sth) (в +pr)
@@ -15611,48 +14612,27 @@ to break; explode
 расцветать/расцвести  -  to blossom, bloom
 реализм  - realism
 регулярно  - regularly
-регулярный
-regular
-ремонтировать
-to repair, redecorate (+a)
-ржавый
-rusty
-робеть/о-
-to be timid
-розыгрыш
-(lottery) draw; practical joke
-роковой
-fateful
-роскошный
-luxurious
-рослый
-tall, strapping
-рыться/по-
-to dig, rummage (in) (в +pr)
-самоотверженный
-self-sacrificing
-санитарный
-medical, sanitary
-седина
-grey hair
-секретный
-secret (adj)
-секция
-section
-семьсот
-seven hundred
-сессия
-session; examinations
-склонять/склонить (+a)
-to bend, bow
-слияние
-confluence; merging
-сложно
-complicated(ly)
-мешать/с-
-to mix (+a)
-смешиваться/смешаться
-to mix, mingle; get mixed up
+регулярный - regular
+ремонтировать - to repair, redecorate (+a)
+ржавый - rusty
+робеть/о- - to be timid
+розыгрыш - (lottery) draw; practical joke
+роковой - fateful
+роскошный - luxurious
+рослый - tall, strapping
+рыться/по- - to dig, rummage (in) (в +pr)
+самоотверженный - self-sacrificing
+санитарный - medical, sanitary
+седина - grey hair
+секретный - secret (adj)
+секция - section
+семьсот - seven hundred
+сессия - session; examinations
+склонять/склонить (+a) - to bend, bow
+слияние - confluence; merging
+сложно - complicated(ly)
+мешать/с- - to mix (+a)
+смешиваться/смешаться - to mix, mingle; get mixed up
 смола  - tar, pitch
 смущённый  - embarrassed
 собранный  - disciplined; precise
@@ -15827,22 +14807,14 @@ to concentrate (on) (на +pr)
 делец  - wheeler-dealer
 дерзость  - rudeness; audacity
 доброта  - goodness, kindness
-доисторический
-prehistoric
-документальный
-documentary (adj)
-домна
-blast furnace
-досадно
-annoying
-достоверность
-authenticity, reliability
-драть/со-
-to tear; thrash; fleece (coll) (+a)
-дубовый
-oak (adj)
-дурить
-to be naughty, fool about (coll)
+доисторический - prehistoric
+документальный - documentary (adj)
+домна - blast furnace
+досадно - annoying
+достоверность - authenticity, reliability
+драть/со- - to tear; thrash; fleece (coll) (+a)
+дубовый - oak (adj)
+дурить - to be naughty, fool about (coll)
 дымный - smoky
 дымчатый - smoke-coloured
 дьякон  - deacon
@@ -15868,230 +14840,118 @@ to be naughty, fool about (coll)
 заливаться/залиться  - to be flooded; (+inst) start to do sth vigorously
 маскировать/за-
 to disguise, camouflage (+a)
-западня
-trap
-зараза
-infection; (coll) pest
-заражать/заразить
-to infect (s.o. with sth) (+a +inst)
-резать/за-
-to kill (+a)
-заслонять/заслонить
-to shield, conceal, screen (+a)
-обнадёживать/обнадёжить
-to give hope (to), reassure (+a)
-затворять/затворить
-to close (+a)
-затериваться/затеряться
-to go missing, be mislaid; vanish (coll)
-захлопывать/захлопнуть
-to bang, slam (+a)
-защищаться/защититься
-to defend os; defend one’s thesis (for a higher degree)
-зевать/зевнуть
-to yawn
-земледельческий
-agricultural
-злодей
-villain
-зорко
-sharp-sightedly, vigilantly
-зять
-son-in-law; brother-in-law
-идеализм
-idealism
-издаваться/издаться
-to be published
-издавна
-since long ago
-издательский
-publishing (adj)
-изумлённо
-with amazement
-буржуазия
-bourgeoisie
-классовый
-class (political) (adj)
-алмаз
-(uncut) diamond
-сосуд
-vessel
-монополия
-monopoly
-пятилетка
-five-year plan
-чайка
-seagull
-кислота
-acid; acidity
-консул
-consul
-австриец
-Austrian (noun)
-австрийский
-Austrian (adj)
-окорок
-ham, gammon
-майор
-major
-всесоюзный
-all-union (relating to all the republics of the USSR)
-углерод
-carbon
-управляющий (+inst)
-manager
-колониальный
-colonial
-красноармеец
-Red Army soldier
-шарф
-scarf
-волосок
-(a) hair
-специализированный
-specialized
-эксперт
-expert
-араб
-Arab
-беженец
-refugee
-вахта
-watch (on ship); special work shift
-трест
-trust; group of companies
-хоккеист
-hockey player
-всадник
-horseman
-вычислительный
-calculating, computing
-гипс
-plaster (of Paris)
-общаться (с +inst)
-associate, socialize (with)
-заготовка
-state order (for goods); stocking up
-монархия
-monarchy
-нравственность
-morality
-длительность
-duration
-мишень
-target
-зарплата (заработная плата)
-pay, wages, salary
-трасса
-route, course (of road etc.)
-казачий
-Cossack (adj)
-кухарка
-cook (f)
-облигация
-bond
-вальс
-waltz
-кормовой
-stem (of ship - adj); fodder (adj)
-астроном
-astronomer
-воззрение
-opinion, outlook
-кодекс
-code, codex
-эфир
-air (broadcasting); ether
-зола
-ashes, cinders
-китель
-military jacket, high-necked tunic
-концентрация
-concentration
-обождать
-to wait (coll) (+a)
-превосходительство
-excellency (title)
-буржуй
-bourgeois (noun) (coll)
-идейный
-ideological; containing ideas; progressive; high-principled
-электронный
-electronic
-буксир
-tugboat; tow-rope
-лакей
-lackey; servant
-пропуск
-pass, permit; blank, gap
-осадок
-sediment; deposition; after-taste
-растительный
-vegetable (adj)
-ячейка
-cell
-артиллерист
-gunner
-сосуществование
-coexistence
-озимый
-winter of crops
-поручик
-lieutenant (tsarist army)
-горничная
-maid (servant)
-терраса
-terrace
-вселенная
-universe
-люк
-hatch, hatchway, manhole
-скептик
-sceptic
-светящийся
-luminous
-хрусталь
-crystal, cut glass
-плуг
-plough
-частушка
-chastushka, witty rhyme
-ширма
-screen
-союзный
-allied; of the USSR
-спекулянт
-speculator
-тренер
-trainer, coach
-брусок
-bar, ingot
-гранит
-granite
-кролик
-rabbit
-монументальный
-monumental
-водород
-hydrogen
-очко
-point (in scoring); (pl) glasses, spectacles
-рудник
-mine (for minerals)
-футбол
-football
-хутор
-farm; Ukrainian hamlet
-потребление
-consumption
-республиканский
-republican
-кратер
-crater
-атмосферный
-atmospheric
-световой
-light (adj, as in ‘light year’)
+западня - trap
+зараза - infection; (coll) pest
+заражать/заразить - to infect (s.o. with sth) (+a +inst)
+резать/за- - to kill (+a)
+заслонять/заслонить - to shield, conceal, screen (+a)
+обнадёживать/обнадёжить - to give hope (to), reassure (+a)
+затворять/затворить - to close (+a)
+затериваться/затеряться - to go missing, be mislaid; vanish (coll)
+захлопывать/захлопнуть - to bang, slam (+a)
+защищаться/защититься - to defend os; defend one’s thesis (for a higher degree)
+зевать/зевнуть - to yawn
+земледельческий - agricultural
+злодей - villain
+зорко - sharp-sightedly, vigilantly
+зять - son-in-law; brother-in-law
+идеализм - idealism
+издаваться/издаться - to be published
+** издавна - since long ago
+издательский - publishing (adj)
+изумлённо - with amazement
+буржуазия - bourgeoisie
+классовый - class (political) (adj)
+алмаз - (uncut) diamond
+сосуд - vessel
+монополия - monopoly
+пятилетка - five-year plan
+чайка - seagull
+кислота - acid; acidity
+консул - consul
+австриец - Austrian (noun)
+австрийский - Austrian (adj)
+окорок - ham, gammon
+майор - major
+всесоюзный - all-union (relating to all the republics of the USSR)
+углерод - carbon
+управляющий (+inst) - manager
+колониальный - colonial
+красноармеец - Red Army soldier
+шарф - scarf
+волосок - (a) hair
+специализированный - specialized
+эксперт - expert
+араб - Arab
+беженец - refugee
+вахта - watch (on ship); special work shift
+трест - trust; group of companies
+хоккеист - hockey player
+всадник - horseman
+вычислительный - calculating, computing
+гипс - plaster (of Paris)
+общаться (с +inst) - associate, socialize (with)
+заготовка - state order (for goods); stocking up
+монархия - monarchy
+нравственность - morality
+длительность - duration
+мишень - target
+** зарплата (заработная плата) - pay, wages, salary
+трасса - route, course (of road etc.)
+казачий - Cossack (adj)
+кухарка - cook (f)
+облигация - bond
+вальс - waltz
+кормовой - stem (of ship - adj); fodder (adj)
+астроном - astronomer
+воззрение - opinion, outlook
+кодекс - code, codex
+эфир - air (broadcasting); ether
+зола - ashes, cinders
+китель - military jacket, high-necked tunic
+концентрация - concentration
+обождать - to wait (coll) (+a)
+превосходительство - excellency (title)
+буржуй - bourgeois (noun) (coll)
+идейный - ideological; containing ideas; progressive; high-principled
+электронный - electronic
+буксир - tugboat; tow-rope
+лакей - lackey; servant
+пропуск - pass, permit; blank, gap
+осадок - sediment; deposition; after-taste
+растительный - vegetable (adj)
+ячейка - cell
+артиллерист - gunner
+сосуществование - coexistence
+озимый - winter of crops
+поручик - lieutenant (tsarist army)
+горничная - maid (servant)
+терраса - terrace
+вселенная - universe
+люк - hatch, hatchway, manhole
+скептик - sceptic
+светящийся - luminous
+хрусталь - crystal, cut glass
+плуг - plough
+частушка - chastushka, witty rhyme
+ширма - screen
+союзный - allied; of the USSR
+спекулянт - speculator
+тренер - trainer, coach
+брусок - bar, ingot
+гранит - granite
+кролик - rabbit
+монументальный - monumental
+водород - hydrogen
+очко - point (in scoring); (pl) glasses, spectacles
+рудник - mine (for minerals)
+футбол - football
+хутор - farm; Ukrainian hamlet
+потребление - consumption
+республиканский - republican
+кратер - crater
+атмосферный - atmospheric
+световой - light (adj, as in ‘light year’)
 станица - Cossack village
 руда  - ore
 бабка  - grandmother; old woman (coll)
@@ -16164,94 +15024,50 @@ light (adj, as in ‘light year’)
 десятина - desiatina (about a hectare)
 козырёк - peak (of cap)
 субъективный - subjective
-вожжа
-rein
-гамма
-scale; gamut, range
-карниз
-cornice; ledge
-древесина
-timber
-опрос
-survey; questioning
-католический
-Catholic (adj)
-комета
-comet
-литератор
-literary man, man of letters
-перевозка
-transportation
-подвижный
-mobile, agile
-проектный
-planning (adj); projected
-раковина
-(sea)shell; sink, wash-basin
-семечко
-(small) seed
-сера
-sulphur
-сметана
-sour cream
-суждено (+d +inf)
-it is fated
-ввод
-bringing in
-внешнеполитический
-foreign-policy (adj)
-вредитель
-pest
-дотация
-subsidy
-жилетка
-waistcoat
-заболевание
-illness
-закалка
-physical training, fitness
-залежь
-(mineral) deposit
-зерновой
-grain (adj)
-изготовляться/изготовиться
-to be manufactured; get ready
-инспекция
-inspection
-коллективизация
-collectivization
-конструкторский
-design (adj)
-кооперация
-cooperation
-лесничий
-forest warden, ranger
-лишение
-deprivation
-производитель
-producer
-феномен
-phenomenon
-радист
-radio operator
-упрочение
-strengthening
-уран
-uranium
-хам
-boor (coll)
-хрустальный
-crystal (adj)
-алкоголик
-alcoholic (noun)
-чреватый (+inst)
-fraught (with)
-география
-geography
-душевно
-mentally; cordially
-известь
-lime (chemical)
+вожжа - rein
+гамма - scale; gamut, range
+карниз - cornice; ledge
+древесина - timber
+опрос - survey; questioning
+католический - Catholic (adj)
+комета - comet
+литератор - literary man, man of letters
+перевозка - transportation
+подвижный - mobile, agile
+проектный - planning (adj); projected
+раковина - (sea)shell; sink, wash-basin
+семечко - (small) seed
+сера - sulphur
+сметана - sour cream
+суждено (+d +inf) - it is fated
+ввод - bringing in
+внешнеполитический - foreign-policy (adj)
+вредитель - pest
+дотация - subsidy
+жилетка - waistcoat
+заболевание - illness
+закалка - physical training, fitness
+залежь - (mineral) deposit
+зерновой - grain (adj)
+изготовляться/изготовиться - to be manufactured; get ready
+инспекция - inspection
+коллективизация - collectivization
+конструкторский - design (adj)
+кооперация - cooperation
+лесничий - forest warden, ranger
+лишение - deprivation
+производитель - producer
+феномен - phenomenon
+радист - radio operator
+упрочение - strengthening
+уран - uranium
+хам - boor (coll)
+хрустальный - crystal (adj)
+алкоголик - alcoholic (noun)
+чреватый (+inst) - fraught (with)
+география - geography
+душевно - mentally; cordially
+известь - lime (chemical)
 конюшня  - stable
 крупа  - groats (grain)
 лягушка  - frog
@@ -16276,166 +15092,86 @@ lime (chemical)
 декада  - ten-day period
 завоеватель  - conqueror
 катушка  - reel, spool
-китаец
-Chinaman
-комендатура
-commandant’s office
-котлета
-cutlet; meatball, hamburger
-математический
-mathematical
-микрофон
-microphone
-обострение
-intensification, sharpening
-пират
-pirate
-плавки
-swimming trunks
-поваренный
-culinary
-престарелый
-aged, of advanced years
-пурга
-blizzard
-репортёр
-reporter
-свинство
-swinish trick (coll)
-секретарша
-(female) secretary (coll)
-таёжный
-taiga (adj)
-убеждённость
-conviction
-шотландский
-Scottish
-шпага
-sword
-штабной
-staff, headquarters (adj)
-щепа
-splinter, chip
-эволюция
-evolution
-экватор
-equator
-ягнёнок
-lamb
-австралийский
-Australian (adj)
-антисемитизм
-antisemitism
-боб
-bean
-булавка
-pin
-ватага
-band, gang
-воззвание
-appeal
-всемерный
-utmost, every kind of
-дебют
-debut
-естествознание
-natural science
-милосердие
-mercy, charity
-карусель
-merry-go-round, carousel
-кондиционер
-air conditioner
-хозрасчёт
-self-financing
-чутьё
-scent; instinct, intuition
-накалённый
-white-hot; tense
-новатор
-innovator
-оптимальный
-optimal
-остов
-framework
-отсек
-compartment
-прищуриваться/прищуриться
-to screw up one’s eyes, half close one’s eyes
-пробег
-run, race
-прослезиться
-to shed tears
-скула
-cheekbone
-ракетный
-rocket (adj)
-резьба
-carving
-родовой
-ancestral; generic; birth (adj)
-социал-демократический
-social-democratic
-туалет
-toilet
-футболист
-footballer
-чемоданчик
-small suitcase
-шовинизм
-chauvinism
-шоры
-blinkers
-аванс
-advance (payment)
-атеистический
-atheistic
-бабушкин
-grandmother’s (possessive adj)
-гипсовый
-plaster
-ересь
-heresy
-застенок
-torture-chamber
-кефир
-kefir, yoghurt-type drink
-извещать/известить
-to inform, notify (bookish) (+a)
-калач
-kalach (small white loaf)
-кличка
-nickname; name (of pet animal)
-колокольчик
-small bell; bluebell
-композиция
-composition
-контур
-contour; outline; electrical circuit
-координация
-coordination
-кочка
-hummock
-кубик
-child’s building brick
-кура
-hen (coll) (=курица)
-кустарник
-bushes, shrubs
-ледниковый
-glacial
-лепить/вы- (+a)
-to model, mould
-лирика
-lyric poetry
-медлить
-to be slow, tarry
-миленький
-sweet, nice, dear
-мозаика
-mosaic
-нагреваться/нагреться
-to warm os, warm up
+китаец - Chinaman
+комендатура - commandant’s office
+котлета - cutlet; meatball, hamburger
+математический - mathematical
+микрофон - microphone
+обострение - intensification, sharpening
+пират - pirate
+плавки - swimming trunks
+поваренный - culinary
+престарелый - aged, of advanced years
+пурга - blizzard
+репортёр - reporter
+свинство - swinish trick (coll)
+секретарша - (female) secretary (coll)
+таёжный - taiga (adj)
+убеждённость - conviction
+шотландский - Scottish
+шпага - sword
+штабной - staff, headquarters (adj)
+щепа - splinter, chip
+эволюция - evolution
+экватор - equator
+ягнёнок - lamb
+австралийский - Australian (adj)
+антисемитизм - antisemitism
+боб - bean
+булавка - pin
+ватага - band, gang
+воззвание - appeal
+всемерный - utmost, every kind of
+дебют - debut
+естествознание - natural science
+милосердие - mercy, charity
+карусель - merry-go-round, carousel
+кондиционер - air conditioner
+хозрасчёт - self-financing
+чутьё - scent; instinct, intuition
+накалённый - white-hot; tense
+новатор - innovator
+оптимальный - optimal
+остов - framework
+отсек - compartment
+прищуриваться/прищуриться - to screw up one’s eyes, half close one’s eyes
+пробег - run, race
+прослезиться - to shed tears
+скула - cheekbone
+ракетный - rocket (adj)
+резьба - carving
+родовой - ancestral; generic; birth (adj)
+социал-демократический - social-democratic
+туалет - toilet
+футболист - footballer
+чемоданчик - small suitcase
+шовинизм - chauvinism
+шоры - blinkers
+аванс - advance (payment)
+атеистический - atheistic
+бабушкин - grandmother’s (possessive adj)
+гипсовый - plaster
+ересь - heresy
+застенок - torture-chamber
+кефир - kefir, yoghurt-type drink
+извещать/известить - to inform, notify (bookish) (+a)
+калач - kalach (small white loaf)
+кличка - nickname; name (of pet animal)
+колокольчик - small bell; bluebell
+композиция - composition
+контур - contour; outline; electrical circuit
+координация - coordination
+кочка - hummock
+кубик - child’s building brick
+кура - hen (coll) (=курица)
+кустарник - bushes, shrubs
+ледниковый - glacial
+лепить/вы- (+a) - to model, mould
+лирика - lyric poetry
+медлить - to be slow, tarry
+миленький - sweet, nice, dear
+мозаика - mosaic
+нагреваться/нагреться - to warm os, warm up
 обновление  - renovation
 познавать/познать - to get to know, experience (+a)
 сажа  - soot
@@ -16481,8 +15217,7 @@ to warm os, warm up
 измельчённый - crumbled, chopped up
 испарение - evaporation
 катер - cutter, launch (boat)
-текстильный
-textile (adj)
+текстильный - textile (adj)
 тюк - bale
 отвал - slag-heap, dump
 истечение - outflow; expiry, termination
@@ -17001,20 +15736,13 @@ textile (adj)
 голландский  - Dutch (adj)
 гололёд  - covering of ice; icy weather
 горлышко  - neck (of bottle); small throat
-горчица
-mustard
-грозиться/по- (+inf)
-to threaten (coll)
-грохотать/за-
-to thunder, rumble
-гряда
-ridge; bed (garden)
-грядка
-bed (for plants), flowerbed
-губительный
-destructive
-девственный
-virgin (adj)
+горчица - mustard
+грозиться/по- (+inf) - to threaten (coll)
+грохотать/за- - to thunder, rumble
+гряда - ridge; bed (garden)
+грядка - bed (for plants), flowerbed
+губительный - destructive
+девственный - virgin (adj)
 дежурить - to be on duty
 детвора - kids (coll)
 деяние  - act, action (bookish)
@@ -17714,36 +16442,54 @@ to turn somersaults, go head over heels
 подданный - subject, citizen
 подошва - sole (of shoe, foot)
 подсобный - subsidiary, supplementary
-позитивный - positive
 поклонник - admirer
-покорять/покорить (+a) - to conquer, subjugate
 половой - sexual
 полтораста - a hundred and fifty
 поместье - estate
 помидор - tomato
-поощрять/поощрить (+a) - to encourage
 пополам - in half, half-and-half
 поросёнок - piglet
 портной - tailor
 пословица - proverb
-послушный - obedient
-поставлять/поставить - to deliver, supply (+a)
 потеха - fun, amusement
 похмелье - hangover
-почесть - honour, mark of respect
-пошлый - vulgar; trivial, banal
-православный - orthodox (religious term); (as noun) member of Orthodox Church
 прадед - great-grandfather
+
+пошлый - vulgar; trivial, banal
 предосудительный - reprehensible
+православный - orthodox (religious term); (as noun) member of Orthodox Church
 пресный - unsalted; flavourless, bland
-придираться/придраться (к +d) - to find fault with
 приемлемый  - acceptable
 признательный - grateful
-прикидываться/прикинуться (+inst) - to pretend (to be sth) (coll)
-приют - shelter, refuge
 проворный - quick, agile
-пролив - strait
 проницательный - penetrating; shrewd
+разительный - striking
+разрозненный - incomplete (of set); scattered, uncoordinated
+растрёпанный - dishevelled; tattered
+смежный - adjacent, adjoining, connected
+послушный - obedient
+позитивный - positive
+сутулый - round-shouldered, stooping
+умеренный - moderate
+упругий - elastic, springy
+утомительный  - tiring; tedious
+** шустрый - smart, quick, agile (coll)
+ярый  - furious, raging; fervent, rabid
+
+покорять/покорить (+a) - to conquer, subjugate
+поощрять/поощрить (+a) - to encourage
+поставлять/поставить - to deliver, supply (+a)
+слыть/про- (+inst or за +a) - to have the reputation of, be considered
+мять/с- (+a) - to crumple, crush
+сновать - to dash about, scurry
+придираться/придраться (к +d) - to find fault with
+прикидываться/прикинуться (+inst) - to pretend (to be sth) (coll)
+разыгрывать/разыграть - to perform; raffle, draw lots (for sth); play a trick (on s.o.), fool (+a)
+ринуться - to rush, charge, dash
+рыдать - to sob
+
+приют - shelter, refuge
+пролив - strait
 просо - millet
 пруд - pond
 птенец - nestling, fledgling
@@ -17752,19 +16498,14 @@ to turn somersaults, go head over heels
 пылесос - vacuum cleaner
 развод - divorce
 раздолье - expanse, open space; freedom
-разительный - striking
 разлад - discord; disorder
-разрозненный - incomplete (of set); scattered, uncoordinated
-разыгрывать/разыграть - to perform; raffle, draw lots (for sth); play a trick (on s.o.), fool (+a)
 раскат - rumble, roll, peal
 раскаяние - repentance
 рассудок - reason, ability to think
-растрёпанный - dishevelled; tattered
-ринуться - to rush, charge, dash
 рознь - difference; discord, disagreement
+почесть - honour, mark of respect
 рокот - roar, rumble
 рукавица - mitten, glove (without fingers)
-рыдать - to sob
 сверстник - person of the same age, contemporary
 селёдка - herring
 сквер - public garden
@@ -17772,13 +16513,9 @@ to turn somersaults, go head over heels
 скитаться - to wander, roam
 скорлупа - shell
 скрежет - grinding (noise)
-слыть/про- (+inst or за +a) - to have the reputation of, be considered
 слюна - saliva
-смежный - adjacent, adjoining, connected
 смета - estimate
 смятение - confusion, disarray, panic
-мять/с- (+a) - to crumple, crush
-сновать - to dash about, scurry
 сноровка - knack, skill
 соблазнять/соблазнить - to tempt; seduce (+a)
 соловей - nightingale
@@ -17786,7 +16523,6 @@ to turn somersaults, go head over heels
 справочник - reference book, guide
 стаж - period of service, period of work or training
 стужа - icy cold, severe frost (coll)
-сутулый - round-shouldered, stooping
 сшибать/сшибить - to knock down (coll) (+a)
 таз - basin; pelvis
 талон - coupon
@@ -17794,12 +16530,9 @@ to turn somersaults, go head over heels
 тлеть - to rot; smoulder
 тщетно - in vain
 уйма (+g) - lots (of) (coll)
-умеренный - moderate
-упругий - elastic, springy
 урод - freak, monster
 усмотрение - discretion, judgement
 утечка - leak
-утомительный  - tiring; tedious
 ухмыляться/ухмыльнуться - to smirk, grin (coll)
 фея - fairy
 хлопья - flakes
@@ -17811,7 +16544,6 @@ to turn somersaults, go head over heels
 шествие - procession
 шнур - cord; lace; flex, cable
 штабель - stack, pile
-шустрый - smart, quick, agile (coll)
 щекотать/по- - to tickle (+a)
 щетина - bristles, bristly surface; stubble (of beard)
 щука - pike (fish)
@@ -17819,7 +16551,7 @@ to turn somersaults, go head over heels
 щуриться/со- - to screw up one’s eyes, narrow one’s eyes
 электричка - suburban train (coll)
 этажерка - bookcase
-ярый  - furious, raging; fervent, rabid
+
 
 #####################################################
 значение - meaning, importance [not важность]
@@ -17891,14 +16623,14 @@ to turn somersaults, go head over heels
 особенность - peculiarity, special feature
 способность – ability
 радость – joy
-поверхность – surface
-деятельность – activity
 скорость – speed
-промышленность - industry
 необходимость - necessity [not надобность]
-опасность - danger
 возможность - possibility
 праздность – idleness
+поверхность – surface
+деятельность – activity
+промышленность - industry
+опасность - danger
 оплошность - slip, blunder
 договорённость - agreement
 
@@ -18109,7 +16841,8 @@ to turn somersaults, go head over heels
 железнодорожный; railroad
 
 жен; woman
-@@ -765,11 +782,14 @@
+
+
 заклинать; to conjure, implore, invoke, charm
 
 клон, клан; bend, bow
@@ -18125,7 +16858,6 @@ to turn somersaults, go head over heels
 выключать // выключить; to turn off, exclude, remove
 
 книг; book
-@@ -782,7 +802,7 @@
 
 кож; skin, hide, leather
 кожа; skin, leather
@@ -18134,7 +16866,6 @@ to turn somersaults, go head over heels
 
 коз; goat
 коза; goat
-@@ -815,8 +835,8 @@
 
 коп; dig, pierce
 копать; to dig, dig up
@@ -18172,7 +16903,7 @@ to turn somersaults, go head over heels
 
 лет; fly
 летать /// лететь; to fly
-@@ -1004,13 +1024,13 @@
+
 люб; love
 любезность; kindness, courtesy
 любитель; lover, amateur
@@ -18188,7 +16919,6 @@ to turn somersaults, go head over heels
 многолюдный; crowded
 нелюдимка; unsociable person
 
-@@ -1020,7 +1040,6 @@
 мазь; ointment, liniment, grease
 мазать // помазать; to oil, grease, lubricate
 
@@ -18196,7 +16926,7 @@ to turn somersaults, go head over heels
 мал; small, little
 маленький; small, little
 малыш; kid, little boy
-@@ -1108,7 +1127,7 @@
+
 млек, молок; milk
 молоко; milk
 млечный; milky
@@ -18205,7 +16935,8 @@ to turn somersaults, go head over heels
 
 млад, молод; young
 молодой; young
-@@ -1201,7 +1220,7 @@
+
+
 низ; low, below, down
 вниз; downward
 низкий; base, mean, low
@@ -18213,8 +16944,6 @@ to turn somersaults, go head over heels
 внизу; below (adv.)
 нижний; lower, inferior, under, bottom
 низость; baseness, meanness
-
-@@ -1221,11 +1240,11 @@
 
 ов; sheep
 овца; sheep
@@ -18277,7 +17006,6 @@ to turn somersaults, go head over heels
 пыль; dust
 пылесос; vacuum cleaner
 пылинка; speck of dust
-@@ -1506,7 +1526,7 @@
 
 свет; light, world
 свет; light, world
@@ -18286,7 +17014,6 @@ to turn somersaults, go head over heels
 светский; secular, worldly
 свеча; candle
 
-@@ -1540,7 +1560,7 @@
 сердечный; cordial, cardiac, amorous
 сердиться; to be angry
 середина; middle, midst, center
@@ -18303,7 +17030,7 @@ to turn somersaults, go head over heels
 наслаждение; pleasure, enjoyment, delight, treat, feast
 
 след; track, trail, follow
-@@ -1586,10 +1605,10 @@
+
 насмешка; mockery, ridicule
 
 сох, сух, сых; dry
@@ -18316,7 +17043,7 @@ to turn somersaults, go head over heels
 
 сп, сон, сн;
 спать // поспать; to sleep
-@@ -1676,12 +1695,12 @@
+
 тем, тм, тьм; dark
 темнеть // потемнеть / стемнеть; to darken, get dark
 темнота; dark, darkness, obscurity, ignorance
@@ -18331,7 +17058,6 @@ to turn somersaults, go head over heels
 теплота; warmth, cordiality
 топить; to stoke, heat
 
-@@ -1691,7 +1710,7 @@
 стирка; laundering, washing
 
 терп; suffer
