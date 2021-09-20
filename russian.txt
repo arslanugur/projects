@@ -9148,103 +9148,55 @@ To
 ————
 
 бронировал (а) столик на двоих на имя Антон. – I booked a table for two under name Anton.
-
 Подскажите, пожалуйста, где находится уборная? – Please tell me where is the restroom?
-
 Отнюдь! Я знаю толк в хорошем виски. – Not at all! I know a lot about good whiskey.
-
 Посоветуйте, какое вино наилучшим образом подходит под этот стейк из говядины? – Pls, could u recommend a good wine for this beef steak?
-
 У вас есть вегетарианские блюда? Что бы вы посоветовали? – Do you have vegetarian dishes? What would you suggest?
-
 Я буду кофе с молоком и десерт. На ваш вкус. – I would like coffee with milk and dessert. To your taste.
-
 Что бы вы порекомендовали попробовать в вашем ресторане? – What would you recommend to try in your restaurant?
-
 Посоветуйте, какой соус подходит под этот стейк из баранины? – Advise what is the best sauce for this lamb steak?
-
 Мы бы хотели заказать блюдо из телятины под вишнёвым соусом. – We would like to order a dish of veal under cherry sauce.
-
 Какие ингредиенты входят в состав этого блюда? – What are the ingredients of this dish?
-
 Я буду признателен (а), если вы подогреете это блюдо еще раз. – I will appreciate it if you heat this dish one more time.
-Zzzzz
 Подскажите, пожалуйста! Какой пароль на вашем вай-фай? – Tell me, please! What is your Wi-Fi password?
-
 Меня интересует, можно ли в вашем ресторане курить? – I am interested in whether it is possible to smoke in your restaurant?
-
 Официант! Можно счёт, пожалуйста? – Waiter! Can I have the bill, please?
-
 Могу ли я оплатить по счёту свой кредитной картой? – Can I pay the bill with my credit card?
-
 У вас есть дисконтная карта нашего ресторана? – Да конечно. или Нет, к сожалению. – Do you have a discount card of our restaurant? – Yes of course. or No, unfortunately.
-
 Благодарим, всё было превосходно. – Thank you, everything was excellent.
-
 Не могли бы вы вызвать для нас такси? – Could you arrange a taxi for us?
-
 Вы знаете, сколько это стоит? – Уточните, пожалуйста. – Do you know how much it costs? – Please clarify.
-
 Это же дорого! Я не готов (а) за это столько платить. – It's expensive! I am not ready to pay so much for it.
-
 Торг уместен? Может, поторгуемся? – Bargaining is appropriate? Maybe we will bargain?
-
 Какая ваша последняя цена? – What is your last (best) price?
-
 Я готов (а) заплатить за это 30 долларов. Это моя крайняя цена. – I am ready to pay 30 dollars for this. This is my best price offer.
-
 Превосходный пиджак! Тебе стоит его приобрести! – Excellent jacket! You should buy it
-
 В каких ещё расцветках есть такое платье? Или это единственный экземпляр? – What other colors have such dress? Or is it the only one left?
-
 Хочу быть уверенным (уверенной), что в этом мне будет тепло. – I want to be confident that in this I will be warm.
-
 Кажется, этот товар имеет брак. Есть другой в наличии? – It seems this product has a defect. Is there another available?
-
 Мне нужна консультация по вопросу... – I need advice on the issue...
-
 Не могли бы вы посоветовать, какой кофе лучше всего выбрать? – Could you advise which coffee is the best to choose?
-
 Подскажите, пожалуйста, этот товар свежий? До какого числа он годен? – Tell me, please, is this product fresh? How long is it suitable?
-
 Могу ли я вас попросить, взвесить пару килограмм красных яблок? – Can I ask you to weigh a couple of pounds of red apples?
-
 Как на ваш взгляд, этот фрукт уже спелый? – How do you think, is this fruit already ripe?
-
 Будьте так добры! Один пакет для моих продуктов. – Be so kind! One package for my products.
-
 Вы принимаете оплату наличными или кредитной картой? – Do you accept payment by cash or credit card?
-
 Секундочку! А вы уверены, что это правда? – Wait a second! Are you sure this is true?
-
 Понимаете, что вы испортили всем настроение своим поведением? – Do you understand that you spoiled the mood with your behavior?
-
 Уважаемый, смените ваш тон при разговоре со мной. – Dear, change your tone when talking to me.
-
 Я испытываю некий дискомфорт, отвечая на ваши вопросы. – I feel some discomfort when answering your questions.
-
-В данной ситуации, мне кажется, что вы не правы. – In this situation, it seems to me that you are wrong.
-
+В данной ситуации, мне кажется, что вы не правы. – In this situation, it seems to me that you are wrong
 Вам бы руки оторвать за такую работу! Всё не правильно и вы должны это переделать. – You have to tear your hands for such work! Everything is not right and you have to redo it.
-
 Я не ожидал (а) от вас такого. Я был (а) лучшего мнения о вас. – I did not expect this from you. I had a better opinion of you.
-
 Вам следует чательнее подбирать слова, молодой человек! – You should choose words more carefully, young man!
-
 Не стоит прибегать к оскорблениям. Мы с вами взрослые люди. – Do not use insults. We are adults.
-
 вас прекрасно слышу! Незачем повышать голос на меня. – I can hear you perfectly! There is no need to raise your voice at
-
 Вы что совсем выжили из ума? Я битый час твержу вам одно и тоже. – Are you completely out of your mind? For a long time I said the same thing to you.
-
 меньше всего ожидал (а) от вас такого. Я больше не намерен (а) вас слушать. – I least expected this from you. I am not going to listen you.
-
-У вас своё мнение, а у меня своё! И споры тут излишни. – You have your own opinion, but I have my own! It's unnecessary to argue. (Or people can say: "Everyone has their own opinions" )
-
+У вас своё мнение, а у меня своё! И споры тут излишни.
+You have your own opinion, but I have my own! It's unnecessary to argue. (Or people can say: "Everyone has their own opinions" )
 Извините, но в данной ситуации, вы поступаете не красиво. – Sorry, but in this situation, you behave inappropriately.
-
 Простите, но я так не считаю. И я так не говорил. – Sorry, but I do not think so. And I did not say that.
-
 Думаю, на этой ноте нам стоит расстаться. – I think on this issue (point) we should break up.
 
 У меня создаётся впечатление, что вы настроены агрессивно по отношению ко мне. – I have the impression that you are aggressive towards me.
@@ -9260,51 +9212,31 @@ Zzzzz
 Мы не говорим «прощай» – мы говорим «До свидания». – We do not say "goodbye forever" – we say "goodbye for now".
 свидание вслепую - blind date
 Нам всё же пора уезжать. Спасибо за вкусный ужин. – We still have to leave. Thank you for the delicious dinner.
-
 Мы не хотим обременять вас своим присутствием и поэтому уже уходим. – We do not want to trouble you any longer,  we are going to  leave.
-
 Спасибо за тёплый приём. Мы будем так же рады видеть вас у себя в гостях. – Thank you for the warm welcome. We are glad that you are visiting us.
-
 На улице стемнело и нам лучше собираться домой. Уже довольно поздно. – It's getting dark now, we'd better be going home. It's quite late now.
-
 До скорой встречи! – See you soon!
-
 И так, давайте подведём итоги наших переговоров. – So, let's summarize our negotiations.
-
 Мне чрезвычайно приятно отвечать на ваши вопросы. – I am extremely pleased to answer your questions.
-
 В полдень, у нас с вами запланированная бизнес встреча. – We have a scheduled business meeting with you at noon.
-
 Я очень надеюсь, что мы не опоздаем на семинар, который начнётся буквально через час. – I really hope that we will not be late for the seminar, it  will start  in just an hour.
-
 Всегда приятно вести бизнес с надёжными партнёрами. – It is always nice to do business with reliable partners.
-
 Деловые переговоры лучше проводить в послеобеденное время. – It is better to conduct business negotiations in the afternoon.
-
 Отчёт за прошлый квартал демонстрирует стабильный рост нашего предприятия. – The report for the last quarter shows stable growth for our company.
-
 На данный момент, это место вакантно. Вы можете прислать своё резюме. – At the moment, this role is vacant. You can submit your resume.
-
 Наша компания занимает лидирующую позицию на финансовом рынке. – Our company occupies a leading position in the financial market.
-
 Зал для переговоров находится ниже этажом. – The meeting room is located one floor below.
-
-Мы можем порекомендовать вам, обратиться к нашему Директору. Он более компетентен в данном вопросе. – We recommend that you to contact our Director. He is more competent in this matter.
-
+Мы можем порекомендовать вам, обратиться к нашему Директору. Он более компетентен в данном вопросе.
+We recommend that you to contact our Director. He is more competent in this matter.
 Корпоратив нашей компании будет проходить 25 декабря. Начало в 19:00. – Corporate party of our company will be held on December 25th. Beginning at 19:00.
-
 Отчёт о проделанной работе будет готов не позднее следующего понедельника. – The progress report will be ready no later than next Monday.
-
-Вместо нашего начальника, будет присутствовать его заместитель. Он сможет ответить на все интересующие вас вопросы. – Instead of our boss, his deputy will be present. He will be able to answer all your questions.
-
+Вместо нашего начальника, будет присутствовать его заместитель. Он сможет ответить на все интересующие вас вопросы
+Instead of our boss, his deputy will be present. He will be able to answer all your questions.
 Пожелайте нам счастливой дороги. Мы увидимся не скоро. – Wish us a happy journey. We won't see you soon.
-
 Создаётся впечатление, что вы не знаете правильной дороги, и мы заблудились. – It seems that you do not know the right way, and we are  lost.
 я заблудился - i'm lost
-
 укладываю вещи - i pack
 поскальзываюсь - i slip
-
 путешественник - hiker
 путешествие автостопом - hitchhikin
 умываюсь - i wash my face
@@ -9312,105 +9244,63 @@ Zzzzz
 ложусь спать - i go to bed
 ставлю будильник - i set an alarm
 причёсываюсь - i comb my hair
-
-Я даже боюсь представить, насколько наше путешествие будет интересным! Мы будем ехать на поезде, лететь на самолёте. Мы даже будем взбираться на гору Килиманджаро. – I'm even afraid to imagine how interesting our trip will be! We will go by train, fly by plane. We will even climb Mount Kilimanjaro.
-
+Я даже боюсь представить, насколько наше путешествие будет интересным! Мы будем ехать на поезде, лететь на самолёте. Мы даже будем взбираться на гору Килиманджаро
+I'm even afraid to imagine how interesting our trip will be! We will go by train, fly by plane. We will even climb Mount Kilimanjaro.
 Нужно торопиться, если хотим успеть на наш самолёт. – We must hurry if we want to catch our flight.
-
 Здравствуйте! Мы бронировали номер в вашем отеле на двоих. На имя Владимир. – Hello! We booked a room in your hotel for two. Addressed to Vladimir.
-
 У меня есть права на вождение автомобилем, и я прекрасно езжу за рулём. – I have a  driver license, and I am a good driver.
-
 Очень хочется взять автомобиль в аренду, когда мы будем в Москве. – I really want to rent a car when we are in Moscow.
-
 Подскажите, пожалуйста, как пройти до ближайшей больницы? – Can you please tell me how to get to the nearest hospital?
-
 Сколько стоит билет до Москвы на автобусе? – How much does a ticket to Moscow cost by bus?
-
-Билет на этот рейс стоит 300 рублей в одну сторону, но вам лучше сразу купить билет обратно. Билетов может больше не быть. – A ticket for this flight costs 3,000 rubles one way, but you better buy round trip tickets since tickets can run out.
-
+Билет на этот рейс стоит 300 рублей в одну сторону, но вам лучше сразу купить билет обратно. Билетов может больше не быть.
+A ticket for this flight costs 3,000 rubles one way, but you better buy round trip tickets since tickets can run out.
 Ближайшая круглосуточная аптека находиться в 2-х (двух) километрах отсюда. – The nearest 24 hours pharmacy is located 2 (two) kilometers away.
-
 Внимание! Здесь курение и распивание спиртных напитков строго запрещено. – Attention! Smoking and drinking alcohol is strictly prohibited here.
-
 Будьте осторожны! Скользкая дорога. – Be careful! Slippy road.
-
-График работы нашего заведения 24 часа в сутки и 7 дней в неделю (24/7 – круглосуточно). – The opening hours of our institution is 24 hours a day and 7 days a week (24/7 – around the clock).
-
+График работы нашего заведения 24 часа в сутки и 7 дней в неделю (24/7 – круглосуточно)
+The opening hours of our institution is 24 hours a day and 7 days a week (24/7 – around the clock).
 Вход со своими спиртными напитками, строго запрещено. – Entry with your own alcohol drinks is strictly prohibited.
-
 Номер телефона, по которому можно до нас дозвониться, находится в верхнем углу нашего сайта. – The telephone number where you can reach us is in the top corner of our site.
-
-Согласно закону Российской Федерации, продажа алкоголя после 22:00 строго запрещена. – According to the Law of the Russian Federation, the sale of alcohol after 22:00 is strictly prohibited.
-
+Согласно закону Российской Федерации, продажа алкоголя после 22:00 строго запрещена.
+According to the Law of the Russian Federation, the sale of alcohol after 22:00 is strictly prohibited.
 Незнание закона – не освобождает от ответственности. – Ignorance of the law is not an excuse.
-
 Запрещено разведение костров в парках и лесных зонах. – It is forbidden to start fires in parks and forest areas.
-
 Вождение транспортного средства в не трезвом состоянии карается лишением прав на срок до 5 лет. – Drunk driving is punishable by 5 years license suspension.
-
 Мне кажется, что этот костюм вам к лицу. – It seems to me that this suit fits you well.
-
 Я всегда был (а) не равнодушный к этому виду цветов. Они изумительны. – I have always like this kind of flowers. They are amazing.
-
 Отличная новость! Я с нетерпением жду вашего приезда. – Great news! I look forward to your arrival.
-
-Я чуть с ума не сошёл (сошла) в поисках правильного ответа. Вы просто гений! Вы мне очень помогли. – I almost went crazy searching for the right answer. You are such a genius! You helped me a lot.
-
+Я чуть с ума не сошёл (сошла) в поисках правильного ответа. Вы просто гений! Вы мне очень помогли.
+I almost went crazy searching for the right answer. You are such a genius! You helped me a lot.
 У вас очень красивый дом! Я не могу налюбоваться! – You have a very beautiful house! I can't take my eyes off it!
-
 Благодарю за ваше любопытство. – Thank you for your curiosity.
-
 Ты шикарно выглядишь, моя дорогая! Просто – восхитительно! – You look gorgeous, my dear! Just – amazing!
-
 Это платье превосходно подчёркивает вашу талию. – This dress perfectly highlights your waist.
-
 В этом наряде, вы неотразимы. – In this dress, you look irresistible.
-
 У вас очень приятный голос. – You have a very nice voice.
-
 В этом пальто вы выглядите очень презентабельно. – In this coat you look very nice.
-
 Вы все время заставляете меня улыбаться. – You make me smile all the time.
-
 Я уверен (а), что вы будете отличным отцом (матерью). – I am sure that you will be a great father (mother)
 буду отцом - i will be father
-
 Мадам, ваш внутренний мир также красив, как и вы сами. – Madam, your thoughts are as beautiful as you are.
-
 Молодой человек, вы очень внимательный и обходительный. – Young man, you are very attentive and courteous.
-
 От вас исходит очень приятный запах. Это новые духи? – You smell very nice. . Is this a new perfume?
-
 Ты самый надёжный друг на земле. – You are the most reliable friend on earth.
-
 Ты для меня очень родной (родная) и самый любимый (любимая) человек во вселенной. – You are a very dear and most beloved (favorite) person for me in the universe.
 вселенная
-
 просто уверен (а), что тебе можно поручать самые ответственные дела. – I'm just sure that you can be trusted.
-
 Не могли бы вы прикрыть окно? Мне очень дует из него. – Could you close the window? It is really windy.
-
 Мне бы очень хотелось поговорить с вами откровенно. Мы можем это сделать? – I would really like to talk to you frankly. Can we do it?
-
 Не могли бы вы говорить помедленнее? Я не успеваю за вами. – Could you speak more slowly? I can't understand you.
-
-К сожалению, мне неудобно говорить по телефону в данный момент. Вы не могли бы перезвонить немного позже? – Unfortunately, it's not convenient for me to talk on the phone at the moment. Could you call back a little later?
-
+К сожалению, мне неудобно говорить по телефону в данный момент. Вы не могли бы перезвонить немного позже?
+Unfortunately, it's not convenient for me to talk on the phone at the moment. Could you call back a little later?
 Объясните мне сложившуюся ситуацию? Я постараюсь вам помочь. – Explain the situation to me? I will try to help you.
-
 Будьте так добры, подскажите, который час? – Be so kind, tell me what time it is?
-
 Не будет ли вам сложно провести меня домой? Я живу неподалёку. – Wouldn't it be hard for you to take me home? I live nearby.
-
-Мне кажется, что вы знаете, что тут произошло. Возможно, вы сможете нам рассказать всё в деталях? – It seems to me that you know what happened here. Perhaps you can tell us everything in the details?
-
+Мне кажется, что вы знаете, что тут произошло. Возможно, вы сможете нам рассказать всё в деталях?
+It seems to me that you know what happened here. Perhaps you can tell us everything in the details?
 Если вас не затруднит, подайте чайную ложку. – If you do not mind, pass me a teaspoon.
-
 Я очень вас прошу перезвонить по номеру... – Please call back the number ...
-
 Вам не будет трудно подать мне зелёную книгу на четвёртой (4-ой) полке? – Could you get  me the  green book on the fourth (4th) shelf?
-
 Сегодня мы хайпим у меня дома. [sevodnya my haipim u minya doma] – Today we're hanging out at my house
 а то нет - o olmaz dimi?
 закаливание - sıcaktan soğuk kara atlama vücut dokularına daha hızlı oksijen aktarır
@@ -9697,7 +9587,6 @@ But she didnt have money
 
 которая это футболка уже? God knows many many tshirt you/ihave
 я тут уже жду который час - im waiting here god knows how many hours
-
 
 ———
 
@@ -10066,7 +9955,7 @@ to wait (for)
 отражать/отразить  - to reflect; repulse (+a)
 отчаяние - despair
 охотно - willingly
-пасха  - Easter
+ssssпасха  - Easter
 по-видимому  - seemingly
 почта - post office; post, mail
 премия  - bonus; prize
@@ -10133,7 +10022,6 @@ to wait (for)
 царство  - kingdom
 этаж  - floor, storey
 банк  - bank (for money)
-
 блестеть  -  to shine
 братец  - old man, mate (form of address)
 величие  - greatness
