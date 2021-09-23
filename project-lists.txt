@@ -1,5 +1,5 @@
 # Project List
- - Calculator (JS)
+ - Calculator (JS, Py)
  - Advanced Calculator (Java)
    The mother of all projects: How to create Graphical User Interface App
    Java: JavaFX, Swing
@@ -114,6 +114,12 @@
  - Online Learning Portal (Java)
  - IP Address Changer (Java)
  - Text Editor (Java)
+ - User Sentiment (Py)
+ - File Explorer (Py)
+ - Twitter Bot (Py)
+ - Stock Prediction (Py)
+ - Desktop Notifier App (Py)
+ - URL Shortener (Py)
  - Distance Calculator w Google API (Java)
  - Audiobook
  - Spell Checker (Py)
@@ -203,7 +209,7 @@ AI Projects
  - Automatic Attendance System 
        (by using a camera that automatically recognizes the faces and marks the attendance of the people)
  - Artificial Bot that can compete with humans
- - Chatbot
+ - Chatbot (Py)
      - Building Chatbot using AIML
      - Price Negotiator E-Commerce Chatbot System
  - Fake Product Review Monitoring System
