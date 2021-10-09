@@ -24,23 +24,23 @@ B1 Almanca Konuları:
         
         Verbkonjugation in Präterium
         --> regelmässige verben (düzenli çekimli)
-                frage --> fragte*        antworte --> antwortete
+                frage --> fragte*        antworte --> antwortete*
                 fragst --> fragtest     antwortest --> antwortetest
-                fragt --> fragte*        antwortet --> antwortete
+                fragt --> fragte*        antwortet --> antwortete*
                 fragen --> fragten      antworten --> antworteten
                 fragt --> fragtet       antwortet --> antwortet
                 fragen --> fragten      antworten --> antworteten
         --> unregelmässige verben (düzensiz çekimli)
-                sehe --> sah*           komme --> kam
+                sehe --> sah*           komme --> kam*
                 siehst --> sahst        kommst --> kamst
-                sieht --> sah*          kommt --> kam
+                sieht --> sah*          kommt --> kam*
                 sehen --> sahen         kommen --> kamen
                 seht --> saht           kommt --> kamt
                 sehen --> sahen         kommen --> kamen
         --> mischverben (ikisinin karşımı)
-                weiss --> wusste        denke --> dachte
+                weiss --> wusste*       denke --> dachte*
                 weisst --> wusstest     denkst --> dachtest
-                weiss --> wusste        denkt --> dachte
+                weiss --> wusste*       denkt --> dachte*
                 wissen --> wussten      denken --> dachten
                 wisst --> wusstet       denkt --> dachtet
                 wissen --> wussten      denken --> dachten
@@ -80,13 +80,17 @@ B1 Almanca Konuları:
 3) Konjunktionen(a,b,…,j maddeleri başlıca örnekleridir)
     a)obwohl --> mesine/masına rağmen
         Sie geht mit ihren Freundinnen ins Kino, obwohl sie keine Filme mag.
-            o kızarkadaşlarıyla birlikte sinemaya gidiyor, 
-        Obwohl sie keine Filme mag, geht sie mit ihren Freundinnen ins Kino
+            o kızarkadaşlarıyla birlikte sinemaya gidiyor, filmleri sevmesine rağmen 
+        Obwohl sie keine Filme mag, geht sie mit ihren Freundinnen ins Kino (2.cümle fiille başlar)
         Er hat mich mehrmals angerufen, obwohl ich gesagt habe, dass ich beschäftigt bin
+        obwohl ich gesagt habe, dass ich beschäftigt bin, Er hat mich mehrmals angerufen 
+        meşgul old söylememe rağmen, beni defalarca aradı
         Obwohl sie keine Kinder mag, möchte sie Erzieherin werden. 
         Sie möchte Erzieherin werden, obwohl sie keine Kinder mag
+        çocukları sevmemesine rağmen anaokulu öğretmini olmak istiyor
         Obwohl ich kein Blut sehen kann, möchte ich eines Tages Arzt werden
-        Ich möchte eines 
+        Ich möchte eines Tages werden, obwohl ich kein Blut sehen kann
+        kan görememe rağmen, bir gün doktor olmak istiyorum
     b)als
     c)um…zu/damit
     d)statt/ohne…zu+Infinitiv
@@ -103,8 +107,67 @@ B1 Almanca Konuları:
     d)je desto/umso
     e)sowohl… als auch
     f)weder…noch
-5) Grandpartikeln(echt,ziehmlich,total…)
+5) Gradpartikel(echt,ziehmlich,total…) olsa da olur olmasa da ama olsa iyi
+    sehr - çok
+    besonders - bilhassa, özellikle, pek iyi
+    total - bütün, komple, hepten
+    wirklich - hakikaten
+    
+    ziemlich - oldukça
+    
+    nicht so - çok da değil
+    nicht besonders - pek de değil, o kadar da değil
+    
+    gar nicht - hiç de değil
+    überhaupt nicht - asla, katiyen değil
+    
+    sie kann (gar/überhaupt) nicht kochen - o katiyen yemek yapmayı beceremez
+    du bist (sehr) hübsch
+    er hat sich (besonders) um seine Gäste gekümmert
+        misafirleriyle bilhassa,özellikle ilgilendi
+    ich bin (total) k.o. - bittim ölüyorum (kau)
+    die Prüfung war (ziemlich) schwer - sınav oldukça zordu
+    ich weiss (wirklich) nicht, wo er ist - onun nerede olduğunu gerçekten bilmiyorum
+    das Buch hat nicht (so/besonders) gefallen
+        kitabı çok da, o kadar da beğenmedim
+    ich interessiere mich (überhaupt) nicht für Fussball
+        futbolla asla ilgilenmiyorum
+    
 6)Relativpronomen/Relativsatz(Nom. Akk.Dat.Gen.)
+                        |Nominativ|Akkusativ|Dativ --> fiile göre olacak
+        ein mann        | der     | den     | dem
+        ein Frau        | die     | die     | der
+        ein Kind        | das     | das     | dem
+        Schauspieler    | die     | die     | denen
+                yan cümle yapma - ayrıntılı cümle yapmak
+        Nominativ
+        der Mann, der ziemlich gut tanzen kann, ist mein Bruder
+                oldukça iyi dans edebilen adam benim kardeşimdir
+        eine Frau, die sehr gut kochen kann, suche ich mir
+                kendime çok iyi yapabilen bi kadın arıyorum
+        das Kind, das auf dem Spielplatz sitzt, war letztes Jahr schwer krank
+                oyun merkezinde oturan çocuk geçen sene ağır hastaydı
+        Schauspieler, die sehr gut singen können, wurden immer berühmter
+                çok güzel şarkı söyleyebilen oyuncular hep ünlü oldular
+        Akkusativ
+        das ist der Mann, den ich gestern in Fernseher gesehen habe
+                dün televizyonda gördüğüm adam bu - nesne durumunda adam
+        ich singe einen Superhit, den jeder kennt
+                herkesin bildiği hit bir parça söylüyorum --> obje 
+        wir kochen etwas, das du auch magst
+                senin de seveceğin bir şey pişiriyoruz --> etwas --> akk
+        Dativ
+        ich habe einen Freund, dem ich ein Auto geschenkt habe -->hediye etmek obj - dat
+        er hat eine Freundin, der er ein Lied geschrieben hat
+                ona şarkıyı yazdığı bir kız arkadaşı var - ona - dativ
+        dieser mann, dem ich gestern gehalfen habe, ist sehr reich
+                dün yardım ettiğim adam çok zengin - obj - help - dativ
+                
+        ich habe einen Mann gefunden, der für mich alles macht         
+                benim için herşeyi yapan bir adam buldum
+        ich habe einen Freund/eine Freudin, der/die mich ohne Ende liebe
+                beni sonsuz seven bir sevgilim var
+                
     a)Relativsatz mit Prepositionen
     b)Relativsatz wit wo,wohin,wer,wen…
 7) Passiv Präsens mit Modalverben
