@@ -16,6 +16,118 @@ ich habe das nicht so gemeint - i didnt mean it
 phrasessssss devam
 
 
+B1 Almanca Konuları:
+1) Präteritum
+        A2-war-hatte (sein and haben)
+        A2-Modalverben
+        B1-alles
+        
+        Verbkonjugation in Präterium
+        --> regelmässige verben (düzenli çekimli)
+                frage --> fragte*        antworte --> antwortete
+                fragst --> fragtest     antwortest --> antwortetest
+                fragt --> fragte*        antwortet --> antwortete
+                fragen --> fragten      antworten --> antworteten
+                fragt --> fragtet       antwortet --> antwortet
+                fragen --> fragten      antworten --> antworteten
+        --> unregelmässige verben (düzensiz çekimli)
+                sehe --> sah*           komme --> kam
+                siehst --> sahst        kommst --> kamst
+                sieht --> sah*          kommt --> kam
+                sehen --> sahen         kommen --> kamen
+                seht --> saht           kommt --> kamt
+                sehen --> sahen         kommen --> kamen
+        --> mischverben (ikisinin karşımı)
+                weiss --> wusste        denke --> dachte
+                weisst --> wusstest     denkst --> dachtest
+                weiss --> wusste        denkt --> dachte
+                wissen --> wussten      denken --> dachten
+                wisst --> wusstet       denkt --> dachtet
+                wissen --> wussten      denken --> dachten
+                
+                sie hat gestern sehr lange gearbeitet (perfekt) - çalıştı
+                sie arbeitete gestern sehr lange (präterium) - çalıştı (aynı şekilde çevir)
+                
+                sie haben am Freitag für die ganze Woche eingekauft
+                sie kauften am Freitag für die ganze Woche ein. (shopped for the whole week)
+                
+                ich bin heute mit dem Auto gekommen
+                ich kam heute mit dem Auto
+                
+                Im Kurs haben wir gestern ein Diktat geschrieben
+                Im Kurs schrieben wir gestern ein Diktat
+                
+        
+2) Plusquamperfekt (like Past Perfect to compare to Perfekt(konuşmada)/Präterium(yazmada) (Geçmiş))
+      plusquamperfekt---perfekt, präterium--- präsens---futur1, futur 2
+          -mıştı               -dı
+          
+      präterium --> hatten, waren
+      perfect partizip II -->
+      Plusquamperfekt --> präterium + perfect partizip II (ikisinin birleşimi)
+      
+      der Fahrer hatte Alkohol getrunken, deswegen ist der Unfall passiert
+        sürücü alkol içmişti, bu yüzden kaza olmuştu
+      ich bin heute sehr spät zur Arbeit gekommen. ich hatte zu lange geschlafen
+        bugün işe çok geç gittim. gereğinden fazla uyumuşum
+      Um 7 uhr war ich im Bahnhof. Aber der Zug war schon weggefahren
+        saat 7de istasyona girmiştim, ordaydım ama tren çoktan gitmişti
+      In der Kantine konnte ich nicht bezahlen. I hatte meinen Geldbeutel vergessen
+        kantinde ödeme yapamadım, cüzdanımı unutmuştum
+      
+      B1 sınavında çok karşına çıkmaz ama yine de bil
+
+3) Konjunktionen(a,b,…,j maddeleri başlıca örnekleridir)
+    a)obwohl --> mesine/masına rağmen
+        Sie geht mit ihren Freundinnen ins Kino, obwohl sie keine Filme mag.
+            o kızarkadaşlarıyla birlikte sinemaya gidiyor, 
+        Obwohl sie keine Filme mag, geht sie mit ihren Freundinnen ins Kino
+        Er hat mich mehrmals angerufen, obwohl ich gesagt habe, dass ich beschäftigt bin
+        Obwohl sie keine Kinder mag, möchte sie Erzieherin werden. 
+        Sie möchte Erzieherin werden, obwohl sie keine Kinder mag
+        Obwohl ich kein Blut sehen kann, möchte ich eines Tages Arzt werden
+        Ich möchte eines 
+    b)als
+    c)um…zu/damit
+    d)statt/ohne…zu+Infinitiv
+    e)falls
+    f)während
+    g)bevor
+    h)als ob
+    i)nachdem
+    j)seit dem
+4)Zweiteilige Konjunktionen
+    a)nicht nur, …sondern auch
+    b)zwar…-aber
+    c)entweder…, oder
+    d)je desto/umso
+    e)sowohl… als auch
+    f)weder…noch
+5) Grandpartikeln(echt,ziehmlich,total…)
+6)Relativpronomen/Relativsatz(Nom. Akk.Dat.Gen.)
+    a)Relativsatz mit Prepositionen
+    b)Relativsatz wit wo,wohin,wer,wen…
+7) Passiv Präsens mit Modalverben
+    a)Passiv Perfekt
+8) Genitiv(Tekrar ve derinleştirme)
+9) Konjunktiv II
+    a)Irreale Bedingugen
+    b)Vergangenheit Konjugation ve Irreale Wünsche
+10) Präpositionen
+    a)wegen
+    b)während
+    c)außerhalb
+    d)trotz
+    e)außer
+    f)innerhalb…
+11) Infinitiv mit Präpositionen
+12) Verben mit Präpositionen
+13) Adjektiv als Nomen (Sıfatı isimleştirme)
+14) Partizip Präsesn als Adjektiv (fiilleri sıfatlaştırma)
+15) Futur I
+16) Adjektivdeklination mit Komparativ und Superlativ
+
+
 #
 wieder - again
 immer - always
@@ -29,6 +141,30 @@ gelegentlich - occasionally
 einmal - once
 ruhig - quietly
 
+
+ALS Cümleleri
+Präsens/Zukunft --> wenn (dığı zman - present/future)
+Vergangenheit --> als (Zeitpunkt) (dığı zaman - PAST (belli biten noktada))
+                  wenn (Wiederholung) (sürekli tekrarlanıyorsa kullanılır geçmişte)
+    ich konnte kein Wort Deutsch, als ich nach Deutschland kam (als'ın geldiği yerde fiil sona gider)
+        almanyaya geldiğimde tek kelime almanca bilmezdim
+    wenn wir heiraten, laden wir dich zu unserer Hochzeit ein   
+        evlendiğimiz zaman, seni düğünümüze davet edeceğiz
+    wir haben uns kennengelernt, ..als.. wir im Deutschkurs waren
+        biz birbirimizle tanıştık (geçmiş), almanca kursundayken
+    ..als.. ich nach Hause kam, war niemand da
+        eve geldiğim zman, kimse yoktu
+    ..wenn.. ich heute Abend nach Hause komme, rufe ich dich an
+        ben eve geldiğim zman, seni arayacağım
+    Immer ..wenn.. meine Grosseltern uns besuchten, gab es Erdbeerkuchen (geçmiş zmanda sürekli tekrar)
+        her zman bizi ziyaret ettiğinde, çilekli pasta vardı --> fiilden çıkaramazsın anlamdan çıkar
+    Immer, ..wenn.. wir ins Bett gingen, hat Papa was eine Geschichte erzählt
+        her zman yatağa gittimizde, babam bize anlatır
+    ..Als.. ich noch zur Schule, hatte ich nicht viele Freunde
+        okula gittiğim zman çok fazla arkadaşım yoktu
+        keine dememek daha iyi kulağı tırmalıyor
+        keine ismi negatifleştirir yani o şeyin var olmamasıdır
+       
 
 # SUBORDINATING CONJ.
 weil - because
