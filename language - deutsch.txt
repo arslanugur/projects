@@ -168,21 +168,12 @@ B1 Almanca Konuları:
         ich habe einen Freund/eine Freudin, der/die mich ohne Ende liebe
                 beni sonsuz seven bir sevgilim var
                 
-    a)Relativsatz mit Prepositionen
-    b)Relativsatz wit wo,wohin,wer,wen…
-
- Relativsätze im Genitiv
-    Artikel in Genitiv
-    der --> des + s
-    die --> der
-    das --> des + s
-    die --> der
-    
-    Relativepronomen in Genitiv
-    der --> dessen
-    die --> deren
-    das --> dessen
-    die --> deren
+        Relativsätze im Genitiv
+        Artikel in Genitiv      Relativepronomen in Genitiv**
+        der --> des + s         der --> dessen
+        die --> der             die --> deren
+        das --> des + s         das --> dessen
+        die --> der             die --> deren
     
     das ist mein besser Freund. Ich habe dir 'das bild des Freundes' gezeigt - bu bnm en iyi arkadaşım ben sana 'arkadaşımın fotosunu' gösterdim
     das ist mein bester Freund, dessen Bild ich dir gezeigt habe - freund artikeli der olduğu için dessen oldu, das bild yüzünden değil
@@ -193,6 +184,18 @@ B1 Almanca Konuları:
         İstanbul turistik yerlerinin dünyaca ünlü olduğu bir şehirdir
     der Mann, dessen Sohn ich geholfen habe, dankte mir --> der Mann --> ,desen
         oğluna yardım ettiğim adam bana teşekkür etti
+
+        a)Relativsätz mit Präpositionen
+        --> Verben mit Präpositionen - önemli bir konu ilgili olarak
+        Wie heisst die Frau, mit der, du dein Leben teilst? - Hayatını paylaştığın kadının adı nedir? --> teilen mit - share with --> DATIV
+        das ist der Freund, von dem, ich dir so oft erzählt habe - O erkek arkadaşımdır ondan sana sıklıkla bahsettim/anlattım --> erzählen von(D)/über(A)
+        das ist 'die Tante' meines Vaters, mit(D) der, ich am Wochenende manchmal(bazen) spazieren gehe - o babamın halası, onunla ben hafta sonu bazen yürüyüşe gidiyorum
+        da ist meine Nachbarin, für die, ich die Blumen giesse, wenn sie weg ist - benim komşum(f) oradadır, onun için çiçekleri suluyorum, uzakta olduğunda 
+        hier auf dem Foto ist mein Bruder, mit dem, ich jeden Tag telefoniere - burda fotodaki benim kardeşim, onunla her gün telefonlaşıyorum --> telefonieren mit + Dativ 
+
+        b)Relativsätz wit wo,wohin,wer,wen…
+        
+
 
 7) Passiv Präsens mit Modalverben
     a)Passiv Perfekt
