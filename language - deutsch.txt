@@ -355,11 +355,14 @@ wer - who
   -wer hat heute angerufen
 mit wem - who with
 
+
+
+
 dann lass uns unsere Reise beginnen - yola çıkalım o zman
 was hast du denn, was kaputt ist?
 ansehen - bakmak
-wie soll ich das machen - nasıl yapabilirim.
 anfassen - dokunmak
+wie soll ich das machen - nasıl yapabilirim.
 du musst mir schon vertrauen - bana güvenmen lazım
 jetzt lass doch mal sehen - bir bakıyım
 andererseits - öte yandan
@@ -478,7 +481,6 @@ es muss geheim belieben - gizli kalmali
 die wird schon irgendwie entkommen sein - bir seklide kaçmistir
 es göhört'ne Menge Mut dazu, sich auf einen alten Gauner wie mich einzulassen
 auf plane, die aufgehen - ise yaramasina
-
 ich hab's dir gesagt, lass das bleiben
 in ein paar jahren gibt es auf Kontinent nur noch Crows
 ich will ihn nicht anschalten. bloss verkaufen
@@ -1053,6 +1055,46 @@ das geht doch niemals gut - bu asla işe yaramaz
 genauso wie wir - just like us
 dann lass uns beeilen - o zaman acele edelim
 hat er etwas gesagt?
+du bist gekommen, um dich zu rachen - buraya intikam almaya geldin
+fliesst auch Weisheit
+ich hatte es selbst fast geglaubt - neredeyse kendim bile inandım
+geht's dir besser - daha iyi misin
+hast du mit irgendjemandem gesprochen  - kimseyle konuştun mu
+ich spreche nicht von Dingen, die ich nicht versteh
+das werden wir andern - bunu değiştiririz
+er hatte schon vor langer Zeit aufgegeben - çok daha uzun zaman önce pes etmişti
+du bist tatsachlich klug - gerçekten zekisin
+dann sollst du anfangen, an sie zu denken - onları düşünmeye başlamalısın
+plant ihr eine Meuterei - isyan mı planlıyorsunuz
+wie kommst du darauf - bunu nerden çıkardın
+hand aufs Herz - açık konuşalım
+wie oft hast du mit deinen Mannern gesoffen und überlegt
+schlagst (propose - teklif) du mir eine Meuterei vor?
+er hat wenig bekommen für all das, was er geopfert hat - çok az şey elde etti
+er sieht mich als seinen Freund, das wisst ihr - beni arkadaşı olarak görüyor bunu biliyorsunuz
+ich kann mit ihn verhandeln - onunla pazarlık edebilirim
+nur auf dich kann ich mich verlassen  - güvenebileceğim tek kişi sensin
+du hast es dir von allen am meisten verdient - herkesten çok sen hak ediyorsun
+komm zu mir, wenn du dich entschieden hast - karar verdiğin zaman yanıma gel
+wir hassen beide denselben Mann - ikimizde aynı adamdan nefret ediyoruz
+das habe ich dich oft gefragt - sana bunu sık sık sordum
+verschwinde
+war es das wert - buna değdi mi
+er hat dich nur benutzt - sadece seni kullandı
+ich weisse, genau wie das ist
+es ist nichts mehr, wie es war - durum eskisi gibi değil
+ihr wollt Gewissheit - you want a proof
+ich bin mir sicher, eines Tages wirst du es dir verdienen
+bis dahin haben wir noch Zeit - o zamana dek biraz vaktimiz var
+man kann sie nicht zahlen - sayılamayacak kadar çoktur
+wie könnte es anders sein
+wir zwingen sie zum Rückzug - onlara çekilmeye zorlayacak
+geh zu ihr und sag ihr,
+lenk die Wache ab - muhafızları oyala
+
+
+
+
 
 
 
