@@ -16,6 +16,34 @@ ich habe das nicht so gemeint - i didnt mean it
 
 phrasessssss devam
 
+A1 Almanca Konuları:
+1) Das Alphabet
+2) Zahlen
+3) Personal Pronomen
+4) Kasus (3 Fälle)
+        - Nominativ
+        - Akkusatiiiv
+        - Daäativ
+5) Verb Konjugation
+        - Regelmässige Verben
+        - Unregelmässige Verben
+        - Modalverben
+        - Trennbare Verben (Ayrılabilen)
+6)
+7) Adjektive und Adverbien
+8) Präpositionen
+9) Deutsche Zeitformen
+        - Präsens (Şimdiki)
+        - Perfekt (Geçmiş)
+        - Präteritum (Geçmiş)
+        - Konjunktiv 2 (Sadece rica formu)
+        - Futur 1 
+10) Sätze (cümleler)
+        - Negation
+        - Fragesätze
+                -- Ja/Nein
+                -- W Fragen
+                
 
 B1 Almanca Konuları:
 1) Präteritum
@@ -1017,6 +1045,11 @@ ich hab gehört, sie folgen dir
 warum sollte dir irgendjemand folgen
 Sie halten dich für schlau - çok zeki olduğunu düşünüyorlar
 Sie halten dich für einen Römer - seni bir Romalı olrak görüyorlar
+Sie halten sich für unbesiegbar - kendilerini yenilmez sanıyorlar
+aber genau das ist ihre Schwache - ama bu onların zayıflığı olacak
+die welt wird sich ewig erinnern - dünya sizi sonsuza dek hatırlayacak
+du willst die Liebe deines Vaters so sehr, dass du alles glaubst und alles tust
+you want your father's love so much that you believe everything and do everything
 bis zum letzten Mann - son adamına kadar
 -Diesmal holen wir uns gleich den Wolf - bu sefer doğrudan kurda gideceğiz
 gleich - same, alike
@@ -1091,9 +1124,104 @@ wie könnte es anders sein
 wir zwingen sie zum Rückzug - onlara çekilmeye zorlayacak
 geh zu ihr und sag ihr,
 lenk die Wache ab - muhafızları oyala
+ich kenne sie in- und auswendig - onların içini dışını bilirim
+wir sind zu wenige - çok azız
+das ist unsere Gelegenheit - fırsat
+der wolf stehl von der Tür - kurt kapının önünde duruyor
+ihr konntet euch kein einziges Mal (bir kez) zusammenschliessen 
+seht euch an - şu halinize bakın
+wir können gar nichts tun - bir şey yapamayız
+ehre - honour
+lasst uns gemeinsam aufstehen - let us together to get up
+so heiss der Kerl - adamın adı böyle
+das Zeug fickt euch richtig weg - bu şey harbiden sizi s*kiyor
+-- ist mir bisher nicht begegnet - -- hiç karşılaşmadım
+ich kann Ihnen momentan nicht sagen, wie viel Geld er hat - ne kadar parası vardı şu an size söyleyemem
+dass er noch immer auf das, was er da geleistet hat, stolz ist - başardıklarından halen gurur duyuyordur
+hier geschah - işte burası
+was geschah - ne diyebilirim ki
+jetzt fahre ich nicht geradeaus weiter, sondern ich biege jetzt ab - şimdi dümdüz gitmiyorum, yolumu değiştiriyorum
+warum, wann, wieso, weshalb - neden, ne zaman, nasıl, niçin
+eigentlich ist das ganz spannend
+--eigentlich - actually
+das war sein Umfeld - bu onun alanı/çevresiydi
+Freudin gab es bis dato auch noch nicht - o zmana kadar kız arkadaşı da yoktu
+einfach nur dieser dünne Typ, der aber auch keinen Sport macht - o sıralarda
+sondern (but) eher(rather)
+damals, da habe ich mich mit jemandem unterhalten - those times, I was talking/entertain with someone
+verfügbar - available
+beide - both
+de redest über viele Sachen dann in Laufe der Nacht - gece ilerledikçe bir çok şey konuşursun
+ich kann mich nur auf mich alleine verlassen - kendimden başkasına güvenenemem
+egal wie schnell man lauft, oder wie langsam
+es gab da keine Zweifel oder so. da war kein Raum für
+zweifeln - to doubt
+zweifel - ikilem, şüphe
+an der Spitze -- Euro Umsatz an einem Tag und -- Bestellungen am Tag
+das vermag(do -vurgu gibi) ich nicht zu sagen
+das soll sein Ziel werden, so haben wir gedacht, ja - that should be his goal, so we thought, yes
+kam dann eben auch schnell die Sache, weswegen wir heute hier sind - then came the thing quickly, which is why we are here today
+wenn Sie keine Lust haben, können Sie nach Hause gehen - isteğin yoksa
+Sie kam mir hinterher und meinte - yanıma geldi
+schwierig zu sagen, weil das diese Vorgeschichten beinhaltet
+difficult to say because that includes these antecedents
+das ist klassische Selbstüberschatzung - klasik aşırı özgüven
+so mit einem ruhigen Tempo - rahat bi tempoda
+fleissig - çalışkan
+pünktlich - dakik
+pflichtbewusst - dürüst
+--> Lebenslauf - cv, resume
+das ist seine Bewerbung - onun başvurusu
+ich hab's geschafft - bunu başardım
+es ist ja nicht vergleichbar mit -- - it is not comparable to --
+als Teil einer Gemeinschaft - toplumun bir parçası olarak
+muss man eben ein paar Mal gehen in den 4.Stock - you just have to go a few times to the 4th floor
+ich fragte ihn, ob er etwas über eBay bestellt hat - bir şey sipariş edip etmediğini sordum
+ich bin Mieterin einer Wohnung in Berlin - Berlinde bir daire kiraladım
+es ging ja auch lange Zeit gut - uzun bir süre boyunca işler iyi gitmiş
+er hat sich sicher gefühlt - kendini güvende hissetmiş
+der grösste Spass an der Sache war, einfach zu sehen,  wie es wachst - en eğlenceli kısmı bu şeyin gittikçe büyüdüğünü izlemek
+das ganze Geld hat er gar nicht ausgegeben - tek kuruşunu harcamamış
+er hat das überhaupt (at all) nicht getan - jhiç birini yapmamıştı
+jeder normale Erwachsene, dem geht es um Geld
+man konnte es gar nicht 'erahnen' - kimse hiç tahmin edemezdi
+erahnen - to guess
+die ahnung - idea
+--euro Umsatz(profit), was  trotzdem viel ist - which is still a lot
+gerade zu dem Zeitpunkt war das nicht so bekannt - pek bilinmezdi o zmanlar
+komm, machen Sie schnell, ich habe noch so viel - önden buyrun, benim çok işim var
+sicherheitvorkehrungen - güvenlik önlemleri
+sehr langweilig - very boring
+--> hier hat man nix. früh aufstehen, abends schlafen gehen - here you have nothing - sabah kalk, akşam yat
+es ist eine schlechte Erinnerung - it is a bad memoir
+warum sollten die wegen mir hier sein
+ich kann ja nicht sagen: "ich komm dahin - oraya geldim" - Das wirkt sehr unprofessionell
+inwiefern - hangi açıdan?
+Am Schluss, hat's für ihn nicht 'gereicht' - In the end it was not 'enough' for him
+das er unsere Ermittlungen bewertet, finde ich jetzt ein bisschen unverschamt
+that he evaluates our investigations, I now find a bit impudent - küstahca
+Menschen machen keine Fehler - insanlar hiç hata yapmaz
+Die Leute gehen ja arbeiten
+insofern
+er hat dann irgendwann geantwortet
+ich konnte jede doofe Frage an ihn richten
+war das alles sehr amateurhaft
+Es hat keiner mitbekommen - kimse farketmedi
+hattest du Sorge, dass deine Familie das mitbekommt - Ailen farkeder diye endişelenmedin mi
+jetzt ist es einfach vorbei?
+und dann war eher das Problem - bir sorun vardı
+zwei Wochen spater, ich glaube - sanırım iki hafta sonra
+ich kontrolliere alles, ich stehe über den Dingen, ich kann das
+kaltschnauzig - soğuk kanlı
+es war schon ganz schön dreist. Da hat sich jemand sehr sicher gefühlt - oldukça gözü pek, kendinden emin
+aber der Unterschied ist halt, macht man's, oder macht man's nicht
+ich verstehe den Vergleich mit Amazon nicht
 
 
 
+
+aber jetzt sind viereinhalb Jahre rum
+--> das sieht so witzig aus - it looks like funny
 
 
 
