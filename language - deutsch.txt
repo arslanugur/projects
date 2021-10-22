@@ -68,6 +68,14 @@ A1 Almanca Konuları:
         - der --> M
         - die --> F, P
         - das --> N
+        
+        Nom             Akk -i          Dat -e          Prä -de, -den (+ Dat, Akk, Gen)
+        der Stuhl       den Stuhl       dem Stuhl       auf den Stuhl - sandalyenin üzerine
+        die Lampe       die Lampe       der Lampe       auf dem Stuhl - sandalyenin üzerinde
+        das Buch        das Buch        dem Buch
+        die Bücher      die Bücher      den Büchern
+        Ich habe gestern eine Lampe gekauft. Die ist so schön!
+        
 7) Adjektive und Adverbien
 8) Präpositionen
 9) Deutsche Zeitformen
