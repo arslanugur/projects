@@ -17,7 +17,42 @@ ich habe das nicht so gemeint - i didnt mean it
 phrasessssss devam
 
 A1 Almanca Konuları:
-1) Das Alphabet
+1) Das Deutsche Alphabet
+        acht, aachen --> uzun okunur
+        Cent - Sent ei ince
+        Computer - Kompıtır aou kalın
+        dick, drei
+        Elefant, Erdbeere - erdbiire
+        fünf, fisch --> friedrich
+        gross, garten
+        hand, herbst
+        insel, intensiv
+        J - Yot --> ja, jahre
+        katze, kaputt
+        löwe, lustig (funny) --> lustih
+        mutter, meinung (maynung)
+        nein, neun
+        Oma, Opa
+        papa, peinlich
+        quelle (kıvele), quadrat
+        rucksack, rot
+        Samuel, sieben zamstag, siebın
+        tag, traurig
+        ulrich, uhr
+        vogel f, vielleicht f, Vase --> V Vau
+        welle, wasser
+        xanten, hexe - ksantın, hexa
+        yacht, handy (handi), typ (tüp) - y üpsilon
+        zwiebel, zwei - tset - tsıvay
+        a-umlaut --> ärger, jäger --> erga, yerga
+        ökonom, böse
+        übermut, müde --> übamut
+        ss- es-zett --> strasse, aussen
+        sta- şıta
+        
+        Buchstabieralphabet
+        buchstabieren - hafr harf söylemek - hecelemek değil yani
+        U-Gustav-U-Richard
 2) Zahlen
 3) Personal Pronomen
 4) Kasus (3 Fälle)
@@ -29,13 +64,16 @@ A1 Almanca Konuları:
         - Unregelmässige Verben
         - Modalverben
         - Trennbare Verben (Ayrılabilen)
-6)
+6) Nomen und Artikel
+        - der --> M
+        - die --> F, P
+        - das --> N
 7) Adjektive und Adverbien
 8) Präpositionen
 9) Deutsche Zeitformen
         - Präsens (Şimdiki)
-        - Perfekt (Geçmiş)
-        - Präteritum (Geçmiş)
+        - Perfekt (Geçmiş sadece iki fiil)
+        - Präteritum (Geçmiş )
         - Konjunktiv 2 (Sadece rica formu)
         - Futur 1 
 10) Sätze (cümleler)
@@ -44,7 +82,7 @@ A1 Almanca Konuları:
                 -- Ja/Nein
                 -- W Fragen
                 
-
+11) Konjunktionen (bağlsçlar)
 B1 Almanca Konuları:
 1) Präteritum
         A2-war-hatte (sein and haben)
