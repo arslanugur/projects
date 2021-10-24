@@ -67,7 +67,7 @@ how
 Present Simple Tense	          --> I prefer my coffee black 
 Present Continuous Tense	  --> He is listening the music now.
 Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
-Present Perfect Continuous Tense  -->	She has been singing a song.
+Present Perfect Continuous Tense  --> She has been singing a song.
 Past Simple Tense	          --> We watched the news last night.
 Past Continuous Tense	          --> I was learning German last year.
 Past Perfect Tense	          --> He had left when I went to the club.
