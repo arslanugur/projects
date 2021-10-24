@@ -43,6 +43,11 @@ fast    how fast can a cheetah run?
 well    how well do you speak English?
 
 
+---> QUANTIFIERS
+much --> no, a little, a bit of, some, a lot of, a great deal of, a large amount of, plenty of, lots of, tons of
+many --> no, a few, a number of, some, several, a lot of, a great number of, a large number of, plenty of, lots of, tons of
+
+
 
 ---> THERE
 Present     Past          Modals – Present    Modals – Past
@@ -119,6 +124,7 @@ Have we got any bread?
 
 --> no
 There is no cheese in the refrigerator. (Buzdolabında hiç peynir yok.)
+
 
 --> extras
 There aren’t any people in the lounge. (çoğul) - (Salonda kimse yok.)
