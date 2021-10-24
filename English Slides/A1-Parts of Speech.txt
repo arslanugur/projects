@@ -1,0 +1,143 @@
+---> PARTS OF SPEECH
+              Function/Job    	                      Example
+              ----------------------------------------------------------------------------------------
+Noun	        --> thing or person	                    pencil, cat, Jack
+Pronoun	      --> replaces a noun	                    --> Subject Pronouns: I, You, He, She, It, We, You, They
+                                                      --> Object Pronouns: me, you, him, her, it, us, you, them
+Verb	        --> Action or State	                    go, come, see, open, study	I like apple
+Adverb	      --> Describe a verb, adjective, adverb	silently, badly, really, quickly
+Adjective	    --> Describes a noun	                  big, silent, bad
+Preposition	  --> Links a noun to another word	      at, on, in, of, after, before, under	She was hiding under the table
+Conjunction	  --> Joins clauses or sentences	        but, and, while, when	I am very hungry, but the fridge is empty
+Interjection  --> Short Exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
+
+
+
+---> SENTENCE STRUCTURES
+S + V	          The visitors have arrived. 
+                The old man died.
+S + V + O	      The kids’ve eaten all the chocolate jar.
+                The shop sells computers.
+S + V + AD	    This jacket is nice.
+                The song became a big hit.
+S + V + AV	    The match is tomorrow.
+                We got on the bus.
+                The meetings are every month.
+S + V + O + O	  We should give the children presents(direct object)
+                She sent me a text message. (direct object)
+S + V + O + AD	The Project kept everyone very busy.
+                All the publicity made the song a big hit.
+S + V + O + AV	She puts her phone in her pocket.
+                The police got the car out of the river.
+                
+                
+---> GROWING A SENTENCE
+            I waited
+What:	      I waited in line.
+Adjective:	I waited in a lengthy line.
+When:	      I waited in a lenghty line last night.
+Where:	    Last night, I waited in a lengthy line at Walmart.
+Who:	      Last night, I waited in a lengthy line with my sister at Walmart.
+How:	      Last night, at Walmart, I waited impatiently in a lengthy line with my sister.
+Why:	      Last night, at Walmart, I waited impatiently in a lengthy line with my sister 
+            because only one register was open for the entire store!
+
+
+---> QUESTION WORDS
+what        what are you talking about? 
+which       which one was your car? - he red one (of the cars) was my car (mine)
+who         who’s that? that’s George
+            who are you talking to/with?
+            who is talking to/with you?
+where       where do you live (in)? in New York
+            where are you from?
+            where are you going (to)?
+            where are you coming from?
+why         why will I have to clean up? - Because, there are guests
+            why is this so important to you all of a suddden? – bir anda neden önemli oldu?
+when        when do you wake up everyday?
+what time   what kind of music do you like? - I like Rock music
+what kind   
+whom        whom did you see yesterday? I saw your father
+whose       whose book did you borrow? I borrowed his book.
+how
+
+
+---> TWELVE TENSES
+Present Simple Tense	            --> I prefer my coffee black 
+Present Continuous Tense	        --> He is listening the music now.
+Present Perfect Tense	            --> It has rained a lot lately. (bitse bile devam)
+Present Perfect Continuous Tense  -->	She has been singing a song.
+Past Simple Tense	                --> We watched the news last night.
+Past Continuous Tense	            --> I was learning German last year.
+Past Perfect Tense	              --> He had left when I went to the club.
+Past Perfect Continuous Tense	    --> They had been being friend since childhood.
+Future Simple Tense	              --> They will study maths.
+Future Continuous Tense	          --> They will be loving you.
+Future Perfect Tense	            --> By next week, they will have earned lots of money.
+Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
+
+
+---> SIMPLE VS. CONTINUOUS
+                    SIMPLE      		                                CONTINUOUS/PROGRESSIVE
+	                                               PAST TIME	
+I had washed the car before it rained.	    <--  past perfect	 --> I had been going to school for a year when it was closed.
+I went the school.	                        <--     past   	   --> I was washing the car when it rained.
+I have already studied the tenses today.    <-- present perfect--> I have been learning English for three years.
+I take English classes every Monday.	      <--   present	     --> I am studying.
+	                                               PRESENT MOMENT	
+I will go to the cinema.	                  <--    future	     --> I will be fishing this time next week.
+I’ll have learned all the tenses by tomorrow<-- future perfect --> I’ll have been studying English for 3 years this summer.
+	                                                FUTURE TIME	
+                                                  
+                     
+                     
+                     
+                     
+---> PRONOUNS and POSSESSIVE ADJECTIVES 
+                     
+-----TO BE-----    Subject      Object      Possessive    Possessive    Reflexive
+Present    Past   Pronouns      Pronouns    Adjectives    Pronouns      Pronouns
+----------------------------------------------------------------------------------
+am	        was	         I	    me	        my ...        ... mine.	    myself
+are	       were	       you	    you	        your ...      ... yours.	  yourself
+is	        was	        he	    him	        his ...       ... his.	    himself
+is	        was	       she	    her	        her ...       ... hers.	    herself
+is	        was	        it	    it	        its ...       ... 	        itself
+are	       were	        we	    us	        our ...	      ... ours.	    ourselves
+are	       were	       you	    you	        your ...	    ... yours.	  yourselves
+are	       were       they	    them	      their ...	    ... theirs.	  themselves
+
+he is going to teach him     - o, ona öğretecek
+he is going to teach himself – o, kendisine öğretecek
+
+EXAMPLES
+What’s your address?
+My car is in front of the school.
+This is Jack and this is his wife, Sue.
+Put your coats on the back of your seats.
+Our new Maths teacher is very nice.
+What a beautiful bird! Its feathers are bright blue!
+My sister is always tired. Her job is difficult.
+That’s Anna’s homework and this is yours.
+Your hotel is near the city center while ours is near the airport.
+I love your sofa. Mine isn’t as comfortable is yours.
+We don’t need help with our project but the boys need help with theirs.
+Is this Carol’s bicycle? – No, that red one over there is hers.
+--> We also use possessive pronouns after a noun + ‘of’. 
+For example:
+I’m a friend of his.
+You’re a student of mine.
+
+
+---> Types of Determiners
+Article:               a, an, the
+Possessive adjective:  my, your..
+Demonstrative pronoun: this, that, these, those
+Numeral: 	             one, two, three
+Ordinal: 	             first, second, third
+Quantifier: 	         a few, another, several, much, many, a lot of, some, very
+
+
+
+
