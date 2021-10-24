@@ -7,7 +7,7 @@ Adjective     Comparative       Superlative
 good          better            the best
 bad           worse             the worst
 far           farther           the farthest (for distance)
-far	          further           the furthest (for distance and time)
+far	    further           the furthest (for distance and time)
 little        less              the least
 many          more              the most
 much          more              the most
@@ -72,6 +72,19 @@ sloppy - ihtiyatsız
 frank, stubborn, cruel, cute, dead, distinct, drab
 bright, fragile, trustworthy
 
+involved
+concerned
+amusing – amused
+exciting – excited
+interesting – interested
+confusing – confused
+embrassing
+frightening
+fascinate
+bore
+blooming- bloomed
+
+
 
 --> Examples
 You are the best friend I ever had. - En iyi arkadaşım sensin
@@ -103,21 +116,144 @@ confused- kafam karıştı
 you are still thinking like a lone wolf
 
 
-İnvolved
-Concerned
-Present
-
-Amusing – amused
-Exciting – excited
-İnteresting – interested
-Confusing – confused
-Embrassing
-Frightening
-Fascinate
-Bore
-Blooming- bloomed
-
 
 --> SYNONYM and ANTONYM
-good = excellent
-bad = atrocious
+good = excellent    ---       bad = atrocious
+early (earlier)               late (later, the latest, the last)
+easy = facile                 difficult = hard
+soft                          hard
+high                          low
+hot, warm                     cold = freezing
+heavy                         light
+tidy                          messy = slovenly
+tall = towering, long         short = brief       (tall bulding, long train)
+tired = exhausted, sleepy
+same
+similar                       different = disparate
+simple                        difficult                     (simplicity = difficulty)
+quick = fast                  slow
+rich, affluent, wealthy, well-to-do	poor = destitute
+happy = ecstatic              sad
+noisy = deafing               quiet = silent                (silence = noise)
+old = ancient                 new
+old                           young
+alive                         dead
+accurate = exact              alert
+average
+big = immense, great          small
+large= huge	          
+little = tiny
+brave = courageous            afraid = fearful/terrified    (brevity, courage) (fear)
+scared = petrified
+bright = light = luminous     dark                          (brightness != darkness)	
+calm = serene                 angry = furious               (calmness = serenity) (anger = fury)
+careful	                    nervous = apprehensive        (nerve)
+cheap = stingy	          expensive                     (expense)
+clear, clean = spotless	dirty
+dry = parched	          wet 
+strong = unyielding           weak = frial
+positive                      negative
+safe                          dangerous                     (safety = danger)
+secure	
+empty = desolate              full
+colourful = vibrant	
+crowded = bustling	
+confused = perplexed	
+cute = adorable	
+competitive = cutthroat	
+clever = brilliant	
+creative = innovative	
+dear = cherished	
+detailed = meticulous	
+dirty = squalid	
+dull = tedious	
+eager = keen	
+evil = wicked	
+exciting = exhilarating	
+fabulous	
+famous, popular	
+glad = overjoyed	
+lazy = indolent	
+lively = animated	
+loud = thunderous = deafening
+long-term = enduring	
+loved = adored	
+modest – gösterişsiz	
+nice = kind, polite	rude
+nice, pretty, beautiful = exquisite	ugly = hideous
+near-er	out-er
+necessary = essential	
+neat = immaculate	
+often = frequently	
+painful = excruciating	
+powerful = compelling
+pure
+naive	dirty
+rainy = pouring	
+roomy = spacious	
+risky = perilous	self-confident
+sharp = keen
+shiny = gleaming
+sleepy = lethargic
+stupid = idiotic	
+smelly = pungent	
+smooth = sleek	
+sober	drunk
+sick = ill	
+skinny = skeletal	
+serious = grave	funny
+several	few
+scared = frightened, petrified
+dignified – ağırbaşlı	
+strict	
+tasty = delicious	
+thin = gaunt	fat = obese
+upset = distraught	
+valuable = precious	
+wicked = villainous	
+willing = eager	
+worried = distressed	
+
+
+
+
+--> Extra Adjectives
+Absurd
+Controversial
+Captivating
+Coming-of age
+Chilling
+Emsemble
+Explosive
+Exciting
+Fairy Tale
+Gruesome
+Gory
+Gritty
+Goofy
+Investigative
+Ominous
+Quirky
+Riveting
+Rags to Riches
+Royalty
+Raunchy
+Suspenseful
+Slick
+Scandalous
+Sentimental
+Scary
+Twists and Turns
+Witty
+Steamy
+Swoonworthy
+Soapy
+Heartfelt
+Intimate
+Rousing
+Nordic Noir
+Charming
+Unrequited love
+Combat
+Gal Pals
+
