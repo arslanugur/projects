@@ -45,7 +45,7 @@ well    how well do you speak English?
 
 
 ---> THERE
-Present	    Past	        Modals – Present	  Modals – Past
+Present     Past          Modals – Present    Modals – Past
 --------------------------------------------------------------
 there is    there was     there will be       there would be
 there are   there were    there can be        there could be
