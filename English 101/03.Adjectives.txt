@@ -147,11 +147,11 @@ brave = courageous            afraid = fearful/terrified    (brevity, courage) (
 scared = petrified
 bright = light = luminous     dark                          (brightness != darkness)	
 calm = serene                 angry = furious               (calmness = serenity != anger = fury)
-careful	                    nervous = apprehensive        (nerve)
+careful                       nervous = apprehensive        (nerve)
 cheap = stingy                expensive                     (expense)
 clear, clean = spotless	dirty
 naive                         dirty
-dry = parched	          wet
+dry = parched                 wet
 strong = unyielding           weak = frial                  (strength != weakness)
 positive                      negative
 safe                          dangerous                     (safety != danger)
@@ -161,7 +161,7 @@ thin = gaunt                  fat = obese
 several                       few
 empty = desolate              full
 sober                         drunk
-nice = kind, polite	          rude
+nice = kind, polite           rude
 nice, pretty, beautiful = exquisite	
 ugly = hideous
 risky = perilous              self-confident
