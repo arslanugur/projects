@@ -132,7 +132,7 @@ same
 similar                       different = disparate
 simple                        difficult                     (simplicity = difficulty)
 quick = fast                  slow
-rich, affluent      	poor = destitute              (affluence)
+rich, affluent                poor = destitute              (affluence)
 happy = ecstatic              sad                           (happiness != sadness)
 noisy = deafing               quiet = silent                (silence = noise)
 old = ancient                 new
@@ -148,7 +148,7 @@ scared = petrified
 bright = light = luminous     dark                          (brightness != darkness)	
 calm = serene                 angry = furious               (calmness = serenity != anger = fury)
 careful	                    nervous = apprehensive        (nerve)
-cheap = stingy	          expensive                     (expense)
+cheap = stingy                expensive                     (expense)
 clear, clean = spotless	dirty
 naive                         dirty
 dry = parched	          wet
