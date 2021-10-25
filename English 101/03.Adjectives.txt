@@ -7,7 +7,7 @@ Adjective     Comparative       Superlative
 good          better            the best
 bad           worse             the worst
 far           farther           the farthest (for distance)
-far	    further           the furthest (for distance and time)
+far           further           the furthest (for distance and time)
 little        less              the least
 many          more              the most
 much          more              the most
@@ -132,8 +132,8 @@ same
 similar                       different = disparate
 simple                        difficult                     (simplicity = difficulty)
 quick = fast                  slow
-rich, affluent, wealthy, well-to-do	poor = destitute
-happy = ecstatic              sad
+rich, affluent      	poor = destitute              (affluence)
+happy = ecstatic              sad                           (happiness != sadness)
 noisy = deafing               quiet = silent                (silence = noise)
 old = ancient                 new
 old                           young
@@ -141,21 +141,32 @@ alive                         dead
 accurate = exact              alert
 average
 big = immense, great          small
-large= huge	          
+large = huge	          
 little = tiny
 brave = courageous            afraid = fearful/terrified    (brevity, courage) (fear)
 scared = petrified
 bright = light = luminous     dark                          (brightness != darkness)	
-calm = serene                 angry = furious               (calmness = serenity) (anger = fury)
+calm = serene                 angry = furious               (calmness = serenity != anger = fury)
 careful	                    nervous = apprehensive        (nerve)
 cheap = stingy	          expensive                     (expense)
 clear, clean = spotless	dirty
-dry = parched	          wet 
-strong = unyielding           weak = frial
+naive                         dirty
+dry = parched	          wet
+strong = unyielding           weak = frial                  (strength != weakness)
 positive                      negative
-safe                          dangerous                     (safety = danger)
-secure	
+safe                          dangerous                     (safety != danger)
+secure
+serious = grave               funny
+thin = gaunt                  fat = obese
+several                       few
 empty = desolate              full
+sober                         drunk
+nice = kind, polite	          rude
+nice, pretty, beautiful = exquisite	
+ugly = hideous
+risky = perilous              self-confident
+dignified – ağırbaşlı
+willing = eager	
 colourful = vibrant	
 crowded = bustling	
 confused = perplexed	
@@ -179,8 +190,6 @@ loud = thunderous = deafening
 long-term = enduring	
 loved = adored	
 modest – gösterişsiz	
-nice = kind, polite	rude
-nice, pretty, beautiful = exquisite	ugly = hideous
 near-er	out-er
 necessary = essential	
 neat = immaculate	
@@ -188,30 +197,22 @@ often = frequently
 painful = excruciating	
 powerful = compelling
 pure
-naive	dirty
 rainy = pouring	
 roomy = spacious	
-risky = perilous	self-confident
 sharp = keen
 shiny = gleaming
 sleepy = lethargic
 stupid = idiotic	
 smelly = pungent	
 smooth = sleek	
-sober	drunk
 sick = ill	
 skinny = skeletal	
-serious = grave	funny
-several	few
 scared = frightened, petrified
-dignified – ağırbaşlı	
 strict	
 tasty = delicious	
-thin = gaunt	fat = obese
 upset = distraught	
 valuable = precious	
 wicked = villainous	
-willing = eager	
 worried = distressed	
 
 
