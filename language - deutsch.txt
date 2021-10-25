@@ -838,7 +838,6 @@ für nachste Woche einen Termin machen - for next week randevu
 marktwert - piyasa degeri
 geheimklub - gizli klub
 ICH "ERINNERE MICH AN" EINE PARTY - I REMEMBER...
-fickt sie noch gut - hala iyi sikisiyor mu
 halt den mund - kapa çeneni
 das wollte man doch eigentlich immer nur noch mal sehen
 insan bunu tekrar tekrar izlemek isterdi
@@ -1242,7 +1241,8 @@ wir können gar nichts tun - bir şey yapamayız
 ehre - honour
 lasst uns gemeinsam aufstehen - let us together to get up
 so heiss der Kerl - adamın adı böyle
-das Zeug fickt euch richtig weg - bu şey harbiden sizi s*kiyor
+das Zeug fickt euch richtig weg - bu şey harbiden sizi
+fickt sie noch gut? - hala iyi
 -- ist mir bisher nicht begegnet - -- hiç karşılaşmadım
 ich kann Ihnen momentan nicht sagen, wie viel Geld er hat - ne kadar parası vardı şu an size söyleyemem
 dass er noch immer auf das, was er da geleistet hat, stolz ist - başardıklarından halen gurur duyuyordur
