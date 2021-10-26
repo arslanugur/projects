@@ -43,6 +43,19 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
             because only one register was open for the entire store!
 
 
+---> How to start learning a new language?
+The book is new       --> eşitlik bildiren cümleler
+Is the book new       --> eşitlik soru cümlesi
+I have a book         --> aitlik kullanımı
+I read a book         --> geniş zaman basit cümle
+Do I read a book?     --> geniş zaman soru cümlesi
+A big book            --> sıfat kullanımı
+I give James the book --> nesne kullanımı
+I give it to him      --> nesne kullanımı
+I should/can/will go  --> yardımcı fiil kullanımı
+
+
+
 ---> QUESTION WORDS
 what        what are you talking about? 
 which       which one was your car? - he red one (of the cars) was my car (mine)
@@ -64,48 +77,6 @@ how
 
 
 
----> Firstly, How to learn a new language?
-The book is new       --> eşitlik bildiren cümleler
-Is the book new       --> eşitlik soru cümlesi
-I have a book         --> aitlik kullanımı
-I read a book         --> geniş zaman basit cümle
-Do I read a book?     --> geniş zaman soru cümlesi
-A big book            --> sıfat kullanımı
-I give James the book --> nesne kullanımı
-I give it to him      --> nesne kullanımı
-I should/can/will go  --> yardımcı fiil kullanımı
-
-
----> TWELVE TENSES
-Present Simple Tense	          --> I prefer my coffee black 
-Present Continuous Tense	  --> He is listening the music now.
-Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
-Present Perfect Continuous Tense  --> She has been singing a song.
-Past Simple Tense	          --> We watched the news last night.
-Past Continuous Tense	          --> I was learning German last year.
-Past Perfect Tense	          --> He had left when I went to the club.
-Past Perfect Continuous Tense	  --> They had been being friend since childhood.
-Future Simple Tense	          --> They will study maths.
-Future Continuous Tense	          --> They will be loving you.
-Future Perfect Tense	          --> By next week, they will have earned lots of money.
-Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
-
-
----> SIMPLE VS. CONTINUOUS
-                    SIMPLE      		                                CONTINUOUS/PROGRESSIVE
-	                                          PAST TIME	
-I had washed the car before it rained.	    <--  past perfect	--> I had been going to school for a year when it was closed.
-I went the school.	                    <--      past   	--> I was washing the car when it rained.
-I have already studied the tenses today.    <-- present perfect --> I have been learning English for three years.
-I take English classes every Monday.        <--     present	--> I am studying.
-	                                         PRESENT MOMENT	
-I will go to the cinema.	            <--     future	--> I will be fishing this time next week.
-I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll have been studying English for 3 years this summer.
-	                                          FUTURE TIME	
-                                                  
-                     
-                     
-                     
                      
 ---> PRONOUNS and POSSESSIVE ADJECTIVES 
                      
@@ -122,7 +93,8 @@ are        were	       you	you	    your ...      ... yours.    yourselves
 are        were       they	them	    their ...     ... theirs.   themselves
 
 
-EXAMPLES
+
+---> EXAMPLES
 he is going to teach him     - o, ona öğretecek
 he is going to teach himself – o, kendisine öğretecek
 What’s your address?
@@ -153,4 +125,35 @@ Quantifier: 	       a few, another, several, much, many, a lot of, some, very
 
 
 
+---> TWELVE TENSES
+Present Simple Tense	          --> I prefer my coffee black 
+Present Continuous Tense	  --> He is listening the music now.
+Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
+Present Perfect Continuous Tense  --> She has been singing a song.
+Past Simple Tense	          --> We watched the news last night.
+Past Continuous Tense	          --> I was learning German last year.
+Past Perfect Tense	          --> He had left when I went to the club.
+Past Perfect Continuous Tense	  --> They had been being friend since childhood.
+Future Simple Tense	          --> They will study maths.
+Future Continuous Tense	          --> They will be loving you.
+Future Perfect Tense	          --> By next week, they will have earned lots of money.
+Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
+
+
+
+---> SIMPLE VS. CONTINUOUS
+                    SIMPLE      		                                CONTINUOUS/PROGRESSIVE
+	                                          PAST TIME	
+I had washed the car before it rained.	    <--  past perfect	--> I had been going to school for a year when it was closed.
+I went the school.	                    <--      past   	--> I was washing the car when it rained.
+I have already studied the tenses today.    <-- present perfect --> I have been learning English for three years.
+I take English classes every Monday.        <--     present	--> I am studying.
+	                                         PRESENT MOMENT	
+I will go to the cinema.	            <--     future	--> I will be fishing this time next week.
+I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll have been studying English for 3 years this summer.
+	                                          FUTURE TIME	
+                                                  
+                     
+                     
+                     
 
