@@ -63,6 +63,19 @@ whose       whose book did you borrow? I borrowed his book.
 how
 
 
+
+---> Firstly, How to learn a new language?
+The book is new       --> eşitlik bildiren cümleler
+Is the book new       --> eşitlik soru cümlesi
+I have a book         --> aitlik kullanımı
+I read a book         --> geniş zaman basit cümle
+Do I read a book?     --> geniş zaman soru cümlesi
+A big book            --> sıfat kullanımı
+I give James the book --> nesne kullanımı
+I give it to him      --> nesne kullanımı
+I should/can/will go  --> yardımcı fiil kullanımı
+
+
 ---> TWELVE TENSES
 Present Simple Tense	          --> I prefer my coffee black 
 Present Continuous Tense	  --> He is listening the music now.
