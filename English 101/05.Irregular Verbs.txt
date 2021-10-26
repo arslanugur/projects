@@ -3,71 +3,71 @@ Infinitive    Simple Past      Past participle
 ------------------------------------------------
 abide         abode            abode
 arise         arose	           arisen
-awake	        awoke	           awoken
+awake	      awoke	           awoken
 be	          was/were	       been                (am/is/are)
-bear	        bore	           borne / born
-beat	        beat	           beaten
+bear	      bore	           borne / born
+beat	      beat	           beaten
 become	      became	         become
-beget	        begat / begot	   begotten
-begin	        began	           begun
-bend	        bent	           bent
+beget	      begat / begot	   begotten
+begin	      began	           begun
+bend	      bent	           bent
 bet	          bet	             bet
 bid	          bid / bade	     bid / bidden
-bite	        bit	             bitten
-bleed	        bled	           bled
-blow	        blew             blown
-break	        broke	           broken
-bring	        brought	         brought
-broadcast	    broadcast	       broadcast
-build	        built	           built
-burn	        burnt / burned	 burnt / burned
-burst	        burst	           burst
+bite	      bit	             bitten
+bleed	      bled	           bled
+blow	      blew             blown
+break	      broke	           broken
+bring	      brought	         brought
+broadcast	  broadcast	       broadcast
+build	      built	           built
+burn	      burnt / burned	 burnt / burned
+burst	      burst	           burst
 buy	          bought           bought
 can	          could	           could
-cast	        cast	           cast
-catch	        caught	         caught
-chide	        chid / chode	   chid / chidden
+cast	      cast	           cast
+catch	      caught	         caught
+chide	      chid / chode	   chid / chidden
 choose	      chose	           chosen
-cling	        clung	           clung
+cling	      clung	           clung
 clothe	      clad / clothed	 clad / clothed
-come	        came	           come
-cost	        cost	           cost
-creep	        crept	           crept
+come	      came	           come
+cost	      cost	           cost
+creep	      crept	           crept
 cut	          cut	             cut
-deal	        dealt	           dealt
+deal	      dealt	           dealt
 dig	          dug	             dug
-dive	        dived	           dived / dove
+dive	      dived	           dived / dove
 do	          did	             done
-draw	        drew	           drawn
-dream	        dreamt / dreamed dreamt / dreamed
-drink	        drank	           drunk
-drive	        drove	           driven
-dwell	        dwelt	           dwelt / dwelled
+draw	      drew	           drawn
+dream	      dreamt / dreamed dreamt / dreamed
+drink	      drank	           drunk
+drive	      drove	           driven
+dwell	      dwelt	           dwelt / dwelled
 eat	          ate	             eaten
-fall	        fell	           fallen
-feel	        felt	           felt
-feed	        fed	             fed
-fight	        fought	         fought
-find	        found	           found
-flee	        fled	           fled
-fling	        flung	           flung
+fall	      fell	           fallen
+feel	      felt	           felt
+feed	      fed	             fed
+fight	      fought	         fought
+find	      found	           found
+flee	      fled	           fled
+fling	      flung	           flung
 fly	          flew	           flown
 forbid	      forbade          forbidden
-forecast	    forecast	       forecast
+forecast	  forecast	       forecast
 foresee	      foresaw	         foreseen
 forget	      forgot	         forgotten / forgot
 forgive	      forgave	         forgiven
 forsake	      forsook	         forsaken
-freeze      	froze   	       frozen
+freeze        froze   	       frozen
 get	          got	             gotten / got
-give	        gave	           given
+give	      gave	           given
 go	          went	           gone
-grind	        ground	         ground
-grow	        grew	           grown
-hang	        hung	           hung
-have	        had	             had
-hear	heard	heard
-hide	hid	hidden
+grind	      ground	         ground
+grow	      grew	           grown
+hang	      hung	           hung
+have	      had	             had
+hear          heard             heard
+hide          hid               hidden
 hit	hit	hit
 hold	held	held
 hurt	hurt	hurt
