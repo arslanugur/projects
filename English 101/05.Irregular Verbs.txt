@@ -131,10 +131,10 @@ sow	sowed	sown / sowed
 speak	spoke	spoken
 speed	sped	sped
 spell	spelt	spelt
-spend	spent	spent
-spill	spilt / spilled	spilt / spilled
-spin	spun	spun
-spit	spat / spit	spat / spit
+spend	        spent	        spent
+spill	        spilt / spilled	spilt / spilled
+spin	        spun	        spun
+spit	        spat / spit	    spat / spit
 split	split	split
 spoil	spoilt	spoilt
 spread	spread	spread
