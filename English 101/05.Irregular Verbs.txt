@@ -1,4 +1,4 @@
-    V1             V2                 V3
+    V1             V2                     V3
 Infinitive      Simple Past         Past participle
 ------------------------------------------------
 abide           abode               abode
