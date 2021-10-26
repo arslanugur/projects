@@ -45,7 +45,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
 
 ---> Mezzofanti Technique: How to start learning a new language?
 The book is new       --> eşitlik bildiren cümleler
-Is the book new       --> eşitlik soru cümlesi
+Is the book new?      --> eşitlik soru cümlesi
 I have a book         --> aitlik kullanımı
 I read a book         --> geniş zaman basit cümle
 Do I read a book?     --> geniş zaman soru cümlesi
