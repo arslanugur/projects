@@ -80,8 +80,8 @@ lean	leant / leaned	leant / leaned
 leap	leapt / leaped	leapt / leaped
 learn	learnt	learnt
 leave	left	left
-lend	lent	lent
-let	let	let
+lend            lent            lent
+let             let             let
 lie	lay	lain
 light	lit / lighted	lit / lighted
 lose	lost	lost
