@@ -14,7 +14,7 @@ overcome        overcame            overcome(üstesinden gelmek)
 get             got                 gotten / got(almak, elde etmek, anlamak)
 forget          forgot              forgotten / forgot(unutmak)
 beget           begat / begot       begotten
-begin           began               begun                   start
+begin           began               begun                   start Ving
 swim            swam                swum(yüzmek)
 drink           drank               drunk(içmek)
 bend            bent                bent
