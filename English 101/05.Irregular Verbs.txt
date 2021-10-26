@@ -1,70 +1,71 @@
-infinitive (V1)	    Simple Past (V2)      Past participle(V3)
--------------------------------------------------------------
-abide	            abode	abode
-arise	arose	arisen
-awake	awoke	awoken
-be	was/were	been
-bear	bore	borne / born
-beat	beat	beaten
-become	became	become
-beget	begat / begot	begotten
-begin	began	begun
-bend	bent	bent
-bet	bet	bet
-bid	bid / bade	bid / bidden
-bite	bit	bitten
-bleed	bled	bled
-blow	blew	blown
-break	broke	broken
-bring	brought	brought
-broadcast	broadcast	broadcast
-build	built	built
-burn	burnt / burned	burnt / burned
-burst	burst	burst
-buy	bought	bought
-can	could	could
-cast	cast	cast
-catch	caught	caught
-chide	chid / chode	chid / chidden
-choose	chose	chosen
-cling	clung	clung
-clothe	clad / clothed	clad / clothed
-come	came	come
-cost	cost	cost
-creep	crept	crept
-cut	cut	cut
-deal	dealt	dealt
-dig	dug	dug
-dive	dived	dived / dove
-do	did	done
-draw	drew	drawn
-dream	dreamt / dreamed	dreamt / dreamed
-drink	drank	drunk
-drive	drove	driven
-dwell	dwelt	dwelt / dwelled
-eat	ate	eaten
-fall	fell	fallen
-feed	fed	fed
-feel	felt	felt
-fight	fought	fought
-find	found	found
-flee	fled	fled
-fling	flung	flung
-fly	flew	flown
-forbid	forbade	forbidden
-forecast	forecast	forecast
-foresee	foresaw	foreseen
-forget	forgot	forgotten / forgot
-forgive	forgave	forgiven
-forsake	forsook	forsaken
-freeze	froze	frozen
-get	got	gotten / got
-give	gave	given
-go	went	gone
-grind	ground	ground
-grow	grew	grown
-hang	hung	hung
-have	had	had
+    V1             V2                 V3
+Infinitive    Simple Past      Past participle
+------------------------------------------------
+abide         abode            abode
+arise         arose	           arisen
+awake	        awoke	           awoken
+be	          was/were	       been                (am/is/are)
+bear	        bore	           borne / born
+beat	        beat	           beaten
+become	      became	         become
+beget	        begat / begot	   begotten
+begin	        began	           begun
+bend	        bent	           bent
+bet	          bet	             bet
+bid	          bid / bade	     bid / bidden
+bite	        bit	             bitten
+bleed	        bled	           bled
+blow	        blew             blown
+break	        broke	           broken
+bring	        brought	         brought
+broadcast	    broadcast	       broadcast
+build	        built	           built
+burn	        burnt / burned	 burnt / burned
+burst	        burst	           burst
+buy	          bought           bought
+can	          could	           could
+cast	        cast	           cast
+catch	        caught	         caught
+chide	        chid / chode	   chid / chidden
+choose	      chose	           chosen
+cling	        clung	           clung
+clothe	      clad / clothed	 clad / clothed
+come	        came	           come
+cost	        cost	           cost
+creep	        crept	           crept
+cut	          cut	             cut
+deal	        dealt	           dealt
+dig	          dug	             dug
+dive	        dived	           dived / dove
+do	          did	             done
+draw	        drew	           drawn
+dream	        dreamt / dreamed dreamt / dreamed
+drink	        drank	           drunk
+drive	        drove	           driven
+dwell	        dwelt	           dwelt / dwelled
+eat	          ate	             eaten
+fall	        fell	           fallen
+feel	        felt	           felt
+feed	        fed	             fed
+fight	        fought	         fought
+find	        found	           found
+flee	        fled	           fled
+fling	        flung	           flung
+fly	          flew	           flown
+forbid	      forbade          forbidden
+forecast	    forecast	       forecast
+foresee	      foresaw	         foreseen
+forget	      forgot	         forgotten / forgot
+forgive	      forgave	         forgiven
+forsake	      forsook	         forsaken
+freeze      	froze   	       frozen
+get	          got	             gotten / got
+give	        gave	           given
+go	          went	           gone
+grind	        ground	         ground
+grow	        grew	           grown
+hang	        hung	           hung
+have	        had	             had
 hear	heard	heard
 hide	hid	hidden
 hit	hit	hit
