@@ -6,7 +6,7 @@ sein            ist             war               ist gewesen	        to be     
 haben           hat             hatte             hat gehabt          to have	
 werden          wird            wurde             ist geworden/worden	to become	
 
-dürfen          dar             durfte            hat gedurft         to be allowed to	
+dürfen          darf            durfte            hat gedurft         to be allowed to	
 können          kann            konnte            hat gekonnt         to be able to	
 mögen           mag             mochte            hat gemocht         to like	
 müssen          muss            musste            hat gemusst         to have to	
@@ -24,50 +24,41 @@ betrügen        betrügt         betrog            betrogen                dece
 bewegen*        bewegt          bewog             hat bewogen             move 
 biegen          biegt           bog (bin etc.)    gebogen                 bend, turn  
 bieten          bietet          bot               geboten                 offer, bid  
-binden tie bindet band gebunden 
-bitten request, ask someone to do...  bittet bat gebeten 
-blasen blow, sound bläst blies geblasen 
-bleiben stay, remain bleibt blieb (bin etc.) geblieben 
-braten roast brät briet gebraten 
-brechen break bricht brach gebrochen 
-brennen burn brennt brannte gebrannt 
-bringen bring, take to... bringt brachte gebracht 
-denken think denkt dachte gedacht 
-dürfen be allowed to... darf durfte gedurft 
-empfehlen recommend empfiehlt empfahl empfohlen 
-erschrecken2 be frightened erschrickt erschrak (bin etc.) 
-erschrocken 
-essen eat3 isst aß gegessen 
-fahren go (not on foot), drive fährt fuhr (bin etc.) gefahren 
-fallen fall fällt fiel (bin etc.) gefallen 
-fangen catch fängt fing gefangen 
-finden find findet fand gefunden 
-fliegen fly fliegt flog (bin etc.) geflogen 
-fliehen flee, run away flieht floh (bin etc.) geflohen 
-fließen flow fließt floss geflossen 
-fressen eat (done by animals) frisst fraß gefressen 
-frieren freeze, be cold friert fror (bin etc.) gefroren 
-geben give gibt gab gegeben 
-gedeihen flourish, prosper gedeiht gedieh (bin etc.) gediehen 
-gehen go, walk geht ging (bin etc.) gegangen 
-gelingen4 succeed gelingt gelang (bin etc.) gelungen 
-gelten5 be valid, be of worth gilt galt gegolten
-
-
-1 Also used as a reflexive verb, i.e. sich bewegen, e.g. Die Erde bewegt sich um die Sonne (The Earth) moves/revolves around the sun) 
-2 When used in the meaning “to frighten someone”, it’s a weak verb: Ich erschreckte ihn (I frightened him). 
-3 essen is for eating done by humans, not by animals. See fressen. 
-4 This is used impersonally: Es gelang mir, ein gutes Hotel zu finden (I succeeded in finding a good hotel).
-
-genießen enjoy genießt genoss genossen 
-geraten fall into..., get into...6 gerät geriet (bin etc) geraten 
-geschehen7 happen geschieht geschah (bin etc.) geschehen 
-gewinnen win, gain gewinnt gewann gewonnen 
-gießen pour gießt goss gegossen 
-gleichen resemble gleicht glich geglichen 
-gleiten glide, slide gleitet glitt (bin etc.) geglitten 
-graben dig gräbt grub gegraben 
-greifen grasp, grab hold of    greift griff gegriffen 
+binden          bindet          band              gebunden                tie 
+bitten          bittet          bat               gebeten                 request, ask someone to do...  
+blasen          bläst           blies             geblasen                blow, sound 
+bleiben         bleibt          blieb (bin etc.)  geblieben               stay, remain 
+braten          brät            briet             gebraten                roast 
+brechen         bricht          brach             gebrochen               break  
+brennen         brennt          brannte           gebrannt                burn 
+bringen         bringt          brachte           gebracht                bring, take to...  
+denken          denkt           dachte            gedacht                 think 
+empfehlen       empfiehlt       empfahl           empfohlen               recommend  
+erschrecken2    erschrickt      erschrak(bin etc.)erschrocken             be frightened  
+essen           isst            aß                gegessen                eat3  
+fahren          fährt           fuhr (bin etc.)   gefahren                go (not on foot), drive  
+fallen          fällt           fiel (bin etc.)   gefallen                fall 
+fangen          fängt           fing              gefangen                catch  
+finden          findet          fand              gefunden                find  
+fliegen         fliegt          flog (bin etc.)   geflogen                fly  
+fliehen         flieht          floh (bin etc.)   geflohen                flee, run away  
+fließen         fließt          floss             geflossen               flow  
+fressen         frisst          fraß              gefressen               eat (done by animals)  
+frieren         friert          fror (bin etc.)   gefroren                freeze, be cold  
+geben           gibt            gab               gegeben                 give 
+gedeihen        gedeiht         gedieh (bin etc.) gediehen                flourish, prosper  
+gehen           geht            ging (bin etc.)   gegangen                go, walk  
+gelingen4       gelingt         gelang (bin etc.) gelungen                succeed  
+gelten5         gilt            galt              gegolten                be valid, be of worth 
+genießen        genießt         genoss            genossen                enjoy  
+geraten         gerät           geriet (bin etc)  geraten                 fall into..., get into...6  
+geschehen7      geschieht       geschah (bin etc.)geschehen               happen 
+gewinnen        gewinnt         gewann            gewonnen                win, gain  
+gießen          gießt           goss              gegossen                pour  
+gleichen        gleicht         glich             geglichen               resemble  
+gleiten         gleitet         glitt (bin etc.)  geglitten               glide, slide  
+graben          gräbt           grub              gegraben                dig 
+greifen         greift          griff             gegriffen               grasp, grab hold of 
 haben have hat hatte gehabt 
 halten8 hold, ALSO bring yourself to a standstill  hält hielt gehalten 
 hängen9 be hanging hängt hing gehangen 
@@ -90,15 +81,6 @@ lügen tell lies lügt log gelogen
 messen measure misst maß gemessen 
 mögen like mag mochte gemocht 
 müssen must, have to... muss musste gemusst 
-
-5 E.g. Diese Karte gilt nicht mehr (This ticket is no longer valid). 
-  Also has the meaning of “to be considered to be...”, e.g. Sie gilt als beste Spielerin im Verein (She is widely considered to be the best player in the club) 
-6 E.g. Der Klub ist letztes Jahr in Schwierigkeiten geraten (The club got into difficulties last year). 
-7 Another meaning: Das geschieht ihm recht (That serves him right/he deserves that). 
-8 Another meaning: Ich halte ihn für intelligent (I consider him to be intelligent). 
-9 When used in the meaning “to hang something”, it’s a weak verb: Ich hängte das Bild an die Wand im Wohnzimmer (I hung the picture on the wall in the living room). 
-10 “to bid” as in: Sie hieß mich willkommen (She bid me welcome/she welcomed me). 
-
 nehmen take nimmt nahm genommen 
 nennen name, call nennt nannte genannt 
 pfeifen whistle, pipe pfeift pfiff gepfiffen 
@@ -139,11 +121,6 @@ stehlen steal stiehlt stahl gestohlen
 steigen rise, mount12 steigt stieg (bin etc.) gestiegen 
 sterben die stirbt starb (bin etc.) gestorben 
 stinken stink stinkt stank gestunken 
-
-11 Note also anrufen (separable verb) “to phone someone”: Ich rufe ihn oft an. (I often phone/call him) 
-12 E.g. Die Kosten steigen (The costs are rising). 
-
-
 stoßen push, kick etc.13 stößt stieß gestoßen 
 streiten quarrel, clash14 streitet stritt gestritten 
 tragen carry, ALSO wear trägt trug getragen 
@@ -172,6 +149,20 @@ wollen want will wollte gewollt
 ziehen pull, draw, ALSO go, move zieht zog gezogen19
 zwingen compel, force zwingt zwang gezwungen 
 
+
+1 Also used as a reflexive verb, i.e. sich bewegen, e.g. Die Erde bewegt sich um die Sonne (The Earth) moves/revolves around the sun) 
+2 When used in the meaning “to frighten someone”, it’s a weak verb: Ich erschreckte ihn (I frightened him). 
+3 essen is for eating done by humans, not by animals. See fressen. 
+4 This is used impersonally: Es gelang mir, ein gutes Hotel zu finden (I succeeded in finding a good hotel).
+5 E.g. Diese Karte gilt nicht mehr (This ticket is no longer valid). 
+  Also has the meaning of “to be considered to be...”, e.g. Sie gilt als beste Spielerin im Verein (She is widely considered to be the best player in the club) 
+6 E.g. Der Klub ist letztes Jahr in Schwierigkeiten geraten (The club got into difficulties last year). 
+7 Another meaning: Das geschieht ihm recht (That serves him right/he deserves that). 
+8 Another meaning: Ich halte ihn für intelligent (I consider him to be intelligent). 
+9 When used in the meaning “to hang something”, it’s a weak verb: Ich hängte das Bild an die Wand im Wohnzimmer (I hung the picture on the wall in the living room). 
+10 “to bid” as in: Sie hieß mich willkommen (She bid me welcome/she welcomed me). 
+11 Note also anrufen (separable verb) “to phone someone”: Ich rufe ihn oft an. (I often phone/call him) 
+12 E.g. Die Kosten steigen (The costs are rising). 
 13 Can also mean “to come across a person, bump into someone”, and in this meaning the verb uses bin/bist etc in the perfect tense. 
    E.g. Ich bin auf Steffi im Supermarkt gestoßen (I came across Steffi in the supermarket). 
 14 Also used as a reflexive verb, i.e. sich streiten – Er streitet sich oft mit seiner Kusine (He often quarrels with his cousin) 
@@ -182,6 +173,5 @@ zwingen compel, force zwingt zwang gezwungen
 18 Present tense of wissen: ich weiß, du weißt, er/sie/es weiß, wir wissen, ihr wisst, sie/Sie wissen. 
 19 In the meaning “to go to, to move to” the verb uses bin/bist etc in the perfect tense. 
    E.g. umziehen (separable verb) “to move (house)”: Sie ist zum nächsten Dorf umgezogen (She has moved to the next village).
-   
    
    
