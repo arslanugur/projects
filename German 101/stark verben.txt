@@ -1,18 +1,31 @@
 Infinitive      Present         Imperfect         Participle
+                Präsens         Präteritum        Aux Verb + Partizip II
                 er/sie/es       ich-er/sie/es     (Perfect, Passive)
 --------------------------------------------------------------------------------------------------------------
+sein            ist             war               ist gewesen	        to be         very irregular
+haben           hat             hatte             hat gehabt          to have	
+werden          wird            wurde             ist geworden/worden	to become	
+
+dürfen          dar             durfte            hat gedurft         to be allowed to	
+können          kann            konnte            hat gekonnt         to be able to	
+mögen           mag             mochte            hat gemocht         to like	
+müssen          muss            musste            hat gemusst         to have to	
+sollen          soll            sollte            hat gesollt         to be supposed - to	following a norm
+wollen          will            wollte            hat gewollt         to want
+
+https://www.germanveryeasy.com/irregular-verbs-in-german
+https://jakubmarian.com/list-of-irregular-strong-german-verbs/
+
 backen          backt           backte            gebacken                bake
 befehlen        befiehlt        befahl            befohlen                command, order 
 beginnen        beginnt         begann            begonnen                begin  
 beißen          beißt           biss              gebissen                bite 
 betrügen        betrügt         betrog            betrogen                deceive, cheat  
-bewegen*        bewegt          bewog             bewogen                 move 
-biegen bend, turn biegt bog (bin etc.) gebogen 
-bieten offer, bid bietet bot geboten 
+bewegen*        bewegt          bewog             hat bewogen             move 
+biegen          biegt           bog (bin etc.)    gebogen                 bend, turn  
+bieten          bietet          bot               geboten                 offer, bid  
 binden tie bindet band gebunden 
-bitten request, ask 
-someone to do... 
-bittet bat gebeten 
+bitten request, ask someone to do...  bittet bat gebeten 
 blasen blow, sound bläst blies geblasen 
 bleiben stay, remain bleibt blieb (bin etc.) geblieben 
 braten roast brät briet gebraten 
@@ -25,23 +38,150 @@ empfehlen recommend empfiehlt empfahl empfohlen
 erschrecken2 be frightened erschrickt erschrak (bin etc.) 
 erschrocken 
 essen eat3 isst aß gegessen 
-fahren go (not on foot), 
-drive 
-fährt fuhr (bin etc.) gefahren 
+fahren go (not on foot), drive fährt fuhr (bin etc.) gefahren 
 fallen fall fällt fiel (bin etc.) gefallen 
 fangen catch fängt fing gefangen 
 finden find findet fand gefunden 
 fliegen fly fliegt flog (bin etc.) geflogen 
 fliehen flee, run away flieht floh (bin etc.) geflohen 
 fließen flow fließt floss geflossen 
-fressen eat (done by 
-animals) 
-frisst fraß gefressen 
+fressen eat (done by animals) frisst fraß gefressen 
 frieren freeze, be cold friert fror (bin etc.) gefroren 
 geben give gibt gab gegeben 
 gedeihen flourish, prosper gedeiht gedieh (bin etc.) gediehen 
 gehen go, walk geht ging (bin etc.) gegangen 
 gelingen4 succeed gelingt gelang (bin etc.) gelungen 
-gelten5 be valid, be of 
-worth 
-gilt galt gegolten
+gelten5 be valid, be of worth gilt galt gegolten
+
+
+1 Also used as a reflexive verb, i.e. sich bewegen, e.g. Die Erde bewegt sich um die Sonne (The Earth) moves/revolves around the sun) 
+2 When used in the meaning “to frighten someone”, it’s a weak verb: Ich erschreckte ihn (I frightened him). 
+3 essen is for eating done by humans, not by animals. See fressen. 
+4 This is used impersonally: Es gelang mir, ein gutes Hotel zu finden (I succeeded in finding a good hotel).
+
+genießen enjoy genießt genoss genossen 
+geraten fall into..., get into...6 gerät geriet (bin etc) geraten 
+geschehen7 happen geschieht geschah (bin etc.) geschehen 
+gewinnen win, gain gewinnt gewann gewonnen 
+gießen pour gießt goss gegossen 
+gleichen resemble gleicht glich geglichen 
+gleiten glide, slide gleitet glitt (bin etc.) geglitten 
+graben dig gräbt grub gegraben 
+greifen grasp, grab hold of    greift griff gegriffen 
+haben have hat hatte gehabt 
+halten8 hold, ALSO bring yourself to a standstill  hält hielt gehalten 
+hängen9 be hanging hängt hing gehangen 
+heben raise, lift hebt hob gehoben 
+heißen be called, ALSO bid10 heißt hieß geheißen 
+helfen help hilft half geholfen 
+kennen know (a place, person, situation etc.) kennt kannte gekannt 
+klingen sound klingt klang geklungen 
+kommen come kommt kam (bin etc.) gekommen 
+können can, be able to... kann konnte gekonnt 
+kriechen crawl kriecht kroch (bin etc.) gekrochen 
+laden load, ALSO invite lädt lud geladen 
+lassen let, ALSO leave (something behind)  lässt ließ gelassen 
+laufen run läuft lief (bin etc.) gelaufen 
+leiden suffer leidet litt gelitten 
+leihen lend (out) leiht lieh geliehen 
+lesen read liest las gelesen 
+liegen lie (in a place) liegt lag gelegen 
+lügen tell lies lügt log gelogen 
+messen measure misst maß gemessen 
+mögen like mag mochte gemocht 
+müssen must, have to... muss musste gemusst 
+
+5 E.g. Diese Karte gilt nicht mehr (This ticket is no longer valid). 
+  Also has the meaning of “to be considered to be...”, e.g. Sie gilt als beste Spielerin im Verein (She is widely considered to be the best player in the club) 
+6 E.g. Der Klub ist letztes Jahr in Schwierigkeiten geraten (The club got into difficulties last year). 
+7 Another meaning: Das geschieht ihm recht (That serves him right/he deserves that). 
+8 Another meaning: Ich halte ihn für intelligent (I consider him to be intelligent). 
+9 When used in the meaning “to hang something”, it’s a weak verb: Ich hängte das Bild an die Wand im Wohnzimmer (I hung the picture on the wall in the living room). 
+10 “to bid” as in: Sie hieß mich willkommen (She bid me welcome/she welcomed me). 
+
+nehmen take nimmt nahm genommen 
+nennen name, call nennt nannte genannt 
+pfeifen whistle, pipe pfeift pfiff gepfiffen 
+raten advise, ALSO guess rät riet geraten 
+reiben rub reibt rieb gerieben 
+reißen tear, rip reißt riss gerissen 
+reiten ride (on horse) reitet ritt (bin etc.) geritten 
+rennen run rennt rannte (bin etc.) gerannt 
+riechen smell riecht roch gerochen 
+rufen call11, shout ruft rief gerufen 
+scheiden separate scheidet schied (bin etc.) geschieden 
+scheinen seem, ALSO shine scheint schien geschienen 
+schieben shove, push schiebt schob geschoben 
+schießen shoot schießt schoss geschossen 
+schlafen sleep schläft schlief geschlafen 
+schlagen hit, beat, strike schlägt schlug geschlagen 
+schließen shut, ALSO conclude, finish schließt schloss geschlossen 
+schneiden cut schneidet schnitt geschnitten 
+schreiben write schreibt schrieb geschrieben 
+schreien shout, yell schreit schrie geschrie(e)n 
+schweigen be(come) silent schweigt schwieg geschwiegen 
+schwellen swell schwillt schwoll (bin etc.) geschwollen 
+schwimmen swim schwimmt schwamm (bin etc.) geschwommen 
+schwingen swing schwingt schwang geschwungen 
+schwören swear (on oath) schwört schwur geschworen 
+sehen see sieht sah gesehen 
+sein be ist war (bin etc.) gewesen 
+senden send sendet sandte gesandt 
+singen sing singt sang gesungen 
+sinken sink sinkt sank (bin etc.) gesunken 
+sitzen be sitting, sit sitzt saß gesessen 
+sollen be obliged to, be supposed to... soll sollte gesollt 
+sprechen speak spricht sprach gesprochen 
+springen jump, spring springt sprang (bin etc.) gesprungen 
+stechen prick, sting sticht stach gestochen 
+stehen stand steht stand gestanden 
+stehlen steal stiehlt stahl gestohlen 
+steigen rise, mount12 steigt stieg (bin etc.) gestiegen 
+sterben die stirbt starb (bin etc.) gestorben 
+stinken stink stinkt stank gestunken 
+
+11 Note also anrufen (separable verb) “to phone someone”: Ich rufe ihn oft an. (I often phone/call him) 
+12 E.g. Die Kosten steigen (The costs are rising). 
+
+
+stoßen push, kick etc.13 stößt stieß gestoßen 
+streiten quarrel, clash14 streitet stritt gestritten 
+tragen carry, ALSO wear trägt trug getragen 
+treffen meet, ALSO hit15 trifft traf getroffen 
+treiben force, drive, urge, ALSO drift treibt trieb getrieben 
+treten step, go tritt trat (bin etc.) getreten 
+trinken drink trinkt trank getrunken 
+tun do tut tat getan 
+verbergen hide, conceal verbirgt verbarg verborgen 
+verderben spoil, ruin verdirbt verdarb verdorben 
+vergessen forget vergisst vergaß vergessen 
+verlassen leave (eg a place/person) verlässt verließ verlassen 
+verlieren lose verliert verlor verloren 
+vermeiden avoid vermeidet vermied vermieden 
+verschwinden disappear verschwindet verschwand (bin etc.) verschwunden 
+verzeihen pardon, excuse verzeiht verzieh verziehen 
+wachsen grow (by itself) wächst wuchs (bin etc.) gewachsen 
+waschen wash wäscht wusch gewaschen 
+wenden turn16 wendet wandte gewandt 
+werben advertise, push wirbt warb geworben 
+werden become, ALSO turn out...17 wird wurde (bin etc.) geworden 
+werfen throw wirft warf geworfen 
+wiegen weigh wiegt wog gewogen 
+wissen know (a fact) weiß18 wusste gewusst 
+wollen want will wollte gewollt 
+ziehen pull, draw, ALSO go, move zieht zog gezogen19
+zwingen compel, force zwingt zwang gezwungen 
+
+13 Can also mean “to come across a person, bump into someone”, and in this meaning the verb uses bin/bist etc in the perfect tense. 
+   E.g. Ich bin auf Steffi im Supermarkt gestoßen (I came across Steffi in the supermarket). 
+14 Also used as a reflexive verb, i.e. sich streiten – Er streitet sich oft mit seiner Kusine (He often quarrels with his cousin) 
+15 E.g. Ich treffe das Ziel immer (I always hit the target). 
+16 E.g. bitte wenden (P.T.O. – please turn over [the page]). 
+   Also as a reflexive verb, i.e. sich wenden, e.g. Ich wende mich an einen Experten (I am consulting/seeing an expert) 
+17 E.g. Das Foto ist gut geworden (The photo has turned out well). 
+18 Present tense of wissen: ich weiß, du weißt, er/sie/es weiß, wir wissen, ihr wisst, sie/Sie wissen. 
+19 In the meaning “to go to, to move to” the verb uses bin/bist etc in the perfect tense. 
+   E.g. umziehen (separable verb) “to move (house)”: Sie ist zum nächsten Dorf umgezogen (She has moved to the next village).
+   
+   
+   
