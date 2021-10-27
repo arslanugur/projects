@@ -7,7 +7,7 @@ do              did                 done                    (yapmak)
 be (am/is/are)  was/were            been                    (olmak)
 arise           arose               arisen                  (yükselmek, ortaya çıkmak)                    
 rise            rose                risen                   (yükselmek)                                   raise - yükseltmek, yetiştirmek, arttırmak
-awake           awoke               awoken                  (uyanmak, farkına varmak)                     wake-woke-woken
+awake           awoke               awoken                  (uyanmak, farkına varmak)                     
 wake            woke                woken                   (uyanmak)
 bear            bore                borne / born            (taşımak, üstlenmek, katlanmak)               I was born in Ankara
 beat            beat                beaten                  (dövmek, yenmek)
