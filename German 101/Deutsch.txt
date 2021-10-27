@@ -15,83 +15,10 @@ das ist Afrika – that is Africa
 ich habe das nicht so gemeint - i didnt mean it
 
 
-Selamlaşma
-        Grüss Gott - Selamün Aleyküm
-        Moin! - Hamburg and North
-        Sevrus! - Bayern, Badun, und Württenberg
-        Grüss dich! - selam sana! --> Senli Benli
-        Guten Morgen, Tag, Abend
-        Gute Nacht
-Vedalaşma
-        Tschüss
-        Tschüssi
-        Tschö
-        Tschau --> Ciao
-        Auf Wiedersehen
-        Auf Wiederhören
-        Bis bald
-        Bis dann/nachter/später - see you then/later 
-        Bis zum nächsten Mal - see you next time
-        Bis Gleich - see you right soon 
-        Bis Montag
-        Bis nächeste Woche 
-        
-0) Sich Vorstellen - Kendini Tanıtmak
-        Hallo! 
-        Ich heisse Uğur. Wir heissen Sie?
-        Mein name ist Uğur
-        Ich bin Uğur
-        
-        Heissen - ismi olmak
         
 A1 Almanca Konuları:
-1) Das Deutsche Alphabet
-        ie --> ii
-        ei --> ay
-        acht, aachen --> uzun okunur
-        Cent - Sent ei ince
-        Computer - Kompıtır aou kalın
-        dick, drei
-        Elefant, Erdbeere - erdbiire
-        fünf, fisch --> friedrich
-        gross, garten
-        hand, herbst
-        insel, intensiv
-        J - Yot --> ja, jahre
-        katze, kaputt
-        löwe, lustig (funny) --> lustih
-        mutter, meinung (maynung)
-        nein, neun
-        Oma, Opa
-        papa, peinlich
-        quelle (kıvele), quadrat
-        rucksack, rot
-        Samuel, sieben zamstag, siebın
-        tag, traurig
-        ulrich, uhr
-        vogel f, vielleicht f, Vase --> V Vau
-        welle, wasser
-        xanten, hexe - ksantın, hexa
-        yacht, handy (handi), typ (tüp) - y üpsilon
-        zwiebel, zwei - tset - tsıvay
-        a-umlaut --> ärger, jäger --> erga, yerga
-        ökonom, böse
-        übermut, müde --> übamut
-        ss- es-zett --> strasse, aussen
-        sta- şıta
-        
-        Buchstabieralphabet
-        buchstabieren - hafr harf söylemek - hecelemek değil yani
-        U-Gustav-U-Richard
-2) Zahlen
-3) Personal Pronomen
-                sein (to be)                            kommen  gehen
-                ich             bin                     komme   gehe
-                du              bist                    kommst  gehst
-                er/sie/es       ist     (der/die/das)   kommt   geht
-                wir             sind                    kommen  gehen
-                ihr             seid    (siz)           kommt   geht
-                sie/Sie         sind    (onlar/Siz)     kommen  gehen
+
+
 
 4) Kasus (3 Fälle)
         - Nominativ
@@ -102,17 +29,7 @@ A1 Almanca Konuları:
         - Unregelmässige Verben
         - Modalverben
         - Trennbare Verben (Ayrılabilen)
-6) Nomen und Artikel
-        - der --> M
-        - die --> F, P
-        - das --> N
-        
-        Nom             Akk -i          Dat -e          Prä -de, -den (+ Dat, Akk, Gen)
-        der Stuhl       den Stuhl       dem Stuhl       auf den Stuhl - sandalyenin üzerine
-        die Lampe       die Lampe       der Lampe       auf dem Stuhl - sandalyenin üzerinde
-        das Buch        das Buch        dem Buch
-        die Bücher      die Bücher      den Büchern
-        Ich habe gestern eine Lampe gekauft. Die ist so schön!
+
         
 7) Adjektive und Adverbien
 8) Präpositionen
@@ -137,90 +54,12 @@ A1 Almanca Konuları:
                         wie/was ist Ihr Name?
                 
 11) Konjunktionen (bağlsçlar)
-B1 Almanca Konuları:
-1) Präteritum
-        A2-war-hatte (sein and haben)
-        A2-Modalverben
-        B1-alles
-        
-        Verbkonjugation in Präterium
-        --> regelmässige verben (düzenli çekimli)
-                frage --> fragte*        antworte --> antwortete*
-                fragst --> fragtest     antwortest --> antwortetest
-                fragt --> fragte*        antwortet --> antwortete*
-                fragen --> fragten      antworten --> antworteten
-                fragt --> fragtet       antwortet --> antwortet
-                fragen --> fragten      antworten --> antworteten
-        --> unregelmässige verben (düzensiz çekimli)
-                sehe --> sah*           komme --> kam*
-                siehst --> sahst        kommst --> kamst
-                sieht --> sah*          kommt --> kam*
-                sehen --> sahen         kommen --> kamen
-                seht --> saht           kommt --> kamt
-                sehen --> sahen         kommen --> kamen
-        --> mischverben (ikisinin karşımı)
-                weiss --> wusste*       denke --> dachte*
-                weisst --> wusstest     denkst --> dachtest
-                weiss --> wusste*       denkt --> dachte*
-                wissen --> wussten      denken --> dachten
-                wisst --> wusstet       denkt --> dachtet
-                wissen --> wussten      denken --> dachten
-                
-                sie hat gestern sehr lange gearbeitet (perfekt) - çalıştı
-                sie arbeitete gestern sehr lange (präterium) - çalıştı (aynı şekilde çevir)
-                
-                sie haben am Freitag für die ganze Woche eingekauft
-                sie kauften am Freitag für die ganze Woche ein. (shopped for the whole week)
-                
-                ich bin heute mit dem Auto gekommen
-                ich kam heute mit dem Auto
-                
-                Im Kurs haben wir gestern ein Diktat geschrieben
-                Im Kurs schrieben wir gestern ein Diktat
-                
-        
-2) Plusquamperfekt (like Past Perfect to compare to Perfekt(konuşmada)/Präterium(yazmada) (Geçmiş))
-      plusquamperfekt---perfekt, präterium--- präsens---futur1, futur 2
-          -mıştı               -dı
-          
-      präterium --> hatten, waren
-      perfect partizip II -->
-      Plusquamperfekt --> präterium + perfect partizip II (ikisinin birleşimi)
-      
-      der Fahrer hatte Alkohol getrunken, deswegen ist der Unfall passiert
-        sürücü alkol içmişti, bu yüzden kaza olmuştu
-      ich bin heute sehr spät zur Arbeit gekommen. ich hatte zu lange geschlafen
-        bugün işe çok geç gittim. gereğinden fazla uyumuşum
-      Um 7 uhr war ich im Bahnhof. Aber der Zug war schon weggefahren
-        saat 7de istasyona girmiştim, ordaydım ama tren çoktan gitmişti
-      In der Kantine konnte ich nicht bezahlen. I hatte meinen Geldbeutel vergessen
-        kantinde ödeme yapamadım, cüzdanımı unutmuştum
-      
-      B1 sınavında çok karşına çıkmaz ama yine de bil
 
-3) Konjunktionen(a,b,…,j maddeleri başlıca örnekleridir)
-    a)obwohl --> mesine/masına rağmen
-        Sie geht mit ihren Freundinnen ins Kino, obwohl sie keine Filme mag.
-            o kızarkadaşlarıyla birlikte sinemaya gidiyor, filmleri sevmesine rağmen 
-        Obwohl sie keine Filme mag, geht sie mit ihren Freundinnen ins Kino (2.cümle fiille başlar)
-        Er hat mich mehrmals angerufen, obwohl ich gesagt habe, dass ich beschäftigt bin
-        obwohl ich gesagt habe, dass ich beschäftigt bin, Er hat mich mehrmals angerufen 
-        meşgul old söylememe rağmen, beni defalarca aradı
-        Obwohl sie keine Kinder mag, möchte sie Erzieherin werden. 
-        Sie möchte Erzieherin werden, obwohl sie keine Kinder mag
-        çocukları sevmemesine rağmen anaokulu öğretmini olmak istiyor
-        Obwohl ich kein Blut sehen kann, möchte ich eines Tages Arzt werden
-        Ich möchte eines Tages werden, obwohl ich kein Blut sehen kann
-        kan görememe rağmen, bir gün doktor olmak istiyorum
-    b)als
-    c)um…zu/damit
-    d)statt/ohne…zu+Infinitiv
-    e)falls
-    f)während
-    g)bevor
-    h)als ob
-    i)nachdem
-    j)seit dem
+
+B1 Almanca Konuları:
+
+
+
 4)Zweiteilige Konjunktionen
     a)nicht nur, …sondern auch
     b)zwar…-aber
