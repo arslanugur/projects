@@ -1,12 +1,13 @@
 V1              V2                  V3
 Present         Past                Perfect
-Infinitive      Simple Past         Past participle         Extras
-----------------------------------------------------------------------------------------
+Infinitive      Simple Past         Past participle         Turkish                                       Examples/Extra  
+------------------------------------------------------------------------------------------------------------------------------------------
 abide           abode               abode                   (kalmak, katlanmak, çekmek)
-arise           arose               arisen                  (yükselmek, ortaya çıkmak)  rise-rose-risen
-awake           awoke               awoken                  (uyanmak, farkına varmak)   wake-woke-woken
+arise           arose               arisen                  (yükselmek, ortaya çıkmak)                    
+rise            rose                risen                   (yükselmek)                                   raise - yükseltmek, yetiştirmek, arttırmak
+awake           awoke               awoken                  (uyanmak, farkına varmak)                     wake-woke-woken
 be (am/is/are)  was/were            been                    (olmak)
-bear            bore                borne / born            (taşımak, üstlenmek, katlanmak) I was born in Ankara
+bear            bore                borne / born            (taşımak, üstlenmek, katlanmak)               I was born in Ankara
 beat            beat                beaten                  (dövmek, yenmek)
 become          became              become                  (olmak, haline gelmek)
 come            came                come                    (gelmek)
@@ -14,7 +15,7 @@ overcome        overcame            overcome                (üstesinden gelmek)
 get             got                 gotten / got            (almak, elde etmek, anlamak)
 forget          forgot              forgotten / forgot      (unutmak)
 beget           begat / begot       begotten                (yaratmak, yol açmak, neden olmak)
-begin           began               begun                   (başlamak) start Ving
+begin           began               begun                   (başlamak)                                    start Ving
 swim            swam                swum                    (yüzmek)
 drink           drank               drunk                   (içmek)
 sing            sang                sung                    (şarkı söylemek)
@@ -23,9 +24,9 @@ bend            bent                bent                    (bükmek, eğmek, ka
 bet             bet                 bet                     (bahse girmek)
 bid             bid / bade          bid / bidden            (demek, teklif/fiyat vermek)
 bite            bit                 bitten                  (ısırmak)
-bleed           bled                bled                    (kanamak) blood
-blow            blew                blown                   (esmek, üflemek) the wind blows
-break           broke               broken                  (kırmak) broken heart
+bleed           bled                bled                    (kanamak)                                     blood
+blow            blew                blown                   (esmek, üflemek)                              the wind blows
+break           broke               broken                  (kırmak)                                      broken heart
 bring           brought             brought                 (getirmek)
 buy             bought              bought                  (satın almak)
 fight           fought              fought                  (kavga etmek)
@@ -35,25 +36,25 @@ teach           taught              taught                  (öğretmek)
 build           built               built                   (inşa etmek)
 burn            burnt / burned      burnt / burned          (yakmak, yanmak)
 burst           burst               burst                   (patlamak, infilak etmek, aniden açmak)
-can             could               could                   (-ebilmek) modals
-cast            cast                cast                    (kalıba dökmek, rol dağılımı yapmak, biçim vermek)
+can             could               could                   (-ebilmek)                                    modals
+cast            cast                cast                    (kalıba dökmek, biçim vermek)
 forecast        forecast            forecast                (tahmin etmek, öngörmek)
-broadcast       broadcast           broadcast               (yayın yapmak,)
+broadcast       broadcast           broadcast               (yayın yapmak)
 catch           caught              caught                  (yakalamak)
 chide           chid / chode        chid / chidden          (azarlamak, çıkışmak)
-choose          chose               chosen                  (seçmek) chosen one
+choose          chose               chosen                  (seçmek)                                      chosen one
 freeze          froze               frozen                  (donmak)
 cling           clung               clung                   (tutunmak)
 clothe          clad / clothed      clad / clothed          (giydirmek, renklendirmek, örtmek)
 cost            cost                cost                    (mal olmak - fiyat/maliyet vs.)
 creep           crept               crept                   (sürünmek, emeklemek, sokulmak)
 cut             cut                 cut                     (kesmek)
-deal            dealt               dealt                   (uğraşmak, ilgilenmek, meşgul olmak) with
+deal            dealt               dealt                   (uğraşmak, ilgilenmek, meşgul olmak)          deal with
 dig             dug                 dug                     (kazmak)
 dive            dived               dived / dove            (dalmak)
 do              did                 done                    (yapmak)
 dream           dreamt / dreamed    dreamt / dreamed        (rüya görmek)
-drive           drove               driven                  (sürmek)             ride
+drive           drove               driven                  (sürmek)                                      ride
 dwell           dwelt               dwelt / dwelled         (yaşamak, barınmak)
 eat             ate                 eaten                   (yemek yemek)
 fall            fell                fallen                  (düşmek)
@@ -71,6 +72,7 @@ take            took                taken                   (almak)
 partake         partook             partaken                (katılmak, payı olmak, yeralmak)
 give            gave                given                   (vermek)
 go              went                gone                    (gitmek)
+undergo         underwent           undergone               (geçirmek, başına gelmek)
 grind           ground              ground                  (öğütmek)
 hang            hung                hung                    (asmak)
 have            had                 had                     (sahip olmak)
@@ -111,7 +113,6 @@ read            read                read                    (okumak)
 rend            rent                rent                    (yırtmak, parçalamak, yarmak)
 rid             rid                 rid                     (kurtarmak, temizlemek, def etmek)
 ring            rang                rung                    (çalmak, çaldırmak, halka geçirmek, kuşatmak, etrafını sarmak)
-rise            rose                risen                   (yükselmek) raise - yükseltmek, yetiştirmek, arttırmak
 run             ran                 run                     (koşmak)
 saw             saw / sawed         sawn / sawed            (testere ile kesmek)
 say             said                said                    (söylemek)
@@ -120,7 +121,6 @@ send            sent                sent                    (göndermek)
 set             set                 set                     (ayarlamak, düzenlemek)
 preset          preset              preset                  (önceden hazırlamak, önceden kurmak)
 offset          offset              offset                  (kaydırmak, dengelemek, ötelemek)
-typeset         typeset             typeset                 (dizgi)
 shake           shook               shaken                  (sallamak, titremek)
 shed            shed                shed                    (dökmek, ışık tutmak, akıtmak, sızdırmamak)
 shine           shone               shone                   (parlamak, parıldamak)
@@ -134,16 +134,16 @@ sleep           slept               slept                   (uyumak)
 slide           slid                slid                    (kaymak, kaydırmak, sıvışmak)
 slit            slit                slit                    (yarmak, yırtmak)
 smell           smelt               smelt                   (kokmak, koklamak)
-sow             sowed               sown / sowed            (ekmek, tohum ekmek, dikmek)  reap - biçmek, hasat etmek
+sow             sowed               sown / sowed            (ekmek, tohum ekmek, dikmek)                  reap - biçmek, hasat etmek
 speak           spoke               spoken                  (konuşmak - dil vs)
 speed           sped                sped                    (hız yapmak, süratli gitmek, yolcu etmek)
-spell           spelt               spelt                   (harf harf kodlamak, büyülemek, spell out - hecelemek)
+spell           spelt               spelt                   (harfi kodlamak, büyülemek, spell out - hecelemek)
 spend           spent               spent                   (harcamak)
 spill           spilt / spilled     spilt / spilled         (sızmak, dökmek, saçmak, serpmek)
 spin            spun                spun                    (çevirmek, döndürmek)
 spit            spat / spit         spat / spit             (tükürmek, serpiştirmek)
 split           split               split                   (bölmek, bölüşmek, ayrılmak, bölüştürmek, paylaştırmak)
-spoil           spoilt              spoilt                  (bozmak, mahvetmek, berbat etmek, şımartmak) - ruin - mahvetmek
+spoil           spoilt              spoilt                  (bozmak, mahvetmek, berbat etmek, şımartmak)   ruin - mahvetmek
 spread          spread              spread                  (yaymak, dağılmak, bulaşmak)
 spring          sprang              sprung                  (birden ortaya çıkmak, doğmak)
 stand           stood               stood                   (ayakta durmak)
@@ -154,7 +154,6 @@ sting           stung               stung                   (sokmak, yanmak, ac�
 stink           stank               stunk                   (pis/kötü/iğrenç kokmak)
 strew           strewed             strewn / strewed        (saçmak, serpmek, yaymak, dağıtmak)
 strike          struck              stricken / struck       (vurmak,çarpmak, grev yapmak, izlenim bırakmak, yer etmek, yolunu tutmak)
-strive          strove              striven                 (çabalamak, gayret etmek, didinmek)
 swear           swore               sworn                   (yemin etmek, ant içmek, küfretmek, sövmek)
 sweat           sweat / sweated     sweat / sweated         (terlemek, zorlamak, sömürmek)
 sweep           swept               swept                   (silip süpürmek)
@@ -165,7 +164,6 @@ tell            told                told                    (anlatmak)
 sell            sold                sold                    (satmak)
 thrive          throve / thrived    thriven / thrived       (gelişmek, büyümek, serpilmek)
 thrust          thrust              thrust                  (itmek, sokmak, saplamak)
-undergo         underwent           undergone               (geçirmek, başına gelmek)
 wake            woke                woken                   (uyanmak)
 wear            wore                worn                    (giyinmek)
 weep            wept                wept                    (ağlamak, damlamak, akıtmak, sızmak)
@@ -173,6 +171,7 @@ wet             wet / wetted        wet / wetted            (ıslatmak)
 win             won                 won                     (kazanmak)
 wind            wound               wound                   (sarmak, çevirmek, dolanmak, kıvrıla kıvrıla gitmek, nefes aldırmak)
 wring           wrung               wrung                   (acıtmak, sızlatmak, koparmak, kuvvetle sıkmak, bükmek, burkmak, ovuşturmak)
+strive          strove              striven                 (çabalamak, gayret etmek, didinmek)
 write           wrote               written                 (yazmak)
 
 
