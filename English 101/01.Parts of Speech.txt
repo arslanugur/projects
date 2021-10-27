@@ -114,55 +114,57 @@ For example:
 I’m a friend of his.
 You’re a student of mine.
 
----> List of basic chunks in English
-Name of chunk        Example Notes
----------------------------
-Noun+Noun              computer class
-Noun+Noun              John’s pen
-Noun+(prep)+Noun       leg of table
-Noun+(prep)+Noun       child of sister’s
-Noun+verb              parents like
-Pronoun+verb           we play
-(the)+Adjective+verb   the poor need
-(the)+PartII+verb      the abandoned regret a
-Gerund+verb            singing helps
-Numeral+verb           the first wins
-Verb+noun              play chess
-Verb+(prep)+noun       write to friends
-Verb+pronoun           like us
-Verb+(prep)+pronoun    work for him
-Verb+gerund            enjoy reading
-Verb+(prep)+gerund     vote against raising
-Verb+verb              want to buy
-Verb+numeral           have three
-Adj+noun               nice film
-Adj+gerund             beautiful singing
-Pronoun+noun           our table
-Pronoun+gerund         her studying
-Noun+gerund            Mike’s learning
-PartI+noun             playing children
-PartI+pronoun          cheering us
-PartII+noun            forgotten story
-PartII+pronoun         tired me
-PartII+gerund          excited speaking
-PartI+(to)+verb        trying to forget
-PartII+(prep)+noun     left by teacher
-PartII+(prep)+pronoun  written by me
-Gerund+noun            making chairs
-Gerund+(prep)+noun     cooking with pleasure
-Gerund+pronoun         reading it
-Gerund+(prep)+pronoun  talking to you
-Gerund+(to)+verb       learning to swim
-Gerund+(prep)+gerund   thinking about flying
-Gerund+gerund          trying opening
-Gerund+num             arriving the first
-Noun+(prep)+pronoun    girl from village
-Verb+partI             sit watching
-Num+noun               two cats
-Num+num                the fist two
-Num+(prep)+num         three of four
-“The” is the definite article necessary in this chunk
-“To” is a particle marking an infinitive
+
+
+---> LIST OF BASIC CHUNKS
+Name of Chunk			Example Notes
+--------------------------------------------------------
+Noun + Noun			computer class
+Noun + Noun			John’s pen
+Noun + (Prep) + Noun		leg of table
+Noun + (Prep) + Noun		child of sister’s
+Noun + Verb			parents like
+Pronoun + Verb			we play
+(the) + Adjective + Verb	the poor need
+(the) + Part II + Verb		the abandoned regret
+Gerund + Verb			singing helps
+Numeral + Verb			the first wins
+Verb + Noun			play chess
+Verb + (Prep) + Noun		write to friends
+Verb + Pronoun			like us
+Verb + (Prep) + Pronoun		work for him
+Verb + Gerund			enjoy reading
+Verb + (Prep) + Gerund		vote against raising
+Verb + Verb			want to buy
+Verb + Numeral			have three
+Adjective + Noun		nice film
+Adjective + Gerund		beautiful singing
+Pronoun + Noun			our table
+Pronoun + Gerund		her studying
+Noun + Gerund			Mike’s learning
+Part I + Noun			playing children
+Part I + Pronoun		cheering us
+Part II + Noun			forgotten story
+Part II + Pronoun		tired me
+Part II + Gerund		excited speaking
+Part I + (to) + Verb		trying to forget
+Part II +(Prep) + Noun		left by teacher
+Part II +(Prep) + Pronoun	written by me
+Gerund + Noun			making chairs
+Gerund + (Prep) + Noun		cooking with pleasure
+Gerund + Pronoun		reading it
+Gerund + (Prep) + Pronoun	talking to you
+Gerund + (to) + Verb		learning to swim
+Gerund + (Prep) + Gerund	thinking about flying
+Gerund + Gerund			trying opening
+Gerund + Numeral		arriving the first
+Noun + (Prep) + Pronoun		girl from village
+Verb + Part I			sit watching
+Numeral + Noun			two cats
+Numeral + Numeral		the first two
+Num + (Prep) + Numeral		three of four
+*** “The” is the definite article necessary in this chunk
+*** “To” is a particle marking an infinitive
 
 
 ---> Types of Determiners
