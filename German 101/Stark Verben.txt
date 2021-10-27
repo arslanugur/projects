@@ -4,7 +4,7 @@ Infinitive      Present         Imperfect         Participle
 --------------------------------------------------------------------------------------------------------------
 sein            ist             war (bin etc.)    ist gewesen	        to be         very irregular
 haben           hat             hatte             hat gehabt          to have	
-werden          wird            wurde (bin etc.)  ist geworden/worden	to become, ALSO turn out...17	
+werden          wird            wurde (bin etc.)  ist geworden/worden	to become, ALSO turn out... 17	
 
 
 dürfen          darf            durfte            hat gedurft         to be allowed to	
@@ -23,7 +23,7 @@ befehlen        befiehlt        befahl            befohlen                comman
 beginnen        beginnt         begann            begonnen                begin  
 beißen          beißt           biss              gebissen                bite 
 betrügen        betrügt         betrog            betrogen                deceive, cheat  
-bewegen*        bewegt          bewog             hat bewogen             move 
+bewegen 1       bewegt          bewog             hat bewogen             move 
 biegen          biegt           bog (bin etc.)    gebogen                 bend, turn  
 bieten          bietet          bot               geboten                 offer, bid  
 binden          bindet          band              gebunden                tie 
@@ -36,8 +36,8 @@ brennen         brennt          brannte           gebrannt                burn
 bringen         bringt          brachte           gebracht                bring, take to...  
 denken          denkt           dachte            gedacht                 think 
 empfehlen       empfiehlt       empfahl           empfohlen               recommend  
-erschrecken2    erschrickt      erschrak(bin etc.)erschrocken             be frightened  
-essen           isst            aß                gegessen                eat3  
+erschrecken 2   erschrickt      erschrak(bin etc.)erschrocken             be frightened  
+essen           isst            aß                gegessen                eat 3  
 fahren          fährt           fuhr (bin etc.)   gefahren                go (not on foot), drive  
 fallen          fällt           fiel (bin etc.)   gefallen                fall 
 fangen          fängt           fing              gefangen                catch  
@@ -50,11 +50,11 @@ frieren         friert          fror (bin etc.)   gefroren                freeze
 geben           gibt            gab               gegeben                 give 
 gedeihen        gedeiht         gedieh (bin etc.) gediehen                flourish, prosper  
 gehen           geht            ging (bin etc.)   gegangen                go, walk  
-gelingen4       gelingt         gelang (bin etc.) gelungen                succeed  
-gelten5         gilt            galt              gegolten                be valid, be of worth 
+gelingen 4      gelingt         gelang (bin etc.) gelungen                succeed  
+gelten 5        gilt            galt              gegolten                be valid, be of worth 
 genießen        genießt         genoss            genossen                enjoy  
-geraten         gerät           geriet (bin etc)  geraten                 fall into..., get into...6  
-geschehen7      geschieht       geschah (bin etc.)geschehen               happen 
+geraten         gerät           geriet (bin etc)  geraten                 fall into..., get into... 6  
+geschehen 7     geschieht       geschah (bin etc.)geschehen               happen 
 gewinnen        gewinnt         gewann            gewonnen                win, gain  
 gießen          gießt           goss              gegossen                pour  
 gleichen        gleicht         glich             geglichen               resemble  
@@ -62,10 +62,10 @@ gleiten         gleitet         glitt (bin etc.)  geglitten               glide,
 graben          gräbt           grub              gegraben                dig 
 greifen         greift          griff             gegriffen               grasp, grab hold of 
 haben           hat             hatte             gehabt                  have 
-halten8         hält            hielt             gehalten                hold, ALSO bring yourself to a standstill   
-hängen9         hängt           hing              gehangen                be hanging 
+halten 8        hält            hielt             gehalten                hold, ALSO bring yourself to a standstill   
+hängen 9        hängt           hing              gehangen                be hanging 
 heben           hebt            hob               gehoben                 raise, lift  
-heißen          heißt           hieß              geheißen                be called, ALSO bid10 
+heißen          heißt           hieß              geheißen                be called, ALSO bid  10 
 helfen          hilft           half              geholfen                help 
 kennen          kennt           kannte            gekannt                 know (a place, person, situation etc.) 
 klingen         klingt          klang             geklungen               sound 
@@ -118,10 +118,10 @@ stehlen         stiehlt         stahl             gestohlen               steal
 steigen         steigt          stieg (bin etc.)  gestiegen               rise, mount 12 
 sterben         stirbt          starb (bin etc.)  gestorben               die 
 stinken         stinkt          stank             gestunken               stink 
-stoßen          stößt           stieß             gestoßen                push, kick etc.13 
-streiten        streitet        stritt            gestritten              quarrel, clash14 
+stoßen          stößt           stieß             gestoßen                push, kick etc. 13 
+streiten        streitet        stritt            gestritten              quarrel, clash 14 
 tragen          trägt           trug              getragen                carry, ALSO wear 
-treffen         trifft          traf              getroffen               meet, ALSO hit15 
+treffen         trifft          traf              getroffen               meet, ALSO hit 15 
 treiben         treibt          trieb             getrieben               force, drive, urge, ALSO drift 
 treten          tritt           trat (bin etc.)   getreten                step, go 
 trinken         trinkt          trank             getrunken               drink 
@@ -136,7 +136,7 @@ verschwinden    verschwindet    verschwand (bin etc.)verschwunden         disapp
 verzeihen       verzeiht        verzieh           verziehen               pardon, excuse 
 wachsen         wächst          wuchs (bin etc.)  gewachsen               grow (by itself) 
 waschen         wäscht          wusch             gewaschen               wash 
-wenden          wendet          wandte            gewandt                 turn16 
+wenden          wendet          wandte            gewandt                 turn 16 
 werben          wirbt           warb              geworben                advertise, push 
 werfen          wirft           warf              geworfen                throw 
 wiegen          wiegt           wog               gewogen                 weigh 
