@@ -4,10 +4,11 @@ Infinitive      Simple Past         Past participle         Turkish             
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 ---> Değişen filler 
 do              did                 done                    (yapmak)
+be (am/is/are)  was/were            been                    (olmak)
 arise           arose               arisen                  (yükselmek, ortaya çıkmak)                    
 rise            rose                risen                   (yükselmek)                                   raise - yükseltmek, yetiştirmek, arttırmak
 awake           awoke               awoken                  (uyanmak, farkına varmak)                     wake-woke-woken
-be (am/is/are)  was/were            been                    (olmak)
+wake            woke                woken                   (uyanmak)
 bear            bore                borne / born            (taşımak, üstlenmek, katlanmak)               I was born in Ankara
 beat            beat                beaten                  (dövmek, yenmek)
 become          became              become                  (olmak, haline gelmek)
@@ -65,7 +66,6 @@ shake           shook               shaken                  (sallamak, titremek)
 take            took                taken                   (almak)
 partake         partook             partaken                (katılmak, payı olmak, yeralmak)
 swell           swelled / sweated   swollen                 (şişmek, dolmak, gururlandırmak, koltukları kabarmak)
-wake            woke                woken                   (uyanmak)
 swear           swore               sworn                   (yemin etmek, ant içmek, küfretmek, sövmek)
 tear            tore                torn                    (yırtmak, yarmak, hırpalanmak, paralamak, koparmak
 wear            wore                worn                    (giyinmek)
