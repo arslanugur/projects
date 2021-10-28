@@ -1,0 +1,27 @@
+---> PAST SIMPLE TENSE
+Q --> did you go on holiday last summer?
+A --> yes, I went on holiday last summer
+N --> no, I didn't go on holiday last summer
+
+
+
+---> PAST CONTINUOS TENSE
+Q --> were you coming to her birthday party?
+A --> yes, I was coming...
+N --> no, I was not coming...
+
+
+
+
+---> PAST PERFECT TENSE
+Q --> had you finished that project?
+A --> yes, I had finished...
+N --> no, I had not finished...
+
+
+
+
+---> PAST PERFECT CONTINUOUS TENSE
+Q --> had you been living in Milano?
+A --> yes, I had been living in Milano
+N --> no, I had not been living in Milano
