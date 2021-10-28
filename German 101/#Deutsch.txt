@@ -1,64 +1,7 @@
-# FAMILY
-ein/der Junge – a boy --> die jungen – the boys
-eine/die frau – woman --> die frauen – the women
-ein/der mann – man --> die Männer
-ein/das mädchen – a girl/s --> die mädchen
-ein/das kind – a child --> die kinder – the children
-der brautigam - the groom
-die braut - the bride
 
-es ist brot – it is bread (das) 
-das wasser – water
-sie trinkt – she drinks
-trinkt er? – does he drink??
-das ist Afrika – that is Africa
-ich habe das nicht so gemeint - i didnt mean it
-
-
-        
-A1 Almanca Konuları:
-
-
-
-4) Kasus (3 Fälle)
-        - Nominativ
-        - Akkusatiiiv
-        - Daäativ
-5) Verb Konjugation
-        - Regelmässige Verben
-        - Unregelmässige Verben
-        - Modalverben
-        - Trennbare Verben (Ayrılabilen)
-
-        
-7) Adjektive und Adverbien
-8) Präpositionen
-9) Deutsche Zeitformen
-        - Präsens (Şimdiki)
-        - Perfekt (Geçmiş sadece iki fiil)
-        - Präteritum (Geçmiş )
-        - Konjunktiv 2 (Sadece rica formu)
-        - Futur 1 
-10) Sätze (cümleler)
-        - Negation
-        - Fragesätze
-                -- Ja/Nein
-                -- W Fragen
-                        was - ne
-                        warum, wieso, wozu - neden, niçin
-                        wie - nasıl
-                        wo, wohin, woher - nerede, nereye - hin, nereden -den
-                        wann - ne zaman
-                        wer - kim
-                        
-                        wie/was ist Ihr Name?
-                
-11) Konjunktionen (bağlsçlar)
 
 
 B1 Almanca Konuları:
-
-
 
 4)Zweiteilige Konjunktionen
     a)nicht nur, …sondern auch
@@ -67,94 +10,7 @@ B1 Almanca Konuları:
     d)je desto/umso
     e)sowohl… als auch
     f)weder…noch
-5) Gradpartikel(echt,ziehmlich,total…) olsa da olur olmasa da ama olsa iyi
-    sehr - çok
-    besonders - bilhassa, özellikle, pek iyi
-    total - bütün, komple, hepten
-    wirklich - hakikaten
-    
-    ziemlich - oldukça
-    
-    nicht so - çok da değil
-    nicht besonders - pek de değil, o kadar da değil
-    
-    gar nicht - hiç de değil
-    überhaupt nicht - asla, katiyen değil
-    
-    sie kann (gar/überhaupt) nicht kochen - o katiyen yemek yapmayı beceremez
-    du bist (sehr) hübsch
-    er hat sich (besonders) um seine Gäste gekümmert
-        misafirleriyle bilhassa,özellikle ilgilendi
-    ich bin (total) k.o. - bittim ölüyorum (kau)
-    die Prüfung war (ziemlich) schwer - sınav oldukça zordu
-    ich weiss (wirklich) nicht, wo er ist - onun nerede olduğunu gerçekten bilmiyorum
-    das Buch hat nicht (so/besonders) gefallen
-        kitabı çok da, o kadar da beğenmedim
-    ich interessiere mich (überhaupt) nicht für Fussball
-        futbolla asla ilgilenmiyorum
-    
-6)Relativpronomen/Relativsatz(Nom. Akk.Dat.Gen.)
-                        |Nominativ|Akkusativ|Dativ --> fiile göre olacak
-        ein mann        | der     | den     | dem
-        ein Frau        | die     | die     | der
-        ein Kind        | das     | das     | dem
-        Schauspieler    | die     | die     | denen
-                yan cümle yapma - ayrıntılı cümle yapmak
-        Nominativ
-        der Mann, der ziemlich gut tanzen kann, ist mein Bruder
-                oldukça iyi dans edebilen adam benim kardeşimdir
-        eine Frau, die sehr gut kochen kann, suche ich mir
-                kendime çok iyi yapabilen bi kadın arıyorum
-        das Kind, das auf dem Spielplatz sitzt, war letztes Jahr schwer krank
-                oyun merkezinde oturan çocuk geçen sene ağır hastaydı
-        Schauspieler, die sehr gut singen können, wurden immer berühmter
-                çok güzel şarkı söyleyebilen oyuncular hep ünlü oldular
-        Akkusativ
-        das ist der Mann, den ich gestern in Fernseher gesehen habe
-                dün televizyonda gördüğüm adam bu - nesne durumunda adam
-        ich singe einen Superhit, den jeder kennt
-                herkesin bildiği hit bir parça söylüyorum --> obje 
-        wir kochen etwas, das du auch magst
-                senin de seveceğin bir şey pişiriyoruz --> etwas --> akk
-        Dativ
-        ich habe einen Freund, dem ich ein Auto geschenkt habe -->hediye etmek obj - dat
-        er hat eine Freundin, der er ein Lied geschrieben hat
-                ona şarkıyı yazdığı bir kız arkadaşı var - ona - dativ
-        dieser mann, dem ich gestern gehalfen habe, ist sehr reich
-                dün yardım ettiğim adam çok zengin - obj - help - dativ
-                
-        ich habe einen Mann gefunden, der für mich alles macht         
-                benim için herşeyi yapan bir adam buldum
-        ich habe einen Freund/eine Freudin, der/die mich ohne Ende liebe
-                beni sonsuz seven bir sevgilim var
-                
-        Relativsätze im Genitiv
-        Artikel in Genitiv      Relativepronomen in Genitiv**
-        der --> des + s         der --> dessen
-        die --> der             die --> deren
-        das --> des + s         das --> dessen
-        die --> der             die --> deren
-    
-    das ist mein besser Freund. Ich habe dir 'das bild des Freundes' gezeigt - bu bnm en iyi arkadaşım ben sana 'arkadaşımın fotosunu' gösterdim
-    das ist mein bester Freund, dessen Bild ich dir gezeigt habe - freund artikeli der olduğu için dessen oldu, das bild yüzünden değil
-        o sana fotosunu gösterdiğim en yakın arkadaşım
-    die frau wohnt in dieser Wohnung. 'Der sohn der frau' studiert an der Uni - o kadın bu dairede oturuyor. o kadın oğlu iniversitede okuyor
-    die frau, deren Sohn an der Uni studiert, wohnt in dieser Wohnung - oğlu ünide okuyan kadın bu dairede oturuyor -- die Frau --> deren olur
-    Istanbul ist eine Stadt, 'deren' Sehenwürdigkeiten weltbekant sind
-        İstanbul turistik yerlerinin dünyaca ünlü olduğu bir şehirdir
-    der Mann, dessen Sohn ich geholfen habe, dankte mir --> der Mann --> ,desen
-        oğluna yardım ettiğim adam bana teşekkür etti
 
-        a)Relativsätz mit Präpositionen
-        --> Verben mit Präpositionen - önemli bir konu ilgili olarak
-        Wie heisst die Frau, mit der, du dein Leben teilst? - Hayatını paylaştığın kadının adı nedir? --> teilen mit - share with --> DATIV
-        das ist der Freund, von dem, ich dir so oft erzählt habe - O erkek arkadaşımdır ondan sana sıklıkla bahsettim/anlattım --> erzählen von(D)/über(A)
-        das ist 'die Tante' meines Vaters, mit(D) der, ich am Wochenende manchmal(bazen) spazieren gehe - o babamın halası, onunla ben hafta sonu bazen yürüyüşe gidiyorum
-        da ist meine Nachbarin, für die, ich die Blumen giesse, wenn sie weg ist - benim komşum(f) oradadır, onun için çiçekleri suluyorum, uzakta olduğunda 
-        hier auf dem Foto ist mein Bruder, mit dem, ich jeden Tag telefoniere - burda fotodaki benim kardeşim, onunla her gün telefonlaşıyorum --> telefonieren mit + Dativ 
-
-        b)Relativsätz wit wo,wohin,wer,wen…
-        
 
 
 7) Passiv Präsens mit Modalverben
@@ -178,18 +34,6 @@ B1 Almanca Konuları:
 16) Adjektivdeklination mit Komparativ und Superlativ
 
 
-#
-wieder - again
-immer - always
-fast - almost
-überall - anywhere
-vor - before
-weit - far
-nie - never
-nächsten - next
-gelegentlich - occasionally
-einmal - once
-ruhig - quietly
 
 
 ALS Cümleleri
@@ -216,103 +60,13 @@ Vergangenheit --> als (Zeitpunkt) (dığı zaman - PAST (belli biten noktada))
         keine ismi negatifleştirir yani o şeyin var olmamasıdır
        
 
-# SUBORDINATING CONJ.
-weil - because
-damit - so that
-wenn  - when(ever), if
-bevor - before
-ehe - before
-falls - in case
-seitdem - since then
-dass - that
-    -ich bin sehr froh, dass.. - I am very glad that..
-so dass - so that
-soweit - as far as
-was - what
-wohin - where to
-wie viel - how much
-ob - if, whether
-obwohl - although
-als ob - as if
-als - when (past)
-als wenn - as when
-bis - until
-indem - in which
-sobald - as soon as
-sooft - as often as
-während - while
-wo - where
-wie - how
-wie lange - how long
-wie oft - how often
-nachdem - after which
-solange - as long as
-soviel - as much as
-warum - why
-woher - where from
-weshalb - why/for what reason
 
 
 
-# ADVERBS OF PLACE
-auswärts - out; outwards
-da - there
-dabei - with me/you etc
-dort - there
-dortin - there = motion
-draussen - outside
-geradeaus - straight on
-hier - here
-hinten - at the back
-irgendwo - somewhere
-nirgendwo - nowhere
-links - on the left
-rechts - on the right
-überall - everywhere
-unten - at the bottom
-vorne - at the front
-oben - at the top
 
 
-# W FRAGEN
-wie – how 
-  -wie geht es dir
-  -wie spät is es
-  -wie heisst du
-wie viele – how many
-wie viel – how much 
-  -wie viel kostet es? - how much does it cost?
-wie alt
-wie lange - how long
-wie oft - how often
 
-was – what
-  -was essen wir heute
-  -was ist das
-  -was kaufen wir ein
-wo – where
-  -wo wohnen Sie
-  -wo sind die Toiletten
-  -wo ist mein Buch
-wohin – to where
-woher – from where
-  -woher kommst du
-wer – who
-wen – whom
 
-wieso
-warum - why
-
-wann - when
-  -wann treffen wir uns
-  -wann kommst du morgen
-  -wann essen wir den Kuchen
-
-warum  - why
-wer - who
-  -wer bist du
-  -wer hat heute angerufen
-mit wem - who with
 
 
 schlafen
