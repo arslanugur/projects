@@ -2,9 +2,9 @@ Infinitive      Imperative    Present         Imperfect         Participle      
                               Präsens         Präteritum        Aux Verb + Partizip II
                               er/sie/es       ich-er/sie/es     (Perfect, Passive)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
-sein            sei           ist             war (bin etc.)    ist gewesen	              wäre              to be         very irregular
+sein            sei           ist             war (bin etc.)    ist gewesen               wäre              to be         very irregular
 haben           habe          hat             hatte             hat gehabt                hätte             to have
-werden          werde         wird            wurde (bin etc.)  ist geworden/worden	      würde             to become, ALSO turn out... 17	
+werden          werde         wird            wurde (bin etc.)  ist geworden/worden       würde             to become, ALSO turn out... 17	
 
 
 dürfen                        darf            durfte            hat gedurft               dürfte            to be allowed to	
