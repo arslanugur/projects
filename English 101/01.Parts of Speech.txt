@@ -207,5 +207,11 @@ I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll hav
                                                   
                      
                      
-                     
+---> SSSS IN ENGLISH
+     1 --> -s / -es   - çoğul yapma eki, düzenli isimler için
+     2 --> -s / -es   - (he, she, it) Geniş zaman fiil eki, tekil özneler için
+     3 --> 's / s'    - -nın, -nin , tamlama yapmak için
+     4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için
+
+
 
