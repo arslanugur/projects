@@ -93,7 +93,6 @@ riechen         riecht          roch              gerochen                smell
 rufen           ruft            rief              gerufen                 call 11, shout
 schaffen        schafft         schuf             geschaffen              create
 scheiden        scheidet        schied (bin etc.) geschieden              separate 
-
 scheinen        scheint         schien            geschienen              seem, ALSO shine 
 schieben        schiebt         schob             geschoben               shove, push 
 schießen        schießt         schoss            geschossen              shoot 
@@ -104,30 +103,32 @@ schneiden       schneidet       schnitt           geschnitten             cut
 schreiben       schreibt        schrieb           geschrieben             write 
 schreien        schreit         schrie            geschrie(e)n            shout, yell 
 schweigen       schweigt        schwieg           geschwiegen             be(come) silent 
-schwellen       schwillt        schwoll (bin etc.)geschwollen             swell 
-schwimmen       schwimmt        schwamm (bin etc.)geschwommen             swim 
+schwellen       schwillt        schwoll (bin etc.)ist geschwollen             swell 
+schwimmen       schwimmt        schwamm (bin etc.)hat/ist geschwommen             swim 
 schwingen       schwingt        schwang           geschwungen             swing 
 schwören        schwört         schwur            geschworen              swear (on oath)  
 sehen           sieht           sah               gesehen                 see 
 senden          sendet          sandte            gesandt                 send 
 singen          singt           sang              gesungen                sing 
 sinken          sinkt           sank (bin etc.)   gesunken                sink 
-sitzen          sitzt           saß               gesessen                be sitting, sit 
+sitzen          sitzt           saß               hat/ist gesessen             be sitting, sit 
 sprechen        spricht         sprach            gesprochen              speak 
-springen        springt         sprang (bin etc.) gesprungen              jump, spring 
+springen        springt         sprang (bin etc.) ist gesprungen          jump, spring 
 stechen         sticht          stach             gestochen               prick, sting 
-stehen          steht           stand             gestanden               stand 
+stehen          steht           stand             hat/ist gestanden               stand 
 stehlen         stiehlt         stahl             gestohlen               steal 
-steigen         steigt          stieg (bin etc.)  gestiegen               rise, mount 12 
-sterben         stirbt          starb (bin etc.)  gestorben               die 
+steigen         steigt          stieg (bin etc.)  ist gestiegen               rise, mount 12 
+sterben         stirbt          starb (bin etc.)  ist gestorben               die 
 stinken         stinkt          stank             gestunken               stink 
-stoßen          stößt           stieß             gestoßen                push, kick etc. 13 
-streiten        streitet        stritt            gestritten              quarrel, clash 14 
+stoßen          stößt           stieß             hat/ist gestoßen                push, kick etc. 13 
+streichen       streicht        strich            hat/ist gestrichen      paint, stroke
+streiten        streitet        stritt            gestritten              quarrel, clash 14 , argue
 tragen          trägt           trug              getragen                carry, ALSO wear 
 treffen         trifft          traf              getroffen               meet, ALSO hit 15 
-treiben         treibt          trieb             getrieben               force, drive, urge, ALSO drift 
-treten          tritt           trat (bin etc.)   getreten                step, go 
-trinken         trinkt          trank             getrunken               drink 
+treiben         treibt          trieb             hat/ist getrieben               force, drive, urge, ALSO drift 
+treten          tritt           trat (bin etc.)   hat/ist getreten                step, go 
+trinken         trinkt          trank             getrunken               drink
+trügen          trügt           trog              getrogen                deceive
 tun             tut             tat               getan                   do 
 verbergen       verbirgt        verbarg           verborgen               hide, conceal 
 verderben       verdirbt        verdarb           verdorben               spoil, ruin 
@@ -136,15 +137,15 @@ verlassen       verlässt        verließ           verlassen               leav
 verlieren       verliert        verlor            verloren                lose 
 vermeiden       vermeidet       vermied           vermieden               avoid 
 verschwinden    verschwindet    verschwand (bin etc.)verschwunden         disappear 
-verzeihen       verzeiht        verzieh           verziehen               pardon, excuse 
-wachsen         wächst          wuchs (bin etc.)  gewachsen               grow (by itself) 
+verzeihen       verzeiht        verzieh           verziehen               pardon, excuse, forgive
+wachsen         wächst          wuchs (bin etc.)  ist gewachsen               grow (by itself) 
 waschen         wäscht          wusch             gewaschen               wash 
 wenden          wendet          wandte            gewandt                 turn 16 
 werben          wirbt           warb              geworben                advertise, push 
 werfen          wirft           warf              geworfen                throw 
 wiegen          wiegt           wog               gewogen                 weigh 
 wissen          weiß 18         wusste            gewusst                 know (a fact) 
-ziehen          zieht           zog               gezogen 19              pull, draw, ALSO go, move
+ziehen          zieht           zog               hat/ist gezogen 19              pull, draw, ALSO go, move
 zwingen         zwingt          zwang             gezwungen               compel, force 
 
 
