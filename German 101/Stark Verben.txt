@@ -1,18 +1,18 @@
-Infinitive      Imperative    Present         Imperfect         Participle                    Subjective
+Infinitive      Imperative    Present         Imperfect         Participle                Subjective
                               Präsens         Präteritum        Aux Verb + Partizip II
                               er/sie/es       ich-er/sie/es     (Perfect, Passive)
---------------------------------------------------------------------------------------------------------------
-sein            sei           ist             war (bin etc.)    ist gewesen	                  wäre            to be         very irregular
-haben           habe          hat             hatte             hat gehabt                    hätte           to have	
-werden          werde         wird            wurde (bin etc.)  ist geworden/worden	          würde           to become, ALSO turn out... 17	
+------------------------------------------------------------------------------------------------------------------
+sein            sei           ist             war (bin etc.)    ist gewesen	              wäre              to be         very irregular
+haben           habe          hat             hatte             hat gehabt                hätte             to have
+werden          werde         wird            wurde (bin etc.)  ist geworden/worden	      würde             to become, ALSO turn out... 17	
 
 
-dürfen                        darf            durfte            hat gedurft                   dürfte          to be allowed to	
-können                        kann            konnte            hat gekonnt                   könnte          to be able to, can
-mögen                         mag             mochte            hat gemocht                   möchte          to like	
-müssen                        muss            musste            hat gemusst                   müsste          to have to, must
-sollen                        soll            sollte            hat gesollt                   sollte          to be supposed, be obliged to - to	following a norm
-wollen                        will            wollte            hat gewollt                   wollte          to want
+dürfen                        darf            durfte            hat gedurft               dürfte            to be allowed to	
+können                        kann            konnte            hat gekonnt               könnte            to be able to, can
+mögen                         mag             mochte            hat gemocht               möchte            to like	
+müssen                        muss            musste            hat gemusst               müsste            to have to, must
+sollen                        soll            sollte            hat gesollt               sollte            to be supposed, be obliged to - to	following a norm
+wollen                        will            wollte            hat gewollt               wollte            to want
 
 
 Infinitive      Imperative    Present         Imperfect         Participle                Subjective
