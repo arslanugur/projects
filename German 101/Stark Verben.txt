@@ -18,47 +18,48 @@ wollen          will            wollte            hat gewollt         to want
 https://www.germanveryeasy.com/irregular-verbs-in-german
 https://jakubmarian.com/list-of-irregular-strong-german-verbs/
 
-backen          backt           backte            gebacken                bake
-befehlen        befiehlt        befahl            befohlen                command, order 
-beginnen        beginnt         begann            begonnen                begin  
-beißen          beißt           biss              gebissen                bite 
-betrügen        betrügt         betrog            betrogen                deceive, cheat  
+backen          backt           backte            hat gebacken                bake
+befehlen        befiehlt        befahl            hat befohlen                command, order 
+beginnen        beginnt         begann            hat begonnen                begin  
+beißen          beißt           biss              hat gebissen                bite 
+betrügen        betrügt         betrog            hat betrogen                deceive, cheat
+beweisen        bewist          bewies            hat bewiesen                prove
 bewegen 1       bewegt          bewog             hat bewogen             move 
-biegen          biegt           bog (bin etc.)    gebogen                 bend, turn  
-bieten          bietet          bot               geboten                 offer, bid  
-binden          bindet          band              gebunden                tie 
-bitten          bittet          bat               gebeten                 request, ask someone to do...  
-blasen          bläst           blies             geblasen                blow, sound 
-bleiben         bleibt          blieb (bin etc.)  geblieben               stay, remain 
-braten          brät            briet             gebraten                roast 
-brechen         bricht          brach             gebrochen               break  
-brennen         brennt          brannte           gebrannt                burn 
-bringen         bringt          brachte           gebracht                bring, take to...  
+biegen          biegt           bog (bin etc.)    hat/ist gebogen                 bend, turn  
+bieten          bietet          bot               hat geboten                 offer, bid  
+binden          bindet          band              hat gebunden                tie 
+bitten          bittet          bat               hat gebeten                 request, ask someone to do...  
+blasen          bläst           blies             hat geblasen                blow, sound 
+bleiben         bleibt          blieb (bin etc.)  ist geblieben               stay, remain 
+braten          brät            briet             ist gebraten                roast 
+brechen         bricht          brach             hat/ist gebrochen               break  
+brennen         brennt          brannte           hat gebrannt                burn 
+bringen         bringt          brachte           hat gebracht                bring, take to...  
 denken          denkt           dachte            gedacht                 think 
 empfehlen       empfiehlt       empfahl           empfohlen               recommend  
-erschrecken 2   erschrickt      erschrak(bin etc.)erschrocken             be frightened  
+erschrecken 2   erschrickt      erschrak(bin etc.)bin erschrocken             be frightened  
 essen           isst            aß                gegessen                eat 3  
-fahren          fährt           fuhr (bin etc.)   gefahren                go (not on foot), drive  
-fallen          fällt           fiel (bin etc.)   gefallen                fall 
+fahren          fährt           fuhr (bin etc.)   hat/ist gefahren                go (not on foot), drive  
+fallen          fällt           fiel (bin etc.)   ist gefallen                fall 
 fangen          fängt           fing              gefangen                catch  
 finden          findet          fand              gefunden                find  
-fliegen         fliegt          flog (bin etc.)   geflogen                fly  
-fliehen         flieht          floh (bin etc.)   geflohen                flee, run away  
-fließen         fließt          floss             geflossen               flow  
+fliegen         fliegt          flog (bin etc.)   hat/ist geflogen                fly  
+fliehen         flieht          floh (bin etc.)   ist geflohen                flee, run away  
+fließen         fließt          floss             ist geflossen               flow  
 fressen         frisst          fraß              gefressen               eat (done by animals)  
 frieren         friert          fror (bin etc.)   gefroren                freeze, be cold  
 geben           gibt            gab               gegeben                 give 
-gedeihen        gedeiht         gedieh (bin etc.) gediehen                flourish, prosper  
-gehen           geht            ging (bin etc.)   gegangen                go, walk  
-gelingen 4      gelingt         gelang (bin etc.) gelungen                succeed  
+gedeihen        gedeiht         gedieh (bin etc.) ist gediehen                flourish, prosper  
+gehen           geht            ging (bin etc.)   ist gegangen                go, walk  
+gelingen 4      gelingt         gelang (bin etc.) ist gelungen                succeed  
 gelten 5        gilt            galt              gegolten                be valid, be of worth 
 genießen        genießt         genoss            genossen                enjoy  
-geraten         gerät           geriet (bin etc)  geraten                 fall into..., get into... 6  
-geschehen 7     geschieht       geschah (bin etc.)geschehen               happen 
+geraten         gerät           geriet (bin etc)  ist geraten                 fall into..., get into... 6  
+geschehen 7     geschieht       geschah (bin etc.)ist geschehen               happen 
 gewinnen        gewinnt         gewann            gewonnen                win, gain  
 gießen          gießt           goss              gegossen                pour  
 gleichen        gleicht         glich             geglichen               resemble  
-gleiten         gleitet         glitt (bin etc.)  geglitten               glide, slide  
+gleiten         gleitet         glitt (bin etc.)  ist geglitten               glide, slide  
 graben          gräbt           grub              gegraben                dig 
 greifen         greift          griff             gegriffen               grasp, grab hold of 
 haben           hat             hatte             gehabt                  have 
@@ -69,15 +70,15 @@ heißen          heißt           hieß              geheißen                be
 helfen          hilft           half              geholfen                help 
 kennen          kennt           kannte            gekannt                 know (a place, person, situation etc.) 
 klingen         klingt          klang             geklungen               sound 
-kommen          kommt           kam (bin etc.)    gekommen                come  
-kriechen        kriecht         kroch (bin etc.)  gekrochen               crawl 
+kommen          kommt           kam (bin etc.)    hat/ist gekommen                come  
+kriechen        kriecht         kroch (bin etc.)  ist gekrochen               crawl 
 laden           lädt            lud               geladen                 load, ALSO invite 
 lassen          lässt           ließ              gelassen                let, ALSO leave (something behind) 
 laufen          läuft           lief (bin etc.)   gelaufen                run  
 leiden          leidet          litt              gelitten                suffer 
 leihen          leiht           lieh              geliehen                lend (out) 
 lesen           liest           las               gelesen                 read 
-liegen          liegt           lag               gelegen                 lie (in a place) 
+liegen          liegt           lag               hat/ist gelegen                 lie (in a place) 
 lügen           lügt            log               gelogen                 tell lies 
 messen          misst           maß               gemessen                measure 
 nehmen          nimmt           nahm              genommen                take 
@@ -86,11 +87,13 @@ pfeifen         pfeift          pfiff             gepfiffen               whistl
 raten           rät             riet              geraten                 advise, ALSO guess 
 reiben          reibt           rieb              gerieben                rub 
 reißen          reißt           riss              gerissen                tear, rip 
-reiten          reitet          ritt (bin etc.)   geritten                ride (on horse) 
-rennen          rennt           rannte (bin etc.) gerannt                 run
+reiten          reitet          ritt (bin etc.)   hat/ist geritten                ride (on horse) 
+rennen          rennt           rannte (bin etc.) ist gerannt                 run
 riechen         riecht          roch              gerochen                smell 
-rufen           ruft            rief              gerufen                 call 11, shout 
+rufen           ruft            rief              gerufen                 call 11, shout
+schaffen        schafft         schuf             geschaffen              create
 scheiden        scheidet        schied (bin etc.) geschieden              separate 
+
 scheinen        scheint         schien            geschienen              seem, ALSO shine 
 schieben        schiebt         schob             geschoben               shove, push 
 schießen        schießt         schoss            geschossen              shoot 
