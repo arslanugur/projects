@@ -1,0 +1,111 @@
+INTRODUCTION YOURSELF - “Tell me about yourself?!” 
+
+1 --> GREETINGS
+      “Hello”
+      “Good Morning/Afternoon/Evening”
+
+2 --> YOUR NAME
+      I’m..
+      I am..
+      My name is..
+      
+3 --> LOCATION
+      Where are you from? --> I’m from Turkey
+                          --> I’m originally from Edinburgh but I’m now based in London  
+      What is your nationality --> I’m turkish
+      Where did you come from? --> I come from ..
+      Where is your address? --> Street, neighborhood
+      Where were you born?  --> I was born (in) and raised in
+      Where did you grow up?  --> I grew up in…
+                                  I grew up in LA, now live in NY
+      How many years did you live in there? -->  I lived in there two years
+      Where have you been living for seven years? --> I have been living in Berlin for seven years
+      How many years have you been living in Berlin --> I have been living in Berlin for three years
+      Where have you spent the past few years? --> I have spent the past few years in Paris
+
+4 --> POSITION and COMPANY
+      Where do you work? 
+      Where did you work before?
+      
+      I work at ‘company’ in the ‘…department’  --> I work at Google in the marketing department
+      I am a ‘position’ at ‘company’.           --> I’m a manager at Starbucks.
+      I work in ‘general area’.                 --> I work in sales.
+      I work as a deputy manager
+      I work as an accountant.
+      I work as a quality controller in a factory
+
+
+5 --> QUALIFICATIONS
+      How many years are you student/teacher/economist/builder/waiter..?
+      You have a associate/bachelor degree
+      I’m about to graduate
+      I am a ‘subject’ graduate.
+      I am a marketing graduate
+      I have a bachelor of arts degree in marketing.
+      I am a biology postgrad
+      
+      I am currently taking a course in ‘theorical subject’.
+      I’m currently taking a course in maths.
+      I am currently taking a course on ‘practical subject’
+      A course on jewellery/pottery making
+      ... taking a ‘subject’ course --> I am taking a pottery course
+
+      I have completed a ‘time’ course in/on ‘subject’.
+      number-unit of time
+      A 72-hour ‘subject’ course
+      A 3-day ‘subject’ course
+
+      I want to get promoted in Office/Nursery
+
+6 --> EXPERIENCE
+      When did you graduate from primary/secondary school?
+      I have ‘number’ years of experience in the ‘occupation’ field.
+      I have 3 years of experience in the neuroscience field
+      I have ‘number’ years of ‘occupation’ experience
+      I have 10 years of sales experience
+      I have worked in ‘occupation’ field for ‘unit of time’
+      I have worked in the accounting field for three years
+      What do you think about your future?
+      I want to be a dentist in the future
+
+7 --> FAMILY
+      I have a brother/sister
+      I have a mum and a dad
+      How many family member…  I am from a family of ‘number’
+      I am from a family of four
+      We are a family of four
+      I am one of ‘number’ siblings
+      I am one of four siblings. / I am one of four.
+      I am an only child
+      I want to have a younger brother
+
+      Do you live with your parents?  --> Yes, I live with my parents / No, I don't live with my parents, I live alone. 
+      Are you living with your parents? --> Yes, I am living with my parents / No, I am not living with my parents, I live alone.
+
+8 --> HOBBIES
+      What are you interested in?
+      I am interested in 
+      I really like running
+      I really enjoy tennis
+      I am a big fan of ‘hobby’
+      I’m a big fan of go karting.
+      I am a keen runner
+      I am a keen tennis player
+
+9 --> AGE
+      I am ‘number’ years old
+      I am ‘number’.
+      I’m in my ‘early/mid/late’ + ‘decade’.
+      I’m in my mid-twenties
+      She’s in her early teens
+      He’s in his late-forties
+      He’s a thirty-something accountant
+
+10 --> FUN FACT ABOUT YOURSELF
+        - an interesting fear
+        - a weird like or dislike
+        - facts about your pet
+        - strange achievement or extraordinary experience
+ 
+
+
