@@ -1,7 +1,7 @@
 Infinitive      Imperative    Present         Imperfect         Participle                Subjective
                               Präsens         Präteritum        Aux Verb + Partizip II
                               er/sie/es       ich-er/sie/es     (Perfect, Passive)
-------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
 sein            sei           ist             war (bin etc.)    ist gewesen	              wäre              to be         very irregular
 haben           habe          hat             hatte             hat gehabt                hätte             to have
 werden          werde         wird            wurde (bin etc.)  ist geworden/worden	      würde             to become, ALSO turn out... 17	
@@ -18,7 +18,7 @@ wollen                        will            wollte            hat gewollt     
 Infinitive      Imperative    Present         Imperfect         Participle                Subjective
                               Präsens         Präteritum        Aux Verb + Partizip II
                               er/sie/es       ich-er/sie/es     (Perfect, Passive)
---------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 backen          backe         backt           backte            gebacken                  büke              bake
 befehlen        befehl        befiehlt        befahl            befohlen                  befähle           command, order 
 beginnen        beginne       beginnt         begann            begonnen                  begänne           begin  
