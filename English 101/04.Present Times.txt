@@ -1,0 +1,28 @@
+---> PRESENT SIMPLE TENSE
+Q --> do you go on holiday every summer?
+A --> yes, I go on holiday every summer
+N --> no, I don't go on holiday every summer
+
+
+
+---> PRESENT CONTINUOS TENSE
+Q --> are you coming to her birthday party?
+A --> yes, I am coming...
+N --> no, I'm not coming...
+
+
+
+
+---> PRESENT PERFECT TENSE
+Q --> have you (ever) been in Madrid?
+A --> yes, I have been in Madrid
+N --> no, I have not/(never) been in Madrid
+
+
+
+
+---> PRESENT PERFECT CONTINUOUS TENSE
+Q --> have you been living in Milano?
+A --> yes, I have been living in Milano
+N --> no, I have not been living in Milano
+
