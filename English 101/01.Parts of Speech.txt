@@ -209,14 +209,19 @@ I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll hav
                      
 ---> 4S IN ENGLISH
      1 --> -s / -es   - çoğul yapma eki, düzenli isimler için
+            Davidson motorcycles are quite expensive
      2 --> -s / -es   - (he, she, it) Geniş zaman fiil eki, tekil özneler için
+            Harley Davidson produces various motorcycles
      3 --> 's / s'    - -nın, -nin , tamlama yapmak için
+            Harley David's son started a motorcycle job
      4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için
+            Harley Davidson is a famous motorcycle
 
----> CORRECT USAGE / OPTIMIZATION
+
+---> CORRECT USAGE
      Get out - dışarı çıkar
      Get out - defol dışarı
-     Saying "have a nice day" to someone friendly
+     Saying "have a nice day" to someone sounds friendly
      Saying "enjoy your next twenty-four hours" to someone sounds threatening
 
 
