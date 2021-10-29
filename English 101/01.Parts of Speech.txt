@@ -58,30 +58,35 @@ I should/can/will go  --> yardımcı fiil kullanımı
 
 ---> QUESTION WORDS
 what        what are you talking about?
-            what do you do (for work)?  
+            what do you do (for work)?
+what kind   what kind of music do you like? - I like Rock songs
+            what kind of cars do you want to drive? - I want to drive self-driving cars
 which       which one was your car? - the red one (of the cars) was my car (mine)
             which one do you prefer?
             which one do you want to try?
-who         who’s that? that’s George
-            who are you talking to/with?
-            who is talking to/with you?
+	    -----------------------------------------------------------------------
 where       where do you live (in)? in New York
             where are you from?
             where are you going (to)?
             where are you coming from?
+	    -----------------------------------------------------------------------
 why         why will I have to clean up? - Because, there are guests
             why do you sleep early? - Because, I have got to get up early
             why is this so important to you all of a sudden? – bir anda neden önemli oldu?
+	    -----------------------------------------------------------------------
+who         who’s that? that’s George
+            who are you talking to/with?
+            who is talking to/with you?
+whom        whom did you see yesterday? I saw your old roommate
+            whom did you meet (with)? I met with the manager
+whose       whose book did you borrow? I borrowed his book
+            whose is this book? It's Charlotte's   
+	    -----------------------------------------------------------------------
 when        when do you wake up everyday?
             when do you go to work? - at seven (am/pm)
 what time   what time is it?
 	    I guess, Everybody else knew what time rehearsal was for
-what kind   what kind of music do you like? - I like Rock songs
-            what kind of cars do you want to drive? - I want to drive self-driving cars
-whom        whom did you see yesterday? I saw your old roommate
-            whom did you meet (with)? I met with the manager
-whose       whose book did you borrow? I borrowed his book
-            whose is this book? It's Charlotte's
+	    ------------------------------------------------------------------------
 how         how do you go? - by car
 
 
