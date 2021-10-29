@@ -19,7 +19,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                     .. behind the Saatçioğlu Mosque
                     .. near Hazım Kulak Secondary School
                     .. next to swimming pool in Büyük Bölcek Neighborhood
-      Where were you born?  --> I was born (in) and raised in
+      Where were you born?  --> I was born in Antalya
+                            --> I was born (in) and raised in Antalya
       Where did you grow up?  --> I grew up in…
                               --> I grew up in LA, now live in NY
       How many years did you live in there? --> I lived in there for two years
