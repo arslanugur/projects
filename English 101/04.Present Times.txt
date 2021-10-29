@@ -1,28 +1,54 @@
 ---> PRESENT SIMPLE TENSE
+DO
 Q --> do you go on holiday every summer?
 A --> yes, I go on holiday every summer
 N --> no, I don't go on holiday every summer
+DOES
+Q --> does he/she go on holiday every summer?
+A --> yes, he/she goes on holiday every summer
+N --> no, he/she doesn't go on holiday every summer
 
 
 
 ---> PRESENT CONTINUOS TENSE
+AM
+Q --> am I coming to her birthday party?
+A --> yes, you are coming...
+N --> no, you are not coming...
+IS
+Q --> is he/she coming to her birthday party?
+A --> yes, he/she is coming...
+N --> no, he/she is not coming...
+ARE
 Q --> are you coming to her birthday party?
 A --> yes, I am coming...
 N --> no, I'm not coming...
-
+ARE
+Q --> are we/you/they coming to her birthday party?
+A --> yes, we/you/they are coming...
+N --> no, we/you/they are not coming...
 
 
 
 ---> PRESENT PERFECT TENSE
+HAS
+Q --> has he/she (ever) been in Madrid?
+A --> yes, he/she has been in Madrid
+N --> no, he/she has not/(never) been in Madrid
+HAVE
 Q --> have you (ever) been in Madrid?
 A --> yes, I have been in Madrid
 N --> no, I have not/(never) been in Madrid
 
 
-
-
 ---> PRESENT PERFECT CONTINUOUS TENSE
+HAS BEEN V3
+Q --> has he/she been living in Milano?
+A --> yes, he/she has been living in Milano
+N --> no, he/she has not been living in Milano
+HAVE BEEN V3
 Q --> have you been living in Milano?
 A --> yes, I have been living in Milano
 N --> no, I have not been living in Milano
+
 
