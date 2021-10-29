@@ -185,4 +185,39 @@ thrust          thrust              thrust                  (itmek, sokmak, sapl
 
 
 
+CONFUSING VERBS
+raise, raised, raised (transitive) ---> The supermarket raised its prices twice last week.
+rise, rose, risen (intransitive)   ---> Prices rose three times last week.
+
+arouse, aroused, aroused (transitive) ---> The man's peculiar behaviour aroused the police's suspicion.
+arise, arose, arisen (intransitive) ---> Their suspicion arose because of the man's peculiar behaviour.
+
+set, set, set (transitive) ---> We set the chair at the head of the table.
+sit, sat, sat (intransitive) ---> My father sat at the head of the table.
+
+lay, laid, laid (transitive) ---> We laid the carpet after we'd painted the walls.
+lie, lay, lain (intransitive) ---> I lay on the sofa after dinner and went to sleep.
+lie "yalan söylemek' anlamındaysa, düzenli bir fiildir: She lied to us about her coming late.
+
+bind, bound, bound (tie up) ---> He bound the dog to the fence with a long rope.
+bound, bounded, bounded (1. border 2. jump) ---> Luxembourg is bounded by Belgium, Germany and France.
+                                               ---> The dog was bounding across the field.
+find, found, found ---> I found your pen on top of the fridge.
+found, founded, founded (establish) ---> Mao Tse-Tung founded the People's Republic of China.
+
+grind, ground, ground (crush into powder) ---> In the past people ground wheat into flour using large stones.
+ground, grounded, grounded (to stay on the ground) The authorities grounded the plane for safety checks.
+
+wind, wound, wound (twist, turn) He wound the string into a tight ball.
+wound, wounded, wounded (injure) The gun shots wounded several people.
+
+fall, fell, fallen  She fell as she was getting off the bus.
+fell, felled, felled (cut down)  They felled the tree because it was getting too big.
+
+see, saw, seen   They saw an accident while driving to work.
+saw, sawed, sawed/sawn (cut with a saw)    He sawed the wood into equal lengths.
+
+hang, hung, hung (suspend something)    They hung a flag from the window for Republic Day.
+hang, hanged, hanged (kill someone by hanging) The leader of the Pakistani military coup, General Zia ul-Huq, hanged President Bhutto in 1979.
+
 
