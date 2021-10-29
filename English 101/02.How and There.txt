@@ -1,4 +1,24 @@
 HOW
+-------
+much    how much did you get paid?
+        how much money do you need?
+many    how many brothers do you have?
+        how many types of listening questions are there? 
+old     how old is your grandfather?
+        how old do i look?
+often   how often do you go to church?
+        how often do you use public transport?
+long    how long have you been working? 
+        how long does the test last for? 40 min.
+far     how far is London from Leeds?
+        it depends how far you want to go, sir
+fast    how fast can a cheetah run?
+        how fast our friends become our enemies
+well    how well do you speak English?
+        explain me how well she knows me
+
+
+
 ---> HOW MANY (Countable)
 How many books are there? (Orada kaç tane kitap var?)
 There are 5 books. (5 kitap var.)
@@ -29,19 +49,6 @@ I earn 50 dollars a day. (Günde 50 dolar kazanıyorum.)
 How much does it cost? (Bu ne kadar tutuyor, bunun fiyatı nedir?)
 It costs 5 dollars. (5 dolar tutuyor.)
 
-
-
-HOW
--------
-much    how much did you get paid?
-many    how many brothers do you have?
-old     how old is your grandfather?
-often   how often do you go to church?
-long    how long have you been working? 
-        how long does the test last for? 40 min.
-far     how far is London from Leeds?
-fast    how fast can a cheetah run? 
-well    how well do you speak English?
 
 
 ---> QUANTIFIERS
