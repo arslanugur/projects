@@ -52,7 +52,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Where did you work before?
                          - I worked in a hospital before
                          - I worked in a bank before
-
+                         - I didn't work before, I'm still a student/intern
       I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
       I am a ‘position’ at ‘company’.             --> I’m a manager at Starbucks.
       I work in ‘general area’.                   --> I work in sales.
