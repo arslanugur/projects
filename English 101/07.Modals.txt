@@ -12,12 +12,29 @@ be able to	  was/were able to
 be supposed to 
 
 --> COMPOUND MODALS
-will be able to
-might be able to
-had been able to
+will be able to		had been able to	might be able to
+will have to go		had had to be 		might have to
 
+would have been done 
+should have been done
+could have been done
+
+---> EXAMPLES
 He will/can/should/must have called her
 She would/could/should/had to have called him
+I could have lied
+She asked me if she could sit at the end of our table. (Permission)
+Could you help me with this math problem? (Request)
+You could take a painkiller if your headache gets worse. (Advice) 
+Mozart could play the piano at the age of five. (Ability)
+Things can get crazy around here sometimes. (Possibility)
+To be healthy, a plant has to receive a good supply of sunshine. (Necessity)
+Would you help me to carry this heavy suitcase? (Request)
+May I ask whether you are using the telephone? (Permission)
+She wasn't supposed to be here - o burada olmamaliydi
+he was getting used to getting to do
+it could have gone better - daha iyi de gidebilirdi
+
 
 --> CAN
 Can you help me? (request)
@@ -124,19 +141,4 @@ He needed to learn for himself - yaşayarak ögrenmesi gerekiyordu
 --> HAD BETTER	
 
 
----> Examples
-She asked me if she could sit at the end of our table. (Permission)
-Could you help me with this math problem? (Request)
-You could take a painkiller if your headache gets worse. (Advice) 
-Mozart could play the piano at the age of five. (Ability)
-Things can get crazy around here sometimes. (Possibility)
-To be healthy, a plant has to receive a good supply of sunshine. (Necessity)
-Would you help me to carry this heavy suitcase? (Request)
-May I ask whether you are using the telephone? (Permission)
-She wasn't supposed to be here - o burada olmamaliydi
-he was getting used to getting to do
-it could have gone better - daha iyi de gidebilirdi
-
-
-...
 
