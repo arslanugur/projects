@@ -21,12 +21,16 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                     .. next to swimming pool in Büyük Bölcek Neighborhood
       Where were you born?  --> I was born in Antalya
                             --> I was born (in) and raised in Antalya
+      When were you born? --> I was born in 1995
+      
       Where did you grow up?  --> I grew up in…
                               --> I grew up in LA, now live in NY
       How many years did you live in there? --> I lived in there for two years
                                             --> I lived in Ankara for seven years 
       Where have you been living for seven years? --> I have been living in Berlin for seven years
       How many years have you been living in Berlin --> I have been living in Berlin for three years
+                                                    --> I have been living in Berlin since my birth
+                                                    --> I have been living in Berlin since 1995
       Where have you spent the past few years? --> I have spent the past few years in Paris
                                                --> I have spent two years in İstanbul
                                                       
@@ -96,11 +100,11 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 7 --> FAMILY
       I have a brother/sister
       I have a mum and a dad
-      How many family member…  I am from a family of ‘number’
+      How many family member...  I am from a family of ‘number’
       I am from a family of four
       We are a family of four
       I am one of ‘number’ siblings
-      I am one of four siblings. / I am one of four.
+      I am one of four siblings. / I am one of four
       I am an only child
       I want to have a younger brother
 
