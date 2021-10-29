@@ -22,7 +22,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Where were you born?  --> I was born (in) and raised in
       Where did you grow up?  --> I grew up in…
                                   I grew up in LA, now live in NY
-      How many years did you live in there? -->  I lived in there two years
+      How many years did you live in there? --> I lived in there for two years
+                                            --> I lived in Ankara for seven years 
       Where have you been living for seven years? --> I have been living in Berlin for seven years
       How many years have you been living in Berlin --> I have been living in Berlin for three years
       Where have you spent the past few years? --> I have spent the past few years in Paris
