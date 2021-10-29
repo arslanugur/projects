@@ -36,26 +36,34 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I am a technician
                       - I dont work now, I am an unemployed
                       - I don't work anymore, I am retired
+                      - I worked for several jobs, now i am retired
       Where do you work? - I work as a teacher at school
                          - I work as an engineer in a factory/company
                          - I work as an accountant in a hotel
+                         - I work as a deputy manager
+                         - I work as a product manager
+                         - I work as a quality controller in a factory
+
       Where did you work before?
                          - I worked in a hospital before
                          - I worked in a bank before
-                         - I work as a deputy manager
-                         - I work as a product manager
+
       I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
       I am a ‘position’ at ‘company’.             --> I’m a manager at Starbucks.
       I work in ‘general area’.                   --> I work in sales.
       
       
-      I work as a quality controller in a factory
-
+      
 
 5 --> QUALIFICATIONS
-      How many years are you student/teacher/economist/builder/waiter..?
-      You have a associate/bachelor degree
-      I’m about to graduate
+      How many years are you student/teacher/engineer/economist/builder/waiter..?
+            - I am student for sixteen years
+            - I am teacher for six months
+            - I am engineer for eight years
+            - I am nurse since 2000
+            - I am a nurse for twenty-one years
+      You have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
+      I’m about to graduate - nerdeyse mezunum/mezuna kaldım
       I am a ‘subject’ graduate.
       I am a marketing graduate
       I have a bachelor of arts degree in marketing.
