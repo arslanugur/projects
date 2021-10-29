@@ -38,7 +38,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       What's your job - I am a teacher
                       - I am an engineer
                       - I am a technician
-                      - I dont work now, I am an unemployed
+                      - I don't work now, I am an unemployed
+                      - I don't work now, I am a student
                       - I don't work anymore, I am retired
                       - I worked for several jobs, now i am retired
       Where do you work? - I work as a teacher at school
