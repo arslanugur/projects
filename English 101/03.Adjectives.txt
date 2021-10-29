@@ -1,5 +1,8 @@
 There are two types of modifiers: adjectives and adverbs.
 
+"difficult roads lead to beautiful destinations"
+"I don't believe I have special talents. I have persistence."
+
 ---> ADJECTIVES
           IRREGULAR ADJECTIVES
 Adjective     Comparative       Superlative
@@ -79,8 +82,9 @@ bright, fragile, trustworthy
 --> Examples
 You are the best friend I ever had. - En iyi arkadaşım sensin
 You are the worst person I've ever met
-I start early and I stay late. - 
+I start early and I stay late.
 Manners maketh man – tavırların seni adam yapar
+as usual, you turned up late again - her zamanki gibi yine geç geldin
 This is more serious than i thought
 Money is very powerful, but sometimes it’s more powerful to say no to it
 It could have göne better
@@ -108,55 +112,22 @@ you are still thinking like a lone wolf
 
 
 --> SYNONYM and ANTONYM
-good = excellent    ---       bad = atrocious
-early (earlier)               late (later, the latest, the last)
-easy = facile                 difficult = hard
-soft                          hard
-high                          low
-hot, warm                     cold = freezing
-heavy                         light
-tidy                          messy = slovenly
-tall = towering, long         short = brief       (tall bulding, long train)
-tired = exhausted, sleepy
-same
-similar                       different = disparate
-simple                        difficult                     (simplicity = difficulty)
-quick = fast                  slow
-rich, affluent                poor = destitute              (affluence)
-happy = ecstatic              sad                           (happiness != sadness)
-noisy = deafing               quiet = silent                (silence = noise)
-old = ancient                 new
-old                           young
+
+--> A
 alive                         dead
 accurate = exact              alert
 average
-big = immense, great          small
-large = huge	          
-little = tiny
+afraid = fearful
+angry = furious
+
+--> B
+big = immense, great, massive small
 brave = courageous            afraid = fearful/terrified    (brevity, courage) (fear)
-scared = petrified
 bright = light = luminous     dark                          (brightness != darkness)	
-calm = serene                 angry = furious               (calmness = serenity != anger = fury)
-careful                       nervous = apprehensive        (nerve)
-cheap = stingy                expensive                     (expense)
-clear, clean = spotless	dirty
-naive                         dirty
-dry = parched                 wet
-strong = unyielding           weak = frial                  (strength != weakness)
-positive                      negative
-safe                          dangerous                     (safety != danger)
-secure
-serious = grave               funny
-thin = gaunt                  fat = obese
-several                       few
-empty = desolate              full
-sober                         drunk
-nice = kind, polite           rude
-nice, pretty, beautiful = exquisite	
-ugly = hideous
-risky = perilous              self-confident
-dignified – ağırbaşlı
-willing = eager	
+busy = swamped
+beautiful = gorgeous
+
+--> C
 colourful = vibrant	
 crowded = bustling	
 confused = perplexed	
@@ -164,32 +135,97 @@ cute = adorable
 competitive = cutthroat	
 clever = brilliant	
 creative = innovative	
+calm = serene                 angry = furious               (calmness = serenity != anger = fury)
+careful = cautious            nervous = apprehensive        (nerve)
+cheap = stingy                expensive                     (expense)
+clear, clean = spotless	dirty
+
+--> D
 dear = cherished	
 detailed = meticulous	
 dirty = squalid	
 dull = tedious	
+dignified – ağırbaşlı
+dry = arid, parched           wet
+
+--> E
+easy = effortless
 eager = keen	
 evil = wicked	
+excited = thrilled
 exciting = exhilarating	
+empty = desolate              full
+early (earlier)               late (later, the latest, the last)
+easy = facile                 difficult = hard = arduous 
+
+--> F
 fabulous	
-famous, popular	
+famous, popular
+fancy = lavish
+friendly = amiable
+fast = quick
+funny = hilarous
+
+--> G
+good = excellent    ---       bad = awful = atrocious
 glad = overjoyed	
+great = terrific
+
+--> H
+high                          low
+hot, warm                     cold = freezing
+heavy = leaden                light
+happy = ecstatic              sad                           (happiness != sadness)
+hungry = starving
+hurt = battered
+
+--> L
 lazy = indolent	
 lively = animated	
 loud = thunderous = deafening
 long-term = enduring	
-loved = adored	
+loved = adored
+large = huge	          
+little = tiny
+long = extensive               short = brief
+loose = slack
+
+
+--> M
 modest – gösterişsiz	
+
+--> N
 near-er	out-er
 necessary = essential	
 neat = immaculate	
+noisy = deafing               quiet = silent                (silence = noise)
+naive                         dirty
+nice = kind, polite           rude
+nice, pretty, beautiful = exquisite	
+
+--> O
+old = ancient                 new
+old                           young
 often = frequently	
+
+--> P
+poor = destitute
 painful = excruciating	
 powerful = compelling
 pure
+
+--> Q
+quick = rapid = fast          slow
+
+--> R
 rainy = pouring	
 roomy = spacious	
+risky = perilous              self-confident
+rich, affluent                poor = destitute              (affluence)
+
+--> S
 sharp = keen
+sorry = apologetic
 shiny = gleaming
 sleepy = lethargic
 stupid = idiotic	
@@ -199,11 +235,40 @@ sick = ill
 skinny = skeletal	
 scared = frightened, petrified
 strict	
+scared = petrified
+strong = unyielding           weak = frial                  (strength != weakness)
+safe                          dangerous                     (safety != danger)
+secure
+serious = grave               funny
+several                       few
+special = exceptional
+sober                         drunk
+same
+similar                       different = disparate
+simple = basic                difficult                     (simplicity = difficulty)
+soft                          hard
+slow = sluggish
+
+--> T
+thin = gaunt                  fat = obese
+tidy                          messy = slovenly
+tall = towering, long         short = brief       (tall bulding, long train)
+tired = exhausted, sleepy
 tasty = delicious	
+tight = constricting
+thirsty = parched
+
+--> U
+ugly = hideous
 upset = distraught	
+
+--> V
 valuable = precious	
+
+--> W
 wicked = villainous	
 worried = distressed	
+willing = eager	
 
 
 
