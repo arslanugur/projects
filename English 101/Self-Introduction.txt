@@ -13,8 +13,12 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Where are you from? --> I’m from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
       What is your nationality --> I’m turkish
-      Where did you come from? --> I come from ..
+      Where do you come from? --> I come from ...
+      Where did you come from? --> I came from ..
       Where is your address? --> Street, neighborhood
+                  .. behind the Saatçioğlu Mosque
+                  .. near Hazım Kulak Secondary School
+                  .. next to swimming pool in Büyük Bölcek Neighborhood
       Where were you born?  --> I was born (in) and raised in
       Where did you grow up?  --> I grew up in…
                                   I grew up in LA, now live in NY
@@ -27,7 +31,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Where do you work? 
       Where did you work before?
       
-      I work at ‘company’ in the ‘…department’  --> I work at Google in the marketing department
+      I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
       I am a ‘position’ at ‘company’.           --> I’m a manager at Starbucks.
       I work in ‘general area’.                 --> I work in sales.
       I work as a deputy manager
@@ -112,14 +116,23 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 
 ---> GENERAL QUESTIONS
+tell me about yourself
 tell me about your best friend
 tell me about someone in your family
 tell me about the place you live
 tell me about your town
 tell me what you are wearing today?
 
+what do you study?
+      - I study  
+      - I don't study
+do you study or work?
+      - I study 
+      - I work as a teacher
 what do you do in the evening?
+      - I eat dinner, watch TV, meet with friends
 what do you do after work?
+      - I get home, I eat 
 what do you like wearing? 
 what do you do when you wake up?
 what do you do in the morning?
