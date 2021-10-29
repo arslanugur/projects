@@ -74,12 +74,13 @@ why         why will I have to clean up? - Because, there are guests
             why is this so important to you all of a sudden? – bir anda neden önemli oldu?
 when        when do you wake up everyday?
             when do you go to work? - at seven (am/pm)
-what time   
-what kind   what kind of music do you like? - I like Rock'n Roll songs
+what time   what time is it?
+	    I guess, Everybody else knew what time rehearsal was for
+what kind   what kind of music do you like? - I like Rock songs
             what kind of cars do you want to drive? - I want to drive self-driving cars
 whom        whom did you see yesterday? I saw your old roommate
             whom did you meet (with)? I met with the manager
-whose       whose book did you borrow? I borrowed his book.
+whose       whose book did you borrow? I borrowed his book
             whose is this book? It's Charlotte's
 how         how do you go? - by car
 
