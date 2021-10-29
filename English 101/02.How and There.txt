@@ -42,8 +42,7 @@ How much bread do you want to eat? (Ne kadar ekmek yemek istersin?)
 How much milk have we got?
 How much cheese is left in the fridge? (Buzdolabında ne kadar peynir kaldı?)
 There is some cheese in the fridge. (Dolapta biraz peynir var.)
-How much is this notebook? (Bu defter ne kadar?)
-It’s 7 dollars. (7 dolar.)
+How much is this notebook? (Bu defter ne kadar?) - It’s 7 dollars.
 How much do you earn a day? (Bir günde ne kadar kazanıyorsun?)
 I earn 50 dollars a day. (Günde 50 dolar kazanıyorum.)
 How much does it cost? (Bu ne kadar tutuyor, bunun fiyatı nedir?)
