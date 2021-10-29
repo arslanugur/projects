@@ -31,9 +31,15 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                                --> I have spent two years in İstanbul
                                                       
 4 --> POSITION and COMPANY
-      Where do you work? 
+      What's your job - I am a teacher
+                      - I am an engineer
+                      - I am an unemployed
+                      - I am retired
+      Where do you work? - I work as a teacher at school
+                         - I work as an engineer in a factory/company
       Where did you work before?
-      
+                         - I worked in a hospital before
+                         - I worked in a bank before
       I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
       I am a ‘position’ at ‘company’.           --> I’m a manager at Starbucks.
       I work in ‘general area’.                 --> I work in sales.
