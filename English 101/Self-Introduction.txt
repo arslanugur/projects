@@ -41,14 +41,13 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I don't work now, I am an unemployed
                       - I don't work now, I am a student
                       - I don't work anymore, I am retired
-                      - I worked for several jobs, now i am retired
+                      - I worked for several/various jobs, now i am retired
       Where do you work? - I work as a teacher at school
                          - I work as an engineer in a factory/company
                          - I work as an accountant in a hotel
                          - I work as a deputy manager
                          - I work as a product manager
                          - I work as a quality controller in a factory
-
       Where did you work before?
                          - I worked in a hospital before
                          - I worked in a bank before
@@ -69,11 +68,11 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             - I am nurse for twenty-one years
       You have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
       I’m about to graduate - nerdeyse mezunum/mezuna kaldım
-      I am a ‘subject’ graduate.
-      I am a marketing graduate
+      I am a ‘subject’ graduate. --> I am a marketing graduate
       I have a bachelor of arts degree in marketing.
-      I am a biology postgrad
-      
+      I am a biology postgrad - lisansüstü biyoloji mezunuyum
+      I have a master/PhD degree (Doctor of Philosophy)
+
       I am currently taking a course in ‘theorical subject’.
       I’m currently taking a course in maths.
       I am currently taking a course on ‘practical subject’
@@ -114,7 +113,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 8 --> HOBBIES
       What are you interested in?
-      I am interested in 
+      I am interested in ...
       I really like running
       I really enjoy tennis
       I am a big fan of ‘hobby’
@@ -147,7 +146,8 @@ tell me about your best friend
 tell me about someone in your family
 tell me about the place you live
 tell me about your town
-tell me what you are wearing today?
+tell me about your job
+tell me how do you usually wear?
 
 what do you study?
       - I study  
@@ -159,7 +159,6 @@ what do you do in the evening?
       - I eat dinner, watch TV, meet with friends
 what do you do after work?
       - I get home, I eat 
-what do you like wearing? 
 what do you do when you wake up?
 what do you do in the morning?
 what did you do last night?
