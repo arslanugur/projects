@@ -176,7 +176,7 @@ Num + (Prep) + Numeral		three of four
 *** “To” is a particle marking an infinitive
 
 
----> Types of Determiners
+---> Types of Determiners (ismin önüne gelenler)
 Article:               a, an, the
 Possessive adjective:  my, your..
 Demonstrative pronoun: this, that, these, those
