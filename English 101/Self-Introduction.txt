@@ -33,18 +33,22 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 4 --> POSITION and COMPANY
       What's your job - I am a teacher
                       - I am an engineer
-                      - I am an unemployed
-                      - I am retired
+                      - I am a technician
+                      - I dont work now, I am an unemployed
+                      - I don't work anymore, I am retired
       Where do you work? - I work as a teacher at school
                          - I work as an engineer in a factory/company
+                         - I work as an accountant in a hotel
       Where did you work before?
                          - I worked in a hospital before
                          - I worked in a bank before
+                         - I work as a deputy manager
+                         - I work as a product manager
       I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
-      I am a ‘position’ at ‘company’.           --> I’m a manager at Starbucks.
-      I work in ‘general area’.                 --> I work in sales.
-      I work as a deputy manager
-      I work as an accountant.
+      I am a ‘position’ at ‘company’.             --> I’m a manager at Starbucks.
+      I work in ‘general area’.                   --> I work in sales.
+      
+      
       I work as a quality controller in a factory
 
 
