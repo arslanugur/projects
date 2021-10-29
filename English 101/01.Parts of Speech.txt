@@ -229,9 +229,7 @@ I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll hav
      5 --> 's / has   - sahiplik ya da perfect bildirir, genelde has V3 gibi	--> He's got a motorcycle / She's seen this movie
 
 
----> CORRECT USAGE
-     Get out - dışarı çıkar
-     Get out - defol dışarı
+---> OPTIMIZATION
      Saying "have a nice day" to someone sounds friendly
      Saying "enjoy your next twenty-four hours" to someone sounds threatening
 
