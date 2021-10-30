@@ -10,13 +10,16 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       My name is..
       
 3 --> LOCATION
+      tell me about the place you live?
+      tell me about your town?
+      
       Where are you from? --> I’m from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
       What is your nationality --> I’m turkish
       Where do you come from? --> I come from ...
       Where did you come from? --> I came from ..
       Where is your address? --> Street, neighborhood
-                    .. behind the Saatçioğlu Mosque
+         My address is behind the Saatçioğlu Mosque
                     .. near Hazım Kulak Secondary School
                     .. next to swimming pool in Büyük Bölcek Neighborhood
       Where were you born?  --> I was born in Antalya
@@ -39,7 +42,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I am an engineer
                       - I am a technician
                       - I don't work now, I am an unemployed
-                      - I don't work now, I am a student
+                      - I am not working now, I am a student
                       - I don't work anymore, I am retired
                       - I worked for several/various jobs, now i am retired
       Where do you work? - I work as a teacher at school
@@ -60,13 +63,15 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       
 
 5 --> QUALIFICATIONS
+      What do you study? ---> I study Civil Engineering
+      What did you study? ---> I studied Electrical Engineering
       How many years are you student/teacher/engineer/economist/builder/waiter..?
             - I am student for sixteen years
             - I am teacher for six months
             - I am engineer for eight years
             - I am nurse since 2000
             - I am nurse for twenty-one years
-      You have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
+      I have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
       I’m about to graduate - nerdeyse mezunum/mezuna kaldım
       I am a ‘subject’ graduate. --> I am a marketing graduate
       I have a bachelor of arts degree in marketing.
@@ -144,8 +149,6 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 tell me about yourself
 tell me about your best friend
 tell me about someone in your family
-tell me about the place you live
-tell me about your town
 tell me about your job
 tell me how do you usually wear?
 
