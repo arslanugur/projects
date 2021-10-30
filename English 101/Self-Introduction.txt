@@ -105,8 +105,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I want to be a dentist in the future
 
 7 --> FAMILY
-      How many brothers/sisters do you have? --> I have a brother
-                                             --> I have two sisters
+      How many brothers/sisters (siblings) do you have? --> I have a brother
+                                                        --> I have two sisters
       Tell me about your family? --> My father is ...
                                  --> My mother is ...
                                  --> My brother/sister is ...
