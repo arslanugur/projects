@@ -1,9 +1,10 @@
 INTRODUCTION YOURSELF - “Tell me about yourself?!” 
 
 1 --> GREETINGS
-      “Hello”
-      “Good Morning/Afternoon/Evening”
-
+      Hello
+      Good Morning, Good Afternoon, Good Evening
+      How is your day (going)? --> (my day is) good
+                               --> I study all day long
 2 --> YOUR NAME
       I’m..
       I am..
@@ -41,6 +42,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       What's your job - I am a teacher
                       - I am an engineer
                       - I am a technician
+                      - I am an architect, I draw buildings
                       - I don't work now, I am an unemployed
                       - I am not working now, I am a student
                       - I don't work anymore, I am retired
@@ -103,8 +105,13 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I want to be a dentist in the future
 
 7 --> FAMILY
-      I have a brother/sister
-      I have a mum and a dad
+      How many brothers/sisters do you have? --> I have a brother
+                                             --> I have two sisters
+      Tell me about your family? --> My father is ...
+                                 --> My mother is ...
+                                 --> My brother/sister is ...
+                                 --> My elder brother is ...
+                                 --> My younger sister is ...
       How many family member...  I am from a family of ‘number’
       I am from a family of four
       We are a family of four
