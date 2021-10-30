@@ -112,6 +112,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                  --> My brother/sister is ...
                                  --> My elder brother is ...
                                  --> My younger sister is ...
+      How old is your brother/sister? --> My brother is 'number' years old
+                                      --> My sister is 'number' years old
       How many family member...  I am from a family of ‘number’
       I am from a family of four
       We are a family of four
@@ -126,6 +128,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 8 --> HOBBIES
       What are you interested in?
       I am interested in ...
+      What is your hobby?
       I really like running
       I really enjoy tennis
       I am a big fan of ‘hobby’
