@@ -80,7 +80,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I have a bachelor of arts degree in marketing.
       I am a biology postgrad - lisansüstü biyoloji mezunuyum
       I have a master/PhD degree (Doctor of Philosophy)
-
+      I went to Turkish school in Saudi Arabia
       I am currently taking a course in ‘theorical subject’.
       I’m currently taking a course in maths.
       I am currently taking a course on ‘practical subject’
@@ -130,6 +130,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       What are you interested in?
       I am interested in ...
       What is your hobby? ---> My hobby is ...
+      I like to play piano
       I really like running
       I really enjoy tennis
       I am a big fan of ‘hobby’
