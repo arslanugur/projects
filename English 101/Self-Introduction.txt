@@ -128,7 +128,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 8 --> HOBBIES
       What are you interested in?
       I am interested in ...
-      What is your hobby?
+      What is your hobby? ---> My hobby is ...
       I really like running
       I really enjoy tennis
       I am a big fan of ‘hobby’
