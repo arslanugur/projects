@@ -5,6 +5,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Good Morning, Good Afternoon, Good Evening
       How is your day (going)? --> (my day is) good
                                --> I study all day long
+                               --> I work all day long
 2 --> YOUR NAME
       I’m..
       I am..
