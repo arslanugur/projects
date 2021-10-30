@@ -1,33 +1,4 @@
 INTRODUCTION YOURSELF - “Tell me about yourself?!” 
-
-            I study at Fine Arts Secondary School in Aksaray
-            I started to study in Mechanical Engineering but I postponed to study for a while in Rize 
-            I have a cat, a bird at home
-            I have one brother/sister
-            I usually spend my free time with my friends to go out
-            I like reading books and I watch series or movies
-            I sometimes walk around and play online games with my phone 
-            I have a course from eight to seven, I arrive at there by bus/car
-            I go to the course at the weekend (on saturday and sunday)
-            I got bored of the school and teachers
-            I want to work --> in a factory in my future
-                           --> as a music teacher in my future or I want to study at Conservatory. 
-                           --> as a lawyer or a psychologist in my future
-                           --> as a military engineer in my future
-                           
-            Aksaray is a small and quiet city, but there is no place to hang out in there. 
-            According to me, It is a boring city.                 
-            I live here/in Aksaray for eleven years. 
-            There are some parks such as Culture Park, Selçuklu Park, Kılıçarslan Park.
-            There is an scenery terrace where we can watch urban graveyard in Kılıçarslan Park. 
-            Sometimes we can drink tea with our friends there. 
-            Also, Ihlara Valley is a famous place in Aksaray, there are many green places there.
-            Aksaray is a city nearly surrounded by hills. Hasan Mountain is a famous there. 
-            Unfortunately, There is no sea in AKsaray. 
-            There is a square, we go to concerts every summer in the square. 
-            
-    
-            
 1 --> GREETINGS
       Hello
       Good Morning, Good Afternoon, Good Evening
@@ -305,5 +276,37 @@ what languages do you speak?
 what do you do at the weekend?
 what subjects do you like at school?
 how do you go/travel to school/work?
+
+
+
+
+STUDENTS' EXTRA NOTES
+            I study at Fine Arts Secondary School in Aksaray
+            I started to study in Mechanical Engineering but I postponed to study for a while in Rize 
+            I have a cat, a bird at home
+            I have one brother/sister
+            I usually spend my free time with my friends to go out
+            I like reading books and I watch series or movies
+            I sometimes walk around and play online games with my phone 
+            I have a course from eight to seven, I arrive at there by bus/car
+            I go to the course at the weekend (on saturday and sunday)
+            I got bored of the school and teachers
+            I want to work --> in a factory in my future
+                           --> as a music teacher in my future or I want to study at Conservatory. 
+                           --> as a lawyer or a psychologist in my future
+                           --> as a military engineer in my future
+                           
+            Aksaray is a small and quiet city, but there is no place to hang out in there. 
+            According to me, It is a boring city.                 
+            I live here/in Aksaray for eleven years. 
+            There are some parks such as Culture Park, Selçuklu Park, Kılıçarslan Park.
+            There is an scenery terrace where we can watch urban graveyard in Kılıçarslan Park. 
+            Sometimes we can drink tea with our friends there. 
+            Also, Ihlara Valley is a famous place in Aksaray, there are many green places there.
+            Aksaray is a city nearly surrounded by hills. Hasan Mountain is a famous there. 
+            Unfortunately, There is no sea in AKsaray. 
+            There is a square, we go to concerts every summer in the square. 
+
+
 
 
