@@ -190,13 +190,13 @@ do you study or work?
       - I don't work, because I am still a student. I study ... at school/university.
       - I don't study, because I work as a teacher/architect/engineer/technician/accountant
 what do you do in the evening?
-      I eat dinner
-      I watch TV
+      I eat dinner in the evening
+      I watch TV in the evening
       I meet with friends outside
       I do my homework on computer
       I play computer games
-      I do my homework, also I read a book
-      I draw pictures and drink coffee
+      I do my homework, also I read a book in the evening
+      I draw pictures and drink coffee in the evening
       I go to sleep at eleven
 what do you do after work?
       - I get home, I eat 
