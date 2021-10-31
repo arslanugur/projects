@@ -247,7 +247,13 @@ what food do you like?
       I like eating salad
       I like eating chichen wrap
       I like rice, beans, soup
-      
+      I like pastas/burger/soup
+
+what films do you like?
+      I like action/adventure films
+             thriller films
+             romance and comedy films
+             
 what do you do when you wake up?
       I wash my face and my hands
       I have breakfast at nine 
@@ -257,8 +263,7 @@ what do you do in the morning?
 what did you do last night?
       I watched TV last night
       I talked with my friend
-what food do you like?
-      I like pastas/burger/soup
+
 how often do you do with your friends?
 how often do you have an English lesson?
 how often do you watch TV?
