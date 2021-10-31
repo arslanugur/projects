@@ -290,6 +290,11 @@ what did you do last night?
 how often do you do with your friends?
 how often do you have an English lesson?
 how often do you watch TV?
+how often do you go out?
+      I go out twice a day / a week / a month / a year
+      I go out every day
+      I go out every weekend
+      
 how often do you go out with your friends?
 what do you do in your free time?
 what do you do on your holiday?
