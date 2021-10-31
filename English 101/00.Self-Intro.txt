@@ -236,7 +236,12 @@ what do you do after school?
       I sleep at eleven
       I sleep late at two/three
 
-      
+how do you get to places?
+      I get to places by bus
+                      by car
+                      by walking
+                      by plane
+
 what do you do when you wake up?
       I wash my face and my hands
       I have breakfast at nine 
