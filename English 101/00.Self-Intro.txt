@@ -190,8 +190,10 @@ tell me about your job
 do you like your job
             I like my job
 
-
-
+What do you want to be in your future?
+      I want to be a music teacher in my future or I want to be ... in state symphony orchestra. 
+      I want to be an mechanical engineer in my future
+      I want to be a lawyer or a translator in my future
 
 
 what do you study?
