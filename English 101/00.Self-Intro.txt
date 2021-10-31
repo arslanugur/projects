@@ -164,25 +164,46 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 ---> GENERAL QUESTIONS
 tell me about yourself
+      I am ...
+      I am a student/teacher
 tell me about your best friend
+      My best friend is... 
+      His name is ...
+      He is ... years old
+      He likes playing football
+      He is a very good friend
+      He lives in Ankara
 tell me about someone in your family
 tell me about your job
-tell me how do you usually wear?
+
+do you like your job
+            I like my job
+
+
+
+
 
 what do you study?
       - I study  
       - I don't study
 do you study or work?
-      - I study 
-      - I work as a teacher
+      - I don't work, because I study ... at school/university. I am still a student
+      - I don't study, because I work as a teacher
 what do you do in the evening?
       - I eat dinner, watch TV, meet with friends
 what do you do after work?
       - I get home, I eat 
 what do you do when you wake up?
+      I wash my face and my hands
+      I have breakfast at nine 
 what do you do in the morning?
+      I get up at seven in the morning
+      
 what did you do last night?
+      I watched TV last night
+      I talked with my friend
 what food do you like?
+      I like pastas/burger/soup
 how often do you do with your friends?
 how often do you have an English lesson?
 how often do you watch TV?
@@ -193,7 +214,10 @@ who is your best friend?
 when do you have some free time?
 is your house big?
 why are you learning English?
+      because
 do you play sports?
+      Yes, I do sports at the weekend
+      No, I don't do sports. I don't have time
 what is difficult in your job?
 when do you finish work?
       at four 
