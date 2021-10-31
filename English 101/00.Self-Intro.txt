@@ -184,11 +184,11 @@ do you like your job
 
 
 what do you study?
-      - I study  
+      - I study   
       - I don't study
 do you study or work?
       - I don't work, because I am still a student. I study ... at school/university.
-      - I don't study, because I work as a teacher
+      - I don't study, because I work as a teacher/architect/engineer/technician/accountant
 what do you do in the evening?
       - I eat dinner, watch TV, meet with friends
 what do you do after work?
