@@ -242,6 +242,12 @@ how do you get to places?
                       by walking
                       by plane
 
+what food do you like?
+      I like orange fruit
+      I like eating salad
+      I like eating chichen wrap
+      I like rice, beans, soup
+      
 what do you do when you wake up?
       I wash my face and my hands
       I have breakfast at nine 
