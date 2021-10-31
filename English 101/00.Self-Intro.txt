@@ -203,16 +203,18 @@ do you study or work?
 what do you do in the evening?
       I eat dinner in the evening
       I watch TV in the evening
-      I meet with friends outside
+      I meet with friends outside and we hang out together
       I do my homework on computer
       I play computer games
       I do my homework, also I read a book in the evening
-      I cook dinner
+      I eat dinner / I cook dinner  
       I draw pictures and drink (turkish) coffee in the evening
       I go to sleep at eleven
       
 what do you do after work?
-      I get home, I eat 
+      I get home by car
+      I arrive at home
+      
 what do you do when you wake up?
       I wash my face and my hands
       I have breakfast at nine 
