@@ -225,9 +225,9 @@ What do you want to be in your future?
 what do you study?
       - I study   
       - I don't study
-do you study or work?
-      - I don't work, because I am still a student. I study ... at school/university.
-      - I don't study, because I work as a teacher/architect/engineer/technician/accountant
+do you study or work?         (are you student or work?)
+      - No, I don't work, because I am still a student. I study ... at school/university.
+      - No, I don't study, because I work as a teacher/architect/engineer/technician/accountant
 what do you do in the evening?
       I eat dinner in the evening
       I watch TV in the evening
