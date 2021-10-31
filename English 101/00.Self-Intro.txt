@@ -187,7 +187,7 @@ what do you study?
       - I study  
       - I don't study
 do you study or work?
-      - I don't work, because I study ... at school/university. I am still a student
+      - I don't work, because I am still a student. I study ... at school/university.
       - I don't study, because I work as a teacher
 what do you do in the evening?
       - I eat dinner, watch TV, meet with friends
