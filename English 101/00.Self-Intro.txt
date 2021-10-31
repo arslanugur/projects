@@ -213,7 +213,10 @@ what do you do in the evening?
 do you watch TV?
       Yes, I do --> Yes, I sometimes watch TV
       No, I don't --> No, I don't watch TV much
-      
+when do you go on holiday?
+      I go on holiday once a year           (once = one time)
+                      twice a year          (twice = two times)
+                      three times a year
 what do you do after work?
       I get home by car
       I arrive at home
