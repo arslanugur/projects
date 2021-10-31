@@ -170,15 +170,18 @@ tell me about yourself
       I have a brother/sister
       
 tell me about your best friend
-      My best friend is... 
-      His name is ...
-      He is a very good friend
-      He is ... years old
-      He likes playing football/basketball
-      He lives in Ankara
-      He works in a factory
-      We are friends with him/her since university
-      
+      my best friend is ... 
+      his name is ...
+      he is a very good friend
+      he is very talkative
+      he is ... years old
+      he likes playing football/basketball
+      he lives in Ankara
+      he studies Physics/Architecture
+            he works in a factory
+            he sells computers
+      we are friends with him/her since university
+      he has black hair and blue eyes
 tell me about someone in your family
 tell me about your job
 
