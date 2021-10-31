@@ -210,6 +210,9 @@ what do you do in the evening?
       I eat dinner / I cook dinner  
       I draw pictures and drink (turkish) coffee in the evening
       I go to sleep at eleven
+do you watch TV?
+      Yes, I do --> Yes, I sometimes watch TV
+      No, I don't --> No, I don't watch TV much
       
 what do you do after work?
       I get home by car
