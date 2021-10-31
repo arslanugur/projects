@@ -172,6 +172,7 @@ tell me about yourself
 tell me about your best friend
       my best friend is ... 
       his name is ...
+      her name is ...
       he is a very good friend
       he is very talkative
       he is ... years old
@@ -184,7 +185,8 @@ tell me about your best friend
       he has black hair and blue eyes
 tell me about someone in your family
 tell me about your job
-
+      I worked as a receptionist, accountant, customer service officer, bank officer, customs officer, store manager
+      
 do you like your job
             I like my job
 
