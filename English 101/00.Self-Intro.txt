@@ -259,6 +259,9 @@ how often do you drive your car?
 where do you go shopping?
 what time does your English lesson start?
 when do you use the internet?
+      I use the internet at the weekend
+how often do you use the internet?
+      I use the internet every day
 what is your husband/wife/boyfriend/girlfriend's name?
 what town do you live in?
       I live in Antalya 
@@ -276,6 +279,10 @@ what time do you get up in the morning?
       I get up at seven in the morning
 when do you go shopping?
       I go shopping at the weekend
+      I don't go shopping, because I buy things online
+where do you go shopping?
+      I go shopping at Park City
+      
 how many brothers and sisters do you have?
       I have one brother
 who is your best friend?
