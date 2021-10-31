@@ -1,25 +1,25 @@
 Abandon         ebandın	          TERK ETMEK
 Ability         ebılıti	          YETENEK
-Able            eybıl	            MUKTEDİR
-Aboard          ebord	            (bir taşıtın)İÇİNDE OLMAK
-About           ebaut	            1.HAKKINDA 2.YAKLAŞIK OLARAK
-Above           ebav	            yukarıdaki
+Able            eybıl             MUKTEDİR
+Aboard          ebord             (bir taşıtın)İÇİNDE OLMAK
+About           ebaut             1.HAKKINDA 2.YAKLAŞIK OLARAK
+Above           ebav              yukarıdaki
 Below           bilov             aşağıdaki             
-Abroad          ebrod	            YURT DIŞI
+Abroad          ebrod             YURT DIŞI
 Absence         ebsıns	          YOKLUK
 Absent          ebsınt	          1.YOK 2.EKSİK
 Absolute        ebsolut	          MUTLAK, KESİN
 Absurd          ebzörd	          SAÇMA
 Accept          eksept	          KABUL ETMEK
-Accident        eksidınt	        KAZA
-Accommodate     ekomodeyt	        YERLEŞTİRMEK
-Accommodation   ekomıdeyşın	      KONAKLAMA YERİ
-Accompany       ekampıni	        EŞLİK ETMEK
-According To    ekording tu	      -E GÖRE
-Account         ekaunt	          HESAP
+Accident        eksidınt          KAZA
+Accommodate     ekomodeyt         YERLEŞTİRMEK
+Accommodation   ekomıdeyşın       KONAKLAMA YERİ
+Accompany       ekampıni          EŞLİK ETMEK
+According To    ekording tu       -E GÖRE
+Account         ekaunt            HESAP
 Accurate        ekürıt	          DOĞRU, HATASIZ
-Accuse          ekküz	            SUÇLAMAK
-Ache            eyk	              AĞRI
+Accuse          ekküz             SUÇLAMAK
+Ache            eyk               AĞRI
 Acquaint        ekueynt	          TANIMAK,BİLMEK
 Across          ekros	            1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
 Act             ekt	              1.DAVRANIŞ  2.DAVRANMAK
