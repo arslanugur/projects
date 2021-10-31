@@ -1,71 +1,71 @@
-Abandon	        ebandın	          TERK ETMEK
-Ability	        ebılıti	          YETENEK
-Able	          eybıl	            MUKTEDİR
-Aboard	        ebord	            (bir taşıtın)İÇİNDE OLMAK
-About	          ebaut	            1.HAKKINDA 2.YAKLAŞIK OLARAK
-Above	          ebav	            yukarıdaki
+Abandon         ebandın	          TERK ETMEK
+Ability         ebılıti	          YETENEK
+Able            eybıl	            MUKTEDİR
+Aboard          ebord	            (bir taşıtın)İÇİNDE OLMAK
+About           ebaut	            1.HAKKINDA 2.YAKLAŞIK OLARAK
+Above           ebav	            yukarıdaki
 Below           bilov             aşağıdaki             
-Abroad	        ebrod	            YURT DIŞI
-Absence	        ebsıns	          YOKLUK
-Absent	        ebsınt	          1.YOK 2.EKSİK
-Absolute	      ebsolut	          MUTLAK, KESİN
-Absurd	        ebzörd	          SAÇMA
-Accept	        eksept	          KABUL ETMEK
-Accident	      eksidınt	        KAZA
-Accommodate	    ekomodeyt	        YERLEŞTİRMEK
-Accommodation	  ekomıdeyşın	      KONAKLAMA YERİ
-Accompany	      ekampıni	        EŞLİK ETMEK
-According To	  ekording tu	      -E GÖRE
-Account	        ekaunt	          HESAP
-Accurate	      ekürıt	          DOĞRU, HATASIZ
-Accuse	        ekküz	            SUÇLAMAK
-Ache	          eyk	              AĞRI
-Acquaint	      ekueynt	          TANIMAK,BİLMEK
-Across	        ekros	            1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
-Act	            ekt	              1.DAVRANIŞ  2.DAVRANMAK
-Active	        ektiv	            ETKİN, FAAL
-Actor	          ektır	            ERKEK OYUNCU
-Actress	        ektrıs            KADIN OYUNCU
-Actual	        ekçuıl	          GERÇEK
-Add	            ed	              TOPLAMAK,EKLEMEK
-Address	        edres	            ADRES
-Administration	edminıstreyşın	  İDARE
-Admire	        edmayr	          BEĞENMEK,HAYRAN OLMAK
-Admit	          edmit	            1.KABUL ETMEK  2.İZİN VERMEK
-Adult	          edalt	            YETİŞKİN
-Advance	        edvens	          1.İLERİ 2.AVANS
-Advanced	      edvensd	          GELİŞMİŞ
-Advantage	      edventıc	        AVANTAJ
-Adventure	      edvençur	        MACERA
-Advertise	      edvırtayz	        REKLAM YAPMAK, İLAN VERMEK
-Advice	        edvays	          TAVSİYE
-Advise	        edvayz	          TAVSİYE ETMEK
-Aerial	        eriyıl	          ANTEN
-Aeroplane	      eıropleyn	        UÇAK
-Affair	        effeyır	          1.OLAY 2.İŞ 3.İLİŞKİ
-Affect	        efekt	            ETKİLEMEK
-Afford	        eford	            SATIN ALMA GÜCÜ OLMAK
-Afraid	        efreid	          KORKMAK
+Abroad          ebrod	            YURT DIŞI
+Absence         ebsıns	          YOKLUK
+Absent          ebsınt	          1.YOK 2.EKSİK
+Absolute        ebsolut	          MUTLAK, KESİN
+Absurd          ebzörd	          SAÇMA
+Accept          eksept	          KABUL ETMEK
+Accident        eksidınt	        KAZA
+Accommodate     ekomodeyt	        YERLEŞTİRMEK
+Accommodation   ekomıdeyşın	      KONAKLAMA YERİ
+Accompany       ekampıni	        EŞLİK ETMEK
+According To    ekording tu	      -E GÖRE
+Account         ekaunt	          HESAP
+Accurate        ekürıt	          DOĞRU, HATASIZ
+Accuse          ekküz	            SUÇLAMAK
+Ache            eyk	              AĞRI
+Acquaint        ekueynt	          TANIMAK,BİLMEK
+Across          ekros	            1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
+Act             ekt	              1.DAVRANIŞ  2.DAVRANMAK
+Active          ektiv	            ETKİN, FAAL
+Actor           ektır	            ERKEK OYUNCU
+Actress         ektrıs            KADIN OYUNCU
+Actual          ekçuıl	          GERÇEK
+Add             ed	              TOPLAMAK,EKLEMEK
+Address         edres	            ADRES
+Administration  edminıstreyşın	  İDARE
+Admire          edmayr	          BEĞENMEK,HAYRAN OLMAK
+Admit           edmit	            1.KABUL ETMEK  2.İZİN VERMEK
+Adult           edalt	            YETİŞKİN
+Advance         edvens	          1.İLERİ 2.AVANS
+Advanced        edvensd	          GELİŞMİŞ
+Advantage       edventıc	        AVANTAJ
+Adventure       edvençur	        MACERA
+Advertise       edvırtayz	        REKLAM YAPMAK, İLAN VERMEK
+Advice          edvays	          TAVSİYE
+Advise          edvayz	          TAVSİYE ETMEK
+Aerial          eriyıl	          ANTEN
+Aeroplane       eıropleyn	        UÇAK
+Affair          effeyır	          1.OLAY 2.İŞ 3.İLİŞKİ
+Affect          efekt	            ETKİLEMEK
+Afford          eford	            SATIN ALMA GÜCÜ OLMAK
+Afraid          efreid	          KORKMAK
 Ago             ego               önce
 Later           letır             sonra, daha geç
-After	          aftır	            -den sonra
+After           aftır	            -den sonra
 Before          bifor             -den önce
-Afternoon	      aftırnuun	        ÖĞLEDEN SONRA
-Afterwards	    aftırvördz	      (bir olaydan) SONRA
-Again	          egein	            BİR DAHA;YİNE
-Against	        egeinst	          KARŞI, ZIT
-Age           	eyc	              1.YAŞ 2.ÇAĞ
-Aged          	eycd	            YAŞINDA
-Agency        	eycınsi	          ACENTE
-Agent	          eycınt	          TEMSİLCİ, ARACI
-Aggressive	    egresiv	          SALDIRGAN, KAVGACI
-Agree	          egrii	            ANLAŞMAK
-Agreement	      egriimınt	        ANLAŞMA
-Agriculture	    egrikalçır	      TARIM
-Ahead	          ehed	            ÖNDE
-Aid	            eyd	              YARDIM
-Aim	            eym	              1.AMAÇ 2.HEDEF ALMAK
-Air	            eyr	              1.HAVA 2.HAVALANDIRMA
+Afternoon       aftırnuun	        ÖĞLEDEN SONRA
+Afterwards      aftırvördz	      (bir olaydan) SONRA
+Again           egein	            BİR DAHA;YİNE
+Against         egeinst	          KARŞI, ZIT
+Age             eyc	              1.YAŞ 2.ÇAĞ
+Aged            eycd	            YAŞINDA
+Agency          eycınsi	          ACENTE
+Agent           eycınt	          TEMSİLCİ, ARACI
+Aggressive      egresiv	          SALDIRGAN, KAVGACI
+Agree           egrii	            ANLAŞMAK
+Agreement       egriimınt	        ANLAŞMA
+Agriculture     egrikalçır	      TARIM
+Ahead           ehed	            ÖNDE
+Aid             eyd	              YARDIM
+Aim             eym	              1.AMAÇ 2.HEDEF ALMAK
+Air             eyr	              1.HAVA 2.HAVALANDIRMA
 Alarm	          alarm	            ALARM
 Algebra	        alcebra         	CEBİR
 Alike	          elaık	            HEMEN HEMEN AYNI, BENZER, AYNI YOLDA
