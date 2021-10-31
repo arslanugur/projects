@@ -166,13 +166,19 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 tell me about yourself
       I am ...
       I am a student/teacher
+      I am ... years old
+      I have a brother/sister
+      
 tell me about your best friend
       My best friend is... 
       His name is ...
-      He is ... years old
-      He likes playing football
       He is a very good friend
+      He is ... years old
+      He likes playing football/basketball
       He lives in Ankara
+      He works in a factory
+      We are friends with him/her since university
+      
 tell me about someone in your family
 tell me about your job
 
@@ -199,7 +205,7 @@ what do you do in the evening?
       I draw pictures and drink coffee in the evening
       I go to sleep at eleven
 what do you do after work?
-      - I get home, I eat 
+      I get home, I eat 
 what do you do when you wake up?
       I wash my face and my hands
       I have breakfast at nine 
