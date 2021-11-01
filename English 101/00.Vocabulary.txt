@@ -21,61 +21,61 @@ Accurate        ekürıt	          DOĞRU, HATASIZ
 Accuse          ekküz             SUÇLAMAK
 Ache            eyk               AĞRI
 Acquaint        ekueynt	          TANIMAK,BİLMEK
-Across          ekros	            1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
-Act             ekt	              1.DAVRANIŞ  2.DAVRANMAK
-Active          ektiv	            ETKİN, FAAL
-Actor           ektır	            ERKEK OYUNCU
+Across          ekros             1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
+Act             ekt               1.DAVRANIŞ  2.DAVRANMAK
+Active          ektiv             ETKİN, FAAL
+Actor           ektır             ERKEK OYUNCU
 Actress         ektrıs            KADIN OYUNCU
-Actual          ekçuıl	          GERÇEK
-Add             ed	              TOPLAMAK,EKLEMEK
-Address         edres	            ADRES
-Administration  edminıstreyşın	  İDARE
-Admire          edmayr	          BEĞENMEK,HAYRAN OLMAK
-Admit           edmit	            1.KABUL ETMEK  2.İZİN VERMEK
-Adult           edalt	            YETİŞKİN
-Advance         edvens	          1.İLERİ 2.AVANS
-Advanced        edvensd	          GELİŞMİŞ
-Advantage       edventıc	        AVANTAJ
-Adventure       edvençur	        MACERA
-Advertise       edvırtayz	        REKLAM YAPMAK, İLAN VERMEK
-Advice          edvays	          TAVSİYE
-Advise          edvayz	          TAVSİYE ETMEK
-Aerial          eriyıl	          ANTEN
-Aeroplane       eıropleyn	        UÇAK
-Affair          effeyır	          1.OLAY 2.İŞ 3.İLİŞKİ
-Affect          efekt	            ETKİLEMEK
-Afford          eford	            SATIN ALMA GÜCÜ OLMAK
-Afraid          efreid	          KORKMAK
+Actual          ekçuıl            GERÇEK
+Add             ed                TOPLAMAK,EKLEMEK
+Address         edres             ADRES
+Administration  edminıstreyşın    İDARE
+Admire          edmayr            BEĞENMEK,HAYRAN OLMAK
+Admit           edmit             1.KABUL ETMEK  2.İZİN VERMEK
+Adult           edalt             YETİŞKİN
+Advance         edvens            1.İLERİ 2.AVANS
+Advanced        edvensd           GELİŞMİŞ
+Advantage       edventıc          AVANTAJ
+Adventure       edvençur          MACERA
+Advertise       edvırtayz         REKLAM YAPMAK, İLAN VERMEK
+Advice          edvays            TAVSİYE
+Advise          edvayz            TAVSİYE ETMEK
+Aerial          eriyıl            ANTEN
+Aeroplane       eıropleyn         UÇAK
+Affair          effeyır           1.OLAY 2.İŞ 3.İLİŞKİ
+Affect          efekt             ETKİLEMEK
+Afford          eford             SATIN ALMA GÜCÜ OLMAK
+Afraid          efreid            KORKMAK
 Ago             ego               önce
 Later           letır             sonra, daha geç
-After           aftır	            -den sonra
+After           aftır             -den sonra
 Before          bifor             -den önce
-Afternoon       aftırnuun	        ÖĞLEDEN SONRA
-Afterwards      aftırvördz	      (bir olaydan) SONRA
-Again           egein	            BİR DAHA;YİNE
-Against         egeinst	          KARŞI, ZIT
-Age             eyc	              1.YAŞ 2.ÇAĞ
-Aged            eycd	            YAŞINDA
-Agency          eycınsi	          ACENTE
-Agent           eycınt	          TEMSİLCİ, ARACI
-Aggressive      egresiv	          SALDIRGAN, KAVGACI
-Agree           egrii	            ANLAŞMAK
-Agreement       egriimınt	        ANLAŞMA
-Agriculture     egrikalçır	      TARIM
-Ahead           ehed	            ÖNDE
-Aid             eyd	              YARDIM
-Aim             eym	              1.AMAÇ 2.HEDEF ALMAK
-Air             eyr	              1.HAVA 2.HAVALANDIRMA
-Alarm           alarm	            ALARM
-Algebra         alcebra         	CEBİR
-Alike           elaık	            HEMEN HEMEN AYNI, BENZER, AYNI YOLDA
-Alive           elaıv	            YAŞAMAK,CANLI
-All             ol	              1.HEP 2.TÜM 3.HER
-All Right       ol rayt	          1.TAMAM 2.EVET
-Alliance        elayıns	          BAĞLAŞMA, BİRLİK, MÜTAREKE
-Alligator       aligeytır	        TİMSAH
-Allow           elov	            İZİN VERMEK
-Almost          olmost	          HEMEN HEMEN
+Afternoon       aftırnuun         ÖĞLEDEN SONRA
+Afterwards      aftırvördz        (bir olaydan) SONRA
+Again           egein             BİR DAHA;YİNE
+Against         egeinst           KARŞI, ZIT
+Age             eyc               1.YAŞ 2.ÇAĞ
+Aged            eycd              YAŞINDA
+Agency          eycınsi           ACENTE
+Agent           eycınt            TEMSİLCİ, ARACI
+Aggressive      egresiv           SALDIRGAN, KAVGACI
+Agree           egrii             ANLAŞMAK
+Agreement       egriimınt         ANLAŞMA
+Agriculture     egrikalçır        TARIM
+Ahead           ehed              ÖNDE
+Aid             eyd               YARDIM
+Aim             eym               1.AMAÇ 2.HEDEF ALMAK
+Air             eyr               1.HAVA 2.HAVALANDIRMA
+Alarm           alarm             ALARM
+Algebra         alcebra           CEBİR
+Alike           elaık             HEMEN HEMEN AYNI, BENZER, AYNI YOLDA
+Alive           elaıv             YAŞAMAK,CANLI
+All             ol                1.HEP 2.TÜM 3.HER
+All Right       ol rayt           1.TAMAM 2.EVET
+Alliance        elayıns           BAĞLAŞMA, BİRLİK, MÜTAREKE
+Alligator       aligeytır         TİMSAH
+Allow           elov              İZİN VERMEK
+Almost          olmost            HEMEN HEMEN
 Alone           elon	            1.YALNIZ  2.TEK
 Along           elong	            1.BOYUNCA  2.İLERİ
 Aloud           elaud	            SESLİ
