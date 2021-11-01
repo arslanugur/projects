@@ -76,142 +76,141 @@ Alliance        elayıns           BAĞLAŞMA, BİRLİK, MÜTAREKE
 Alligator       aligeytır         TİMSAH
 Allow           elov              İZİN VERMEK
 Almost          olmost            HEMEN HEMEN
-Alone           elon	            1.YALNIZ  2.TEK
-Along           elong	            1.BOYUNCA  2.İLERİ
-Aloud           elaud	            SESLİ
+Alone           elon              1.YALNIZ  2.TEK
+Along           elong             1.BOYUNCA  2.İLERİ
+Aloud           elaud             SESLİ
 Already         olredi	          AZ ÖNCE, ZATEN
-Also            olso	            HEM DE
-Although        oldo	            -e rağmen, 1.GERÇİ 2.OLMAKLA BERABER
-Altogether      oltugedır	        TÜMÜYLE, HEP BERABER
+Also            olso              HEM DE
+Although        oldo              -e rağmen, 1.GERÇİ 2.OLMAKLA BERABER
+Altogether      oltugedır         TÜMÜYLE, HEP BERABER
 Always          olveys	          HER ZAMAN
-Amaze           emeyz	            şaşırtmak
+Amaze           emeyz             şaşırtmak
 Amazing         emeyzin           şaşırtıcı
 Amazed          emeyzd            şaşırmış, hayret etmiş
-Ambassador      embesedır	        büyükelçi
+Ambassador      embesedır         büyükelçi
 Ambition        embişın	          hırs
 Ambitious       embişız           hırslı
-Ambush          embuş	            tuzak, pusu
-Among           emong	            arasında (ikiden fazla şeyin)
+Ambush          embuş             tuzak, pusu
+Among           emong             arasında (ikiden fazla şeyin)
 Between         bitviin           arasında (iki şeyin)
 Amount          emaunt	          miktar
-Amuse           emüuz	            güldürmek
+Amuse           emüuz             güldürmek
 Smile           sımayl            gülümsemek
 Laugh           lauh              gülmek
-And             end	              ve
+And             end               ve
 Or              or                veya, ya da
 Anger           engır             öfke
-Angry           engri	            kızgın
+Angry           engri             kızgın
 Animal          enimıl	          HAYVAN
-Ankle           enkl	            AYAK BİLEĞİ
-Anniversary     enivörsıri	      YILDÖNÜMÜ
+Ankle           enkl              AYAK BİLEĞİ
+Anniversary     enivörsıri        YILDÖNÜMÜ
 Announce        enauns	          BİLDİRMEK, ÇAĞRIDA BULUNMAK, ANONS
-Annoy           enoy	            RAHATSIZ ETMEK, KIZDIRMAK
+Annoy           enoy              RAHATSIZ ETMEK, KIZDIRMAK
 Annoying        enoyin            sinir bozucu
 Annual          enyuıl	          YILLIK
 Another         enadır	          DİĞER, BİR BAŞKA
 Other           adır              diğer
-Answer          ensır	            cevap, yanıt, cevaplamak
-Ant             ent	              KARINCA				
-Anti            anti	            KARŞI, ZIT, TERS				
-Anxiety         enzayıti	        ENDİŞE				
+Answer          ensır             cevap, yanıt, cevaplamak
+Ant             ent               KARINCA				
+Anti            anti              KARŞI, ZIT, TERS				
+Anxiety         enzayıti          ENDİŞE				
 Anxious         enkşıs	          ENDİŞELİ				
-Any             eni	              HERHANGİ				
+Any             eni               HERHANGİ				
 Anybody         enibadi	          HERHANGİ BİRİ				
 Anyone          enivan	          HERHANGİ BİRİ				
 Anything        enyting	          HERHANGİ BİR ŞEY				
 Anyway          enivey	          HER NEYSE				
 Anywhere        eniveır	          HERHANGİ BİR YER				
-Apart           epart	            AYRI				
-Apart From      epart from	      HARİÇ, DIŞINDA				
-Ape             eyp	              MAYMUN				
-Apologize       epolocayz	        ÖZÜR DİLEMEK				
+Apart           epart             AYRI				
+Apart From      epart from        HARİÇ, DIŞINDA				
+Ape             eyp               MAYMUN				
+Apologize       epolocayz         ÖZÜR DİLEMEK				
 Apparent        eperınt	          AÇIK;KOLAYCA GÖRÜNEN				
-Appeal          epiıl	            1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK				
+Appeal          epiıl             1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK
 Appear          eppiır	          GÖRÜNMEK				
-Appearance      eppiırıns	        GÖRÜNÜŞ				
+Appearance      eppiırıns         GÖRÜNÜŞ				
 Appetite        epıtayt	          İŞTAH				
-Apple           epıl	            ELMA				
-Applicant       eplikınt	        BAŞVURAN				
-Application     eplikeyşın	      BAŞVURU				
-Apply           eplay	            1.BAŞVURMAK 2.UYGULAMAK				
+Apple           epıl              ELMA				
+Applicant       eplikınt          BAŞVURAN				
+Application     eplikeyşın        BAŞVURU				
+Apply           eplay             1.BAŞVURMAK 2.UYGULAMAK				
 Appoint         eppoint	          ATAMAK				
-Appointment     eppointmınt	      1.RANDEVU 2.ATAMA				
-Appreciate      eprişieyt	        MÜTEŞEKKİR, DEĞER BİLMEK ,BEĞENMEK				
-Approach        eproç	            1.YAKLAŞMAK 2.YAKLAŞIM 3.GELİŞ				
-Approve         epruv	            onaylamak			
+Appointment     eppointmınt       1.RANDEVU 2.ATAMA				
+Appreciate      eprişieyt         MÜTEŞEKKİR, DEĞER BİLMEK ,BEĞENMEK				
+Approach        eproç             1.YAKLAŞMAK 2.YAKLAŞIM 3.GELİŞ				
+Approve         epruv             onaylamak			
 Prove           pruv              kanıtlamak
-Approximate     eproksimıt	      YAKLAŞIK OLARAK				
+Approximate     eproksimıt        YAKLAŞIK OLARAK				
 Apricot         eprikot	          KAYISI				
 April           eyprıl	          NİSAN				
-Archbishop      arçbişıp	        BAŞPİSKOPOS				
-Architect       arkitekt	        mimar			
-Architecture    arkitekçır	      mimarlık
+Archbishop      arçbişıp          BAŞPİSKOPOS				
+Architect       arkitekt          mimar			
+Architecture    arkitekçır        mimarlık
 Architectural   arkitekçıral      mimari
-Area            eriya	            ALAN, BÖLGE				
-Argue           argüu	            TARTIŞMAK				
-Argument        argümınt	        TARTIŞMA				
-Arise           erayz	            KALKMAK, YÜKSELMEK				
-Aristocrat      eristokrat	      ARİSTOKRAT				
-Arm             arm	              KOL, SİLAH				
+Area            eriya             ALAN, BÖLGE				
+Argue           argüu             TARTIŞMAK				
+Argument        argümınt          TARTIŞMA				
+Arise           erayz             KALKMAK, YÜKSELMEK				
+Aristocrat      eristokrat        ARİSTOKRAT				
+Arm             arm               KOL, SİLAH				
 Armchair        armçeir	          koltuk
 Sofa            sofa              divan, kanepe
 Couch           kauç              kanepe
 Pillow          pilo              yastık
-Armour          armır	            ZIRH				
-Army            armi	            ORDU				
+Armour          armır             ZIRH				
+Army            armi              ORDU				
 Around          eraund	          1.AŞAĞI YUKARI 2.ÇEVRE				
 Arrange         ereync	          DÜZENLEMEK, AYARLAMAK				
-Arrest          erest	            TUTUKLAMAK				
-Arrive          erayv	            varmak
+Arrest          erest             TUTUKLAMAK				
+Arrive          erayv             varmak
 Arrival         erayvıl	          varış				
 Depart          dipart            ayrılmak
 Departure       diparçur          kalkış, ayrılış
-Arrow           erov	            ok
+Arrow           erov              ok
 Bow             bo                yay
-Art             art	              SANAT				
+Art             art               SANAT				
 Article         artikl	          1.MAKALE 2.EŞYA				
-Artificial      artifişıl	        YAPAY				
+Artificial      artifişıl         YAPAY				
 Artist          artist	          SANATÇI				
-As              ez	              1.GİBİ 2.OLARAK 3.OLARAK				
-Ash             eş	              KÜL				
+As              ez                1.GİBİ 2.OLARAK 3.OLARAK				
+Ash             eş                KÜL
+Shame           şeym              utanç
 Ashamed         eşeymd	          UTANMIŞ				
-Aside           esayd	            BİR YANDA				
-Ask             esk	              SORMAK, İSTEMEK				
+Aside           esayd             BİR YANDA				
+Ask             esk               SORMAK, İSTEMEK				
 Asleep          esliip	          UYKUDA				
-Ass             es	              1.EŞEK 2.APTAL				
+Ass             es                1.EŞEK 2.APTAL				
 Assembly        esembli	          1.MONTAJ 2.OTURUM				
-Assist          esist	            YARDIM ETMEK				
-Assistant       esistınt	        YARDIMCI				
-Associate       esoşieyt	        İLGİLENMEK, BİRLEŞTİRMEK				
-Assume          esuym	            VARSAYMAK				
+Assist          esist             YARDIM ETMEK				
+Assistant       esistınt          YARDIMCI				
+Associate       esoşieyt          İLGİLENMEK, BİRLEŞTİRMEK				
+Assume          esuym             VARSAYMAK				
 Astonish        estoniş	          ŞAŞIRMAK (bir kimseye)				
-At              et	              DE..DA  eki				
-Atmosphere      etmosfiır	        HAVAKÜRE, ATMOSFER				
-Attach          eteç	            BİRLEŞTİRMEK				
-Attack          etek	            SALDIRMAK, ATAK				
-Attempt         etempt          	DENEMEK				
-Attend          etend	            KATILMAK, (bir yerde)BULUNMAK				
+At              et                DE..DA  eki				
+Atmosphere      etmosfiır         HAVAKÜRE, ATMOSFER				
+Attach          eteç              BİRLEŞTİRMEK				
+Attack          etek              SALDIRMAK, ATAK				
+Attempt         etempt            DENEMEK				
+Attend          etend             KATILMAK, (bir yerde)BULUNMAK				
 Attention       etenşın	          DİKKAT				
 Attitude        etitüud	          YAKLAŞIM, DÜŞÜNCE, HAREKET, TAVIR				
-Attractive      etrektiv	        ÇEKİCİ				
-August          ogust	            AĞUSTOS				
-Aunt            aant	            TEYZE, HALA				
-Autumn          otumn	            SONBAHAR				
-Available       eveylıbl	        HAZIR, SERBEST, BOŞTA				
-Avenue          evenyu          	CADDE				
-Average         evirıç          	ORTALAMA				
-Avoid           evoid	            KAÇINMAK
+Attractive      etrektiv          ÇEKİCİ				
+August          ogust             AĞUSTOS				
+Aunt            aant              TEYZE, HALA				
+Autumn          otumn             SONBAHAR				
+Available       eveylıbl          HAZIR, SERBEST, BOŞTA				
+Avenue          evenyu            CADDE				
+Average         evirıç            ORTALAMA				
+Avoid           evoid             KAÇINMAK
 Wake up         veyk ap           uyanmak
-Awake           eveyk	            uyanık				
-Aware           eveyr	            farkında olmak, bilgili, haberdar olmak				
-Away            evey	            uzak, buradan, burada değil				
-Awful           oful	            KÖTÜ, BERBAT, ÜZÜCÜ				
-Axe             eks	              BALTA				
+Awake           eveyk             uyanık				
+Aware           eveyr             farkında olmak, bilgili, haberdar olmak				
+Away            evey              uzak, buradan, burada değil				
+Awful           oful              KÖTÜ, BERBAT, ÜZÜCÜ				
+Axe             eks               BALTA				
 
-
-
-Baby	beybi	BEBEK				
-Back	bek	1.ARKA 2.SIRT				
+Baby            beybi             BEBEK				
+Back            bek               1.ARKA 2.SIRT				
 Backbone	bekbon	1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ				
 Background	bekraund	1.FON, GERİ PLAN 2.TEMEL				
 Backward	bekvörd	GERİYE DOĞRU				
