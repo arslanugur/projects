@@ -193,7 +193,7 @@ Numeral: 	       one, two, three
 Ordinal: 	       first, second, third
 Quantifier: 	       a few, another, several, much, many, a lot of, some, very
 
-
+Adjective:             smart, good, cool, bad, lucky, heavy
 
 ---> TWELVE TENSES
 Present Simple Tense	          --> I prefer my coffee black 
