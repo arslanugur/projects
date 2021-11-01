@@ -1,6 +1,6 @@
 Abandon         ebandın	          TERK ETMEK
-Ability         ebılıti	          YETENEK
-Able            eybıl             MUKTEDİR
+Ability         ebılıti	          yetenek, beceri
+Able            eybıl             muktedir
 Aboard          ebord             (bir taşıtın)İÇİNDE OLMAK
 About           ebaut             1.HAKKINDA 2.YAKLAŞIK OLARAK
 Above           ebav              yukarıdaki
@@ -10,13 +10,14 @@ Absence         ebsıns	          YOKLUK
 Absent          ebsınt	          1.YOK 2.EKSİK
 Absolute        ebsolut	          MUTLAK, KESİN
 Absurd          ebzörd	          SAÇMA
-Accept          eksept	          KABUL ETMEK
-Accident        eksidınt          KAZA
+Accept          eksept	          kabul etmek
+Acceptance      ekseptıns         kabul
+Accident        eksidınt          kaza
 Accommodate     ekomodeyt         YERLEŞTİRMEK
 Accommodation   ekomıdeyşın       KONAKLAMA YERİ
 Accompany       ekampıni          EŞLİK ETMEK
 According To    ekording tu       -E GÖRE
-Account         ekaunt            HESAP
+Account         ekaunt            hesap
 Accurate        ekürıt	          DOĞRU, HATASIZ
 Accuse          ekküz             SUÇLAMAK
 Ache            eyk               ağrı
@@ -128,11 +129,11 @@ Anywhere        eniveır	          HERHANGİ BİR YER
 Apart           epart             AYRI	
 Apart From      epart from        HARİÇ, DIŞINDA			
 Ape             eyp               MAYMUN		
-Apologize       epolocayz         ÖZÜR DİLEMEK				
-Apparent        eperınt	          AÇIK;KOLAYCA GÖRÜNEN		
+Apologize       epolocayz         ÖZÜR DİLEMEK						
 Appeal          epiıl             1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK
-Appear          eppiır	          GÖRÜNMEK				
-Appearance      eppiırıns         GÖRÜNÜŞ	
+Appear          eppiır	          görünmek			
+Appearance      eppiırıns         görünüş
+Apparent        eperınt	          açık, kolayca görünen	
 Appetite        epıtayt	          İŞTAH				
 Apple           epıl              ELMA
 Applicant       eplikınt          BAŞVURAN	
@@ -171,7 +172,7 @@ Arrival         erayvıl	          varış
 Depart          dipart            ayrılmak
 Departure       diparçur          kalkış, ayrılış
 Arrow           erov              ok
-Bow             bo                yay
+Bow             bou               yay
 Art             art               SANAT				
 Article         artikl	          1.MAKALE 2.EŞYA				
 Artificial      artifişıl         YAPAY				
@@ -229,13 +230,13 @@ Balance         belıns	          1.DENGE 2.BAKİYE
 Balcony         belkıni           BALKON
 Bald            bold              kel
 Bold            bold              kalın, cesur, cüretkar
-Ball	bol	1.TOP 2.BALO
-Ballerina	belıriinı	BALERİN
-Ballet	baley	BALE
-Balloon	baluun	BALON
-Ban	ben	YASAK
-Banana	bınana	MUZ
-Band	bend	1.BANT (şerit)  2.BANDO
+Ball            bol               1.TOP 2.BALO
+Ballerina       belıriinı         BALERİN
+Ballet          baley             BALE
+Balloon         baluun            BALON
+Ban             ben               yasaklamak, yasak
+Banana          bınana            muz
+Band            bend              1.BANT (şerit)  2.BANDO
 Bank	benk	BANKA
 Banker	benkır	BANKA YÖNETİCİSİ, BANKER
 Banknote	benknot	KAĞIT PARA
@@ -255,39 +256,53 @@ Bay	bey	KOY
 Beach	biiç	SAHİL
 Bean	biin	FASULYE
 Bear	beır	1.TAŞIMAK, DAYANABİLMEK 2.AYI
+Unbearable anbeırable çekilmez, katlanılmaz
 Beard	bıed	SAKAL
+Moustache mustaç  bıyık
 Beast	biist	CANAVAR
 Beat	biit	1.VURMAK  2.YENMEK
-Beautiful	büutiful	GÜZEL
-Beauty	büuti	GÜZELLİK
-Because	bikoz	ÇÜNKÜ
+Beautify büutifi güzelleşmek
+Beauty	büuti	güzellik
+Beautiful	büutiful	güzel
+Reason rizın mantık, neden, sebep
+Reasonable rizınabl mantıklı
+Cause koz neden, sebep
+Because	bikoz	çünkü + cümle
 Become	bıkam	GELİŞMEK, DEĞİŞMEK
 Bed	bed	YATAK
+Bedroom bedrum  yatak odası
 Bee	bii	ARI
 Beef	biif	DANA ETİ
 Beer	biır	BİRA
 Beetle	biitl	HAMAMBÖCEĞİ
 Before	bifor	ÖNCE
-Beg	beg	DİLENMEK
-Begin	begın	BAŞLAMAK
-Behave	biheyv	DAVRANMAK
-Behind	bihaynd	ARKADA, GERİDE
+Beg	beg	dilenmek
+Begin	begın başlamak
+Start sıtart başlamak 
+Behave	biheyv	davranmak
+Behaviour biheyvıor davranış
+Behind	bihaynd	arkada, geride
+In front of infrontof önde, önünde
 Being	biing	VARLIK
-Believe	bıliiv	İNANMAK
+Believe	bıliiv inanmak
+Belief bılif inanç
 Bell	bel	ZİL, ÇAN
-Belong	bilong	AİT OLMAK
-Below	bilov	ALTTA, AŞAĞIDA
+Belong	bilong	AİT OLMAK + to
+Beneath	bınith	ALTINDA
+Below	bilov	altta, aşağıda
+Above   abov    yukarıda
 Belt	belt	KEMER
 Bench	benç	1.TEZGAH  2.BANK
 Bend	bend	EĞMEK, EĞİLMEK
-Beneath	bınith	ALTINDA
 Benefit	benıfit	YARARI OLMAK
+Beneficial benıficıil yararlı
 Berry	beri	KÜÇÜK ÇEKİRDEKSİZ MEYVE
+By	bay	YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR
 Beside	bisayd	YANINDA
 Besides	bisaydz	HEM DE
-Best	best	EN İYİ
 Bet	bet	İDDİA ETMEK, İDDİAYA GİRMEK
 Better	better	DAHA İYİ
+Best	best	EN İYİ
 Between	bitviin	ARASINDA
 Beyond	biyand	ÖTESİNDE
 Bicycle	baysikl	BİSİKLET
@@ -305,6 +320,7 @@ Bite	bayt	ISIRMAK
 Black	blek	SİYAH
 Blame	bleym	SORUMLU TUTMAK, SUÇLAMAK
 Blank	blenk	BOŞLUK
+Space  sıpeys  boşluk, uzak, aralık
 Blanket	blenkıt	BATTANİYE
 Blast	blast	PATLAYARAK PARÇALANMA, MAHVETMEK
 Bless	bles	(Tanrı'dan) KORUNMASINI DİLEMEK, TAKDİS
@@ -330,12 +346,13 @@ Border	bordır	SINIR
 Bore	bor	CAN SIKMAK
 Bored	bord	CANI SIKILMIŞ				
 Born	born	DOĞMUŞ				
-Borrow	borou	ÖDÜNÇ ALMAK				
+Borrow	borou	ödünç almak
+Lend   lend ödünç vermek		
 Boss	bos	PATRON				
 Both	bouth	İKİSİ				
-Bottle	botl	ŞİŞE				
-Bottom	botım	EN ALT, DİP				
-Bow	bou	YAY				
+Bottle	botl	şişe	
+Bottom	botım	en alt, dip
+Top     tap     en üst, zirve		
 Bowl	boul	TAS				
 Box	boks	1.KUTU 2.BOKS				
 Boy	boy	ERKEK ÇOCUK				
@@ -381,7 +398,7 @@ Butcher	butçır	KASAP
 Butter	batır	TEREYAĞ				
 Button	batn	DÜĞME				
 Buy	bay	SATIN ALMAK				
-By	bay	YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR				
+				
 
 
 
