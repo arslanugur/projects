@@ -173,7 +173,8 @@ Article         artikl	          1.MAKALE 2.EŞYA
 Artificial      artifişıl         YAPAY				
 Artist          artist	          SANATÇI				
 As              ez                1.GİBİ 2.OLARAK 3.OLARAK				
-Ash             eş                KÜL
+Ash             eş                kül
+Ashtray         eştirey           küllük
 Shame           şeym              utanç
 Ashamed         eşeymd	          UTANMIŞ				
 Aside           esayd             BİR YANDA				
@@ -211,17 +212,17 @@ Axe             eks               BALTA
 
 Baby            beybi             BEBEK				
 Back            bek               1.ARKA 2.SIRT				
-Backbone	bekbon	1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ				
-Background	bekraund	1.FON, GERİ PLAN 2.TEMEL				
-Backward	bekvörd	GERİYE DOĞRU				
-Bad	bed	KÖTÜ				
-Badly	bedli	1.KÖTÜ 2.ÇOK FAZLA				
-Bag	beg	ÇANTA				
-Baggage	begıc	BAGAJ				
-Bake	beyk	PİŞİRMEK				
-Baker	beykır	FIRINCI				
-Balance	belıns	1.DENGE 2.BAKİYE				
-Balcony	belkıni	BALKON
+Backbone	bekbon	          1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ				
+Background	bekraund	  1.FON, GERİ PLAN 2.TEMEL				
+Backward	bekvörd           GERİYE DOĞRU				
+Bad             bed               KÖTÜ				
+Badly           bedli             1.KÖTÜ 2.ÇOK FAZLA				
+Bag             beg               ÇANTA				
+Baggage         begıc             BAGAJ				
+Bake            beyk              PİŞİRMEK			
+Baker           beykır            FIRINCI			
+Balance         belıns	          1.DENGE 2.BAKİYE				
+Balcony         belkıni           BALKON
 Bald	bold	KEL
 Ball	bol	1.TOP 2.BALO
 Ballerina	belıriinı	BALERİN
