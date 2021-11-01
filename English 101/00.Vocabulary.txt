@@ -19,14 +19,18 @@ According To    ekording tu       -E GÖRE
 Account         ekaunt            HESAP
 Accurate        ekürıt	          DOĞRU, HATASIZ
 Accuse          ekküz             SUÇLAMAK
-Ache            eyk               AĞRI
+Ache            eyk               ağrı
+Headache        hedeyk            baş ağrısı
 Acquaint        ekueynt	          TANIMAK,BİLMEK
 Across          ekros             1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
-Act             ekt               1.DAVRANIŞ  2.DAVRANMAK
-Active          ektiv             ETKİN, FAAL
-Actor           ektır             ERKEK OYUNCU
-Actress         ektrıs            KADIN OYUNCU
+Act             ekt               davranmak, davranış
+Active          ektiv             etkin, faal, aktif
+Reactive        reektiv           durum sonrasına faal olan
+Proactive       proektiv          durum öncesinde faal olan, hazırlıklı, önlem almış
+Actor           ektır             erkek oyuncu
+Actress         ektrıs            kadın oyuncu
 Actual          ekçuıl            GERÇEK
+Actually        ekçuıli           aslında
 Add             ed                TOPLAMAK,EKLEMEK
 Address         edres             ADRES
 Administration  edminıstreyşın    İDARE
@@ -111,27 +115,27 @@ Annual          enyuıl	          YILLIK
 Another         enadır	          DİĞER, BİR BAŞKA
 Other           adır              diğer
 Answer          ensır             cevap, yanıt, cevaplamak
-Ant             ent               KARINCA				
+Ant             ent               KARINCA			
 Anti            anti              KARŞI, ZIT, TERS				
-Anxiety         enzayıti          ENDİŞE				
-Anxious         enkşıs	          ENDİŞELİ				
+Anxiety         enzayıti          ENDİŞE			
+Anxious         enkşıs	          ENDİŞELİ			
 Any             eni               HERHANGİ				
 Anybody         enibadi	          HERHANGİ BİRİ				
 Anyone          enivan	          HERHANGİ BİRİ				
 Anything        enyting	          HERHANGİ BİR ŞEY				
-Anyway          enivey	          HER NEYSE				
+Anyway          enivey	          HER NEYSE			
 Anywhere        eniveır	          HERHANGİ BİR YER				
-Apart           epart             AYRI				
-Apart From      epart from        HARİÇ, DIŞINDA				
-Ape             eyp               MAYMUN				
+Apart           epart             AYRI	
+Apart From      epart from        HARİÇ, DIŞINDA			
+Ape             eyp               MAYMUN		
 Apologize       epolocayz         ÖZÜR DİLEMEK				
-Apparent        eperınt	          AÇIK;KOLAYCA GÖRÜNEN				
+Apparent        eperınt	          AÇIK;KOLAYCA GÖRÜNEN		
 Appeal          epiıl             1.HOŞA GİDEN 2.YALVARMAK 3.ÜST MAHKEMEYE BAŞVURMAK
 Appear          eppiır	          GÖRÜNMEK				
-Appearance      eppiırıns         GÖRÜNÜŞ				
+Appearance      eppiırıns         GÖRÜNÜŞ	
 Appetite        epıtayt	          İŞTAH				
-Apple           epıl              ELMA				
-Applicant       eplikınt          BAŞVURAN				
+Apple           epıl              ELMA
+Applicant       eplikınt          BAŞVURAN	
 Application     eplikeyşın        BAŞVURU				
 Apply           eplay             1.BAŞVURMAK 2.UYGULAMAK				
 Appoint         eppoint	          ATAMAK				
@@ -223,7 +227,8 @@ Bake            beyk              PİŞİRMEK
 Baker           beykır            FIRINCI			
 Balance         belıns	          1.DENGE 2.BAKİYE				
 Balcony         belkıni           BALKON
-Bald	bold	KEL
+Bald            bold              kel
+Bold            bold              kalın, cesur, cüretkar
 Ball	bol	1.TOP 2.BALO
 Ballerina	belıriinı	BALERİN
 Ballet	baley	BALE
