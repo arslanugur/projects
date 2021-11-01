@@ -51,6 +51,7 @@ Aero-plane      eıropleyn         uçak
 Affair          effeyır           1.OLAY 2.İŞ 3.İLİŞKİ
 Affect          efekt             etkilemek
 Effect          efekt             etki
+Influence       inflüıns          etkilemek
 Afford          eford             SATIN ALMA GÜCÜ OLMAK
 Afraid          efreid            KORKMAK
 Ago             ego               önce
