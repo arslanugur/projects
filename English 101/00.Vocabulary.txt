@@ -37,18 +37,20 @@ Address         edres             ADRES
 Administration  edminıstreyşın    İDARE
 Admire          edmayr            BEĞENMEK,HAYRAN OLMAK
 Admit           edmit             1.KABUL ETMEK  2.İZİN VERMEK
-Adult           edalt             YETİŞKİN
+Admission       edmişın           kabul (okul vs)
+Adult           edalt             yetişkin
 Advance         edvens            1.İLERİ 2.AVANS
 Advanced        edvensd           GELİŞMİŞ
 Advantage       edventıc          AVANTAJ
 Adventure       edvençur          MACERA
 Advertise       edvırtayz         REKLAM YAPMAK, İLAN VERMEK
-Advice          edvays            TAVSİYE
+Advice          edvays            tavsiye
 Advise          edvayz            TAVSİYE ETMEK
-Aerial          eriyıl            ANTEN
-Aeroplane       eıropleyn         UÇAK
+Aerial          eriyıl            anten
+Aero-plane      eıropleyn         uçak
 Affair          effeyır           1.OLAY 2.İŞ 3.İLİŞKİ
-Affect          efekt             ETKİLEMEK
+Affect          efekt             etkilemek
+Effect          efekt             etki
 Afford          eford             SATIN ALMA GÜCÜ OLMAK
 Afraid          efreid            KORKMAK
 Ago             ego               önce
@@ -366,9 +368,10 @@ Breakfast	brekfıst	KAHVALTI
 Breath	breth	NEFES				
 Breathe	brith	NEFES ALMAK				
 Brick	brik	TUĞLA				
-Bridge	bric	KÖPRÜ				
+Bridge	bric	köprü
+Fridge  fric    buzdolabı				
 Brief	briif	KISA, ÖZETLİ				
-Bright	brayt	PARLAK				
+Bright	brayt	PARLAK		
 Bring	bring	GETİRMEK				
 Broad	brood	GENİŞ				
 Broadcast	broodkast	YAYIN (radyo ve T.V. yoluyla)				
@@ -397,8 +400,8 @@ But	bat	FAKAT
 Butcher	butçır	KASAP				
 Butter	batır	TEREYAĞ				
 Button	batn	DÜĞME				
-Buy	bay	SATIN ALMAK				
-				
+Buy	bay	satın almak				
+Sell    sel     satmak				
 
 
 
@@ -409,7 +412,7 @@ Cake	keyk	KEK
 Calculate	kalkuleyt	HESAPLAMAK				
 Calendar	kelindır	TAKVİM				
 Call	kol	1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET				
-Calm	kaam	SAKİN				
+Calm	kaam	SAKİN	
 Camera	kemıra	KAMERA				
 Camouflage	kamuflaaj	SAKLAMAK				
 Camp	kemp	KAMP				
