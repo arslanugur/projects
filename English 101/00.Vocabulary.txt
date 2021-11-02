@@ -39,28 +39,31 @@ Admire          edmayr            beğenmek, hayran olmak
 Admit           edmit             1.kabul etmek  2.izin vermek
 Admission       edmişın           kabul (okul vs)
 Adult           edalt             yetişkin
-Advance         edvens            1.İLERİ 2.AVANS
-Advanced        edvensd           GELİŞMİŞ
-Advantage       edventıc          AVANTAJ
-Adventure       edvençur          MACERA
+Advance         edvens            1.ileri 2.avans
+Advanced        edvensd           gelişmiş
+Advantage       edventıc          avantaj
+Adventure       edvençur          macera
 Advertise       edvırtayz         REKLAM YAPMAK, İLAN VERMEK
 Advice          edvays            tavsiye
-Advise          edvayz            TAVSİYE ETMEK
+Advise          edvayz            tavsiye etmek
 Aerial          eriyıl            anten
 Aero-plane      eıropleyn         uçak
-Affair          effeyır           1.OLAY 2.İŞ 3.İLİŞKİ
+Affair          effeyır           1.olay 2.iş 3.ilişki
+Relation        rilayşın          ilişki
+Relationship    rilayşınşip       ilişki
 Affect          efekt             etkilemek
 Effect          efekt             etki
 Influence       inflüıns          etkilemek
-Afford          eford             SATIN ALMA GÜCÜ OLMAK
-Afraid          efreid            KORKMAK
+Afford          eford             satın alma gücü olmak
+Afraid          efreid            korkmak
 Ago             ego               önce
 Later           letır             sonra, daha geç
 After           aftır             -den sonra
 Before          bifor             -den önce
-Afternoon       aftırnuun         ÖĞLEDEN SONRA
-Afterwards      aftırvördz        (bir olaydan) SONRA
-Again           egein             BİR DAHA;YİNE
+noon            nuun              öğle
+Afternoon       aftırnuun         öğleden sonra
+Afterwards      aftırvördz        (bir olaydan) sonrasında
+Again           egein             bir daha; yine
 Against         egeinst           KARŞI, ZIT
 Age             eyc               1.YAŞ 2.ÇAĞ
 Aged            eycd              YAŞINDA
