@@ -115,3 +115,21 @@ A --> yes, I have been living in Milano
 N --> no, I have not been living in Milano
 
 
+
+---> FUTURE TIMES
+WILL
+Rapid Decision    – I am thirsty. I think I will buy a drink.
+Offer             – That looks heavy, I will help you with it.
+Promise           – Don’t worry. I won’t tell anyone.
+Threat            – If you don’t stop I will tell your mother.
+Refusal           – She won’t listen to anything I say.
+
+
+TO BE GOING TO
+Prior plan: The decision was made before the moment of speaking.
+	                – I am going to the beach next weekend with my friends.
+Evidence/Signs: When there are signs that sth is likely to happen.
+	                – My stomach hurts a lot. I think I am going to throw up.
+
+
+
