@@ -48,7 +48,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                                --> I have spent two years in İstanbul
                                                       
 4 --> POSITION and COMPANY
-      What's your job - I am a teacher
+      What's your job/occupation/profession?
+                      - I am a teacher
                       - I am an engineer
                       - I am a technician
                       - I am an architect, I draw buildings
@@ -124,7 +125,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                  --> My younger sister is ...
       How old is your brother/sister? --> My brother is 'number' years old
                                       --> My sister is 'number' years old
-      How many family member...  I am from a family of ‘number’
+      How many family member...  ---> I am from a family of ‘number’
       I am from a family of four
       We are a family of four
       I am one of ‘number’ siblings
@@ -225,7 +226,7 @@ do you like your job
 
 What do you want to be in your future?
       I want to be a music teacher in my future or I want to be ... in state symphony orchestra. 
-      I want to be an mechanical engineer in my future
+      I want to be a mechanical engineer in my future
       I want to be a lawyer or a translator in my future
 
 
