@@ -187,6 +187,9 @@ tell me about your best friend
       we are friends with him/her since university
       he has black hair and blue eyes
 
+tell me about your home/house
+
+
 tell me about someone in your family
       I have a brother
       he has short brown hair
@@ -315,6 +318,7 @@ when do you finish work?
 why did you start this job?
 
 do you have any hobby?
+      yes, I have some hobby such as swimming, learning English
 what other hobbies would you like to have?
 when do you have time for your hobby?
 do you have the same hobby as any of your friends?
@@ -322,13 +326,18 @@ do you want to change your jobs?
 how do people think about you?
 how often do you have an English lesson?
 what time do you wake up?
+      I wake up at six
 what time do you get up?
+      I wake up at half past seven
 what do you usually do at noon?
+      I usually go out to have lunch at noon
 do you have time to see your friends and family?
 what time do you usually have dinner?
 who do you spend most of your day with?
 which city do you live?
+      I live in Ankara
 where do you live?
+      I live in İstanbul
 where do you usually go at the weekend?
 do you like your city?
 why do you like your city?
@@ -346,14 +355,20 @@ do you live with your parents?
 do you spend a lot of time outside the home with your family?
 do you watch TV?
 when do you watch TV?
+      I watch TV in the evening
 how do you travel to places?
 what time do you usually go to bed?
+      I usually go to bed at eleven 
 when is your birthday?
+      
 when do you go on holiday?
+      I go on holiday every summer
 what weather do you like?
+      I like sunny/rainy/cloudy
 how do you usually get around?
 what are you doing this weekend?
 what music do you like?
+      I like Rock music
 what is your favorite restaurant?
 are you good at English?
 what is your job?
