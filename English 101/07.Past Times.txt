@@ -3,6 +3,7 @@ Q --> did you go on holiday last summer?
 A --> yes, I went on holiday last summer
 N --> no, I didn't go on holiday last summer
 
+      Signals: last ..., ... ago, ... 1990, yesterday
 
 
 ---> PAST CONTINUOS TENSE
@@ -10,7 +11,7 @@ Q --> were you coming to her birthday party?
 A --> yes, I was coming...
 N --> no, I was not coming...
 
-
+      Signals: while, when, as, all morning/evening
 
 
 ---> PAST PERFECT TENSE
@@ -18,7 +19,7 @@ Q --> had you finished that project?
 A --> yes, I had finished...
 N --> no, I had not finished...
 
-
+     Signals: before != after, already, just, for = since, till / until, when, by, by the time, never
 
 
 ---> PAST PERFECT CONTINUOUS TENSE
@@ -26,3 +27,4 @@ Q --> had you been living in Milano?
 A --> yes, I had been living in Milano
 N --> no, I had not been living in Milano
 
+     Signals: already, just, never, for, since, how long, before, until
