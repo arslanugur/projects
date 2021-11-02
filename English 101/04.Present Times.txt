@@ -1,66 +1,65 @@
 ---> STATIC VERBS
-MENTAL STATE  EMOTIONAL STATE   POSSESSION STATE     SENSE PERCEPTIONS   OTHERS
-----------------------------------------------------------------------------------
-think         love            possess         see            look
-realize       like            have            smell          owe
-understand    dislike         own              hear          be
-suppose       loathe          belong to        feel          seem
-forget        hate                             taste         cost
-notice        detest                                          owe, exist appear* weigh * advise promise consist of refuse include contain sound
-feel          appreciate
-believe       fear
-recognize     envy
-mean          mind
-doubt         wish
-imagine       care
-know          desire
-remember      forgive
-want          
+MENTAL STATE      EMOTIONAL STATE      POSSESSION STATE      SENSE PERCEPTIONS       OTHERS
+-----------------------------------------------------------------------------------------------
+think *           love                 possess               see *                   look *
+realize           like                 have *                smell *                 owe
+understand        dislike              own                   hear                    be *
+suppose           loathe               belong to             feel *                  seem *
+forget            hate                                       taste *                 cost
+notice            detest                                                             owe
+prefer            appreciate                                                         exist
+feel *            fear                                                               appear *
+believe           forgive                                                            weigh *
+recognize         envy                                                               advise
+mean              mind                                                               promise
+doubt             wish                                                               consist of
+imagine           care                                                               refuse
+know              desire                                                             include
+remember                                                                             contain
+want                                                                                 sound
 need
-prefer
 
 
-
-think
-     sanmak, zannetmek ---> I think she is a student.
-                       ---> I think they will visit us next week.
-     düşünmek          ---> I'm thinking about going abroad next year. 
-                       ---> She is thinking about her family.
-see
-     görmek  ---> I see lots of people in the street.
-     görüşmek ---> The doctor is seeing his patient now.
-              ---> The manager is seeing the applicant now.
-smell
-     kokmak ---> This perfume smells very nice.
-            ---> These flowers smell awful.
-     koklamak ---> Mother is smelling the flowers. 
-               ---> Why are you smelling the milk?
-taste
-     tadından söz etmek ---> This soup tastes awful. I can't eat it. 
-                        ---> The dinner looks bad but tastes delicious.
-     tadına bakmak      ---> My husband are tasting my dish right now. 
-feel
-    sezinlemek, ummak ---> This pillow feels very hard.
-                      ---> I feel (that) something bad will happen.
-    hissetmek         ---> I feel better now./I'm feeling better now. 
-look
-    gibi görünmek     ---> You look ill. You'd better go home.
-                      ---> That ladder doesn't look safe.
-    bakmak            ---> Why are you looking out of the window?
-appear
-    gibi görünmek     ---> the teacher appears to be in a bad mood today. 
-                      ---> She appears to be bored with the film.
-    (ortaya) çıkmak ---> The comedian is appearing nightly at the Broken Door club.
-weigh
-    ağırlık söylerken ---> The baby weighs six kilograms.
-    tartmak           ---> The butcher is weighing the meat now.
-be
-    genel bir durumun ifadesi ---> You are very rude.      (Kabasın.)
-    anlık değişen durumun ifadesi ---> You are being rude. (Kabalaşıyorsun.)
-have
-    sahiplik bildiriyorsa ---> I don't have much money now. She has two brothers.
-    eylem bildiriyorsa    ---> She is having breakfast now.
-                          ---> He is having a shower right now.
+-> think
+          sanmak, zannetmek ---> I think she is a student.
+                            ---> I think they will visit us next week.
+          düşünmek          ---> I'm thinking about going abroad next year. 
+                            ---> She is thinking about her family.
+-> see
+          görmek    ---> I see lots of people in the street.
+          görüşmek  ---> The doctor is seeing his patient now.
+                    ---> The manager is seeing the applicant now.
+-> smell
+          kokmak    ---> This perfume smells very nice.
+                    ---> These flowers smell awful.
+          koklamak  ---> Mother is smelling the flowers. 
+                    ---> Why are you smelling the milk?
+-> taste
+          tadından söz etmek ---> This soup tastes awful. I can't eat it. 
+                             ---> The dinner looks bad but tastes delicious.
+          tadına bakmak      ---> My husband are tasting my dish right now. 
+-> feel
+          sezinlemek, ummak ---> This pillow feels very hard.
+                            ---> I feel (that) something bad will happen.
+          hissetmek         ---> I feel better now./I'm feeling better now. 
+-> look
+          gibi görünmek     ---> You look ill. You'd better go home.
+                            ---> That ladder doesn't look safe.
+          bakmak            ---> Why are you looking out of the window?
+-> appear
+          gibi görünmek     ---> the teacher appears to be in a bad mood today. 
+                            ---> She appears to be bored with the film.
+          (ortaya) çıkmak   ---> The comedian is appearing nightly at the Broken Door club.
+-> weigh
+          ağırlık söylerken ---> The baby weighs six kilograms.
+          tartmak           ---> The butcher is weighing the meat now.
+-> be
+          genel bir durumun ifadesi     ---> You are very rude.  (Kabasın.)
+          anlık değişen durumun ifadesi ---> You are being rude. (Kabalaşıyorsun.)
+-> have
+          sahiplik bildiriyorsa  ---> I don't have much money now. She has two brothers.
+          eylem bildiriyorsa     ---> She is having breakfast now.
+                                 ---> He is having a shower right now.
 
 ---> PRESENT SIMPLE TENSE
 DO
