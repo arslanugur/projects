@@ -242,42 +242,42 @@ Ban             ben               yasaklamak, yasak
 Banana          bınana            muz
 Band            bend              1.BANT (şerit)  2.BANDO
 Bank            benk              banka
-Banker	benkır	BANKA YÖNETİCİSİ, BANKER
-Banknote	benknot	KAĞIT PARA
-Bankrupt	benkrapt	İFLAS
-Bar	bar	1.ÇUBUK 2.BAR
-Bare	beyr	ÇIPLAK, BOŞ
-Bargain	bargın	1.PAZARLIK ETMEK 2.KELEPİR
-Barrel	berıl	1.VARİL 2.NAMLU
-Base	beys	1. TABAN 2.ÜS
-Basement	beysmınt	BODRUM
-Basin	beysn	KAZAN
-Basket	baskıt	SEPET
-Bath	bath	YIKANMAK
-Bathe	beth	YIKAMAK (bedenin bir bölümünü)
-Battle	betl	SAVAŞ, MUHAREBE
-Bay	bey	KOY
-Beach	biiç	SAHİL
-Bean	biin	FASULYE
-Bear	beır	1.TAŞIMAK, DAYANABİLMEK 2.AYI
-Unbearable anbeırable çekilmez, katlanılmaz
-Beard	bıed	SAKAL
-Moustache mustaç  bıyık
-Beast	biist	CANAVAR
-Beat	biit	1.VURMAK  2.YENMEK
-Beautify büutifi güzelleşmek
-Beauty	büuti	güzellik
-Beautiful	büutiful	güzel
-Reason rizın mantık, neden, sebep
-Reasonable rizınabl mantıklı
-Cause koz neden, sebep
-Because	bikoz	çünkü + cümle
-Become	bıkam	GELİŞMEK, DEĞİŞMEK
-Bed	bed	YATAK
-Bedroom bedrum  yatak odası
-Bee	bii	ARI
-Beef	biif	DANA ETİ
-Beer	biır	BİRA
+Banker          benkır            BANKA YÖNETİCİSİ, BANKER
+Banknote        benknot           KAĞIT PARA
+Bankrupt        benkrapt          İFLAS
+Bar             bar               1.ÇUBUK 2.BAR
+Bare            beyr              ÇIPLAK, BOŞ
+Bargain         bargın            1.PAZARLIK ETMEK 2.KELEPİR
+Barrel          berıl             1.VARİL 2.NAMLU
+Base            beys              1. TABAN 2.ÜS
+Basement        beysmınt          BODRUM
+Basin           beysn             KAZAN
+Basket          baskıt            SEPET
+Bath            bath              YIKANMAK
+Bathe           beth              YIKAMAK (bedenin bir bölümünü)
+Battle          betl              SAVAŞ, MUHAREBE
+Bay             bey               koy, sahil
+Beach           biiç              SAHİL
+Bean            biin              FASULYE
+Bear            beır              1.TAŞIMAK, DAYANABİLMEK 2.AYI
+Unbearable      anbeırable        çekilmez, katlanılmaz
+Beard           bıed              SAKAL
+Moustache       mustaç            bıyık
+Beast           biist             CANAVAR
+Beat            biit              1.VURMAK  2.YENMEK
+Beautify        büutifi           güzelleşmek
+Beauty          büuti             güzellik
+Beautiful       büutiful          güzel
+Reason          rizın             mantık, neden, sebep
+Reasonable      rizınabl          mantıklı
+Cause           koz               neden, sebep
+Because         bikoz             çünkü + cümle
+Become          bıkam             GELİŞMEK, DEĞİŞMEK
+Bed             bed               yatak
+Bedroom         bedrum            yatak odası
+Bee             bii               arı
+Beef            biif              DANA ETİ
+Beer            biır              BİRA
 Beetle	biitl	HAMAMBÖCEĞİ
 Before	bifor	ÖNCE
 Beg	beg	dilenmek
