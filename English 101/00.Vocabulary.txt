@@ -1,6 +1,6 @@
-Abandon         ebandın	          TERK ETMEK
 Ability         ebılıti	          yetenek, beceri
 Able            eybıl             muktedir
+Abandon         ebandın	          TERK ETMEK
 Aboard          ebord             (bir taşıtın)İÇİNDE OLMAK
 About           ebaut             1.HAKKINDA 2.YAKLAŞIK OLARAK
 Above           ebav              yukarıdaki
@@ -220,9 +220,10 @@ Axe             eks               BALTA
 
 Baby            beybi             BEBEK				
 Back            bek               1.ARKA 2.SIRT				
-Backbone	bekbon	          1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ				
-Background	bekraund	  1.FON, GERİ PLAN 2.TEMEL				
-Backward	bekvörd           GERİYE DOĞRU				
+Backbone        bekbon            1.SIRT KEMİĞİ 2.BİR İŞİN TEMELİ				
+Background      bekraund          1.FON, GERİ PLAN 2.TEMEL				
+Backward        bekvörd           geriye doğru
+Forward         forvörd           ileriye doğru
 Bad             bed               KÖTÜ				
 Badly           bedli             1.KÖTÜ 2.ÇOK FAZLA				
 Bag             beg               ÇANTA				
@@ -240,7 +241,7 @@ Balloon         baluun            BALON
 Ban             ben               yasaklamak, yasak
 Banana          bınana            muz
 Band            bend              1.BANT (şerit)  2.BANDO
-Bank	benk	BANKA
+Bank            benk              banka
 Banker	benkır	BANKA YÖNETİCİSİ, BANKER
 Banknote	benknot	KAĞIT PARA
 Bankrupt	benkrapt	İFLAS
