@@ -1,42 +1,42 @@
 Ability         ebılıti	          yetenek, beceri
 Able            eybıl             muktedir
-Abandon         ebandın	          TERK ETMEK
-Aboard          ebord             (bir taşıtın)İÇİNDE OLMAK
-About           ebaut             1.HAKKINDA 2.YAKLAŞIK OLARAK
+Abandon         ebandın	          terk etmek
+Aboard          ebord             (bir taşıtın) içinde olmak
+About           ebaut             1.hakkında 2.yaklaşık olarak
 Above           ebav              yukarıdaki
 Below           bilov             aşağıdaki             
-Abroad          ebrod             YURT DIŞI
-Absence         ebsıns	          YOKLUK
-Absent          ebsınt	          1.YOK 2.EKSİK
-Absolute        ebsolut	          MUTLAK, KESİN
-Absurd          ebzörd	          SAÇMA
+Abroad          ebrod             yurt dışı
+Absence         ebsıns	          yokluk
+Absent          ebsınt	          1.yok 2.eksik
+Absolute        ebsolut	          kesin, mutlak
+Absurd          ebzörd	          saçma
 Accept          eksept	          kabul etmek
 Acceptance      ekseptıns         kabul
 Accident        eksidınt          kaza
-Accommodate     ekomodeyt         YERLEŞTİRMEK
-Accommodation   ekomıdeyşın       KONAKLAMA YERİ
-Accompany       ekampıni          EŞLİK ETMEK
-According To    ekording tu       -E GÖRE
+Accommodate     ekomodeyt         yerleştirmek
+Accommodation   ekomıdeyşın       konaklama yeri
+Accompany       ekampıni          eşlik etmek
+According To    ekording tu       -e göre
 Account         ekaunt            hesap
-Accurate        ekürıt	          DOĞRU, HATASIZ
-Accuse          ekküz             SUÇLAMAK
+Accurate        ekürıt	          doğru, hatasız
+Accuse          ekküz             suçlamak
 Ache            eyk               ağrı
 Headache        hedeyk            baş ağrısı
-Acquaint        ekueynt	          TANIMAK,BİLMEK
-Across          ekros             1.BİR UÇTAN DİĞERİNE  2.DİĞER TARAFTA
+Acquaint        ekueynt	          tanımak, bilmek
+Across          ekros             1.bir uçtan diğerine  2.diğer tarafta
 Act             ekt               davranmak, davranış
 Active          ektiv             etkin, faal, aktif
 Reactive        reektiv           durum sonrasına faal olan
 Proactive       proektiv          durum öncesinde faal olan, hazırlıklı, önlem almış
 Actor           ektır             erkek oyuncu
 Actress         ektrıs            kadın oyuncu
-Actual          ekçuıl            GERÇEK
+Actual          ekçuıl            gerçek
 Actually        ekçuıli           aslında
-Add             ed                TOPLAMAK,EKLEMEK
-Address         edres             ADRES
-Administration  edminıstreyşın    İDARE
-Admire          edmayr            BEĞENMEK,HAYRAN OLMAK
-Admit           edmit             1.KABUL ETMEK  2.İZİN VERMEK
+Add             ed                toplamak, eklemek
+Address         edres             adres
+Administration  edminıstreyşın    idare
+Admire          edmayr            beğenmek, hayran olmak
+Admit           edmit             1.kabul etmek  2.izin vermek
 Admission       edmişın           kabul (okul vs)
 Adult           edalt             yetişkin
 Advance         edvens            1.İLERİ 2.AVANS
