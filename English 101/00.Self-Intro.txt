@@ -104,6 +104,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 6 --> EXPERIENCE
       When did you graduate from primary/secondary school?
+               I graduated from primary/secondary school in 2000
       I have ‘number’ years of experience in the ‘occupation’ field.
       I have 3 years of experience in the neuroscience field
       I have ‘number’ years of ‘occupation’ experience
