@@ -71,6 +71,15 @@ Q --> does he/she go on holiday every summer?
 A --> yes, he/she goes on holiday every summer
 N --> no, he/she doesn't go on holiday every summer
 
+	Signals: every day/week/month/year, Adverbs of Frequency, first ... then
+
+		on Fridays: Cuma günleri/Cumaları
+		at night/nights: Geceleyin/ Geceleri
+		in the morning/afternoon/evening: sabahleyin/öğleyin/akşamleyin
+		at weekend/s: hafta sonunda/larında
+		during the week – hafta içi
+		once a month: ayda bir		twice a week: haftada iki	three times a year: yılda üç kez
+
 
 
 ---> PRESENT CONTINUOS TENSE
@@ -91,6 +100,8 @@ Q --> are we/you/they coming to her birthday party?
 A --> yes, we/you/they are coming...
 N --> no, we/you/they are not coming...
 
+	Signals: now, at the moment, at present, these days, still, nowadays, today, tonight (except for future use)
+
 
 
 ---> PRESENT PERFECT TENSE
@@ -103,6 +114,9 @@ Q --> have you (ever) been in Madrid?
 A --> yes, I have been in Madrid
 N --> no, I have not/(never) been in Madrid
 
+	Signals: for, since, already, yet, always, just, ever, never
+		 so far, today, this week/month, how long, lately, recently
+
 
 ---> PRESENT PERFECT CONTINUOUS TENSE
 HAS BEEN V3
@@ -114,6 +128,8 @@ Q --> have you been living in Milano?
 A --> yes, I have been living in Milano
 N --> no, I have not been living in Milano
 
+	Signals: all day, for, since, how long, lately
+		 recently, all morning, all year, the whole day
 
 
 ---> FUTURE TIMES
@@ -132,4 +148,12 @@ Evidence/Signs: When there are signs that sth is likely to happen.
 	                – My stomach hurts a lot. I think I am going to throw up.
 
 
+Future Simple Signals: tomorrow, the day after tomorrow, tonight, soon, next week, in a week/month, in two/three days / week
+
+Future Cont. Signals: this time, next week, and other expressions with future reference
+
+Future Perfect Signals: before, by, by then, by the time, until, till
+
+Future Perfect Cont. Signals: this tense is not used very much
+			by, by then, by the time, for
 
