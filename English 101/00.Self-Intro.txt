@@ -2,10 +2,13 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 1 --> GREETINGS
       Hello
       Good Morning, Good Afternoon, Good Evening
-      How is your day (going)? --> (my day is) good
-                               --> I study all day long
-                               --> I work all day long
+      How is/was your day (going)? --> (my day is) good
+                               --> I studied all day long
+                               --> I worked all day long
+                               --> It was a busy day
+      
 2 --> YOUR NAME
+      What is your name?
       I’m..
       I am..
       My name is..
@@ -14,12 +17,12 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       tell me about the place you live?
             I live in Aksaray
             I stay in Büyük Bölcek
-            Being with my friends in th same neighborhood makes me happy
+            Being with my friends in the same neighborhood makes me happy
             Our house is on third floor
-            Therse are some trees, and roses in our garden
+            There are some trees, and roses in our garden
             
       tell me about your town?
-      
+            
       Where are you from? --> I’m from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
       What is your nationality --> I’m turkish
@@ -164,7 +167,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 ---> GENERAL QUESTIONS
 tell me about yourself
-      I am ...
+      I'm ...
       I am a student/teacher
       I am ... years old
       I have a brother/sister
