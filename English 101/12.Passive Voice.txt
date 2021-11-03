@@ -15,6 +15,15 @@ Future Continuous *
 Future Perfect            They will have finished the work                The work will have been finished by them
 Future Perfect Cont. *
 
+Modal	                    
+                          He has to solve the problem                     The problem has to be solved by me
+                          She must deliver the letters                    The letters must be delivered
+                          The manager should interview me                 I should have been intervied by the manager
+Modal Perfect
+                          We should have shipped the goods                The goods should have been shipped by us
+                          He might have served dinner                     Dinner might have been served
+
+
 
 EXAMPLES:
 The criminal was arrested as he came out of the bank.
