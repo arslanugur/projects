@@ -2,17 +2,17 @@
 Tense	                    Active	                                        Passive V3
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem	                        The problem is solved by him
-Present Continuous	    She is making a cake	                        A cake is being made by her
-Present Perfect 	    They have already discussed the book	        The book has already been discussed
+Present Continuous          She is making a cake                          A cake is being made by her
+Present Perfect             They have already discussed the book          The book has already been discussed
 Present Perfect Cont. *	  
-Past Simple                 Mercedes made this car                              This car was made by Mercedes
+Past Simple                 Mercedes made this car                        This car was made by Mercedes
 Past Continuous	            The salesman was helping the customer	        The customer was being helped
-Past Perfect                I had made a cake	                                A cake had been made by me
+Past Perfect                I had made a cake                             A cake had been made by me
 Past Perfect Cont. *  
-Future Simple/Going to      The company will hire new workers	                New workers will be hired by the company
-                            They are going to televise the match                The match is going to be televised by them
+Future Simple/Going to      The company will hire new workers             New workers will be hired by the company
+                            They are going to televise the match          The match is going to be televised by them
 Future Continuous *	      
-Future Perfect              They will have finished the work                    The work will have been finished by them
+Future Perfect              They will have finished the work              The work will have been finished by them
 Future Perfect Cont. *
 
 Modal	                    
@@ -26,6 +26,7 @@ Modal Perfect
 
 
 EXAMPLES:
+she wasn't told
 The criminal was arrested as he came out of the bank.
 Interest rates will probably be increased next year.
 Who were you introduced to at the meeting? Anyone interesting?
