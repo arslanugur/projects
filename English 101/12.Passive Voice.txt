@@ -2,7 +2,7 @@
 Tense	                    Active	                                        Passive V3
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem	                        The problem is solved by him
-Present Continuous          She is making a cake                          A cake is being made by her
+Present Continuous          She is making a cake                              A cake is being made by her
 Present Perfect             They have already discussed the book          The book has already been discussed
 Present Perfect Cont. *	  
 Past Simple                 Mercedes made this car                        This car was made by Mercedes
