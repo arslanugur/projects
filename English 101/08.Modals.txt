@@ -1,10 +1,10 @@
 ---> MODALS
-PRESENT           PAST
---------------------------
-can               could
-will              would
-shall             should
-may               might
+PRESENT           PAST		PERFECT
+---------------------------------------------
+can               could		could have V3
+will              would		would have V3
+shall             should	should have V3
+may               might		might have V3
 must              had to
 have to           had to
 
