@@ -6,7 +6,7 @@ many    how many brothers do you have?
         how many types of listening questions are there? 
 old     how old is your grandfather?
         how old do i look?
-often   how often do you go to church?
+often   how often do you go to gym?
         how often do you use public transport?
 long    how long have you been working? 
         how long does the test last for? 40 min.
