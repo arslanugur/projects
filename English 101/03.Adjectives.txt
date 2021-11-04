@@ -20,7 +20,7 @@ like          more like         the most like
 real          more real         the most real
 tired         more tired        the most tired
 ---------------------------------------------
-
+           REGULAR ADJECTIVES
 big           bigger            the biggest
 small         smaller           the smallest      
 rich          richer            the richest       != poor
