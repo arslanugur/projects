@@ -6,13 +6,17 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                --> I studied all day long
                                --> I worked all day long
                                --> It was a busy day
-      
+
+
 2 --> YOUR NAME
       What is your name?
       I’m..
       I am..
       My name is..
-      
+      Can you spell your name?
+            A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay), J(cey), K(key), L(el), M(em)
+            N(en), O(o), P(pi), Q(kyu), R(ar), S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
+
 3 --> LOCATION
       tell me about the place you live?
             I live in Aksaray
