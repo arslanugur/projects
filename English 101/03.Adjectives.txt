@@ -24,14 +24,21 @@ less/much interested
 
 
 -ful / -less	
-wonderful, awful, useful, careful, meaningful, cheerful, delightful, doubtful, powerful, peaceful, grateful
-ruthless, spotless, careless, relentless at - amansız
+wonderful, beautiful, awful, useful, meaningful, cheerful 
+delightful, doubtful, powerful, peaceful, grateful, blissful
+faithful != faithless, careful != careless
+spotless, relentless at - amansız, ruthless - acımasız
 
 -tive	
-sensitive, protective, attractive, aggressive, combative, cooperative, inquisitive = curious
+sensitive, protective, attractive, aggressive, combative
+cooperative, inquisitive = curious
+effective - etkili
+positive != negative
 
 -ent/ant
-patient - impatient, efficient, fluent, arrogant, defiant, apparent, decent
+patience - patient != impatient, fluent, arrogant, defiant, apparent, decent
+violence - violent, brilliance - brilliant
+efficient - verimli, tasarruflu != inefficient
 
 -some
 troublesome, awesome, handsome
@@ -46,83 +53,83 @@ passionate, separate, accurate, lemonade, appropriate
 
 
 -al
-ethical, economical, political, natural, industrial, official
+ethical, economical, political, natural, industrial, official, brutal
 
 -ic
-fantastic, lunatic, fanatic, realistic
+fantastic, lunatic, fanatic, realistic, barbaric
 
 -ed / -ing	
-interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned, bewildered - sersemlemiş, şaşırmış
-confused, depressed, determined, disgusted, disturbed, defeated, excited
-blushing, entertaining, charming, caressing – sevecen, convincing – ikna edici
-involved, embrassing, frightening, fascinating, blooming- bloomed
+interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned, 
+bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, 
+disturbed, defeated, excited, blushing, entertaining, charming, caressing – sevecen, convincing – ikna edici
+involved, embrassing, frightening, fascinating, blooming- bloomed, coordinating, glittering - göz alıcı
 ongoing, incoming,
-broken, 
+She is broken
+you are convincing = I am convinced
+I am interested in Music = Music is interesting 
+I am surprising = You are surprised
 
 -ous	
-generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous, 
-anxious, curious, cautious, hazardous to your health
-enormous, contagious, luminous, adventurous, meticulous, atricuous
-perilous, treacherous
-various
-
+generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous - perilous
+anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous 
+enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
+atricuous - acımasız, treacherous - güvenilmez
+various artists for Rolling Stones Tribute
+hazardous to your health
 
 -y
-naughty, dizzy, cloudy, clumsy, crazy, creepy, busy, bloody, hasty, brainy, nasty
-sloppy - ihtiyatsız
+tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, merry, cherry
+jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fizzy, bubbly, bloody, hasty, sassy, nasty
+brainy, easy, hazy - puslu, snoppy - meraklı, snobby, sloppy - ihtiyatsız
 
 
 --
-frank, stubborn, cruel, cute, dead, distinct, drab
-bright, fragile, trustworthy
-
+frank, stubborn, cruel, cute, dead, distinct, bright, fragile, trustworthy, muppet - tipsiz
+valid != invalid - geçerli
+anxious demeanor - endişeli tavır
+juvenile anger - genç öfkesi
 
 
 
 --> Examples
-You are the best friend I ever had. - En iyi arkadaşım sensin
-You are the worst person I've ever met
-I start early and I stay late.
 Manners maketh man – tavırların seni adam yapar
-as usual, you turned up late again - her zamanki gibi yine geç geldin
-This is more serious than i thought
-Money is very powerful, but sometimes it’s more powerful to say no to it
-It could have göne better
+You are the best friend I ever had. - En iyi arkadaşım sensin
+You are the worst person I've ever met - tanıdığım en kötü kişisin
 You look a little nervous, just get comfortable
-The longer they play, the more they löse
+Money is very powerful, but sometimes it’s more powerful to say no to it
+It could have gone better
+The longer they play, the more they lose
 As far as I am concerned, you are no longer welcome here
-I am impressed – etkilendim
 Light is the fastest thing we know 
-This guy’s incorrigible – bu herif iflah olmaz
 nothing ever last forever
-no need to negotiate - anlaşmaya gerek yok
-it is nonnegotiable - tartışmaya açık değil
-first time i have been in school for three consecutive days
-sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
-muppet - tipsiz
-you got too reckless – fazla pervasizlastin
-anxious demeanor
-juvenile anger
 body asleep, mind awake
 empathy or gullibility - take your pick
-we needed a discreet place
-confused- kafam karıştı
-you are still thinking like a lone wolf
-
+we needed a discreet place - 
+I got confused- kafam karıştı
+I am impressed – etkilendim
+you got too reckless – fazla pervasızlaştın
+no need to negotiate - anlaşmaya gerek yok
+it is nonnegotiable - tartışmaya açık değil
+you are still thinking like a lone wolf - Halen yalnız bir kurt gibi düşünüyorsun
+first time i have been in school for three consecutive days
+sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
+This guy’s incorrigible – bu herif iflah olmaz
+This is more serious than i thought - sandığımdan daha ciddi
+as usual, you turned up late again - her zamanki gibi yine geç geldin
 
 
 --> SYNONYM and ANTONYM
 
 --> A
 alive                         dead
-accurate = exact              alert
+accurate = exact              
 average
 afraid = fearful
 angry = furious
 
 --> B
 big = immense, great, massive small
-brave = courageous            afraid = fearful/terrified    (brevity, courage) (fear)
+brave = courageous            afraid = fearful/terrified    (brevity, courage != fear)
 bright = light = luminous     dark                          (brightness != darkness)	
 busy = swamped
 beautiful = gorgeous
@@ -192,7 +199,7 @@ loose = slack
 
 
 --> M
-modest – gösterişsiz	
+modest – gösterişsiz	showy = elegant
 
 --> N
 near-er	out-er
@@ -211,7 +218,7 @@ often = frequently
 --> P
 poor = destitute
 painful = excruciating	
-powerful = compelling
+powerful = compelling = strong
 pure
 
 --> Q
@@ -241,9 +248,9 @@ safe                          dangerous                     (safety != danger)
 secure
 serious = grave               funny
 several                       few
-special = exceptional
+special = exceptional         
 sober                         drunk
-same
+same                          different
 similar                       different = disparate
 simple = basic                difficult                     (simplicity = difficulty)
 soft                          hard
