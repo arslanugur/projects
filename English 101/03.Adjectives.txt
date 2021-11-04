@@ -7,7 +7,7 @@ There are two types of modifiers: adjectives and adverbs.
           IRREGULAR ADJECTIVES
 Adjective     Comparative       Superlative
 --------------------------------------------
-good          better            the best
+good          better            the best                    (adverb: well - better - the best)
 bad           worse             the worst
 far           farther           the farthest (for distance)
 far           further           the furthest (for distance and time)
@@ -19,12 +19,23 @@ old           older/elder       the oldest/the eldest
 like          more like         the most like
 real          more real         the most real
 tired         more tired        the most tired
+---------------------------------------------
 
-less/much interested
+big           bigger            the biggest
+small         smaller           the smallest      
+rich          richer            the richest       != poor
+great         greater           the greatest
+young         younger           the youngest
+
+beautiful     more beautiful    the most beautiful
+important     more important    the most important
+serious       more serious      the most serious
+comfortable   more comfortable  the most comfortable
 
 
+---> ADJECTIVE SUFFIXES
 -ful / -less	
-wonderful, beautiful, awful, useful, meaningful, cheerful 
+wonderful, beautiful, awful, useful, meaningful, cheerful, helpful 
 delightful, doubtful, powerful, peaceful, grateful, blissful
 faithful != faithless, careful != careless
 spotless, relentless at - amansız, ruthless - acımasız
@@ -41,53 +52,58 @@ violence - violent, brilliance - brilliant
 efficient - verimli, tasarruflu != inefficient
 
 -some
-troublesome, awesome, handsome
+troublesome, awesome, handsome, gruesome - korkunç
+
+-like
+warlike - savaşçı
 
 -able
-trustable, reliable, agreeable, adorable, comfortable
-discernible, unbreakable, invisible, sensible, gullible
+trustable, reliable, agreeable, adorable, comfortable, available
+discernible, unbreakable, invisible, sensible, gullible, horrible
 unbearable - çekilmez
 
 -ate
-passionate, separate, accurate, lemonade, appropriate
-
-
--al
-ethical, economical, political, natural, industrial, official, brutal
+passionate, separate, accurate, lemonade, appropriate, intimate
 
 -ic
-fantastic, lunatic, fanatic, realistic, barbaric
+fantastic, lunatic, fanatic, realistic, barbaric, romantic 
+pragmatic, pedagogic, tragic, didactic, scientific, pacific
+traffic
+
+-al
+ethical, economical, political, natural, industrial, official, brutal 
+educational, relational, national
+hospital, capital, recital
 
 -ed / -ing	
-interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned, 
-bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, 
-disturbed, defeated, excited, blushing, entertaining, charming, caressing – sevecen, convincing – ikna edici
+interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned 
+bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, charming
+disturbed, defeated, excited, blushing, entertaining, caressing – sevecen, convincing – ikna edici
 involved, embrassing, frightening, fascinating, blooming- bloomed, coordinating, glittering - göz alıcı
-ongoing, incoming,
-She is broken
+ongoing, incoming
+less/much interested
+she's broken
 you are convincing = I am convinced
 I am interested in Music = Music is interesting 
 I am surprising = You are surprised
 
 -ous	
 generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous - perilous
-anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous 
+anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous, hideous
 enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
 atricuous - acımasız, treacherous - güvenilmez
-various artists for Rolling Stones Tribute
+various artists for Rolling Stones tribute
 hazardous to your health
 
 -y
-tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, merry, cherry
-jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fizzy, bubbly, bloody, hasty, sassy, nasty
+tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, merry, cherry, ugly
+jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty
 brainy, easy, hazy - puslu, snoppy - meraklı, snobby, sloppy - ihtiyatsız
 
 
---
-frank, stubborn, cruel, cute, dead, distinct, bright, fragile, trustworthy, muppet - tipsiz
+--> Extra Adjectives
+frank, stubborn, cruel, cute, dead, distinct, bright, fragile, trustworthy, muppet - ugly
 valid != invalid - geçerli
-anxious demeanor - endişeli tavır
-juvenile anger - genç öfkesi
 
 
 
@@ -97,14 +113,14 @@ You are the best friend I ever had. - En iyi arkadaşım sensin
 You are the worst person I've ever met - tanıdığım en kötü kişisin
 You look a little nervous, just get comfortable
 Money is very powerful, but sometimes it’s more powerful to say no to it
-It could have gone better
-The longer they play, the more they lose
-As far as I am concerned, you are no longer welcome here
-Light is the fastest thing we know 
-nothing ever last forever
-body asleep, mind awake
-empathy or gullibility - take your pick
-we needed a discreet place - 
+anxious demeanor - endişeli tavır
+juvenile anger - genç öfkesi
+it could have gone better - daha iyi gidebilirdi (well)
+the longer they play, the more they lose - ne kadar uzun oynarlarsa, o kadar fazla kaybederler
+as far as I am concerned, you are no longer welcome here
+light is the fastest thing we know - ışık bildiğimiz en hızlı şeydir
+body asleep, mind awake - vücut uykulu, zihin uyanık
+we needed a discreet place - güvenilir bir yere ihtiyacımız vardı
 I got confused- kafam karıştı
 I am impressed – etkilendim
 you got too reckless – fazla pervasızlaştın
@@ -113,9 +129,11 @@ it is nonnegotiable - tartışmaya açık değil
 you are still thinking like a lone wolf - Halen yalnız bir kurt gibi düşünüyorsun
 first time i have been in school for three consecutive days
 sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
-This guy’s incorrigible – bu herif iflah olmaz
+That guy’s incorrigible – o adam iflah olmaz, düzeltilemez --> correct
 This is more serious than i thought - sandığımdan daha ciddi
 as usual, you turned up late again - her zamanki gibi yine geç geldin
+nothing ever last forever
+empathy or gullibility - take your pick
 
 
 --> SYNONYM and ANTONYM
@@ -170,7 +188,7 @@ fabulous
 famous, popular
 fancy = lavish
 friendly = amiable
-fast = quick
+fast = quick = rapid          slow = sluggish
 funny = hilarous
 
 --> G
@@ -222,7 +240,6 @@ powerful = compelling = strong
 pure
 
 --> Q
-quick = rapid = fast          slow
 
 --> R
 rainy = pouring	
@@ -251,10 +268,9 @@ several                       few
 special = exceptional         
 sober                         drunk
 same                          different
-similar                       different = disparate
-simple = basic                difficult                     (simplicity = difficulty)
+similar                       different = disparate         (similarity != difference)
+simple = basic                difficult                     (simplicity != difficulty)
 soft                          hard
-slow = sluggish
 
 --> T
 thin = gaunt                  fat = obese
@@ -280,7 +296,7 @@ willing = eager
 
 
 
---> Extra Adjectives
+--> Extras
 Absurd
 Controversial
 Captivating
@@ -290,7 +306,6 @@ Emsemble
 Explosive
 Exciting
 Fairy Tale
-Gruesome
 Gory
 Gritty
 Goofy
@@ -312,7 +327,6 @@ Steamy
 Swoonworthy
 Soapy
 Heartfelt
-Intimate
 Rousing
 Nordic Noir
 Charming
