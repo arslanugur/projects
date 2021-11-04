@@ -1,24 +1,84 @@
----> We are friends
-             -would you like go to the cinema on Saturday?
-              sounds good. i can come with you on Saturday 
-             -really!? 
-              yes. what time can we meet?
-             -we can meet with each other at six
-              how many hours does the film take?
-             -two hours
-              ok. that's good
-             -ok see you later / tomorrow
-              see you later / tomorrow
+---> We are friends / I am your friends
+             # would you like go to the cinema on Saturday?
+               sounds good. i can come with you on Saturday 
+             - really!? 
+               yes. what time can we meet?
+             - we can meet with each other at six
+               how many hours does the film take?
+             - two hours
+               ok. that's good
+             - ok see you later / tomorrow
+               see you later / tomorrow
+
+             # What is a good place to buy foods?
+             # What is a good place to buy mobile phone?
+             # What is a good place to buy clothes?
+             # Oh, no, I lost my keys.
+             # I need to go to the bus station tomorrow but my car doesn’t work.
+             # I need to go to the bank tomorrow but my car doesn’t work.
+             # Would you like to come to my house at the weekend?
+             # Would you like to go to museum/park on Sunday?
+             # Are you coming to my birthday party at the weekend?
+             # Are you coming to my birthday party on Saturday?
+             # What about going to the Cafe? 
+             # What about going to the restaurant?
+
+
+---> We’re friends. It’s your birthday today.
+             # Happy Birthday. Are you having a party?
+
+---> We’re friends. You have a new phone number.
+             # What is your new phone number?
               
----> I work in a cafe
-              -what would you like to have today?
+              
+---> I work in a cafe/restaurant (waiter/waitress)
+             # what would you like to have today?
                I would like to have a glass of orange juice
-              -what would you like to eat?
+             - what would you like to eat?
                yes, I would like to eat a piece of cheese cake
-              -anything else?
+             - anything else?
                no, it would be enough to me
-              -ok i will be back right soon
+             - ok i will be back right soon
                ok thank you
-              -you're welcome
-              
-              
+             - you're welcome
+             
+             # Hello, what would you like to eat?
+             # Hello, what would you like to drink?
+             # Would you like something to drink now?
+             # Do you have any reservation?
+             # Would you like to go to the party at the weekend?
+             # Hello. Would you like to order?
+
+---> I work in a shop selling shoes/shirt.
+             # What colour do you want?
+             # What is your shoe size?
+
+---> I work in a bookshop. I start.
+             # Can I help you?
+
+---> I work in a shop/store.
+             # How can I help you?
+
+---> I’m new at work.
+             # Hi, I’m Mary. Nice to meet you.
+
+---> I’m new in your town.
+             # Excuse me, How can I get to the bus station?
+
+---> I’m your Teacher.
+             # Do you have any questions?
+             # Can I have your homework, please?
+             # Do you know why Mary isn’t in class today?
+             # Do you know why David is absent today?
+
+
+---> I’m a new student in your class.
+             # Excuse me. Where should I sit?
+
+
+---> We’re in the street.
+             # Excuse me, where is the city hotel, please?
+             # Excuse me. Where is the bank, please?
+             # Excuse me, where is the nearest city hotel, please?
+
+  
