@@ -1,0 +1,601 @@
+DISCRETE MATHS (AYRIK MATEMATİK)
+	1. Logic (Mantık)
+	2. Proof Methods (İspat Yöntemleri)
+	3. Set Theory (Küme Teorisi)
+	4. Relations (Bağıntılar)
+	5. Functions (Fonksiyonlar)
+	6. Number Theory (Sayı Teorisi - Modüler Aritmetik, Bölme-Kalan Hesabı)
+	7. Cryptography (Şifreleme)
+	8. Counting, Permutation, Combination
+	9. Graph Theory
+	
+##############################
+
+		LOGIC (MANTIK)
+
+Önerme (Preposition)
+	Boolean Mantığı: Bir ifade ya doğru ya da yanlıştır
+	"Bugün hava güzel" --> Önerme değildir (Görmediğimiz için true/false diyemeyiz)
+	"Yaşın kaç?" --> Önerme değildir (Soru cümlesi)
+	"Çimlere basma" --> Önerme değildir (Uyarı cümlesi)
+	3 > 5 --> Önerme (Yanlış)
+	
+	1. Önerme: p, q, r, s ile gösterilir. Bu harfler her birinin altında temsil ettiği  bir önerme var.
+		
+		p: 3 + 7 = 8  --> Yanlış
+		q: "bu gül kırmızıdır." --> Görüyorsak doğrudur
+	
+	2. Doğruluk Değeri (Truth Value): 0/1
+
+		p: Bu önermenin ifadesini görmüyorsak, iki alternatifi var: ya doğru ya yanlış.
+		Boolean Albegra: 0 = F, 1 = T
+		
+		Önerme sayısı, bize kaç tane doğruluk durumu olduğunu gösteren bir formüldür.
+			       eğer iki tane önerme sayısı olursa 
+			       yani p ve q gibi önermeler ve ifadelerini bilmiyorsak kaç tane doğruluk durumu söz konusudur?  
+		
+		Önerme Sayısı = 2^n tane doğruluk değeri ortaya çıkar.
+				yani p ve q 4 tane doğruluk durumu vardır
+				     1    1
+				     1    0
+				     0    1
+				     0    0
+				     
+		Önerme sayısı 3 tane olsaydı: 2^3 =  8 tane önerme durumu olurdu. p, q, r gibi
+		
+				p --> 0 0 0 0 1 1 1 1
+				q --> 0 0 1 1 0 0 1 1
+				r --> 0 1 0 1 0 1 0 1
+				      |             |
+				    Hepsi         Hepsi
+				   Yanlış         Doğru
+				    
+				Bu şekilde matematiksel yazım olabilecek tüm doğru/yanlış ortaya çıkar.
+				
+				Mantık konusunda = kullanılmaz == kullanılır (Üç Çizgi)
+				p = 1 denmez, çünkü p önermesi 1'e eşit değil. p == 1 kullanılır yani denklik işareti
+				
+				== temsil ettiği true ifadesi sadece önermenin doğru olduğunu gösterir.
+				
+						
+##############################
+
+Önermenin Olumsuzu (Negation of a Preposition)
+	p ---> "Türkiye'nin başkenti İstanbul" ---> Yanlış, bu nedenle bir önerme oluyor.
+		Bunun doğruluk değeri ---> 0
+		Peki önermenin, olumsuzu nasıl olur ---> "Türkiye'nin başkenti İstanbul değildir"
+		Bunun doğruluk değeri ---> 1
+		Böylelikle doğru bir önerme olur, ama dikkat edersek ifadeyi Ankara diye düzeltmedik
+		Yanlışı düzeltme, öyle diyorsa değil diye düşün
+		p' ---> olumsuz önermeyi gösteren işaret ~p, p'
+		
+		p  == 0
+		p' == 1      #Sonuçlar bu şekilde olur
+		
+		# Bir önermenin olumsuzu ile hedeflenen sonuç 0 ise 1 yap, 1 ise 0 yap
+		
+		# Eğer bir önermenin ifadesini bilmiyorsak nasıl olur?
+		p   0   1
+		p'  1   0      # yani yine iki ihtimal var
+		
+		
+		q : 3 + 2  = 5            q  == 1
+		q': 3 + 2 != 5		  q' == 0     ---> Eşit değil demiş ama eşit, sadece doğruluk değeri 0
+		
+		r : 3 <  5      r  == 1     --->  < ya da >  işaretinin olumsuzunu alırken
+		r': 3 >> 5	r' == 0     ---> << ya da >> işareti gelir. 
+					         Tam tersini yazıp geçmek hata olur
+		
+		
+##############################
+
+Açık Önerme (Open Proposition)
+	Önermenin, fonksiyon haline getirilmiş biçimine açık önerme denir
+	
+	Önermeler:
+		p, q, r  -------------------------->  p(x), q(x), r(x)
+			   Fonksiyon haline getir
+		
+		x'in alacağı değerlere göre önermeler bazen doğru/yanlış olabilir.
+			p(x): x + 1 < 5
+			p(1): 1 + 1 < 5  ---> p(1) == 1 ---> x'in yerine 1 koyduk doğru önerme olur
+			p(5): 5 + 1 < 5  ---> p(5) == 0 ---> Yanlış bir önerme olur
+			
+		# İlk bakıldığında doğru/yanlış diyemeyiz, x'in değerine göre önermenin doğruluk değeri değişebilir
+		# Yani açık bir durum var  ---> belli değil değere göre
+			
+			p(x): x^2 - 9 = 0  --->  x'in hangi değerleri için p(x) önermesinin doğruluk değeri 1'dir
+			      3
+			     -3
+			 kolay yolu        ---> x^2-9'u çarpanlara ayırırsak
+			 		   ---> (x-3).(x+3) = 0
+					   	 3    -3
+						 zor yolu
+			p(3)  == 1
+			p(-3) == 1
+				  ---> Diğer tüm x değerleri için sonuç 0 olur
+				  
+		# Bir açık önermenin olumsuzu nasıl olur?
+			p(x) : x + 3 <  7  olumsuzu ne?
+			p'(x): x + 3 >> 7  ---> Olumsuzu bu şekilde olur 
+			
+##############################
+
+Bileşik Önerme (Compound Proposition)
+	Bileşik önerme, iki veya daha fazla önermenin bağlaçlar yardımıyla birleştirilmesiyle ortaya çıkan yeni önerme
+	
+	Bağlaçlar (Mantık İşlemleri)
+		1. VE              ---> ^    <--- AND 
+		2. VEYA		   ---> v    <--- OR
+		3. İSE/KOŞUL	   ---> ->   <--- IF
+		4. ANCAK VE ANCAK  ---> <->  <--- IF AND ONLY IF
+		5. YA DA	   ---> o+   <--- EXCLUSIVE OR
+		
+		p ^ q  	      ---> Bileşik önerme
+		p -> (q v r)  ---> Bileşik Önerme
+
+		p, q, r          ---> Önerme
+		p(x), q(x), r(x) ---> Açık Önerme
+		p v q , p <-> q  ---> Bileşik Önerme
+
+##############################
+
+		BAĞLAÇLAR (LOGICAL OPERATIONS)
+
+VE Bağlacı
+	p ^ q 
+	# VE Bağlacında 0 baskındır. Yani sonucun 1 olması için iki önerme de 1 olmalı
+	1 ^ 1 == 1
+	0 ^ 0 == 0   #Önermelerden biri yanlış ise, iki önermenin birleşimi de yanlış olur
+	
+	# Doğruluk tablosuyla gösterirsek, var olan tüm ihtimaller yazılır
+	p        1    1    0    0
+        q        1    0    1    0
+        -------------------------
+        p ^ q    1    0    0    0
+	
+	"Bugün sinemaya ve tiyatroya gittim" 
+	       önerme 1    önerme 2
+	# Bunlardan birine gitmemişse bu bir yalan sayılır
+	
+	Özellikleri:
+		Mantıksal sadeleştirmede kullanılır
+	1. VE Bağlacının değişme özelliği vardır. 
+		p ^ q == q ^ p
+		
+	2. p ^ p  #İki aynı önerme VE bağlacıyla birleşirse, p kendisi ne ise sonuç o olur
+		p ^ p == p
+		1 ^ 1 == 1
+		0 ^ 0 == 0
+		
+	3. p ^ p' # p == 1 ise p' == 0
+		    p == 0 ise p' == 1
+		    yani 
+		    p ^ p' == 0
+	4. p ^ 1  # ikinci önermenin kesinlikle doğru olduğunu biliyorken p ne bilmiyoruz
+		    p ^ 1 == p   #p ne ise sonuç o olacak
+		    1 ^ 1 == 1   #p == 1 ise sonuç 1
+		    0 ^ 1 == 0   #p == 0 ise sonuç 0
+	
+	5. p ^ 0  # VE Bağlacında 0 baskındır. Sonuç p ile değil, 0 ile bağlıdır.
+		    p ^ 0 == 0
+		    
+##############################
+
+VEYA Bağlacı
+	p v q
+	# VEYA bağlacında 1 baskındır.
+	# İki önermeden birinin 1 olması sonucun 1 çıkması için yeterli.
+	# İkisi de 0 ise, sonuç 0 olur
+	1 v 1 == 1
+	1 v 0 == 1
+	0 v 1 == 1
+	0 v 0 == 0
+	
+	# Doğruluk tablosundaki önerme adeti kaç satır olacağını gösterir.
+	# 2^2den 4 satır olacağını biliriz
+	
+	p        1    1    0    0
+        q        1    0    1    0
+        -------------------------
+        p v q    1    1    1    0
+	
+	# Neden VEYA bağlacında 1 baskın
+		"Bugün sinemaya veya tiyatroya gideceğim."
+		       önerme 1      önerme 2
+		# İkisinden birini gerçekleştirmek bu cümlenin doğruluğunu gösterir.
+		
+	Özellikleri:
+	1. VEYA bağlacı değişme özelliği var
+			p v q == q v p
+	
+	2. iki önermede aynı olduğunda (p v p), p == 1 == p v p
+		Bu kuralda p önemli, eğer p == 0 ise p v p == 0 olur
+	
+	3. p v p' her halukarda birisi ya 0 ya da 1 olur, 1 VEYA bağlacında baskındır ve sonuç her halukarda 1 olur.
+	
+	4. p v 1, p ne olursa olsun(0, 1), 1 VEYA bağlacında baskı old için sonuç her zaman 1 olur
+	
+	5. p v 0, p == 0 olursa sonuç 0 olur, p == 1 olursa sonuç 1 olur. yani sonuç p ile eşit
+		
+##############################
+
+Ve ile veya bağlacındaki ait ortak özellikler
+
+    1. Dağılma Özelliği
+              ve     p ^ (q v r) == (p ^ q) v (p ^ r)     #bazen dağıtılmamış şekilde de gelebilir dağıtılmış şekilde de
+                                            #ilerde sadeleştirme sorularında çıkar - Karmaşık, bileşik önermelerin sadeleştirilmesi
+              veya   p v (q ^ r) == (p v q) ^ (p v r)
+
+    2. Parantezi kaldırma
+              ve     p ^ (q ^ r) == p ^ q ^ r    
+                                #Parantezin içindeki bağlaç ile dışındaki bağlaç birbirinin aynısıysa dağılma özelliğine gerek yok
+                                #anlamlı sonuçlar üretmek için yan yana getirilir
+              veya   p v (q v r) == p v q v r                                                  
+                         
+    3. Demorgan Kuralları
+                # ve/veyanın bileşik önermelerin olumsuzluklarını alma ile ile bir kural
+              (^)' == v                         --> ve'nin olumsuzu veya olur                        
+              (v)' == ^                         --> veya'nın olumsuzu ve olur
+  
+              (p v q)' == p' ^ q'
+              (p ^ q)' == p' v q'
+  
+              #bazen bir bileşik önerme verir, olumsunu alın der orada kullanırız, sonrasındaki işlem sadeleştirme olur istenirse
+  
+      #1: dağılma
+              (p v q) ^ (p v q')   #en sade biçimi ne?
+  
+              # bu örnekte p veya ile q ve q değil üzerine dağıtılmış, dağıtılmışı toplarsal
+  
+              p v (q ^ q')  #anlamlı bişey olarak q ve q değil
+                          #ve bağlacında sıfır baskındır. her durumda q 1/0 ise q' 0/1 olur. Yani, ikisinden biri 0
+                          bunu bildiğimiz için bu bileşik önermenin sonucu 0 çıkar                
+              p v (q ^ q') == p v 0   
+                          #ifade bu hale gelir, devam edersek
+                          #p 1 olursa, 1 veya 0 --- 1 olur
+                          #p 0 olursa, 0 veya 0 --- 0 olur
+                          #p için ne verilirse her durumda o çıkıyor, demek ki en sadece biçimi == p
+              p v (q ^ q') == p v 0 == p                       
+                          
+      #2: parantez
+      
+              p v (q v p')   #en sade biçimi ne?
+                           #burada parantez içi ile parantez dışı aynı, bu yüzden parantez kalkar
+              p v (q v p') == p v q v p'
+                           #birbiriyle yan yana gelince anlamlı gelecek ifade varsa onları yanyana getiririz
+              p v (q v p') == p v q v p' == p v p' v q                
+                           #p v p' her durumda ikinden biri 1 olur, veya bağlacında da 1 baskındır
+                           #1 veya bağlacında baskın q ne olursa olsun sonuç 1 olur, yani doğru bir bileşik önerme
+              p v (q v p') == p v q v p' == p v p' v q  == 1 v q == 1   
+        
+       #3: demorgan
+       
+              p v (q' ^ r)          #ifadesinin olumsuzunu bul
+                             #sadeleştirme falan yapma, sadece olumsuzunu al ve bitir işlemi, sonrasında istenirse ya
+              [ p v (q' ^ r)]' == (p' ^ q v r') --> ifadenin olumsuzu bu şekilde olur             
+  
+  
+##############################
+
+İSE -> bağlacı (IF) (Implication)
+       #iki önerme bu bağlaç ile birleşirse bu bileşik önerme
+       p -> q
+       ispat teknikleri açısından sıklıkla kullanılan bağlaç
+       
+       ilk önermeye hipotez == p
+       ikinci önermeye sonuç == q
+       
+       "bugün pazar ise yarın pazartesi'dir"
+       
+       ispatlarda da ortaya bi hipotez atılır ve teoriye dönüştürülmeye çalışılır
+       Peki sonuçları nasıl belirler?
+       Ve bağlacında 0 baskın, Veya bağlacında 1 baskın, İse bağlacında böyle bir durum yok
+       1 -> 1 
+       Hipotez eğer doğruysa, doğru bir sonuç bulunur                   1 -> 1 == 1       Bileşik önermenin doğru olduğunu gösterir
+       Hipotez eğer doğruysa, yanlış bir sonuç da bulunur               1 -> 0 == 0       Diğerleri kabul edilebilir ama bu kabullenilemiyor. 
+       Hipotex eğer yanlışsa, doğru bir sonuç da bulunabilir. Mümkün    0 -> 1 == 1
+       Hipotez eğer yanlışsa, yanlış bir sonuç bulunur                  0 -> 0 == 1        
+       
+       Doğruluk Tablosunu yapacak olursak:
+       
+       p        1    1    0    0
+       q        1    0    1    0
+       -------------------------
+       p -> q   1    0    1    1
+       
+       İSE Bağlacına ait özellikler
+       1. Değişme özelliği yoktur
+       
+          p -> q !== q -> p
+          
+          Ama Ve, Veya bağlaçlarının değişme özellikleri var
+  
+       2. İse bağlaçlı bileşik önermeler istenildiğinde Veya bağlacına dönüştürülebilir
+                                         (ama İse'linin olumsuzu sorulursa, kesinlikle onu Veya'ya çevirmek gerekli - Altın Kural)
+                                         Sadeleştirme Sorularında Veya'ya çevirmek zorundayız
+                                         
+          p -> q == p' v p            #ilk önermenin olumsuzunu alıp araya Veya baplacı koyabiliriz
+    
+       3. İki giren önerme aynı ise sonuç her zaman 1 olur
+       
+          p -> p == 1     
+           
+       4. hipoteze 1 verilirse, antitez 0 olur. Yani p için ne verilirse onun tersi olur
+       
+          p -> p' == p'
+          1 -> 0  == 0
+          0 -> 1  == 1
+          
+          #işin içinden çıkamıyorsan o zaman Veya bağlacına çevir daha kolay algılanır
+          
+       5. Sonuç doğruysa, hipotez doğru/yanlış ne olursa olsun. Bileşik önermenin sonucu 1 olur
+        
+          p -> 1 == 1 
+          
+       6. p'ye ne verilirse p'nin değili yani olumsuzu olur
+           
+          p -> 0 == 
+          1      == 0
+          0      == 1
+          
+##############################
+
+İSE Bağlacıyla ilgili
+Karşıtı, Tersi, Karşıt Tersi (Converse, Inverse, Contrapositive)
+
+           Örnek Önerme:   p -> q
+           
+           Karşıtı:        q -> p
+                            #Önermeler yer değiştirir
+           
+           Tersi:          p' -> q'
+                    #Tersi kavramı, İki önermenin de (p, q) olumsuzlarının alınmasıyla oluşan yeni İSE'li önermedir
+                    #Tersi ile Olumsuzu asla karıştırma
+                    #Önermenin olumsuzunu alabilmek için ilk önce VEYA'ya çevrilmeli sonrasında olumsuzu alınır.
+            
+          *Karşıt Tersi:   q' -> p'
+                    #Mevcut iki önerme hem yer değiştirir, hem de olumsuzları alınır
+                    #Önemi, Karşıt Tersi ile oluşturulmuş önermenin doğruluk değeri, Örnek Önermenin doğruluk değeri aynıdır.
+                    #İleriki konu, İspat yöntemlerinde; 
+                          p -> q ispat etmekte zorlanıldığında, Karşıt Tersi halini yazıp bu şekil ispatlamayı deneyerek ispat yapılabilir.
+                    
+                    "Bugün günlerden Cuma ise, Yarın Cumartesidir."             --> Normal İSE önermesi
+                    "Yarın Cumartesi ise, Bugün günlerden Cumadır."             --> Karşıtı İSE önermesi
+                    "Bugün günlerden Cuma değil ise, Yarın Cumartesi değildir." --> Tersi İSE önermesi
+                    "Yarın Cumartesi değil ise, Bugün Cuma değildir."           --> Karşıt Tersi İSE önermesi
+                        
+                    #İfadeler benzer gibi gözükebilir ama her zaman aynı sonuçları üretmez
+                    #Ama Karşıt Tersi, Normal İSE ile aynı sonuçları üretir
+                    
+                    
+                    #Normal İSE önermesini, Doğruluk Tablosunda ifade edersek
+                    p        1    1    0    0
+                    q        1    0    1    0
+                    -------------------------
+                    p -> q   1    0    1    1
+
+
+                    #Karşıt Tersi İSE önermesini, Doğruluk Tablosunda ifade edersek
+                    p'       0    0    1    1
+                    q'       0    1    0    1
+                    -------------------------
+                    p' -> q' 1    0    1    1
+                    
+                    #Sonuçlar, İki bileşik önermede de aynı üretildi. ---> Logically Equivalent (Mantıksal Olarak Denk)
+                    #p -> q ispatlanması için, p' -> q' ispatlamak yeterli
+                    #Logically Euivalent kavramı önemli, ileriki konularda görülür.
+                    
+##############################
+
+ANCAK ve ANCAK Bağlacı (If and Only If) <-> (Çift yönlü kosullu olasilik - Biconditional)
+            
+                    p <-> q    -> p ancak ve ancak q biçimiyle okunur
+
+        Bu baglacın iki önerme birleştirildiğinde sonucu nasıl olur?
+        Bu baglaçta iki giren önerme aynı ise ikisi de doğru/yanlış ise sonuç doğrudur
+	    İki giren önermeden biri doğru biri yanlış değer ise bileşik önermenin sonucu yanlıştır
+
+            1 <-> 1 == 1
+            0 <-> 0 == 1
+            1 <-> 0 == 0
+            0 <-> 1 == 0
+
+
+        Dogruluk tablosu yapacak olursak
+
+            p       1  1  0  0  
+            q       1  0  1  0
+            ------------------
+            p <-> q 1  0  0  1
+
+        Özellikleri
+            1. Degişme özelliği var 
+                p <-> q     q <-> p
+
+	                #ve veya değişme özelliği vardı bunda da var sadece ise baglacında yok
+
+            2. p <-> q  == ( p -> q) ^ (q -> p) == (p' v q) ^ (q' v p)   #olumsuzunu alır ve sadeleştirme yaparken, bu eşiti yaz
+
+                    #sadeleştirme olumsuz yapma da önemli bi özellik
+                    
+                    #ise bağlacında bilinmesi gereken en önemli özellik   p -> q == p' v q 
+
+            3. iki giren önermede birbiriyle aynıysa sonuç 1 olur
+                p <-> p == 1
+
+            4.  p <-> p'       #bu 1se diğeri 0dır o zaman sonuç 0
+
+            5. 1 ise sonuç 1 çıkar 0 ise 0 çıkar
+
+                p <-> 1        #1in sonucu pye esittir
+
+            6. pye 1 verirsek sonuç 0, pye 0 verirsek sonuç 1
+                
+                p <-> 0        #ne verirssek onun olumsuzu olur
+
+                               #yukardaki açılım, 3456 kuralları için uygulanmaz
+
+
+
+##############################
+
+YA DA Bağlacı (Exclusive OR)  (yuvarlak +)(büyük V altına bir çizgi çekilir)
+	    
+        p o+ == p ya da q biçiminde okunur
+
+	        Doğruluk değeri nasıl hesaplanır ya da bağlacında p veya q dan yalnızca biri dogru 1 iken sonuç 1, diger durumlarda sonuç 0 olur
+
+            Bu baglaç ancak ve ancak baglacinin tam zıttı
+
+            1 o+ 1 == 0
+            1 o+ 0 == 1
+            0 o+ 1 == 1
+            0 o+ 0 == 0
+
+
+        Doğruluk tablosunu yazarsak
+
+            p        1 1 0 0
+            q        1 0 1 0
+            ----------------
+            p o+ q   0 1 0 1
+
+
+        Özellikleri
+            1.Değişme özelliğine sahip
+                    
+                    p o+ q  == q o+ p
+
+            2. iki birbiriyle aynıysa sonuç 0 yanlış
+                    
+                    p o+ p == 0
+
+            3.
+                    p o+ p == 1
+
+            4. 1 ile pye ne verirssek onun olumsuzu sonuç olur
+
+                    p o+ 1 ==
+                    1      == 0
+                    0      == 1
+
+            5. 0 ile pye ne veriesek souç onunla ayni
+
+                    p o+ 0 ==
+                    1      == 1
+                    0      == 0
+
+
+##############################
+
+MANTIK SADELEŞTİRME SORULARI (Beginner)
+            1.  p v (q v p')  bileşik önermesinin en sade biçimi ne?
+		
+		#Parantez içindeki ve dışındaki bağlaç VEYA ise ilk olarak parantezi kaldır
+		
+		== p v p v p'
+		
+		#p veya p' birbirinin yanına gelirse işlemlerinin sonucu anlamlı bir değer üretir
+		#VEYA bağlacının değişme özelliği vardır
+		
+		== p v p' v q
+		
+		p v p' incelersek VEYA bağlacında 1 baskındır.
+		1 v 0 == 1
+		0 v 1 == 1  sonuç daima 1 oluyor
+		
+		== 1 v q olur. #VEYA bağlacında 1 baskındır
+		
+		VEYA bağlaçlı önermede 1 varsa q ne olursa olsun sonuç 1 olacak.
+		
+		== 1 v q == 1 
+		
+		p v (q v p') == 1   bileşik önermenin en sade şekli
+		
+		
+            2.  p ^ (q ^ p')  bileşik önermesinin en sade biçimi ne?
+	    
+	    	#VE bağlacında da parantez kalkar
+		
+		== p ^ q ^ p' 
+		
+		== p ^ p' ^ q    #iki farklı harfin yanyanayken sonucu kesin değil, bu yüzden aynı harfleri yan yana getirmek daha uygun
+				 #VE bağlacının değişme özelliği kullanılır
+				 #VE bağlacında 0 baskındır
+		
+		p ^ p' == 
+		1   0  == 0
+		0   1  == 0
+		
+		== 0 ^ q #VE bağlacında 0 baskın q ne olursa olsun yanında 0 varsa sonuç 0 olur
+		
+		p ^ (q ^ p') == 0   bileşik önermenin en sade şekli 
+				 
+		
+
+            3.  p -> (p v q)  bileşik önermesinin en sade biçimi ne?
+
+		#sadeleştirme sorularında İSE varsa onu VEYA çevir
+		
+		örnek: p -> q == p' v q  yani p İSEden kurtulmak için P' olur
+		
+		p' v (p v q) == p' v p v q 		  == 1 v q == 1 
+				0    1				
+				1    0   #VEYA 1 baskın   
+
+		p -> (p v q) == 1 
+
+            4.  (p ^ q) -> q  bileşik önermesinin en sade biçimi ne?                    
+
+		#İSEyi VEYAya çevir ama İSEden önceki bütün kısmın olumsuzunu almak gerekli
+		
+		(p ^ q)' v q
+		
+		#ardından bi olumsuz varsa uygulanması gerekir
+		
+		(p' v q') v q == p' v q' v q == p' v 1 == 1 #VEYA ile 1 varsa yanda ne olursa olsun sonuç 1
+				      q' v q == 1
+				
+		(p ^ q) -> q == 1 	#bileşik önermesinin en sade biçimi
+
+            5.  (p v q) ^ (p v q')  bileşik önermesinin en sade biçimi ne?                    
+
+		#Bu soruda dağılma özelliği uygulanmış bir bileşik önerme var
+		
+		#p önermesi, VEYA bağlacı kullanılarak q VE q' üzerine dağıtılmış.
+
+		
+
+            6.  (p ^ q) v (p ^ q')  bileşik önermesinin en sade biçimi ne?  
+	    
+	    
+	    
+            5.  (p v q) ^ (p v q')  bileşik önermesinin en sade biçimi ne?  
+MANTIK SADELEŞTİRME SORULARI (Intermediate)
+
+
+
+
+
+
+
+
+False Positive vs. False Negative (Steve Yegge's Rule)
+
+Expected:
+System:       Input		 Output   Result
+Computer <--- Image: Fish   ---> True     True  
+Computer <--- Image: Sea    ---> False    True
+
+Computer Vision Error: Verilen cevap pozitif/negatif ama yanlış
+System:       Input		 Output   Result
+Computer <--- Image: Fish   ---> False    False   #if the computer outputs no fish ---> False Negative
+Computer <--- Image: Flower ---> True     False   #if the computer outputs fish    ---> False Positive
+
+İşe Alım(Recruitment): 
+	Kötü bir aday işe alınırsa ve kötü bir çalışan çıkarsa ---> False Positive   (avoid this in Tech Recruitment!)
+	İyi bir adayı işe alınmazsa yani kaçırılırsa           ---> False Negative
+	http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1
+
+
