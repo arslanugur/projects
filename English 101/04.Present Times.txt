@@ -95,30 +95,30 @@ N --> no, he/she doesn't go on holiday every summer
 
 
 ---> MAKING A QUESTION FOR SIMPLE PRESENT
-				|	S	|	V	|	O	|
-5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
+				        |	S	|	V	|	O	|
+5 W 1 H		   |     QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
 ---------------------------------------------------------------------------------
-what		|   		|   		|    need	|
-which + NOUN	|   do		|   I		|    see	|
-what kind + NOUN|		|		|    look	|
-----------------|   do		|   YOU		|    walk	|
-where		|		|		|    run	|
-----------------|   does	|   HE		|    want	|
-when		|   does	|   SHE		|    read	|
-what time	|   does	|   IT		|    write	|
-		|   		|   		|    spend	|
-----------------|   do		|   WE		|    watch	|
-who		|   do		|   YOU		|    drink	|
-whom		|   do		|   THEY	|    eat	|
-whose		|		|		|    make	|
-----------------|   		|		|    do		|
-why		|		|		|    solve	|
-----------------|		|		|    listen	|
-how		|		|		|    hear	|
-how many + NOUN	|		|		|    wear	|
-how much + NOUN	|		|		|    talk	|
-how often	|		|		|    study	|
-how long	|		|		|    go		|
+what		   |   		        |   		|    need	|
+which + NOUN	   |   do		|   I		|    see	|
+what kind of + NOUN|		        |		|    look	|
+-------------------|   do		|   YOU		|    walk	|
+where              |		        |		|    run	|
+where ... to/from  |   does	        |   HE		|    want	|
+-------------------|   does	        |   SHE		|    read	|
+when               |   does	        |   IT		|    write	|
+what time	   |   		        |   		|    spend	|
+-------------------|   do		|   WE		|    watch	|
+who    ... to/with |   do		|   YOU		|    drink	|
+whom		   |   do		|   THEY	|    eat	|
+whose		   |		        |		|    make	|
+-------------------|   		        |		|    do		|
+why		   |		        |		|    solve	|
+-------------------|		        |		|    listen	|
+how		   |		        |		|    hear	|
+how many + NOUN	   |		        |		|    wear	|
+how much + NOUN	   |		        |		|    talk	|
+how often	   |		        |		|    study	|
+how long	   |		        |		|    go		|
 
 
 
