@@ -140,6 +140,16 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I am one of four siblings. / I am one of four
       I am an only child
       I want to have a younger brother
+      I am/was the first born in my family - ailemde ilk doğan çocuk benim/bendim
+      it's tough being a middle child - ortanca çocuk olmak zor
+      she is a middle child  - o ortanca çocuk
+      i am an only child - ben tek çocuğum
+      she is my youngest (daughter) - o benim en küçük/genç kızım
+      he is my eldest son - o benim en büyük oğlum
+      this is Chris my second child - bu Chris, benim ikinci çocuğum
+      he is our third child - o bizim üçüncü oğlumuz
+      she is his fourth wife/husband - o, onun dördüncü karısı/kocası
+
 
       Do you live with your parents?  --> Yes, I live with my parents / No, I don't live with my parents, I live alone. 
       Are you living with your parents? --> Yes, I am living with my parents / No, I am not living with my parents, I live alone.
