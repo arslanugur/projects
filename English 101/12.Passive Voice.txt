@@ -28,6 +28,7 @@ Modal Perfect
 
 EXAMPLES:
 she wasn't told
+bullets only do their jobs after they are fired 
 The criminal was arrested as he came out of the bank.
 Interest rates will probably be increased next year.
 Who were you introduced to at the meeting? Anyone interesting?
