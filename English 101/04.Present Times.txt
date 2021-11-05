@@ -10,12 +10,20 @@ N --> no, he/she doesn't go on holiday every summer
 
 	Signals: every day/week/month/year, Adverbs of Frequency, first ... then
 
-		on Fridays: Cuma günleri/Cumaları
-		at night/nights: Geceleyin/ Geceleri
-		in the morning/afternoon/evening: sabahleyin/öğleyin/akşamleyin
+		in the morning   - sabahleyin
+                at noon          - öğlen
+                in the afternoon - öğleden sonra
+                in the evening   - akşamleyin
+                at night/s       - geceleyin, gece/leri
+                at midnight      - gece yarısı
+                at dawn          - kuşluk vakti, şafak
+
+                on Fridays: Cuma günleri/Cumaları
 		at weekend/s: hafta sonunda/larında
 		during the week – hafta içi
-		once a month: ayda bir		twice a week: haftada iki	three times a year: yılda üç kez
+		once a month: ayda bir		
+                twice a week: haftada iki
+                three times a year: yılda üç kez
 
 		--> ADVERBS OF FREQUENCY
 		always / all the time		   		I always drink coffee before 09:00
