@@ -67,8 +67,7 @@ passionate, separate, accurate, lemonade, appropriate, intimate
 
 -ic
 fantastic, lunatic, fanatic, realistic, barbaric, romantic 
-pragmatic, pedagogic, tragic, didactic, scientific, pacific
-traffic
+pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
 
 -al
 ethical, economical, political, natural, industrial, official, brutal 
@@ -88,21 +87,23 @@ I am interested in Music = Music is interesting
 I am surprising = You are surprised
 
 -ous	
-generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous - perilous
+generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous = perilous
 anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous, hideous
 enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
-atricuous - acımasız, treacherous = untrustable
+atricuous - acımasız, treacherous = untrustable, tremendous
 various artists for Rolling Stones tribute
 hazardous to your health
 
 -y
-tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, merry, cherry, ugly
-jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty
-brainy, easy, snoppy - meraklı, snobby, sloppy - ihtiyatsız, hazy - puslu
+tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
+jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty, raunchy
+brainy, easy, snoppy - meraklı, snobby, sloppy - ihtiyatsız, scary, steamy, soapy, cheesy, gory, gritty, goofy, quirky 
 
+-worthy
+swoonworthy, trustworthy
 
 --> Extra Adjectives
-frank, stubborn, cruel, cute, dead, distinct, bright, fragile, trustworthy, muppet - ugly
+frank, stubborn, cruel, cute, distinct, bright, fragile, muppet - ugly
 valid != invalid - geçerli
 
 
@@ -139,49 +140,47 @@ empathy or gullibility - take your pick
 --> SYNONYM and ANTONYM
 
 --> A
-alive                         dead
-accurate = exact              
+alive                         dead                          (life != death)
+lively = animated             depressed
+accurate = exact              flu
 average
-afraid = fearful
-angry = furious
+angry = furious               calm = serene                 (calmness = serenity != anger = fury)
 
 --> B
 big = immense, great, massive small
 brave = courageous            afraid = fearful/terrified    (brevity, courage != fear)
 bright = light = luminous     dark                          (brightness != darkness)	
-busy = swamped
-beautiful = gorgeous
+busy = swamped                idle
+beautiful = gorgeous          ugly = hideous                (beauty != ugliness)
 
 --> C
 colourful = vibrant	
-crowded = bustling	
+crowded = bustling            quiet = sakin
 confused = perplexed	
-cute = adorable	
+cute = adorable               
 competitive = cutthroat	
-clever = brilliant	
+clever = brilliant = smart    stupid = idiotic
 creative = innovative	
-calm = serene                 angry = furious               (calmness = serenity != anger = fury)
 careful = cautious            nervous = apprehensive        (nerve)
 cheap = stingy                expensive                     (expense)
-clear, clean = spotless	dirty
+clear, clean = spotless       dirty = squalid
 
 --> D
 dear = cherished	
 detailed = meticulous	
-dirty = squalid	
-dull = tedious	
-dignified – ağırbaşlı
+dull = tedious
+dignified – ağırbaşlı         funny = hilarous
 dry = arid, parched           wet
 
 --> E
-easy = effortless
-eager = keen	
-evil = wicked	
-excited = thrilled
+easy = effortless = facile    difficult = hard = arduous 
+eager = keen = willing
+evil = wicked                 good
+excited = thrilled            
 exciting = exhilarating	
 empty = desolate              full
 early (earlier)               late (later, the latest, the last)
-easy = facile                 difficult = hard = arduous 
+
 
 --> F
 fabulous	
@@ -189,11 +188,10 @@ famous, popular
 fancy = lavish
 friendly = amiable
 fast = quick = rapid          slow = sluggish
-funny = hilarous
 
 --> G
-good = excellent    ---       bad = awful = atrocious
-glad = overjoyed	
+good = excellent              bad = awful = atrocious
+glad = overjoyed
 great = terrific
 
 --> H
@@ -201,13 +199,13 @@ high                          low
 hot, warm                     cold = freezing
 heavy = leaden                light
 happy = ecstatic              sad                           (happiness != sadness)
-hungry = starving
+hungry = starving             full = fed
 hurt = battered
 
 --> L
-lazy = indolent	
-lively = animated	
-loud = thunderous = deafening
+lazy = indolent               hardworking
+loud = thunderous = deafening silent, mute, peaceful
+noisy = deafing               quiet = silent                (silence != noise)
 long-term = enduring	
 loved = adored
 large = huge	          
@@ -223,18 +221,16 @@ modest – gösterişsiz	showy = elegant
 near-er	out-er
 necessary = essential	
 neat = immaculate	
-noisy = deafing               quiet = silent                (silence = noise)
 naive                         dirty
 nice = kind, polite           rude
-nice, pretty, beautiful = exquisite	
+pretty, beautiful = exquisite	
 
 --> O
 old = ancient                 new
 old                           young
-often = frequently	
+often = frequently            rarely
 
 --> P
-poor = destitute
 painful = excruciating	
 powerful = compelling = strong
 pure
@@ -252,10 +248,9 @@ sharp = keen
 sorry = apologetic
 shiny = gleaming
 sleepy = lethargic
-stupid = idiotic	
 smelly = pungent	
 smooth = sleek	
-sick = ill	
+sick = ill
 skinny = skeletal	
 scared = frightened, petrified
 strict	
@@ -282,16 +277,14 @@ tight = constricting
 thirsty = parched
 
 --> U
-ugly = hideous
 upset = distraught	
 
 --> V
-valuable = precious	
+valuable = precious
 
 --> W
 wicked = villainous	
 worried = distressed	
-willing = eager	
 
 
 
@@ -304,28 +297,16 @@ Coming-of age
 Chilling
 Emsemble
 Explosive
-Exciting
 Fairy Tale
-Gory
-Gritty
-Goofy
 Investigative
 Ominous
-Quirky
 Riveting
 Rags to Riches
-Royalty
-Raunchy
 Suspenseful
 Slick
 Scandalous
 Sentimental
-Scary
 Twists and Turns
-Witty
-Steamy
-Swoonworthy
-Soapy
 Heartfelt
 Rousing
 Nordic Noir
