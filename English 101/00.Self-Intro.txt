@@ -5,6 +5,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       How is/was your day (going)? --> (my day is/was) good
                                    --> I studied all day long
                                    --> I worked all day long
+                                           --> did you rest enough?
                                    --> It was a busy day
                                    --> Today i was so busy
                                    --> it was good/stressful
