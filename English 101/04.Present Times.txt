@@ -42,7 +42,7 @@ N --> no, he/she doesn't go on holiday every summer
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
 				        |	S	|	V	|	O	|
 5 W 1 H		   |     QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
----------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------
 what		   |   		        |   		|    need	|
 which + NOUN	   |   do		|   I		|    see	|
 what kind of + NOUN|		        |		|    look	|
