@@ -41,8 +41,8 @@ faithful != faithless, careful != careless
 spotless, relentless at - amansız, ruthless - acımasız
 
 -tive	
-sensitive, protective, attractive, aggressive, combative
-cooperative, inquisitive = curious
+sensitive, protective, attractive, combative, aggressive, progressive
+cooperative, inquisitive = curious, investigative, primitive, explosive
 effective - etkili
 positive != negative
 
@@ -71,14 +71,14 @@ pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
 
 -al
 ethical, economical, political, natural, industrial, official, brutal 
-educational, relational, national
+educational, relational, national, sentimental
 hospital, capital, recital
 
 -ed / -ing	
-interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned 
-bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, charming
+interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned, unrequited
+bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, charming, riveting
 disturbed, defeated, excited, blushing, entertaining, caressing – sevecen, convincing – ikna edici
-involved, embrassing, frightening, fascinating, blooming- bloomed, coordinating, glittering - göz alıcı
+captivating, involved, embrassing, frightening, fascinating, blooming- bloomed, coordinating, glittering - göz alıcı
 ongoing, incoming
 less/much interested
 she's broken
@@ -143,21 +143,22 @@ empathy or gullibility - take your pick
 alive                         dead                          (life != death)
 lively = animated             depressed
 accurate = exact              flu
-average
+average                       special = exceptional = extraordinary 
 angry = furious               calm = serene                 (calmness = serenity != anger = fury)
 
 --> B
-big = immense, great, massive small
+big = immense, great, massive small = little = tiny
 brave = courageous            afraid = fearful/terrified    (brevity, courage != fear)
+                              scared = frightened, petrified
 bright = light = luminous     dark                          (brightness != darkness)	
 busy = swamped                idle
 beautiful = gorgeous          ugly = hideous                (beauty != ugliness)
 
 --> C
-colourful = vibrant	
+colourful = vibrant           colourless
 crowded = bustling            quiet = sakin
 confused = perplexed	
-cute = adorable               
+cute = adorable         
 competitive = cutthroat	
 clever = brilliant = smart    stupid = idiotic
 creative = innovative	
@@ -171,22 +172,23 @@ detailed = meticulous
 dull = tedious
 dignified – ağırbaşlı         funny = hilarous
 dry = arid, parched           wet
+distressed = worried
 
 --> E
 easy = effortless = facile    difficult = hard = arduous 
 eager = keen = willing
-evil = wicked                 good
+evil = wicked = villainous    good
+                              friendly = amiable
 excited = thrilled            
 exciting = exhilarating	
 empty = desolate              full
 early (earlier)               late (later, the latest, the last)
-
+showy = elegant               modest – gösterişsiz, mütevazi = humble	
 
 --> F
 fabulous	
 famous, popular
 fancy = lavish
-friendly = amiable
 fast = quick = rapid          slow = sluggish
 
 --> G
@@ -198,9 +200,10 @@ great = terrific
 high                          low
 hot, warm                     cold = freezing
 heavy = leaden                light
-happy = ecstatic              sad                           (happiness != sadness)
+happy = ecstatic              sad = upset = distraught	(happiness != sadness)
 hungry = starving             full = fed
 hurt = battered
+healthy                       sick = ill = patient
 
 --> L
 lazy = indolent               hardworking
@@ -209,18 +212,17 @@ noisy = deafing               quiet = silent                (silence != noise)
 long-term = enduring	
 loved = adored
 large = huge	          
-little = tiny
 long = extensive               short = brief
 loose = slack
 
 
 --> M
-modest – gösterişsiz	showy = elegant
+
 
 --> N
 near-er	out-er
 necessary = essential	
-neat = immaculate	
+neat = immaculate
 naive                         dirty
 nice = kind, polite           rude
 pretty, beautiful = exquisite	
@@ -234,6 +236,7 @@ often = frequently            rarely
 painful = excruciating	
 powerful = compelling = strong
 pure
+precious = valuable
 
 --> Q
 
@@ -250,17 +253,13 @@ shiny = gleaming
 sleepy = lethargic
 smelly = pungent	
 smooth = sleek	
-sick = ill
 skinny = skeletal	
-scared = frightened, petrified
 strict	
-scared = petrified
 strong = unyielding           weak = frial                  (strength != weakness)
 safe                          dangerous                     (safety != danger)
 secure
 serious = grave               funny
 several                       few
-special = exceptional         
 sober                         drunk
 same                          different
 similar                       different = disparate         (similarity != difference)
@@ -270,48 +269,31 @@ soft                          hard
 --> T
 thin = gaunt                  fat = obese
 tidy                          messy = slovenly
+tight = constricting          wide
 tall = towering, long         short = brief       (tall bulding, long train)
 tired = exhausted, sleepy
-tasty = delicious	
-tight = constricting
+tasty = delicious
 thirsty = parched
 
 --> U
-upset = distraught	
-
 --> V
-valuable = precious
-
---> W
-wicked = villainous	
-worried = distressed	
-
-
+--> W	
 
 
 --> Extras
 Absurd
 Controversial
-Captivating
 Coming-of age
 Chilling
 Emsemble
-Explosive
 Fairy Tale
-Investigative
 Ominous
-Riveting
 Rags to Riches
 Suspenseful
 Slick
+Gal Pals
 Scandalous
 Sentimental
 Twists and Turns
 Heartfelt
 Rousing
-Nordic Noir
-Charming
-Unrequited love
-Combat
-Gal Pals
-
