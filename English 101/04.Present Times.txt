@@ -48,7 +48,7 @@ which + NOUN	   |   do		|   I		|    see	|
 what kind of + NOUN|		        |		|    look	|
 -------------------|   do		|   YOU		|    walk	|
 where              |		        |		|    run	|
-where ... to/from  |   does	        |   HE		|    want	|
+where  ... to/from |   does	        |   HE		|    want	|
 -------------------|   does	        |   SHE		|    read	|
 when               |   does	        |   IT		|    write	|
 what time	   |   		        |   		|    spend	|
