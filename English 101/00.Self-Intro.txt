@@ -2,17 +2,19 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 1 --> GREETINGS
       Hello
       Good Morning, Good Afternoon, Good Evening
-      How is/was your day (going)? --> (my day is) good
-                               --> I studied all day long
-                               --> I worked all day long
-                               --> It was a busy day
-
+      How is/was your day (going)? --> (my day is/was) good
+                                   --> I studied all day long
+                                   --> I worked all day long
+                                   --> It was a busy day
+                                   --> it was good
+                                   --> I had a good day
+                                   --> I was at work all day
 
 2 --> YOUR NAME
       What is your name?
-      I’m..
-      I am..
-      My name is..
+      I’m ..
+      I am ..
+      My name is ..
       Can you spell your name?
             A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay), J(cey), K(key), L(el), M(em)
             N(en), O(o), P(pi), Q(kyu), R(ar), S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
@@ -28,7 +30,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       tell me about your town?
             
       Where are you from? --> I’m from Turkey
+                          --> I live in Aksaray from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
+      
       What is your nationality --> I’m turkish
       Where do you come from? --> I come from ...
       Where did you come from? --> I came from ..
@@ -39,7 +43,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Where were you born?  --> I was born in Antalya
                             --> I was born (in) and raised in Antalya
       When were you born? --> I was born in 1995
-      
+            
       Where did you grow up?  --> I grew up in…
                               --> I grew up in LA, now live in NY
       How many years did you live in there? --> I lived in there for two years
