@@ -224,30 +224,30 @@ N --> no, I have not been living in Milano
 		 recently, all morning, all year, the whole day
 
 ---> MAKING A QUESTION FOR PRESENT PERFECT CONTINUOUS
-				|	S	|	V	|	O	|
-5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
----------------------------------------------------------------------------------
-what		|   		|   		|    need	|
-which		|   do		|   I		|    see	|
-what kind	|		|		|    look	|
-----------------|   do		|   YOU		|    walk	|
-where		|		|		|    run	|
-----------------|   does	|   HE		|    want	|
-when		|   does	|   SHE		|    read	|
-what time	|   does	|   IT		|    write	|
-		|   		|   		|    spend	|
-----------------|   do		|   WE		|    watch	|
-who		|   do		|   YOU		|    drink	|
-whom		|   do		|   THEY	|    eat	|
-whose		|		|		|    make	|
-----------------|   		|		|    do		|
-why		|		|		|    solve	|
-----------------|		|		|    listen	|
-how		|		|		|    hear	|
-how many + NOUN	|		|		|    wear	|
-how much + NOUN	|		|		|    talk	|
-how often	|		|		|    study	|
-how long	|		|		|    go		|
+				|	S	|	V	     |        O	        |
+5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	     |      OBJECT	|
+----------------------------------------------------------------------------------------
+what		|   		|   		|        need	     |
+which		|   have	|   I		|   been seeing      |
+what kind	|		|		|   been looking     |
+----------------|   have	|   YOU		|   been walking     |
+where		|		|		|   been running     |
+----------------|   has 	|   HE		|        want	|
+when		|   has 	|   SHE		|   been reading     |
+what time	|   has 	|   IT		|   been writing     |
+		|   		|   		|   been spending    |
+----------------|   have	|   WE		|   been watching    |
+who		|   have	|   YOU		|   been drinking    |
+whom		|   have	|   THEY	|   been eating	     |
+whose		|		|		|   been making      |
+----------------|   		|		|   been doing       |
+why		|		|		|   been solving     |
+----------------|		|		|   been listening   |
+how		|		|		|        hear	     |
+how many + NOUN	|		|		|   been living      |
+how much + NOUN	|		|		|   been talking     |
+how often	|		|		|   been studying    |
+how long	|		|		|   been going	     |
 
 
 ---> FUTURE TIMES
