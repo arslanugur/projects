@@ -71,7 +71,7 @@ pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
 
 -al
 ethical, economical, political, natural, industrial, official, brutal 
-educational, relational, national, sentimental
+educational, relational, national, sentimental, cynical = mocking
 hospital, capital, recital
 
 -ed / -ing	
