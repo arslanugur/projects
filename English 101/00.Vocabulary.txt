@@ -2638,3 +2638,43 @@ Zone	zon	BÖLGE
 
 
 
+VERB              NOUN                    ADJECTIVE/ADVERB
+--------------------------------------------------------------------------
+abound            abundance                                         bolluk
+                  absence                 absent                    yokluk
+                  presence                present                   varlık
+admire            admiration              admired                   hayran olmak
+affect            effect                  effective                 etkilemek
+                                          (in)evitable              (-)kaçınılabilir
+apply             application             applied                   uygulamak
+collaborate       collaboration                                     iş birliği
+comprehend        comprehension           comprehensive             kapsamlı
+contain                                                             içermek
+concur                                    concurrent                eş zamanlı
+devastate                                 devastating               yıkmak
+                  distinction             distinctive
+                  diversity               diverse                   çeşitlilik
+elect             election                elected                   seçmek, seçim
+enhance                                                             geliştirmek
+exemplify         example                                           örneklendirmek
+examinate         examination                                       inceleme yapmak
+expose            exposure                exposed                   maruz kalmak
+extend            extension               extensive-ly              geniş ölçüde
+impair                                                              bozmak
+                                          incentive                 teşvik 
+persuade          persuasion              persuasive                ikna etmek
+protect           protection              protective
+require           requirement             required
+                                          substantial-ly            epey-ce
+succeed           success                 successful                başarılı
+                                          successive                ardışık
+vary              variety                 varied                    çeşitlendirmek
+                  validation              valid
+                  vitality                vital
+                  youth                   young
+            
+
+
+
+
+
