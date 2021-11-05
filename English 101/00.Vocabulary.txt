@@ -2544,6 +2544,7 @@ We	wi	BİZ
 Weak	wiik	ZAYIF,ERKSİZ
 Wealth	welth	SERVET
 Weapon	wepın	SİLAH
+bullet  balıt kurşun, mermi
 Wear	weır	GİYMEK
 Weather	wedır	HAVA;İKLİM
 Wednesday	wenzdey	ÇARŞAMBA
@@ -2638,21 +2639,27 @@ Zone	zon	BÖLGE
 
 
 
+
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 abound            abundance                                         bolluk
                   absence                 absent                    yokluk
                   accuracy                accurate-ly               tam olarak
                   presence                present                   varlık
+                                          appropriate
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
                                           (in)evitable              (-)kaçınılabilir
+acquire           acquisition                                       edinmek
+achieve           achievement             achieved                  başarmak
 apply             application             applied                   uygulamak
 collaborate       collaboration                                     iş birliği
 comprehend        comprehension           comprehensive             kapsamlı
 contain                                                             içermek
 concur                                    concurrent                eş zamanlı
 deceive           deception               deceptive                 yanıltıcı
+decide on         decision                decided                   karar vermek
+demand            demand                  demanding                 
 devastate                                 devastating               yıkmak
                   distinction             distinctive
                   diversity               diverse                   çeşitlilik
@@ -2663,18 +2670,27 @@ exemplify         example                                           örneklendir
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
+feel              feeling                 felt                      hissetmek
+                  finance                 financial                 finans
 impair                                                              bozmak
-                                          incentive                 teşvik 
+                                          incentive                 teşvik
+invest            investment              invested                  yatırım yapmak
+invite            invitation              invited                   davet etmek
+                  intimacy                intimate        
+marry             marriage                married                   evlenmek
+pay               payment                 paid                      ödemek
+                  passion                 passionate
 persuade          persuasion              persuasive                ikna etmek
 protect           protection              protective
 require           requirement             required
-                  redundance              redundant                 gereksiz    
+                  redundance              redundant                 gereksiz
+separate          separation              separated                 
 serve             service                 served
                                           substantial-ly            epey-ce
 succeed           success                 successful                başarılı
                                           successive                ardışık
 vary              variety                 varied                    çeşitlendirmek
-                  validation              valid
+validate          validation              valid
                   vitality                vital
                   youth                   young
             
