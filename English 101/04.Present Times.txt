@@ -94,6 +94,34 @@ N --> no, he/she doesn't go on holiday every summer
 		Never						They never listen to what he says
 
 
+---> MAKING A QUESTION FOR SIMPLE PRESENT
+				|	S	|	V	|	O	|
+5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
+---------------------------------------------------------------------------------
+what		|   		|   		|    need	|
+which		|   do		|   I		|    see	|
+what kind	|		|		|    look	|
+----------------|   do		|   YOU		|    walk	|
+where		|		|		|    run	|
+----------------|   does	|   HE		|    want	|
+when		|   does	|   SHE		|    read	|
+what time	|   does	|   IT		|    write	|
+		|   		|   		|    spend	|
+----------------|   do		|   WE		|    watch	|
+who		|   do		|   YOU		|    drink	|
+whom		|   do		|   THEY	|    eat	|
+whose		|		|		|    make	|
+----------------|   		|		|    do		|
+why		|		|		|    solve	|
+----------------|		|		|    listen	|
+how		|		|		|    hear	|
+how many + NOUN	|		|		|    wear	|
+how much + NOUN	|		|		|    talk	|
+how often	|		|		|    study	|
+how long	|		|		|    go		|
+
+
+
 ---> PRESENT CONTINUOS TENSE
 AM
 Q --> am I coming to her birthday party?
@@ -114,6 +142,31 @@ N --> no, we/you/they are not coming...
 
 	Signals: now, at the moment, at present, these days, still, nowadays, today, tonight (except for future use)
 
+---> MAKING A QUESTION FOR PRESENT CONTINUOUS
+				|	S	|	V	|	O	|
+5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
+---------------------------------------------------------------------------------
+what		|   		|   		|    need	|
+which		|   am		|   I		|    seeing	|
+what kind	|		|		|    looking	|
+----------------|   are		|   YOU		|    walking	|
+where		|		|		|    running	|
+----------------|   is		|   HE		|    want	|
+when		|   is		|   SHE		|    reading	|
+what time	|   is		|   IT		|    writing	|
+		|   		|   		|    spending	|
+----------------|   are		|   WE		|    watching	|
+who		|   are		|   YOU		|    drinking	|
+whom		|   are		|   THEY	|    eating	|
+whose		|		|		|    making	|
+----------------|   		|		|    doing	|
+why		|		|		|    solving	|
+----------------|		|		|    listening	|
+how		|		|		|    hear	|
+how many + NOUN	|		|		|    wearing	|
+how much + NOUN	|		|		|    talking	|
+how often	|		|		|    studying	|
+how long	|		|		|    going	|
 
 
 ---> PRESENT PERFECT TENSE
@@ -129,6 +182,33 @@ N --> no, I have not/(never) been in Madrid
 	Signals: for, since, already, yet, always, just, ever, never
 		 so far, today, this week/month, how long, lately, recently
 
+---> MAKING A QUESTION FOR PRESENT PERFECT
+				|	S	|	V	|	O	|
+5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
+---------------------------------------------------------------------------------
+what		|   		|   		|    needed	|
+which		|   have	|   I		|    seen	|
+what kind	|		|		|    looked	|
+----------------|   have	|   YOU		|    walked	|
+where		|		|		|    run	|
+----------------|   has		|   HE		|    wanted	|
+when		|   has		|   SHE		|    read	|
+what time	|   has		|   IT		|    written	|
+		|   		|   		|    spent	|
+----------------|   have	|   WE		|    watched	|
+who		|   have	|   YOU		|    drunk	|
+whom		|   have	|   THEY	|    eaten	|
+whose		|		|		|    made	|
+----------------|   		|		|    done	|
+why		|		|		|    solved	|
+----------------|		|		|    listened	|
+how		|		|		|    heard	|
+how many + NOUN	|		|		|    wore	|
+how much + NOUN	|		|		|    talked	|
+how often	|		|		|    studied	|
+how long	|		|		|    gone	|
+
+
 
 ---> PRESENT PERFECT CONTINUOUS TENSE
 HAS BEEN V3
@@ -142,6 +222,32 @@ N --> no, I have not been living in Milano
 
 	Signals: all day, for, since, how long, lately
 		 recently, all morning, all year, the whole day
+
+---> MAKING A QUESTION FOR PRESENT PERFECT CONTINUOUS
+				|	S	|	V	|	O	|
+5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
+---------------------------------------------------------------------------------
+what		|   		|   		|    need	|
+which		|   do		|   I		|    see	|
+what kind	|		|		|    look	|
+----------------|   do		|   YOU		|    walk	|
+where		|		|		|    run	|
+----------------|   does	|   HE		|    want	|
+when		|   does	|   SHE		|    read	|
+what time	|   does	|   IT		|    write	|
+		|   		|   		|    spend	|
+----------------|   do		|   WE		|    watch	|
+who		|   do		|   YOU		|    drink	|
+whom		|   do		|   THEY	|    eat	|
+whose		|		|		|    make	|
+----------------|   		|		|    do		|
+why		|		|		|    solve	|
+----------------|		|		|    listen	|
+how		|		|		|    hear	|
+how many + NOUN	|		|		|    wear	|
+how much + NOUN	|		|		|    talk	|
+how often	|		|		|    study	|
+how long	|		|		|    go		|
 
 
 ---> FUTURE TIMES
