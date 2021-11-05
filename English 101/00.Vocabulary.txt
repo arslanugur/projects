@@ -2642,6 +2642,7 @@ VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 abound            abundance                                         bolluk
                   absence                 absent                    yokluk
+                  accuracy                accurate-ly               tam olarak
                   presence                present                   varlık
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
@@ -2651,9 +2652,11 @@ collaborate       collaboration                                     iş birliği
 comprehend        comprehension           comprehensive             kapsamlı
 contain                                                             içermek
 concur                                    concurrent                eş zamanlı
+deceive           deception               deceptive                 yanıltıcı
 devastate                                 devastating               yıkmak
                   distinction             distinctive
                   diversity               diverse                   çeşitlilik
+divide            division                  
 elect             election                elected                   seçmek, seçim
 enhance                                                             geliştirmek
 exemplify         example                                           örneklendirmek
@@ -2665,6 +2668,8 @@ impair                                                              bozmak
 persuade          persuasion              persuasive                ikna etmek
 protect           protection              protective
 require           requirement             required
+                  redundance              redundant                 gereksiz    
+serve             service                 served
                                           substantial-ly            epey-ce
 succeed           success                 successful                başarılı
                                           successive                ardışık
