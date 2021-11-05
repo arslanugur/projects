@@ -99,8 +99,8 @@ N --> no, he/she doesn't go on holiday every summer
 5 W 1 H		|   QUESTIONS 	|    SUBJECT	|      VERB	|     OBJECT	|
 ---------------------------------------------------------------------------------
 what		|   		|   		|    need	|
-which		|   do		|   I		|    see	|
-what kind	|		|		|    look	|
+which + NOUN	|   do		|   I		|    see	|
+what kind + NOUN|		|		|    look	|
 ----------------|   do		|   YOU		|    walk	|
 where		|		|		|    run	|
 ----------------|   does	|   HE		|    want	|
