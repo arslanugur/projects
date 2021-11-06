@@ -2643,9 +2643,11 @@ Zone	zon	BÖLGE
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 abound            abundance                                         bolluk
-                  absence                 absent                    yokluk
                   accuracy                accurate-ly               tam olarak
+                  absence                 absent                    yokluk
+present           presentation            present                   sunmak - sunum - hediye       
                   presence                present                   varlık
+represent         representation          representable            temsil etmek
                                           appropriate
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
