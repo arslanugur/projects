@@ -57,16 +57,16 @@ I should/can/will go  --> yardımcı fiil kullanımı
 
 
 ---> QUESTION WORDS
-what        what are you talking about?
-            what do you do (for work)?
-	    What foreign languages have you studied?
-	    What format should I use?
-            what colour are your eyes?
-what kind   what kind of music do you like? - I like Rock songs
-            what kind of cars do you want to drive? - I want to drive self-driving cars
-which       which one was your car? - the red one (of the cars) was my car (mine)
-            which one do you prefer?
-            which one do you want to try?
+what         what are you talking about?
+             what do you do (for work)?
+	     What foreign languages have you studied?
+	     What format should I use?
+             what colour are your eyes?
+what kind of what kind of music do you like? - I like Rock songs
+             what kind of cars do you want to drive? - I want to drive self-driving cars
+which        which one was your car? - the red one (of the cars) was my car (mine)
+             which one do you prefer?
+             which one do you want to try?
 	    -----------------------------------------------------------------------
 where       where do you live (in)? in New York
             where are you from?
