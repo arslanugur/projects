@@ -2645,9 +2645,9 @@ VERB              NOUN                    ADJECTIVE/ADVERB
 abound            abundance                                         bolluk
                   accuracy                accurate-ly               tam olarak
                   absence                 absent                    yokluk
-present           presentation            present                   sunmak - sunum - hediye       
+present           presentation            present-able              sunmak - sunum - hediye       
                   presence                present                   varlık
-represent         representation          representable            temsil etmek
+represent         representation          representative            temsil etmek
                                           appropriate
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
