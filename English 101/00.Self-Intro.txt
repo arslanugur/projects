@@ -19,8 +19,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I am ..
       My name is ..
       Can you spell your name?
-            A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay), J(cey), K(key), L(el), M(em)
-            N(en), O(o), P(pi), Q(kyu), R(ar), S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
+            A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
+            J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
+            S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
 
 3 --> LOCATION
       tell me about the place you live?
@@ -69,6 +70,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I am not working now, I am a student
                       - I don't work anymore, I am retired
                       - I worked for several/various jobs, now i am retired
+                      
+                      
       where do you work? - I work as a teacher at school
                          - I work as an engineer in a factory/company
                          - I work as an accountant in a hotel
@@ -104,7 +107,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I went to Turkish school in Saudi Arabia
       I am currently taking a course in ‘theorical subject’.
       I’m currently taking a course in maths.
-      I am currently taking a course on ‘practical subject’
+      I am currently taking a course on ‘practical subject’ 
+      
+      
       a course on jewellery/pottery making
       ... taking a ‘subject’ course --> I am taking a pottery course
 
