@@ -63,8 +63,7 @@ how		   |		        |		|    hear	|
 how many + NOUN	   |		        |		|    wear	|
 how much + NOUN	   |		        |		|    talk	|
 how often	   |		        |		|    study	|
-how long	   |		        |		|    go		|
-how old            |
+how long	   |		        |		|    go		|            |
 how fast           |
 how far            |
 how well           |
