@@ -63,6 +63,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I am a teacher
                       - I am an engineer
                       - I am a technician
+                      - she is a computer operator
                       - I am an architect, I draw buildings
                       - I don't work now, I am an unemployed
                       - I am not working now, I am a student
@@ -127,7 +128,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I want to be a dentist in the future
 
 7 --> FAMILY
-      How many brothers/sisters (siblings) do you have? --> I have a brother
+      I am from a family of four --> (dört kişilik bir ailedenim)
+      we are a family of four -->    (dört kişilik bir aileyiz)
+      how many brothers/sisters (siblings) do you have? --> I have a brother
                                                         --> I have two sisters
       Tell me about your family? --> My father is ...
                                  --> My mother is ...
@@ -137,8 +140,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       How old is your brother/sister? --> My brother is 'number' years old
                                       --> My sister is 'number' years old
       How many family member...  ---> I am from a family of ‘number’
-      I am from a family of four
-      We are a family of four
+
       I am one of ‘number’ siblings
       I am one of four siblings. / I am one of four
       I am an only child
