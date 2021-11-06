@@ -2045,11 +2045,11 @@ Seem	siim	GÖRÜNMEK
 Seize	siiz	KAPMAK, HIZLA BİR ŞEYİ ELE GEÇİRMEK				
 Seldom	seldım	ARA SIRA, SIK DEĞİL				
 Select	sılekt	SEÇMEK				
-Selection	sılekşn	SEÇİM				
+Selection	sılekşn	SEÇİM			
 Selfish	selfiş	BENCİL				
 Sell	sell	SATMAK				
 Semi	semi	YARI				
-Send	send	GÖNDERMEK				
+Send	send	GÖNDERMEk			
 Sense	sens	DUYU				
 Senseless	senslıs	1.APTALCA 2.BİLİNÇSİZ				
 Sensible	sensibıl	AKILLI				
@@ -2660,10 +2660,11 @@ concur                                    concurrent                eş zamanlı
 deceive           deception               deceptive                 yanıltıcı
 decide on         decision                decided                   karar vermek
 demand            demand                  demanding                 
-devastate                                 devastating               yıkmak
+devastate         devastation             devastating               yıkmak-yıkım
                   distinction             distinctive
                   diversity               diverse                   çeşitlilik
 divide            division                  
+edit              edition                 edited                    düzenlemek
 elect             election                elected                   seçmek, seçim
 enhance                                                             geliştirmek
 exemplify         example                                           örneklendirmek
@@ -2671,27 +2672,52 @@ examinate         examination                                       inceleme yap
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
 feel              feeling                 felt                      hissetmek
-                  finance                 financial                 finans
+financialize      finance                 financial                 finanse etmek
+include           inclusion               all-inclusive             dahil etmek
+exclude           exclusion               exclusive                 dışarda tutmak, özel kılmak
+improve           improvement             improved                  geliştirmek
 impair                                                              bozmak
                                           incentive                 teşvik
 invest            investment              invested                  yatırım yapmak
 invite            invitation              invited                   davet etmek
                   intimacy                intimate        
 marry             marriage                married                   evlenmek
+mean              meaning                 meaningful
 pay               payment                 paid                      ödemek
                   passion                 passionate
+permit            permission              permissive                izin vermek
 persuade          persuasion              persuasive                ikna etmek
+refer             referrence
+prefer            preferrence
+prepare           preparation             prepared                  hazırlamak
 protect           protection              protective
+punish            punishment              punished                  cezalandırmak
+regulate          regulation              (ir)regular               düzenlemek
 require           requirement             required
                   redundance              redundant                 gereksiz
 separate          separation              separated                 
-serve             service                 served
+serve             service                 servant
+sign              signature
+                  signal
+resign            resign                  resigned                  istifa etmek
+respond           response                                          cevap vermek
+                  responsibility          responsible               sorumluluk
+                  silence                 silent
+solve             solution                solved                    çözmek (sorun, problem)
                                           substantial-ly            epey-ce
 succeed           success                 successful                başarılı
-                                          successive                ardışık
+                  succession              successive                ard arda devamlı -- ardışık
+think             thought                 thoughtful                düşünmek
+use               usage                   useful                    kullanmak
+                  vacancy                 vacant                    boş yer, oda
 vary              variety                 varied                    çeşitlendirmek
 validate          validation              valid
+evaluate          value                   valuable
+                  vision                  visible
+visit             visit / visa            visited
                   vitality                vital
+                  wisdom                  wise
+                  wood                    wooden
                   youth                   young
             
 
