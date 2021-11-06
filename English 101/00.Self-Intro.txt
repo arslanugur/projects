@@ -363,6 +363,7 @@ do you have the same hobby as any of your friends?
 do you want to change your jobs?
 how do people think about you?
 how often do you have an English lesson?
+      I have an English lesson twice a week
 what time do you wake up?
       I wake up at six
 what time do you get up?
@@ -371,6 +372,7 @@ what do you usually do at noon?
       I usually go out to have lunch at noon
 do you have time to see your friends and family?
 what time do you usually have dinner?
+      I usually have dinner at seven
 who do you spend most of your day with?
 which city do you live?
       I live in Ankara
@@ -378,10 +380,14 @@ where do you live?
       I live in İstanbul
 where do you usually go at the weekend?
 do you like your city?
+      I like my city
 why do you like your city?
+      Because, it's a historical and cultural city
 would you like to live in a city or a town?
 what do you like most about your town/city?
+      
 would you like to move to another city/town?
+       Yes, i would like to move to another city
 what would you like to change in your city/town?
 how do you usually go/walk/get around?
 do you spend a lot of time at work?
@@ -412,7 +418,11 @@ are you good at English?
 what is your job?
 what films do you like?
 how do you get to places?
+         I get to places by car
+                         by private jet
+                         by foot
 where do you go on holiday?
+         I go on holiday to Antalya
 do you play sports?
 how often do you play sports?
 do you often go shopping?
