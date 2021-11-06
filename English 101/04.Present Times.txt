@@ -64,6 +64,10 @@ how many + NOUN	   |		        |		|    wear	|
 how much + NOUN	   |		        |		|    talk	|
 how often	   |		        |		|    study	|
 how long	   |		        |		|    go		|
+how old            |
+how fast           |
+how far            |
+how well           |
 
 
 
