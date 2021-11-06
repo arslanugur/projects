@@ -24,7 +24,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 3 --> LOCATION
       tell me about the place you live?
-            I live in İstnbul
+            I live in İstanbul
             I stay in Kadıköy
             Being with my friends in the same neighborhood makes me happy
             Our house is on third floor
@@ -32,34 +32,34 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             
       tell me about your town?
             
-      Where are you from? --> I’m from Turkey
+      where are you from? --> I’m from Turkey
                           --> I live in Aksaray from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
       
-      What is your nationality --> I’m turkish
-      Where do you come from? --> I come from ...
-      Where did you come from? --> I came from ..
-      Where is your address? --> Street, neighborhood
+      what is your nationality --> I’m turkish
+      where do you come from? --> I come from ...
+      where did you come from? --> I came from ..
+      where is your address? --> Street, neighborhood
                My address is behind the Saatçioğlu Mosque
                           .. near Hazım Kulak Secondary School
                           .. next to swimming pool in Büyük Bölcek Neighborhood
-      Where were you born?  --> I was born in Antalya
+      where were you born?  --> I was born in Antalya
                             --> I was born (in) and raised in Antalya
-      When were you born? --> I was born in 1995
+      when were you born? --> I was born in 1995
             
-      Where did you grow up?  --> I grew up in…
+      where did you grow up?  --> I grew up in…
                               --> I grew up in LA, now live in NY
-      How many years did you live in there? --> I lived in there for two years
+      how many years did you live in there? --> I lived in there for two years
                                             --> I lived in Ankara for seven years 
-      Where have you been living for seven years? --> I have been living in Berlin for seven years
-      How many years have you been living in Berlin --> I have been living in Berlin for three years
+      where have you been living for seven years? --> I have been living in Berlin for seven years
+      how many years have you been living in Berlin --> I have been living in Berlin for three years
                                                     --> I have been living in Berlin since my birth
                                                     --> I have been living in Berlin since 1995
-      Where have you spent the past few years? --> I have spent the past few years in Paris
+      where have you spent the past few years? --> I have spent the past few years in Paris
                                                --> I have spent two years in İstanbul
                                                       
 4 --> POSITION and COMPANY
-      What's your job/occupation/profession?
+      what's your job/occupation/profession?
                       - I am a teacher
                       - I am an engineer
                       - I am a technician
@@ -68,13 +68,13 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                       - I am not working now, I am a student
                       - I don't work anymore, I am retired
                       - I worked for several/various jobs, now i am retired
-      Where do you work? - I work as a teacher at school
+      where do you work? - I work as a teacher at school
                          - I work as an engineer in a factory/company
                          - I work as an accountant in a hotel
                          - I work as a deputy manager
                          - I work as a product manager
                          - I work as a quality controller in a factory
-      Where did you work before?
+      where did you work before?
                          - I worked in a hospital before
                          - I worked in a bank before
                          - I didn't work before, I'm still a student/intern
@@ -86,9 +86,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       
 
 5 --> QUALIFICATIONS
-      What do you study? ---> I study Civil Engineering
-      What did you study? ---> I studied Electrical Engineering
-      How many years are you student/teacher/engineer/economist/builder/waiter..?
+      what do you study? ---> I study Civil Engineering
+      what did you study? ---> I studied Electrical Engineering
+      how many years are you student/teacher/engineer/economist/builder/waiter..?
             - I am student for sixteen years
             - I am teacher for six months
             - I am engineer for eight years
@@ -104,7 +104,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I am currently taking a course in ‘theorical subject’.
       I’m currently taking a course in maths.
       I am currently taking a course on ‘practical subject’
-      A course on jewellery/pottery making
+      a course on jewellery/pottery making
       ... taking a ‘subject’ course --> I am taking a pottery course
 
       I have completed a ‘time’ course in/on ‘subject’.
@@ -151,7 +151,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       he is my eldest son - o benim en büyük oğlum
       this is Chris my second child - bu Chris, benim ikinci çocuğum
       he is our third child - o bizim üçüncü oğlumuz
-      she is his fourth wife/husband - o, onun dördüncü karısı/kocası
+      she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
 
 
       Do you live with your parents?  --> Yes, I live with my parents / No, I don't live with my parents, I live alone. 
