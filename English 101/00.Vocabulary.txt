@@ -2646,6 +2646,8 @@ Zone	zon	BÖLGE
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 abound            abundance                                         bolluk
+act               action                  active
+react             reaction                reactive / proactive
                   accuracy                accurate-ly               tam olarak
                   absence                 absent                    yokluk
 present           presentation            present-able              sunmak - sunum - hediye       
