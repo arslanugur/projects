@@ -2653,7 +2653,7 @@ react             reaction                reactive / proactive
 present           presentation            present-able              sunmak - sunum - hediye       
                   presence                present                   varlık
 represent         representation          representative            temsil etmek
-                                          appropriate
+                                          appropriate/proper        uygun
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
                                           (in)evitable              (-)kaçınılabilir
@@ -2674,6 +2674,8 @@ divide            division
 edit              edition                 edited                    düzenlemek
 elect             election                elected                   seçmek, seçim
 enhance                                                             geliştirmek
+engage            engagement              engaged                   nişanlamak
+entertain         entertainment           entertaining              ağırlamak, eğlence
 exemplify         example                                           örneklendirmek
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
@@ -2717,7 +2719,7 @@ succeed           success                 successful                başarılı
 think             thought                 thoughtful                düşünmek
 use               usage                   useful                    kullanmak
                   vacancy                 vacant                    boş yer, oda
-vary              variety                 varied                    çeşitlendirmek
+vary              variety                 various                   çeşitlendirmek
 validate          validation              valid
 evaluate          value                   valuable
                   vision                  visible
