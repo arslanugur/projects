@@ -3,6 +3,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Hello
       Good Morning, Good Afternoon, Good Evening
       How is/was your day (going)? --> (my day is/was) good
+                                   --> my day was so tiring
                                    --> I studied all day long
                                    --> I worked all day long
                                            --> did you rest enough?
@@ -134,6 +135,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       I want to be a dentist in the future
 
 7 --> FAMILY
+      how many people in your family? - there are five people in my family
       I am from a family of four --> (dört kişilik bir ailedenim)
       we are a family of four -->    (dört kişilik bir aileyiz)
       how many brothers/sisters (siblings) do you have? --> I have a brother
