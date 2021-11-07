@@ -38,8 +38,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                           --> I’m originally from Edinburgh but I’m now based in London  
       
       what is your nationality --> I’m turkish
-      where do you come from? --> I come from ...
-      where did you come from? --> I came from ..
+      where do you come from? --> I come from Turkey/Switzerland/Sweden/Russia/Greece/Japan/Mexico/Brazil
+      where did you come from? --> I came from Turkey/Germany/England/Poland/France/China/Spain/Portugal
       where is your address? --> Street, neighborhood
                My address is behind the Saatçioğlu Mosque
                           .. near Hazım Kulak Secondary School
@@ -53,9 +53,10 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       how many years did you live in there? --> I lived in there for two years
                                             --> I lived in Ankara for seven years 
       where have you been living for seven years? --> I have been living in Berlin for seven years
-      how many years have you been living in Berlin --> I have been living in Berlin for three years
-                                                    --> I have been living in Berlin since my birth
-                                                    --> I have been living in Berlin since 1995
+      how many years have you been living in Berlin 
+                 --> I have been living in Berlin for twenty years
+                 --> I have been living in Berlin since my birth
+                 --> I have been living in Berlin since 1995
       where have you spent the past few years? --> I have spent the past few years in Paris
                                                --> I have spent two years in İstanbul
                                                       
