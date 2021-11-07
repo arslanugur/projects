@@ -10,6 +10,17 @@
              - ok see you later / tomorrow
                see you later / tomorrow
 
+             # would you like to go the cinema on Saturday?
+               no, unfortunately, I can't, I will be busy on Saturday
+             - why? what will you do on Saturday?
+               I promised for my other friend
+             - what about Sunday?
+               yes, probably we can meet, but I don’t have much time
+             - okay, we can meet though 
+               okay, see you then
+             - see you))
+
+
              # What is a good place to buy foods?
              # What is a good place to buy mobile phone?
              # What is a good place to buy clothes?
