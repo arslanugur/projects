@@ -1,4 +1,5 @@
 ---> We are friends / I am your friends
+             First Example:
              # would you like go to the cinema on Saturday?
                ok, sounds good. i can come with you on Saturday 
              - really!? 
@@ -10,6 +11,7 @@
              - ok see you later / tomorrow
                see you later / tomorrow
 
+             Second Example:
              # would you like to go the cinema on Saturday?
                no, unfortunately, I can't, I will be busy on Saturday
              - why? what will you do on Saturday?
@@ -20,8 +22,20 @@
                okay, see you then
              - see you))
 
-
-             # What is a good place to buy foods?
+             Third Example:
+             # What is a good place to buy foods? (shopping mall or restaurant)
+               yes, i know a good place, there is a shopping mall in the centre
+             - where is the mall in the centre
+               the mall is near the park, and next to the bank
+             - how can i get there (the mall) easily/fast?
+               you should go straight, turn right from the third shop after 100 meters, and then you will see there on your left/right
+             - what time does the mall open?
+               the mall is open between eight am and ten pm
+             - okay, thank you
+               you are welcome
+               
+               
+               
              # What is a good place to buy mobile phone?
              # What is a good place to buy clothes?
              # Oh, no, I lost my keys.
