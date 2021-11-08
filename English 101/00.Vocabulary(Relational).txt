@@ -3,16 +3,20 @@ RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 ---> A
+be able to        ability                 -able                     beceri, yetenek, -ebilir
 abound            abundance               abundant                  bolluk
 access            access                  accessible                erişmek, erişim
 accept            acceptance              acceptable                kabul etmek, kabullenmek
 agree             agreement               agreeable                 kabul etmek, anlaşmak, hemfikir olmak, onaylamak
                   accordance              according to              uygunluk -- -e göre --> according to me - bana göre
+admit             admission               admitted                  kabul etmek, içeri almak (okul vs)
+refuse            refusal                                           reddetmek, kabul etmemek, izin vermemek, geri çevirmek
 act               action                  active                    davranmak, hareket etmek, rol yapmak, oynamak 
 react             reaction                reactive / proactive      tepki vermek
 interact          interaction             interactive               etkileşmek, birbirini etkilemek
                   accuracy                accurate-ly               tam olarak
                   absence                 absent                    yokluk
+arrange           arrangement                                       düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak                   
 attain            attainment                                        ulaşmak, elde etmek, erişmek
 contain           containment                                       içermek, kapsamak
 detain            detainment                                        gözaltına almak, tutuklamak, alıkoymak
@@ -55,6 +59,12 @@ convince                                  convincing                ikna etmek
 cure              curation                curative                  tedavi etmek -- tedavi edici
 conclude          conclusion              conclusive                sonuçlandırmak
 compare           comparision             comparative               kıyaslamak
+continue          continuity/continuum    continuous                devam etmek -- süreklilik
+count             counting                (un)countable             saymak -- sayım -- sayılabilir
+                  discount                                          indirim
+account           account, accounting     accountant                hesaplamak, açıklamak, saymak, açıklamasını yapmak
+connect           connection              connector/connected       başlantı kurmak, bağlanmak
+
 
 ---> D
 define            definition              (in)definite              tanımlamak
@@ -62,6 +72,7 @@ deceive           deception               deceptive                 aldatmak, ya
 receive           reception/receipt       receiver                  almak, kabul etmek -- reçete -- alıcı
 perceive          perception              perceptive                algımalmak
 decide on         decision                decided                   karar vermek
+deduce            deduction                                         anlamak, sonuç çıkarmak
 demand            demand                  demanding
 construct         construction            constructive              inşa etmek -- inşaat  
 destruct          destruction             destructive               yıkmak      
@@ -83,6 +94,13 @@ exemplify         example                 exam                      örneklendir
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
+                  expense                 expensive                 gider, harcama, masraf -- pahalı
+                  expenditure                                       masraf, harcama
+press             pressure                pressed                   baskı yapmak
+express           expression                                        ifade etmek, açıklamak           
+depress           depression              depressed                 bastırmak, moralini bozmak
+suppress          suppression                                       bastırmak, baskılamak, baskı altına almak, zaptetmek
+
 
 ---> F
 feel              feeling                 felt                      hissetmek
@@ -99,7 +117,8 @@ perform           performation                                      gerçekleşt
                   performance                                       performans, verim, gösteri, oyun, verimlilik 
 force             force                                             zorlamak
 enforce           force                   forceful                  kuvvetlendirmek -- kuvvet
-
+                  frequency               frequent                  sıklık
+                  fluency                 fluent                    akıcılık
 
 ---> G
 graduate          grade                   gradual-ly                mezun olmak -- derece,sınıf -- kademeli
@@ -127,39 +146,58 @@ know              knowledge               (un)known                 bilmek
 ---> L
 live              life                    alive                     yaşamak - yaşam - hayatta
 survive           survival                survivor                  hayatta kalmak
+lengthen          length                  long, along               uzatmak
 
 ---> M
 maintain          maintenance                                       bakım, sürdürme
 mandate                                   mandatory                 zorlamak -- zorunlu
 marry             marriage                married                   evlenmek
 mean              meaning                 meaningful
+move              movement/motion/movie                             taşımak --hareket--film
+remove            removal                 removed                   kaldırmak
+
 
 ---> N
 neglect                                   negligible                önemsememek -- önemsiz
+narrate           narration               narrative                 hikaye anlatmak 
+                  necessity               necessary                 gereklilik
 
 ---> P
+pass              passage                 past / passive            geçmek -- geçiş -- geçmiş
 pay               payment                 paid                      ödemek
                   passion                 passionate
 peril                                     perilous                  tehlikeye atmak
 permit            permission              permissive                izin vermek
+oblige                                                              zorunda bırakmak, mecbur etmek, minnettar bırakmak
+obligate          obligation              obliged                   zorlamak, mecbur etmek, zorunda bırakmak -- yükümlülük
+prohibit          prohibition                                       engellemek, yasaklamak
+                  perfection              perfect                   kusursuzluk, mükemmeliyetçilik
 persuade          persuasion              persuasive                ikna etmek
 pervade           pervasion               pervasive                 yayılmak, her yere yayılan
-refer             referrence
-prefer            preferrence
-prepare           preparation             prepared                  hazırlamak
+refer             referrence/referral                               başvurmak, değinmek, tavsiye etmek
+prefer            preferrence                                       tercih etmek
+prepare           preparation             preparatory/prepared      hazırlamak
                   priority                prior                     öncelik -- öncelikli
 protect           protection              protective
 punish            punishment              punished                  cezalandırmak
+predict           prediction                                        tahmin etmek, öngörmek
+                  possibility             (im)possible              olasılık, ihtimal -- mümkün
+                  probability             probable-ly               olasılık, ihtimal -- muhtemel           
+possess           possession              possessive                sahip olmak
+progress          progression             progressive               ilerlemek, gelişmek, devam etmek
+
 
 ---> R
 regulate          regulation              (ir)regular               düzenlemek
 require           requirement             required
                   redundance              redundant                 gereksiz
 renew                                     renewable                 yenilemek
+repeat            repetition              repeated                  tekrarlamak 
 respond           response                                          cevap vermek
                   responsibility          responsible               sorumluluk
 rate              ration                  rational                  oranlamak -- oran -- rasyonel/mantıklı
-underrate != overrate                                               aşağı oranlamak != aşırı oranlamak 
+underrate != overrate                                               aşağı oranlamak != aşırı oranlamak
+                  reason                  reasonable                mantık, mantıklı
 
 ---> S
 separate          separation              separated                 ayrılmak
@@ -173,11 +211,15 @@ sign              signature                                         imzalamak --
 resign            resign                  resigned                  istifa etmek
 signify           significance            significant               belirtmek, göstermek -- önem -- önemli, belirgin
                   silence                 silent                    sesizlik
+simplify          simplicity              simple                    basitleştirmek
 sedate            sedation                sedative                  yatıştırmak                  
                   similarity              similar to                benzerlik -- benzer
 solve             solution                solved                    çözmek (sorun, problem)
                                           substantial-ly            epey-ce
-succeed           success                 successful                başarılı
+speak             speech                  spoken                    konuşmak
+speculate         speculation                                       spekülasyon yapmak, tahminde bulunmak
+substitute        substitution                                      yerine geçmek, yerini almak, yerine kullanmak
+succeed           success                 successful                başarmak
                   succession              successive                ard arda devamlı -- ardışık
 suffice                                   sufficient                yetmek
 suspect           suspicion               suspicious                şüphelenmek - şüphe - şüpheli
@@ -201,6 +243,7 @@ evaluate          value                   valuable
                   vision                  visible
 visit             visit / visa            visited
                   vitality                vital
+view              view, review, overview                            görüntüleme, inceleme, genel bakış
 vote              vote                                              oylamak, oy vermek, oy kullanmak
 devote            devotion                devotional                adamak, ayırmak, tahsis etmek -- bağlılık, sadakat -- dindar
                   loyalty                 loyal                     sadakat, bağlılık
