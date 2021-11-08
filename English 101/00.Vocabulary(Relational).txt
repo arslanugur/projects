@@ -39,7 +39,9 @@ apply             application             applied                   uygulamak
 
 ---> B
 benefit                                   beneficial                faydalanmak
-
+                  business                busy                      iş, meşguliyet
+                  
+                  
 ---> C
 collaborate       collaboration                                     iş birliği
 comprehend        comprehension           comprehensive             kapsamlı
@@ -64,15 +66,22 @@ count             counting                (un)countable             saymak -- sa
                   discount                                          indirim
 account           account, accounting     accountant                hesaplamak, açıklamak, saymak, açıklamasını yapmak
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
+                  condition               conditional               şart, koşul          
+concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
 
 
 ---> D
-define            definition              (in)definite              tanımlamak
+define            definition              (in)definite-ly           tanımlamak, belirlemek, belirtmek
+describe          description                                       tanımlamak, tarif etmek, tasvir etmek       
 deceive           deception               deceptive                 aldatmak, yanıltmak -- yanıltıcı
 receive           reception/receipt       receiver                  almak, kabul etmek -- reçete -- alıcı
 perceive          perception              perceptive                algımalmak
 decide on         decision                decided                   karar vermek
 deduce            deduction                                         anlamak, sonuç çıkarmak
+produce           production / product    productive                üretmek, ortaya koymak -- ürün, sonuç
+reduce            reduction                                         azaltmak, sadeleştirmek, küçültmek, indirgemek
+seduce            seduction                                         baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek
+induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak
 demand            demand                  demanding
 construct         construction            constructive              inşa etmek -- inşaat  
 destruct          destruction             destructive               yıkmak      
@@ -84,9 +93,11 @@ determine         determination           determined                belirlemek, 
                   diversity               diverse                   çeşitlilik
 divide            division                divisible                 bölünmek, bölmek, ayrılmak, bölüştürmek
 
+
 ---> E
 edit              edition                 edited                    düzenlemek
-elect             election                elected                   seçmek, seçim
+elect             election                elected                   seçmek -- seçim -- seçilmiş
+emphasize         emphasis                                          vurgulamak, üzerinde durmak
 enhance           enhancement                                       geliştirmek
 engage            engagement              engaged                   nişanlamak
 entertain         entertainment           entertaining              ağırlamak, eğlence
@@ -139,6 +150,13 @@ invite            invitation              invited                   davet etmek
                   intimacy                intimate                  samimiyet
 increase          increase/increment-ation                          arttırmak -- artış
 decrease          decrease                                          azaltmak -- azalış    
+infer             inferrence                                        sonuç çıkarmak, anlam çıkarmak, çıkarım yapmak
+refer             referrence/referral                               başvurmak, değinmek, tavsiye etmek
+prefer            preferrence                                       tercih etmek
+defer             deferment/deference                               ertelemek, uymak, tecil etmek, ağırdan almak, saygı göstermek
+confer            conference                                        sunmak, görüşmek, danışmak
+                  conferment                                        ödüllendirme, verme, bahşetme
+suffer            sufferance                                        acısını çekmek, zarar görmek, cezasını çekmek -- katlanma, müsamaha, dayanma
 
 ---> K
 know              knowledge               (un)known                 bilmek
@@ -161,6 +179,8 @@ remove            removal                 removed                   kaldırmak
 neglect                                   negligible                önemsememek -- önemsiz
 narrate           narration               narrative                 hikaye anlatmak 
                   necessity               necessary                 gereklilik
+---> 
+occupy            occupation              occupied                  işgal etmek, tutmak, oturmak, kaplamak -- işgal, meslek, iş, uğraş
 
 ---> P
 pass              passage                 past / passive            geçmek -- geçiş -- geçmiş
@@ -174,8 +194,6 @@ prohibit          prohibition                                       engellemek, 
                   perfection              perfect                   kusursuzluk, mükemmeliyetçilik
 persuade          persuasion              persuasive                ikna etmek
 pervade           pervasion               pervasive                 yayılmak, her yere yayılan
-refer             referrence/referral                               başvurmak, değinmek, tavsiye etmek
-prefer            preferrence                                       tercih etmek
 prepare           preparation             preparatory/prepared      hazırlamak
                   priority                prior                     öncelik -- öncelikli
 protect           protection              protective
@@ -185,6 +203,11 @@ predict           prediction                                        tahmin etmek
                   probability             probable-ly               olasılık, ihtimal -- muhtemel           
 possess           possession              possessive                sahip olmak
 progress          progression             progressive               ilerlemek, gelişmek, devam etmek
+promise           promise                 promised                  söz vermek
+compromise                                                          uzlaşmak, uzlaştırmak, ara bulmak
+                  publicity               public                    reklam, tanıtım, aleniyet -- kamu, halk, seyirci
+publish           publishment                                       yayımlamak, yayınlamak, yaymak
+                  publication                                       yayınlama
 
 
 ---> R
@@ -198,6 +221,8 @@ respond           response                                          cevap vermek
 rate              ration                  rational                  oranlamak -- oran -- rasyonel/mantıklı
 underrate != overrate                                               aşağı oranlamak != aşırı oranlamak
                   reason                  reasonable                mantık, mantıklı
+rehearse          rehearsal                                         prova yapmak, tekrarlamak
+
 
 ---> S
 separate          separation              separated                 ayrılmak
@@ -227,6 +252,8 @@ import            importance              important                 ithal etmek 
 export            export                                            ihraç etmek
 report            report                                            raporlamak
 support           support                 supportive                desteklemek - destekleyici
+straighten                                straight                  düzeltmek, yoluna koymak, doğrusunu açıklamak
+study             study                   student                   öğrenim görmek, okumak
 
 ---> T
 think             thought                 thoughtful                düşünmek
