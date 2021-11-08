@@ -2645,8 +2645,9 @@ Zone	zon	BÖLGE
 
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
-abound            abundance                                         bolluk
-access            access                  accessible                erişmek, erişim
+abound            abundance               abundant                 bolluk
+access            access                  accessible               erişmek, erişim
+                  accordance              according to             uygunluk -- -e göre --> according to me - bana göre
 act               action                  active
 react             reaction                reactive / proactive
                   accuracy                accurate-ly               tam olarak
@@ -2661,26 +2662,33 @@ affect            effect                  effective                 etkilemek
 acquire           acquisition                                       edinmek
 achieve           achievement             achieved                  başarmak
 apply             application             applied                   uygulamak
+                  availability            available                 mevcut olma, hazır bulunma, müsait olma
+
+B
 benefit                                   beneficial                faydalanmak
 collaborate       collaboration                                     iş birliği
 comprehend        comprehension           comprehensive             kapsamlı
 consider          consideration           considerable              iyice düşünmek -- önemli 
-contain                                                             içermek
-concur                                    concurrent                eş zamanlı
+consist           consistence             consistent                oluşmak, meydana gelmek
+contain           containment                                       içermek
+contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
+concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
 convince                                  convincing                ikna etmek
+                  convenience             convenient                kolaylık, kullanışlılık
 cure              curation                curative                  tedavi etmek -- tedavi edici
 deceive           deception               deceptive                 yanıltıcı
 decide on         decision                decided                   karar vermek
 demand            demand                  demanding                 
 destruct          destruction             destructive               tıkmak      
 deter                                     deterrent                 caydırmak
+determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak
 devastate         devastation             devastating               yıkmak-yıkım
                   distinction             distinctive
                   diversity               diverse                   çeşitlilik
 divide            division                  
 edit              edition                 edited                    düzenlemek
 elect             election                elected                   seçmek, seçim
-enhance                                                             geliştirmek
+enhance           enhancement                                       geliştirmek
 engage            engagement              engaged                   nişanlamak
 entertain         entertainment           entertaining              ağırlamak, eğlence
 exemplify         example                                           örneklendirmek
