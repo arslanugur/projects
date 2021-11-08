@@ -38,14 +38,15 @@ apply             application             applied                   uygulamak
                   availability            available                 mevcut olma, hazır bulunma, müsait olma
 
 ---> B
-benefit                                   beneficial                faydalanmak
+beautify          beauty                  beautiful                 güzelleştirmek
+benefit           beneficence             beneficial                faydalanmak -- yarar, hayır, fayda
                   business                busy                      iş, meşguliyet
                   
                   
 ---> C
 collaborate       collaboration                                     iş birliği
 comprehend        comprehension           comprehensive             kapsamlı
-reprehend                                                           azarlamak
+reprehend         reprehension                                      azarlamak, kınamak
 consider          consideration           considerable              iyice düşünmek -- önemli
 concern           concernment             concerning with           ilgilendirmek, kaygılandırmak, endişe-lendirmek
 consist           consistence             consistent                oluşmak, meydana gelmek
@@ -63,8 +64,8 @@ conclude          conclusion              conclusive                sonuçlandı
 compare           comparision             comparative               kıyaslamak
 continue          continuity/continuum    continuous                devam etmek -- süreklilik
 count             counting                (un)countable             saymak -- sayım -- sayılabilir
-                  discount                                          indirim
-account           account, accounting     accountant                hesaplamak, açıklamak, saymak, açıklamasını yapmak
+discount          discount                                          saymamak, indirim
+account           account, accounting     accountant                hesaplamak, muhasebesini yapmak, açıklamasını yapmak
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
@@ -133,9 +134,16 @@ enforce           force                   forceful                  kuvvetlendir
 
 ---> G
 graduate          grade                   gradual-ly                mezun olmak -- derece,sınıf -- kademeli
+                  generity                generous                  cömertlik
+generate          generation                                        oluşturmak, meydana getirmek, var etmek -- nesil, jenerasyon
+                  gene                    genetic                   gen -- genetik
 
 ---> H
 hesitate          hesitation              hesistant                 tereddüt etmek - tereddüt-lü
+heal              health                  healthy                   iyileşmek, iyileştirmek, düzelmek, tatlıya bağlamak
+heat              heat                    hot                       ısıtmak -- ısı
+                  warmness/warmth         warm                      sıcaklık -- sıcak
+
 
 ---> I
 include           inclusion               all-inclusive             dahil etmek
@@ -173,7 +181,7 @@ marry             marriage                married                   evlenmek
 mean              meaning                 meaningful
 move              movement/motion/movie                             taşımak --hareket--film
 remove            removal                 removed                   kaldırmak
-
+                  mystery                 mysterious                gizem
 
 ---> N
 neglect                                   negligible                önemsememek -- önemsiz
@@ -208,7 +216,7 @@ compromise                                                          uzlaşmak, u
                   publicity               public                    reklam, tanıtım, aleniyet -- kamu, halk, seyirci
 publish           publishment                                       yayımlamak, yayınlamak, yaymak
                   publication                                       yayınlama
-
+prevent
 
 ---> R
 regulate          regulation              (ir)regular               düzenlemek
@@ -222,6 +230,10 @@ rate              ration                  rational                  oranlamak --
 underrate != overrate                                               aşağı oranlamak != aşırı oranlamak
                   reason                  reasonable                mantık, mantıklı
 rehearse          rehearsal                                         prova yapmak, tekrarlamak
+
+reveal            revealing                                         ortaya çıkartmak, gözler önüne sermek ifşa etmek
+regard            regard                  be regarded as            ilgili olmak, bakmak, saymak, önem vermek
+
 
 
 ---> S
@@ -265,11 +277,11 @@ utilise           utilisation                                       kullanmak
 
 ---> V
 vary              variety                 various                   çeşitlendirmek
-validate          validation              valid
-evaluate          value                   valuable
-                  vision                  visible
-visit             visit / visa            visited
-                  vitality                vital
+validate          validation              valid                     
+evaluate          value                   invaluable                değerlendirmek
+                  vision                  visible                   görünürlük
+visit             visit / visa            visited                   ziyaret etmek
+                  vitality                vital                     hayatilik
 view              view, review, overview                            görüntüleme, inceleme, genel bakış
 vote              vote                                              oylamak, oy vermek, oy kullanmak
 devote            devotion                devotional                adamak, ayırmak, tahsis etmek -- bağlılık, sadakat -- dindar
@@ -277,20 +289,19 @@ devote            devotion                devotional                adamak, ayı
                   faith                   faithful                  inanç, inançlı
 
 ---> W
-                  wisdom                  wise
-                  wood                    wooden
+                  wisdom                  wise                      bilgelik
+                  wood                    wooden                    odun
+wonder            wonder                  wonderful                 merak etmek
+
 ---> Y
                   youth                   young
             
 
----> Sonrasında düzenlenecek olanlar
+---> extras
 appreciating - takdir eden
-prevent
-reveal
-regard
 disproportionate - orantısız
 irreversible - tersine çevrilemez
-inevitable
+
 
 
 
