@@ -8,9 +8,9 @@ start           başlamak
 continue        devam etmek
 consider        düşünmek
 complete        tamamlamak
-finish	         bitirmek
+finish          bitirmek
 contemplate
-deny	           reddetmek
+deny            reddetmek
 delay
 postpone        ertelemek
 detest
@@ -18,20 +18,20 @@ discuss
 dislike
 escape          kaçmak, kurtulmak, firar etmek
 enjoy
-excuse* 
-finish
-involve	        kapsamak
-imagine	        hayal etmek
-keep	           tutmak, korumak, muhafaza etmek
-look forward to	dört gözle beklemek, iple çekmek
-lose	           kaybetmek
+excuse*         
+finish          bitirmek
+involve         kapsamak
+imagine         hayal etmek
+keep            tutmak, korumak, muhafaza etmek
+look forward to dört gözle beklemek, iple çekmek
+lose            kaybetmek
 mean
-mind	           kulak vermek, kafaya takmak
+mind            kulak vermek, kafaya takmak
 miss
-mention	        bahsetmek, ima etmek
+mention         bahsetmek, ima etmek
 practise 
-risk	           riske atmak
-report	         bildirmek, rapor etmek
+risk            riske atmak
+report          bildirmek, rapor etmek
 recollect (remember)
 recommend
 suggest         önermek
@@ -41,8 +41,8 @@ suggest
 stop            durmak, bırakmak
 suffer          katlanmak
 spend           harcamak
-try	            denemek, çabalamak
-understand*	    anlamak
+try             denemek, çabalamak
+understand*     anlamak
 can't help  
 can't stand  
 quit
