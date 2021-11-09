@@ -12,6 +12,7 @@ Conjunction   --> Joins clauses or sentences	        but, and, while, when
 Interjection  --> Short Exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
 
 
+
 ---> SENTENCE STRUCTURES
 S + V	        	The visitors have arrived. 
                 	The old man died.
@@ -245,6 +246,22 @@ I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll hav
 ---> OPTIMIZATION
      Saying "have a nice day" to someone sounds friendly
      Saying "enjoy your next twenty-four hours" to someone sounds threatening
+
+
+	
+		Subject			    TO BE		 Verb		Object           |	     ADVERBS
+		(noun/pronoun)		---------------				(noun/pronoun)	 |	    
+		Subject Pronouns	Present	   Past				Object Pronouns	 | Manner   |   Place  | Time
+-------------------------------------------------------------------------------------------------|------------------------
+		I			am	   was				me		 | silently    at home 	 right now
+-------------------------------------------------------------------------------------------------| 
+		he			is	   was				him		 |
+SINGULAR	she			is	   was				her		 |
+		it			is	   was				it		 |
+-------------------------------------------------------------------------------------------------|
+		we			are	   were				us		 |
+PLURAL		you			are	   were				you		 |
+		they			are	   were				them		 |
 
 
 
