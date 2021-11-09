@@ -17,7 +17,8 @@ S + V	        	The visitors have arrived.
                 	The old man died.
 S + V + O		The kids’ve eaten all the chocolate jar.
                 	The shop sells computers.
-S + V + ADJECTIVE	This jacket is nice.					to be, to become fiilleri bu yapı için önemli
+S + V + ADJECTIVE	Jack is tall
+			This jacket is nice.					to be, to become fiilleri bu yapı için önemli
                 	The song became a big hit.
 			I am very hungry, but the fridge is empty
 S + V + ADVERB		The match is tomorrow.
