@@ -8,9 +8,9 @@ start           başlamak
 continue        devam etmek
 consider        düşünmek
 complete        tamamlamak
-finish	        bitirmek
+finish	         bitirmek
 contemplate
-deny	          reddetmek
+deny	           reddetmek
 delay
 postpone        ertelemek
 detest
@@ -18,18 +18,20 @@ discuss
 dislike
 escape          kaçmak, kurtulmak, firar etmek
 enjoy
+excuse* 
+finish
 involve	        kapsamak
 imagine	        hayal etmek
-keep	          tutmak, korumak, muhafaza etmek
+keep	           tutmak, korumak, muhafaza etmek
 look forward to	dört gözle beklemek, iple çekmek
-lose	          kaybetmek
+lose	           kaybetmek
 mean
-mind	          kulak vermek, kafaya takmak
+mind	           kulak vermek, kafaya takmak
 miss
 mention	        bahsetmek, ima etmek
 practise 
-risk	          riske atmak
-report	        bildirmek, rapor etmek
+risk	           riske atmak
+report	         bildirmek, rapor etmek
 recollect (remember)
 recommend
 suggest         önermek
@@ -41,10 +43,10 @@ suffer          katlanmak
 spend           harcamak
 try	            denemek, çabalamak
 understand*	    anlamak
-excuse* 
 can't help  
 can't stand  
- 
+quit
+
 l will excuse* his coining late. 
 I don't understand* your leaving so early. 
 
@@ -61,15 +63,37 @@ object to/have an objection to          I have an objection to the plan. I have 
 prefer something to doing something     I prefer tennis to basketball. I prefer playing tennis to playing basketball. 
 in addition to                          In addition to jeans, she bought lots of other things. In addition to buying Jeans, she bought lots of other things. 
 
+be excited about
+complain about
+talk about
+think about
+worry about
+apologize for
+blame for
+famous for
+believe in
+interested in
+succeed in
+take care of
+instead of
+be accused of
+insist on
+count on
+concentrate on
+keep from
+prevent from
+profit from
+
+
 
 INFINITIVE --> noun/pronoun + infinitive
 appear        gözükmek, görünmek
 agree         katılmak
-advise	      öğüt vermek
+advise	       öğüt vermek
 ask	          sormak
 demand        talep etmek, istemek
 arrange	      düzenlemek
-afford 
+can afford 
 beg
 choose/prefer seçmek
 consent 
@@ -80,23 +104,23 @@ decide        karar vermek
 deserve
 expect        ümit etmek
 wait
+hope	         ummak
 endeavor
 fail
-happen	      olmak
+happen	       olmak
 hesitate 
-hope	        ummak
-know	        bilmek
+know	         bilmek
 learn	        öğrenmek
-manage	      yönetmek, idare etmek
+manage	       yönetmek, idare etmek
 mean
 offer
-plan	        planlamak
+plan	         planlamak
 promise       söz vermek
 prove
 proceed
 pretend
 prepare	      hazırlamak
-refuse	      reddetmek
+refuse	       reddetmek
 seem 
 struggle
 swear 
@@ -104,10 +128,23 @@ tend
 threaten
 teach         öğretmek
 volunteer
+need
 want          istemek
 would like    istemek
 wish
-need
+intend
+learn 
+cause
+convince
+force
+invite
+order
+persuade
+remind
+tell
+trust
+warn
+encourage
 
 
 They couldn't afford to go on holiday last summer. 
