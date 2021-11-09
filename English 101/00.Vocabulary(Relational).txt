@@ -76,7 +76,7 @@ define            definition              (in)definite-ly           tanımlamak,
 describe          description                                       tanımlamak, tarif etmek, tasvir etmek       
 deceive           deception               deceptive                 aldatmak, yanıltmak -- yanıltıcı
 receive           reception/receipt       receiver                  almak, kabul etmek -- reçete -- alıcı
-perceive          perception              perceptive                algımalmak
+perceive          perception              perceptive                algılamak
 decide on         decision                decided                   karar vermek
 deduce            deduction                                         anlamak, sonuç çıkarmak
 produce           production / product    productive                üretmek, ortaya koymak -- ürün, sonuç
