@@ -8,7 +8,7 @@ abound            abundance               abundant                  bolluk
 access            access                  accessible                erişmek, erişim
 accept            acceptance              acceptable                kabul etmek, kabullenmek
 agree             agreement               agreeable                 kabul etmek, anlaşmak, hemfikir olmak, onaylamak
-                  accordance              according to              uygunluk -- -e göre --> according to me - bana göre
+accord            accordance              according to              uygun hale getirmek -- uygunluk -- -e göre --> according to me - bana göre
 admit             admission               admitted                  kabul etmek, içeri almak (okul vs)
 refuse            refusal                                           reddetmek, kabul etmemek, izin vermemek, geri çevirmek
 act               action                  active                    davranmak, hareket etmek, rol yapmak, oynamak 
@@ -16,6 +16,7 @@ react             reaction                reactive / proactive      tepki vermek
 interact          interaction             interactive               etkileşmek, birbirini etkilemek
                   accuracy                accurate-ly               tam olarak
                   absence                 absent                    yokluk
+appreciate        appreciation            appreciating              takdir etmek -- takdir -- takdir eden
 arrange           arrangement                                       düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak                   
 attain            attainment                                        ulaşmak, elde etmek, erişmek
 contain           containment                                       içermek, kapsamak
@@ -28,7 +29,8 @@ sustain           sustainability          sustainable               sürdürmek,
 present           presentation            present-able              sunmak - sunum - hediye       
                   presence                present                   varlık
 represent         representation          representative            temsil etmek
-                                          appropriate/proper        uygun
+                                          appropriate / proper      uygun
+                                          disproportionate          orantısız
 admire            admiration              admired                   hayran olmak
 affect            effect                  effective                 etkilemek
                                           (in)evitable              (-)kaçınılabilir
@@ -39,6 +41,9 @@ apply             application             applied                   uygulamak
 
 ---> B
 beautify          beauty                  beautiful                 güzelleştirmek
+behave            behaviour                                         davranmak, -e göre davranmak -- davranış
+believe in        belief                  believer                  inanmak -- inanç
+belong to         belonging                                         ait olmak -- özel eşya
 benefit           beneficence             beneficial                faydalanmak -- yarar, hayır, fayda
                   business                busy                      iş, meşguliyet
                   
@@ -49,6 +54,8 @@ comprehend        comprehension           comprehensive             kapsamlı
 reprehend         reprehension                                      azarlamak, kınamak
 consider          consideration           considerable              iyice düşünmek -- önemli
 concern           concernment             concerning with           ilgilendirmek, kaygılandırmak, endişe-lendirmek
+commence          commencement                                      başlamak, başlatmak
+                  commerce                commercial                ticaret, alım satım  -- ticari, reklam
 consist           consistence             consistent                oluşmak, meydana gelmek
 insist            insistence              insistent                 ısrar etmek, tutturmak, diretmek
 resist            resistence              resistant                 direnmek, karşı koymak, dayanmak 
@@ -83,6 +90,7 @@ produce           production / product    productive                üretmek, or
 reduce            reduction                                         azaltmak, sadeleştirmek, küçültmek, indirgemek
 seduce            seduction                                         baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek
 induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak
+introduce         introduction            introducted               tanıtmak, giriş yapmak
 demand            demand                  demanding
 construct         construction            constructive              inşa etmek -- inşaat  
 destruct          destruction             destructive               yıkmak      
@@ -148,7 +156,9 @@ heat              heat                    hot                       ısıtmak --
 ---> I
 include           inclusion               all-inclusive             dahil etmek
 exclude           exclusion               exclusive                 dışarda tutmak, özel kılmak
+conclude          conclusion              conclusive                sonuçlandırmak, sonuçlanmak, anlaşma yapmak -- kesin, son, kati
 exceed            excession               excessive                 aşmak -- aşırı
+prove             proof                   water-proof               kanıtlamak -- kanıt -- su geçirmez
 improve           improvement             improved                  geliştirmek
 impair            impairment                                        bozmak, bozukluk, bozulma
 impart                                    impartial                 vermek, -- tarafsız
@@ -159,7 +169,7 @@ invite            invitation              invited                   davet etmek
 increase          increase/increment-ation                          arttırmak -- artış
 decrease          decrease                                          azaltmak -- azalış    
 infer             inferrence                                        sonuç çıkarmak, anlam çıkarmak, çıkarım yapmak
-refer             referrence/referral                               başvurmak, değinmek, tavsiye etmek
+refer             referrence/referral      referee                  başvurmak, değinmek, tavsiye etmek  -- hakem
 prefer            preferrence                                       tercih etmek
 defer             deferment/deference                               ertelemek, uymak, tecil etmek, ağırdan almak, saygı göstermek
 confer            conference                                        sunmak, görüşmek, danışmak
@@ -192,8 +202,9 @@ occupy            occupation              occupied                  işgal etmek
 
 ---> P
 pass              passage                 past / passive            geçmek -- geçiş -- geçmiş
-pay               payment                 paid                      ödemek
-                  passion                 passionate
+pay               payment                 paid                      ödemek -- ödeme -- ödenmiş
+                  passion                 passionate                tutku -- tutkulu
+plant             plantation/plant        planted                   ekmek, dikmek -- fabrika, tesis -- bitki
 peril                                     perilous                  tehlikeye atmak
 permit            permission              permissive                izin vermek
 oblige                                                              zorunda bırakmak, mecbur etmek, minnettar bırakmak
@@ -219,8 +230,8 @@ publish           publishment                                       yayımlamak,
 prevent
 
 ---> R
-regulate          regulation              (ir)regular               düzenlemek
-require           requirement             required
+regulate          regulation              (ir)regular               düzenlemek -- düzenli
+require           requirement             required                  gerekmek -- gereklilik -- gerekli
                   redundance              redundant                 gereksiz
 renew                                     renewable                 yenilemek
 repeat            repetition              repeated                  tekrarlamak 
@@ -230,9 +241,9 @@ rate              ration                  rational                  oranlamak --
 underrate != overrate                                               aşağı oranlamak != aşırı oranlamak
                   reason                  reasonable                mantık, mantıklı
 rehearse          rehearsal                                         prova yapmak, tekrarlamak
-
 reveal            revealing                                         ortaya çıkartmak, gözler önüne sermek ifşa etmek
 regard            regard                  be regarded as            ilgili olmak, bakmak, saymak, önem vermek
+                  reverse                 irreversible              tersine çevirme -- tersine çevrilemez
 
 
 
@@ -251,6 +262,7 @@ signify           significance            significant               belirtmek, g
 simplify          simplicity              simple                    basitleştirmek
 sedate            sedation                sedative                  yatıştırmak                  
                   similarity              similar to                benzerlik -- benzer
+share             share                   shared                    paylaşmak -- paylaşım, hisse, pay -- paylaşılmış
 solve             solution                solved                    çözmek (sorun, problem)
                                           substantial-ly            epey-ce
 speak             speech                  spoken                    konuşmak
@@ -297,10 +309,6 @@ wonder            wonder                  wonderful                 merak etmek
                   youth                   young
             
 
----> extras
-appreciating - takdir eden
-disproportionate - orantısız
-irreversible - tersine çevrilemez
 
 
 
