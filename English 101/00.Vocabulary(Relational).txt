@@ -18,6 +18,8 @@ interact          interaction             interactive               etkileşmek,
                   absence                 absent                    yokluk
 appreciate        appreciation            appreciating              takdir etmek -- takdir -- takdir eden
 arrange           arrangement                                       düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak                   
+attribute         attribute/attribution                             atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
+contribute        contribution                                      katkıda bulunmak -- katılım, destek, iştirak
 attain            attainment                                        ulaşmak, elde etmek, erişmek
 contain           containment                                       içermek, kapsamak
 detain            detainment                                        gözaltına almak, tutuklamak, alıkoymak
@@ -37,6 +39,9 @@ affect            effect                  effective                 etkilemek
 acquire           acquisition                                       edinmek
 achieve           achievement             achieved                  başarmak
 apply             application             applied                   uygulamak
+                  altitude                                          yükseklik, rakım, irtifa, yükselti
+                  aptitude                                          yetenek, eğilim, yatkınlık
+                  attitude                                          tutum, tavır, davranış, yaklaşım
                   availability            available                 mevcut olma, hazır bulunma, müsait olma
 
 ---> B
@@ -128,6 +133,7 @@ suppress          suppression                                       bastırmak, 
 
 
 ---> F
+facilitate        facilitation            facile                    kolaylaştırmak, rahatlatmak, hafifletmek, olanak tanımak
 feel              feeling                 felt                      hissetmek
 financialize      finance                 financial                 finanse etmek
 flourish          flourish                flourishing               gelişmek, büyümek, güzelleşmek
@@ -148,9 +154,8 @@ enforce           force                   forceful                  kuvvetlendir
 ---> G
 graduate          grade                   gradual-ly                mezun olmak -- derece,sınıf -- kademeli
                   generity                generous                  cömertlik
-                  gratitude
-                  attribute
-                  contribute
+                  gratitude               grateful                  minnettarlık -- minnettar
+
                   
 generate          generation                                        oluşturmak, meydana getirmek, var etmek -- nesil, jenerasyon
                   gene                    genetic                   gen -- genetik
@@ -160,6 +165,12 @@ hesitate          hesitation              hesistant                 tereddüt et
 heal              health                  healthy                   iyileşmek, iyileştirmek, düzelmek, tatlıya bağlamak
 heat              heat                    hot                       ısıtmak -- ısı
                   warmness/warmth         warm                      sıcaklık -- sıcak
+heighten          height                  high                      arttırmak, yükselmek -- yükseklik -- yüksek
+straighten                                straight                  düzeltmek, yoluna koymak, doğrusunu açıklamak -- düz
+strengthen        strength                strong                    güçlendirmek -- güç, dayanma gücü, derman -- güçlü
+widen             wideness/widening       wide   (www)              genişletmek, bollaşmak -- genişlik -- geniş, enli, genel, kapsamlı, yaygın 
+broaden           broadness/breadth       broad                     genişletmek -- genişlik -- geniş                    
+enlarge           enlargement             large                     genişletmek, büyütmek -- genişlik -- geniş
 
 
 ---> I
@@ -196,7 +207,7 @@ lengthen          length                  long, along               uzatmak
 ---> M
 maintain          maintenance                                       bakım, sürdürme
 mandate                                   mandatory                 zorlamak -- zorunlu
-marry             marriage                married                   evlenmek
+marry             marriage                married to                evlenmek
 mean              meaning                 meaningful
 move              movement/motion/movie                             taşımak --hareket--film
 remove            removal                 removed                   kaldırmak
@@ -206,7 +217,8 @@ remove            removal                 removed                   kaldırmak
 neglect                                   negligible                önemsememek -- önemsiz
 narrate           narration               narrative                 hikaye anlatmak 
                   necessity               necessary                 gereklilik
----> 
+
+---> O
 occupy            occupation              occupied                  işgal etmek, tutmak, oturmak, kaplamak -- işgal, meslek, iş, uğraş
 
 ---> P
@@ -255,6 +267,7 @@ rehearse          rehearsal                                         prova yapmak
 reveal            revealing                                         ortaya çıkartmak, gözler önüne sermek ifşa etmek
 regard            regard                  be regarded as            ilgili olmak, bakmak, saymak, önem vermek
                   reverse                 irreversible              tersine çevirme -- tersine çevrilemez
+restrict          restriction/restraint   restricted                sınırlamak, kısıtlamak
 
 
 
@@ -287,7 +300,6 @@ import            importance              important                 ithal etmek 
 export            export                                            ihraç etmek
 report            report                                            raporlamak
 support           support                 supportive                desteklemek - destekleyici
-straighten                                straight                  düzeltmek, yoluna koymak, doğrusunu açıklamak
 study             study                   student                   öğrenim görmek, okumak
 
 ---> T
