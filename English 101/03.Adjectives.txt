@@ -21,9 +21,8 @@ real          more real         the most real
 tired         more tired        the most tired
 ---------------------------------------------
            REGULAR ADJECTIVES
-big           bigger            the biggest
-small         smaller           the smallest      
-rich          richer            the richest       != poor
+big           bigger            the biggest       != small - smaller - the smallest      
+rich          richer            the richest       != poor - poorer - the poorest
 great         greater           the greatest
 young         younger           the youngest
 
@@ -111,12 +110,8 @@ involved = involving          captivated = captivating                glittering
 fascinated = fascinating      frightened = frightening                blushing
 bloomed = blooming            coordinated = coordinating              
 
-you are convincing = I am convinced
-I am interested in music = music is interesting 
-I am surprising = You are surprised
-I am impressed – I am impressing/impressive
-she is broken
 ongoing, incoming
+she is broken
 
 --->  GET + ADJECTIVE = VERB (SIFAT FİİL)
 I got confused- kafam karıştı
@@ -126,12 +121,26 @@ it's getting dark. let's go home - hava kararıyor. hadi eve gidelim
 we will have more free time, when we get older - yaşlandığımız zaman, daha fazla boş zamanımız olacak.
 You look a little nervous, just get comfortable - biraz gergin gözüküyorsun, rahatla sadece
 
+---> AM/IS/ARE + ADJECTIVE
+you are convincing = I am convinced
+I am interested in music = music is interesting 
+I am surprising = You are surprised
+I am impressed – I am impressing/impressive
+I am bored because the book is boring
+the meeting was very boring
+I felt bored in the meeting
+that was an exciting game
+we were really excited about the game
+it was shocking to see what the storm had done to the house
+we were shocked to see what the storm had done to the house
+
 
 --> ADJECTIVE EXAMPLES
 Manners maketh man – tavırların seni adam yapar
 You are the best friend I ever had. - En iyi arkadaşım sensin
 You are the worst person I've ever met - tanıdığım en kötü kişisin
 could you love me less? - beni daha az sevebilir miydin?
+get money first, fall in love later
 Money is very powerful, but sometimes it’s more powerful to say no to it
 it could have gone better - daha iyi gidebilirdi (well)
 the longer they play, the more they lose - ne kadar uzun oynarlarsa, o kadar fazla kaybederler
@@ -297,6 +306,19 @@ thirsty = parched
 --> V
 --> W	
 
+ambitious - aspiring
+artificial - fake - synthetic - false
+amazing - fantastic - astonishing - fabulous - wonderful
+ample - enough - sufficient - adjourn
+arrogant - haughty
+achievable - realistic
+abnormal - unusual
+amusing - funny - humorous
+afraid - frightened - scared
+apparent - obvious - evident
+awful - dreadful 
+awkward - clumsy - embrassing
+aggressive - assertive - pushy
 
 
 
