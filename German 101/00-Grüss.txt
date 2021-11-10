@@ -25,4 +25,23 @@ Sich Vorstellen - Kendini Tanıtmak
         Mein name ist Uğur
         Ich bin Uğur
         
-        Heissen - ismi olmak
+        heissen - ismi olmak
+        
+        --> Du/Sie - Nominativ
+        --> dir/Ihnen - Dativ
+        wie geht es dir/Ihnen? / wie geht's dir/Ihnen? --> nasılsın?, o sana/size nasıl gidiyor?    
+            mir geht es gut --> bana iyi gidiyor
+            sehr gut, danke
+            gut, danke
+            es geht (so) / (es geht mir) so lala - idare eder
+            nicht so gut
+            'ich bin gut/schlecht in Deutsch' --> ich bin sadece bu tarz cümlelerlerde kullanılır
+             beispiel:
+             - es geht mir super, bei dir? (senden naber? - bei - dativ)
+             - mir geht's auch gut, danke
+             - moin moin (merhaba)! wie geht es Ihnen?
+             - bei meiner Seite ist alles okay aber sagen Sie mal, was ist los?
+             - ich habe seit gestern (since yester) starke Kopfschmerzen (baş ağrıları)
+             
+             
+
