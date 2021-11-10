@@ -34,7 +34,9 @@ represent         representation          representative            temsil etmek
                                           appropriate / proper      uygun
                                           disproportionate          orantısız
 admire            admiration              admired                   hayran olmak
-affect            effect                  effective                 etkilemek
+affect            effect                  effective != ineffective  etkilemek -- etki -- etkili
+                  efficacy                efficient                 etkililik
+                                          be affected by            -den etkilenmek
                                           (in)evitable              (-)kaçınılabilir
 acquire           acquisition                                       edinmek
 achieve           achievement             achieved                  başarmak
@@ -43,13 +45,15 @@ apply             application             applied                   uygulamak
                   aptitude                                          yetenek, eğilim, yatkınlık
                   attitude                                          tutum, tavır, davranış, yaklaşım
                   availability            available                 mevcut olma, hazır bulunma, müsait olma
+assemble
+resemble          resemblance                                       benzemek, benzetim
 
 ---> B
 beautify          beauty                  beautiful                 güzelleştirmek
 behave            behaviour                                         davranmak, -e göre davranmak -- davranış
 believe in        belief                  believer                  inanmak -- inanç
 belong to         belonging                                         ait olmak -- özel eşya
-benefit           beneficence             beneficial                faydalanmak -- yarar, hayır, fayda
+benefit           beneficence             beneficial                faydalanmak -- yarar, hayır, fayda -- faydalı
                   business                busy                      iş, meşguliyet
                   
                   
@@ -75,7 +79,7 @@ confide           confidence              self confident            güvenmek --
                   loyalty                 loyal                     sadakat -- sadık
                   faith                   faithful                  inanç -- inançlı
                   convenience             convenient                kolaylık, kullanışlılık
-cure              curation                curative                  tedavi etmek -- tedavi edici
+cure              curation                curative                  tedavi etmek -- tedavi -- tedavi edici
 conclude          conclusion              conclusive                sonuçlandırmak
 compare           comparision             comparative               kıyaslamak
 continue          continuity/continuum    continuous                devam etmek -- süreklilik
@@ -85,7 +89,11 @@ account           account, accounting     accountant                hesaplamak, 
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
-
+controverse                               controversial             tartışmak, çekişmek
+                                          converse                  ters, zıt
+                                          adverse                   olumsuz, kötü
+                                          reverse                   tersine çevirmek
+                                          perverse                  huysuz, inatçı
 
 ---> D
 define            definition              definite/ly != indefinite tanımlamak, belirlemek, belirtmek
@@ -95,12 +103,6 @@ receive           reception/receipt       receiver                  almak, kabul
 perceive          perception              perceptive                algılamak -- algı
 conceive          concept / conception    conceptional              kavramak, anlamak, tasavvur etmek, yaratmak -- konsept
 decide on         decision                decisive                  karar vermek -- karar -- kararlı, azimli, belirleyici 
-produce           production / product    productive                üretmek, ortaya koymak -- ürün, sonuç
-reduce            reduction               reductive                 azaltmak, sadeleştirmek, küçültmek, indirgemek -- indirgeyici
-seduce            seduction               seductive                 baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek -- baştan çıkarıcı
-deduce            deduction               deductive                 anlamak, sonuç çıkarmak -- tümdengelimli, sonuç çıkarılabilir
-induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak -- tümevarımlı, teşviklendirilebilir
-introduce         introduction            introductive              tanıtmak, giriş yapmak -- giriş, tanıtma, başlangıç
 demand            demand                  demanding                 talep, istem, istek, rağbet
 construct         construction            constructive              inşa etmek -- inşaat  
 destruct          destruction             destructive               yıkmak -- yıkım -- yıkıcı
@@ -109,9 +111,18 @@ deter             deterrence              deterrent                 caydırmak -
 determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak -- belirleme, kararlılık, azim, tespit, saptama 
                   distinction             distinctive               ayrım, farklılık
 differentiate     difference              different                 farklılaştırmak, ayırt etmek -- farklılık, değişiklik
-                  diversity               diverse                   çeşitlilik
+                  diversity               diverse                   çeşitlilik -- çeşitli
 divide            division                divisible                 bölünmek, bölmek, ayrılmak, bölüştürmek
-
+reduce            reduction               reductive                 azaltmak, sadeleştirmek, küçültmek, indirgemek -- indirgeyici
+seduce            seduction               seductive                 baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek -- baştan çıkarıcı
+deduce            deduction               deductive                 anlamak, sonuç çıkarmak -- tümdengelimli, sonuç çıkarılabilir
+induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak -- tümevarımlı, teşviklendirilebilir
+introduce         introduction            introductive              tanıtmak, giriş yapmak -- giriş, tanıtma, başlangıç
+produce           production              productive !=unproductive üretmek, ortaya koymak -- üretim -- üretken
+                  product                 producer                  ürün, sonuç -- üretici
+                  reproduction                                      yeniden üretim
+                  productivity                                      üretkenlik
+                  mass-production                                   seri üretim
 
 ---> E
 edit              edition                 edited                    düzenlemek
@@ -124,19 +135,22 @@ exemplify         example                 exam                      örneklendir
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
-                  expense                 expensive                 gider, harcama, masraf -- pahalı
-                  expenditure                                       masraf, harcama
+expend            expense                 expensive != inexpensive  harcamak -- gider, harcama, masraf -- pahalı
+                  expenditure             expender                  masraf, harcama
+suspend
+depend on         dependence              dependent != independent  bağlı olmak -- bağlılık -- bağlı != bağımsız
 press             pressure                pressed                   baskı yapmak
 express           expression                                        ifade etmek, açıklamak           
 depress           depression              depressed                 bastırmak, moralini bozmak
 suppress          suppression                                       bastırmak, baskılamak, baskı altına almak, zaptetmek
-
+exceed            excession               excessive                 aşmak -- aşırılık -- aşırı
+                  excellence              excel
 
 ---> F
 facilitate        facilitation            facile                    kolaylaştırmak, rahatlatmak, hafifletmek, olanak tanımak
 feel              feeling                 felt                      hissetmek
 financialize      finance                 financial                 finanse etmek
-flourish          flourish                flourishing               gelişmek, büyümek, güzelleşmek
+flourish          flourish                flourishing               gelişmek, büyümek, güzelleşmek -- gelişen
 fluctuate         fluctuation             fluctuating               dalgalanmak -- dalgalı
 forbid                                    forbidden                 yasaklamak
 form              formation               formative                 biçimlendirmek
@@ -216,7 +230,7 @@ remove            removal                 removed                   kaldırmak
 ---> N
 neglect                                   negligible                önemsememek -- önemsiz
 narrate           narration               narrative                 hikaye anlatmak 
-                  necessity               necessary                 gereklilik
+necessiate        necessity               necessary                 gerektirmek -- gereklilik -- gerekli
 
 ---> O
 occupy            occupation              occupied                  işgal etmek, tutmak, oturmak, kaplamak -- işgal, meslek, iş, uğraş
@@ -248,7 +262,8 @@ compromise                                                          uzlaşmak, u
                   publicity               public                    reklam, tanıtım, aleniyet -- kamu, halk, seyirci
 publish           publishment                                       yayımlamak, yayınlamak, yaymak
                   publication                                       yayınlama
-prevent
+prevent           prevention              preventive                önlemek -- önlem -- önleyici
+
 
 ---> R
 regulate          regulation              regular != irregular      düzenlemek -- düzenli
@@ -265,9 +280,14 @@ overrate          overration                                        aşırı ora
                   reason                  reasonable                mantık, mantıklı
 rehearse          rehearsal                                         prova yapmak, tekrarlamak
 reveal            revealing                                         ortaya çıkartmak, gözler önüne sermek ifşa etmek
-regard            regard                  be regarded as            ilgili olmak, bakmak, saymak, önem vermek
                   reverse                 irreversible              tersine çevirme -- tersine çevrilemez
 restrict          restriction/restraint   restricted                sınırlamak, kısıtlamak
+regard            regard                                            ilgili olmak, bakmak, saymak, önem vermek
+                                          regard as                 olarak kabul etmek
+                                          be regarded as            olarak kabul edilmek
+                                          regardless of             -e bakılmaksızın
+                                          regarding                 -e ilişkin, hakkında
+                                          with regard to            -e ilişkin, hakkında
 
 
 
@@ -284,7 +304,7 @@ resign            resign                  resigned                  istifa etmek
 signify           significance            significant               belirtmek, göstermek -- önem -- önemli, belirgin
                   silence                 silent                    sesizlik
 simplify          simplicity              simple                    basitleştirmek
-sedate            sedation                sedative                  yatıştırmak                  
+sedate            sedation                sedative                  yatıştırmak -- yatıştırıcı                  
                   similarity              similar to                benzerlik -- benzer
 share             share                   shared                    paylaşmak -- paylaşım, hisse, pay -- paylaşılmış
 solve             solution                solved                    çözmek (sorun, problem)
@@ -318,6 +338,9 @@ evaluate          value                   invaluable                değerlendir
 visit             visit / visa            visited                   ziyaret etmek
                   vitality                vital                     hayatilik
 view              view, review, overview                            görüntüleme, inceleme, genel bakış
+                                          be viewed as              olarak görülmek
+                                          with a view to            -mek için
+                                          in view of                -den dolayı              
 vote              vote                                              oylamak, oy vermek, oy kullanmak
 devote            devotion                devotional                adamak, ayırmak, tahsis etmek -- bağlılık, sadakat -- dindar
                   loyalty                 loyal                     sadakat, bağlılık
