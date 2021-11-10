@@ -2,8 +2,8 @@
               Function/Job    	                      	Example
               ----------------------------------------------------------------------------------------
 Noun	      --> thing or person	              	pencil, cat, Jack
-Pronoun	      --> replaces a noun	              	--> Subject Pronouns: I, You, He, She, It, We, You, They
-                                                      	--> Object Pronouns: me, you, him, her, it, us, you, them
+Pronoun	      --> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
+                                                      	--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
 Verb	      --> Action or State	            	go, come, see, open, study, like, eat
 Adverb	      --> Describe a verb, adjective, adverb	silently, badly, really, quickly, well
 Adjective     --> Describes a noun	                big, silent, bad, good
@@ -46,7 +46,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
             because only one register was open for the entire store!
 
 
----> Mezzofanti Method: How to start learning a new language?
+---> MEZZOFANTI METHOD: How to start learning a new language?
 The book is new       --> eşitlik bildiren cümleler   (I = Teacher)
 Is the book new?      --> eşitlik soru cümlesi
 A new book            --> sıfat kullanımı
@@ -103,9 +103,9 @@ how         how do you get to places? - I get to places by car
 							by bus
 							by foot
 							by walking
-							
-							
-                     
+
+
+
 ---> PRONOUNS and POSSESSIVE ADJECTIVES 
                      
 -----TO BE-----    Subject      Object      Possessive    Possessive    Reflexive
@@ -144,7 +144,8 @@ You’re a student of mine.
 
 
 
-	
+		S			------------- V -------------		O
+		---------------------------------------------------------------------------------
 		Subject			    TO BE		 Verb		Object           |	     ADVERBS
 		(noun/pronoun)		---------------				(noun/pronoun)	 |---------------------------------------------
 		Subject Pronouns	Present	   Past				Object Pronouns	 | Manner     |   Place       | Time
