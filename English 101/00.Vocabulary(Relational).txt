@@ -148,6 +148,10 @@ enforce           force                   forceful                  kuvvetlendir
 ---> G
 graduate          grade                   gradual-ly                mezun olmak -- derece,sınıf -- kademeli
                   generity                generous                  cömertlik
+                  gratitude
+                  attribute
+                  contribute
+                  
 generate          generation                                        oluşturmak, meydana getirmek, var etmek -- nesil, jenerasyon
                   gene                    genetic                   gen -- genetik
 
