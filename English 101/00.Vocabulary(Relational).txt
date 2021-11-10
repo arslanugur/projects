@@ -83,24 +83,25 @@ concede           concession                                        kabullenmek,
 
 
 ---> D
-define            definition              (in)definite-ly           tanımlamak, belirlemek, belirtmek
-describe          description                                       tanımlamak, tarif etmek, tasvir etmek       
+define            definition              definite/ly != indefinite tanımlamak, belirlemek, belirtmek
+describe          description             descriptive               tanımlamak, tarif etmek, tasvir etmek       
 deceive           deception               deceptive                 aldatmak, yanıltmak -- yanıltıcı
-receive           reception/receipt       receiver                  almak, kabul etmek -- reçete -- alıcı
-perceive          perception              perceptive                algılamak
-decide on         decision                decided                   karar vermek
-deduce            deduction                                         anlamak, sonuç çıkarmak
+receive           reception/receipt       receiver                  almak, kabul etmek -- reçete, makbuz -- alıcı
+perceive          perception              perceptive                algılamak -- algı
+conceive          concept / conception    conceptional              kavramak, anlamak, tasavvur etmek, yaratmak -- konsept
+decide on         decision                decisive                  karar vermek -- karar -- kararlı, azimli, belirleyici 
 produce           production / product    productive                üretmek, ortaya koymak -- ürün, sonuç
-reduce            reduction                                         azaltmak, sadeleştirmek, küçültmek, indirgemek
-seduce            seduction                                         baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek
-induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak
-introduce         introduction            introducted               tanıtmak, giriş yapmak
+reduce            reduction               reductive                 azaltmak, sadeleştirmek, küçültmek, indirgemek -- indirgeyici
+seduce            seduction               seductive                 baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek -- baştan çıkarıcı
+deduce            deduction               deductive                 anlamak, sonuç çıkarmak -- tümdengelimli, sonuç çıkarılabilir
+induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak -- tümevarımlı, teşviklendirilebilir
+introduce         introduction            introductive              tanıtmak, giriş yapmak -- giriş, tanıtma, başlangıç
 demand            demand                  demanding                 talep, istem, istek, rağbet
 construct         construction            constructive              inşa etmek -- inşaat  
-destruct          destruction             destructive               yıkmak
-devastate         devastation             devastating               yıkmak -- yıkım
-deter             deterrence              deterrent                 caydırmak -- caydırıcı
-determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak
+destruct          destruction             destructive               yıkmak -- yıkım -- yıkıcı
+devastate         devastation             devastating               yıkmak -- yıkım -- yıkıcı
+deter             deterrence              deterrent                 caydırmak -- cayma -- caydırıcı
+determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak -- belirleme, kararlılık, azim, tespit, saptama 
                   distinction             distinctive               ayrım, farklılık
 differentiate     difference              different                 farklılaştırmak, ayırt etmek -- farklılık, değişiklik
                   diversity               diverse                   çeşitlilik
@@ -312,8 +313,10 @@ devote            devotion                devotional                adamak, ayı
 wonder            wonder                  wonderful                 merak etmek
 
 ---> Y
-                  youth                   young
-            
+yield             yield                   yielding                  vermek, esnemek, sağlamak, eğmek -- verim, ürün, mahsül -- verimli, kazançlı
+                  youth                   young / youthful          gençlik -- genç
+                  juvenile                                          genç, çocuksu
+                  adolescence             adolescent                ergenlik, büyüme çağı, delikanlılık
 
 
 
