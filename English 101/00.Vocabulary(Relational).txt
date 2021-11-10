@@ -64,7 +64,11 @@ assist            assistance              assistant                 yardım etme
 contain           containment                                       içermek
 contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
 concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
-convince                                  convincing                ikna etmek
+convince          conviction*             convincing                ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
+confide           confidence              self confident            güvenmek -- güven -- kendine güvenen
+                  fidelity                                          sadakat
+                  loyalty                 loyal                     sadakat -- sadık
+                  faith                   faithful                  inanç -- inançlı
                   convenience             convenient                kolaylık, kullanışlılık
 cure              curation                curative                  tedavi etmek -- tedavi edici
 conclude          conclusion              conclusive                sonuçlandırmak
@@ -91,14 +95,14 @@ reduce            reduction                                         azaltmak, sa
 seduce            seduction                                         baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek
 induce            induction               inductive                 kandırmak, uyarmak, ikna etmek, teşvik etmek, sebep olmak
 introduce         introduction            introducted               tanıtmak, giriş yapmak
-demand            demand                  demanding
+demand            demand                  demanding                 talep, istem, istek, rağbet
 construct         construction            constructive              inşa etmek -- inşaat  
-destruct          destruction             destructive               yıkmak      
-devastate         devastation             devastating               yıkmak-yıkım
+destruct          destruction             destructive               yıkmak
+devastate         devastation             devastating               yıkmak -- yıkım
 deter             deterrence              deterrent                 caydırmak -- caydırıcı
 determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak
                   distinction             distinctive               ayrım, farklılık
-                  difference              different                 farklılık, değişiklik
+differentiate     difference              different                 farklılaştırmak, ayırt etmek -- farklılık, değişiklik
                   diversity               diverse                   çeşitlilik
 divide            division                divisible                 bölünmek, bölmek, ayrılmak, bölüştürmek
 
@@ -230,15 +234,17 @@ publish           publishment                                       yayımlamak,
 prevent
 
 ---> R
-regulate          regulation              (ir)regular               düzenlemek -- düzenli
+regulate          regulation              regular != irregular      düzenlemek -- düzenli
 require           requirement             required                  gerekmek -- gereklilik -- gerekli
                   redundance              redundant                 gereksiz
-renew                                     renewable                 yenilemek
+renew             renewal                 renewable                 yenilemek -- yenileme, uzatma -- yenilenebilir
+read              reading                 ready                     okumak -- okuma -- hazır
 repeat            repetition              repeated                  tekrarlamak 
 respond           response                                          cevap vermek
                   responsibility          responsible               sorumluluk
 rate              ration                  rational                  oranlamak -- oran -- rasyonel/mantıklı
-underrate != overrate                                               aşağı oranlamak != aşırı oranlamak
+underrate         underration                                       aşağı oranlamak
+overrate          overration                                        aşırı oranlamak
                   reason                  reasonable                mantık, mantıklı
 rehearse          rehearsal                                         prova yapmak, tekrarlamak
 reveal            revealing                                         ortaya çıkartmak, gözler önüne sermek ifşa etmek
