@@ -144,6 +144,91 @@ You’re a student of mine.
 
 
 
+	
+		Subject			    TO BE		 Verb		Object           |	     ADVERBS
+		(noun/pronoun)		---------------				(noun/pronoun)	 |---------------------------------------------
+		Subject Pronouns	Present	   Past				Object Pronouns	 | Manner     |   Place       | Time
+-------------------------------------------------------------------------------------------------|---------------------------------------------
+		I			am	   was				me		 | silently	at home		right now
+-------------------------------------------------------------------------------------------------| quickly	in Ankara	this morning 
+		he			is	   was				him		 | carefully	on a bus	in the evening
+SINGULAR	she			is	   was				her		 | slowly	in our garden	at six 
+		it			is	   was				it		 | openly	on the street	on Tuesday
+-------------------------------------------------------------------------------------------------| early	in a car	in Summer
+		we			are	   were				us		 | hard		on the floor	in five weeks	
+PLURAL		you			are	   were				you		 | happily 	on television	on the weekend	
+		they			are	   were				them		 | eagerly	at the station	at midnight
+
+
+
+
+---> TWELVE TENSES (4x3 Tenses)
+Times		Aspects			Explains:
+------------	------------		----------------------------------------------------------------
+Past		Simple			(durum, hiç tamamlanmayan, rutin, günlük yapılan standart şeyler)
+Present		Continuous		(hareket, devam eden, belirli bir sürece yayılabilir, hareket)
+Future		Perfect			(tamamlanmış ama etkisi halen olabilir)
+		Perfect Continuous	(tamamlanmış ama hem etkisi, hem de süreci halen devam edebilir)
+
+Present Simple Tense	          --> I prefer my coffee black 
+Present Continuous Tense	  --> He is listening to the music now.
+Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
+Present Perfect Continuous Tense  --> She has been singing a song.
+
+Past Simple Tense	          --> We watched the news last night.
+Past Continuous Tense	          --> I was learning German last year.
+Past Perfect Tense	          --> He had left when I went to the club.
+Past Perfect Continuous Tense	  --> They had been being friend since childhood.
+
+Future Simple Tense	          --> They will study maths.
+Future Continuous Tense	          --> They will be loving you.
+Future Perfect Tense	          --> By next week, they will have earned lots of money.
+Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
+
+
+
+---> Types of Determiners (ismin önüne gelenler)
+Adjective:             smart, good, cool, bad, lucky, heavy
+Possessive adjective:  my, your..
+Article:               a, an, the
+Demonstrative pronoun: this, that, these, those
+Numeral: 	       one, two, three
+Ordinal: 	       first, second, third
+Quantifier: 	       a few, another, several, much, many, a lot of, some, very
+                                                
+                     
+                     
+---> 5S IN ENGLISH
+     1 --> -s / -es   - çoğul yapma eki, düzenli isimler için 			--> Davidson motorcycles are quite expensive
+     2 --> -s / -es   - (he, she, it) Geniş zaman fiil eki, tekil özneler için  --> Harley Davidson produces various motorcycles
+     3 --> 's / s'    - -nın, -nin , tamlama yapmak için			--> Harley David's son started a motorcycle job
+     4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için	--> Harley Davidson is a famous motorcycle
+     5 --> 's / has   - sahiplik ya da perfect bildirir, genelde has V3 gibi	--> He's got a motorcycle / She's seen this movie
+
+
+
+
+---> SIMPLE VS. CONTINUOUS
+                    SIMPLE      		                                CONTINUOUS/PROGRESSIVE
+	                                        	 PAST TIME	
+I had washed the car before it rained.	    	<--    past perfect	--> I had been going to school for a year when it was closed.
+I went the school.	                    	<--        past   	--> I was washing the car when it rained.
+I have already studied the tenses today.    	<--   present perfect	--> I have been learning English for three years.
+I take English classes every Monday.        	<--      present	--> I am studying.
+	                                       	       PRESENT MOMENT	
+I will go to the cinema.	            	<--       future	--> I will be fishing this time next week.
+I’ll have learned all the tenses by tomorrow	<--    future perfect 	--> I’ll have been studying English for 3 years this summer.
+	                                          	FUTURE TIME	
+						  
+
+
+---> OPTIMIZATION
+     Saying "have a nice day" to someone sounds friendly
+     Saying "enjoy your next twenty-four hours" to someone sounds threatening
+
+
+
+
 ---> LIST OF BASIC CHUNKS
 Name of Chunk			Example Notes
 --------------------------------------------------------
@@ -193,75 +278,6 @@ Numeral + Numeral		the first two
 Num + (Prep) + Numeral		three of four
 *** “The” is the definite article necessary in this chunk
 *** “To” is a particle marking an infinitive
-
-
----> Types of Determiners (ismin önüne gelenler)
-Article:               a, an, the
-Possessive adjective:  my, your..
-Demonstrative pronoun: this, that, these, those
-Numeral: 	       one, two, three
-Ordinal: 	       first, second, third
-Quantifier: 	       a few, another, several, much, many, a lot of, some, very
-
-Adjective:             smart, good, cool, bad, lucky, heavy
-
----> TWELVE TENSES
-Present Simple Tense	          --> I prefer my coffee black 
-Present Continuous Tense	  --> He is listening to the music now.
-Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
-Present Perfect Continuous Tense  --> She has been singing a song.
-Past Simple Tense	          --> We watched the news last night.
-Past Continuous Tense	          --> I was learning German last year.
-Past Perfect Tense	          --> He had left when I went to the club.
-Past Perfect Continuous Tense	  --> They had been being friend since childhood.
-Future Simple Tense	          --> They will study maths.
-Future Continuous Tense	          --> They will be loving you.
-Future Perfect Tense	          --> By next week, they will have earned lots of money.
-Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
-
-
-
----> SIMPLE VS. CONTINUOUS
-                    SIMPLE      		                                CONTINUOUS/PROGRESSIVE
-	                                          PAST TIME	
-I had washed the car before it rained.	    <--  past perfect	--> I had been going to school for a year when it was closed.
-I went the school.	                    <--      past   	--> I was washing the car when it rained.
-I have already studied the tenses today.    <-- present perfect --> I have been learning English for three years.
-I take English classes every Monday.        <--     present	--> I am studying.
-	                                         PRESENT MOMENT	
-I will go to the cinema.	            <--     future	--> I will be fishing this time next week.
-I’ll have learned all the tenses by tomorrow<-- future perfect  --> I’ll have been studying English for 3 years this summer.
-	                                          FUTURE TIME	
-                                                  
-                     
-                     
----> 5S IN ENGLISH
-     1 --> -s / -es   - çoğul yapma eki, düzenli isimler için 			--> Davidson motorcycles are quite expensive
-     2 --> -s / -es   - (he, she, it) Geniş zaman fiil eki, tekil özneler için  --> Harley Davidson produces various motorcycles
-     3 --> 's / s'    - -nın, -nin , tamlama yapmak için			--> Harley David's son started a motorcycle job
-     4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için	--> Harley Davidson is a famous motorcycle
-     5 --> 's / has   - sahiplik ya da perfect bildirir, genelde has V3 gibi	--> He's got a motorcycle / She's seen this movie
-
-
----> OPTIMIZATION
-     Saying "have a nice day" to someone sounds friendly
-     Saying "enjoy your next twenty-four hours" to someone sounds threatening
-
-
-	
-		Subject			    TO BE		 Verb		Object           |	     ADVERBS
-		(noun/pronoun)		---------------				(noun/pronoun)	 |	    
-		Subject Pronouns	Present	   Past				Object Pronouns	 | Manner   |   Place  | Time
--------------------------------------------------------------------------------------------------|------------------------
-		I			am	   was				me		 | silently    at home 	 right now
--------------------------------------------------------------------------------------------------| 
-		he			is	   was				him		 |
-SINGULAR	she			is	   was				her		 |
-		it			is	   was				it		 |
--------------------------------------------------------------------------------------------------|
-		we			are	   were				us		 |
-PLURAL		you			are	   were				you		 |
-		they			are	   were				them		 |
 
 
 
