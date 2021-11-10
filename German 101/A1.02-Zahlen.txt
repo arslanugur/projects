@@ -1,1 +1,54 @@
-2) Zahlen
+--> Zahlen von 0 bis 20
+    0 - null (nüll)
+    1 - eins (ayns)
+    2 - zwei (sıvay)
+    3 - drei
+    4 - vier (fiya)
+    5 - fünf
+    6 - sechs (zeks)
+    7 - sieben (zibın)
+    8 - acht
+    9 - neun (noyn)
+    10 - zehn (siyin)
+    11 - elf
+    12 - zwölf (svölf)
+    13 - dreizehn
+    14 - vierzehn (fiatzeyn)
+    15 - fünfzehn
+    16 - sechzehn (zekzin)
+    17 - siebzehn (zibzin)
+    18 - achtzehn
+    19 - neunzehn
+    20 - zwanzig (zvanzih)
+    
+    20 - zwanzig
+      21 - einundzwanzig 
+      22 - zweiundzwanzig
+      23 - dreiundzwanzig
+      24 - vierundzwanzig
+      25 - fünfundzwanzig
+      26 - sechsundzwanzig*
+      27 - siebenundzwanzig*
+      28 - achtundzwanzig
+      29 - neunundzwanzig
+    30 - dreissig*
+    40 - vierzig
+      47 - siebenundvierzig
+    50 - fünfzig
+      55 - fünfundfünfzig
+    60 - sechzig
+      62 - zweiundsechzig
+    70 - siebzig
+      71 - einundsiebzig
+    80 - achtzig
+      84 - vierundachtzig
+    90 - neunzig
+      99 - neunundneunzig
+      
+    100 - (ein)hundert
+    105 - hundertfünf
+    111 - hundertelf
+    189 - hundertneunundachtzig
+    
+    
+    
