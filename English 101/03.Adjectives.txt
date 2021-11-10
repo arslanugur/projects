@@ -42,28 +42,33 @@ spotless, relentless at - amansız, ruthless - acımasız
 
 -tive	
 sensitive, protective, attractive, combative, aggressive, progressive
-cooperative, inquisitive = curious, investigative, primitive, explosive
+cooperative, inquisitive = curious, investigative, primitive, explosive, incentive - teşvik edici
+successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasive - ikna edici
 effective - etkili
 positive != negative
+
+-able
+trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
+discernible, unbreakable, invisible, sensible, gullible, horrible, renewable - yenilenebilir
+unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, observable - gözlemlenebilir
 
 -ent/ant
 patience - patient != impatient, fluent, arrogant, defiant, apparent, decent
 violence - violent, brilliance - brilliant
 efficient - verimli, tasarruflu != inefficient
 
--some
-troublesome, awesome, handsome, gruesome - korkunç
+-ous	
+generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous = perilous
+anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous, hideous
+enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
+atricuous - acımasız, treacherous = untrustable, tremendous
+various artists for Rolling Stones tribute - Rolling Stone grubuna saygı için çeşitli sanatçılar
+hazardous to your health
 
--like
-warlike - savaşçı
-
--able
-trustable, reliable, agreeable, adorable, comfortable, available
-discernible, unbreakable, invisible, sensible, gullible, horrible
-unbearable - çekilmez
-
--ate
-passionate, separate, accurate, lemonade, appropriate, intimate, moderate
+-y
+tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
+jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty, raunchy
+brainy, easy, snoppy - meraklı, snobby, sloppy - ihtiyatsız, scary, steamy, soapy, cheesy, gory, gritty, goofy, quirky 
 
 -ic
 fantastic, lunatic, fanatic, realistic, barbaric, romantic, gigantic 
@@ -74,30 +79,14 @@ ethical, economical, political, natural, industrial, official, brutal
 educational, relational, national, sentimental, cynical = mocking
 hospital, capital, recital
 
--ed / -ing	
-interested, impressed, amused, annoyed, ashamed , boring, tired, concerned, condemned, unrequited
-bewildered - sersemlemiş, şaşırmış, confused, depressed, determined, disgusted, charming, riveting
-disturbed, defeated, excited, blushing, entertaining, caressing – sevecen, convincing – ikna edici
-captivating, involved, embrassing, frightening, fascinating, blooming- bloomed, coordinating, glittering - göz alıcı
-ongoing, incoming
-less/much interested
-she's broken
-you are convincing = I am convinced
-I am interested in Music = Music is interesting 
-I am surprising = You are surprised
+-some
+troublesome, awesome, handsome, gruesome - korkunç
 
--ous	
-generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous = perilous
-anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous, hideous
-enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
-atricuous - acımasız, treacherous = untrustable, tremendous
-various artists for Rolling Stones tribute
-hazardous to your health
+-like
+warlike - savaşçı
 
--y
-tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
-jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty, raunchy
-brainy, easy, snoppy - meraklı, snobby, sloppy - ihtiyatsız, scary, steamy, soapy, cheesy, gory, gritty, goofy, quirky 
+-ate
+passionate, separate, accurate, lemonade, appropriate, intimate, moderate
 
 -worthy
 swoonworthy, trustworthy
@@ -108,22 +97,47 @@ valid != invalid - geçerli
 
 
 
---> Examples
+---> -ED / -ING	
+-> less/much interested = interesting
+interested = interesting      caressed = caressing – sevecen          condemned          
+amused = amusing              annoyed = annoying                      embrassed = embrassing
+tired = tiring                bored = boring                          ashamed                
+concerned = concerning        excited = exciting                      defeated = defeating
+impressed = impressing        disturbed = disturbing                  unrequited
+confused = confusing          charmed = charming                      bewildered - sersemlemiş, şaşırmış, 
+depressed = depressing        entertained = entertaining              determined
+disgusted = disgusting        convinced = convincing – ikna edici     riveting
+involved = involving          captivated = captivating                glittering - göz alıcı
+fascinated = fascinating      frightened = frightening                blushing
+bloomed = blooming            coordinated = coordinating              
+
+you are convincing = I am convinced
+I am interested in music = music is interesting 
+I am surprising = You are surprised
+I am impressed – I am impressing/impressive
+she is broken
+ongoing, incoming
+
+--->  GET + ADJECTIVE = VERB (SIFAT FİİL)
+I got confused- kafam karıştı
+children usually get bored easily - çocuklar genellikle kolayca sıkılır
+when he gets angry, he starts shouting at me - o kızmaya başladığı zaman, bana bağırmaya başlar
+it's getting dark. let's go home - hava kararıyor. hadi eve gidelim
+we will have more free time, when we get older - yaşlandığımız zaman, daha fazla boş zamanımız olacak.
+You look a little nervous, just get comfortable - biraz gergin gözüküyorsun, rahatla sadece
+
+
+--> ADJECTIVE EXAMPLES
 Manners maketh man – tavırların seni adam yapar
 You are the best friend I ever had. - En iyi arkadaşım sensin
 You are the worst person I've ever met - tanıdığım en kötü kişisin
-You look a little nervous, just get comfortable
+could you love me less? - beni daha az sevebilir miydin?
 Money is very powerful, but sometimes it’s more powerful to say no to it
-anxious demeanor - endişeli tavır
-juvenile anger - genç öfkesi
 it could have gone better - daha iyi gidebilirdi (well)
 the longer they play, the more they lose - ne kadar uzun oynarlarsa, o kadar fazla kaybederler
 as far as I am concerned, you are no longer welcome here
 light is the fastest thing we know - ışık bildiğimiz en hızlı şeydir
-body asleep, mind awake - vücut uykulu, zihin uyanık
 we needed a discreet place - güvenilir bir yere ihtiyacımız vardı
-I got confused- kafam karıştı
-I am impressed – etkilendim
 you got too reckless – fazla pervasızlaştın
 no need to negotiate - anlaşmaya gerek yok
 it is nonnegotiable - tartışmaya açık değil
@@ -133,12 +147,16 @@ sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
 That guy’s incorrigible – o adam iflah olmaz, düzeltilemez --> correct
 This is more serious than i thought - sandığımdan daha ciddi
 as usual, you turned up late again - her zamanki gibi yine geç geldin
-nothing ever last forever
-empathy or gullibility - take your pick
+anxious demeanor - endişeli tavır
+juvenile anger - genç öfkesi
+body asleep, mind awake - vücut uykulu, zihin uyanık
+I am sleepy today = I am slumbery today
+you look so sad/mopish, what happened?
+call me later = ring me up later
 
 
---> SYNONYM and ANTONYM
 
+---> SYNONYM and ANTONYM
 --> A
 alive                         dead                          (life != death)
 lively = animated             depressed
