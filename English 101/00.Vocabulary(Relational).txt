@@ -47,6 +47,12 @@ apply             application             applied                   uygulamak
                   availability            available                 mevcut olma, hazır bulunma, müsait olma
 assemble
 resemble          resemblance                                       benzemek, benzetim
+assist            assistance              assistant                 yardım etmek -- yardım -- yardımcı, asistan
+insist            insistence
+consist       
+resist            resistance                                        direnmek
+persist           persistence
+
 
 ---> B
 beautify          beauty                  beautiful                 güzelleştirmek
@@ -89,14 +95,22 @@ account           account, accounting     accountant                hesaplamak, 
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
+conceal
+choose            choice                  chosen                    seçmek -- seçim -- seçilmiş
+communicate       communication           communicative             iletişim kurmak -- iletişim
+complain          complaint                                         şikayet etmek -- şikayet
+confess           confession                                        itiraf etmek -- itiraf
+                  crime                   criminal                  suç -- suçlu
 controverse                               controversial             tartışmak, çekişmek
                                           converse                  ters, zıt
                                           adverse                   olumsuz, kötü
                                           reverse                   tersine çevirmek
                                           perverse                  huysuz, inatçı
 
+
+
 ---> D
-define            definition              definite/ly != indefinite tanımlamak, belirlemek, belirtmek
+define            definition              in-definite/ly            tanımlamak, belirlemek, belirtmek
 describe          description             descriptive               tanımlamak, tarif etmek, tasvir etmek       
 deceive           deception               deceptive                 aldatmak, yanıltmak -- yanıltıcı
 receive           reception/receipt       receiver                  almak, kabul etmek -- reçete, makbuz -- alıcı
@@ -107,6 +121,7 @@ demand            demand                  demanding                 talep, istem
 construct         construction            constructive              inşa etmek -- inşaat  
 destruct          destruction             destructive               yıkmak -- yıkım -- yıkıcı
 devastate         devastation             devastating               yıkmak -- yıkım -- yıkıcı
+desire            desire                  desired                   arzulamak
 deter             deterrence              deterrent                 caydırmak -- cayma -- caydırıcı
 determine         determination           determined                belirlemek, kararlaştırmak, karara bağlamak -- belirleme, kararlılık, azim, tespit, saptama 
                   distinction             distinctive               ayrım, farklılık
@@ -135,7 +150,7 @@ exemplify         example                 exam                      örneklendir
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
-expend            expense                 expensive != inexpensive  harcamak -- gider, harcama, masraf -- pahalı
+expend            expense                 in-expensive = pricey     harcamak -- gider, harcama, masraf -- pahalı
                   expenditure             expender                  masraf, harcama
 suspend
 depend on         dependence              dependent != independent  bağlı olmak -- bağlılık -- bağlı != bağımsız
@@ -176,6 +191,7 @@ generate          generation                                        oluşturmak,
 
 ---> H
 hesitate          hesitation              hesistant                 tereddüt etmek - tereddüt-lü
+hide              hidden                  hideous != ugly           saklamak, gizlemek -- gizli
 heal              health                  healthy                   iyileşmek, iyileştirmek, düzelmek, tatlıya bağlamak
 heat              heat                    hot                       ısıtmak -- ısı
                   warmness/warmth         warm                      sıcaklık -- sıcak
@@ -210,6 +226,7 @@ confer            conference                                        sunmak, gör
                   conferment                                        ödüllendirme, verme, bahşetme
 suffer            sufferance                                        acısını çekmek, zarar görmek, cezasını çekmek -- katlanma, müsamaha, dayanma
 
+                  jealousy                jealous                   kıskançlık
 ---> K
 know              knowledge               (un)known                 bilmek
 
@@ -219,6 +236,7 @@ survive           survival                survivor                  hayatta kalm
 lengthen          length                  long, along               uzatmak
 
 ---> M
+manage            management              manager                   yönetmek -- yönetme -- müdür
 maintain          maintenance                                       bakım, sürdürme
 mandate                                   mandatory                 zorlamak -- zorunlu
 marry             marriage                married to                evlenmek
@@ -263,10 +281,12 @@ compromise                                                          uzlaşmak, u
 publish           publishment                                       yayımlamak, yayınlamak, yaymak
                   publication                                       yayınlama
 prevent           prevention              preventive                önlemek -- önlem -- önleyici
+purchase          purchase                                          satın almak -- satın alma
 
 
 ---> R
 regulate          regulation              regular != irregular      düzenlemek -- düzenli
+                  recession                                         gerileme
 require           requirement             required                  gerekmek -- gereklilik -- gerekli
                   redundance              redundant                 gereksiz
 renew             renewal                 renewable                 yenilemek -- yenileme, uzatma -- yenilenebilir
@@ -316,6 +336,13 @@ succeed           success                 successful                başarmak
                   succession              successive                ard arda devamlı -- ardışık
 suffice                                   sufficient                yetmek
 suspect           suspicion               suspicious                şüphelenmek - şüphe - şüpheli
+                  smartness               smart                     akıllılık
+sell              sale                    sold                      satmak -- satış -- satıldı
+scare             scary                   scared
+                  seniority               senior
+stimulate         stimulation                                       tetiklemek
+simulate          simulation
+                  suspense                suspenseful/suspect       şüphelenmek
 import            importance              important                 ithal etmek -- önem -- önemli
 export            export                                            ihraç etmek
 report            report                                            raporlamak
@@ -385,8 +412,6 @@ audience - viewer
 attack - assault
 
 
-
-
 he is such a joker/wisecracker
 nothing ever last forever
 empathy or gullibility - take your pick
@@ -411,6 +436,37 @@ tolerate - put up with
 arrange - set up
 reject - turn down
 mention - touch on
+trust on - count on
+
+
+
+wonder
+express expression
+treat
+rake
+rank
+admirable - hyrn olunası
+utmost politeness olagan üstü nezaket
+appear
+disappear
+approach
+precisely
+try trial
+forgive
+fun funny
+turn
+return
+advance -- avans -- 
+provide
+arrest
+property deed- tapu belgeleri
+suspendsuspensionsuspensiveaskıya almak durdurmak asmak uzaklaştırmak -- süspansiyon -- durdurucu
+suspense -- muallak kararsız belirsiz
+suspensory - şüpheli
+
+
+
+
 
 
 
