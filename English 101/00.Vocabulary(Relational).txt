@@ -15,7 +15,6 @@ act               action                  active                    davranmak, h
 react             reaction                reactive / proactive      tepki vermek
 interact          interaction             interactive               etkileşmek, birbirini etkilemek
                   accuracy                accurate-ly               tam olarak
-                  absence                 absent                    yokluk
 appreciate        appreciation            appreciating              takdir etmek -- takdir -- takdir eden
 arrange           arrangement                                       düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak                   
 attribute         attribute/attribution                             atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
@@ -28,8 +27,10 @@ pertain           pertinence              pertinent/pertaining to   ilgili olmak
 retain                                    retainer                  tutmak, alıkoymak, kaybetmemek, elinden kaçırmamak -- tutucu
 maintain          maintenance             maintainable              korumak, savunmak, sürdürmek -- bakım -- bakım yapılabilir
 sustain           sustainability          sustainable               sürdürmek, güçlendirmek, desteklemek 
+entertain         entertainment           entertaining              ağırlamak, eğlence
 present           presentation            present-able              sunmak - sunum - hediye       
                   presence                present                   varlık
+                  absence                 absent                    yokluk
 represent         representation          representative            temsil etmek
                                           appropriate / proper      uygun
                                           disproportionate          orantısız
@@ -64,7 +65,9 @@ benefit           beneficence             beneficial                faydalanmak 
                   
                   
 ---> C
-collaborate       collaboration                                     iş birliği
+collaborate       collaboration           collaborative             iş birliği yapmak, el ele vermek, birlik olmak
+coordinate        coordination            coordinator               koordine etmek, düzenlemek, uyum sağlamak
+cooperate         cooperation             cooperative
 comprehend        comprehension           comprehensive             kapsamlı
 reprehend         reprehension                                      azarlamak, kınamak
 consider          consideration           considerable              iyice düşünmek -- önemli
@@ -95,7 +98,7 @@ account           account, accounting     accountant                hesaplamak, 
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
-conceal
+conceal           concealment                                       gizlemek, saklamak, örtmek, örtbas etmek
 choose            choice                  chosen                    seçmek -- seçim -- seçilmiş
 communicate       communication           communicative             iletişim kurmak -- iletişim
 complain          complaint                                         şikayet etmek -- şikayet
@@ -145,15 +148,16 @@ elect             election                elected                   seçmek -- s
 emphasize         emphasis                                          vurgulamak, üzerinde durmak
 enhance           enhancement                                       geliştirmek
 engage            engagement              engaged                   nişanlamak
-entertain         entertainment           entertaining              ağırlamak, eğlence
 exemplify         example                 exam                      örneklendirmek
 examinate         examination                                       inceleme yapmak
 expose            exposure                exposed                   maruz kalmak
 extend            extension               extensive-ly              geniş ölçüde
 expend            expense                 in-expensive = pricey     harcamak -- gider, harcama, masraf -- pahalı
                   expenditure             expender                  masraf, harcama
-suspend
 depend on         dependence              dependent != independent  bağlı olmak -- bağlılık -- bağlı != bağımsız
+suspend           suspension              suspensive                askıya almak durdurmak asmak uzaklaştırmak -- süspansiyon -- durdurucu
+                  suspense                suspectful                muallak kararsız belirsiz
+                                          suspensory                şüpheli
 press             pressure                pressed                   baskı yapmak
 express           expression                                        ifade etmek, açıklamak           
 depress           depression              depressed                 bastırmak, moralini bozmak
@@ -460,9 +464,6 @@ advance -- avans --
 provide
 arrest
 property deed- tapu belgeleri
-suspendsuspensionsuspensiveaskıya almak durdurmak asmak uzaklaştırmak -- süspansiyon -- durdurucu
-suspense -- muallak kararsız belirsiz
-suspensory - şüpheli
 
 
 
