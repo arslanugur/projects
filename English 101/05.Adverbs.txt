@@ -1,4 +1,4 @@
-Adverbs of Time ---> When?
+---> ADVERBS OF TIME --- WHEN?
     before -- after, today, tomorrow, yesterday, already, now = right now, soon, 
     since -- for, tonight, always, until, recently, just, immediately, fortnightly
     still, eventually, firstly, secondly, finally, when, for a while, in a while, 
@@ -39,7 +39,25 @@ Adverbs of Time ---> When?
     I am still hungry.
 
 
-Adverbs of Place ---> Where?
+    YET
+    Have you finished your work yet? (= simple request for information)
+    No, not yet. (= simple negative answer)
+    They haven't met him yet. (= simple negative statement)
+    Haven't you finished yet? (= expressing surprise)
+
+---> ADVERBS OF DURATION ---> HOW LONG?
+    She stayed in the Bears' house all day.
+    My mother lived in France for a year.
+    I have been going to this school since 1996.
+    I stayed in Switzerland for three days.
+    I am going on vacation for a week.
+    I have been riding horses for several years.
+    The French monarchy lasted for several centuries.
+    I have not seen you since Monday.
+    Jim has been working here since 1997.
+    There has not been a more exciting discovery since last century.
+
+---> ADVERBS OF PLACE --- WHERE?
     on -- off, in -- out, inside -- outside, over -- under, overseas, underground
     near – away, far, nearby, above – below, down -- up, here, there, abroad, indoors 
     everywhere, somewhere, elsewhere, about, forward – Backward, ahead -- back, 
@@ -59,20 +77,21 @@ Adverbs of Place ---> Where?
     The policeman comes here. --> Here comes the policeman. (Polis buraya gelir)
     John is here. --> Here is John. (John burada)
 
-Adverbs of Degree ---> How Much?
+---> ADVERBS OF DEGREE --- HOW MUCH?
     almost, hardly, barely, fully, completely, decidedly, deeply, entirely, extremely, intensely, 
     highly, fairly, indeed, somewhat, so, simply, scarcely, really, rather, quite, purely, positively, 
     perfectly, nearly, much, most, lots, little, less, least, just, greatly, enormously
 
     Adverb of degree	Modifying	    Example
     -------------------------------------------
-    extremely	        adjective	    The water was extremely cold.
-    quite	            adjective	    The movie is quite interesting.
-    just	            verb	        He was just leaving.
-    almost	            verb	        She has almost finished.
-    very	            adverb	        She is running very fast.
-    too	                adverb	        You are walking too slowly.
-    enough	            adverb	        You are running fast enough.
+    extremely           adjective       The water was extremely cold.
+    quite               adjective       The movie is quite interesting.
+    just                verb            He was just leaving.
+    almost              verb            She has almost finished.
+    very                adverb          She is running very fast.
+    too                 adverb          You are walking too slowly.
+    enough              adverb          You are running fast enough.
+
 
     ENOUGH
         Is your coffee hot enough to drink?
@@ -103,7 +122,7 @@ Adverbs of Degree ---> How Much?
         It is too hot outside to go for a walk.
 
 
-Adverbs of Manner ---> How?
+---> ADVERBS OF MANNER --- HOW?
     suddenly, easily, loudly, quietly, softly, happily, quickly, quietly, slowly, carefully, gladly
     badly, boldly, bravely, eagerly, obediently, frankly, cheerfully, joyously, elegantly, justly, neatly
     kindly = gently, equally, cautiously, faithfully, honestly, dramatically, fantastically
@@ -124,7 +143,7 @@ Adverbs of Manner ---> How?
     My father is good at football. (Babam futbolda iyidir) --> He plays football well. (O iyi (iyi bir şekilde) futbol oynar)
 
 
-Adverbs of Frequency ---> How Often?
+---> ADVERBS OF FREQUENCY ---> HOW OFTEN?
     Always, Sometimes, Often, Frequently, Seldom, Rarely
     Constantly, Generally, Normally, Regularly, Occasionally, Infrequently
     Hardly ever, Almost never, Never
@@ -140,30 +159,8 @@ Adverbs of Frequency ---> How Often?
     -I saw the movie seven times.
 
 
-Adverbs of Duration ---> How Long?
-    She stayed in the Bears' house all day.
-    My mother lived in France for a year.
-    I have been going to this school since 1996.
-    I stayed in Switzerland for three days.
-    I am going on vacation for a week.
-    I have been riding horses for several years.
-    The French monarchy lasted for several centuries.
-    I have not seen you since Monday.
-    Jim has been working here since 1997.
-    There has not been a more exciting discovery since last century.
 
-
-Adverbs of Affirmation
+ADVERBS OF AFFIRMATION
     certainly, surely, apparently, obviously, undoubtedly, perhaps
-
-
----> YET
-      Have you finished your work yet? (= simple request for information)
-      No, not yet. (= simple negative answer)
-      They haven't met him yet. (= simple negative statement)
-      Haven't you finished yet? (= expressing surprise)
-
-
-
 
 
