@@ -203,9 +203,8 @@ Quantifier: 	       a few, another, several, much, many, a lot of, some, very
      1 --> -s / -es   - çoğul yapma eki, düzenli isimler için 			--> Davidson motorcycles are quite expensive
      2 --> -s / -es   - (he, she, it) Geniş zaman fiil eki, tekil özneler için  --> Harley Davidson produces various motorcycles
      3 --> 's / s'    - -nın, -nin , tamlama yapmak için			--> Harley David's son started a motorcycle job
-     4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için	--> Harley Davidson is a famous motorcycle
+     4 --> 's / is    - -dır, -dir, tekil öznenin niteliğini belirmek için	--> Harley Davidson's a famous motorcycle
      5 --> 's / has   - sahiplik ya da perfect bildirir, genelde has V3 gibi	--> He's got a motorcycle / She's seen this movie
-
 
 
 
