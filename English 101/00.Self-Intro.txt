@@ -1,24 +1,28 @@
 INTRODUCTION YOURSELF - “Tell me about yourself?!” 
 1 --> GREETINGS
-      Hello
+      Hey!
+      Hello!
       Good Morning, Good Afternoon, Good Evening
       How is/was your day (going)? --> (my day is/was) good
                                    --> my day was so tiring
                                    --> I studied all day long
                                    --> I worked all day long
-                                           --> did you rest enough?
+                                   --> did you rest enough?
                                    --> It was a busy day
                                    --> Today i was so busy
-                                   --> it was good/stressful
+                                   --> it was good
+                                   --> it was stressful
+                                   --> it was so tiring
                                    --> I had a good day
+                                   --> I had a very busy day
                                    --> I was at work all day
                                    --> I enjoyed my day
                                    
 2 --> YOUR NAME
-      What is your name?
-      I’m ..
-      I am ..
-      My name is ..
+      What is your name?      --> I’m ..
+                              --> I am ..
+                              --> My name is ..
+
       Can you spell your name?
             A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
             J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
@@ -26,11 +30,11 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 3 --> LOCATION
       tell me about the place you live?
-            I live in İstanbul
-            I stay in Kadıköy
-            Being with my friends in the same neighborhood makes me happy
-            Our house is on third floor
-            There are some trees, and roses in our garden
+                              --> I live in İstanbul
+                              --> I stay in Kadıköy
+                                    --> Being with my friends in the same neighborhood makes me happy
+                                    --> Our house is on third floor
+                                    --> There are some trees, and roses in our garden
             
       tell me about your town?
             
@@ -38,11 +42,14 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                           --> I live in Aksaray from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
       
-      what is your nationality --> I’m turkish
-      where do you come from? --> I come from Turkey/Switzerland/Sweden/Russia/Greece/Japan/Mexico/Brazil
-      where did you come from? --> I came from Turkey/Germany/England/Poland/France/China/Spain/Portugal
+      what is your nationality
+            --> I’m turkish
+      where do you come from?
+            --> I come from Turkey / Switzerland / Sweden / Russia / Greece / Japan / Mexico / Brazil
+      where did you come from?
+            --> I came from Turkey / Germany / England / Poland / France / China / Spain / Portugal
       where is your address? --> Street, neighborhood
-               My address is behind the Saatçioğlu Mosque
+           --> My address is behind the Saatçioğlu Mosque
                           .. near Hazım Kulak Secondary School
                           .. next to swimming pool in Büyük Bölcek Neighborhood
       where were you born?  --> I was born in Antalya
@@ -63,81 +70,90 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                                       
 4 --> POSITION and COMPANY
       what's your job/occupation/profession?
-                      - I am a teacher
-                      - I am an engineer
-                      - I am a technician
-                      - she is a computer operator
-                      - I am an architect, I draw buildings
-                      - I don't work now, I am an unemployed
-                      - I am not working now, I am a student
-                      - I don't work anymore, I am retired
-                      - I worked for several/various jobs, now i am retired
+            --> I am a teacher
+            --> I am an engineer
+            --> I am a technician
+            --> she is a computer operator
+            --> I am an architect, I draw buildings
+            --> I don't work now, I am an unemployed
+            --> I am not working now, I am a student
+            --> I don't work anymore, I am retired
+            --> I worked for several/various jobs, now i am retired
                       
                       
-      where do you work? - I work as a teacher at school
-                         - I work as an engineer in a factory/company
-                         - I work as an accountant in a hotel
-                         - I work as a deputy manager
-                         - I work as a product manager
-                         - I work as a quality controller in a factory
+      where do you work? --> I work as a teacher at school
+                         --> I work as an engineer in a factory/company
+                         --> I work as an accountant in a hotel
+                         --> I work as a deputy manager
+                         --> I work as a product manager
+                         --> I work as a quality controller in a factory
       where did you work before?
-                         - I worked in a hospital before
-                         - I worked in a bank before
-                         - I didn't work before, I'm still a student/intern
-      I work at ‘company’ in the ‘...department’  --> I work at Google in the marketing department
-      I am a ‘position’ at ‘company’.             --> I’m a manager at Starbucks.
-      I work in ‘general area’.                   --> I work in sales.
-      
-      
+                         --> I worked in a hospital before
+                         --> I worked in a bank before
+                         --> I didn't work before, I'm still a student/intern
+                  
+                  I work at ‘company’ in the ‘...department’
+                        --> I work at Google in the marketing department
+                  I am a ‘position’ at ‘company’.
+                        --> I’m a manager at Starbucks.
+                  I work in ‘general area’.
+                        --> I work in sales.
+            
       
 
 5 --> QUALIFICATIONS
-      what do you study? ---> I study Civil Engineering
-      what did you study? ---> I studied Electrical Engineering
+      what do you study?
+            --> I study Civil Engineering
+            --> I study Architecture
+      what did you study?
+            --> I studied Electrical Engineering
       how many years are you student/teacher/engineer/economist/builder/waiter..?
-            - I am student for sixteen years
-            - I am teacher for six months
-            - I am engineer for eight years
-            - I am nurse since 2000
-            - I am nurse for twenty-one years
-      I have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
-      I’m about to graduate - nerdeyse mezunum/mezuna kaldım
-      I am a ‘subject’ graduate. --> I am a marketing graduate
-      I have a bachelor of arts degree in marketing.
-      I am a biology postgrad - lisansüstü biyoloji mezunuyum
-      I have a master/PhD degree (Doctor of Philosophy)
-      I went to Turkish school in Saudi Arabia
-      I am currently taking a course in ‘theorical subject’.
-      I’m currently taking a course in maths.
-      I am currently taking a course on ‘practical subject’ 
+            --> I am student for sixteen years
+            --> I am teacher for six months
+            --> I am engineer for eight years
+            --> I am nurse since 2000
+            --> I am nurse for twenty-one years
+      
+            --> I have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
+            --> I’m about to graduate - nerdeyse mezunum/mezuna kaldım
+            --> I am a ‘subject’ graduate. --> I am a marketing graduate
+            --> I have a bachelor of arts degree in marketing.
+            --> I am a biology postgrad - lisansüstü biyoloji mezunuyum
+            --> I have a master/PhD degree (Doctor of Philosophy)
+            --> I went to Turkish school in Saudi Arabia
+            --> I am currently taking a course in ‘theorical subject’.
+            --> I’m currently taking a course in maths.
+            --> I am currently taking a course on ‘practical subject’ 
       
       
-      a course on jewellery/pottery making
-      ... taking a ‘subject’ course --> I am taking a pottery course
+            --> ... taking a ‘subject’ course
+            --> I am taking a pottery course
+            --> a course on jewellery/pottery making
 
-      I have completed a ‘time’ course in/on ‘subject’.
-      number-unit of time
-      A 72-hour ‘subject’ course
-      A 3-day ‘subject’ course
+            --> I have completed a ‘time’ course in/on ‘subject’.
+            --> number-unit of time
+            --> A 72-hour ‘subject’ course
+            --> A 3-day ‘subject’ course
 
-      I want to get promoted in Office/Nursery
+            --> I want to get promoted in Office/Nursery
 
 6 --> EXPERIENCE
       When did you graduate from primary/secondary school?
-               I graduated from primary/secondary school in 2000
-      I have ‘number’ years of experience in the ‘occupation’ field.
-      I have 3 years of experience in the neuroscience field
-      I have ‘number’ years of ‘occupation’ experience
-      I have 10 years of sales experience
-      I have worked in ‘occupation’ field for ‘unit of time’
-      I have worked in the accounting field for three years
-      What do you think about your future?
-      I want to be a dentist in the future
+               --> I graduated from primary/secondary school in 2000
+               --> I have ‘number’ years of experience in the ‘occupation’ field.
+               --> I have 3 years of experience in the neuroscience field
+               --> I have ‘number’ years of ‘occupation’ experience
+               --> I have 10 years of sales experience
+               --> I have worked in ‘occupation’ field for ‘unit of time’
+               --> I have worked in the accounting field for three years
+       What do you think about your future?
+               --> I want to be a dentist in the future
 
 7 --> FAMILY
-      how many people in your family? - there are five people in my family
-      I am from a family of four --> (dört kişilik bir ailedenim)
-      we are a family of four -->    (dört kişilik bir aileyiz)
+      how many people in your family? 
+            --> there are five people in my family
+            --> I am from a family of four      --> (dört kişilik bir ailedenim)
+            --> we are a family of four         --> (dört kişilik bir aileyiz)
       how many brothers/sisters (siblings) do you have? --> I have a brother
                                                         --> I have two sisters
       Tell me about your family? --> My father is ...
@@ -147,46 +163,51 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                  --> My younger sister is ...
       How old is your brother/sister? --> My brother is 'number' years old
                                       --> My sister is 'number' years old
-      How many family member...  ---> I am from a family of ‘number’
+                  
+            --> I am one of ‘number’ siblings
+            --> I am one of four siblings. / I am one of four
+            --> I am an only child
+            --> I want to have a younger brother
+            --> I am/was the first born in my family - ailemde ilk doğan çocuk benim/bendim
+            --> it's tough being a middle child - ortanca çocuk olmak zor
+            --> she is a middle child  - o ortanca çocuk
+            --> i am an only child - ben tek çocuğum
+            --> she is my youngest (daughter) - o benim en küçük/genç kızım
+            --> he is my eldest son - o benim en büyük oğlum
+            --> this is Chris my second child - bu Chris, benim ikinci çocuğum
+            --> he is our third child - o bizim üçüncü oğlumuz
+            --> she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
 
-      I am one of ‘number’ siblings
-      I am one of four siblings. / I am one of four
-      I am an only child
-      I want to have a younger brother
-      I am/was the first born in my family - ailemde ilk doğan çocuk benim/bendim
-      it's tough being a middle child - ortanca çocuk olmak zor
-      she is a middle child  - o ortanca çocuk
-      i am an only child - ben tek çocuğum
-      she is my youngest (daughter) - o benim en küçük/genç kızım
-      he is my eldest son - o benim en büyük oğlum
-      this is Chris my second child - bu Chris, benim ikinci çocuğum
-      he is our third child - o bizim üçüncü oğlumuz
-      she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
 
-
-      Do you live with your parents?  --> Yes, I live with my parents / No, I don't live with my parents, I live alone. 
-      Are you living with your parents? --> Yes, I am living with my parents / No, I am not living with my parents, I live alone.
+      Do you live with your parents?      --> Yes, I live with my parents
+                                          --> No, I don't live with my parents, I live alone. 
+      Are you living with your parents?   --> Yes, I am living with my parents
+                                          --> No, I am not living with my parents, I live alone.
 
 8 --> HOBBIES
       What are you interested in?
-      I am interested in ...
+            --> I am interested in ...
       What is your hobby? ---> My hobby is ...
-      I like to play piano
-      I really like running
-      I really enjoy tennis
-      I am a big fan of ‘hobby’
-      I’m a big fan of go karting.
-      I am a keen runner
-      I am a keen tennis player
+      
+      what do like to do?
+            --> I like to play piano
+            --> I really like running
+            --> I really enjoy tennis
+            --> I am a big fan of ‘hobby’
+            --> I’m a big fan of go karting.
+            --> I am a keen runner
+            --> I am a keen tennis player
 
 9 --> AGE
-      I am ‘number’ years old
-      I am ‘number’.
-      I’m in my ‘early/mid/late’ + ‘decade’.
-      I’m in my mid-twenties
-      She’s in her early teens
-      He’s in his late-forties
-      He’s a thirty-something accountant
+      May I know your age?
+                  --> I am ‘number’.
+                  --> my age is 30 y/o
+                  --> I am ‘number’ years old
+                  --> I’m in my ‘early/mid/late’ + ‘decade’.
+                  --> I’m in my mid-twenties
+                  --> She’s in her early teens
+                  --> He’s in his late-forties
+                  --> He’s a thirty-something accountant
 
 10 --> FUN FACT ABOUT YOURSELF
         - an interesting fear
@@ -200,38 +221,38 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 
 ---> GENERAL QUESTIONS
 tell me about yourself
-      I'm ...
-      I am a student/teacher
-      I am ... years old
-      I have a brother/sister
-      I have two brothers
-            my first brother is thirty-five years old
-            my second brother is twenty-two years old
+      --> I'm ...
+      --> I am a student/teacher
+      --> I am ... years old
+      --> I have a brother/sister
+      --> I have two brothers
+            --> my first brother is thirty-five years old
+            --> my second brother is twenty-two years old
       
 tell me about your best friend
-      my best friend is ... 
-      his name is ...
-      her name is ...
-      he is a very good friend
-      he is very talkative
-      he is ... years old
-      he likes playing football/basketball
-      he lives in Ankara
-      he studies Physics/Architecture
-            he works in a factory
-            he sells computers
-      we are friends with him/her since university
-      he has black hair and blue eyes
+      --> my best friend is ... 
+      --> his name is ...
+      --> her name is ...
+      --> he is a very good friend
+      --> he is very talkative
+      --> he is ... years old
+      --> he likes playing football/basketball
+      --> he lives in Ankara
+      --> he studies Physics/Architecture
+      --> he works in a factory
+      --> he sells computers
+      --> we are friends with him/her since university
+      --> he has black hair and blue eyes
 
 tell me about your home/house
 
 
 tell me about someone in your family
-      I have a brother
-      he has short brown hair
-      he is eleven years old. I am older than him
-      he plays football with his friends outside
-      he messes with me
+      --> I have a brother
+      --> he has short brown hair
+      --> he is eleven years old. I am older than him
+      --> he plays football with his friends outside
+      --> he messes with me
       
       I have an older brother
       he is twenty-eight years old and he is engaged (he has a fiance)
