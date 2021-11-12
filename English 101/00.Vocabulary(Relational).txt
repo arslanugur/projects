@@ -88,6 +88,9 @@ confide           confidence              self confident            güvenmek --
                   loyalty                 loyal                     sadakat -- sadık
                   faith                   faithful                  inanç -- inançlı
                   convenience             convenient                kolaylık, kullanışlılık
+corrupt           corruption
+erupt             eruption
+interrupt         interruption
 cure              curation                curative                  tedavi etmek -- tedavi -- tedavi edici
 conclude          conclusion              conclusive                sonuçlandırmak
 compare           comparision             comparative               kıyaslamak
@@ -352,6 +355,7 @@ export            export                                            ihraç etmek
 report            report                                            raporlamak
 support           support                 supportive                desteklemek - destekleyici
 study             study                   student                   öğrenim görmek, okumak
+preside           presidence              president                 yönetmek, başkanlık etmek -- başkan
 
 ---> T
 think             thought                 thoughtful                düşünmek
@@ -359,6 +363,7 @@ think             thought                 thoughtful                düşünmek
 ---> U
 use               usage                   useful                    kullanmak
 utilise           utilisation                                       kullanmak
+                  utility
                   vacancy                 vacant                    boş yer, oda
 
 ---> V
