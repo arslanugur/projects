@@ -263,7 +263,7 @@ how often	|		|		|   been studying    |
 how long	|		|		|   been going	     |
 
 
----> FUTURE TIMES
+---> FUTURE TIME
 WILL
 Rapid Decision    – I am thirsty. I think I will buy a drink.
 Offer             – That looks heavy, I will help you with it.
