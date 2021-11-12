@@ -1,11 +1,19 @@
-Coordinating Conjunctions - FANBOYS
----> FOR
+CONJUNCTIONS
+      - Coordinating Conjunctions
+            - for, and, nor, but, or, yet, so
+      - Coordinating Conjunctions
+            -- too, also, so, also
+      - Subordinating Conjunctions
+
+
+---> COORDINATING CONJUNCTIONS - FANBOYS
+--> FOR
 Shows a reason or purpose. 
 Using 'for' in this way can often be seen as quite formal, 
 and so is usually replaced with the word 'because', 'since', or 'as'.
       The money I earned is gone, for I have spent it all.
 
----> AND
+--> AND
 Connects two similar ideas.
       I have to be at work, and the doctor's.
             I have to be at work
@@ -14,13 +22,13 @@ Connects two similar ideas.
             I'm going to learn how to play the guitar.
             I'm going to learn how to play the piano.
             
----> NOR
+--> NOR
 Now can be interchanged with 'neither' and compares a negative, contrasting Idea. 
 Essentially, it is the opposite of 'and'.
       I cannot go to work, nor the doctor's.
       I'm not going to learn to play the guitar, nor the piano.
 
----> BUT
+--> BUT
 Compares to contrasting ideas or highlights an exception.
       I can go to the pool, but I won't swim.
             Idea:             I can go to the pool
@@ -29,19 +37,71 @@ Compares to contrasting ideas or highlights an exception.
 It can also be used in a way that says, ‘not this, but that’.
       The noise wasn’t coming from a computer, but rather a phone.
 
----> OR
+--> OR
 Or highlights two choices.
       You can choose a blue jumper or a pink jumper.
       They were either angry or sad.
       Do you want vanilla or chocolate cake?
 
----> YET
+--> YET
 Yet is used in a way to show an exception or a contrast to an idea.
       There are five cars, yet none of them are working.
       I drank a full bottle of water, yet I still felt thirsty.
 
----> SO
+--> SO
 So is used to show a reaction or consequence.
       I ate a lot of cookies, so there are none left.
       I was feeling anxious, so I went home.
+
+
+
+---> CORRELATIVE CONJUNCTIONS
+	--> BOTH ... AND ...
+		- we'll have both the cheesecake and the chocolate cake.
+		- 
+		- 
+	--> EITHER ... OR ...
+		- a man either cheats or he doesn't.
+		- either come in, or go think somewhere else
+		- she either doesn't understand or is pretending
+	--> NEITHER ... NOR ...
+		- by the way, neither Alex nor I drink.
+		- he heard neither the clock nor the birds.
+		- they knew neither her name nor anything about her.
+      --> NOT ... BUT
+      --> NOT ONLY ... BUT ALSO 
+
+
+---> TOO, ALSO, SO, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
+	--> ALSO
+		- He was also dressed for the exclusive party.
+		- Both William and Catherine would also attend.
+		- She also lost her sense of smell and taste.
+	--> SO
+		- I am a student 		--> "So I am," replied she.
+		- my wife likes shopping 	--> "So is Martha," he answered with a laugh.
+		- you also talked with her? 	-->  "So did I," he interrupted. 
+		- he has seen her on the street --> So have I
+		- she had loved you 		--> So had I, but it's not possible any more 
+		- I didn't realize you were so sensitive about it.***
+		- I told you so.***
+		
+	--> TOO 
+		- If you’re going to the mall, can I come too?
+		- I love you too, sweetie. = me too.
+		- "Ah, you've come here too, young man!" he said
+
+	--> EITHER
+		- I can't sleep either.				
+		- no, no, don't answer that either.
+		- what if they don't talk, either?
+		- I don't know why either.	- I don't know anything about either.
+		- you don't trust me, either.
+		- it wasn't either of your faults.
+		- neither do I - and we should.
+
+
+---> SUBORDINATING CONJUNCTIONS
+
+
 
