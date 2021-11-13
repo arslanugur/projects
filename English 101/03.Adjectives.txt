@@ -66,8 +66,8 @@ hazardous to your health
 
 -y
 tasty, busy, lazy, witty, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
-jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, sassy, nasty, raunchy
-brainy, easy, snoppy - meraklı, snobby, sloppy - ihtiyatsız, scary, steamy, soapy, cheesy, gory, gritty, goofy, quirky 
+jolly, lousy, clumsy, crazy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary, steamy, soapy 
+brainy, easy, chessy - basmakalıp, ucuz, snoppy - meraklı, snobby, sloppy - ihtiyatsız, sassy, nasty, raunchy, gory, gritty, goofy, quirky 
 
 -ic
 fantastic, lunatic, fanatic, realistic, barbaric, romantic, gigantic 
