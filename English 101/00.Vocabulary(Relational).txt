@@ -35,6 +35,7 @@ represent         representation          representative            temsil etmek
                                           appropriate / proper      uygun
                                           disproportionate          orantısız
 admire            admiration              admired                   hayran olmak
+afford            effort                                            bir şeye sahip olmaya satın almaya gücü yetmek
 affect            effect                  effective != ineffective  etkilemek -- etki -- etkili
                   efficacy                efficient                 etkililik
                                           be affected by            -den etkilenmek
@@ -112,10 +113,12 @@ controverse                               controversial             tartışmak,
                                           adverse                   olumsuz, kötü
                                           reverse                   tersine çevirmek
                                           perverse                  huysuz, inatçı
-
+commit            commitment              committed                 kendini adamak
+sacrifice         sacrifice                                         kurban etmek
 
 
 ---> D
+dare              dare                    daring                    cüret etmek
 define            definition              in-definite/ly            tanımlamak, belirlemek, belirtmek
 describe          description             descriptive               tanımlamak, tarif etmek, tasvir etmek       
 deceive           deception               deceptive                 aldatmak, yanıltmak -- yanıltıcı
@@ -147,6 +150,7 @@ produce           production              productive !=unproductive üretmek, or
 
 ---> E
 edit              edition                 edited                    düzenlemek
+elate             elation                                           sevinmek, sevindirmek, neşelenmek
 elect             election                elected                   seçmek -- seçim -- seçilmiş
 emphasize         emphasis                                          vurgulamak, üzerinde durmak
 enhance           enhancement                                       geliştirmek
@@ -169,6 +173,8 @@ exceed            excession               excessive                 aşmak -- a�
                   excellence              excel
 
 ---> F
+fail              failure                 failed                    başarısız olmak
+focus on          focus                   focused                   odaklanmak
 facilitate        facilitation            facile                    kolaylaştırmak, rahatlatmak, hafifletmek, olanak tanımak
 feel              feeling                 felt                      hissetmek
 financialize      finance                 financial                 finanse etmek
@@ -469,7 +475,7 @@ advance -- avans --
 provide
 arrest
 property deed- tapu belgeleri
-
+blood, sweat , tears
 
 
 
