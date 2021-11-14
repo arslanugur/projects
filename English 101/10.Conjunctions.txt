@@ -87,57 +87,127 @@ So is used to show a reaction or consequence.
 
 
 ---> CORRELATIVE CONJUNCTIONS (Paired Conjuntions)
-	--> BOTH ... AND ...
+	--> BOTH ... AND ...			--> hem ... hem de ...
 		- we'll have both the cheesecake and the chocolate cake.
 		- he can both sing and play the violin
 		- I am finished with both my English essay and my history essay
-	--> EITHER ... OR ...
+	--> EITHER ... OR ...			--> ya ... ya da ...
 		- a man either cheats or he doesn't.
 		- either come in, or go think somewhere else
 		- she either doesn't understand or is pretending
 		- you can have either tea or coffee 
-	--> NEITHER ... NOR ...
+	--> NEITHER ... NOR ...			--> ne ... ne de ...
 		- by the way, neither Alex nor I drink.
 		- he heard neither the clock nor the birds.
 		- they knew neither her name nor anything about her.
 		- he will neither visit the museum nor attend the conference
 		- neither will he visit the museum nor will he attend the conference
-      	--> NOT ... BUT
-	--> NOT ONLY ... BUT ALSO / AS WELL
+	--> NOT ONLY ... BUT ALSO / AS WELL	--> sadece ... değil, aynı zamanda ...
       		- not only John but also George is from London
 		- not only did he invite his cousins but also his close friends 
 		- Not only am I finished studying for English, but I’m also finished writing my history essay.
 
-      	--> SO ... AS
+      	--> SO ... AS				--> kadar ... çok
       		- he can’t run so fast as George
-	--> SO ... THAT
+	--> SO ... THAT				--> öyle ... ki
 		- he spoke so quickly that nobody understood what he said
-	--> AS ... AS
+	--> AS ... AS				--> kadar
 		- the flat that we will buy must be as cheap as possible
 		- he can’t run as fast as George
 		- Jane is as rich as Peter
-	--> SUCH ... THAT
+	--> SUCH ... THAT			--> öyle ... ki
 		- he is such a good player that many teams are eager to transfer him
-	--> THE MORE ... THE MORE
+	--> THE MORE ... THE MORE		--> ne kadar ... o kadar ...
 		- the more you work, the more you earn
 		- the longer they play, the more they lose- ne kadar uzun oynarlarsa o kadar kaybederler
 	--> NO SOONER ... THAN 			--> daha erken yapmamıştım, demeye kalmadan, yapar yapmaz
-yapar yapmaz	he had no sooner opened his eyes than the phone rang
-no sooner had he opened his eyes than the phone rang
-whether … or
-ya da sevmesin	he will have to cooperate with us, whether he likes us or not
-rather … than	i would rather stay at home than go out tonight
-hardly … when
-zar zor	he had hardly found a job when he got ill
-hardly had he found a job when he got ill
-scarcely … when
-ucu ucuna
-ancak	he had scarcely gone to bed when the phone rang
-scarcely had he gone to bed when the phone rang
-
+		- he had no sooner opened his eyes than the phone rang
+		- no sooner had he opened his eyes than the phone rang
+	--> WHETHER ... OR			--> ya da sevmesin	
+		- he will have to cooperate with us, whether he likes us or not
+	--> RATHER ... THAN
+		- i would rather stay at home than go out tonight
+	--> HARDLY ... WHEN			--> zar zor	
+		- he had hardly found a job when he got ill
+		- hardly had he found a job when he got ill
+	--> SCARCELY ... WHEN			--> ucu ucuna, ancak
+		- he had scarcely gone to bed when the phone rang
+		- scarcely had he gone to bed when the phone rang
 
 
 ---> SUBORDINATING CONJUNCTIONS
+--> Emphasis
+	indeed, obviously, particularly, in particular, especially, clearly, importantly, 
+	absolutely, definitely, without a doubt, undoubtedly, never, it should be noted
+
+--> Addition
+	so that, even so, in spite of, regardless of, due to, by means of, nonetheless, further, furthermore,
+	also, too, besides, finally, last, apart from, along with, additionally, in addition to this, then,
+	moreover, as well as (that), what’s more, not only…but also,
+
+--> Summary
+	in short, in the word, anyway, in brief, briefly, it seems, clearly, in sum, to sum up, in summary, 
+	to summarize, after all, in general, in conclusion, altogether, to conclude
+
+--> Order
+	firstly, secondly, thirdly, finally, at this time, following, previously, before, 
+	subsequently, above all, last but not least, first and foremost
+
+--> Result (Consequence)
+	as a result, as a consequence, therefore, thus, consequently, hence, for this reason, due to, 
+	so, therefore, eventually, that’s why 
+
+--> Illustration
+	like, such as, for one thing, for instance, for example, that is, specifically, illustrated by, 
+	in particular, including, namely, in this case, proof of this, to demonstrate, to clarify, to illustrate
+	
+--> Comparison
+	than, rather than, whether or not, as much as, whereas, similarly, equally, likewise, just as, just like, 
+	similar to, same as, by the same token, in like manner, like, another .. like, in the same way, 
+	as with, comparable, as much as
+
+--> Contrast
+	however, but, yet, whereas, while, on the one hand, on the other hand
+
+	as opposed to, on the contrary, otherwise, instead of
+
+--> Condition
+	CÜMLE ALANLAR
+	on condition that, provided/providing that – şartıyla, koşuluyla
+	so long as, as long as – dığı sürece
+	unless – mezse, mazsa (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
+
+	if, only if, assuming that, in that case, in case (that), even if
+	in the event (that), supposing
+
+	whether or not, in order to, so that, otherwise, or (else)
+
+
+--> Reason (Purpose)
+	CÜMLE ALANLAR
+	-dığı için 
+	because, since, as
+
+	on the grounds that – mesi sebebiyle/gerekçesiyle
+
+	now that – artık … -dığına göre
+	seeing that – madem ki
+	inas much as – çünkü 
+	in that – çünkü
+
+	so that, in order (to) (that), to, so as to, what this in mind, in fact
+
+	İSİM ALANLAR
+	because of, due to, owing to, on account of, in view of, thanks to, by reason of
+
+
+
+	
+
+
+
+
+
 
 
 
