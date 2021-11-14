@@ -8,8 +8,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                    --> I studied all day long
                                    --> I worked all day long
                                    --> did you rest enough?
-                                   --> It was a busy day
-                                   --> Today i was so busy
+                                   --> it was a busy day
+                                   --> today i was so busy
                                    --> it was good
                                    --> it was stressful
                                    --> it was so tiring
@@ -449,11 +449,9 @@ how do you get to places?
                          by foot
 where do you go on holiday?
          I go on holiday to Antalya
-do you play sports?
 how often do you play sports?
 do you often go shopping?
-what have you got in your bedroom?
-what have you got in your kitchen?
+what have you got in your kitchen/bedroom/bathroom?
 what is your favorite food?
 what is your favorite colour?
 what restaurants do you like?
@@ -477,7 +475,7 @@ what music do you like?
 what kind of music do you like?
 how old are you?
 what is your favorite day of the week?
-what clothes are you wearing today?
+
       
 what time do you get up in the morning?
       I get up at seven in the morning
