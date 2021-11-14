@@ -250,25 +250,29 @@ tell me about your home/house
 tell me about someone in your family
       --> I have a brother
       --> he has short brown hair
+      --> he is shorter than me
       --> he is eleven years old. I am older than him
+      --> His favorite team is Galatasaray 
       --> he plays football with his friends outside
+      --> we sometime do homework together
       --> he messes with me
       
-      I have an older brother
-      he is twenty-eight years old and he is engaged (he has a fiance)
-      he is well-built
-            thin
-            fat
-      he has black hair
-      he works as painter/worker
-      sometimes, we don't get along with each other
+      --> I have an older/younger brother
+      --> he is twenty-eight years old and he is engaged (he has a fiance)
+      --> he is well-built
+                thin
+                fat
+      --> he has black hair
+      --> he works as painter/worker
+      --> sometimes, we don't get along with each other
       
-      I have a sister
-      she is blonde hair
-      she is student in primary school
-      she is jealous / envious
-      she has a dog and looks after the dog 
-      sometimes, she goes out with her friends
+      --> I have a sister
+      --> she has blonde hair
+      --> we are twins (I have a twin)
+      --> she is student in primary school
+      --> she is jealous / envious
+      --> she has a dog and looks after the dog 
+      --> sometimes, she goes out with her friends
 
 tell me about your job
       I worked as a receptionist, accountant, customer service officer, bank officer, customs officer, store manager
