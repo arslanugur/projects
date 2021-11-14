@@ -35,9 +35,10 @@ comfortable   more comfortable  the most comfortable
 ---> ADJECTIVE SUFFIXES
 -ful / -less	
 wonderful, beautiful, awful, useful, meaningful, cheerful, helpful 
-delightful, doubtful, powerful, peaceful, grateful, blissful
+delightful, doubtful, powerful, peaceful, grateful, blissful, worthless
 faithful != faithless, careful != careless, hopeful != hopeless
-spotless, relentless at - amansız, ruthless - acımasız
+spotless, reckless, relentless at - amansız, ruthless - acımasız, graceful – zarif
+
 
 -tive	
 sensitive, protective, attractive, combative, aggressive, progressive
@@ -45,6 +46,7 @@ cooperative, inquisitive = curious, investigative, primitive, explosive, incenti
 successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasive - ikna edici
 effective - etkili
 positive != negative
+
 
 -able
 trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
@@ -55,6 +57,7 @@ unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, obs
 patience - patient != impatient, fluent, arrogant, defiant, apparent, decent
 violence - violent, brilliance - brilliant
 efficient - verimli, tasarruflu != inefficient
+pleasant
 
 -ous	
 generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous = perilous
@@ -62,7 +65,7 @@ anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventur
 enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
 atricuous - acımasız, treacherous = untrustable, tremendous
 various artists for Rolling Stones tribute - Rolling Stone grubuna saygı için çeşitli sanatçılar
-hazardous to your health
+hazardous to your health, unambiguous, Conscious
 
 -y
 tasty, busy, lazy, witty, brainy, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
@@ -344,3 +347,6 @@ Sentimental
 Twists and Turns
 Heartfelt
 Rousing
+
+Dock – kenetlenmek limanlamak
+Rather – yerine
