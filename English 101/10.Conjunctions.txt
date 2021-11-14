@@ -136,40 +136,66 @@ So is used to show a reaction or consequence.
 
 
 ---> SUBORDINATING CONJUNCTIONS
+--> Time
+	after, before, when, while, as, by the time, since, until, as soon as, so long as, eventually 
+	whenever, every time (that), the first time (that), the last time (that), the next time (that)
+	now that, meanwhile, in the meantime, in the past, currently, presently, at last, immediately, finally
+
+
 --> Emphasis
 	indeed, obviously, particularly, in particular, especially, clearly, importantly, 
 	absolutely, definitely, without a doubt, undoubtedly, never, it should be noted
+
 
 --> Addition
 	so that, even so, in spite of, regardless of, due to, by means of, nonetheless, further, furthermore,
 	also, too, besides, finally, last, apart from, along with, additionally, in addition to this, then,
 	moreover, as well as (that), what’s more, not only…but also,
 
+
 --> Summary
 	in short, in the word, anyway, in brief, briefly, it seems, clearly, in sum, to sum up, in summary, 
 	to summarize, after all, in general, in conclusion, altogether, to conclude
+
 
 --> Order
 	firstly, secondly, thirdly, finally, at this time, following, previously, before, 
 	subsequently, above all, last but not least, first and foremost
 
+
 --> Result (Consequence)
 	as a result, as a consequence, therefore, thus, consequently, hence, for this reason, due to, 
 	so, therefore, eventually, that’s why 
 
+
 --> Illustration
 	like, such as, for one thing, for instance, for example, that is, specifically, illustrated by, 
 	in particular, including, namely, in this case, proof of this, to demonstrate, to clarify, to illustrate
-	
+
+
 --> Comparison
 	than, rather than, whether or not, as much as, whereas, similarly, equally, likewise, just as, just like, 
 	similar to, same as, by the same token, in like manner, like, another .. like, in the same way, 
 	as with, comparable, as much as
 
---> Contrast
+
+--> Contrast (Concession and Opposition)
 	however, but, yet, whereas, while, on the one hand, on the other hand
 
 	as opposed to, on the contrary, otherwise, instead of
+
+	even though, although, though, whereas, while, even if, no matter, whatever, wherever, whenever, but for
+
+	however + adj/ adv
+
+	but ... anyway, but ... still, yet ... still
+
+	nevertheless, nonetheless
+
+	despite, in spite of
+
+	apart from, admittedly, all the same, up to a point, even so
+
 
 --> Condition
 	CÜMLE ALANLAR
@@ -183,7 +209,7 @@ So is used to show a reaction or consequence.
 	whether or not, in order to, so that, otherwise, or (else)
 
 
---> Reason (Purpose)
+--> Reason (Purpose / Cause and Effect)
 	CÜMLE ALANLAR
 	-dığı için 
 	because, since, as
@@ -195,23 +221,170 @@ So is used to show a reaction or consequence.
 	inas much as – çünkü 
 	in that – çünkü
 
-	so that, in order (to) (that), to, so as to, what this in mind, in fact
+	so that, in order (to) (that), to, so as to, what this in mind, in fact, for fear that
 
 	İSİM ALANLAR
-	because of, due to, owing to, on account of, in view of, thanks to, by reason of
+	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
+
+	as long as, so long as, inasmuch as, lest, such ... that, so ... that
+
+	therefore, consequently, so
+	
+	... mek için			--> in order to, so as to, to + Ving
+	... mek için, … sın diye 	--> in order that, so that + clause
 
 
+--> Opinion
+	in my opinion, as far as i’m concerned, to my mind, i think, it seems to me that
 
+--> Explaining
+	as, since, in so far as, because, the reason why
+
+--> Choice
+	or, whatever, whoever, neither ... nor, either ... or
+	
+--> Manner
+	how, as though, as if
+	
+--> Generalisation
+	as a rule, for the most part, in general, generally, on the whole, overall, in most cases
+
+--> Place
+	where, wherever, here, there, in the back, adjacent to, next to, nearby, beyond, opposite to, at the point
+
+--> relative pronouns
+	who, whoever, whom, whomever, whose
+
+--> relative adjectives
+	that, whatever, which, whichever
+
+--> Choice
+	or, whatever, whoever, neither ... nor, either ... or
+	
 	
 
 
 
+			Adverbial Clause words			Transitions		Conjunctions		Prepositions
+			-------------------------------------------------------------------------------------------------------------
+Cause and Effect	because					consequently 		so			because of
+			since					therefore		for			due to – nedeniyle, sayesinde
+			as/so long as				
+			inasmuch as – mademki gibi
+			now that - madem
+			so that
+			as
+			-------------------------------------------------------------------------------------------------------------
+Condition		if					otherwise		or (else)		in case of
+			unless											in the event of
+			only if
+			even if
+			provided (that)
+			in case
+			providing (that)
+			whether or not
+			in the event that
+			-------------------------------------------------------------------------------------------------------------
+Opposition		although				nonetheless		but ... anyway		despite
+			whereas - oysa				however			yet ... still		in spite of
+			even though				nevertheless
+			while					on the other hand
+			though
+			-------------------------------------------------------------------------------------------------------------
+Illustration							for example
+								for instance
+								such as
+			-------------------------------------------------------------------------------------------------------------
+Addition							moreover					in addition to
+								furthermore					besides
+								also
+
+
+
+
+Bağlaç eşleştime (Benzer anlamlar)
+although -->  much as
+despite --> in spite of -- ... e rağmen
+thus --> therefore
+such as --> like -- gibi
+because --> since -- çünkü
+otherwise --> or else
+in contrast to --> contrary to
+however --> yet -- fakat
+moreover --> in addition
+as well as --> in addition to
+thanks to -- sayesinde
+unlike -- ... nın aksine
+provided that -- ... şartıyla
+so that -- ... sın diye
+thus -- bu yüzden
+
+... den dolayı, ... yüzünden, ... sonucunda --> due to, owing to, on account of, because of, in view of, by virtue of, as a result of
+... e rağmen 				--> despite, inspite of, for all, notwithstanding
+... nın yanı sıra, ... ile birlikte 	--> as well as, in addition to, besides, along with, coupled with, together with
+... nın aksine 				--> in contrast to, as opposed to, contrary to, unlike
+fakat, yine de				--> however, but, yet, nonetheless, nevertheless, even so, still
+... dığı için, çünkü			--> because, as, since, now that, in that, given that, seeing that, knowing that, for
+bu yüzden, dolayısıyla 			--> therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence, accordingly
+... e rağmen, ... se bile		--> although, though, even though, much as, even if, despite the fact that, in spite of the fact that
+dahası, ek olarak			--> moreover, furthermore, what is more, besides, in addition, additionally, also
+... niyetiyle, ... mek için 		--> in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 
+
+
+RAĞMEN YAPILARI
+although + clause 	--> ... e rağmen
+He can’t speak English although he has been attending a course for two years
+though + clause 	--> ... e rağmen
+Though I knew the answer, I didn’t tell it
+even though + clause	--> ... e rağmen
+even though there weren’t enough funnds, the government decided to make new investments
+despite + noun 		--> ... e rağmen
+He went out despite the rain
+He couldn’t succeed despite his effort
+in spite of 		--> ... e rağmen
+In spite of the rain, they had the party outside
+He decided to go in spite of my objection
 
 
 
 
 
+--> EXAMPLES
+as soon as/once – yapar yapmaz
+I am going to get out and have a drink as soon as i have finished with the work
+Once the Soviet Union collapsed, capital flight became the most persistent of all post communist Russia’ economic headaches
+
+As long as / so long as – dığı sürece
+As long as it is raining, i think i will stay at home
+You can stay with us as long as you want to
+
+Whenever/every time – ne zman ..-se,-sa
+Every time we meet a problem, it always seems to be related to housing
+Naturally i will come to you for advice whenever i feel in need of some
+
+Since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
+Because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
+Since all the buses were crowded, i took a taxi yesterday
+As long as you want to, you can stay in this city
+Now that everybody is here, we can start the conference
+Now that the work is finished, i am going to rest a few hours
+So long as you eat a well-branced diet you will be all right
+In as much as you couldnt make a decision, you should stop complaining about it
+
+So, therefore, as a result, consequently, hence, thats why – bu yüzden sonuç olarak
+It was rather cold, so we had tos tay at home
+It hasnt rained for three months. Therefore, the farmers are having hard times
+They left home late. They, therefore, misssed the bus (therefore)
+There was a lot of noise in the neighborhood. Consequently, he had to move to another place
 
 
+Until/till – e kadar
+I will stay up until midnight tomorrow
+I wont sayy much till it’s time to go to bed
+
+Since when did we start following the rules? * ne zmandan beri kurallara uyduk?
+He behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
+in case he comes back
+as long as it takes- ne kadar gerekirse
 
 
