@@ -55,22 +55,6 @@ So is used to show a reaction or consequence.
 
 
 
----> CORRELATIVE CONJUNCTIONS
-	--> BOTH ... AND ...
-		- we'll have both the cheesecake and the chocolate cake.
-		- 
-		- 
-	--> EITHER ... OR ...
-		- a man either cheats or he doesn't.
-		- either come in, or go think somewhere else
-		- she either doesn't understand or is pretending
-	--> NEITHER ... NOR ...
-		- by the way, neither Alex nor I drink.
-		- he heard neither the clock nor the birds.
-		- they knew neither her name nor anything about her.
-      --> NOT ... BUT
-      --> NOT ONLY ... BUT ALSO 
-
 
 ---> TOO, ALSO, SO, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
 	--> ALSO
@@ -99,6 +83,58 @@ So is used to show a reaction or consequence.
 		- you don't trust me, either.
 		- it wasn't either of your faults.
 		- neither do I - and we should.
+
+
+
+---> CORRELATIVE CONJUNCTIONS (Paired Conjuntions)
+	--> BOTH ... AND ...
+		- we'll have both the cheesecake and the chocolate cake.
+		- he can both sing and play the violin
+		- I am finished with both my English essay and my history essay
+	--> EITHER ... OR ...
+		- a man either cheats or he doesn't.
+		- either come in, or go think somewhere else
+		- she either doesn't understand or is pretending
+		- you can have either tea or coffee 
+	--> NEITHER ... NOR ...
+		- by the way, neither Alex nor I drink.
+		- he heard neither the clock nor the birds.
+		- they knew neither her name nor anything about her.
+		- he will neither visit the museum nor attend the conference
+		- neither will he visit the museum nor will he attend the conference
+      	--> NOT ... BUT
+	--> NOT ONLY ... BUT ALSO / AS WELL
+      		- not only John but also George is from London
+		- not only did he invite his cousins but also his close friends 
+		- Not only am I finished studying for English, but I’m also finished writing my history essay.
+
+      	--> SO ... AS
+      		- he can’t run so fast as George
+	--> SO ... THAT
+		- he spoke so quickly that nobody understood what he said
+	--> AS ... AS
+		- the flat that we will buy must be as cheap as possible
+		- he can’t run as fast as George
+		- Jane is as rich as Peter
+	--> SUCH ... THAT
+		- he is such a good player that many teams are eager to transfer him
+	--> THE MORE ... THE MORE
+		- the more you work, the more you earn
+		- the longer they play, the more they lose- ne kadar uzun oynarlarsa o kadar kaybederler
+	--> NO SOONER ... THAN 			--> daha erken yapmamıştım, demeye kalmadan, yapar yapmaz
+yapar yapmaz	he had no sooner opened his eyes than the phone rang
+no sooner had he opened his eyes than the phone rang
+whether … or
+ya da sevmesin	he will have to cooperate with us, whether he likes us or not
+rather … than	i would rather stay at home than go out tonight
+hardly … when
+zar zor	he had hardly found a job when he got ill
+hardly had he found a job when he got ill
+scarcely … when
+ucu ucuna
+ancak	he had scarcely gone to bed when the phone rang
+scarcely had he gone to bed when the phone rang
+
 
 
 ---> SUBORDINATING CONJUNCTIONS
