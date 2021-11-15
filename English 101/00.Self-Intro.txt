@@ -98,7 +98,14 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                         --> I’m a manager at Starbucks.
                   I work in ‘general area’.
                         --> I work in sales.
-            
+      where did you work last?
+                  I worked in a factory (last)
+                  I worked at a private school
+      why did you leave (from the job)                           ---> why did you leave/resign/quit from your job?
+                  because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
+                  because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
+                  because, I (have) completed my internship                   - çünkü stajımı tamamladım
+                  because, work conditions weren't good/proper to me           - çünkü çalışma şartları bana iyi/uygun değildi 
       
 
 5 --> QUALIFICATIONS
@@ -119,6 +126,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             --> I am a ‘subject’ graduate. --> I am a marketing graduate
             --> I have a bachelor of arts degree in marketing.
             --> I am a biology postgrad - lisansüstü biyoloji mezunuyum
+            --> I studied in vocational school/university      - meslek lisesi/mesleki üniversitede okudum
+            --> I graduated from a vocational high school with an associate degree - önlisans derecesiyle meslek yüksek okulundan mezun oldum
             --> I have a master/PhD degree (Doctor of Philosophy)
             --> I went to Turkish school in Saudi Arabia
             --> I am currently taking a course in ‘theorical subject’.
@@ -438,7 +447,7 @@ how do you travel to places?
 what time do you usually go to bed?
       I usually go to bed at eleven 
 when is your birthday?
-      
+      my birthday is 25th January
 when do you go on holiday?
       I go on holiday every summer
 what weather do you like?
@@ -449,19 +458,33 @@ what music do you like?
       I like Rock music
 what is your favorite restaurant?
 are you good at English?
+      yes, I'm quite good at English
+      no, I'm bad at English
+      I'm trying to learn English
+      I can speak English fluently
 what is your job?
-what films do you like?
+      my job is ... 
+      I am a/an Architect/Teacher/Engineer
+      I am a Boss / I have my own shop/school/factory
+      
+what films do you like?                         films = movies
+      I like action, science fiction films
 how do you get to places?
          I get to places by car
                          by private jet
-                         by foot
+                         by foot, by walking
 where do you go on holiday?
-         I go on holiday to Antalya
+            I go on holiday to Antalya
 how often do you play sports?
+            I play football once a day, on Sundays, at weekends
 do you often go shopping?
+            yes, I often go shopping as soon as possible - evet, mümkün olduğunca sık alışverişe çıkarım
+            no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
 what have you got in your kitchen/bedroom/bathroom?
 what is your favorite food?
+            my favorite food is pizza, burger, fried potatoes, kebab, 
 what is your favorite colour?
+            my favorite colour is red and black
 what restaurants do you like?
 how often do you go out?
 when do you use a car?
