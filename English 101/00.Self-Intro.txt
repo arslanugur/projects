@@ -144,7 +144,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             --> A 72-hour ‘subject’ course
             --> A 3-day ‘subject’ course
 
-            --> I want to get promoted in Office/Nursery
+            --> I want to get promoted in Nursery
+                                       to my civil service  --> memurluğum için terfi almak istiyorum
+                                       
 
 6 --> EXPERIENCE
       When did you graduate from primary/secondary school?
