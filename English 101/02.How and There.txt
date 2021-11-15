@@ -18,7 +18,7 @@ well            how well do you speak English?
                 explain me how well she knows me
 punctual        how punctual are you?        
 late            how late are you usually?
-
+come            how come
 
 ---> HOW MANY (Countable)
 How many books are there? (Orada kaç tane kitap var?)
@@ -65,6 +65,18 @@ there are   there were    there can be        there could be
                           there may be        there might be
                                               there should be
 
+if there is a way out, I will find it!
+For every tragedy, there is a possible happy ending.
+there are no real horses here at all.
+There was no reason to feel threatened.
+There was no sound to be heard anywhere throughout the country.
+indeed, there were few things that he loved more.
+there must be money somewhere here - burda bir yerlerde para vardır
+There must be several times that by now.
+There might be a thousand explanations for what she had witnessed, but only one came to mind.
+there will be blood - kan dökülecek
+There would be no moon tonight.
+nobody in their right mind would want to be treated like that - hiç kimse kendine böyle davranılmasını istemez
 
 ---> has/have (got)
 Singular:     She has an apple. (Bir adet elması var.)
