@@ -93,6 +93,9 @@ passionate, separate, accurate, lemonade, appropriate, intimate, moderate
 -worthy
 swoonworthy, trustworthy
 
+-ish
+selfish, english, turkish, childish, reddish
+
 --> Extra Adjectives
 frank, stubborn, cruel, cute, distinct, bright, fragile, muppet - ugly
 valid != invalid - geçerli
