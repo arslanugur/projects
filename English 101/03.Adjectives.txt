@@ -97,7 +97,7 @@ swoonworthy, trustworthy
 selfish, english, turkish, childish, reddish, sluggish, mopish
 
 --> Extra Adjectives
-frank, stubborn, cruel, cute, distinct, bright, fragile, muppet - ugly
+frank, stubborn, cruel, rude, cute, distinct, bright, fragile, rough - hard, muppet - ugly
 valid != invalid - geçerli
 
 
