@@ -36,7 +36,7 @@ comfortable   more comfortable  the most comfortable
 -ful / -less	
 wonderful, beautiful, awful, useful, meaningful, cheerful, helpful 
 delightful, doubtful, powerful, peaceful, grateful, blissful, worthless
-faithful != faithless, careful != careless, hopeful != hopeless
+faithful != faithless, forgetful, careful != careless, hopeful != hopeless
 spotless, reckless, relentless at - amansız, ruthless - acımasız, graceful – zarif
 
 
@@ -85,7 +85,7 @@ hospital, capital, recital
 troublesome, awesome, handsome, gruesome - korkunç
 
 -like
-warlike - savaşçı
+alike, childlike, warlike, godlike
 
 -ate
 passionate, separate, accurate, lemonade, appropriate, intimate, moderate
