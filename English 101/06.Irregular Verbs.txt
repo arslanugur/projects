@@ -185,7 +185,7 @@ thrust          thrust              thrust                  (itmek, sokmak, sapl
 
 
 
-CONFUSING VERBS
+CONFUSING VERBS - Kafa karıştıran fiiller
 raise, raised, raised (transitive) ---> The supermarket raised its prices twice last week.
 rise, rose, risen (intransitive)   ---> Prices rose three times last week.
 
