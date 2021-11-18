@@ -162,7 +162,7 @@ N --> no, we/you/they are not coming...
 ---------------------------------------------------------------------------------
 what		|   		|   		|    need	|
 which		|   am		|   I		|    seeing	|
-what kind	|		|		|    looking	|
+what kind of	|		|		|    looking	|
 ----------------|   are		|   YOU		|    walking	|
 where		|		|		|    running	|
 ----------------|   is		|   HE		|    want	|
@@ -170,7 +170,7 @@ when		|   is		|   SHE		|    reading	|
 what time	|   is		|   IT		|    writing	|
 		|   		|   		|    spending	|
 ----------------|   are		|   WE		|    watching	|
-who		|   are		|   YOU		|    drinking	|
+who   ...to/with|   are		|   YOU		|    drinking	|
 whom		|   are		|   THEY	|    eating	|
 whose		|		|		|    making	|
 ----------------|   		|		|    doing	|
@@ -246,7 +246,7 @@ which		|   have	|   I		|   been seeing      |
 what kind	|		|		|   been looking     |
 ----------------|   have	|   YOU		|   been walking     |
 where		|		|		|   been running     |
-----------------|   has 	|   HE		|        want	|
+----------------|   has 	|   HE		|        want	     |
 when		|   has 	|   SHE		|   been reading     |
 what time	|   has 	|   IT		|   been writing     |
 		|   		|   		|   been spending    |
