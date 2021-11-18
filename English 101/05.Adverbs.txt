@@ -47,7 +47,7 @@
     Haven't you finished yet? (= expressing surprise)
 
 ---> ADVERBS OF DURATION ---> HOW LONG?
-    She stayed in the Bears' house all day.
+    She stayed in their house all day.
     My mother lived in France for a year.
     I have been going to this school since 1996.
     I stayed in Switzerland for three days.
@@ -118,7 +118,7 @@
 
     VERY vs. TOO
         He speaks very quickly.
-        He speaks too quickly for me to understand.
+        He speaks too quickly for me to understand.                     ---> Anlayamayacağım kadar hızlı konuşuyor. 
         It is very hot outside.
         It is too hot outside to go for a walk.
 
@@ -130,7 +130,10 @@
 
     good = adjective, well = adverb
     fast fast, hard hard, early early, late late
-    
+
+    She is a careful driver. (O dikkatli bir sürücüdür)    --> She drives carefully. (Dikkatlice araba sürer)
+    My father is good at football. (Babam futbolda iyidir) --> He plays football well. (O iyi (iyi bir şekilde) futbol oynar)
+
     My father drives carefully. (Babam dikkatli bir şekilde araba sürer.)
     You should reply correctly. (Doğru bir şekilde yanıtlamalısın)
     We were walking home quickly. (Çabuk bir şekilde eve yürüyorduk.)
@@ -139,9 +142,6 @@
     The cook cooked the dinner well. (Aşçı yemeği iyi bir şekilde pişirdi.)
     Don’t drive fast. (Hızlı sürme)
     You should study hard. (Sıkı çalışmalısın)
-
-    She is a careful driver. (O dikkatli bir sürücüdür)    --> She drives carefully. (Dikkatlice araba sürer)
-    My father is good at football. (Babam futbolda iyidir) --> He plays football well. (O iyi (iyi bir şekilde) futbol oynar)
 
 
 ---> ADVERBS OF FREQUENCY ---> HOW OFTEN?
