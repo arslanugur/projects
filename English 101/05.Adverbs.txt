@@ -1,3 +1,20 @@
+---> TYPES OF ADVERB
+Adverbs of time
+Adverbs of place
+Adverbs of manner
+Adverbs of degree
+Adverbs of frequency
+
+Adverb Placement
+subject + adverb + verb + object                : We often visit museums.
+subject + verb + object + adverb                : She speaks English well.
+subject + verb + preposition + object + adverb
+    She looked at me suspiciously.
+    She looked suspiciously at me.
+subject + verb + adverb + preposition + object + adverb   : She looked suspiciously at everybody in the room.
+
+
+
 ---> ADVERBS OF TIME --- WHEN?
     before -- after, today, tomorrow, yesterday, already, now = right now, soon, 
     since -- for, tonight, always, until, recently, just, immediately, fortnightly
@@ -144,6 +161,51 @@
     You should study hard. (Sıkı çalışmalısın)
 
 
+---> ADVERBS OF QUANTITY 
+COUNTABLE NOUNS
+MANY / MORE
+    My neighbour has many cats and she wants more. 
+A LOT / LOTS
+    I want a lof of dogs and I want lots of cats too!
+FEW / FEWER
+    There are just a few fairies left in the forest and soon there will be fewer.
+TOO MANY / TOO FEW
+    There are not too many fairies left and there are too few elves.
+(NOT) ENOUGH
+    You can’t have enough cats!
+
+UNCOUNTABLE NOUNS
+MUCH / MORE
+    I haven’t got much time to spend with my dogs. I need more free time.
+A LOT / LOTS
+    There’s a lot of magic in this forest and lots of witchcraft.
+LITTLE / LESS
+    I have little information on witches and even less on dragons.
+TOO MUCH / TOO LITTLE
+    You spend too much time with your dogs and too little with your friends.
+(NOT) ENOUGH
+    That’s enough happiness for a lifetime.
+
+--> ADVERBS BEFORE ADJECTIVE
+TOO
+    This spell is too powerful, don’t use it indoors.
+SO
+    It’s so powerful, it can turn a hundred people into frogs.
+A LITTLE (BIT)
+    Be careful with that cat lady. She’s a little bit crazy.
+ENOUGH (comes after the adjective)
+    She’s a nice person, she’s just not friendly enough.
+(NOT) VERY
+    I would say she’s very rude.
+QUITE
+    This forest is quite scary.
+RATHER
+    That dragon is rather scary, too.
+PRETTY
+    It’s pretty dark in here.
+    
+    
+    
 ---> ADVERBS OF FREQUENCY ---> HOW OFTEN?
     Always, Sometimes, Often, Frequently, Seldom, Rarely
     Constantly, Generally, Normally, Regularly, Occasionally, Infrequently
@@ -161,7 +223,24 @@
 
 
 
-ADVERBS OF AFFIRMATION
-    certainly, surely, apparently, obviously, undoubtedly, perhaps
+ADVERBS OF AFFIRMATION or NEGATION
+    indeed, exactly, certainly, surely, apparently, obviously, perhaps, invalidly, verily
+    by all means, definitely, probably, really, clearly, exactly, truly, doubtlessly, undoubtedly
+    no longer, hardly, not very, never, almost, rarely, contradictorily, scarcely
+
+    They are definitely going to win. I’m certain of it, so I placed a $1000 bet.
+    We certainly don’t steal from our customers! It must have been a computer error.
+    Given the circumstances, I surely won’t allow you to go out.
+    It’s truly a staggering innovation that will change the world.
+    We are obviously going to make a lot of money with this investment.
+    The burglar will be found, by all means necessary.
+
+    There’s no chance they’re going to win tonight. Especially not since they lost their start player.
+    She has never been to Las Vegas, so I’m certain she hasn’t gotten married behind his back. 
+    I don’t see any way this project could hope to be profitable.
+
+
+Prepared by Uğur ARSLAN and His students
+
 
 
