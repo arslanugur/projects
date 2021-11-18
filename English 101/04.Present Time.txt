@@ -28,15 +28,16 @@ N --> no, he/she doesn't go on holiday every summer
 		--> ADVERBS OF FREQUENCY
 		always / all the time		   		I always drink coffee before 09:00
 		almost always / nearly always			She nearly always says the same thing
-		very often					He very often goes to the restroom
+		very often / constantly				He very often goes to the restroom
 		usually / generally		   		I am usually late for meetings
-		normally			   		What time do you normally go to bed?
+		normally / regularly		   		What time do you normally go to bed?
 		often / frequently	           		We often play football on Sundays,	I frequently go out at weekends
-		Sometimes/Occasionally/From time to time	Sometimes I play 52 cards with my friends,	She occasionally watches French films
-		Seldom						He seldom does my homework
-		Rarely						I rarely go to the gym
-		Hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
-		Never						They never listen to what he says
+		sometimes / occasionally / from time to time	Sometimes I play 52 cards with my friends,	She occasionally watches French films
+		seldom / infrequently				He seldom does my homework
+		rarely						I rarely go to the gym
+		hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
+		never						They never listen to what he says
+
 
 
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
@@ -63,7 +64,7 @@ how		   |		        |		|    hear	|
 how many + NOUN	   |		        |		|    wear	|
 how much + NOUN	   |		        |		|    talk	|
 how often	   |		        |		|    study	|
-how long	   |		        |		|    go		|            |
+how long	   |		        |		|    go		|	          
 how fast           |
 how far            |
 how well           |
@@ -98,9 +99,9 @@ need
           düşünmek          ---> I'm thinking about going abroad next year. 
                             ---> She is thinking about her family.
 -> see
-          görmek    ---> I see lots of people in the street.
-          görüşmek  ---> The doctor is seeing his patient now.
-                    ---> The manager is seeing the applicant now.
+          görmek	---> I see lots of people in the street.
+          görüşmek	---> The doctor is seeing his patient now.
+                    	---> The manager is seeing the applicant now.
 -> smell
           kokmak    ---> This perfume smells very nice.
                     ---> These flowers smell awful.
@@ -264,27 +265,33 @@ how long	|		|		|   been going	     |
 
 
 ---> FUTURE TIME
-WILL
+--> WILL
 Rapid Decision    – I am thirsty. I think I will buy a drink.
 Offer             – That looks heavy, I will help you with it.
 Promise           – Don’t worry. I won’t tell anyone.
 Threat            – If you don’t stop I will tell your mother.
 Refusal           – She won’t listen to anything I say.
 
-
-TO BE GOING TO
+--> TO BE GOING TO
 Prior plan: The decision was made before the moment of speaking.
 	                – I am going to the beach next weekend with my friends.
 Evidence/Signs: When there are signs that sth is likely to happen.
 	                – My stomach hurts a lot. I think I am going to throw up.
 
+--> THE STORY: FATHER, SON and HOLY DAUGHTER (WILL vs. BE GOING TO)
 
-Future Simple Signals: tomorrow, the day after tomorrow, tonight, soon, next week, in a week/month, in two/three days / week
 
-Future Cont. Signals: this time, next week, and other expressions with future reference
+Future Simple Signals: 
+	tomorrow, the day after tomorrow, tonight, soon, next week, in a week/month, in two/three days / week
 
-Future Perfect Signals: before, by, by then, by the time, until, till
+Future Continuous Signals: 
+	this time, next week, and other expressions with future reference
 
-Future Perfect Cont. Signals: this tense is not used very much
-			by, by then, by the time, for
+Future Perfect Signals: 
+	before, by, by then, by the time, until, till
+
+Future Perfect Continuous Signals: this tense is not used very much
+	by, by then, by the time, for
+
+
 
