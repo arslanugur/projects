@@ -25,6 +25,7 @@ we arrived on monday
 we arrived at the station
 we arrive home/today/late
 
+
 DO    --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
 MAKE  --> a phone call, the bed, a cake, a mistake, a comment, dinner
 
@@ -41,15 +42,16 @@ IN/AT
 
 
 IELTS English
-you and I no longer engage in verbal confabulations   --> we dont talk anymore
-in light of this evidence, it is crystal clear that.. --> in conclusion..
-NY has a reputation of its dining establishments      --> NY has many restaurants
-observe what course of action you compelled me to commit to --> look what you made me do
+you and I no longer engage in verbal confabulations                                     --> we dont talk anymore
+in light of this evidence, it is crystal clear that..                                   --> in conclusion..
+NY has a reputation of its dining establishments                                        --> NY has many restaurants
+observe what course of action you compelled me to commit to                             --> look what you made me do
 I assure you, under no circumstances are you bound to encounter someone identical to me --> I promise that you will never find another like me
-I am able to demonstrate you the spectacular matter, you have never gazed at before --> I can show you incredible things
+I am able to demonstrate you the spectacular matter, you have never gazed at before     --> I can show you incredible things
 
 
-Hair Dresser English
+
+HAIRDRESSER English
 I would like to have the damaged ends trimmed - saçımın kırıklarını aldırmak istiyorum
 just the slides, let's leave the top side - sadece yanlardan alalım, üstleri bırakalım
 I want some change, should we try cutting bangs - biraz değişiklik istiyorum, kahkül mü denesek
@@ -77,21 +79,6 @@ on grounds that - gerekçesiyle
 whereas - buna karşılık
 
 
-Baby month by Month - Infant Milestones
-0-3   - holding head up
-4-5   - rolling over both ways
-5-7   - rising up on hands
-6-8   - crawling
-6-8   - sitting without support
-9-10  - standing with support
-11-15 - walking
-
-fork - dört uçlu çatal
-threek - üç uçlu çatal
-twok - iki uçlu çatal
-onek - tereyağı bıçağı
-zerok - çay kaşığı
-
 WAS / WERE GOING TO
 i was going to call you but my battery died - seni arayacaktım ama şarjım bitti
 i was going to leave it but i forgot - onu bırakacaktım ama unuttum
@@ -103,7 +90,7 @@ ADJECTIVES
 dodgy - unreliable, untrustworthy, dangerous
   this is really dodgy area and there are lots of dodgy people here
 knackered - really very tired
-  i really need to go to bed, I'm knackered
+  I really need to go to bed, I'm knackered
 "the faker you are, the bigger your circle will be.
  the realer you are, the smaller your circle you are. These are well-known facts." R. Reynolds
 
@@ -141,4 +128,23 @@ be concerned about - hakkında endişelenmek
 be concerned with - ile ilgilenmek
 concerns over - üzerine endişeler
 a growing concern for - için artan endişe
+
+
+
+Baby month by Month - Infant Milestones
+0-3   - holding head up
+4-5   - rolling over both ways
+5-7   - rising up on hands
+6-8   - crawling
+6-8   - sitting without support
+9-10  - standing with support
+11-15 - walking
+
+
+
+fork - dört uçlu çatal
+threek - üç uçlu çatal
+twok - iki uçlu çatal
+onek - tereyağı bıçağı
+zerok - çay kaşığı
 
