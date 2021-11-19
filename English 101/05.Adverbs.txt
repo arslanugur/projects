@@ -142,7 +142,7 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
 
 ---> ADVERBS OF MANNER --- HOW?
     suddenly, easily, loudly, quietly, softly, happily, quickly, slowly, carefully, gladly
-    badly, boldly, bravely, eagerly, obediently, frankly, cheerfully, joyously, elegantly, justly, neatly
+    badly, boldly, bravely, eagerly, obediently, frankly, cheerfully, joyously, elegantly, justly, neatly - temizce
     kindly = gently, equally, cautiously, faithfully, honestly, dramatically, fantastically, obscenely - bariz şekilde
 
     good = adjective, well = adverb
