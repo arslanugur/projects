@@ -114,7 +114,7 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     ENOUGH
         Is your coffee hot enough to drink?
         This box isn't big enough.
-        He didn't work hard enough to pass the exam.
+        He didn't study hard enough to pass the exam.
         The dress was big enough for me.
         She's not experienced enough for this job.
     ENOUGH AS DETERMINER
