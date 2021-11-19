@@ -112,6 +112,14 @@ look up to - saygı duymak --> respect
 see to - ilgilenmek, ayarlamak --> deal with, arrange
 run into - rastlamak, karşılaşmak --> encounter
 pass away - ölmek --> die
+call off - cancel
+hold on - wait
+catch up - meet
+drop in - visit
+carry on - continue
+fed up - get frustrated
+go ahead - start
+look around - search
 
 buckle up - kemerleri bağlamak
 pull over - kenara çekmek, yol kenarında durmak
@@ -128,6 +136,23 @@ be concerned about - hakkında endişelenmek
 be concerned with - ile ilgilenmek
 concerns over - üzerine endişeler
 a growing concern for - için artan endişe
+
+
+
+HUMAN INNER ORGANS
+brain - mind
+lung
+bladder
+kidney
+stomach
+liver
+intestine
+uterus
+heart
+hand
+finger
+foot - feet
+tooth - teeth
 
 
 
