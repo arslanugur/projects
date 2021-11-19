@@ -3,7 +3,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Hey!
       Hello!
       Good Morning, Good Afternoon, Good Evening
-      How is/was your day (going)? --> (my day is/was) good
+      how are you doing today      --> I'm doing good
+      How is/was your day (going)? --> (my day is/was) good       day != night
                                    --> my day was so tiring
                                    --> I studied all day long
                                    --> I worked all day long
@@ -17,7 +18,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                    --> I had a very busy day
                                    --> I was at work all day
                                    --> I enjoyed my day
-                                   
+
 2 --> YOUR NAME
       What is your name?      --> I’m ..
                               --> I am ..
@@ -397,6 +398,12 @@ what is difficult in your job?
 when do you finish work?
       at four 
 why did you start this job?
+
+what did you do yesterday?
+      I went to gym
+      I went shopping
+where did you go shopping?
+what time does your English lesson start?
 
 do you have any hobby?
       yes, I have some hobby such as swimming, learning English
