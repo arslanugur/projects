@@ -56,7 +56,7 @@ So is used to show a reaction or consequence.
 
 
 
----> TOO, ALSO, SO, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
+---> TOO, ALSO, SO, AS WELL, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
 	--> ALSO
 		- He was also dressed for the exclusive party.
 		- Both William and Catherine would also attend.
@@ -71,7 +71,7 @@ So is used to show a reaction or consequence.
 		- I told you so.***
 		
 	--> TOO 
-		- If you’re going to the mall, can I come too?
+		- if you’re going to the mall, can I come too?
 		- I love you too, sweetie. = me too.
 		- "Ah, you've come here too, young man!" he said
 
@@ -83,6 +83,20 @@ So is used to show a reaction or consequence.
 		- you don't trust me, either.
 		- it wasn't either of your faults.
 		- neither do I - and we should.
+	--> AS WELL
+		- if he had lied to her, he might have cheated as well.
+		- I think you felt something as well.
+		- She must have suspected as well.
+		- There was little sound from the kitchen as well.
+		- He obviously missed Julia as well.
+		- She can decide for herself as well.
+		
+		--> AS WELL AS - yanı sıra
+		- He could be tender and thoughtful, as well as charming.
+		- I know you as well as I know anyone else.
+		- This wasn't going as well as she had planned.
+		- In fact, they were a police force as well as an army.
+		
 
 
 
@@ -319,30 +333,30 @@ provided that -- ... şartıyla
 so that -- ... sın diye
 thus -- bu yüzden
 
-... den dolayı, ... yüzünden, ... sonucunda --> due to, owing to, on account of, because of, in view of, by virtue of, as a result of
-... e rağmen 				--> despite, inspite of, for all, notwithstanding
-... nın yanı sıra, ... ile birlikte 	--> as well as, in addition to, besides, along with, coupled with, together with
-... nın aksine 				--> in contrast to, as opposed to, contrary to, unlike
-fakat, yine de				--> however, but, yet, nonetheless, nevertheless, even so, still
-... dığı için, çünkü			--> because, as, since, now that, in that, given that, seeing that, knowing that, for
-bu yüzden, dolayısıyla 			--> therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence, accordingly
-... e rağmen, ... se bile		--> although, though, even though, much as, even if, despite the fact that, in spite of the fact that
-dahası, ek olarak			--> moreover, furthermore, what is more, besides, in addition, additionally, also
-... niyetiyle, ... mek için 		--> in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 
+... den dolayı, ... yüzünden, ... sonucunda 	--> due to, owing to, on account of, because of, in view of, by virtue of, as a result of
+... e rağmen 					--> despite, inspite of, for all, notwithstanding
+... nın yanı sıra, ... ile birlikte 		--> as well as, in addition to, besides, along with, coupled with, together with
+... nın aksine 					--> in contrast to, as opposed to, contrary to, unlike
+fakat, yine de					--> however, but, yet, nonetheless, nevertheless, even so, still
+... dığı için, çünkü				--> because, as, since, now that, in that, given that, seeing that, knowing that, for
+bu yüzden, dolayısıyla 				--> therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence, accordingly
+... e rağmen, ... se bile			--> although, though, even though, much as, even if, despite the fact that, in spite of the fact that
+dahası, ek olarak				--> moreover, furthermore, what is more, besides, in addition, additionally, also
+... niyetiyle, ... mek için 			--> in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 
 
 
 RAĞMEN YAPILARI
 although + clause 	--> ... e rağmen
-He can’t speak English although he has been attending a course for two years
+	He can’t speak English although he has been attending a course for two years
 though + clause 	--> ... e rağmen
-Though I knew the answer, I didn’t tell it
+	Though I knew the answer, I didn’t tell it
 even though + clause	--> ... e rağmen
-even though there weren’t enough funnds, the government decided to make new investments
+	even though there weren’t enough funnds, the government decided to make new investments
 despite + noun 		--> ... e rağmen
-He went out despite the rain
-He couldn’t succeed despite his effort
+	He went out despite the rain
+	He couldn’t succeed despite his effort
 in spite of 		--> ... e rağmen
-In spite of the rain, they had the party outside
+	in spite of the rain, they had the party outside
 He decided to go in spite of my objection
 
 
@@ -386,5 +400,6 @@ Since when did we start following the rules? * ne zmandan beri kurallara uyduk?
 He behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
 in case he comes back
 as long as it takes- ne kadar gerekirse
+
 
 
