@@ -1,5 +1,5 @@
 HOW
--------
+---------------
 much            how much did you get paid?
                 how much money do you need?
 many            how many brothers do you have?
@@ -16,9 +16,15 @@ fast            how fast can a cheetah run?
                 how fast our friends become our enemies
 well            how well do you speak English?
                 explain me how well she knows me
-punctual        how punctual are you?        
+punctual        how punctual are you?
+                I don't care how punctual you are, just get here on time for dinner
 late            how late are you usually?
-come            how come
+                it doesn't matter how late
+come            how come you missed the plane? - 'nasıl olur da' uçağı kaçırırsın?
+                how come you got an invitation and not me?
+soon            I cannot say how soon, but it won't be any longer than five years  (ne kadar çabuk/sürede/yakında)
+                it is hard to say how soon he will recover - ne kadar çabuk iyileşeceğini söylemek güç
+
 
 ---> HOW MANY (Countable)
 How many books are there? (Orada kaç tane kitap var?)
@@ -58,11 +64,11 @@ many --> no, a few, a number of, some, several, a lot of, a great number of, a l
 
 
 ---> THERE
-Present     Past          Modals – Present    Modals – Past
---------------------------------------------------------------
-there is    there was     there will be       there would be
-there are   there were    there can be        there could be
-                          there may be        there might be
+Present     Past          Perfect             Modals – Present    Modals – Past
+--------------------------------------------------------------------------------
+there is    there was     there has been      there will be       there would be
+there are   there were    there have been     there can be        there could be
+                          there had been      there may be        there might be
                                               there should be
 
 if there is a way out, I will find it!
