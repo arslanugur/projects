@@ -174,7 +174,7 @@ what time	   |   		        |   			|    spending	|
 who    ... to/with |   are		|   YOU			|    drinking	|
 whom		   |   are		|   THEY (Lessons)	|    eating	|
 whose		   |		        |			|    making	|
--------------------|   		        |			|    doing	|	|
+-------------------|   		        |			|    doing	|
 why		   |			|			|    starting	|
 what for	   |		        |			|    solving	|
 -------------------|		        |			|    listening	|
