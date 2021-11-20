@@ -1,4 +1,18 @@
 INTRODUCTION YOURSELF - “Tell me about yourself?!” 
+--> STRATEGY ON SELF-INTRODUCTION
+01- Greetings
+02- Your name
+03- Location
+04- Position and Company --> Work Life
+05- Qualifications --> Education Life
+06- Experience
+07- Family
+08- Hobbies
+09- Age
+10- Fun Fact about yourself
+
+
+
 1 --> GREETINGS
       Hey!
       Hello!
