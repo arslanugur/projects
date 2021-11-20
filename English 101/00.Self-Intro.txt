@@ -17,21 +17,23 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
       Hey!
       Hello!
       Good Morning, Good Afternoon, Good Evening
-      how are you doing today      --> I'm doing good
-      How is/was your day (going)? --> (my day is/was) good       day != night
-                                   --> my day was so tiring
-                                   --> I studied all day long
-                                   --> I worked all day long
-                                   --> did you rest enough?
-                                   --> it was a busy day
-                                   --> today i was so busy
-                                   --> it was good
-                                   --> it was stressful
-                                   --> it was so tiring
-                                   --> I had a good day
-                                   --> I had a very busy day
-                                   --> I was at work all day
-                                   --> I enjoyed my day
+      how are you doing today  (neler yapıyorsun bugün)     --> I'm doing good (iyidir)
+      How is/was your day (going)? (günün nasıl geçer/geçti)--> (my day is/was) good (benim günüm iyi/iyiydi)      day != night
+                                                            --> my day was so tiring (günüm çok yorucuydu)     
+                                                            --> I studied all day long (tüm gün boyunca ders çalıştım)
+                                                            --> I worked all day long (tüm gün boyunca çalıştım)
+                                                            --> did you rest enough? (yeterince dinlendin mi?)
+                                                                  --> yes, I rested enough (yeterince dinlendim)
+                                                                  --> no, I didnt rest enough (yeterince dinlenmedim)
+                                                            --> it was a busy day (meşgul bir gündü)
+                                                            --> today i was so busy (bugün meşguldüm)
+                                                            --> it was good   (iyiydi)
+                                                            --> it was stressful (stresliydi)
+                                                            --> it was so tiring (çok yorucuydu)
+                                                            --> I had a good day (iyi bir güne sahip oldum)
+                                                            --> I had a very busy day (meşgul bir gün geçirdim)
+                                                            --> I was at work all day (tüm gün işteydim)
+                                                            --> I enjoyed my day (günümün keyfini çıkardım)
 
 2 --> YOUR NAME
       What is your name?      --> I’m ..
