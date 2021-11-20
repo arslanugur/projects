@@ -23,7 +23,7 @@ we arrived at the village
 we arrived in London
 we arrived on monday
 we arrived at the station
-we arrive home/today/late
+we arrive home/today/late/right on time
 
 
 DO    --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
