@@ -1,4 +1,5 @@
-    	   		 S              |       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
+---> DAILY ACTIVITIES
+			S              |       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
 		------------------------------------------------------------------------------------------------------------------------------
 		Subject			|					|			|               |
 		(noun/pronoun)		|				        |			|               |
@@ -20,7 +21,70 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
 					* but, and, or
 
 
+---> CHUNKS
+    wake up at seven
+    get up at half past seven
+    make the bed every morning
+    wash my face and hands
+    brush the teeth
+    get dressed
+    put on clothes
+    brush your hair
+    have breakfast
+    water the plant
+    feed the dog/cat
+    wait for the bus
+    get to work
+    drive to work
+    vacuum the floor
+    do the laundry
+    hang the clothes
+    iron the clothes
+    go to bed / get to bed
+    take a bath
+    start my classes
+    surf the net
+    use the internet
+    study at home
+    go shopping
+    do exercise
+    wash the car
+    go out with a friend
+    take pictures with my phone
+    play the guitar in my free time
+    eat my snack in the afternoon
+    say good night to my parents/family
+    read a book
+    play a computer game / computer games
+    go for a walk
+    ride my bike
+    have lunch
+    do weekend homework
+    do housework
+    have dinner
+    make dinner
+    fold the laundry
+    take a taxi
+    get on a bus
+    paint the picture
+    have a break (U.K) – take a break (U.S)
+    walk the dog
+    take out the rubbish (U.S)
+    paint the house
+    rake the leaves
+    read the news
+    sweep the floor
+    clean the window
+    cut the grass
+    do the dishes
+    watch series / television
+    spend my time with ...
 
+
+
+
+
+Case:
 I wake up at seven
 after waking up, I wash my face every morning
 I get dressed at half past seven
@@ -41,11 +105,12 @@ I read a book before going to bed
 I sleep at twelve
 
 
+Case:
 I wake up at fifteen to seven every morning but sometimes late
 I get up at half past seven because i like sleeping and then I get dressed and I wash my face and hands
 I tidy my bed and then I have breakfast at eight 
 I always clean my teeth after the breakfast
-Afterwards, I wear my shoes and go to school by bus
+afterwards, I wear my shoes and go to school by bus
 at fifteen past eight, I start my lessons at forty past eight
 I listen to lessons for five hours at school
 I eat lunch at twelve at school
@@ -57,9 +122,10 @@ I clean my teeth after the dinner
 I go out with my friends to walk around
 and then I return home to study my lessons and watch television
 I listen to music before going to bed
-I sleep at twenty three
+I go to sleep at eleven
 
 
+Case:
 I wake up at 6:30 every morning
 I get dressed at 7:55
 I make the bed at 9:50
@@ -75,18 +141,17 @@ I play with my phone and computer two hours a day
 I study at 19:00 in my room
 I go to bed at 23:00 or 23:30
 
+
+Case:
 I go to the course at 8:30 at weekend 
-I play football at weekend
-Sometimes you play basketball
+I play football at weekend in the field
+Sometimes you play basketball with my friends
 I go to the course to learn English at weekends
 I go to the course for learning English at weekends
 sometimes I go to the cinema with my friends at weekends
-
-
-I read in the night
-I watch television
+I read at nights before I sleep
+I watch television with my parents
 I clean my teeth after the dinner
-
 I walk around at 9 every evening
 I run for my health every morning
 I play games for two hours everyday
@@ -98,81 +163,31 @@ I normally go to bed late
 
 
 
-
-
-    wake up
-    get up
-    make the bed
-    wash my face and hands
-    brush the teeth
-    get dressed
-    brush your hair
-    have breakfast
-    water the plant
-    feed the dog/cat
-    wait for the bus
-    get to work
-    drive to work
-    vacuum the floor
-    do the laundry
-    hang the clothes
-    iron the clothes
-    go to bed / get to bed
-    take a bath
-    start my classes
-    surf the net
-    study at home
-    go shopping
-    do exercise
-    wash the car
-    go out with a friend
-    take pictures
-    play the guitar
-    eat my snack
-    say good night to my parents/family
-    read a book
-    play a computer game / computer games
-    go for a walk
-    ride my bike
-    have lunch
-    do weekend homework
-    have dinner
-    make dinner
-    fold the laundry
-    take a taxi
-    paint the picture
-    have a break (U.K) – Take a break (U.S)
-    walk the dog
-    take out the rubbish (U.S)
-    paint the house
-    rake the leaves
-    read the news
-    sweep the floor
-    clean the window
-    cut the grass
-    do the dishes
-    watch series / television
-    spend my time with 
-
+---> HOUSE
 roof
+	--> on the roof
 window
-    --> out of the window
+	--> out of the window
 kitchen
-    
+	--> in the kitchen
+	--> on the table
 wall
-    --> on the wall
+	--> on the wall
 floor
-    --> on the first floor
-    --> on the second floor
-    --> on the third floor
-    
+	--> on the first floor
+	--> on the second floor
+	--> on the third floor
 door
-    --> at the door
+	--> at the door
+	--> in front of the door
+	--> behind the door
+stairs
+	--> go upstairs
+	--> go downstairs
 bathroom
 bedroom
 living room
-stairs
-    --> upstairs
-    --> downstairs
+garden
+garage
 
 
