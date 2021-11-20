@@ -68,3 +68,26 @@ I go to bed in 21:30 or 22:00
     do the dishes
     watch series / television
 
+
+roof
+window
+    --> out of the window
+kitchen
+    
+wall
+    --> on the wall
+floor
+    --> on the first floor
+    --> on the second floor
+    --> on the third floor
+    
+door
+    --> at the door
+bathroom
+bedroom
+living room
+stairs
+    --> upstairs
+    --> downstairs
+
+
