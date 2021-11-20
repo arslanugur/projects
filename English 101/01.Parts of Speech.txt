@@ -47,7 +47,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
 
 
 ---> MEZZOFANTI METHOD: How to start learning a new language?
-The book is new       --> eşitlik bildiren cümleler   (I = Teacher)
+The book is new       --> eşitlik bildiren cümleler   (I = Teacher, x = 3)
 Is the book new?      --> eşitlik soru cümlesi
 A new book            --> sıfat kullanımı
 I have a book         --> aitlik kullanımı
