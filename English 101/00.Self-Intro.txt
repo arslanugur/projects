@@ -40,24 +40,25 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                               --> I am ..
                               --> My name is ..
 
-      Can you spell your name?
+      Can you spell your name? (ismini harf harf söyleyebilir misin?)
             A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
             J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
             S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
 
-3 --> LOCATION
-      tell me about the place you live?
+3 --> LOCATION   
+      tell me about the place you live?   (yaşadığın yer hakkında bana anlat)
                               --> I live in İstanbul
                               --> I stay in Kadıköy
                                     --> Being with my friends in the same neighborhood makes me happy
                                     --> Our house is on third floor
                                     --> There are some trees, and roses in our garden
             
-      tell me about your town?
+      tell me about your town?      (senin şehrin hakkında bana anlat)
             
-      where are you from? --> I’m from Turkey
-                          --> I live in Aksaray from Turkey
+      where are you from? --> I’m from Turkey  
+                          --> I live in İstanbul from Turkey
                           --> I’m originally from Edinburgh but I’m now based in London  
+      where do you live? --> I live in Ankara
       
       what is your nationality
             --> I’m turkish
@@ -206,6 +207,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             --> he is our third child - o bizim üçüncü oğlumuz
             --> she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
 
+      How many rooms are there in your apartment/flat?
+            --> there are four/five rooms in my flat
+      
 
       Do you live with your parents?      --> Yes, I live with my parents
                                           --> No, I don't live with my parents, I live alone. 
