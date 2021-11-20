@@ -170,7 +170,7 @@ A LOT / LOTS
 FEW / FEWER
     There are just a few fairies left in the forest and soon there will be fewer.
 TOO MANY / TOO FEW
-    There are not too many fairies left and there are too few elves.
+    There are not too many people left on the island and there are too few old people.
 (NOT) ENOUGH
     You can’t have enough cats!
 
@@ -178,7 +178,7 @@ UNCOUNTABLE NOUNS
 MUCH / MORE
     I haven’t got much time to spend with my dogs. I need more free time.
 A LOT / LOTS
-    There’s a lot of magic in this forest and lots of witchcraft.
+    There’s a lot of information on the internet and lots of data.
 LITTLE / LESS
     I have little information on witches and even less on dragons.
 TOO MUCH / TOO LITTLE
@@ -190,7 +190,7 @@ TOO MUCH / TOO LITTLE
 TOO
     This spell is too powerful, don’t use it indoors.
 SO
-    It’s so powerful, it can turn a hundred people into frogs.
+    It’s so powerful, it can turn a hundred people into zombies.
 A LITTLE (BIT)
     Be careful with that cat lady. She’s a little bit crazy.
 ENOUGH (comes after the adjective)
@@ -213,7 +213,7 @@ PRETTY
 
     once a week, twice a month, three times a week
     every day/week/month/year
-    ever
+    ever != never
     hourly, daily == everyday, nightly, weekly, monthly, yearly, annually
     
     -This magazine is published monthly.
@@ -225,19 +225,19 @@ PRETTY
 
 ADVERBS OF AFFIRMATION or NEGATION
     indeed, exactly, certainly, surely, apparently, obviously, perhaps, invalidly, verily
-    by all means, definitely, probably, really, clearly, exactly, truly, doubtlessly, undoubtedly
+    by all means, definitely, probably, really, clearly, truly, doubtlessly, undoubtedly
     no longer, hardly, not very, never, almost, rarely, contradictorily, scarcely
 
     They are definitely going to win. I’m certain of it, so I placed a $1000 bet.
     We certainly don’t steal from our customers! It must have been a computer error.
-    Given the circumstances, I surely won’t allow you to go out.
-    It’s truly a staggering innovation that will change the world.
+    Given the circumstances, I surely won’t allow you to go out. --> Şartlar göz önüne alındığında, kesinlikle dışarı çıkmana izin vermeyeceğim.
+    It’s truly a staggering innovation that will change the world. --> Bu gerçekten dünyayı değiştirecek şaşırtıcı bir yenilik.
     We are obviously going to make a lot of money with this investment.
-    The burglar will be found, by all means necessary.
+    The burglar will be found, by all means necessary. --> Hırsız bulunacak, ne pahasına olursa olsun.
 
     There’s no chance they’re going to win tonight. Especially not since they lost their start player.
     She has never been to Las Vegas, so I’m certain she hasn’t gotten married behind his back. 
-    I don’t see any way this project could hope to be profitable.
+    I don’t see any way this project could hope to be profitable. --> Bu projenin karlı olmasını ummanın bir yolunu göremiyorum.
 
 
 
