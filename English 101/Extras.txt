@@ -23,6 +23,8 @@ move fast break things
 persistance pays off - kalıcılık karşılığını verir
 consistency - tutarlılık, uyum
 
+data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
+veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
 
 ARRIVE
 we arrived at the village
