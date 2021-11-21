@@ -29,7 +29,7 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
     wash my face and hands
     brush the teeth
     get dressed
-    put on clothes
+    put clothes on
     brush your hair
     have breakfast
     water the plant
@@ -166,7 +166,8 @@ I normally go to bed late
 
 Example:
 Some of my friends think I have a boring daily routine, but I like it.  
-I usually get up at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
+I usually get up 
+at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
 First, I brush my teeth, and shave, and wash my face.  
 Then, I get dressed and go downstairs to have breakfast with my family. 
 I always have coffee, cereal, and lots of fruit.  That’s me in the picture with my wife.  
