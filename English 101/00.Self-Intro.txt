@@ -185,6 +185,10 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
             --> we are a family of four         --> (dört kişilik bir aileyiz)
       how many brothers/sisters (siblings) do you have? --> I have a brother
                                                         --> I have two sisters
+      
+      my family is made up of my father, mother, two brothers and two sisters
+            (benim ailem babam, annemi iki erkek kardeşim ve iki kız kardeşimden oluşur.)
+            
       Tell me about your family? --> My father is ...
                                  --> My mother is ...
                                  --> My brother/sister is ...
