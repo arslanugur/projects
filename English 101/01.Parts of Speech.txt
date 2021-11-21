@@ -161,13 +161,17 @@ PLURAL		you			are	   were				you		 | happily 	on television	on the weekend
 		they			are	   were				them		 | eagerly	at the station	at midnight
 
 
+---> TIME
+time - zaman              --> sometime, some time, on time, in time, every time
+time - kere, kez, defa    --> one time, two times, sometimes, a few times
+
 
 
 ---> TWELVE TENSES (4x3 Tenses)
-Times		Aspects			Explains:
-------------	------------		----------------------------------------------------------------
+Time		Aspects			Explains:
+---------	-----------------------------------------------------------------------------------------
 Past		Simple			(durum, hiç tamamlanmayan, rutin, günlük yapılan standart şeyler)
-Present		Continuous		(hareket, devam eden, belirli bir sürece yayılabilir, hareket)
+Present		Continuous		(hareket, devam eden, belirli bir sürece yayılabilir)
 Future		Perfect			(tamamlanmış ama etkisi halen olabilir)
 		Perfect Continuous	(tamamlanmış ama hem etkisi, hem de süreci halen devam edebilir)
 
