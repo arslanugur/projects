@@ -115,8 +115,6 @@ knackered - really very tired
 
 
 
-
-
 this should not be done --> bu yapılmamalı
 this should not have been done --> bu yapılmamalıydı
 
@@ -161,3 +159,12 @@ Baby month by Month - Infant Milestones
 6-8   - sitting without support
 9-10  - standing with support
 11-15 - walking
+
+
+
+reason/logic - mantık
+you use another truth to find out a truth - bir gerçeği bulmak için başka bir gerçeği kullanırsın
+axiom - aksiyom
+reasoning rules - akıl yürütme kuralları
+inference rules - çıkarım kuralları
+
