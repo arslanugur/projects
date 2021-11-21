@@ -1,6 +1,6 @@
 ---> DAILY ACTIVITIES
-			S              |       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
-		------------------------------------------------------------------------------------------------------------------------------
+			S            	|       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
+		------------------------------------------------------------------------------------------------------------------------------------
 		Subject			|					|			|               |
 		(noun/pronoun)		|				        |			|               |
 		Subject Pronouns	|				        |			|               |
@@ -16,9 +16,10 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
 		they	    		|           almost never            	|	finish		|  my lessons	|   at five every evening
                             		|               never			|	get back	|  home		|   at six
                             
-					* and then, afterwards, after that
+					* and then, afterwards, after that, later on
 					* before, before that
 					* but, and, or
+					* 
 
 
 ---> CHUNKS
@@ -34,13 +35,17 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
     water the plant
     feed the dog/cat
     wait for the bus
+    get on a bus
     get to work
+    get to school
+    get home
+    get to bed 
+    go to bed
     drive to work
     vacuum the floor
     do the laundry
     hang the clothes
     iron the clothes
-    go to bed / get to bed
     take a bath
     start my classes
     surf the net
@@ -65,7 +70,6 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
     make dinner
     fold the laundry
     take a taxi
-    get on a bus
     paint the picture
     have a break (U.K) – take a break (U.S)
     walk the dog
