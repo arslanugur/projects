@@ -41,34 +41,35 @@ N --> no, he/she doesn't go on holiday every summer
 
 
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
-				        |	    S		|	V	|	O	|
-5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
-------------------------------------------------------------------------------------------------
-what		   |   		        |   			|    need	|
-which + NOUN	   |   do		|   I			|    see	|
-what kind of + NOUN|		        |			|    look	|
--------------------|   do		|   YOU			|    walk	|
-where              |		        |			|    run	|
-where  ... to/from |   does	        |   HE			|    want	|
--------------------|   does	        |   SHE			|    read	|
-when               |   does	        |   IT (Lesson)		|    write	|
-what time	   |   		        |   			|    spend	|
--------------------|   do		|   WE			|    watch	|
-who    ... to/with |   do		|   YOU			|    drink	|
-whom		   |   do		|   THEY (Lessons)	|    eat	|
-whose		   |		        |			|    make	|
--------------------|   		        |			|    do		|
-why		   |			|			|    start	|
-what for	   |		        |			|    solve	|
--------------------|		        |			|    listen	|
-how		   |		        |			|    hear	|
-how many + NOUN	   |		        |			|    wear	|
-how much + NOUN	   |		        |			|    talk	|
-how often	   |		        |			|    study	|
-how long	   |		        |			|    go		|
-how fast           |			|			|    work	|
-how far            |			|			|    say	|
-how well           |			|			|    tell	|
+					        |	    S		|	V	|	O	|
+5 W 1 H			|     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
+---------------------------------------------------------------------------------------------------------
+what			|   		            			|    need	|
+which + NOUN	   	|   do				I		|    see	|
+what kind of + NOUN	|		        			|    look	|
+------------------------|   do				YOU		|    walk	|
+where              	|		         			|    run	|
+where  ... to/from 	|   does			HE		|    want	|
+------------------------|   does			SHE		|    read	|
+when               	|   does			IT (Lesson)	|    write	|
+what time	   	|   		            			|    spend	|
+------------------------|   do				WE		|    watch	|
+who    ... to/with 	|   do				YOU		|    drink	|
+whom		   	|   do				THEY (Lessons)	|    eat	|
+whose + NOUN	   	|		         			|    make	|
+------------------------|   		         			|    do		|
+why		   	|						|    start	|
+what ... for	   	|		        			|    solve	|
+------------------------|		        			|    listen	|
+how		   	|		        			|    hear	|
+how many + NOUN	   	|		        			|    wear	|
+how much + NOUN	   	|		        			|    talk	|
+how old			|						|    arrive	|
+how often	   	|		        			|    study	|
+how long	   	|		        			|    go		|
+how fast           	|						|    work	|
+how far            	|						|    say	|
+how well           	|						|    tell	|
 
 
 
@@ -161,31 +162,31 @@ N --> no, we/you/they are not coming...
 				        |	    S		|	V	|	O	|
 5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
 ------------------------------------------------------------------------------------------------
-what		   |   		        |   			|    need	|
-which + NOUN	   |   am		|   I			|    seeing	|
-what kind of + NOUN|		        |			|    looking	|
--------------------|   are		|   YOU			|    walking	|
-where              |		        |			|    running	|
-where  ... to/from |   is	        |   HE			|    want	|
--------------------|   is	        |   SHE			|    reading	|
-when               |   is	        |   IT (Lesson)		|    writing	|
-what time	   |   		        |   			|    spending	|
--------------------|   are		|   WE			|    watching	|
-who    ... to/with |   are		|   YOU			|    drinking	|
-whom		   |   are		|   THEY (Lessons)	|    eating	|
-whose		   |		        |			|    making	|
--------------------|   		        |			|    doing	|
-why		   |			|			|    starting	|
-what for	   |		        |			|    solving	|
--------------------|		        |			|    listening	|
-how		   |		        |			|    hear	|
-how many + NOUN	   |		        |			|    wearing	|
-how much + NOUN	   |		        |			|    talking	|
-how often	   |		        |			|    studying	|
-how long	   |		        |			|    going	|
-how fast           |			|			|    working	|
-how far            |			|			|    saying	|
-how well           |			|			|    telling	|
+what		   |   		            			|    need	|
+which + NOUN	   |   am		    I			|    seeing	|
+what kind of + NOUN|		         			|    looking	|
+-------------------|   are		    YOU			|    walking	|
+where              |		         			|    running	|
+where  ... to/from |   is	            HE			|    want	|
+-------------------|   is	            SHE			|    reading	|
+when               |   is	            IT (Lesson)		|    writing	|
+what time	   |   		            			|    spending	|
+-------------------|   are		    WE			|    watching	|
+who    ... to/with |   are		    YOU			|    drinking	|
+whom		   |   are		    THEY (Lessons)	|    eating	|
+whose		   |		         			|    making	|
+-------------------|   		         			|    doing	|
+why		   |			 			|    starting	|
+what for	   |		         			|    solving	|
+-------------------|		         			|    listening	|
+how		   |		         			|    hear	|
+how many + NOUN	   |		         			|    wearing	|
+how much + NOUN	   |		         			|    talking	|
+how often	   |		         			|    studying	|
+how long	   |		         			|    going	|
+how fast           |			 			|    working	|
+how far            |			 			|    saying	|
+how well           |			 			|    telling	|
 
 
 
@@ -206,31 +207,31 @@ N --> no, I have not/(never) been in Madrid
 				        |	    S		|	V	|	O	|
 5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
 ------------------------------------------------------------------------------------------------
-what		   |   		        |   			|    needed	|
-which + NOUN	   |   have		|   I			|    seen	|
-what kind of + NOUN|		        |			|    looked	|
--------------------|   have		|   YOU			|    walked	|
-where              |		        |			|    run	|
-where  ... to/from |   has	        |   HE			|    wanted	|
--------------------|   has	        |   SHE			|    read	|
-when               |   has	        |   IT (Lesson)		|    written	|
-what time	   |   		        |   			|    spent	|
--------------------|   have		|   WE			|    watched	|
-who    ... to/with |   have		|   YOU			|    drunk	|
-whom		   |   have		|   THEY (Lessons)	|    eaten	|
-whose		   |		        |			|    made	|
--------------------|   		        |			|    done	|
-why		   |			|			|    started	|
-what for	   |		        |			|    solved	|
--------------------|		        |			|    listened	|
-how		   |		        |			|    heard	|
-how many + NOUN	   |		        |			|    wore	|
-how much + NOUN	   |		        |			|    talked	|
-how often	   |		        |			|    studied	|
-how long	   |		        |			|    gone	|
-how fast           |			|			|    worked	|
-how far            |			|			|    said	|
-how well           |			|			|    told	|
+what		   |   		            			|    needed	|
+which + NOUN	   |   have		    I			|    seen	|
+what kind of + NOUN|		         			|    looked	|
+-------------------|   have		    YOU			|    walked	|
+where              |		         			|    run	|
+where  ... to/from |   has	            HE			|    wanted	|
+-------------------|   has	            SHE			|    read	|
+when               |   has	            IT (Lesson)		|    written	|
+what time	   |   		            			|    spent	|
+-------------------|   have		    WE			|    watched	|
+who    ... to/with |   have		    YOU			|    drunk	 
+whom		   |   have		    THEY (Lessons)	|    eaten	|
+whose		   |		         			|    made	|
+-------------------|   		         			|    done	|
+why		   |			 			|    started	|
+what for	   |		         			|    solved	|
+-------------------|		         			|    listened	|
+how		   |		         			|    heard	|
+how many + NOUN	   |		         			|    wore	|
+how much + NOUN	   |		         			|    talked	|
+how often	   |		         			|    studied	|
+how long	   |		         			|    gone	|
+how fast           |			 			|    worked	|
+how far            |			 			|    said	|
+how well           |			 			|    told	|
 
 
 ---> PRESENT PERFECT CONTINUOUS TENSE
@@ -249,32 +250,32 @@ N --> no, I have not been living in Milano
 ---> MAKING A QUESTION FOR PRESENT PERFECT CONTINUOUS
 				        |	    S		|	V		|	O	|
 5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB		|     OBJECT	|
-------------------------------------------------------------------------------------------------
-what		   |   		        |   			|    need		|
-which + NOUN	   |   have		|   I			|    been seeing	|
-what kind of + NOUN|		        |			|    been looking	|
--------------------|   have		|   YOU			|    been walking	|
-where              |		        |			|    been running	|
-where  ... to/from |   has	        |   HE			|    want		|
--------------------|   has	        |   SHE			|    been reading	|
-when               |   has	        |   IT (Lesson)		|    been writing	|
-what time	   |   		        |   			|    been spending	|
--------------------|   have		|   WE			|    been watching	|
-who    ... to/with |   have		|   YOU			|    been drinking	|
-whom		   |   have		|   THEY (Lessons)	|    been eating	|
-whose		   |		        |			|    been making	|
--------------------|   		        |			|    been doing		|
-why		   |			|			|    been starting	|
-what for	   |		        |			|    been solving	|
--------------------|		        |			|    been listening	|
-how		   |		        |			|    hear		|
-how many + NOUN	   |		        |			|    been wearing	|
-how much + NOUN	   |		        |			|    been talking	|
-how often	   |		        |			|    been studying	|
-how long	   |		        |			|    been going		|
-how fast           |			|			|    been working	|
-how far            |			|			|    been saying	|
-how well           |			|			|    been telling	|
+---------------------------------------------------------------------------------------------------------
+what		   |   		            			|    need		|
+which + NOUN	   |   have		    I			|    been seeing	|
+what kind of + NOUN|		         			|    been looking	|
+-------------------|   have		    YOU			|    been walking	|
+where              |		         			|    been running	|
+where  ... to/from |   has	            HE			|    want		|
+-------------------|   has	            SHE			|    been reading	|
+when               |   has	            IT (Lesson)		|    been writing	|
+what time	   |   		            			|    been spending	|
+-------------------|   have		    WE			|    been watching	|
+who    ... to/with |   have		    YOU			|    been drinking	|
+whom		   |   have		    THEY (Lessons)	|    been eating	|
+whose		   |		         			|    been making	|
+-------------------|   		         			|    been doing		|
+why		   |			 			|    been starting	|
+what for	   |		         			|    been solving	|
+-------------------|		         			|    been listening	|
+how		   |		         			|    hear		|
+how many + NOUN	   |		         			|    been wearing	|
+how much + NOUN	   |		         			|    been talking	|
+how often	   |		         			|    been studying	|
+how long	   |		         			|    been going		|
+how fast           |			 			|    been working	|
+how far            |			 			|    been saying	|
+how well           |			 			|    been telling	|
 
 
 
