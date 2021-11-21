@@ -86,8 +86,6 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
 
 
 
-
-
 Case:
 I wake up at seven
 after waking up, I wash my face every morning
@@ -163,6 +161,26 @@ I sometimes read a book in the evening
 I play football at weekends
 I often ride my bike with my friends in daytime
 I normally go to bed late
+
+
+
+Example:
+Some of my friends think I have a boring daily routine, but I like it.  
+I usually get up at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
+First, I brush my teeth, and shave, and wash my face.  
+Then, I get dressed and go downstairs to have breakfast with my family. 
+I always have coffee, cereal, and lots of fruit.  That’s me in the picture with my wife.  
+I take a bus to work because I don’t like to drive, 
+and I always arrive at my office before 8:00.  I’m never late for work.  
+Five o’clock is my favorite time of the day because I finish work 
+and go home and see my wife and two children again.  
+We eat dinner together in our dining room at around 6:00, 
+and after that I hang out with my wife and kids at home.  
+We really enjoy watching our favorite TV programs together, but two or three times a week   
+I do exercise in the evening, so I can stay strong and healthy.  
+This is very important!  Finally, at about 9:30, I go to bed, read for a while, 
+and then fall asleep. Sure, some people think my daily routine is a little boring – 
+but on weekends and holidays I love to fly airplanes for fun! 
 
 
 
