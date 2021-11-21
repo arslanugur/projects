@@ -1,20 +1,20 @@
 ---> DAILY ACTIVITIES
 			S            	|       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
-		------------------------------------------------------------------------------------------------------------------------------------
-		Subject			|					|			|               |
-		(noun/pronoun)		|				        |			|               |
-		Subject Pronouns	|				        |			|               |
-----------------------------------------| --------------------------------------|-----------------------|---------------|----------------------------
-		I	    		|       always / all the time       	|	get up		|               |   early
-----------------------------------------|    almost always / nearly always  	|	wake up		|               |   at seven
+		-------------------------------------------------------------------------------------------------------------------------------------------------
+		Subject			|					|			|               |   am -> gece 12 öğlen 12 arası
+		(noun/pronoun)		|				        |			|               |   pm -> öğren 12 gece 12 arası
+		Subject Pronouns	|				        |			|               |   o'clock -> of clock -> duvar saatinin
+----------------------------------------| --------------------------------------|-----------------------|---------------|----------------------------------------
+		I	    		|       always / all the time       	|	get up		|               |   early/late
+----------------------------------------|    almost always / nearly always  	|	wake up		|               |   at seven/eight every day
 		he	    		|      very often / constantly      	|	make		|  my bed       |   after getting up
-SINGULAR	she	    		|        usually / generally        	|	wash		|  my face      |   every morning
+SINGULAR	she	    		|        usually / generally        	|	wash		|  my face      |   every morning/afternoon/evening
 		it	    		|        normally / regularly        	|	have		|  breakfast	|   at eight                    
-----------------------------------------|         often / frequently         	|	go to		|  school       |   by bus every day
-		we	    		|      sometimes / occasionally     	|	start		|  lessons	|   at nine
-PLURAL		you	    		|              rarely               	|	have		|  lunch        |   at noon	
+----------------------------------------|         often / frequently         	|	go to		|  school       |   by bus/by car/by walking
+		we	    		|      sometimes / occasionally     	|	start		|  lessons	|   at nine/ten
+PLURAL		you	    		|              rarely               	|	have		|  lunch        |   at noon / in the afternnon	
 		they	    		|           almost never            	|	finish		|  my lessons	|   at five every evening
-                            		|               never			|	get back	|  home		|   at six
+                            		|               never			|	get back	|  home		|   at night / at midnight / every n ight
                             
 					* and then, afterwards, after that, later on
 					* before, before that
@@ -22,71 +22,71 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
 					* 
 
 
----> CHUNKS
-    wake up at seven
-    get up at half past seven
-    make the bed every morning
-    wash my face and hands
-    brush the teeth
-    get dressed
-    put clothes on
-    brush your hair
-    have breakfast
-    water the plant
-    feed the dog/cat
-    wait for the bus
-    get on a bus
-    get to work
-    get to school
-    get home
-    get to bed 
-    go to bed
-    drive to work
-    vacuum the floor
-    do the laundry
-    hang the clothes
-    iron the clothes
-    take a bath
-    start my classes
-    surf the net
-    use the internet
-    study at home
-    go shopping
-    do exercise
-    wash the car
-    go out with a friend
-    take pictures with my phone
-    play the guitar in my free time
-    eat my snack in the afternoon
-    say good night to my parents/family
-    read a book
-    play a computer game / computer games
-    go for a walk
-    ride my bike
-    have lunch
-    do weekend homework
-    do housework
-    have dinner
-    make dinner
-    fold the laundry
-    take a taxi
-    paint the picture
-    have a break (U.K) – take a break (U.S)
-    walk the dog
-    take out the rubbish (U.S)
-    paint the house
-    rake the leaves
-    read the news
-    sweep the floor
-    clean the window
-    cut the grass
-    do the dishes
-    watch series / television
-    spend my time with ...
+---> CHUNKS ABOUT DAILY ACTIVITIES (Günlük Etkinlikler hakkında kelime kalıpları)
+	wake up at seven
+	get up at half past seven
+	make the bed every morning
+	wash my face and hands
+	brush the teeth
+	get dressed
+	put clothes on
+	brush your hair
+	have breakfast
+	water the plant
+	feed the dog/cat
+	wait for the bus
+	get on a bus
+	get to work
+	get to school
+	get home
+	get to bed 
+	go to bed
+	drive to work
+	vacuum the floor
+	do the laundry
+	hang the clothes
+	iron the clothes
+	take a bath
+	start my classes
+	surf the net
+	use the internet
+	study at home
+	go shopping
+	do exercise
+	wash the car
+	go out with a friend
+	take pictures with my phone
+	play the guitar in my free time
+	eat my snack in the afternoon
+	say good night to my parents/family
+	read a book
+	play a computer game / computer games
+	go for a walk
+	ride my bike
+	have lunch
+	do weekend homework
+	do housework
+	have dinner
+	make dinner
+	fold the laundry
+	take a taxi
+	paint the picture
+	have a break (U.K) – take a break (U.S)
+	walk the dog
+	take out the rubbish (U.S)
+	paint the house
+	rake the leaves
+	read the news
+	sweep the floor
+	clean the window
+	cut the grass
+	do the dishes
+	watch series / television
+	spend my time with ...
 
 
 
-Case:
+Student Case:
 I wake up at seven
 after waking up, I wash my face every morning
 I get dressed at half past seven
@@ -107,7 +107,7 @@ I read a book before going to bed
 I sleep at twelve
 
 
-Case:
+Student Case:
 I wake up at fifteen to seven every morning but sometimes late
 I get up at half past seven because i like sleeping and then I get dressed and I wash my face and hands
 I tidy my bed and then I have breakfast at eight 
@@ -127,7 +127,7 @@ I listen to music before going to bed
 I go to sleep at eleven
 
 
-Case:
+Student Case:
 I wake up at 6:30 every morning
 I get dressed at 7:55
 I make the bed at 9:50
@@ -144,7 +144,7 @@ I study at 19:00 in my room
 I go to bed at 23:00 or 23:30
 
 
-Case:
+Student Case:
 I go to the course at 8:30 at weekend 
 I play football at weekend in the field
 Sometimes you play basketball with my friends
@@ -166,8 +166,7 @@ I normally go to bed late
 
 Example:
 Some of my friends think I have a boring daily routine, but I like it.  
-I usually get up 
-at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
+I usually get up at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
 First, I brush my teeth, and shave, and wash my face.  
 Then, I get dressed and go downstairs to have breakfast with my family. 
 I always have coffee, cereal, and lots of fruit.  That’s me in the picture with my wife.  
@@ -186,31 +185,45 @@ but on weekends and holidays I love to fly airplanes for fun!
 
 
 
----> HOUSE
+---> HOUSE LIFE
 roof
-	--> on the roof
+	--> on the roof -- çatıda
 window
-	--> out of the window
+	--> out of the window	- pencereden dışarı
 kitchen
-	--> in the kitchen
-	--> on the table
+	--> in the kitchen	- mutfakta
+	--> on the table	- masada
+	--> in the oven		- fırında
+	--> in the fridge	- buzdolabında
 wall
-	--> on the wall
+	--> on the wall		- duvarda
+	--> next to the wall	- duvarın yanında
 floor
-	--> on the first floor
-	--> on the second floor
-	--> on the third floor
+	--> on the first floor	- birinci katta 
+	--> on the second floor	- ikinci katta
+	--> on the third floor	- üçüncü katta
+	--> on the fourth floor - dördüncü katta
 door
-	--> at the door
-	--> in front of the door
-	--> behind the door
-stairs
-	--> go upstairs
-	--> go downstairs
+	--> at the door			- kapıda
+	--> in front of the door	- kapının önünde
+	--> behind the door		- kapının arkasında
+stairs - basamaklar
+	--> go upstairs		- yukarı çık
+	--> go downstairs	- aşağı in
 bathroom
+	--> in shower		- duşta
 bedroom
+	--> on the bed		- yatağın üzerinde
+	--> in bed		- yatakta
+	--> get out of bed	- yataktan kalkmak
+	--> under the bed	- yatağın altında
 living room
+	--> on the couch	- kanepede
+	--> on the sofa		- koltukta
+	--> on the television	- televizyonda
 garden
+	--> in the garden	- bahçede
 garage
-
+	--> in the garage	- garajda
+	--> in the basement	- bodrumda
 
