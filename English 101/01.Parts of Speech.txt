@@ -167,7 +167,7 @@ time - kere, kez, defa    --> one time, two times, sometimes, a few times
 
 
 
----> TWELVE TENSES (4x3 Tenses)
+---> TWELVE TENSES (4x3 Tenses)         (tense - kip, biçim)
 Time		Aspects			Explains:
 ---------	-----------------------------------------------------------------------------------------
 Past		Simple			(durum, hiç tamamlanmayan, rutin, günlük yapılan standart şeyler)
