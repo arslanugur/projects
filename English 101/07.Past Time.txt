@@ -5,6 +5,37 @@ N --> no, I didn't go on holiday last summer
 
       Signals: last ..., ... ago, ... 1990, yesterday
 
+---> MAKING A QUESTION FOR PAST SIMPLE
+					            |	    S		      |	V1	|	  V2	      |     O     |
+5 W 1 H			|     QUESTIONS 	|    	SUBJECT		|    VERB 1	|     VERB 2      |   OBJECT	|
+-------------------------------------------------------------------------------------------------------------
+what			      |   		            			|    need	|  needed         |
+which + NOUN	   	|   				I		      |    see	|  saw            |
+what kind of + NOUN	|		        			      |    look	|  looked         |
+------------------------|   				YOU		      |    walk	|  walked         |
+where              	|		         			      |    run	|  ran            |
+where  ... to/from 	|     			HE		      |    want	|  wanted         |
+------------------------|   	  DID     		SHE		      |    read	|  read           |
+when               	|   		      	IT (Lesson)	      |    write	|  wrote          |
+what time	   	      |   		            			|    spend	|  spent          |
+------------------------|   				WE		      |    watch	|  watched        |
+who    ... to/with 	|   				YOU		      |    drink	|  drank          |
+whom		   	      |   				THEY (Lessons)	|    eat	|  ate            |
+whose + NOUN	   	|		         			      |    make	|  made           |
+------------------------|   		         			      |    do	|  did            |
+why		   	      |						      |    start	|  started        |
+what ... for	   	|		        			      |    solve	|  solved         |
+------------------------|		        			      |    listen	|  listened       |
+how		   	      |		        			      |    hear	|  heard          |
+how many + NOUN	   	|		        			      |    wear	|  wore           |
+how much + NOUN	   	|		        			      |    talk	|  talked         |
+how old			|						      |    arrive	|  arrived        |
+how often	   	      |		        			      |    study	|  studied        |
+how long	   	      |		        			      |    go	|  went           |
+how fast           	|						      |    work	|  worked         |
+how far            	|						      |    say	|  said           |
+how well           	|						      |    tell	|  told           |
+
 
 ---> PAST CONTINUOS TENSE
 Q --> were you coming to her birthday party?
@@ -14,12 +45,77 @@ N --> no, I was not coming...
       Signals: while, when, as, all morning/evening
 
 
+---> MAKING A QUESTION FOR PAST CONTINUOUS
+					            |	    S		      |	  V	      |       O          |
+5 W 1 H			|     QUESTIONS 	|    	SUBJECT		|     VERB 	      |     OBJECT       |
+--------------------------------------------------------------------------------------------------------
+what			      |   		            			|    need	      |
+which + NOUN	   	|   	was   		I		      |    seeing	      |
+what kind of + NOUN	|		        			      |    looking	|
+------------------------|   	were			YOU		      |    walking	|
+where              	|		         			      |    running	|
+where  ... to/from 	|     was			HE		      |    want	      |
+------------------------|   	was     		SHE		      |    reading	|
+when               	|   	was	      	IT (Lesson)	      |    writing	|
+what time	   	      |   		            			|    spending	|
+------------------------|   	were			WE		      |    watching	|
+who    ... to/with 	|   	were			YOU		      |    drinking	|
+whom		   	      |   	were			THEY (Lessons)	|    eating	      |
+whose + NOUN	   	|		         			      |    making	      |
+------------------------|   		         			      |    doing	      |
+why		   	      |						      |    starting	|
+what ... for	   	|		        			      |    solving	|
+------------------------|		        			      |    listening	|
+how		   	      |		        			      |    hear	      |
+how many + NOUN	   	|		        			      |    wearing	|
+how much + NOUN	   	|		        			      |    talking	|
+how old			|						      |    arriving	|
+how often	   	      |		        			      |    studying	|
+how long	   	      |		        			      |    going	      |
+how fast           	|						      |    working	|
+how far            	|						      |    saying	      |
+how well           	|						      |    telling	|
+
+
 ---> PAST PERFECT TENSE
 Q --> had you finished that project?
 A --> yes, I had finished...
 N --> no, I had not finished...
 
      Signals: before != after, already, just, for = since, till / until, when, by, by the time, never
+
+---> MAKING A QUESTION FOR PAST PERFECT
+					            |	    S		      |	  V	      |     O     |
+5 W 1 H			|     QUESTIONS 	|    	SUBJECT		|     VERB 3      |   OBJECT	|
+-------------------------------------------------------------------------------------------------
+what			      |   		            			|  needed         |
+which + NOUN	   	|   				I		      |  seen           |
+what kind of + NOUN	|		        			      |  looked         |
+------------------------|   				YOU		      |  walked         |
+where              	|		         			      |  run            |
+where  ... to/from 	|     			HE		      |  wanted         |
+------------------------|   	  HAD     		SHE		      |  read           |
+when               	|   		      	IT (Lesson)	      |  written        |
+what time	   	      |   		            			|  spent          |
+------------------------|   				WE		      |  watched        |
+who    ... to/with 	|   				YOU		      |  drunk          |
+whom		   	      |   				THEY (Lessons)    |  eaten          |
+whose + NOUN	   	|		         			      |  made           |
+------------------------|   		         			      |  done           |
+why		   	      |						      |  started        |
+what ... for	   	|		        			      |  solved         |
+------------------------|		        			      |  listened       |
+how		   	      |		        			      |  heard          |
+how many + NOUN	   	|		        			      |  worn           |
+how much + NOUN	   	|		        			      |  talked         |
+how old			|						      |  arrived        |
+how often	   	      |		        			      |  studied        |
+how long	   	      |		        			      |  gone           |
+how fast           	|						      |  worked         |
+how far            	|						      |  said           |
+how well           	|						      |  told           |
+
+
 
 
 ---> PAST PERFECT CONTINUOUS TENSE
@@ -28,3 +124,35 @@ A --> yes, I had been living in Milano
 N --> no, I had not been living in Milano
 
      Signals: already, just, never, for, since, how long, before, until
+
+---> MAKING A QUESTION FOR PAST PERFECT CONTINUOUS
+					            |	    S		      |	      V           |       O          |
+5 W 1 H			|     QUESTIONS 	|    	SUBJECT		|         VERB 	      |     OBJECT       |
+--------------------------------------------------------------------------------------------------------------
+what			      |   		            			|    need	            |
+which + NOUN	   	|   	         		I		      |    been seeing	      |
+what kind of + NOUN	|		        			      |    been looking	      |
+------------------------|   				YOU		      |    been walking	      |
+where              	|		         			      |    been running	      |
+where  ... to/from 	|     			HE		      |    want	            |
+------------------------|   	 HAD       		SHE		      |    been reading	      |
+when               	|   		      	IT (Lesson)	      |    been writing	      |
+what time	   	      |   		            			|    been spending	|
+------------------------|   				WE		      |    been watching	|
+who    ... to/with 	|   				YOU		      |    been drinking	|
+whom		   	      |   				THEY (Lessons)	|    been eating	      |
+whose + NOUN	   	|		         			      |    been making	      |
+------------------------|   		         			      |    been doing	      |
+why		   	      |						      |    been starting	|
+what ... for	   	|		        			      |    been solving	      |
+------------------------|		        			      |    been listening	|
+how		   	      |		        			      |    hear	            |
+how many + NOUN	   	|		        			      |    been wearing	      |
+how much + NOUN	   	|		        			      |    been talking	      |
+how old			|						      |    been arriving	|
+how often	   	      |		        			      |    been studying	|
+how long	   	      |		        			      |    been going	      |
+how fast           	|						      |    been working	      |
+how far            	|						      |    been saying	      |
+how well           	|						      |    been telling	      |
+
