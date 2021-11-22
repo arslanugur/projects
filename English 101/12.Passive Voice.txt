@@ -27,7 +27,7 @@ Modal Perfect
 
 
 EXAMPLES:
-she wasn't told
+she wasn't told - ona söylenmedi
 bullets only do their jobs after they are fired 
 The criminal was arrested as he came out of the bank.
 Interest rates will probably be increased next year.
@@ -45,9 +45,11 @@ The Cathedral was built in the 14th Century.
 The roads are cleaned once a week.
 The Gioconda was painted by Leonardo da Vinci.
 "Catch Me If You Can" was directed by Steven Spielberg.
+I was told to stay at home - evde kalmam söylendi
+we were told not to leave the class - bize sınıftan dışarı çıkılmamamız söylendi
+
 
 
 
 
 prepared by Uğur ARSLAN and His Students
-
