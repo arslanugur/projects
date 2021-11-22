@@ -102,6 +102,8 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- You should be more careful where you loiter. (recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
 	- We should deal with this right now. (the right thing to do)
 	- He should be home soon but i’m not sure. (uncertain prediction)
+	- this should not be done --> bu yapılmamalı
+	- this should not have been done --> bu yapılmamalıydı
 
 --> BE SUPPOSED TO
 	- I'm supposed to be taking care of you - seninle ilgilenmem gerekiyor
