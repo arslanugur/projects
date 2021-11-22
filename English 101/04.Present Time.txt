@@ -174,7 +174,7 @@ what time	   |   		            			|    spending	|
 -------------------|   are		    WE			|    watching	|
 who    ... to/with |   are		    YOU			|    drinking	|
 whom		   |   are		    THEY (Lessons)	|    eating	|
-whose		   |		         			|    making	|
+whose + NOUN	   |		         			|    making	|
 -------------------|   		         			|    doing	|
 why		   |			 			|    starting	|
 what for	   |		         			|    solving	|
@@ -219,7 +219,7 @@ what time	   |   		            			|    spent	|
 -------------------|   have		    WE			|    watched	|
 who    ... to/with |   have		    YOU			|    drunk	 
 whom		   |   have		    THEY (Lessons)	|    eaten	|
-whose		   |		         			|    made	|
+whose + NOUN	   |		         			|    made	|
 -------------------|   		         			|    done	|
 why		   |			 			|    started	|
 what for	   |		         			|    solved	|
@@ -263,7 +263,7 @@ what time	   |   		            			|    been spending	|
 -------------------|   have		    WE			|    been watching	|
 who    ... to/with |   have		    YOU			|    been drinking	|
 whom		   |   have		    THEY (Lessons)	|    been eating	|
-whose		   |		         			|    been making	|
+whose  + NOUN      |		         			|    been making	|
 -------------------|   		         			|    been doing		|
 why		   |			 			|    been starting	|
 what for	   |		         			|    been solving	|
