@@ -61,8 +61,47 @@ I am getting used
 I got used
 
 
-DO    --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
-MAKE  --> a phone call, the bed, a cake, a mistake, a comment, dinner
+DO    + Object --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
+MAKE  + Object --> a phone call, the bed, a cake, a mistake, a comment, dinner
+                   She made some coffee.
+                   Did you really make this table?
+                   
+                   make 
+                   a claim, a mess, a speech, a complaint, a mistake, a start, a concession, 
+                   a note, a statement, a date, a phone call, a wish, a difference, a point, 
+                   an appointment, a fuss, a profit/loss, an effort, a list, a sound
+	                 
+                   Make + object (o) + adjective complement (ac)
+                   --> Music makes me happy.
+
+                   Make + object (o) + noun complement (nc)
+                   --> They made her team captain for the coming year.
+
+                   --> A: When am I going to get my suitcase?
+                       B: I promise you we’re going to make it a priority.
+    
+                   Make + indirect object (io) + direct object (do)
+                   --> The chef made him a special cake.
+                   --> Can I make you a cup of tea or coffee?
+
+                   Make + object (o) + prepositional phrase (pp) with for
+                   --> Can you make a sandwich for Lisa as well?
+                   --> Can you make Lisa a sandwich as well?
+                   --> I’ve made an appointment for you at the dentist’s.
+                   --> I made pasta for our guests.
+
+                    Make + object + adjective (or noun) complement + prepositional phrase with for
+                    --> He made life difficult for me.
+                    --> What would make it a better book for students?
+
+                    made from
+                    made of
+                    made out of
+                    made with 
+    
+    
+    
+    
 
 
 IN/AT the end
