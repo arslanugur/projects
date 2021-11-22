@@ -402,6 +402,8 @@ preside           presidence              president                 yönetmek, b
 
 ---> T
 think             thought                 thoughtful                düşünmek
+trade             trade                                             ticaret
+                  tradition               traditional               gelenek
 
 ---> U
 use               usage                   useful                    kullanmak
