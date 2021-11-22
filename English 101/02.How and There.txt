@@ -56,6 +56,20 @@ I earn 50 dollars a day. (Günde 50 dolar kazanıyorum.)
 How much does it cost? (Bu ne kadar tutuyor, bunun fiyatı nedir?)
 It costs 5 dollars. (5 dolar tutuyor.)
 
+--> Restaurant Fallacy
+A- how many burgers would you like?
+B- I'm not sure. How much chicken do you have?
+A- I have two pounds. that makes eight burgers. How many people do you need to feed?
+B- there are ten of us. How much are eight chicken burgers and two beef burgers?*
+A- sixty-four dollars.. and how many drinks do you want?*
+B- no drinks, ta. and how many people are ahead of us?
+A- we have twenty burger orders before yours. how much time do you have?
+
+
+---> TIME
+time - zaman              --> sometime, some time, on time, in time, every time
+time - kere, kez, defa    --> one time, two times, sometimes, a few times
+
 
 
 ---> QUANTIFIERS
