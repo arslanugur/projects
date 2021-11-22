@@ -184,3 +184,10 @@ axiom - aksiyom
 reasoning rules - akıl yürütme kuralları
 inference rules - çıkarım kuralları
 
+
+
+
+
+
+prepared by Uğur ARSLAN and His Students
+
