@@ -1,0 +1,82 @@
+CONDITIONALS
+Type Zero (0): (General Truth)
+              Herkesin doğru kabul ettiği kesin durumları/gerçek olayları anlatırken
+
+              If + Present Simple, Present Simple
+
+              - If it snows, the roads get slippery.                      (Kar yağarsa yollar kayganlaşır.)
+              - If you don’t eat your meal, your mother gets angry.       (Yemeğini yemezsen annen kızar.)
+              - If you drink cold water, you get sick.                    (Soğuk su içersen hasta olursun.)
+
+Type One (1): (Real Present)
+              Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
+
+              If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
+              
+              - If you don’t get off the tree, you will fall.             (Ağaçtan inmezsen düşeceksin.)
+              - If we have worked hard, we can finish the project.        (Çok çalışırsak projeyi bitirebiliriz.)
+              - You must study the exam, if you see him.                  (Onu görürsen sınava çalışmalısınız.)
+              - If she has money, she will travel.                        (Parası olsa seyahat eder.)
+              - If it snows, schools will be closed                       (kar yağarsa, okullar kapanacak)
+              - if he wins the lottery, he'll get you a phone             (lotoyu tuturursa, sana telefon alacak)
+
+
+Type Two (2): (Unreal Present)
+              Gerçekleşme olasılığı çok az ya da imkânsız durumlar için kullanılır. 
+              Daha çok hayali durumları ifade etmek amacıyla tercih edilir. 
+              Konuşulan anı vurguladığı için şimdi veya gelecek zamandan bahseden cümlelerdir.
+              
+              If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
+              
+              - If there was a zombie invasion, we would eat each other   (Zombie istilası olsaydı, birbirimizi yerdik)
+              - If we bought two tickets, we would watch the film         (İki bilet satın alsaydık filmi izlerdik.)
+              - If she earned a lot money, she might go to France         (Çok kazansaydı Fransa’ya giderdi.)
+              - If he were listening to you, he couldn’t make a mistake   (Seni dinlemiş olsaydı hata yapmayabilirdi.)
+              - I would sleep until noon if I didn’t go to school         (Okula gitmeseydim öğleye kadar uyurdum.)
+              - If he were taller, he could be a basketball player        (daha uzun olsaydı, basketbol oyuncusu olurdu.)
+              
+              Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
+                   Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
+                   Bu nedenle, ‘was’ geçmesi gereken he, she it öznelerinde de ’was’ yerine ‘were’ kullanılır.
+
+
+Type Three (3): (Unreal Past)
+                Artık gerçekleşmesi mümkün olmayan olayları, pişmanlık/eleştiri anlatmak
+                Tamamlanıp geçmişte kalmış durumları belirttiği için 
+
+                If + Past Perfect/ Past Perfect Continuous,  Would/ Could/ Might + Perfect Bare Infinitive (have + V3)
+                
+                - If your mom had given birth to you as a girl, you would still run away from home  (Annen seni kız olarak doğursaydı, yine evden kaçardın)
+                - If you had locked the door, the thief wouldn’t have got in.                       (Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi.) – eleştiri
+                - If you had studied hard enough, you could have passed the exam.                   (Yeteri kadar çalışmış olsaydın sınavı geçebilirdin.) – eleştiri
+                - If I had been more careful, I would have won the race.                            (Daha dikkatli olsaydım yarışı kazanabilirdim.) – pişmanlık
+
+
+
+
+Koşul Cümlelerinde Özel Durumlar
+Koşul cümlelerindeki 4 tip kullanımın dışında bazı özel durumlar da olabiliyor. Çünkü if ile farklı kullanımlar da söz konusu.
+
+Durum 1: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. 
+         Ancak if clause cümlesinde bu yardımcı fiillerden herhangi biri geçiyorsa kibar bir istek, ısrarcılık veya belirsizlik söz konusu olabilir. 
+         Kısacası bu 3 durumda if clause ile bu fiilleri kullanabilirsiniz.
+         
+         - If you will wait a minute, I can call Mr.John. (Bir dakika beklerseniz, Bay John’u arayabilirim.) – rica
+         - If he should come here, we may go together. (O buraya gelirse belki birlikte gidebiliriz.) – belirsizlik
+
+Durum 2: Bir öğüt vermek istediğimizde ‘If I were you…’ ile başlayan cümle yapısını kullanırız. (Ben senin yerinde olsaydım…)
+        
+          - If I were you, I wouldn’t go alone. (Yerinde olsaydım, yalnız gitmezdim.)
+
+Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olabilir. 
+         ‘if’ ile ihtimâli olan bir durumu, ‘when’ ile gerçekleşeceğini bildiğimiz kesin bir durumu anlatırız.
+
+          - If Jane calls me, tell her I will be back. (Jane beni ararsa, ona döneceğimi söyle. -Arayabilir.) – Olabilir
+          - When Jane calls me, tell her I will be back. (Jane beni aradığında, ona döneceğimi söyle. Arayacak.) – Olacağı kesin
+
+
+
+
+
+
+prepared by Uğur ARSLAN and His Students
