@@ -271,8 +271,8 @@ what for	   |		         			|    been solving	|
 how		   |		         			|    hear		|
 how many + NOUN	   |		         			|    been wearing	|
 how much + NOUN	   |		         			|    been talking	|
-how often	   |		         			|    been studying	|
-how long	   |		         			|    been going		|
+HOW LONG **	   |		         			|    been studying	|
+how often	   |		         			|    been going		|
 how fast           |			 			|    been working	|
 how far            |			 			|    been saying	|
 how well           |			 			|    been telling	|
@@ -311,8 +311,5 @@ Future Perfect Continuous Signals: this tense is not used very much
 
 
 
+
 prepared by Uğur ARSLAN and His Students
-
-
-
-
