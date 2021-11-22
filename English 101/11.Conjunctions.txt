@@ -255,6 +255,18 @@ So is used to show a reaction or consequence.
 	
 	... mek için			--> in order to, so as to, to + Ving
 	... mek için, … sın diye 	--> in order that, so that + clause
+	
+	
+BECAUSE
+as a result of - nın sonucu olarak
+as things go - bu şekilde geliştiğinden
+considering - göz önüne alarak
+due to - sebebiyle
+by virtue of - sayesinde
+for the sake of - bu uğurda
+in view of - bu bakış açısı ile
+on grounds that - gerekçesiyle
+whereas - buna karşılık
 
 
 --> Opinion
@@ -409,6 +421,7 @@ Since when did we start following the rules? * ne zmandan beri kurallara uyduk?
 He behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
 in case he comes back
 as long as it takes- ne kadar gerekirse
+
 
 
 
