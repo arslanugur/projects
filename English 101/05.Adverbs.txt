@@ -206,20 +206,30 @@ PRETTY
     
     
     
----> ADVERBS OF FREQUENCY ---> HOW OFTEN?
-    Always, Sometimes, Often, Frequently, Seldom, Rarely
-    Constantly, Generally, Normally, Regularly, Occasionally, Infrequently
-    Hardly ever, Almost never, Never
+---> ADVERBS OF DEFINITE FREQUENCY ---> HOW OFTEN?
 
-    once a week, twice a month, three times a week
-    every day/week/month/year
-    ever != never
-    hourly, daily == everyday, nightly, weekly, monthly, yearly, annually
+    once        a day                   daily = everyday != nightly
+    twice       a week                  weekly
+    three times a month                 monthly
+    four times  a year                  yearly
+                                        annually
+                                        hourly
     
-    -This magazine is published monthly.
-    -He visits his mother once a week.
-    -I work five days a week.
-    -I saw the movie seven times.
+    every day/week/month/year           ever != never
+    every two days
+    every three weeks
+    every six months
+    
+    - she visits the dentist twice a year
+    - this magazine is published monthly.
+    - he visits his mother once a week.
+    - I work five days a week.
+    - I saw the movie seven times.
+    - he goes to the gym three times a week
+    - we pay our mortgage every month
+    - there is a leap day every four years
+    - I call her daily to make sure she is fine
+    
 
 
 
