@@ -3,129 +3,194 @@ TIME and SENTENCE COMBINATIONS in ENGLISH
 
                                 AFFIRMATIVE                         	NEGATIVE                                    	QUESTION
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
-Present Simple                  I do – yaparım                      	I don’t do - yapmam                         	do I do? – yapar mıyım?
-                                s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
-                                you do – yaparsın                   	you don’t do - Yapmazsın                    	do you do? - yapar mısın?
+Present Simple             I do – yaparım                      	I don’t do - yapmam                         	do I do? – yapar mıyım?
+                           s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
+                           you do – yaparsın                   	you don’t do - Yapmazsın                    	do you do? - yapar mısın?
 
-Present Continuous              I am doing - yapıyorum              	I’m not doing					am i doing?
-                                s/he is doing - yapıyor             	s/he isn’t doing                            	is s/he doing?
-                                you are doing – yapıyorsun          	you aren’t doing                            	are you doing? - yapıyor musun
+Present Continuous         I am doing - yapıyorum              	I’m not doing					am i doing?
+                           s/he is doing - yapıyor             	s/he isn’t doing                            	is s/he doing?
+                           you are doing – yapıyorsun          	you aren’t doing                            	are you doing? - yapıyor musun
 
-Present Perfect                 I have done - yaptım                	I haven't done - yapmadım			have I done - yaptım mı?                      
-                                s/he has done - yaptı			s/he hasn't done 				has s/he done?
-                                you have done - yaptın			you haven't done 				have you done?
+Present Perfect            I have done - yaptım                	I haven't done - yapmadım			have I done - yaptım mı?                      
+                           s/he has done - yaptı		s/he hasn't done 				has s/he done?
+                           you have done - yaptın		you haven't done 				have you done?
                                   
-Present Perfect Continuous      I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım
-                                s/he has been doing
-                                you have been doing
+Present Perfect Continuous I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım
+                           s/he has been doing			s/he has been doing
+                           you have been doing			you haven't been doing 
                                   
                                   
-Past Simple                     I did – yaptım                      	I didn’t do – yapmadım                      	did I do?
-                                s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do?
-                                you did – yaptın                    	you didn’t do - yapmadın			did you do?
+Past Simple                I did – yaptım                      	I didn’t do – yapmadım                      	did I do?
+                           s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do?
+                           you did – yaptın                    	you didn’t do - yapmadın			did you do?
 
-Past Continuous                 I was doing – yapıyordum            	I wasn’t doing - yapmıyordum                   	was I doing? - yapıyor muydum?
-                                s/he was doing – yapıyordu          	s/he was doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
-                                you were doing – yapıyordun         	you weren’t doing - yapmıyordun             	were you doing? - yapıyor muydun?
+Past Continuous            I was doing – yapıyordum            	I wasn’t doing - yapmıyordum                   	was I doing? - yapıyor muydum?
+                           s/he was doing – yapıyordu          	s/he was doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
+                           you were doing – yapıyordun         	you weren’t doing - yapmıyordun             	were you doing? - yapıyor muydun?
 	
-Past Perfect                    I had done – yapmıştım              	I hadn’t done					had I done?
+Past Perfect               I had done – yapmıştım              	I hadn’t done					had I done?
+			   s/he had done - yapmıştı		s/he hadn't done				had s/he done?
+			   you had done - yapmıştın		you hadn't done					had you done?
 
-Past Perfect Cont.              I had been doing – yapmış oluyordum	I hadn’t  been doing	
+Past Perfect Cont.         I had been doing – yapmış oluyordum	I hadn’t  been doing	
+			   s/he had been doing - yapmış oluyordu
+			   you had been doing - yapmış oluyordun
+			   
+Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam	will I do?
+                           s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz	will s/he do?
+			   you will do - yapacaksın/yaparsın	you won't do - yapmayacaksın		will you do?
+			   
+			   will have to do
+			   I will have to do – yapmak zorunda olacağım
+			   s/he will have to do - yapmak zorunda olacak
+			   you will have to do - yapmak zorunda olacaksın
+			   
+Future Simple(be going to) I’m going to do – yapacağım         	I’m not going to do – yapmayacağım
+                           I am going home – eve gidiyorum     	I am not going home – eve gitmiyorum  
+                           I was going to do – yapacaktım      	I wasn’t going to do - yapmayacaktım
+                           I am going to have to do – yapmak zorunda olacağım	I’m not going to have to do – yapmak zorunda olmayacaktım	
 
-Future Simple (will)            I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam
-                                I will have to do – yapmak zorunda olacağım
-
-Future Simple (be going to)     I’m going to do – yapacağım         	I’m not going to do – yapmayacağım
-                                I am going home – eve gidiyorum     	I am not going home – eve gitmiyorum  
-                                I was going to do – yapacaktım      	I wasn’t going to do - yapmayacaktım
-                                I am going to have to do – yapmak zorunda olacağım	I’m not going to have to do – yapmak zorunda olmayacaktım	
-
-Future Cont.                    I will be doing – yapıyor olacağım	I won’t be doing	
-
-Future Perfect                  I will have done
-
-Future Perfect Cont.            I will have been doing
-
+Future Cont.               I will be doing – yapıyor olacağım	I won’t be doing			will I be doing?
+			   s/he will be doing			s/he won't be doing			will s/he be doing?
+			   you will be doing			you won't be doing			will you be doing?
+			   
+Future Perfect             I will have done			I won't have done			will I have done?
+			   s/he will have done			s/he won't have done			will s/he have done?
+			   you will have done			you won't have done			will you have done?
+			   
+Future Perfect Cont.       I will have been doing		I won't have been doing
+			   s/he will have been doing		s/he won't have been doing
+			   you will have been doing		you won't have been doing
 		
-Can (Kalıcı)	                I can do – yapabilirim (kalıcı)	I can’t do – yapamam	
+Can (Kalıcı)	           I can do – yapabilirim (kalıcı)	I can’t do – yapamam
+			   s/he
+			   you
 
-Be able to (Geçici)             I am able to do – yapabilirim (Present)		I’m not able to do
-                                I was able to to do – yapabilirdim (Past)	I wasn’t able to do	
+Be able to (Geçici)	   I am able to do – yapabilirim (Present)		I’m not able to do
+                           I was able to to do – yapabilirdim (Past)	I wasn’t able to do	
+			   s/he
+			   you
+			   
+Could			   I could do – yapabilirdim               	I couldn’t do
+                           I could have done – yapabilirdim 		
+			   s/he
+			   you
+			   
+Would	                   I would do – yapacaktım                		I wouldn’t do
+                           I would have done	                 	I wouldn’t have done	
+			   s/he
+			   you
+			   
+May	                   I may do – yapabilirim	         		I may not do	
+			   s/he
+			   you
+			   
+Might	                   I might do – yapabilirdim              		I might not do
+                           I might have done	
+			   s/he
+			   you
+			   
+Used to V1		   I used to do – yapardım                		I didn’t use to do – yapmazdım	      Did you use to do? – (Eskiden) Yapar mıydın?
+                           I used to be able to do – yapabilirdim
+			   s/he
+			   you
+			   
+Be used Ving	           I am used to doing - yapmaya alışığım (Present) I’m not used to doing	yapmaya alışık değilim
+                           I was used to doing – yapmaya alışmıştım (Past)
+                           I will be used to doing – yapmaya alışacağım (Future)	
+			   s/he
+			   you
+			   
+Get used Ving	           I get used to doing – yapmaya alışırım (Pre. Sim.)  I’m not getting used doing
+                           I got used doing – yapmaya alıştım (Past Sim.)      I didn’t get used doing
+                           I am getting used doing – yapmaya gittikçe alışıyorum (Pres. Cont.)
+                           I was getting used doing – yapmaya gittikçe alışıyordum (Past Cont.)	I wasn’t getting used doing
+			   s/he
+			   you
+			   
+Had better	           I had better do - yapsam iyi olur	        I had better (not) study Maths	
+			   s/he
+			   you
+			   
+Must	                   I must do – yapmak zorundayım             	I mustn’t do - yapmak zorunda değilim		must I do?
+                           I must be doing – yapıyor olmak zorundayım	
+                           I must have done – yapmak zorundaydım
+                           I must have been doing – yapmak zorunda oluyordum	
+			   s/he
+			   you
+			   
+Has/Have to	           I have to do – yapmak zorundayım          I don’t have to do			Do I have to do?
+                           I needn’t have to do	
+			   s/he
+			   you
+			   
+Had to	                   I had to do – yapmak zorundaydım
+			   s/he has had to do – yapmak zorunda oldu	I didn’t have to do	Did I have to do?
+			   you had to do
 
-Could				I could do – yapabilirdim               	I couldn’t do
-                                I could have done – yapabilirdim 		
+Be supposed to		   I am supposed to do
+			   s/he is supposed to do
+			   you are supposed to do		
 
-Would	                        I would do – yapacaktım                		I wouldn’t do
-                                I would have done	                 	I wouldn’t have done	
+Be to			   I am to do
+			   s/he is to do
+			   you are to do		
 
-May	                        I may do – yapabilirim	         		I may not do	
+Should			   I should do – yapmam gerekli		I shouldn’t do			should I do?
+			   I should have done – yapmalıydım (maybe)	
+			   s/he
+			   you
+			   
+Ought to		   I ought to do				I ought not to do
+			   I ought to have done		
+			   s/he
+			   you
+			   
+Have got to		   I have got to do – yapmalıyım		
+			   s/he
+			   you
+			   
+Want			   I want to do – yapmak istiyorum		I don’t want to do – yapmak istemem/istemiyorum
+			   I wanted to do – yapmak istedim		I didn’t want to do – yapmak istemedim
+			   I will want to do – yapmak isteyeceğim	I won’t want to do – yapmak istemeyeceğim	
+			   s/he
+			   you
+			   
+Need to			   I need to do – yapmaya ihtiyacım var	I don’t need to do/I need not to do
+			   s/he needs to do				s/he doesn’t need to do
+			   you
+			   	
+			   I will need to do			I won’t need to 	
+			   s/he
+			   you
+			   
+Try			   I try to do				I don’t try to do
+			   s/he tries to do			s/he doesn’t try to do
+			   you try to do				you don’t try to do
 
-Might	                        I might do – yapabilirdim              		I might not do
-                                I might have done	
-
-Used to V1			I used to do – yapardım                		I didn’t use to do – yapmazdım	      Did you use to do? – (Eskiden) Yapar mıydın?
-                                I used to be able to do – yapabilirdim
-
-Be used Ving	                I am used to doing - yapmaya alışığım (Present) I’m not used to doing	yapmaya alışık değilim
-                                I was used to doing – yapmaya alışmıştım (Past)
-                                I will be used to doing – yapmaya alışacağım (Future)	
-
-Get used Ving	                I get used to doing – yapmaya alışırım (Pre. Sim.)  I’m not getting used doing
-                                I got used doing – yapmaya alıştım (Past Sim.)      I didn’t get used doing
-                                I am getting used doing – yapmaya gittikçe alışıyorum (Pres. Cont.)
-                                I was getting used doing – yapmaya gittikçe alışıyordum (Past Cont.)	I wasn’t getting used doing
+			   I tried to do				I didn’t try
+			   I am trying to do			I’m not trying to do	
+			   s/he
+			   you
+			   
+Prefer (Genel)		   I prefer doing to running – yapmayı tercih ederim	I don’t prefer doing
+			   I would prefer to travel by bus rather than by train
+			   s/he
+			   you
+			   
+Would sooner ..than (Anlık)
+Would rather ..than	   I would rather do than go – gitmektense yapmayı tercih ederim I wouldn’t rather do
+			   s/he
+			   you
 	
-Had better	                I had better do - yapsam iyi olur	        I had better (not) study Maths	
-
-Must	                        I must do – yapmak zorundayım             I mustn’t do
-                                I must be doing – yapıyor olmak zorundayım
-                                I must have done – yapmak zorundaydım
-                                I must have been doing – yapmak zorunda oluyordum	
-	
-Has/Have to	                I have to do – yapmak zorundayım          I don’t have to do
-                                I needn’t have to do	Do I have to do?
-
-Had to	                        I had to do – yapmak zorundaydım
-				he has had to do – yapmak zorunda oldu	I didn’t have to do	Did I have to do?
-				you had to do
-
-Be supposed to			I am supposed to do
-				he is supposed to do
-				you are supposed to do		
-
-Be to				I am to do
-				s/he is to do
-				you are to do		
-
-Should				I should do – yapmam gerekli		I shouldn’t do			should I do?
-				I should have done – yapmalıydım (maybe)	
-
-Ought to			I ought to do				I ought not to do
-				I ought to have done		
-
-Have got to			I have got to do – yapmalıyım		
-
-Want				I want to do – yapmak istiyorum		I don’t want to do – yapmak istemem/istemiyorum
-				I wanted to do – yapmak istedim		I didn’t want to do – yapmak istemedim
-				I will want to do – yapmak isteyeceğim	I won’t want to do – yapmak istemeyeceğim	
-
-Need to				I need to do – yapmaya ihtiyacım var	I don’t need to do/I need not to do
-				He needs to do				He doesn’t need to do			
-				I will need to do			I won’t need to 	
-
-Try				I try to do				I don’t try to do
-				s/he tries to do			s/he doesn’t try to do
-				you try to do				you don’t try to do
-
-				I tried to do				I didn’t try
-				I am trying to do			I’m not trying to do	
-Prefer (Genel Durum)		I prefer doing to running – yapmayı tercih ederim	I don’t prefer doing
-				I would prefer to travel by bus rather than by train	
-Would rather .. than
-Would sooner .. than (Anlık durum)I would rather do than go – gitmektense yapmayı tercih ederim	I wouldn’t rather do	
-Be likely to			I am likely to do
-				I was likely to do
-				I will be likely to do		
-                                  
+Be likely to		   I am likely to do
+			   I was likely to do
+			   I will be likely to do		
+			   s/he
+			   you
+			   
+Be allowed to		   I am allowed to do
+			   s/he is allowed to do
+			   you are allowed to do
 
 
