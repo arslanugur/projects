@@ -8,6 +8,16 @@ Q --> does he/she go on holiday every summer?
 A --> yes, he/she goes on holiday every summer
 N --> no, he/she doesn't go on holiday every summer
 
+	The sun sets in the West. 				(Güneş batıdan batar.)  Genel Doğru
+	I play tennis.						(Tenis oynarım.)  Hobi
+	She hates broccoli.					(O brokoliden nefret eder.)  Sevmediklerimiz
+	He works in a bank. 					(O bir bankada çalışır.)  Rutin
+	I drink coffee every morning.				(Her sabah kahve içerim.)  Alışkanlık
+	The plane arrives at 10:30.				(Uçak 10:30’da varacak)  Saat çizelgelerinde
+	The prince gets on his horse.				(Prens atına biner.)  Hikaye anlatımı
+	You heat the oven to a temperature of 180 degree.	(Fırını 180 dereceye kadar ısıtın.)  Talimat
+
+
 	Signals: every day/week/month/year, Adverbs of Frequency, first ... then
 
 		in the morning   - sabahleyin
