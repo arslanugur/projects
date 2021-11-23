@@ -176,9 +176,9 @@ I wake up at seven in the morning on weekdays.
 I wash my face, after that I prepare/make a sandwich for eating at work at half past seven (at work = at the office)
 I wait for the bus hours. When the bus comes, I get on the bus to get work
 I work as a Senior Mechanical Design Engineer. I will be at the office at eight. I get to my desk and i turn on my computer
-After I start to design tools that will take eight hours except my breaks
-I design some steel materials such as Rolling-element bearing, Bolt, Shaft through surface modelling for engine
-I participate in some meetings with other enginers and managers. We talk about tasks to do and tools to design in the day
+After that, I start to design tools that will take a few hours except my breaks
+I design some steel materials such as Rolling-element bearing, Bolt, Shaft through Surface Modelling for making an engine
+I sometimes participate in daily meetings with other engineers and managers. We talk about tasks to do and tools to design in the day
 After that, I have lunch at half past one. After the lunch, I keep designing tools through Siemens NX on my computer until four or five pm
 I get back home at half past five. 
 
@@ -190,7 +190,7 @@ After breakfast I brush my teeth and I wear my clothes. Then, I go to school
 My work starts at nine at school. Children come little by little. 
 When all the children come to the class, I start with an Ice Breaker game.
 We make a circle and one of the children starts to talk about a chosen topic.
-Other children ask some questions and keep talking about the topic.
+Children ask some questions to each other and keep talking in order about the topic.
 After the circle activity, I keep doing several different activities with children.
 I prepare some reports about children on daily topics and activities at the end of the day, 
 I share the reports with their parents. 
