@@ -16,10 +16,18 @@ PLURAL		you	    		|              rarely               	|	have		|  lunch        |
 		they	    		|           almost never            	|	finish		|  my lessons	|   at five every evening
                             		|               never			|	get back	|  home		|   at night / at midnight / every n ight
                             
-					* and then, afterwards, after that, later on
-					* before, before that
-					* but, and, or
-					* 
+			    
+--> SEQUENCE WORDS
+0			1		2		3		4
+-----------------------------------------------------------------------------------
+first			next		before		(and) then	last
+firstly			second		before that	but (then)	lastly
+first of all,		secondly	after		meanwhile	finally
+initially		and / or	after that			eventually
+to begin with 		third		in addition			in the end
+to start off with	thirdly		afterwards
+					later on
+ 
 
 
 ---> CHUNKS ABOUT DAILY ACTIVITIES (Günlük Etkinlikler hakkında kelime kalıpları)
@@ -174,6 +182,22 @@ I participate in some meetings with other enginers and managers. We talk about t
 After that, I have lunch at half past one. After the lunch, I keep designing tools through Siemens NX on my computer until four or five pm
 I get back home at half past five. 
 
+
+A day as a Pre-School Teacher:
+I usually wake up at seven. I have breakfast at half past seven or eight.
+Actually I like having breakfast but I haven't much time so I eat it fast.
+After breakfast I brush my teeth and I wear my clothes. Then, I go to school
+My work starts at nine at school. Children come little by little. 
+When all the children come to the class, I start with an Ice Breaker game.
+We make a circle and one of the children starts to talk about a chosen topic.
+Other children ask some questions and keep talking about the topic.
+After the circle activity, I keep doing several different activities with children.
+I prepare some reports about children on daily topics and activities at the end of the day, 
+I share the reports with their parents. 
+
+
+
+
 Example:
 Some of my friends think I have a boring daily routine, but I like it.  
 I usually get up at about 6:00 or 6:30 in the morning, after my alarm clock wakes me up.    
@@ -240,5 +264,7 @@ garage
 
 
 
-prepared by Uğur ARSLAN and His Students
 
+
+
+prepared by Uğur ARSLAN and His Students
