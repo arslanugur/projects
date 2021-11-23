@@ -193,13 +193,17 @@ Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
 
 
 ---> Types of Determiners (ismin önüne gelenler)
-Adjective:             smart, good, cool, bad, lucky, heavy
-Possessive adjective:  my, your..
-Article:               a, an, the
-Demonstrative pronoun: this, that, these, those
-Numeral: 	       one, two, three
-Ordinal: 	       first, second, third
-Quantifier: 	       a few, another, several, much, many, a lot of, some, very
+	Determines are used in front of nouns to indicate whether you are refering to something specific or something of a particular type
+	
+	Adjectives:		smart, good, cool, bad, lucky, heavy
+	Possessive adjectives:	my, your, his, her, its, our, your, their
+	Articles:		a, an, the
+	Demonstrative pronouns:	this, that, these, those
+	Numerals:		one, two, three
+	Ordinals:		first, second, third, fourth --> last, next
+	Quantifiers:		Some, Any, No, Many, Much, Enough, Several, Little, All, Lot of, Plenty of, a few, another, very
+	Distributives:		Each, Every, Either, Neither
+	Predeterminers:		All, All of, What, Such, Rather, Quite, Twice, Double, Both
                                                 
                      
                      
@@ -286,7 +290,6 @@ Num + (Prep) + Numeral		three of four
 
 
 
+
+
 prepared by Uğur ARSLAN and His Students
-
-
-
