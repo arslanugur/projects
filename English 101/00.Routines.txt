@@ -1,16 +1,3 @@
-A day as an Engineer:
-I wake up at seven in the morning on weekdays.
-I wash my face, after that I prepare/make a sandwich for eating at work at half past seven (at work = at the office)
-I wait for the bus hours. When the bus comes, I get on the bus to get work
-I work as a Senior Mechanical Design Engineer. I will be at the office at eight. I get to my desk and i turn on my computer
-After I start to design tools that will take eight hours except my breaks
-I design some steel materials such as Rolling-element bearing, Bolt, Shaft through surface modelling for engine
-I participate in some meetings with other enginers and managers. We talk about tasks to do and tools to design in the day
-After that, I have lunch at half past one. After the lunch, I keep designing tools through Siemens NX on my computer until four or five pm
-I get back home at half past five. 
-
-
-
 ---> DAILY ACTIVITIES
 			S            	|       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
 		-------------------------------------------------------------------------------------------------------------------------------------------------
@@ -176,6 +163,16 @@ I often ride my bike with my friends in daytime
 I normally go to bed late
 
 
+A day as an Engineer:
+I wake up at seven in the morning on weekdays.
+I wash my face, after that I prepare/make a sandwich for eating at work at half past seven (at work = at the office)
+I wait for the bus hours. When the bus comes, I get on the bus to get work
+I work as a Senior Mechanical Design Engineer. I will be at the office at eight. I get to my desk and i turn on my computer
+After I start to design tools that will take eight hours except my breaks
+I design some steel materials such as Rolling-element bearing, Bolt, Shaft through surface modelling for engine
+I participate in some meetings with other enginers and managers. We talk about tasks to do and tools to design in the day
+After that, I have lunch at half past one. After the lunch, I keep designing tools through Siemens NX on my computer until four or five pm
+I get back home at half past five. 
 
 Example:
 Some of my friends think I have a boring daily routine, but I like it.  
