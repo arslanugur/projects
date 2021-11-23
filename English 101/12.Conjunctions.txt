@@ -378,6 +378,18 @@ provided that -- ... şartıyla
 so that -- ... sın diye
 thus -- bu yüzden
 
+
+--> SEQUENCE WORDS
+first			next		before		then		last
+firstly			second		after		..but then	lastly
+first of all,		secondly	after that	meanwhile	finally
+initially		and		in addition			eventually
+to begin with 		third						in the end
+to start off with	thirdly
+
+
+
+
 ... den dolayı, ... yüzünden, ... sonucunda 	--> due to, owing to, on account of, because of, in view of, by virtue of, as a result of
 ... e rağmen 					--> despite, inspite of, for all, notwithstanding
 ... nın yanı sıra, ... ile birlikte 		--> as well as, in addition to, besides, along with, coupled with, together with
