@@ -277,6 +277,7 @@ inasmuch as - çünkü
 much as - e rağmen
 as far as - kadarı ile
 as for - e gelince
+as from - .. itibariyle
 as to - hakkında
 as of - den itibaren
 as well - de, da
