@@ -268,6 +268,30 @@ in view of - bu bakış açısı ile
 on grounds that - gerekçesiyle
 whereas - buna karşılık
 
+--> AS
+as - olarak, gibi
+as regards - e gelince
+such as - gibi
+so as to - mek için
+inasmuch as - çünkü
+much as - e rağmen
+as far as - kadarı ile
+as for - e gelince
+as to - hakkında
+as of - den itibaren
+as well - de, da
+as well as - nın yanı sıra
+as in/with - de olduğu gibi
+as long as - dığı sürece
+so long as - dığı sürece
+as soon as - .. er .. mez
+as if - .. mış gibi
+as though - .. mış gibi
+just as - .. dığı gibi
+as a result - sonuç olarak
+as a result of - .. neticesinde
+
+
 
 --> Opinion
 	in my opinion, as far as i’m concerned, to my mind, i think, it seems to me that
