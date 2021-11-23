@@ -63,7 +63,6 @@ persist           persistence
 
 
 ---> B
-beautify          beauty                  beautiful                 güzelleştirmek
 behave            behaviour                                         davranmak, -e göre davranmak -- davranış
 believe in        belief in               believer                  inanmak -- inanç
                   faith                   faithful                  inanç
@@ -153,7 +152,6 @@ determine         determination           determined                belirlemek, 
 
 differ in         difference              different                 farklı olmak, farklılaştırmak, ayırt etmek -- farklılık, değişiklik
                   dissimilarity           dissimilar
-                  diversity               diverse                   çeşitlilik -- çeşitli
 divide            division                divisible                 bölünmek, bölmek, ayrılmak, bölüştürmek
 reduce            reduction               reductive                 azaltmak, sadeleştirmek, küçültmek, indirgemek -- indirgeyici
 seduce            seduction               seductive                 baştan çıkarmak, ayartmak, tahrik etmek, kanına girmek -- baştan çıkarıcı
@@ -373,7 +371,6 @@ sign              signature                                         imzalamak --
 resign            resign                  resigned                  istifa etmek
 signify           significance            significant               belirtmek, göstermek -- önem -- önemli, belirgin
                   silence                 silent                    sesizlik
-simplify          simplicity              simple                    basitleştirmek
 sedate            sedation                sedative                  yatıştırmak -- yatıştırıcı                  
                   similarity              similar to                benzerlik -- benzer
 share             share                   shared                    paylaşmak -- paylaşım, hisse, pay -- paylaşılmış
@@ -440,6 +437,65 @@ yield             yield                   yielding                  vermek, esne
 
 
 
+beautify          beauty                  beautiful                 güzelleştirmek
+clarify           clarification           clear                     açıklamak -- açıklama -- açık
+diversify         diversity               diverse                   çeşitlendirmek -- çeşitlilik -- çeşitli
+intensify         intensification         intense                   yoğunlaştırmak  -- yoğunluk -- yoğun
+signify           sign                    signed                    göstermek, işaret etmek, belirtmek
+                  significance            significant               önem -- önemli, belirgin
+exemplify         example                 exam                      örneklendirmek
+fortify           fortification           fortified                 sağlamlaştırmak -- takviye, güçlendirme
+amplify           amplification           amper - yükselteç         büyütmek, genişletmek, sesi yükseltmek
+                  amplitude                                         genlik, genişlik, bolluk
+classify          classification          class                     sınıflandırmak                                                  
+modify            modification            modified                  değiştirmek
+justify           justification           justified                 gerekçelendirmek, meşrulaştırmak -- gerekçe, mazeret -- haklı
+identify with     identification          identified                tanımlamak, özdeşleşmek -- tanıma, teşhis -- tanımlanmış
+                  identity                identical                 kimlik, özdeşlik, benzerlik -- birebir
+certify           certification           certified                 onaylamak, doğrulamak, garantilemek, kanıtlamak
+ratify            ratification                                      onaylamak, tasdik etmek
+simplify          simplicity              simple                    basitleştirmek
+verify            verification            veried                    doğrulamak, onaylamak
+
+
+necessitate       necessity               necessary                 gerektirmek
+facilitate        facility                facile                    kolaylaştırmak
+deteriorate                                                         kötüleştirmek
+aggravate                                                           kötüleştirmek
+eradicate                                                           kökünü kazımak
+alleviate                                                           yatıştırmak
+fluctuate                                                           dalgalanmak
+compensate                                compensatory              telafi etmek -- telafi
+disseminate                                                         yaymak
+eliminate                                                           çıkarmak
+mitigate                                                            azaltmak
+associate         association             associated with           ilişkilendirmek
+evaporate                                                           buharlaşmak
+
+
+soften            softness                soft                      yumuşatmak
+strengthen        strength                strong                    güçlendirmek
+worsen                                                              kötüleştirmek
+threaten                                                            tehdit etmek
+widen                                                               genişletmek
+
+abolish                                                             yürürlükten kaldırmak
+demolish                                                            yıkmak
+impoverish                                                          fakirleştirmek
+diminish                                                            azaltmak
+accomplish                                                          başarmak
+astonish                                                            şaşırtmak
+flourish                                                            gelişmek
+distinguish                                                         ayırt etmek
+establish                                                           kurmak
+vanish                                                              gözden kaybolmak
+extinguish                                                          söndürmek
+replenish                                                           yenilemek
+relinguish                                                          -den vazgeçmek
+
+
+
+
 after - following - next
 accompanied by - together with
 ability - skill - aptitude
@@ -469,29 +525,6 @@ attack - assault
 he is such a joker/wisecracker
 nothing ever last forever
 empathy or gullibility - take your pick
-
-
-ON a - bus, plane, train, ship, bike
-IN a - car, helly, taxi, truck, boat
-
-PHRASAL VERBS 
-calculate - add up
-cancel - call off
-invent - come up with
-reduce - cut down
-continue - carry on
-execute - carry out
-discover - find out
-escape - get away
-communicate - get across
-wait - hold on
-explain - point out
-tolerate - put up with
-arrange - set up
-reject - turn down
-mention - touch on
-trust on - count on
-
 
 
 wonder
@@ -945,5 +978,3 @@ victory over        a win over an opponent or over difficult problems           
 
 
 prepared by Uğur ARSLAN and His Students
-
-
