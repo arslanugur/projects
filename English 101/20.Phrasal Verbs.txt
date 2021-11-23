@@ -1,27 +1,66 @@
 PHRASAL VERBS
-figure out - çözmek, düşünerek bulmak
-carry on - yapmaya devam etmek
-fall apart - kafa karışıklığı veya duygusal sebeplerle normal hayatını sürdürememek
-call off - bir kişi veya hayvanın saldırmayı, kovalamayı kesmesini sağlamak
-add up - birbirini eklemek
-throw up - kusmak --> vomit
-take on - işe almak --> employ
-stand for - temsil etmek --> represent
-count on - güvenmek --> trust
-come by - edinmek, elde etmek --> acquire
-break off - bitirmek, sonlandırmak --> terminate
-look up to - saygı duymak --> respect
-see to - ilgilenmek, ayarlamak --> deal with, arrange
-run into - rastlamak, karşılaşmak --> encounter
-pass away - ölmek --> die
-call off - cancel
-hold on - wait
-catch up - meet
-drop in - visit
-carry on - continue
-fed up - get frustrated
-go ahead - start
-look around - search
+--> A
+    add up - birbirini eklemek
+    add up - calculate
+--> B
+    break off - bitirmek, sonlandırmak --> terminate
+--> C
+    carry on - yapmaya devam etmek
+    carry on - continue
+    carry out - execute
+    come up with - invent
+    cut down - reduce
+    catch up - meet
+    call off - cancel
+    call off - bir kişi veya hayvanın saldırmayı, kovalamayı kesmesini sağlamak
+    count on - güvenmek --> trust
+    come by - edinmek, elde etmek --> acquire
+--> D
+    drop in - visit
+--> E
+--> F
+    figure out - çözmek, düşünerek bulmak
+    fall apart - kafa karışıklığı veya duygusal sebeplerle normal hayatını sürdürememek
+    fed up - get frustrated
+    find out - discover
+--> G
+    go ahead - start
+    get away - escape
+    get across - communicate
+--> H
+    hold on - wait
+--> I
+--> J
+--> K
+--> L
+    look up to - saygı duymak --> respect
+    look around - search
+--> M
+--> N
+--> O
+--> P
+    pass away - ölmek --> die
+    point out - explain
+    put up with - tolerate
+--> R
+    run into - rastlamak, karşılaşmak --> encounter
+--> S
+    stand for - temsil etmek --> represent
+    see to - ilgilenmek, ayarlamak --> deal with, arrange
+    set up - arrange
+--> T
+    take on - işe almak --> employ
+    trust on - count on
+    throw up - kusmak --> vomit
+    turn down - reject
+    touch on - mention
+--> U
+--> V
+--> W
+--> Y
+--> Z
+
+
 
 buckle up - kemerleri bağlamak
 pull over - kenara çekmek, yol kenarında durmak
@@ -32,5 +71,6 @@ slow down - hızı azaltmak, yavaşlamak
 
 
 
-prepared by Uğur ARSLAN and His Students
 
+
+prepared by Uğur ARSLAN and His Students
