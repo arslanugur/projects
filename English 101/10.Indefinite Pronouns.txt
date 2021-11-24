@@ -1,55 +1,56 @@
                   Pronoun               Example
 ------------------------------------------------------------------------------------------
-SINGULAR          Someone               There is someone at the door
-                  Somebody              Somebody is knocking at the door
-                  Something             Something makes me want to dance                    Listen! I just heard something. What could it be?
-                  Somewhere	            I would like to go somewhere this summer
+SINGULAR          Someone               there is someone at the door
+                  Somebody              somebody is knocking at the door
+                  Something             something makes me want to dance                    Listen! I just heard something. What could it be?
+                  Somewhere	        I would like to go somewhere this summer
 
                   Anyone                I swear I will not tell anyone this secret          Does anyone here speak Spanish?
-                  Anybody               Anybody can dance on the floor of dancing
-                  Anything              Anything is possible if you believe
-                                        She doesn’t have anything to eat for lunch
+                  Anybody               anybody can dance on the floor of dancing
+		  			anybody who wants to talk may leave
+                  Anything              anything is possible if you believe
+                                        she doesn’t have anything to eat for lunch
                                         I was unable to hear anything last night after the blast
-                                        Is there anything in this bag?
+                                        is there anything in this bag?
                   Anywhere
                   
-                  No one                No one can cope with her in English                 No one will help you in this situation
-                  Nobody                Nobody watches telly (tv) anymore                   I am lonely. I have nobody to talk to
-                  Nothing               Nothing is impossible to a willing heart            Nothing is left in front of me to tell you the truth
-                  Nowhere               We went nowhere this weekend. We stayed home
+                  No one                no one can cope with her in English                 No one will help you in this situation
+                  Nobody                nobody watches telly (tv) anymore                   I am lonely. I have nobody to talk to
+                  Nothing               nothing is impossible to a willing heart            Nothing is left in front of me to tell you the truth
+                  Nowhere               we went nowhere this weekend. We stayed home
 
-                  Everyone              Everyone cheered for the violinist at our school concert
-                                        Everyone knows something about that incident/accident       Everyone seems to be happy but her
+                  Everyone              everyone cheered for the violinist at our school concert
+                                        everyone knows something about that incident/accident       Everyone seems to be happy but her
                   Everybody
-                  Everything            Everything is going as planned
+                  Everything            everything is going as planned
                   Everywhere            I checked everywhere to find my keys
 
                   Every                 I heartily congratulate every player on this team
-                  Each	                Each company is fighting to protect its own commercial interests
-                                        Each of them purchased chocolate from my shop
-                                        Each will have his or her own seat
+                  Each	                each company is fighting to protect its own commercial interests
+                                        each of them purchased chocolate from my shop
+                                        each will have his or her own seat
                   
-                  Either                Either one will be fine birinden biri ikisinden biri
-                                        Either one will be died soon 
-                                        Either of us can go to the grocery
-                  Neither               Neither(hiçbir) side is prepared to compromise (kompırmayz)
+                  Either                either one will be fine birinden biri ikisinden biri
+                                        either one will be died soon 
+                                        either of us can go to the grocery
+                  Neither               neither(hiçbir) side is prepared to compromise (kompırmayz)
 
-                  One                   One of the boys tripped over and crashed into a tree – which one is 
-                                        He is the chosen one
+                  One                   one of the boys tripped over and crashed into a tree – which one is 
+                                        he is the chosen one
 
-                  Other                 He raised one arm and then the other
+                  Other                 he raised one arm and then the other
 
-                  Another               We finally moved to another apartment
-                                        That slice of pie was good. Can I have another?
+                  Another               we finally moved to another apartment
+                                        that slice of pie was good. Can I have another?
 	
-                  Less                  Less is more
-                  Little                Many a little makes a mickle (many small amounts accumulate to make a large amount)
-                  Much                  Much has happened since we met
+                  Less                  less is more
+                  Little                many a little makes a mickle (many small amounts accumulate to make a large amount)
+                  Much                  much has happened since we met
 
 
 PLURAL
-                  Both	                Both are guilty
-                                        Get both of you out of my classroom
+                  Both	                both are guilty
+                                        get both of you out of my classroom
                                         She likes juice but not milk. I think both are good
 
                   Few	                  A few of the justices voiced their opposition
@@ -81,6 +82,7 @@ SINGULAR - PLURAL
                                         We showed them some of our photos
                   Such	                Such is life
                                         Such were the joys
+
 
 
 
