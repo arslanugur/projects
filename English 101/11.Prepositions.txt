@@ -35,6 +35,18 @@ He is very good at basketball. (O (erkek) basketbol konusunda çok iyidir.)
 at noon/night/midnight/dawn
 I don’t see why you have to go to your house at midnight.
 (Gece yarısı neden senin evine gitmek zorunda olduğumu anlamıyorum.)
+at 5
+at noon
+at lunch time
+at sunset
+at night
+at midnight
+at dawn
+at sunrise
+
+at xmas
+on xmas day
+at the same time
 
 
 ---> out of - dışına	
@@ -73,8 +85,9 @@ There should be some coins in the bottom of my purse
 The bottom line is, he is family – Sonuçta (alt çizgi), o aileden
 
 ---> off - kapalı, devredışı, altında, sapa, dışında
-He is falling off the horse
+let people off before you get on
 If you don’t get off the tree, you will fall
+He is falling off the horse
 off the road
 off the wall
 off the radar
