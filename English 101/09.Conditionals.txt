@@ -1,4 +1,14 @@
 CONDITIONALS
+- Type Zero   (0) ------  Certain
+- Type One    (1) ----    Possible
+- Type Two    (2) --      Less Possible
+- Type Three  (3) -       Impossible
+
+- What if
+- Wish
+
+
+
 Type Zero (0): (General Truth)
               Herkesin doğru kabul ettiği kesin durumları/gerçek olayları anlatırken
 
