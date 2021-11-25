@@ -19,7 +19,7 @@ react             reaction                reactive / proactive      tepki vermek
 interact          interaction             interactive               etkileşmek, birbirini etkilemek
                   accuracy                accurate-ly               tam olarak
 appreciate        appreciation            appreciating              takdir etmek -- takdir -- takdir eden
-arrange           arrangement                                       düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak                   
+arrange           arrangement             range                     düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak --- dizi, menzil, alan, sıra                   
 attribute         attribute/attribution                             atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
 contribute        contribution                                      katkıda bulunmak -- katılım, destek, iştirak
 attain            attainment                                        ulaşmak, elde etmek, erişmek
