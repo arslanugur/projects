@@ -18,31 +18,35 @@ N --> no, he/she doesn't go on holiday every summer
 	You heat the oven to a temperature of 180 degree.	(Fırını 180 dereceye kadar ısıtın.)  Talimat
 
 
-	Signals: every day/week/month/year, Adverbs of Frequency, first ... then
+	Present Simple Signals: 
+		every day/week/month/year	(her ...)
+		Adverbs of Frequency		(Sıklık Zarfları)
+		now and then			(ara sıra, bazen, zaman zaman)
+		first ... then ...		(ilk ... ondan sonra ...)
 
-		in the morning   - sabahleyin
-                at noon          - öğlen
-                in the afternoon - öğleden sonra
-                in the evening   - akşamleyin
-                at night/s       - geceleyin, gece/leri
-                at midnight      - gece yarısı
-                at dawn          - kuşluk vakti, şafak
+		in the morning 		sabahleyin
+                at noon			öğlen
+                in the afternoon	öğleden sonra
+                in the evening		akşamleyin
+                at night/s		geceleyin, gece/leri
+                at midnight		gece yarısı
+                at dawn			kuşluk vakti, şafak
 
-                on Fridays: Cuma günleri/Cumaları
-		at weekend/s: hafta sonunda/larında
-		during the week – hafta içi
-		once a month: ayda bir		
-                twice a week: haftada iki
-                three times a year: yılda üç kez
+                on Fridays		cuma günleri/Cumaları
+		at weekend/s 		hafta sonunda/larında
+		during the week 	hafta içi
+		once a month		ayda bir		
+                twice a week		haftada iki
+                three times a year	yılda üç kez
 
-		--> ADVERBS OF FREQUENCY
+	--> ADVERBS OF FREQUENCY
 		always / all the time		   		I always drink coffee before 09:00
 		almost always / nearly always			She nearly always says the same thing
 		very often / constantly				He very often goes to the restroom
 		usually / generally		   		I am usually late for meetings
 		normally / regularly		   		What time do you normally go to bed?
-		often / frequently	           		We often play football on Sundays,	I frequently go out at weekends
-		sometimes / occasionally / from time to time	Sometimes I play 52 cards with my friends,	She occasionally watches French films
+		often / frequently	           		We often play football on Sundays		I frequently go out at weekends
+		sometimes / occasionally / from time to time	Sometimes I play 52 cards with my friends	She occasionally watches French films
 		seldom / infrequently				He seldom does my homework
 		rarely						I rarely go to the gym
 		hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
@@ -106,13 +110,14 @@ need
 
 
 -> think
-          sanmak, zannetmek ---> I think she is a student.
-                            ---> I think they will visit us next week.
-          düşünmek          ---> I'm thinking about going abroad next year. 
-                            ---> She is thinking about her family.
+          sanmak, zannetmek ---> I think this city is really beautiful
+	  		    ---> I think she is a student
+                            ---> I think they will visit us next week
+          düşünmek          ---> I'm thinking about going abroad next year 
+                            ---> She is thinking about her family
 -> see
-          görmek	---> I see lots of people in the street.
-          görüşmek	---> The doctor is seeing his patient now.
+          görmek	---> I see lots of people in the street
+          görüşmek	---> The doctor is seeing his patient now
                     	---> The manager is seeing the applicant now.
 -> smell
           kokmak    ---> This perfume smells very nice.
@@ -166,7 +171,17 @@ Q --> are we/you/they coming to her birthday party?
 A --> yes, we/you/they are coming...
 N --> no, we/you/they are not coming...
 
-	Signals: now, at the moment, at present, these days, still, nowadays, today, tonight (except for future use)
+	Present Continous Signals: 
+		now		(şimdi)
+		right now	(şu anda)
+		at the moment	(şu anda)
+		at present	(şu ara)
+		these days	(bu günlerde)
+		nowadays	(bu günlerde) 
+		still		(halen)
+		today		(bugün)
+		tonight 	(bu gece)	(except for future use)
+
 
 ---> MAKING A QUESTION FOR PRESENT CONTINUOUS
 				        |	    S		|	V	|	O	|
@@ -210,14 +225,30 @@ Q --> have you (ever) been in Madrid?
 A --> yes, I have been in Madrid
 N --> no, I have not/(never) been in Madrid
 
-	Signals: for, since, already, yet, always, just, ever, never
-		 so far, today, this week/month, how long, lately, recently
-
+	Present Perfect Signals: 
+		for 		(-dır, -dir)				- Olympics have been held for hundred twenty five years
+		since		(-den beri)				- Olympics have been held since 1896
+		already 	(zaten, çoktan)				- We have already seen this method work			
+		just 		( + henüz, yeni, demin)			- They may have just moved to Birmingham from another city
+		yet		( - henüz)				- Why, I have not yet had time to settle down!
+		always 		(her zaman)				- You always have been next to me and you always will be
+		so far		(şimdiye kadar)				- his ideas have become so far part of the common thought of the time
+		lately		(geçenlerde, son zamanlarda)		- 
+		recently	(son zamnalarda, yakınlarda)		- 
+		never		(- hiç)					- I've never thought about it before
+		ever		(+ hiç)					- haven't you ever made a mistake?  
+									- you're the first girl who has ever accepted me for what I am.
+		how long	(ne kadar süre) 			- Exactly. How long have you been married?
+		today 		(bugün)					- 
+		this week/month (bu hafta/ay)				- 
+		
+		 
+		
 ---> MAKING A QUESTION FOR PRESENT PERFECT
 				        |	    S		|	V	|	O	|
 5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
 ------------------------------------------------------------------------------------------------
-what		   |   		            			|    needed	|
+what		   |   		            			|    needed	|  
 which + NOUN	   |   have		    I			|    seen	|
 what kind of + NOUN|		         			|    looked	|
 -------------------|   have		    YOU			|    walked	|
@@ -227,7 +258,7 @@ where  ... to/from |   has	            HE			|    wanted	|
 when               |   has	            IT (Lesson)		|    written	|
 what time	   |   		            			|    spent	|
 -------------------|   have		    WE			|    watched	|
-who    ... to/with |   have		    YOU			|    drunk	 
+who    ... to/with |   have		    YOU			|    drunk	|
 whom		   |   have		    THEY (Lessons)	|    eaten	|
 whose + NOUN	   |		         			|    made	|
 -------------------|   		         			|    done	|
@@ -254,8 +285,19 @@ Q --> have you been living in Milano?
 A --> yes, I have been living in Milano
 N --> no, I have not been living in Milano
 
-	Signals: all day, for, since, how long, lately
-		 recently, all morning, all year, the whole day
+	Present Perfect Continuous Signals: 
+		for			-
+		since			-
+		how long		-
+		lately			-
+		recently		-
+		all morning		-
+		all day			- you've been working all day.
+		all year		-
+		the whole day		-
+		
+		- 
+		-   
 
 ---> MAKING A QUESTION FOR PRESENT PERFECT CONTINUOUS
 				        |	    S		|	V		|	O	|
@@ -313,13 +355,28 @@ Evidence/Signs(Certainty): When there are signs that sth is likely to happen.
                S - then I won't study on my own
 
 Future Simple Signals: 
-	tomorrow, the day after tomorrow, tonight, soon, next week, in a week/month, in two/three days / week
+	tomorrow
+	the day after tomorrow
+	tonight
+	soon
+	next week
+	in a week/month
+	in two days
+	in three days
+	in four weeks
 
 Future Continuous Signals: 
-	this time, next week, and other expressions with future reference
+	this time
+	next week
+	-- and other expressions with future reference
 
 Future Perfect Signals: 
-	before, by, by then, by the time, until, till
+	before
+	by
+	by then
+	by the time
+	until
+	till
 
 Future Perfect Continuous Signals: this tense is not used very much
 	by, by then, by the time, for
@@ -329,6 +386,8 @@ WAS / WERE GOING TO
 i was going to call you but my battery died - seni arayacaktım ama şarjım bitti
 i was going to leave it but i forgot - onu bırakacaktım ama unuttum
 they were going to come to visit but - ziyaret etmeye geleceklerdi ama
+
+
 
 
 
