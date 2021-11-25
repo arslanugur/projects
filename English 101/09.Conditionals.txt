@@ -13,11 +13,12 @@ Type One (1): (Real Present)
 
               If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
               
-              - If you don’t get off the tree, you will fall.             (Ağaçtan inmezsen düşeceksin.)
-              - If we have worked hard, we can finish the project.        (Çok çalışırsak projeyi bitirebiliriz.)
-              - You must study the exam, if you see him.                  (Onu görürsen sınava çalışmalısınız.)
-              - If she has money, she will travel.                        (Parası olsa seyahat eder.)
-              - If it snows, schools will be closed                       (kar yağarsa, okullar kapanacak)
+              - if you are adding value to others, the result will come   (eğer diğer insanlara değer katıyorsan, sonucu gelir)
+              - if you don’t get off the tree, you will fall.             (Ağaçtan inmezsen düşeceksin.)
+              - if we have worked hard, we can finish the project.        (Çok çalışırsak projeyi bitirebiliriz.)
+              - you must study the exam, if you see him.                  (Onu görürsen sınava çalışmalısınız.)
+              - if she has money, she will travel.                        (Parası olsa seyahat eder.)
+              - if it snows, schools will be closed                       (kar yağarsa, okullar kapanacak)
               - if he wins the lottery, he'll get you a phone             (lotoyu tuturursa, sana telefon alacak)
 
 
