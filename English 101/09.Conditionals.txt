@@ -4,9 +4,10 @@ Type Zero (0): (General Truth)
 
               If + Present Simple, Present Simple
 
-              - If it snows, the roads get slippery.                      (Kar yağarsa yollar kayganlaşır.)
-              - If you don’t eat your meal, your mother gets angry.       (Yemeğini yemezsen annen kızar.)
-              - If you drink cold water, you get sick.                    (Soğuk su içersen hasta olursun.)
+              - if it snows, the roads get slippery.                      (Kar yağarsa yollar kayganlaşır.)
+              - if you don’t eat your meal, your mother gets angry.       (Yemeğini yemezsen annen kızar.)
+              - if you drink cold water, you get sick.                    (Soğuk su içersen hasta olursun.)
+              - if the satellite is slightly closer, the tidal bulge grows.
 
 Type One (1): (Real Present)
               Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
@@ -29,12 +30,12 @@ Type Two (2): (Unreal Present)
               
               If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
-              - If there was a zombie invasion, we would eat each other   (Zombie istilası olsaydı, birbirimizi yerdik)
-              - If we bought two tickets, we would watch the film         (İki bilet satın alsaydık filmi izlerdik.)
-              - If she earned a lot money, she might go to France         (Çok kazansaydı Fransa’ya giderdi.)
-              - If he were listening to you, he couldn’t make a mistake   (Seni dinlemiş olsaydı hata yapmayabilirdi.)
+              - if there was a zombie invasion, we would eat each other   (Zombie istilası olsaydı, birbirimizi yerdik)
+              - if we bought two tickets, we would watch the film         (İki bilet satın alsaydık filmi izlerdik.)
+              - if she earned a lot money, she might go to France         (Çok kazansaydı Fransa’ya giderdi.)
+              - if he were listening to you, he couldn’t make a mistake   (Seni dinlemiş olsaydı hata yapmayabilirdi.)
               - I would sleep until noon if I didn’t go to school         (Okula gitmeseydim öğleye kadar uyurdum.)
-              - If he were taller, he could be a basketball player        (daha uzun olsaydı, basketbol oyuncusu olurdu.)
+              - if he were taller, he could be a basketball player        (daha uzun olsaydı, basketbol oyuncusu olurdu.)
               
               Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
                    Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
@@ -51,6 +52,7 @@ Type Three (3): (Unreal Past)
                 - If you had locked the door, the thief wouldn’t have got in.                       (Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi.) – eleştiri
                 - If you had studied hard enough, you could have passed the exam.                   (Yeteri kadar çalışmış olsaydın sınavı geçebilirdin.) – eleştiri
                 - If I had been more careful, I would have won the race.                            (Daha dikkatli olsaydım yarışı kazanabilirdim.) – pişmanlık
+
 
 
 
@@ -75,6 +77,21 @@ Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olab
           - If Jane calls me, tell her I will be back. (Jane beni ararsa, ona döneceğimi söyle. -Arayabilir.) – Olabilir
           - When Jane calls me, tell her I will be back. (Jane beni aradığında, ona döneceğimi söyle. Arayacak.) – Olacağı kesin
 
+
+
+What if --> peki ya .. sa
+          - what if the doctor still insisted it was impossible?
+          - what if you need an answer by Tuesday
+          - but what if you don't know what herbs and spices are good to use for different meals?
+          - if you're already dating someone, the answer is easy.. but what if you're not?
+
+Wish    --> keşke
+          - I wish you had called me.
+          - I wish you had said something earlier.
+          - wish you were here
+          - wish you had never come here.
+          - wish she could have seen this.
+          - wish me luck..
 
 
 
