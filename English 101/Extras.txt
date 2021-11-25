@@ -1,61 +1,7 @@
-PHRASES
-I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
-Every C in Pacific Ocean is pronounced differently
-nobody in their right mind would want to be treated like that - hiç kimse kendine böyle davranılmasını istemez
-he is distracted - dikkati dağınık
-can you break a twenty - bir yirmilik bozabilir misin
-I dont have any change on me - üzerimde hiç bozuk yok
-we offer free delivery on orders over fifty dollar - elli dollar üzerindeki siparişlere ücretsiz kargo sunuyoruz
-who will pay the difference - farkı kim ödeyecek?
-get some rest - biraz dinlen
-don't make a sound - ses yapma
-is that really so - gerçekten öyle mi
-what is the hurry - ne bu acelen
-your opinion will never cut me a check - senin fikrin benim kontrolümü kesemez
-dont tempt me - beni kışkırtma
-go ahead - hadi durma
-I'm not everybody's cup of tea
-James isnt a cat person. Dogs are his cup of tea
-Bullets only do their jobs after they are fired
-in for a penny, in for a pound - battı balık yan gider
-let's get down to brass tacks here
-brass tacks - sadede gelelim, olaya girelim, konuya geçelim
-I wasn’t born yesterday – sen giderken ben dönüyordum
-No more mr. Nice guy – efendilikte bir yere kadar
-Do you ever hear yourself – ağzından çıkanı kulağın duyuyor mu senin
-Dont even go there – o konuya hiç girme
-Out of sight, out of mind – gözden uzak olan gönülden uzak olur
-I dont feel like – canım istemiyor
-there is no such thing as I can't come - gelemem diye birşey yok
-there is no such thing as luck - şans diye birşey yok
-it depends on 100% concentration, 100% commitment
-I am doing what I love to do, but I don't owe anybody anything anymore
-in full swing - en civcivli zamanında, tam faaliyet halinde, en yoğun döneminde
-it is one small step for man, one giant leap for mankind
-after that, the game lost its favor - ondan sonra, oyunun tadı kaçtı
-you are dipping and dapping and you dont know what's happening - batıyorsun çıkıyorsun ne olduğunu bilmiyorsun
-there will always be a reason not to follow your dreams
-everyone has a great time and parties like there's no tomo
-take it from me, I have had five divorces. Understand what that means? - five times I thought I was in love
-tug-of-war - halat çekme
-the world could crumble and she wouldn't notice anything
-how can you bear that on your conscience - nasıl o vicdan yükünü taşıyorsun?
-nobody picks up on my patterns - sağım solum belli olmaz
-do you want to hang out again some time?
+to fit		uymak, oturmak, uydurmak	my glasses doesn’t fit
+to match	eşleştirmek, uygun olmak	your blue shirt matches your blue eyes
+to suit		yakışmak, uymak			that dress really suits you
 
-discipline leads to habits
-habits leads to consistency
-consistency leads to growth 
-
-tongue twisters
-- three witches wished three wishes. so, which witch wished which wish?
-
-
-We talked about my leaving the course
-We talked about leaving my course
-
-Corps – a military units trained to perform particular duties
-Corpse – a dead body, usually of a person
 
 
 tough		(adj)	zor, sağlam, kuvvetli
@@ -66,15 +12,6 @@ thorough 	(adj)	kapsamlı, tam, bütün
 throughout 	(adv)	baştan aşağı, boylu boyunca, tamamıyla	
 
 
----
-don't lose momentum
-house always win
-move fast break things
-persistance pays off - kalıcılık karşılığını verir
-consistency - tutarlılık, uyum
-
-data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
-veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
 
 ARRIVE
 we arrived at the village
@@ -140,22 +77,89 @@ MAKE  + Object --> a phone call, the bed, a cake, a mistake, a comment, dinner
                     made of
                     made out of
                     made with 
-    
-    
+
+
+PHRASES
+I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
+Every C in Pacific Ocean is pronounced differently
+nobody in their right mind would want to be treated like that - hiç kimse kendine böyle davranılmasını istemez
+he is distracted - dikkati dağınık
+can you break a twenty - bir yirmilik bozabilir misin
+I dont have any change on me - üzerimde hiç bozuk yok
+we offer free delivery on orders over fifty dollar - elli dollar üzerindeki siparişlere ücretsiz kargo sunuyoruz
+who will pay the difference - farkı kim ödeyecek?
+get some rest - biraz dinlen
+don't make a sound - ses yapma
+is that really so - gerçekten öyle mi
+what is the hurry - ne bu acelen
+your opinion will never cut me a check - senin fikrin benim kontrolümü kesemez
+dont tempt me - beni kışkırtma
+go ahead - hadi durma
+I'm not everybody's cup of tea
+James isnt a cat person. Dogs are his cup of tea
+Bullets only do their jobs after they are fired
+in for a penny, in for a pound - battı balık yan gider
+let's get down to brass tacks here
+brass tacks - sadede gelelim, olaya girelim, konuya geçelim
+I wasn’t born yesterday – sen giderken ben dönüyordum
+No more mr. Nice guy – efendilikte bir yere kadar
+Do you ever hear yourself – ağzından çıkanı kulağın duyuyor mu senin
+Dont even go there – o konuya hiç girme
+Out of sight, out of mind – gözden uzak olan gönülden uzak olur
+I dont feel like – canım istemiyor
+there is no such thing as I can't come - gelemem diye birşey yok
+there is no such thing as luck - şans diye birşey yok
+it depends on 100% concentration, 100% commitment
+I am doing what I love to do, but I don't owe anybody anything anymore
+in full swing - en civcivli zamanında, tam faaliyet halinde, en yoğun döneminde
+it is one small step for man, one giant leap for mankind
+after that, the game lost its favor - ondan sonra, oyunun tadı kaçtı
+you are dipping and dapping and you dont know what's happening - batıyorsun çıkıyorsun ne olduğunu bilmiyorsun
+there will always be a reason not to follow your dreams
+everyone has a great time and parties like there's no tomo
+take it from me, I have had five divorces. Understand what that means? - five times I thought I was in love
+tug-of-war - halat çekme
+the world could crumble and she wouldn't notice anything
+how can you bear that on your conscience - nasıl o vicdan yükünü taşıyorsun?
+nobody picks up on my patterns - sağım solum belli olmaz
+do you want to hang out again some time?
+
+discipline leads to habits
+habits leads to consistency
+consistency leads to growth 
+
+tongue twisters
+- three witches wished three wishes. so, which witch wished which wish?
+
+
+We talked about my leaving the course
+We talked about leaving my course
+
+Corps – a military units trained to perform particular duties
+Corpse – a dead body, usually of a person
+
+---
+don't lose momentum
+house always win
+move fast break things
+persistance pays off - kalıcılık karşılığını verir
+consistency - tutarlılık, uyum
+
+data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
+veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
+
     
     
 Complimentizer in English
-	1. wh-Constructions:  Idk who entered the building
-	2. whether/if-clause: Idk whether he entered the bulding
-	3. that-clause:              I saw that he entered the building
-	4. poss-ing/gerund:   I always enjoyed his/him singing that song
-	5. participle:                I saw him entering the building
-	6. bare infinitive:        I saw him enter the building
-	7. for-to infinitive:      It is important for us to get there first
-	8. to-infinitive:            It is easy to park your car here
+	1. wh-Constructions:	idk who entered the building
+	2. whether/if-clause:	idk whether he entered the bulding
+	3. that-clause:		I saw that he entered the building
+	4. poss-ing/gerund:	I always enjoyed his/him singing that song
+	5. participle:		I saw him entering the building
+	6. bare infinitive:	I saw him enter the building
+	7. for-to infinitive:	it is important for us to get there first
+	8. to-infinitive:	it is easy to park your car here
 	
-
-
 
 
 
@@ -168,15 +172,6 @@ I won’t use this office anymore – artık bu ofisi kullanmayacağım
 No matter what you say, I won’t believe you – Ne söylersen söyle (farketmez), sana inanmayacağım
 If/What if/Even if/Unless He calls the doctor
 If I were on vacation now, I would probably be swimming – Şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
-
-
-to match – your blue shirt matches your blue eyes
-to fit – my glasses doesn’t fit
-to suit – that dress really suits you
-
-
-
-
 
 
 
@@ -250,6 +245,7 @@ you use another truth to find out a truth - bir gerçeği bulmak için başka bi
 axiom - aksiyom
 reasoning rules - akıl yürütme kuralları
 inference rules - çıkarım kuralları
+
 
 
 
