@@ -1,6 +1,8 @@
 RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)
 
-* Gerektiğinde uygun şekilde kullanılması için, bazı fiilere ek olarak preposition (edat) eklenmiştir.
+* Gerektiğinde uygun şekilde kullanılması için, bazı fiilere ek olarak edat (preposition) eklenmeye devam edilmektedir.
+* Edat (preposition) sonrası, genel olarak isim (noun) ya da zamir (pronoun) gelir.
+
 
 VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
