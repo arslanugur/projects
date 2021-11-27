@@ -41,7 +41,7 @@ spotless, reckless, relentless at - amansız, ruthless - acımasız, graceful �
 
 
 -tive	
-sensitive, protective, attractive, combative, aggressive, progressive
+sensitive - duyarlı, hassas, protective, attractive, combative, aggressive, progressive
 cooperative, inquisitive = curious, investigative, primitive, explosive, incentive - teşvik edici
 successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasive - ikna edici
 effective - etkili
@@ -49,8 +49,8 @@ positive != negative
 
 
 -able
-trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
-discernible, unbreakable, invisible, sensible, gullible, horrible, renewable - yenilenebilir
+sensible - mantıklı, makul, duyarlı , trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
+discernible, unbreakable, invisible, gullible, horrible, renewable - yenilenebilir
 unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, observable - gözlemlenebilir
 
 -ent/ant
@@ -77,7 +77,7 @@ fantastic, lunatic, fanatic, realistic, barbaric, romantic, gigantic
 pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
 
 -al
-ethical, economical, political, natural, industrial, official, brutal 
+eternal, ethical, economical, political, natural, industrial, official, brutal 
 educational, relational, national, sentimental, cynical = mocking
 hospital, capital, recital
 
