@@ -147,9 +147,9 @@ need
           genel bir durumun ifadesi     ---> You are very rude.  (Kabasın.)
           anlık değişen durumun ifadesi ---> You are being rude. (Kabalaşıyorsun.)
 -> have
-          sahiplik bildiriyorsa  ---> I don't have much money now. She has two brothers.
-          eylem bildiriyorsa     ---> She is having breakfast now.
-                                 ---> He is having a shower right now.
+          sahiplik bildiriyorsa  ---> she doesn't have much money now. She has two brothers.
+          eylem bildiriyorsa     ---> he is having breakfast now.
+                                 ---> he is having a shower right now.
 
 
 
@@ -239,7 +239,7 @@ N --> no, I have not/(never) been in Madrid
 		ever		(+ hiç)					- haven't you ever made a mistake?  
 									- you're the first girl who has ever accepted me for what I am.
 		how long	(ne kadar süre) 			- Exactly. How long have you been married?
-		today 		(bugün)					- 
+		today 		(bugün)					- Today has been quite breezy, which I love
 		this week/month (bu hafta/ay)				- 
 		
 		 
@@ -286,18 +286,16 @@ A --> yes, I have been living in Milano
 N --> no, I have not been living in Milano
 
 	Present Perfect Continuous Signals: 
-		for			-
-		since			-
-		how long		-
-		lately			-
-		recently		-
-		all morning		-
-		all day			- you've been working all day.
-		all year		-
-		the whole day		-
+		for			- he has been working in this company for twenty five years
+		since			- he has been working in this company since 1996
+		how long		- how long has he been working in this company? 
+		lately			- Idk what has been bothering you lately, but if I've done something, I wish you would tell me.
+		recently		- I've been studying English for a few years and recently decided to branch out on my own.
+		all morning		- they have been trying to work the prototype all morning
+		all day	/ the whole day	- you've been sleeping all day.
+		all year		- they have been developing a project on Autonomous Mobile Robots all year
 		
-		- 
-		-   
+		
 
 ---> MAKING A QUESTION FOR PRESENT PERFECT CONTINUOUS
 				        |	    S		|	V		|	O	|
