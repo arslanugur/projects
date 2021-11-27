@@ -55,7 +55,7 @@ N --> no, he/she doesn't go on holiday every summer
 		rarely						I rarely go to the gym
 		hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
 		never						They never listen to what he says
-								Mama always said life was like a box of chocolates. You never know what you're gonna get.
+
 
 
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
@@ -117,12 +117,10 @@ need
           sanmak, zannetmek ---> I think this city is really beautiful
 	  		    ---> I think she is a student
                             ---> I think they will visit us next week
-			    ---> I think this is the beginning of a beautiful friendship
           düşünmek          ---> I'm thinking about going abroad next year 
                             ---> She is thinking about her family
 -> see
           görmek	---> I see lots of people in the street
-	  		---> I see dead people
           görüşmek	---> The doctor is seeing his patient now
                     	---> The manager is seeing the applicant now.
 -> smell
@@ -236,7 +234,7 @@ N --> no, I have not/(never) been in Madrid
 		since		(-den beri)				- Olympics have been held since 1896
 		already 	(zaten, çoktan)				- We have already seen this method work			
 		just 		( + henüz, yeni, demin)			- They may have just moved to Birmingham from another city
-		yet		( - henüz)				- Why, I have not yet had time to settle down!
+		yet		( - henüz)				- wait a minute. You haven't heard nothin' yet
 		always 		(her zaman)				- You always have been next to me and you always will be
 		so far		(şimdiye kadar)				- his ideas have become so far part of the common thought of the time
 		lately		(geçenlerde, son zamanlarda)		- 
@@ -246,9 +244,9 @@ N --> no, I have not/(never) been in Madrid
 									- you're the first girl who has ever accepted me for what I am.
 		how long	(ne kadar süre) 			- Exactly. How long have you been married?
 		today 		(bugün)					- Today has been quite breezy, which I love
-		this week/month (bu hafta/ay)				- 
+		this week/month (bu hafta/ay)				- Why, I have not had time to settle down this year
 		
-		 
+				 
 		
 ---> MAKING A QUESTION FOR PRESENT PERFECT
 				        |	    S		|	V	|	O	|
