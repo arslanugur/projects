@@ -178,7 +178,7 @@ Future		Perfect			(tamamlanmış ama etkisi halen olabilir)
 
 Present Simple Tense	          --> I prefer my coffee black 
 Present Continuous Tense	  --> He is listening to the music now.
-Present Perfect Tense	          --> It has rained a lot lately. (bitse bile devam)
+Present Perfect Tense	          --> It has rained a lot lately.
 Present Perfect Continuous Tense  --> She has been singing a song.
 
 Past Simple Tense	          --> We watched the news last night.
