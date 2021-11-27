@@ -164,8 +164,9 @@ PLURAL		you			are	   were				you		 | happily 	on television	on the weekend
 ---> TIME
 time - zaman              --> sometime, some time, on time, in time, every time
 time - kere, kez, defa    --> one time, two times, sometimes, a few times
-
-
+	- why don't you come up sometime and see me?
+	- why don't you spend some time for yourself?
+	
 
 ---> TWELVE TENSES (4x3 Tenses)         (tense - kip, biçim)
 Time		Aspects			Explains:
