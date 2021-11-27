@@ -1,7 +1,10 @@
 PHRASAL VERBS
+--> ***
+    find out - learn, discover
+    figure out - solve
+
 --> A
-    add up - birbirini eklemek
-    add up - calculate
+    add up - birbirini eklemek --> calculate
 --> B
     break off - bitirmek, sonlandırmak --> terminate
 --> C
@@ -16,44 +19,59 @@ PHRASAL VERBS
     count on - güvenmek --> trust
     come by - edinmek, elde etmek --> acquire
 --> D
+    come by - visit
     drop in - visit
+    stop by - visit
+    
 --> E
+
 --> F
     figure out - çözmek, düşünerek bulmak
     fall apart - kafa karışıklığı veya duygusal sebeplerle normal hayatını sürdürememek
     fed up - get frustrated
-    find out - discover
+
+
 --> G
     go ahead - start
     get away - escape
+    run away - escape
     get across - communicate
+    get along with - iyi geçinmek
+    
 --> H
     hold on - wait
+
 --> I
 --> J
 --> K
 --> L
     look up to - saygı duymak --> respect
     look around - search
+    look after - göz kulak olmak
+    
 --> M
 --> N
 --> O
 --> P
-    pass away - ölmek --> die
+    pass away - vefat etmek --> die
     point out - explain
     put up with - tolerate
+
 --> R
     run into - rastlamak, karşılaşmak --> encounter
+
 --> S
     stand for - temsil etmek --> represent
     see to - ilgilenmek, ayarlamak --> deal with, arrange
     set up - arrange
+
 --> T
     take on - işe almak --> employ
     trust on - count on
     throw up - kusmak --> vomit
     turn down - reject
     touch on - mention
+
 --> U
 --> V
 --> W
@@ -61,7 +79,7 @@ PHRASAL VERBS
 --> Z
 
 
-
+--> PHRASES IN A CAR
 buckle up - kemerleri bağlamak
 pull over - kenara çekmek, yol kenarında durmak
 you cut me off - yolumu kestin -- cut off - birinin yolunu engellemek, önüne kırmak
