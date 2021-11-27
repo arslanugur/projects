@@ -23,8 +23,11 @@ N --> no, he/she doesn't go on holiday every summer
 		Adverbs of Frequency		(Sıklık Zarfları)
 		now and then			(ara sıra, bazen, zaman zaman)
 		first ... then ...		(ilk ... ondan sonra ...)
+                these days                      (bu günlerde) Pre. Perf. Cont.
+		
 
-		in the morning 		sabahleyin
+
+                in the morning 		sabahleyin
                 at noon			öğlen
                 in the afternoon	öğleden sonra
                 in the evening		akşamleyin
