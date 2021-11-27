@@ -2,7 +2,7 @@
 			S            	|       ADVERBS OF FREQUENCY		|           V		|	O       |  ADVERBS
 		-------------------------------------------------------------------------------------------------------------------------------------------------
 		Subject			|					|			|               |   am -> gece 12 öğlen 12 arası
-		(noun/pronoun)		|				        |			|               |   pm -> öğren 12 gece 12 arası
+		(noun/pronoun)		|				        |			|               |   pm -> öğlen 12 gece 12 arası
 		Subject Pronouns	|				        |			|               |   o'clock -> of clock -> duvar saatinin
 ----------------------------------------| --------------------------------------|-----------------------|---------------|----------------------------------------
 		I	    		|       always / all the time       	|	get up		|               |   early/late
@@ -14,7 +14,7 @@ SINGULAR	she	    		|        usually / generally        	|	wash		|  my face      
 		we	    		|      sometimes / occasionally     	|	start		|  lessons	|   at nine/ten
 PLURAL		you	    		|              rarely               	|	have		|  lunch        |   at noon / in the afternnon	
 		they	    		|           almost never            	|	finish		|  my lessons	|   at five every evening
-                            		|               never			|	get back	|  home		|   at night / at midnight / every n ight
+                            		|               never			|	get back	|  home		|   at night / at midnight / every night
                             
 			    
 --> SEQUENCE WORDS
