@@ -47,16 +47,21 @@ could have participle		past unreal ability		he could have taken the flight		I co
 ---> EXAMPLES
 	- He will/can/should/must have called her
 	- She would/could/should/had to have called him
-	- She asked me if she could sit at the end of our table. (Permission)
-	- Could you help me with this math problem? (Request)
-	- You could take a painkiller if your headache gets worse. (Advice) 
-	- Mozart could play the piano at the age of five. (Ability)
-	- Things can get crazy around here sometimes. (Possibility)
-	- To be healthy, a plant has to receive a good supply of sunshine. (Necessity)
-	- Would you help me to carry this heavy suitcase? (Request)
-	- May I ask whether you are using the telephone? (Permission)
-	- She wasn't supposed to be here - o burada olmamaliydi
-	- it could have gone better - daha iyi de gidebilirdi
+	
+	- if this is your first night at Fight Club, you have to fight.		(Obligation)
+	- she asked me if she could sit at the end of our table.		(Permission)
+	- could you help me with this math problem?				(Request)
+	- you could take a painkiller if your headache gets worse.		(Advice) 
+	- Mozart could play the piano at the age of five.			(Ability)
+	- I'm going to make him an offer he can't refuse.			(Impossibility)
+	- Things can get crazy around here sometimes.				(Possibility)
+	- to be healthy, a plant has to receive a good supply of sunshine.	(Necessity)
+	- would you help me to carry this heavy suitcase?			(Request)
+	- may I ask whether you are using the telephone?			(Permission)
+	- May the Force be with you 						(Possibility)
+	
+	- she wasn't supposed to be here	o burada olmamalıydı
+	- it could have gone better		daha iyi de gidebilirdi
 
 
 --> CAN
