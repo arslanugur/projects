@@ -19,13 +19,14 @@ N --> no, he/she doesn't go on holiday every summer
 
 
 	Present Simple Signals: 
-		every day/week/month/year	(her ...)
+		every day/week/month/year	(her ...)				I go walking in the morning every day
 		Adverbs of Frequency		(Sıklık Zarfları)
 		now and then			(ara sıra, bazen, zaman zaman)
-		first ... then ...		(ilk ... ondan sonra ...)
-                these days                      (bu günlerde) Pre. Perf. Cont.
-		
-
+		first ... then ...		(ilk ... ondan sonra ...)		first i get on a bus, then i get to work 
+                these days                      (bu günlerde)
+			I live in Aksaray these days					--> Present Simple
+			I have been living in Aksaray these days (for a few months)	--> Present Perfect Continuous
+			
 
                 in the morning 		sabahleyin
                 at noon			öğlen
@@ -174,17 +175,17 @@ Q --> are we/you/they coming to her birthday party?
 A --> yes, we/you/they are coming...
 N --> no, we/you/they are not coming...
 
-	Present Continous Signals: 
-		now		(şimdi)
-		right now	(şu anda)
-		at the moment	(şu anda)
-		at present	(şu ara)
-		these days	(bu günlerde)
-		nowadays	(bu günlerde) 
-		still		(halen)
-		today		(bugün)
-		tonight 	(bu gece)	(except for future use)
-
+	Present Continous Signals: 			Examples:
+		now		(şimdi)			- it is raining outside now
+		right now	(şu anda)		- my friend and I are working on a creative project right now
+		at the moment	(şu anda)		- I am eating lunch at the moment. Can I call you back in an hour?
+		at present	(şu ara)		- they are dealing with a project nowadays
+		these days	(bu günlerde)		- she is working as a food engineer in a factory these days
+		nowadays	(bu günlerde)		- he is repairing cars nowadays 
+		still		(halen)			- I am still studying for tomorrow's exam
+		today		(bugün)			- I am baking a big cake for my friend's birthday
+		tonight 	(bu gece)		- I am watching telly tonight		(for present use)
+							- I will watch telly telly tonight	(for future use)
 
 ---> MAKING A QUESTION FOR PRESENT CONTINUOUS
 				        |	    S		|	V	|	O	|
