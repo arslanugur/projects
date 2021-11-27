@@ -55,7 +55,7 @@ N --> no, he/she doesn't go on holiday every summer
 		rarely						I rarely go to the gym
 		hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
 		never						They never listen to what he says
-
+								Mama always said life was like a box of chocolates. You never know what you're gonna get.
 
 
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
@@ -117,10 +117,12 @@ need
           sanmak, zannetmek ---> I think this city is really beautiful
 	  		    ---> I think she is a student
                             ---> I think they will visit us next week
+			    ---> I think this is the beginning of a beautiful friendship
           düşünmek          ---> I'm thinking about going abroad next year 
                             ---> She is thinking about her family
 -> see
           görmek	---> I see lots of people in the street
+	  		---> I see dead people
           görüşmek	---> The doctor is seeing his patient now
                     	---> The manager is seeing the applicant now.
 -> smell
