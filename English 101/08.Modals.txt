@@ -1,13 +1,27 @@
 ---> MODALS
-PRESENT           	PAST		PERFECT
+can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request
+may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
+must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
+shall		-acak, -ecek		(niyet)		intention, supposition
+will		-acak, -ecek		(istek)		wish, desire, will, confidence, in the future
+ought to	-malı, meli		(görev)		moral duty, insistent advice, strict recommendation
+need		-malı, meli		(ihtiyaç)	necessity, unnecessity
+be to		-malı, meli		(zorundalık)	obligation aarising out of arrangement or agreement
+have to		-mak zorunda olmak	(zorundalık)	unwillingness, forced circumstances
+would		-acaktı, -ecekti	(ihtimal)	wish (with 'to like'), polite request, a habit of the past
+should		-malı, meli		(gereklilik)	necessity, advice, blame, recommendation, reproach, regret
+used to		-alışmak		(alışkanlık)	repeated action in the past
+
+
+PRESENT       	PAST		PERFECT
 -------------------------------------------------------
-can			could		could have V3
-will              	would		would have V3
-shall             	should		should have V3
-may               	might		might have V3
-must              	had to		must have V3
-have to           	had to		have to have V3
-					had to have V3
+can		could		could have V3
+will           	would		would have V3
+shall          	should		should have V3
+may            	might		might have V3
+must           	had to		must have V3
+have to       	had to		have to have V3
+				had to have V3
 
 be able to		was/were able to
 be supposed to		was/were supposed to	
@@ -152,10 +166,10 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	
 --> HAD BETTER	
 
-
-
-
 he was getting used to getting to do
+
+
+
 
 
 prepared by Uğur ARSLAN and His Students
