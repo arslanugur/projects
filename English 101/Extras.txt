@@ -11,6 +11,22 @@ thorough 	(adj)	kapsamlı, tam, bütün
 throughout 	(adv)	baştan aşağı, boylu boyunca, tamamıyla	
 
 
+
+GO			GO TO			GO TO A			GO TO THE		GO ON			GO FOR	           
+-------------------------------------------------------------------------------------------------------------------------------------
+go home			go to sleep		go to a party		go to the bathroom	go on holidays		go for a walk
+go downstairs		go to mosque/church	go to a conference	go to the doctor	go on a cruise		go for a swim
+go shopping		go to school		go to a concert		go to the bank		go on a trip		go for a drive
+go sailing		go to university	go to a restaurant	go to the restaurant	go on a date		go for a nap
+go swimming		go to France		go to a bar		go to the supermarket	go on a journey		go for a run           
+go camping		go to India		go to a festival	go to the airport	go on strike		go for a dip
+go dancing		go to Africa								go on stage		go for a ride
+go fishing		go to America
+ 
+
+
+
+
 ARRIVE
 we arrived at the village
 we arrived in London
