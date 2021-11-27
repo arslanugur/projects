@@ -3,14 +3,12 @@ to match	eşleştirmek, uygun olmak	your blue shirt matches your blue eyes
 to suit		yakışmak, uymak			that dress really suits you
 
 
-
 tough		(adj)	zor, sağlam, kuvvetli
 though 		(adv)	-e rağmen
 thought 	(n)	fikir, düşünce
 through 	(prep)	aracılığıyla, ile, boyunca, -in içinden
 thorough 	(adj)	kapsamlı, tam, bütün
 throughout 	(adv)	baştan aşağı, boylu boyunca, tamamıyla	
-
 
 
 ARRIVE
@@ -31,6 +29,39 @@ I get dressed before the breakfast every morning
 I am getting dressed immediately
 I am getting used 
 I got used
+
+CONCERN
+be concerned about - hakkında endişelenmek
+be concerned with - ile ilgilenmek
+concerns over - üzerine endişeler
+a growing concern for - için artan endişe
+
+
+data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
+veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
+
+tongue twisters
+- three witches wished three wishes. so, which witch wished which wish?
+
+We talked about my leaving the course
+We talked about leaving my course
+
+
+Corps – a military units trained to perform particular duties
+Corpse – a dead body, usually of a person
+
+
+Complimentizer in English
+	1. wh-Constructions:	idk who entered the building
+	2. whether/if-clause:	idk whether he entered the bulding
+	3. that-clause:		I saw that he entered the building
+	4. poss-ing/gerund:	I always enjoyed his/him singing that song
+	5. participle:		I saw him entering the building
+	6. bare infinitive:	I saw him enter the building
+	7. for-to infinitive:	it is important for us to get there first
+	8. to-infinitive:	it is easy to park your car here
+
+
 
 
 DO    + Object --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
@@ -124,46 +155,16 @@ how can you bear that on your conscience - nasıl o vicdan yükünü taşıyorsu
 nobody picks up on my patterns - sağım solum belli olmaz
 do you want to hang out again some time?
 dont cry because it's over, smile because it happened
-discipline leads to habits
-habits leads to consistency
-consistency leads to growth 
-
-tongue twisters
-- three witches wished three wishes. so, which witch wished which wish?
-
-
-We talked about my leaving the course
-We talked about leaving my course
-
-Corps – a military units trained to perform particular duties
-Corpse – a dead body, usually of a person
-
----
-don't lose momentum
-house always win
-move fast break things
-persistance pays off - kalıcılık karşılığını verir
+long con - uzun dalgadümen
+the height difference - boy farkı
+cough it up  - öt bakalım
+let's get something straight right now - bişeyi açıklığa kavuşturalım
+discipline leads to habits, habits leads to consistency, consistency leads to growth 
+-don't lose momentum
+-house always win
+-move fast break things
+-persistance pays off - kalıcılık karşılığını verir
 consistency - tutarlılık, uyum
-
-data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
-veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
-
-    
-    
-Complimentizer in English
-	1. wh-Constructions:	idk who entered the building
-	2. whether/if-clause:	idk whether he entered the bulding
-	3. that-clause:		I saw that he entered the building
-	4. poss-ing/gerund:	I always enjoyed his/him singing that song
-	5. participle:		I saw him entering the building
-	6. bare infinitive:	I saw him enter the building
-	7. for-to infinitive:	it is important for us to get there first
-	8. to-infinitive:	it is easy to park your car here
-	
-
-find out - learn
-figure out - solve
-epoca - gothan project
 we dont want to cause a scene - olay çıkarmak istemeyiz
 he must not trust you - sana güvenmiyor kesin
 nice pull - iyi numara
@@ -189,14 +190,11 @@ the vault room - kasa odası
 sth up? - bişey mi var?
 tattletale - gammazlık
 an English major - Dil uzmanı
-oh bummer - çok kötü
-
-
+oh, bummer - çok kötü
 speak for yourself - kendi adına konuş
 save yourself - kendini kurtar
 easy-peasy - çocuk oyuncağı
 come on, bring it in - gel bakalım buraya
-
 I am so focused on winning all the time - her zaman kazanmaya o kadar odaklanıyorum ki
 My eyes met many eyes but only got lost in yours
 He is struggling to dispose of fake money, containing over million pound that could create economic hazard
@@ -229,14 +227,6 @@ my hair looks so colourless, I want hair care - saçlarım çok cansız görün�
 I need a root touch-up - dip boyam gelmiş
 just the ends, please - sadece uçlarından lütfen
 
-
-
-
-CONCERN
-be concerned about - hakkında endişelenmek
-be concerned with - ile ilgilenmek
-concerns over - üzerine endişeler
-a growing concern for - için artan endişe
 
 
 PROS / CONS --> Advantages / Disadvantages
@@ -280,9 +270,6 @@ you use another truth to find out a truth - bir gerçeği bulmak için başka bi
 axiom - aksiyom
 reasoning rules - akıl yürütme kuralları
 inference rules - çıkarım kuralları
-
-
-
 
 
 
