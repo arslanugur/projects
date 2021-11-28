@@ -177,6 +177,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                --> I have worked in the accounting field for three years
        What do you think about your future?
                --> I want to be a dentist in the future
+               --> I want to be a music teacher
 
 7 --> FAMILY
       how many people in your family? 
@@ -188,7 +189,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
                                                         --> I have two sisters
       
       --> my family is made up of my father, mother, two brothers and two sisters
-                  (benim ailem babam, annemi iki erkek kardeşim ve iki kız kardeşimden oluşur.)
+                  (benim ailem babam, annem, iki erkek kardeşim ve iki kız kardeşimden oluşur.)
             
       Tell me about your family? --> My father is ...
                                  --> My mother is ...
@@ -224,8 +225,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”
 8 --> HOBBIES
       What are you interested in?
             --> I am interested in ...
+            --> I am interested in playing piano
       What is your hobby? ---> My hobby is ...
-      
+                          ---> My hobby is playing piano
       what do like to do?
             --> I like to play piano
             --> I really like running
