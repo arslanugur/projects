@@ -33,7 +33,7 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     - They wouldn't arrive until after 6:00 at the earliest.
     - I saw something today that bothered me.
     - I don't have time for explanations today.
-    - Though I could always wait until tomorrow, after Darkyn deals with you.
+    - Though he could always wait until tomorrow, after she deals with you.
     - I've already told her, but she won't listen to me either.
     - She had to get a car as soon as possible.
     - We soon forget them.
@@ -49,28 +49,31 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
         1 + 3     -->  I was abroad (1) for two months (3) last year.
         1 + 2 + 3 -->  She worked in a hospital (1) for two days (2) every week (3) last year.
 
-    STILL
+    STILL   - hala, halen
     She is still waiting for you.
-    Jim might still want some.
+    Jim might still want some nuts.
     Do you still work for the company?
     Are you still here?
     I am still hungry.
 
+    JUST        henüz, demin, yeni ( + )
 
-    YET
-    Have you finished your work yet? (= simple request for information)
-    No, not yet. (= simple negative answer)
-    They haven't met him yet. (= simple negative statement)
-    Haven't you finished yet? (= expressing surprise)
 
----> ADVERBS OF DURATION ---> HOW LONG?
+    YET         henüz ( - )
+    Have you finished your work yet?        (= simple request for information)
+    No, not yet.                            (= simple negative answer)
+    They haven't met him yet.               (= simple negative statement)
+    Haven't you finished yet?               (= expressing surprise)
+
+
+---> ADVERBS OF DURATION ---> HOW LONG?         süre, süreç
     She stayed in their house all day.
     My mother lived in France for a year.
     I have been going to this school since 1996.
     I stayed in Switzerland for three days.
     I am going on vacation for a week.
     I have been riding horses for several years.
-    The French monarchy lasted for several centuries.
+    The French monarchy lasted for several centuries.       century = hundred years
     I have not seen you since Monday.
     Jim has been working here since 1997.
     There has not been a more exciting discovery since last century.
@@ -78,22 +81,28 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
 ---> ADVERBS OF PLACE --- WHERE?
     on -- off, in -- out, inside -- outside, over -- under, overseas, underground
     near – away, far, nearby, above – below, down -- up, here, there, abroad, indoors 
-    everywhere, somewhere, elsewhere, about, forward – Backward, ahead -- back, 
+    everywhere, somewhere, elsewhere, about, forward – backward, ahead -- back, 
     upstairs -- downstairs, homeward, downtown, on the top -- bottom, at some place (in İzmir, at home, on the ground, etc.)
-    along, behind, east, west, north, south, next door, next to, right – left (on/to/from)
+    along, behind, east, west, north, south, next door, next to, 
+    right – left (on/to/from)
+    on the right - sağda            on your right - sağında
+    to the right - sağa             to your right - sağına
+    from the right - sağdan         from your right - sağından
 
-    He is standing near the wall. (Duvar yanında duruyor)
-    They will come here. (Buraya gelecekler)
-    He lives somewhere in Turkey. (O Türkiyenin bir yerinde yaşar)
-    My friend went abroad yesterday (Arkadaşım dün yurt dışına gitti)
-    He is sitting upstairs. (Üst katta oturuyor)
-    I went out. (Dışarı çıktım)
-    He turned back (Geri döndü)
-    Let’s play in the garden this afternoon. (Bu öğleden sonra bahçede oynayalım)
-    Look outside. (Dışarı bak)
-    John lives there. --> There lives John. (John orada yaşar)
-    The policeman comes here. --> Here comes the policeman. (Polis buraya gelir)
-    John is here. --> Here is John. (John burada)
+
+
+    He is standing near the wall.               (Duvar yanında duruyor)
+    That cat will come here.                    (O kedi buraya gelecek)
+    He lives somewhere in Turkey.               (O Türkiyenin bir yerinde yaşar)
+    my friend went abroad yesterday             (Arkadaşım dün yurt dışına gitti)
+    he is sitting upstairs.                     (Üst katta oturuyor)
+    I went out.                                 (Dışarı çıktım)
+    he turned back / he returned                (Geri döndü)
+    let’s play in the garden this afternoon.    (Bu öğleden sonra bahçede oynayalım)
+    Look outside.                               (Dışarı bak)
+    John lives there. --> There lives John.     (John orada yaşar)
+    The cop comes here. --> Here comes the cop. (Polis buraya gelir)
+    John is here. --> Here is John.             (John burada)
 
 ---> ADVERBS OF DEGREE --- HOW MUCH?
     almost, hardly, barely, fully, completely, decidedly, deeply, entirely, extremely, intensely, 
