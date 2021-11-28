@@ -33,70 +33,83 @@ comfortable   more comfortable  the most comfortable
 
 
 ---> ADJECTIVE SUFFIXES
--ful / -less	
-wonderful, beautiful, awful, useful, meaningful, cheerful, helpful 
+-FUL / -LESS	
+wonderful, beautiful, awful, useful, meaningful, cheerful, helpful, forgetful 
 delightful, doubtful, powerful, peaceful, grateful, blissful, worthless
-faithful != faithless, forgetful, careful != careless, hopeful != hopeless
+faithful != faithless, careful != careless, hopeful != hopeless
 spotless, reckless, relentless at - amansız, ruthless - acımasız, graceful – zarif
 
-
--tive	
-sensitive - duyarlı, hassas, protective, attractive, combative, aggressive, progressive
-cooperative, inquisitive = curious, investigative, primitive, explosive, incentive - teşvik edici
+-TIVE	
+protective, attractive, combative, aggressive, progressive, inquisitive = curious
+cooperative, investigative, primitive, explosive, incentive - teşvik edici
 successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasive - ikna edici
-effective - etkili
 positive != negative
+effective - etkili
+efficient - verimli, tasarruflu != inefficient
+sensitive - duyarlı, hassas, 
 
-
--able
+-ABLE
 sensible - mantıklı, makul, duyarlı , trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
 discernible, unbreakable, invisible, gullible, horrible, renewable - yenilenebilir
 unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, observable - gözlemlenebilir
 
--ent/ant
-patience - patient != impatient, fluent, arrogant, defiant, apparent, decent
-violence - violent, brilliance - brilliant
-efficient - verimli, tasarruflu != inefficient
-pleasant
+-ANT / -ENT
+patience            patient != impatient, 
+fluency             fluent
+confidence          self-confident
+arrogance           arrogant
+appearance          apparent
+decency             decent
+violence            violent
+brilliance          brilliant
+defiance            defiant
+please              pleasant
 
--ous	
-generity - generous, ambition - ambitious,  mystery - mysterious, danger - dangerous = perilous
-anxiety - anxious, curiosity - curious, caution - cautious, adventure - adventurous, hideous
-serious, enormous, contagious, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
-atricuous - acımasız, treacherous = untrustable, tremendous
-various artists for Rolling Stones tribute - Rolling Stone grubuna saygı için çeşitli sanatçılar
-hazardous to your health, unambiguous, Conscious
+-OUS	
+generity            generous
+ambition            ambitious
+mystery             mysterious
+danger              dangerous = perilous
+caution             cautious
+adventure           adventurous
+curiosity           curious cat                   meraklı kedi
+anxiety             anxious demeanor              endişeli tavır
+contamination       contagious disease            bulaşıcı hastalık
+variation           various artists               çeşitli sanatçılar
+hazard              hazardous to your health      sağlığınız için tehlikeli
+hideous, serious, enormous, luminous, meticulous - titiz, fabulous - şahane, gorgeous - muhteşem güzel
+atricuous - acımasız, treacherous = untrustable, tremendous, unambiguous, conscious
 
--y
-tasty, busy, lazy, witty, brainy, fairy, fancy, naughty, dizzy, cloudy, rainy, snowy, hazy, merry, cherry, ugly, royalty
-jolly, lousy, clumsy, crazy, easy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary, steamy, soapy 
-pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, snobby, sloppy - ihtiyatsız, sassy, nasty, raunchy, gory, gritty, goofy, quirky 
+-Y
+tasty, busy, lazy, witty, brainy, fairy, fancy, dizzy, cloudy, rainy, snowy, foggy, hazy, merry, cherry, ugly, gritty, quirky
+jolly, lousy, clumsy, goofy, crazy, easy, dirty, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary, steamy, soapy 
+pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, sloppy - ihtiyatsız, snobby, naughty, sassy, nasty, raunchy, gory 
 
--ic
+-IC
 fantastic, lunatic, fanatic, realistic, barbaric, romantic, gigantic 
 pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
 
--al
+-AL
 eternal, ethical, economical, political, natural, industrial, official, brutal 
 educational, relational, national, sentimental, cynical = mocking
 hospital, capital, recital
 
--some
+-SOME
 troublesome, awesome, handsome, gruesome - korkunç
 
--like
+-LIKE
 alike, childlike, warlike, godlike
 
--ate
+-ATE
 passionate, separate, accurate, lemonade, appropriate, intimate, moderate
 
--worthy
+-WORTHY
 swoonworthy, trustworthy
 
--ish
+-ISH
 selfish, english, turkish, childish, reddish, sluggish, mopish
 
---> Extra Adjectives
+--> Other Adjectives
 frank, stubborn, cruel, rude, cute, distinct, bright, fragile, rough - hard, muppet - ugly
 valid != invalid - geçerli
 
@@ -118,6 +131,7 @@ bloomed = blooming            coordinated = coordinating
 
 ongoing, incoming
 she is broken
+a martini. shaken, not stirred.
 
 --->  GET + ADJECTIVE = VERB (SIFAT FİİL)
 I got confused- kafam karıştı
@@ -145,21 +159,34 @@ we were shocked to see what the storm had done to the house
 
 
 --> ADJECTIVE EXAMPLES
+nobody's perfect                        hiç kimse kusursuz değildir
+take it easy                            sakin ol, kolay gelsin
+easy-peasy                              çocuk oyuncağı
+manners maketh man                      tavırların seni adam yapar
+are you not entertained?                eğleniyor musun?
+he is distracted                        dikkati dağınık
+you are our national treasure           sen milli servetimizsin
+this is more serious than i thought     bu sandığımdan daha ciddidir
+dull and boring                         sıradan ve sıkıcı
+as usual, you turned up late again      her zamanki gibi, yine geç geldin
+we met earlier                          daha önce tanışmıştık
+you met me at a very strange time in my life.
+keep your friends close, but your enemies closer.
 I already know all of these, it is not necessary for me. It is necessary for you all
-Manners maketh man – tavırların seni adam yapar
-You are the best friend I ever had. - En iyi arkadaşım sensin
+Money is very powerful, but sometimes it’s more powerful to say no to it
+today, I consider myself the luckiest man on the face of the earth.
+a boy's best friend is his mother.
+you are the best friend I ever had. - En iyi arkadaşım sensin
 I will do my best - yapacağımın en iyisini yaparım
 You are the worst person I've ever met - tanıdığım en kötü kişisin
 that's the stupidest thing I have ever heard - duyduğum en aptalca şey
 could you love me less? - beni daha az sevebilir miydin?
 get money first, fall in love later
-Money is very powerful, but sometimes it’s more powerful to say no to it
 it could have gone better - daha iyi gidebilirdi (well)
 the longer they play, the more they lose - ne kadar uzun oynarlarsa, o kadar fazla kaybederler
 as far as I am concerned, you are no longer welcome here
 light is the fastest thing we know - ışık bildiğimiz en hızlı şeydir
 we needed a discreet place - güvenilir bir yere ihtiyacımız vardı
-you are our national treasure - sen milli servetimizsin
 you got too reckless – fazla pervasızlaştın
 no need to negotiate - anlaşmaya gerek yok
 it is nonnegotiable - tartışmaya açık değil
@@ -167,15 +194,11 @@ you are still thinking like a lone wolf - Halen yalnız bir kurt gibi düşünü
 first time i have been in school for three consecutive days
 sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
 That guy’s incorrigible – o adam iflah olmaz, düzeltilemez --> correct
-This is more serious than i thought - sandığımdan daha ciddi
-as usual, you turned up late again - her zamanki gibi yine geç geldin
-anxious demeanor - endişeli tavır
 juvenile anger - genç öfkesi
 body asleep, mind awake - vücut uykulu, zihin uyanık
 I am sleepy today = I am slumbery today
 you look so sad/mopish, what happened?
 call me later = ring me up later
-dull and boring - sıradan ve sıkıcı
 
 
 ---> SYNONYM and ANTONYM
@@ -350,10 +373,10 @@ knackered - really very tired
 punitive -ceza gerektirici
 blockaded - kuşatılmış
 profound - derin, kök
-Absurd
-Controversial
+absurd
+chilling
+controversial
 Coming-of age
-Chilling
 Emsemble
 Fairy Tale
 Ominous
@@ -367,8 +390,6 @@ Twists and Turns
 Heartfelt
 Rousing
 
-Dock – kenetlenmek limanlamak
-Rather – yerine
 
 
 
