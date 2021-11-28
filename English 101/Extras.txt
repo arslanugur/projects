@@ -25,14 +25,16 @@ go fishing		go to America
  
 
 
-
+how long does the winter last in there	- orada kış ne kadar sürer?**
+how long is the winter in there		- kış orda ne kadar uzundur?
 
 ARRIVE
-we arrived at the village
+we arrive home / today / late / right on time
 we arrived in London
-we arrived on monday
 we arrived at the station
-we arrive home/today/late/right on time
+we arrived at the village
+we arrived on monday
+
 
 GET
 I get up early every day
@@ -128,9 +130,12 @@ MAKE  + Object --> a phone call, the bed, a cake, a mistake, a comment, dinner
 
 PHRASES
 I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
+don't lose momentum
+house always win
+move fast break things
+persistance pays off - kalıcılık karşılığını verir
 Every C in Pacific Ocean is pronounced differently
 nobody in their right mind would want to be treated like that - hiç kimse kendine böyle davranılmasını istemez
-he is distracted - dikkati dağınık
 can you break a twenty - bir yirmilik bozabilir misin
 I dont have any change on me - üzerimde hiç bozuk yok
 we offer free delivery on orders over fifty dollar - elli dollar üzerindeki siparişlere ücretsiz kargo sunuyoruz
@@ -149,7 +154,7 @@ in for a penny, in for a pound - battı balık yan gider
 let's get down to brass tacks here
 brass tacks - sadede gelelim, olaya girelim, konuya geçelim
 I wasn’t born yesterday – sen giderken ben dönüyordum
-No more mr. Nice guy – efendilikte bir yere kadar
+no more mr. Nice guy – efendilikte bir yere kadar
 Do you ever hear yourself – ağzından çıkanı kulağın duyuyor mu senin
 Dont even go there – o konuya hiç girme
 Out of sight, out of mind – gözden uzak olan gönülden uzak olur
@@ -176,10 +181,6 @@ the height difference - boy farkı
 cough it up  - öt bakalım
 let's get something straight right now - bişeyi açıklığa kavuşturalım
 discipline leads to habits, habits leads to consistency, consistency leads to growth 
--don't lose momentum
--house always win
--move fast break things
--persistance pays off - kalıcılık karşılığını verir
 consistency - tutarlılık, uyum
 we dont want to cause a scene - olay çıkarmak istemeyiz
 he must not trust you - sana güvenmiyor kesin
@@ -193,7 +194,6 @@ right this way - bu taraftan
 what is going on there - ne oluyor orda
 scaffold - yapı iskelesi
 seal the place - mekanı mühürle, kapa
-we met earlier - daha önce tanışmıştık
 to distract  - dikkat dağıtmak
 we gotta go - gitmeliyiz
 gotcha! - got you! - tamamdır!
@@ -201,7 +201,6 @@ hang around - etrafta takılmak
 detain your friend - arkadaşını tutukla
 we had a moment - özel bi an yaşadık
 counteroffer - karşı teklif
-take it easy - sakin ol
 the vault room - kasa odası
 sth up? - bişey mi var?
 tattletale - gammazlık
@@ -209,7 +208,6 @@ an English major - Dil uzmanı
 oh, bummer - çok kötü
 speak for yourself - kendi adına konuş
 save yourself - kendini kurtar
-easy-peasy - çocuk oyuncağı
 come on, bring it in - gel bakalım buraya
 I am so focused on winning all the time - her zaman kazanmaya o kadar odaklanıyorum ki
 My eyes met many eyes but only got lost in yours
@@ -221,34 +219,28 @@ I won’t use this office anymore – artık bu ofisi kullanmayacağım
 No matter what you say, I won’t believe you – Ne söylersen söyle (farketmez), sana inanmayacağım
 If/What if/Even if/Unless He calls the doctor
 If I were on vacation now, I would probably be swimming – Şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
-
 After all, tomorrow is another day!
-Today, I consider myself the luckiest man on the face of the earth.
 don't let's ask for the moon. We have the stars.
-nobody's perfect
-
-keep your friends close, but your enemies closer.
 greed, for lack of a better word, is good.
-a boy's best friend is his mother.
-Say "hello" to my little friend
-
-
+Advertising has us chasing cars and clothes, working jobs we hate so we can buy shit we don't need. 
 as God is my witness, I'll never be hungry again
 Well, here's another nice mess you've gotten me into!
 Gentlemen, you can't fight in here! This is the War Room
 Of all the gin joints in all the towns in all the world, she walks into mine.
 you're going out a youngster, but you've got to come back a star!
-A martini. Shaken, not stirred.
 Life is a banquet, and most poor suckers are starving to death!
 Carpe diem. Seize the day, boys. Make your lives extraordinary.
 Snap out of it!
-Are you not entertained?
 What's the most you ever lost on a coin toss?
 I have always depended on the kindness of strangers.
 I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. 
 I watched C-beams glitter in the dark near the Tannhuser Gate. 
 All those moments will be lost in time, like tears in rain.
 You know what kind of plan never fails? No plan. No plan at all. You know why? Because life cannot be planned.
+Dock – kenetlenmek limanlamak
+Rather – yerine
+
+
 
 
 
@@ -314,7 +306,6 @@ you use another truth to find out a truth - bir gerçeği bulmak için başka bi
 axiom - aksiyom
 reasoning rules - akıl yürütme kuralları
 inference rules - çıkarım kuralları
-
 
 
 
