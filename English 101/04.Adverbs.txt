@@ -105,9 +105,10 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     John is here. --> Here is John.             (John burada)
 
 ---> ADVERBS OF DEGREE --- HOW MUCH?
-    almost, hardly, barely, fully, completely, decidedly, deeply, entirely, extremely, intensely, 
-    highly, fairly, indeed, somewhat, so, simply, scarcely, really, rather, quite, purely, positively, 
-    perfectly, nearly, much, most, lots, little, less, least, just, greatly, enormously
+    almost, hardly, barely, fully, completely, decidedly, deeply, entirely - bütünüyle, extremely, intensely, 
+    highly - büyük ölçüde, fairly, indeed, somewhat (bir derece), so, simply, scarcely - ucu ucuna, 
+    really, rather, quite, purely, positively, perfectly, nearly, much, most, 
+    lots, little, less, least, just - tam, greatly, enormously
 
     Adverb of degree	Modifying	    Example
     -------------------------------------------
@@ -117,37 +118,38 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     almost              verb            She has almost finished.
     very                adverb          She is running very fast.
     too                 adverb          You are walking too slowly.
-    enough              adverb          You are running fast enough.
+    enough              adverb          You arent running fast enough.
 
 
-    ENOUGH
-        Is your coffee hot enough to drink?
-        This box isn't big enough.
-        He didn't study hard enough to pass the exam.
-        The dress was elegant enough for me.
-        She's not experienced enough for this job.
+    ENOUGH  - yeterince
+        is your coffee hot enough to drink?
+        this box isn't big enough.
+        he didn't study hard enough to pass the exam.
+        the dress was elegant enough for me.
+        she is not experienced enough for this job.
         when you are fluent enough to understand but not fluent enough to respond
-    ENOUGH AS DETERMINER
+        anlayacak kadar akıcı olduğunuzda, ancak yanıt verecek kadar akıcı olmadığınızda 
+    ENOUGH AS DETERMINER - yeterli
         We have enough bread.
         You have enough children.
         They don't have enough food.
 
     TOO - also
-        I would like to go swimming too, if you will let me come.
-        Can I go to the zoo too?
-        Is this gift for me too?
-        I'm not going to clean your room too!
+        I' would like to go swimming too, if you will let me come.
+        can I' go to the zoo too?
+        is this gift' for me too?
+        I' am not going to clean your room too!
     TOO - excessively
-        He works too hard to have some free time.
-        Isn't she too young to get married?
-        He is too short for this job
-        The dress was too small for her.
+        he works too hard to have some free time.
+        isn't she too young to get married?
+        he is too short for this job
+        the dress was too small for her.
 
     VERY vs. TOO
-        He speaks very quickly.
-        He speaks too quickly for me to understand.                     ---> Anlayamayacağım kadar hızlı konuşuyor. 
-        It is very hot outside.
-        It is too hot outside to go for a walk.
+        he speaks very quickly.                                 --> çok hızlı konuşuyor
+        he speaks too quickly for me to understand.             --> Anlayamayacağım kadar hızlı konuşuyor. 
+        it is very hot outside.                                 --> Dışarısı çok sıcak.
+        it is too hot outside to go for a walk.                 --> Dışarısı yürüyüşe çıkmak için çok sıcak. 
 
 
 ---> ADVERBS OF MANNER --- HOW?
@@ -156,19 +158,24 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     kindly = gently, equally, cautiously, faithfully, honestly, dramatically, fantastically, obscenely - bariz şekilde
 
     good = adjective, well = adverb
-    fast fast, hard hard, early early, late late
+           fast              fast
+           hard              hard
+           early             early
+           late              late
 
+    ADJECTIVE                                                  ADVERB
     She is a careful driver. (O dikkatli bir sürücüdür)    --> She drives carefully. (Dikkatlice araba sürer)
     My father is good at football. (Babam futbolda iyidir) --> He plays football well. (O iyi (iyi bir şekilde) futbol oynar)
 
-    My father drives carefully. (Babam dikkatli bir şekilde araba sürer.)
-    You should reply correctly. (Doğru bir şekilde yanıtlamalısın)
-    We were walking home quickly. (Çabuk bir şekilde eve yürüyorduk.)
-    The children are playing happily in the garden. (Çocuklar mutlu bir şekilde bahçede oynuyorlar)
-    They solved the problem easily. (Problemi kolayca çözdüler)
-    The cook cooked the dinner well. (Aşçı yemeği iyi bir şekilde pişirdi.)
-    Don’t drive fast. (Hızlı sürme)
-    You should study hard. (Sıkı çalışmalısın)
+    ADVERB
+    my father drives carefully.                     (Babam dikkatli bir şekilde araba sürer.)
+    you should reply correctly.                     (Doğru bir şekilde yanıtlamalısın)
+    we were walking home quickly.                   (Çabuk bir şekilde eve yürüyorduk.)
+    the children are playing happily in the garden. (Çocuklar mutlu bir şekilde bahçede oynuyorlar)
+    they solved the problem easily.                 (Problemi kolayca çözdüler)
+    the cook cooked the dinner well.                (Aşçı akşam yemeğini iyi bir şekilde pişirdi.)
+    don’t drive fast.                               (Hızlı sürme)
+    you should study hard.                          (Sıkı çalışmalısın)
 
 
 ---> ADVERBS OF QUANTITY 
@@ -176,10 +183,10 @@ COUNTABLE NOUNS
 MANY / MORE
     My neighbour has many cats and she wants more. 
 A LOT / LOTS
-    I want a lof of dogs and I want lots of cats too!
+    I want a lot of dogs and I want lots of cats too!
 FEW / FEWER
     There are just a few fairies left in the forest and soon there will be fewer.
-TOO MANY / TOO FEW
+TOO MANY != TOO FEW
     There are not too many people left on the island and there are too few old people.
 (NOT) ENOUGH
     You can’t have enough cats!
@@ -195,28 +202,30 @@ TOO MUCH / TOO LITTLE
     You spend too much time with your dogs and too little with your friends.
 (NOT) ENOUGH
     That’s enough happiness for a lifetime.
+    bir ömür boyu için yeterli mutluluk budur. 
 
 --> ADVERBS BEFORE ADJECTIVE
 TOO
-    This spell is too powerful, don’t use it indoors.
+    this spell is too powerful, don’t use it indoors.
 SO
-    It’s so powerful, it can turn a hundred people into zombies.
+    it’s so powerful, it can turn a hundred people into zombies.
 A LITTLE (BIT)
-    Be careful with that cat lady. She’s a little bit crazy.
+    be careful with that cat lady. She’s a little bit crazy.
 ENOUGH (comes after the adjective)
-    She’s a nice person, she’s just not friendly enough.
+    she’s a nice person, she’s just not friendly enough.
 (NOT) VERY
     I would say she’s very rude.
 QUITE
-    This forest is quite scary.
+    this forest is quite scary.
 RATHER
-    That dragon is rather scary, too.
+    that dragon is rather scary, too.
 PRETTY
-    It’s pretty dark in here.
+    it’s pretty dark in here.
     
     
     
 ---> ADVERBS OF DEFINITE FREQUENCY ---> HOW OFTEN?
+     BELİRLİ SIKLIK ZARFLARI 
 
     once        a day                   daily = everyday != nightly
     twice       a week                  weekly
@@ -226,8 +235,8 @@ PRETTY
                                         hourly
     
     every day/week/month/year           ever != never
-    every two days
-    every three weeks
+    every two days                       (+) != (-)
+    every three weeks                       hiç
     every six months
     
     - she visits the dentist twice a year
@@ -263,7 +272,5 @@ ADVERBS OF AFFIRMATION or NEGATION
 
 
 
+
 prepared by Uğur ARSLAN and His Students
-
-
-
