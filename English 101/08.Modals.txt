@@ -15,11 +15,11 @@ used to		-alışmak		(alışkanlık)	repeated action in the past
 
 PRESENT       	PAST		PERFECT
 -------------------------------------------------------
-can		could		could have V3
-will           	would		would have V3
-shall          	should		should have V3
-may            	might		might have V3
-must           	had to		must have V3
+can		could		could have V3			How could I have looked him in the face?
+will           	would		would have V3			I would have said I lack the bump of paternity
+shall          	should		should have V3			I should have been with them at the party tonight
+may            	might		might have V3			We might have done something to help you
+must           	had to		must have V3			He must have changed clothes during the night.
 have to       	had to		have to have V3
 				had to have V3
 
@@ -29,8 +29,12 @@ be supposed to		was/were supposed to
 --> COMPOUND MODALS
 will be able to		had been able to	might be able to
 will have to go		had had to be 		might have to
-would be able to			
+would be able to				would have to have V3 - I would have to have broken in.
 
+he will have to walk on a straight line
+he will have to live with the idea 
+You shouldn't have to go through this alone.
+You'll have to figure out the rest, first
 
 
 
@@ -60,9 +64,6 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- may I ask whether you are using the telephone?			(Permission)
 	- May the Force be with you 						(Possibility)
 	
-	- she wasn't supposed to be here	o burada olmamalıydı
-	- it could have gone better		daha iyi de gidebilirdi
-
 
 --> CAN
 	- Can you help me? (request)
@@ -74,9 +75,10 @@ could have participle		past unreal ability		he could have taken the flight		I co
 
 --> COULD
 	- I could do trigonometry six years ago. 	(past ability)
-	- Could i call you? 				(polite question)
-	- She could be here. / She couldn’t be here. 	(possibility / impossibility)
-	- You could try doing this. 			(suggestion)
+	- could i call you? 				(polite question)
+	- she could be here. / She couldn’t be here. 	(possibility / impossibility)
+	- you could try doing this. 			(suggestion)	
+	- it could have gone better			daha iyi de gidebilirdi
 
 --> BE ABLE TO	
 	- You were able to pass that exam with the help of the notes I gave you. (temporary ability)
@@ -125,8 +127,9 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- this should not have been done --> bu yapılmamalıydı
 
 --> BE SUPPOSED TO
-	- I'm supposed to be taking care of you - seninle ilgilenmem gerekiyor
-	- it was supposed to be me  - o ben olmalıydım
+	- I'm supposed to be taking care of you		seninle ilgilenmem gerekiyor
+	- it was supposed to be me			o ben olmalıydım
+	- she wasn't supposed to be here		o burada olmamalıydı
 
 --> MUST
 	- She must leave. (probability/logical assumption)
@@ -144,7 +147,7 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- I don’t have to get up early. (negative)
 	- She doesn’t have to clean the house (negative)
 
---> HAS/HAVE GOT TO	
+--> HAS/HAVE GOT TO			Alternative form of have to (“must")
 	- will you tell him he has got to be more considerate? - Daha anlayışlı olmasını söyleyecek misin?
 	
 --> HAD TO
@@ -175,6 +178,7 @@ he was getting used to getting to do
 
 you've got to ask yourself one question: 'Do I feel lucky?' 
 Why should I spend money by worrying, when I'll end up just as rich?
+
 
 
 prepared by Uğur ARSLAN and His Students
