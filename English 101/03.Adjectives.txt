@@ -1,7 +1,9 @@
 There are two types of modifiers: adjectives and adverbs.
 
+"the first step is always the hardest."
 "difficult roads lead to beautiful destinations"
 "I don't believe I have special talents. I have persistence."
+
 
 ---> ADJECTIVES
           IRREGULAR ADJECTIVES
@@ -46,7 +48,7 @@ successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasi
 positive != negative
 effective - etkili
 efficient - verimli, tasarruflu != inefficient
-sensitive - duyarlı, hassas, 
+sensitive - duyarlı, hassas
 
 -ABLE
 sensible - mantıklı, makul, duyarlı , trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
@@ -117,21 +119,20 @@ valid != invalid - geçerli
 
 ---> -ED / -ING	
 -> less/much interested = interesting
-interested = interesting      caressed = caressing – sevecen          condemned          
-amused = amusing              annoyed = annoying                      embrassed = embrassing
+interested = interesting      caressed = caressing – sevecen          glittering - göz alıcı          
+amused = amusing              annoyed = annoying                      bewildered - sersemlemiş, şaşırmış
 tired = tiring                bored = boring                          ashamed                
 concerned = concerning        excited = exciting                      defeated = defeating
 impressed = impressing        disturbed = disturbing                  unrequited
-confused = confusing          charmed = charming                      bewildered - sersemlemiş, şaşırmış, 
+confused = confusing          charmed = charming                      condemned
 depressed = depressing        entertained = entertaining              determined
 disgusted = disgusting        convinced = convincing – ikna edici     riveting
-involved = involving          captivated = captivating                glittering - göz alıcı
-fascinated = fascinating      frightened = frightening                blushing
-bloomed = blooming            coordinated = coordinating              
+involved = involving          captivated = captivating                blushing
+fascinated = fascinating      frightened = frightening                ongoing  - devam eden
+bloomed = blooming            coordinated = coordinating              incoming - gelen 
+embrassed = embrassing
 
-ongoing, incoming
-she is broken
-a martini. shaken, not stirred.
+
 
 --->  GET + ADJECTIVE = VERB (SIFAT FİİL)
 I got confused- kafam karıştı
@@ -158,47 +159,51 @@ it was shocking to see what the storm had done to the house
 we were shocked to see what the storm had done to the house
 
 
---> ADJECTIVE EXAMPLES
-nobody's perfect                        hiç kimse kusursuz değildir
-take it easy                            sakin ol, kolay gelsin
-easy-peasy                              çocuk oyuncağı
-manners maketh man                      tavırların seni adam yapar
-are you not entertained?                eğleniyor musun?
-he is distracted                        dikkati dağınık
-you are our national treasure           sen milli servetimizsin
-this is more serious than i thought     bu sandığımdan daha ciddidir
-dull and boring                         sıradan ve sıkıcı
-as usual, you turned up late again      her zamanki gibi, yine geç geldin
-we met earlier                          daha önce tanışmıştık
-you met me at a very strange time in my life.
-keep your friends close, but your enemies closer.
+--> ADJECTIVE PHRASAL EXAMPLES
+manners maketh man                                tavırlar (birini) adam yapar
+nobody's perfect                                  hiç kimse kusursuz değildir
+take it easy                                      sakin ol, kolay gelsin
+easy-peasy                                        çocuk oyuncağı
+keep your friends close, but your enemies closer. dostlarını yakın tut, ama düşmanlarını daha yakında tut 
+are you not entertained?                          eğleniyor musun?
+he is distracted                                  dikkati dağınık
+you are distrating me                             dikkatimi dağıtıyorsun
+you are our national treasure                     sen milli servetimizsin
+this is more serious than i thought               bu sandığımdan daha ciddi
+it was a dull and boring day                      sıradan ve sıkıcı bir gündü
+as usual, you turned up late again                her zamanki gibi, yine geç geldin
+I think, we met earlier                           sanırım, daha önce tanışmıştık
+body asleep, mind awake                           vücut uykulu, zihin uyanık
+light is the fastest thing we know                ışık bildiğimiz en hızlı şeydir
+a boy's best friend is his mother.                bir oğlanın en iyi arkadaşı annesidir
+you are the best friend I ever had.               en iyi arkadaşım sensin
+I will try to do my best                          yapacağımın en iyisini yapmayı denerim
+You are the worst person I've ever met            tanıdığım en kötü kişi sensin
+we needed a discreet place                        güvenilir bir yere ihtiyacımız vardı
+could you love me less?                           beni daha az sevebilir miydin?
+you met me at a very strange time in my life.     beni hayatımın en tuhaf zamanında tanıdın
+get money first, fall in love later               ilk önce para kazan, sonra aşık ol
+that's the stupidest thing I have ever heard      bu duyduğum en aptalca şey
+you got too reckless                              fazla pervasızlaştın
+no need to negotiate                              anlaşmaya gerek yok
+it is nonnegotiable                               tartışmaya açık değil
+the longer you play, the more you lose            ne kadar uzun oynarsan, o kadar fazla kaybedersin
+you are still thinking like a lone wolf           halen yalnız bir kurt gibi düşünüyorsun
+never mind, that guy’s incorrigible               boş ver, o adam iflah olmaz, düzeltilemez --> correct = düzgün, doğru
+he has juvenile anger                             genç öfkesine sahip
+you look so sad/mopish, what happened?            üzgün gözüküyorsun, ne oldu?
+she is broken                                     o kırılmış
+he is broke                                       o meteliksiz
+a martini. shaken, not stirred.                   bir martini, çalkalanmış ama karıştırılmamış
 I already know all of these, it is not necessary for me. It is necessary for you all
-Money is very powerful, but sometimes it’s more powerful to say no to it
+money is very powerful, but sometimes it’s more powerful to say no to it
 today, I consider myself the luckiest man on the face of the earth.
-a boy's best friend is his mother.
-you are the best friend I ever had. - En iyi arkadaşım sensin
-I will do my best - yapacağımın en iyisini yaparım
-You are the worst person I've ever met - tanıdığım en kötü kişisin
-that's the stupidest thing I have ever heard - duyduğum en aptalca şey
-could you love me less? - beni daha az sevebilir miydin?
-get money first, fall in love later
 it could have gone better - daha iyi gidebilirdi (well)
-the longer they play, the more they lose - ne kadar uzun oynarlarsa, o kadar fazla kaybederler
 as far as I am concerned, you are no longer welcome here
-light is the fastest thing we know - ışık bildiğimiz en hızlı şeydir
-we needed a discreet place - güvenilir bir yere ihtiyacımız vardı
-you got too reckless – fazla pervasızlaştın
-no need to negotiate - anlaşmaya gerek yok
-it is nonnegotiable - tartışmaya açık değil
-you are still thinking like a lone wolf - Halen yalnız bir kurt gibi düşünüyorsun
-first time i have been in school for three consecutive days
-sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
-That guy’s incorrigible – o adam iflah olmaz, düzeltilemez --> correct
-juvenile anger - genç öfkesi
-body asleep, mind awake - vücut uykulu, zihin uyanık
+first time i have been in school for three consecutive days           sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
 I am sleepy today = I am slumbery today
-you look so sad/mopish, what happened?
 call me later = ring me up later
+
 
 
 ---> SYNONYM and ANTONYM
