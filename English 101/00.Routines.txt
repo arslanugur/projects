@@ -94,7 +94,7 @@ to start off with	thirdly		afterwards
 
 
 
-Student Case:
+Student Case: CD
 I wake up at seven
 after waking up, I wash my face every morning
 I get dressed at half past seven
@@ -115,7 +115,7 @@ I read a book before going to bed
 I sleep at twelve
 
 
-Student Case:
+Student Case: M
 I wake up at fifteen to seven every morning but sometimes late
 I get up at half past seven because i like sleeping and then I get dressed and I wash my face and hands
 I tidy my bed and then I have breakfast at eight 
@@ -135,7 +135,7 @@ I listen to music before going to bed
 I go to sleep at eleven
 
 
-Student Case:
+Student Case: E
 I wake up at 6:30 every morning
 I get dressed at 7:55
 I make the bed at 9:50
@@ -152,7 +152,7 @@ I study at 19:00 in my room
 I go to bed at 23:00 or 23:30
 
 
-Student Case:
+Student Case: H
 I go to the course at 8:30 at weekend 
 I play football at weekend in the field
 Sometimes you play basketball with my friends
