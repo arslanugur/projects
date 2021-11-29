@@ -7,38 +7,38 @@ Present Simple             I do – yaparım                      	I don’t do 
                            s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
                            you do – yaparsın                   	you don’t do - Yapmazsın                    	do you do? - yapar mısın?
 
-Present Continuous         I am doing - yapıyorum              	I’m not doing					am i doing?
-                           s/he is doing - yapıyor             	s/he isn’t doing                            	is s/he doing?
-                           you are doing – yapıyorsun          	you aren’t doing                            	are you doing? - yapıyor musun
+Present Continuous         I am doing - yapıyorum              	I’m not doing - yapmıyorum			am i doing? - yapıyor muyum?
+                           s/he is doing - yapıyor             	s/he isn’t doing - yapmıyor                    	is s/he doing? - yapıyor mu?
+                           you are doing – yapıyorsun          	you aren’t doing - yapmıyorsun                 	are you doing? - yapıyor musun?
 
 Present Perfect            I have done - yaptım                	I haven't done - yapmadım			have I done - yaptım mı?                      
-                           s/he has done - yaptı		s/he hasn't done 				has s/he done?
-                           you have done - yaptın		you haven't done 				have you done?
+                           s/he has done - yaptı		s/he hasn't done - yapmadı			has s/he done? - yaptı mı?
+                           you have done - yaptın		you haven't done - yapamdın			have you done? - yaptın mı?
                                   
-Present Perfect Continuous I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım		have I been doing? 
-                           s/he has been doing			s/he has been doing				has s/he been dong?
-                           you have been doing			you haven't been doing				have you been doing?
+Present Perfect Continuous I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım		have I been doing? - yapmakta mıyım? 
+                           s/he has been doing - yapmakta	s/he has been doing - yapmamakta		has s/he been dong? - yapmakta mı?
+                           you have been doing - yapmaktasın	you haven't been doing - yapmamaktasın		have you been doing? - yapmakta mısın?
                                   
                                   
-Past Simple                I did – yaptım                      	I didn’t do – yapmadım                      	did I do?
-                           s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do?
-                           you did – yaptın                    	you didn’t do - yapmadın			did you do?
+Past Simple                I did – yaptım                      	I didn’t do – yapmadım                      	did I do? - yaptın mı?
+                           s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do? - yaptı mı?
+                           you did – yaptın                    	you didn’t do - yapmadın			did you do? - yaptın mı?
 
 Past Continuous            I was doing – yapıyordum            	I wasn’t doing - yapmıyordum                   	was I doing? - yapıyor muydum?
                            s/he was doing – yapıyordu          	s/he was doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
                            you were doing – yapıyordun         	you weren’t doing - yapmıyordun             	were you doing? - yapıyor muydun?
 	
-Past Perfect               I had done – yapmıştım              	I hadn’t done					had I done?
-			   s/he had done - yapmıştı		s/he hadn't done				had s/he done?
-			   you had done - yapmıştın		you hadn't done					had you done?
+Past Perfect               I had done – yapmıştım              	I hadn’t done - yapmamıştım			had I done? - yapmış mıydım?
+			   s/he had done - yapmıştı		s/he hadn't done - yapmamıştı			had s/he done? - yapmış mıydı?
+			   you had done - yapmıştın		you hadn't done - yapmamıştın			had you done? - yapmış mıydın?
 
-Past Perfect Cont.         I had been doing – yapmış oluyordum	I hadn’t  been doing				had I been doing?
-			   s/he had been doing - mış oluyordu	s/he hadnt been doing				had s/he been doing?
-			   you had been doing - mış oluyordun	you hadnt been doing				had you been doing?
+Past Perfect Cont.         I had been doing – yapmış oluyordum	I hadn’t  been doing - yapmış olmuyordum	had I been doing? - yapmış oluyor muydum?
+			   s/he had been doing - mış oluyordu	s/he hadnt been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
+			   you had been doing - mış oluyordun	you hadnt been doing - yapmış olmuyordun	had you been doing? - yapmış oluyor muydun?
 			   
-Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam		will I do?
-                           s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz		will s/he do?
-			   you will do - yapacaksın/yaparsın	you won't do - yapmayacaksın			will you do?
+Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
+                           s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
+			   you will do - yapacaksın/yaparsın	you won't do - yapmayacaksın			will you do? - yapacak mısın/yapar mısın?
 			   
 			   will have to do
 			   I will have to do – yapmak zorunda olacağım
