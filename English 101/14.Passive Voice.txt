@@ -1,12 +1,12 @@
 ---> PASSIVE VOICE (Edilgen)
-Tense	                      Active	                                      Passive V3
+Tense                       Active                                        Passive V3
 -----------------------------------------------------------------------------------------------------------
-Present Simple              He solves the problem	                        The problem is solved by him
+Present Simple              He solves the problem                         The problem is solved by him
 Present Continuous          She is making a cake                          A cake is being made by her
 Present Perfect             They have already discussed the book          The book has already been discussed
 Present Perfect Cont. *	  
 Past Simple                 Mercedes made this car                        This car was made by Mercedes
-Past Continuous	            The salesman was helping the customer	        The customer was being helped
+Past Continuous	            The salesman was helping the customer         The customer was being helped
 Past Perfect                I had made a cake                             A cake had been made by me
 Past Perfect Cont. *  
 Future Simple/Going to      The company will hire new workers             New workers will be hired by the company
