@@ -15,6 +15,7 @@ N --> no, I didn't go on holiday last summer
 
 ---> MAKING A QUESTION FOR PAST SIMPLE
 					        |	    S		      	|	V	|       V	  |     O     	|
+						|				|     Q / N	|       A	  |		|
 5 W 1 H			|     QUESTIONS 	|    	SUBJECT			|     VERB 1	|     VERB 2	  |   OBJECT	|
 ---------------------------------------------------------------------------------------------------------------------------------
 what			|   		            				|    need	|  needed         |
@@ -50,7 +51,18 @@ Q --> were you coming to her birthday party?
 A --> yes, I was coming...
 N --> no, I was not coming...
 
-      Signals: while, when, as, all morning/evening
+      Signals:	while	(iken)		while they were talking about the weather, she asked me a weird question
+      					for several seconds while the young man was taking his place on the step the silence continued
+					he looked intently at her while she was speaking.
+      		when			when she glanced at him, he was eyeing her
+					when he spoke, his voice was controlled.
+					I knew by the way she dressed when they were going out
+					when she woke again, the sun was shining on her face.
+		as			one day as he was riding through the woods, some British soldiers saw him.
+					as he realized they were leaving without her.
+					she was doing the same as he said
+		all morning/evening	Idk, he was working on a stupid thing all morning
+					last time I saw him, he was watching telly all evening
 
 
 ---> MAKING A QUESTION FOR PAST CONTINUOUS
@@ -90,8 +102,22 @@ Q --> had you finished that project?
 A --> yes, I had finished...
 N --> no, I had not finished...
 
-     Signals: before != after, already, just, for = since, till / until, when, by, by the time, never
-     She had the job she had planned for the last three years.
+     Signals:	before != after
+     		already			(çoktan, zaten)			almost everyone else had already left, so Bert and Ernie volunteered to help.
+									hadn't she already forgotten?
+		just			(demin, yeni, az önce)		he had just noticed that she was talking in vain.
+									she had just dreamt were exactly what she had seen in the mirror
+		for = since		(-dır, dir = den beri)		she had the job she had planned for the last three years.
+		till / until		(-e dek, -e kadar)		indeed, I feel as if I had never seen anything until now
+		when			(-dığı zman)			as always, he had been there when she needed him.
+		by			(-e kadar)			they had prepared the project by last monday 
+		by the time		(zamana kadar)			she had written 56 songs by the time they hit the studio.
+									over 160 million viewers worldwide had seen the movie by the time the sequel premiered in 2007.
+		never			(hiç)				as a child she had never thought about it.
+     
+     
+     
+     
 
 ---> MAKING A QUESTION FOR PAST PERFECT
 					        |	    S		|	 V	  |     O     	|
@@ -170,4 +196,3 @@ how well           	|						|    been telling	|
 
 
 prepared by Uğur ARSLAN and His Students
-
