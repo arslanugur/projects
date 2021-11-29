@@ -101,7 +101,7 @@ Might (Olasılık - Past)	   I might do – yapabilirdim              	I might n
 Should			   I should do – yapmam gerekli			I shouldn’t do				should I do?
 			   I should have done – yapmalıydım (maybe)	I shouldn't have done			should I have done?
 			   s/he should do				s/he shouldn't do			should s/he do?
-			   you should do				you shouldn't do			shoul you do?
+			   you should do				you shouldn't do			should you do?
 
 			   
 Must	                   I must do – yapmak zorundayım             	I mustn’t do - yapmamalıyım 		must I do?
@@ -172,20 +172,20 @@ Need to			   I need to do – yapmaya ihtiyacım var	I don’t need to do/I need
 			   s/he needs to do				s/he doesn’t need to do
 			   you
 			   	
-			   I will need to do			I won’t need to 	
+			   I will need to do				I won’t need to 	
 			   s/he
 			   you
 			   
-Try			   I try to do				I don’t try to do
-			   s/he tries to do			s/he doesn’t try to do
+Try			   I try to do					I don’t try to do
+			   s/he tries to do				s/he doesn’t try to do
 			   you try to do				you don’t try to do
 
 			   I tried to do				I didn’t try
-			   I am trying to do			I’m not trying to do	
+			   I am trying to do				I’m not trying to do	
 			   s/he
 			   you
 			   
-Prefer (Genel)		   I prefer doing to running – yapmayı tercih ederim	I don’t prefer doing
+Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
 			   I would prefer to travel by bus rather than by train
 			   s/he
 			   you
