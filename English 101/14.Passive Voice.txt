@@ -1,5 +1,5 @@
 ---> PASSIVE VOICE (Edilgen)
-Tense	                    Active	                                        Passive V3
+Tense	                      Active	                                      Passive V3
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem	                        The problem is solved by him
 Present Continuous          She is making a cake                          A cake is being made by her
@@ -17,36 +17,37 @@ Future Perfect Cont. *
 
 
 Modal	                    
-                            He has to solve the problem                         The problem has to be solved by me
-                            She must deliver the letters                        The letters must be delivered
-                            The manager should interview me                     I should have been intervied by the manager
+                            He has to solve the problem                   The problem has to be solved by me
+                            She must deliver the letters                  The letters must be delivered
+                            The manager should interview me               I should have been intervied by the manager
 Modal Perfect
-                            We should have shipped the goods                    The goods should have been shipped by us
-                            He might have served dinner                         Dinner might have been served
+                            We should have shipped the goods              The goods should have been shipped by us
+                            He might have served dinner                   Dinner might have been served
 
 
 
 EXAMPLES:
-the blunders are all there on the board, waiting to be made.. 
 she wasn't told - ona söylenmedi
-bullets only do their jobs after they are fired 
-The criminal was arrested as he came out of the bank.
-Interest rates will probably be increased next year.
-Who were you introduced to at the meeting? anyone interesting?
-The Christmas cakes are already being distributed.
-My grandfather was born in 1898.
-The grapes are picked in September. Then they are packaged and sent to shops.
-We haven’t been informed about the new price list yet.
-This book was written by John Grisham. Have you read it?
-When we arrived, our bags had already been taken to our room.
-Your shirts will have been washed and ironed by 6pm.
-My car was being cleaned when it started to rain.
-The ambulance drivers are helped by volunteers.
-The Cathedral was built in the 14th Century.
-The roads are cleaned once a week.
-The Gioconda was painted by Leonardo da Vinci.
-"Catch Me If You Can" was directed by Steven Spielberg.
 I was told to stay at home - evde kalmam söylendi
+the blunders are all there on the board, waiting to be made..
+the child that was not embraced by the village, will burn it down to feel its warmth
+bullets only do their jobs after they are fired 
+the criminal was arrested as he came out of the bank.
+interest rates will probably be increased next year.
+who were you introduced to at the meeting? anyone interesting?
+the Christmas cakes are already being distributed.
+my grandfather was born in 1898.
+the grapes are picked in September. Then they are packaged and sent to shops.
+we haven’t been informed about the new price list yet.
+this book was written by John Grisham. Have you read it?
+when we arrived, our bags had already been taken to our room.
+your shirts will have been washed and ironed by 6pm.
+my car was being cleaned when it started to rain.
+the ambulance drivers are helped by volunteers.
+the Cathedral was built in the 14th Century.
+the roads are cleaned once a week.
+the Gioconda was painted by Leonardo da Vinci.
+"Catch Me If You Can" was directed by Steven Spielberg.
 we were told not to leave the class - bize sınıftan dışarı çıkılmamamız söylendi
 
 
