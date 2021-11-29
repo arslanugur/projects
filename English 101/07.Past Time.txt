@@ -3,7 +3,15 @@ Q --> did you go on holiday last summer?
 A --> yes, I went on holiday last summer
 N --> no, I didn't go on holiday last summer
 
-      Signals: last ..., ... ago, ... 1990, yesterday
+      Signals:	last..		(geçen.., son)	my brother gave a very meaningful present to me last Sunday.
+      						it seems like years since I saw you last
+      		ago		(... önce)	this came in by currier a few minutes ago, sir.
+						I ate a while ago on my break.
+						their parents died a few years ago, she explained.
+						he learned a long time ago, that anyone who asks that question can't understand his answer anyway.
+		in 2019				I moved to barcelona in 2009 
+		yesterday			We got here yesterday, I guess
+						
 
 ---> MAKING A QUESTION FOR PAST SIMPLE
 					        |	    S		      	|	V	|       V	  |     O     	|
@@ -83,6 +91,7 @@ A --> yes, I had finished...
 N --> no, I had not finished...
 
      Signals: before != after, already, just, for = since, till / until, when, by, by the time, never
+     She had the job she had planned for the last three years.
 
 ---> MAKING A QUESTION FOR PAST PERFECT
 					        |	    S		|	 V	  |     O     	|
