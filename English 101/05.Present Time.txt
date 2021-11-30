@@ -232,24 +232,33 @@ A --> yes, I have been in Madrid
 N --> no, I have not/(never) been in Madrid
 
 	Present Perfect Signals: 
-		for 		(-dır, -dir)				- Olympics have been held for hundred twenty five years
-		since		(-den beri)				- Olympics have been held since 1896
-		already 	(zaten, çoktan)				- We have already seen this method work			
-		just 		( + henüz, yeni, demin)			- They may have just moved to Birmingham from another city
-		yet		( - henüz)				- Why, I have not yet had time to settle down!
-		always 		(her zaman)				- You always have been next to me and you always will be
+		for 		(-dır, -dir)				- he has been abroad for eight years
+		since		(-den beri)				- Olympics have been held since 1896 / for hundred twenty five years
+		already 	(zaten, çoktan)				- we have already seen this method work
+		still		(halen)					- I still haven’t reached my aim.
+		just 		( + henüz, yeni, demin)			- they may have just moved to Birmingham from another city
+		yet		( - henüz)				- I haven’t made up my mind, I have not yet had time to settle down!
+		always 		(her zaman)				- you always have been next to me and you always will be
 		so far		(şimdiye kadar)				- his ideas have become so far part of the common thought of the time
-		lately		(geçenlerde, son zamanlarda)		- 
-		recently	(son zamnalarda, yakınlarda)		- 
+		up to now	(şimdiye kadar)				- he has mended many cars up to now
+		until now	(şimdiye kadar)				- he has met with some highly people until now
+		lately		(geçenlerde, son zamanlarda)		- have you seen her lately? (not past simple)
+		recently	(son zamnalarda, yakınlarda)		- a new school has recently opened in New Road
 		never		(- hiç)					- I've never thought about it before
 		ever		(+ hiç)					- haven't you ever made a mistake?  
 									- you're the first girl who has ever accepted me for what I am.
-		how long	(ne kadar süre) 			- Exactly. How long have you been married?
-		today 		(bugün)					- Today has been quite breezy, which I love
-		this week/month (bu hafta/ay)				- 
-		
+		how long	(ne kadar süre) 			- exactly. How long have you been married?
+		today 		(bugün)					- today has been quite breezy, which I love
+		this morning/week/month/year				- I’ve written three letters this morning.
+		this term						- he hasn’t studied very hard this term
+		over the past/last few years		 		- prices have fallen sharply over the past six months
+		during the past/last few years				- he leased space by agreement with many companies during the last few months
+		in the past/last few years				- I’ve met a lot of people in the last few days.
+		before							- nothing like this has happened before
+	 
 		 
-		
+		 
+
 ---> MAKING A QUESTION FOR PRESENT PERFECT
 				        |	    S		|	V	|	O	|
 5 W 1 H		   |     QUESTIONS 	|    	SUBJECT		|      VERB	|     OBJECT	|
