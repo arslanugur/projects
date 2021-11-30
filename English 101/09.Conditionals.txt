@@ -4,9 +4,11 @@ CONDITIONALS
 - Type Two    (2) --      Less Possible
 - Type Three  (3) -       Impossible
 
+Extras
 - What if
 - Wish
-
+- Even if
+- Unless
 
 
 Type Zero (0): (General Truth)
@@ -40,12 +42,13 @@ Type Two (2): (Unreal Present)
               
               If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
-              - if there was a zombie invasion, we would eat each other   (Zombie istilası olsaydı, birbirimizi yerdik)
-              - if we bought two tickets, we would watch the film         (İki bilet satın alsaydık filmi izlerdik.)
-              - if she earned a lot money, she might go to France         (Çok kazansaydı Fransa’ya giderdi.)
-              - if he were listening to you, he couldn’t make a mistake   (Seni dinlemiş olsaydı hata yapmayabilirdi.)
-              - I would sleep until noon if I didn’t go to school         (Okula gitmeseydim öğleye kadar uyurdum.)
-              - if he were taller, he could be a basketball player        (daha uzun olsaydı, basketbol oyuncusu olurdu.)
+              - if there was a zombie invasion, we would eat each other       xombi istilası olsaydı, birbirimizi yerdik
+              - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
+              - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik.
+              - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi.
+              - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi.
+              - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum.
+              - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu.
               
               Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
                    Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
@@ -64,6 +67,35 @@ Type Three (3): (Unreal Past)
                 - If I had been more careful, I would have won the race.                            (Daha dikkatli olsaydım yarışı kazanabilirdim.) – pişmanlık
 
 
+
+What if --> peki ya .. sa
+          - what if he calls the doctor
+          - what if the seller still insisted the discount was impossible?
+          - what if you need an answer by Tuesday
+          - but what if you don't know what herbs and spices are good to use for different meals?
+          - if you're already dating someone, the answer is easy.. but what if you're not?
+
+Wish    --> keşke
+          - wish he called the doctor
+          - I wish you had called me.
+          - I wish you had said something earlier.
+          - wish you were here
+          - wish you had never come here.
+          - wish she could have seen this.
+          - wish me luck..
+
+Even if --> .. sa bile
+          - even if he calls the doctor
+          - they will not be injured, even if they are not wearing safety belts.
+          - I don't think you would have fallen in love with him, even if you weren't married.
+          - he respected his colleague, even if he didn't always like him.
+
+Unless  --> .. madıkça, tabi .. mıyorsa/mamışsa
+          - unless he calls the doctor
+          - unless he was planning on getting them!
+          - unless there was something wrong with it
+          - I'll go ahead, unless you prefer I don't?
+ 
 
 
 
@@ -86,22 +118,6 @@ Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olab
 
           - If Jane calls me, tell her I will be back. (Jane beni ararsa, ona döneceğimi söyle. -Arayabilir.) – Olabilir
           - When Jane calls me, tell her I will be back. (Jane beni aradığında, ona döneceğimi söyle. Arayacak.) – Olacağı kesin
-
-
-
-What if --> peki ya .. sa
-          - what if the doctor still insisted it was impossible?
-          - what if you need an answer by Tuesday
-          - but what if you don't know what herbs and spices are good to use for different meals?
-          - if you're already dating someone, the answer is easy.. but what if you're not?
-
-Wish    --> keşke
-          - I wish you had called me.
-          - I wish you had said something earlier.
-          - wish you were here
-          - wish you had never come here.
-          - wish she could have seen this.
-          - wish me luck..
 
 
 
