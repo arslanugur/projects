@@ -41,7 +41,8 @@ SINGULAR          Someone               there is someone at the door
                   Other                 he raised one arm and then the other
 
                   Another               we finally moved to another apartment
-                                        that slice of pie was good. Can I have another?
+                                        after all, tomorrow is another day!
+					that slice of pie was good. Can I have another?
 	
                   Less                  less is more
                   Little                many a little makes a mickle (many small amounts accumulate to make a large amount)
