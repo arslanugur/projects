@@ -66,7 +66,7 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	
 
 --> CAN
-	- Can you help me? (request)
+	- Can you help me? 					(request)
 	- I can play football, but I can not speak German. 	(ability)
 	- I know he can’t drive yet, but he can dream. 		(ability)
 	- We can stay home and watch telly tonight. 		(suggestion/giving an option) 
@@ -74,15 +74,15 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- but she can come back at any time - her an		(possibility)
 
 --> COULD
-	- I could do trigonometry six years ago. 	(past ability)
-	- could i call you? 				(polite question)
-	- she could be here. / She couldn’t be here. 	(possibility / impossibility)
-	- you could try doing this. 			(suggestion)	
-	- it could have gone better			daha iyi de gidebilirdi
+	- I could do trigonometry six years ago. 		(past ability)
+	- could i call you? 					(polite question)
+	- she could be here. / She couldn’t be here. 		(possibility / impossibility)
+	- you could try doing this. 				(suggestion)	
+	- it could have gone better				(past suggestion)
 
 --> BE ABLE TO	
-	- You were able to pass that exam with the help of the notes I gave you. (temporary ability)
-	- She isn’t able to move her arm. (temporary disability/negative situation)
+	- You were able to pass that exam with the help of the notes I gave you.	(temporary ability)
+	- She isn’t able to move her arm. 						(temporary disability/negative situation)
 	- I’m not able to ride a bike, my bike is broken.
 	- I can’t ride a bike, I’ve never learnt how.
 
@@ -105,7 +105,8 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- Will you let him? 								(polite question)
 
 --> WOULD	
-	- would you mind closing the door? (polite question)
+	- would you mind closing the door? 		(polite question)
+
 	INVITATIONS/PREFERENCES/DESIRES
 	- I would like a cup of tea.
 	- I would like to walk on the street.
@@ -114,15 +115,15 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- I’m not saying ‘I hate you’ but I would unplug your life support to charge my phone.
 
 --> SHALL
-	- Shall i help you with that? (offer)
-	- I shall meet you there this evening. (confirmation)
-	- You shall be the first person to know. (promises)
+	- Shall i help you with that? 			(offer)
+	- I shall meet you there this evening. 		(confirmation)
+	- You shall be the first person to know. 	(promises)
 
 --> SHOULD
-	- You should try this new dress. (recommend)
-	- You should be more careful where you loiter. (recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
-	- We should deal with this right now. (the right thing to do)
-	- He should be home soon but i’m not sure. (uncertain prediction)
+	- You should try this new dress. 		(recommend)
+	- You should be more careful where you loiter.	(recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
+	- We should deal with this right now. 		(the right thing to do)
+	- He should be home soon but i’m not sure. 	(uncertain prediction)
 	- this should not be done --> bu yapılmamalı
 	- this should not have been done --> bu yapılmamalıydı
 
@@ -132,27 +133,27 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- she wasn't supposed to be here		o burada olmamalıydı
 
 --> MUST
-	- She must leave. (probability/logical assumption)
-	- She must be stuck in traffic. (probability/logical assumption)
-	- There must be some mistake. (probability/logical assumption)
-	- You must be back by 11 o’clock. (necessity)
-	- You must not park your car here. (prohibition)
-	- You must not eat my food. (prohibition)
+	- She must leave. 			(probability/logical assumption)
+	- She must be stuck in traffic. 	(probability/logical assumption)
+	- There must be some mistake. 		(probability/logical assumption)
+	- You must be back by 11 o’clock. 	(necessity)
+	- You must not park your car here. 	(prohibition)
+	- You must not eat my food. 		(prohibition)
 
 --> HAS/HAVE TO	
-	- People have to have an identity card (necessity)
-	- If you want to see the sunshine, you have to weather the storm (necessity)
-	- I have to wear a tie at work. (obligation)
-	- She is a teacher. She has to make lesson plans (rules)
-	- I don’t have to get up early. (negative)
-	- She doesn’t have to clean the house (negative)
+	- People have to have an identity card 					(necessity)
+	- If you want to see the sunshine, you have to weather the storm 	(necessity)
+	- I have to wear a tie at work. 					(obligation)
+	- She is a teacher. She has to make lesson plans 			(rules)
+	- I don’t have to get up early. 					(negative)
+	- She doesn’t have to clean the house 					(negative)
 
 --> HAS/HAVE GOT TO			Alternative form of have to (“must")
 	- will you tell him he has got to be more considerate? - Daha anlayışlı olmasını söyleyecek misin?
 	
 --> HAD TO
-	- we had to work overtime yesterday. (past obligation)
-	- we had to wake up very early this morning because our bus was at seven am. (past necessity)
+	- we had to work overtime yesterday. 						(past obligation)
+	- we had to wake up very early this morning because our bus was at seven am.	(past necessity)
 
 
 
@@ -178,6 +179,7 @@ he was getting used to getting to do
 
 you've got to ask yourself one question: 'Do I feel lucky?' 
 Why should I spend money by worrying, when I'll end up just as rich?
+
 
 
 
