@@ -75,7 +75,8 @@ So is used to show a reaction or consequence.
 		- I told you so.***
 		
 	--> TOO 
-		- if you’re going to the mall, can I come too?
+		- 15 + 15 is thirty and 16 + 16 is thirty too
+                - if you’re going to the mall, can I come too?
 		- I love you too, sweetie. = me too.
 		- "Ah, you've come here too, young man!" he said
 		- Gill’s having chicken. I’ll probably have chicken too.
