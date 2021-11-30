@@ -203,6 +203,10 @@ embark on         start something new                               bir şeye at
 fail              failure                 failed                    başarısız olmak
 focus on          focus                   focused                   odaklanmak
 facilitate        facilitation            facile                    kolaylaştırmak, rahatlatmak, hafifletmek, olanak tanımak
+familiarise       familiarization         familiar                  tanımak, bilmek, aşina olmak --- tanıma -- tanıdık, bilinen, yakın
+                  familiarity                                       aşinalık, benzerlik
+                  family = aile
+                  parent = ebeveyn
 feel              feeling                 felt                      hissetmek
 financialize      finance                 financial                 finanse etmek
 flourish          flourish                flourishing               gelişmek, büyümek, güzelleşmek -- gelişen
