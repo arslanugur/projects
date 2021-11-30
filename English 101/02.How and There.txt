@@ -39,22 +39,24 @@ How many chairs do we need?
 
 
 ---> HOW MUCH (Uncountable)
-Rain, Snow, Air
-Bread, Milk, Cheese, Corn, Fruit
-Coffee, Tea, Soup, Rice, Sugar, Water
-Luggage, Furniture, Paper, Hair
-Anger, Love, Beauty, Safety
-Advice, Evidence, Knowledge, Information, Money
+Weather         --> Rain, Snow, Air
+Food            --> Bread, Cheese, Corn, Fruit, Rice, Sugar
+Drinks          --> Coffee, Milk, Tea, Soup, Water
+Materials       --> Luggage, Furniture, Paper, Hair
+Abstract        --> Anger, Love, Beauty, Safety, Advice, Evidence, Knowledge, Information, Money
 
-How much bread do you want to eat? (Ne kadar ekmek yemek istersin?)
-How much milk have we got?
-How much cheese is left in the fridge? (Buzdolabında ne kadar peynir kaldı?)
-There is some cheese in the fridge. (Dolapta biraz peynir var.)
-How much is this notebook? (Bu defter ne kadar?) - It’s 7 dollars.
-How much do you earn a day? (Bir günde ne kadar kazanıyorsun?)
-I earn 50 dollars a day. (Günde 50 dolar kazanıyorum.)
-How much does it cost? (Bu ne kadar tutuyor, bunun fiyatı nedir?)
-It costs 5 dollars. (5 dolar tutuyor.)
+How much bread do you want to eat?          Ne kadar ekmek yemek istersin?
+How much milk have we got?                  ne kadar süte sahibiz?
+How much cheese is left in the fridge?      Buzdolabında ne kadar peynir kaldı?
+There is some cheese in the fridge.         Dolapta biraz peynir var.
+How much is this notebook?                  Bu defter ne kadar?
+It’s 7 dollars.
+How much do you earn a day?                 Bir günde ne kadar kazanıyorsun?
+I earn 50 dollars a day.                    Günde 50 dolar kazanıyorum.
+How much does it cost?                      Bu ne kadar tutuyor, bunun fiyatı nedir?
+It costs 5 dollars.                         5 dolar tutuyor.
+
+
 
 --> Restaurant Fallacy
 A- how many burgers would you like?
@@ -72,9 +74,22 @@ time - kere, kez, defa    --> one time, two times, sometimes, a few times
 
 
 
----> QUANTIFIERS
-much --> no, a little, a bit of, some, a lot of, a great deal of, a large amount of, plenty of, lots of, tons of
-many --> no, a few, a number of, some, several, a lot of, a great number of, a large number of, plenty of, lots of, tons of
+---> QUANTIFIERS    (Nicelikler)
+MUCH + noun                                 MANY + nouns
+------------------------------------------------------------------------------
+much                  fazla                 many                  bir çok
+some (+)              biraz                 some                  bazı
+any  (-)              hiç                   any                   hiç
+no                    hiç, yok              no                    hiç, yok
+a little              biraz                 a few / several       birkaç
+a bit of              biraz                 a number of           bir dizi
+a great deal of       bir sürü              a great number of     çok sayıda
+a large amount of     çok miktarda          a large number of     çok sayıda
+plenty of             bolca, hayli          plenty of             bir sürü
+a lot of              bir sürü              a lot of              bir sürü
+lots of               bir sürü              lots of               bir sürü
+tons of               tonlarca              tons of               tonlarca     
+                                            
 
 
 
