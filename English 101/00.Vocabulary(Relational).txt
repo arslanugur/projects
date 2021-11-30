@@ -8,9 +8,11 @@ VERB              NOUN                    ADJECTIVE/ADVERB
 --------------------------------------------------------------------------
 ---> A
 be able to        ability in              -able                     beceri, yetenek, -ebilir
+                  capacity                capable of                bir şey yapabilme kapasitesi olmak 
                   talent, skill                                     yetenek 
 abound            abundance               abundant                  bolluk
 access            access                  accessible                erişmek, erişim
+accuse of                                                           suçlamak
 accept            acceptance              acceptable                kabul etmek, kabullenmek
 agree             agreement               agreeable                 kabul etmek, anlaşmak, hemfikir olmak, onaylamak
 accord            accordance              according to              uygun hale getirmek -- uygunluk -- -e göre --> according to me - bana göre
@@ -59,9 +61,10 @@ assemble
 resemble          resemblance                                       benzemek, benzetim
 assist            assistance              assistant                 yardım etmek -- yardım -- yardımcı, asistan
 insist            insistence
-consist       
+consist of                                                          bir şeyden oluşmak 
 resist            resistance                                        direnmek
 persist           persistence
+
 
 
 ---> B
@@ -76,10 +79,14 @@ bargain for       expect = prepared for                             bir şey bek
 borrow from                                                         ödünç almak
 lend to                                                             ödünç vermek
                   brevity = courageous    brave of                  cesaretli olmak 
+aware of          awareness                                         birinin yada bir şeyin farkında olmak 
+beware of                                                           dikkatli olmak 
 
                   
                   
 ---> C
+cause of          cause                   because of                bir şeye sebep olmak
+                                          causative
 collaborate       collaboration           collaborative             iş birliği yapmak, el ele vermek, birlik olmak
 coordinate        coordination            coordinator               koordine etmek, düzenlemek, uyum sağlamak
 cooperate         cooperation             cooperative
@@ -97,7 +104,8 @@ assist            assistance              assistant                 yardım etme
 contain           containment                                       içermek
 contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
 concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
-convince          conviction*             convincing                ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
+convince of       conviction*             convincing                doğruluğuna ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
+convict of                                                          birini bir şeyden dolayı mahkum etmek 
 confide           confidence              self confident            güvenmek -- güven -- kendine güvenen
                   fidelity                                          sadakat
                   loyalty                 loyal                     sadakat -- sadık
@@ -117,9 +125,9 @@ connect           connection              connector/connected       başlantı k
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
 conceal           concealment                                       gizlemek, saklamak, örtmek, örtbas etmek
-choose            choice                  chosen                    seçmek -- seçim -- seçilmiş
+choose            choice of               chosen                    seçmek -- seçim -- seçilmiş
 communicate       communication           communicative             iletişim kurmak -- iletişim
-complain          complaint                                         şikayet etmek -- şikayet
+complain of       complaint                                         şikayet etmek -- şikayet, bir şeyden yakınmak 
 confess           confession                                        itiraf etmek -- itiraf
                   crime                   criminal                  suç -- suçlu
 controverse                               controversial             tartışmak, çekişmek
@@ -129,6 +137,9 @@ controverse                               controversial             tartışmak,
                                           perverse                  huysuz, inatçı
 commit            commitment              committed                 kendini adamak
 sacrifice         sacrifice                                         kurban etmek
+
+
+
 
 
 ---> D
@@ -150,6 +161,7 @@ determine         determination           determined                belirlemek, 
                   distinction             distinctive               ayrım, farklılık
                                           deficient in              bir şeyde eksik olmak
                                           lack in sth               bir şeyde eksik olmak 
+die of            death                   died                      ölmek 
 
 
 differ in         difference              different                 farklı olmak, farklılaştırmak, ayırt etmek -- farklılık, değişiklik
@@ -715,32 +727,21 @@ rude to             offensively impolite to sb e kaba olmak
 
 
 OF
-accuse of           to charge sb with doing sth wrong birini suçlamak 
-aware of            having knowledge of a situation or sb birinin yada bir şeyin farkında olmak 
-beware of           to be careful sth dikkatli olmak 
+
 approval of         accept sth is good bir şeyin onaylanması durumu 
 ashamed of          be embrassed because of sth bir şeyden utanmak 
 afraid of           feel fear of sth bir şeyden korkmak 
 assure of           tell someone something positively to dispel any doubts birine güvence vermek 
-capable of          having the ability to do sth bir şey yapabilme kapasitesi olmak 
-careless of         not concerned or worried about sth bir şeye dikkatsiz/ilgisiz olmak 
-cause of            make sth happen bir şeye sebep olmak 
+careless of         not concerned or worried about sth bir şeye dikkatsiz/ilgisiz olmak  
 certain of          having no doubt or knowing exactly that something is true bir şeyden emin olmak 
 characteristic of   a quality or feature of sth bir şeyin özelliği 
-
-
-choice of           an act of choosing of sb or sth birinin yada bir şeyin seçimi 
 conscious of        having knowledge of sth bir şeyin bilincinde olmak 
-consist of          to be made of or formed from sth bir şeyden oluşmak 
 deprive of          to take sth away from sb or sth birini veya bir şeyi başka bir şeyden mahrum bırakmak 
-convict of          declare sb to be guilty of a criminal offence in a court law birini bir şeyden dolayı mahkum etmek 
-convince of         cause sb to believe firmly in the truth of something birini bir şeyin doğruluğuna ikna etmek/inandırmak
 desirous of         having or expressing desire for sth bir şeyi arzu etmek 
 despair of          to give up or lose all hope about sth bir şeyden ümidini kesmek 
-complain of         to say that you have a pain bir şeyden yakınmak 
 composed of         be made of sth bir şeyden oluşmak 
 conceive of         to think about sth bir şey hakkında düşünmek 
-die of              to die because of sth den-dan ölmek 
+
 disadvantage of     to be at the expense of sb or sth birinin yada bir şeyin zararına olmak 
 disapprove of       to believe that sb or sth is bad or wrong bir şeyi yada birini uygun bulmamak/onaylamamak 
 dispose of          to get rid of sb or sth bir şeyden yada birinden kurtulmak/elden çıkarmak 
