@@ -4,35 +4,36 @@ CONDITIONALS
 - Type Two    (2) --      Less Possible
 - Type Three  (3) -       Impossible
 
-Extras
+Extra Conditionals
 - What if
 - Wish
+- If only
+- Only if
 - Even if
 - Unless
 
 
 Type Zero (0): (General Truth)
-              Herkesin doğru kabul ettiği kesin durumları/gerçek olayları anlatırken
+              Herkesin doğru kabul ettiği kesin durumları/gerçek olayları ifade eder.
 
               If + Present Simple, Present Simple
 
-              - if it snows, the roads get slippery.                      (Kar yağarsa yollar kayganlaşır.)
-              - if you don’t eat your meal, your mother gets angry.       (Yemeğini yemezsen annen kızar.)
-              - if you drink cold water, you get sick.                    (Soğuk su içersen hasta olursun.)
-              - if the satellite is slightly closer, the tidal bulge grows.
+              - if it snows, the roads get slippery.                          kar yağarsa yollar kayganlaşır
+              - if you don’t eat your meal, your mother gets angry.           yemeğini yemezsen annen kızar
+              - if you drink cold water, you get sick.                        soğuk su içersen hasta olursun
+              - if the satellite is slightly closer, the tidal bulge grows.   eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
 
 Type One (1): (Real Present)
               Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
 
               If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
               
-              - if you are adding value to others, the result will come   (eğer diğer insanlara değer katıyorsan, sonucu gelir)
-              - if you don’t get off the tree, you will fall.             (Ağaçtan inmezsen düşeceksin.)
-              - if we have worked hard, we can finish the project.        (Çok çalışırsak projeyi bitirebiliriz.)
-              - you must study the exam, if you see him.                  (Onu görürsen sınava çalışmalısınız.)
-              - if she has money, she will travel.                        (Parası olsa seyahat eder.)
-              - if it snows, schools will be closed                       (kar yağarsa, okullar kapanacak)
-              - if he wins the lottery, he'll get you a phone             (lotoyu tuturursa, sana telefon alacak)
+              - if you are adding value to others, the result will come       eğer diğer insanlara değer katıyorsan, sonucu gelir
+              - if you don’t get off the tree, you will fall                  ağaçtan inmezsen düşeceksin
+              - if we have worked hard, we can finish the project             çok çalışırsak projeyi bitirebiliriz
+              - if he has money, he will travel. he is broke in debt          parası olsa seyahat eder, borç batağında beş kuruşu yok
+              - I bet, if it snows, schools will be closed                    bahse varım, kar yağarsa, okullar kapanacak
+              - if he wins the lottery, he'll get you a phone                 lotoyu tutturursa/kazanırsa, sana telefon alacak
 
 
 Type Two (2): (Unreal Present)
@@ -42,7 +43,7 @@ Type Two (2): (Unreal Present)
               
               If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
-              - if there was a zombie invasion, we would eat each other       xombi istilası olsaydı, birbirimizi yerdik
+              - if there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
               - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
               - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik.
               - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi.
@@ -82,7 +83,15 @@ Wish    --> keşke
           - wish you were here
           - wish you had never come here.
           - wish she could have seen this.
-          - wish me luck..
+          - wish me luck ..
+
+If only --> keşke
+          - if only he called the doctor
+          - if only his mother were alive now.
+
+Only if --> ancak, yalnızca, sadece
+          - she would be cured, only if the doctor who she loves is called
+          - he was willing to continue the service only if the use of the weapons should be dropped
 
 Even if --> .. sa bile
           - even if he calls the doctor
@@ -118,6 +127,7 @@ Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olab
 
           - If Jane calls me, tell her I will be back. (Jane beni ararsa, ona döneceğimi söyle. -Arayabilir.) – Olabilir
           - When Jane calls me, tell her I will be back. (Jane beni aradığında, ona döneceğimi söyle. Arayacak.) – Olacağı kesin
+
 
 
 
