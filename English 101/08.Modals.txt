@@ -73,6 +73,7 @@ could have participle		past unreal ability		he could have taken the flight off
 	- We can stay home and watch telly tonight. 		(suggestion/giving an option) 
 	- That can’t be her. 					(impossibility)
 	- but she can come back at any time - her an		(possibility)
+	- how can you bear that on your conscience		nasıl o vicdan yükünü taşıyorsun?
 
 --> COULD
 	- I could do trigonometry six years ago. 		(past ability)
@@ -104,16 +105,46 @@ could have participle		past unreal ability		he could have taken the flight off
 	- I will give money to charity this new year. 					(promise/willingness)
 	- Will you have a piece of cake?						(polite question)
 	- Will you let him? 								(polite question)
+	- I will use the other office from now on	artık diğer ofisimi kullanacağım
+	- I won’t use this office anymore		artık bu ofisi kullanmayacağım
 
---> WOULD	
-	- would you mind closing the door? 		(polite question)
 
-	INVITATIONS/PREFERENCES/DESIRES
-	- I would like a cup of tea.
+--> WOULD
+	Invitations / Preferences / Desires
+	- I would like a cup of tea.						* to like - hoşlanmak, hoşuna gitmek
 	- I would like to walk on the street.
 	- (Which) Would you prefer apples or oranges?
 	- What would be the first song you want played at your funeral?
 	- I’m not saying ‘I hate you’ but I would unplug your life support to charge my phone.
+ 	- the world could crumble and she wouldn't notice anything
+
+
+
+	would you mind (if) .. - sakıncası var mı?				* to mind - kafaya takmak, aldırmak, aldırış etmek, karşı çıkmak
+				- would you mind closing the door? 		(polite question)
+				- would you mind if I left the meeting early?	(polite question)
+
+
+
+
+	prefer			--> I prefer walking to running – yürümeyi koşmaya tercih ederim
+		(genel)
+	would prefer ... (than)	--> I would prefer to travel by bus rather than by train
+				--> I would prefer for everyone to assemble at one time, instead of meeting each individual separately.
+				    herkesin aynı anda bir araya gelmesini tercih ederim, her bireyle ayrı ayrı buluşmak yerine
+				--> most English people would prefer to be in the middle of the Atlantic rather than just offshore, rather like Atlantis.
+				    İngilizlerin çoğu, Atlantis gibi açık denizde olmaktansa Atlantik'in ortasında olmayı tercih ederdi. 
+
+
+	would rather ... (than)	--> I would rather stay than go					gitmektense kalmayı tercih ederim
+				--> he is going to sell his car, but I’d rather he didn’t
+				--> I would rather go now before it gets too dark.		hava iyice kararmadan şimdi gitmeyi tercih ederim. 
+	would sooner ... (than)	--> I would sooner go now before it gets too dark.		hava iyice kararmadan şimdi gitsem iyi olacak.
+		(anlık)		--> he would sooner buy an opponent a drink in a pub than take their head
+	would just as soon	--> I would just as soon starve than eat there again.		orada tekrar yemek yemektense açlıktan ölürüm. 
+	 
+
+
 
 --> SHALL
 	- Shall i help you with that? 			(offer)
@@ -157,30 +188,45 @@ could have participle		past unreal ability		he could have taken the flight off
 	- we had to wake up very early this morning because our bus was at seven am.	(past necessity)
 
 
-
----> EXTRAS
---> WANT TO
-	- I don’t want to run into him - Ona rastlamak istemiyorum
-	- I don't want to get involved - Ben karışmak istemiyorum
-
---> NEED TO	
-	- Being smart isn’t enough, you need to fit in. (recommend) - Akıllı olmak yetmez, uyum içinde olmalısın
-	- Of course I talk to myself. Sometimes I need expert advice. (necessary)
-	- He needed to learn for himself - yaşayarak ögrenmesi gerekiyordu
-	- we don't need no education, we don't need no thought control
-
---> TRY TO
-
 --> MANAGED TO	uğraş sonucu elde edilen başarı
 	- Somehow she managed to take a few steps, and then a few more - fury driving her on.
 	- he tried to talk, but he only managed to cough.
 	
 --> HAD BETTER	
 
-he was getting used to getting to do
 
-you've got to ask yourself one question: 'Do I feel lucky?' 
-Why should I spend money by worrying, when I'll end up just as rich?
+--> HAVE GOT TO 
+
+
+--> Extras
+	- he was getting used to getting to do
+	- you've got to ask yourself one question: 'Do I feel lucky?' 
+	- why should I spend money by worrying, when I'll end up just as rich?
+
+
+
+
+
+
+---> COMMON VERBS
+--> WANT
+	- I don’t want to run into him						ona rastlamak istemiyorum
+	- I don't want to get involved						ben karışmak istemiyorum
+	- we dont want to cause a scene						olay çıkarmak istemeyiz
+	- nobody in their right mind would want to be treated like that		hiç kimse kendisine böyle davranılmasını istemez
+	- do you want to hang out again some time?				bir ara tekrar dışarda takılalım mı?
+
+--> NEED	
+	- Being smart isn’t enough, you need to fit in.				akıllı olmak yetmez, uyum içinde olmalısın			(recommend)
+	- Of course I talk to myself. Sometimes I need expert advice.		tabi ki kendimle konuşurum. bazen uzman önerisine ihtiyacım var	(necessary)
+	- He needed to learn for himself					yaşayarak ögrenmesi gerekiyordu
+	- we don't need education, we don't need thought control		eğitime ihtiyacmız yok, düşünce kontrolüne ihtiyacmız yok
+	- we don't need no education, we don't need no thought control		eğitimsizliğe ihtiyacmız yok, düşünce kontrolsüzlüğüne ihtiyacmız yok  
+
+--> TRY
+	- 
+	- 
+	- 
 
 
 
