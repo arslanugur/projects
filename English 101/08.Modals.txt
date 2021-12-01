@@ -6,7 +6,7 @@ shall		-acak, -ecek		(niyet)		intention, supposition
 will		-acak, -ecek		(istek)		wish, desire, will, confidence, in the future
 ought to	-malı, meli		(görev)		moral duty, insistent advice, strict recommendation
 need		-malı, meli		(ihtiyaç)	necessity, unnecessity
-be to		-malı, meli		(zorundalık)	obligation aarising out of arrangement or agreement
+be to		-malı, meli		(zorundalık)	obligation arising out of arrangement or agreement
 have to		-mak zorunda olmak	(zorundalık)	unwillingness, forced circumstances
 would		-acaktı, -ecekti	(ihtimal)	wish (with 'to like'), polite request, a habit of the past
 should		-malı, meli		(gereklilik)	necessity, advice, blame, recommendation, reproach, regret
@@ -45,7 +45,8 @@ may have participle		past unreal possibility		we may have passed the math exam, 
 might have participle		past unreal small probability	you might have sold the car, if you really needed the money
 would have participle		past unreal action		if I had guessed the future, I would have taken some precautions against what would happen
 should have participle		past unreal recommendation	you should have listened to the teacher
-could have participle		past unreal ability		he could have taken the flight		I could have lied to you
+could have participle		past unreal ability		he could have taken the flight off
+								I could have lied to you
 
 
 ---> EXAMPLES
@@ -61,7 +62,7 @@ could have participle		past unreal ability		he could have taken the flight		I co
 	- Things can get crazy around here sometimes.				(Possibility)
 	- to be healthy, a plant has to receive a good supply of sunshine.	(Necessity)
 	- would you help me to carry this heavy suitcase?			(Request)
-	- may I ask whether you are using the telephone?			(Permission)
+	- may I ask whether you are using email or not?				(Permission)
 	- May the Force be with you 						(Possibility)
 	
 
