@@ -1,7 +1,7 @@
 GERUND  --> preposition + gerund
 admit           kabul etmek, itiraf etmek
 anticipate
-appreciate
+appreciate      takdir etmek
 avoid           kaçınmak
 begin           başlamak
 start           başlamak
@@ -11,13 +11,13 @@ complete        tamamlamak
 finish          bitirmek
 contemplate
 deny            reddetmek
-delay
+delay           ertelenmek
 postpone        ertelemek
 detest
-discuss
-dislike
+discuss         tartışmak
+dislike         hoşlanmamak
 escape          kaçmak, kurtulmak, firar etmek
-enjoy
+enjoy           keyfini çıkarmak
 excuse*         
 finish          bitirmek
 involve         kapsamak
@@ -25,9 +25,9 @@ imagine         hayal etmek
 keep            tutmak, korumak, muhafaza etmek
 look forward to dört gözle beklemek, iple çekmek
 lose            kaybetmek
-mean
+mean            anlamına gelmek, kasdetmek
 mind            kulak vermek, kafaya takmak
-miss
+miss            ıskalamak, özlemek
 mention         bahsetmek, ima etmek
 practise 
 risk            riske atmak
@@ -36,7 +36,7 @@ recollect (remember)
 recommend
 suggest         önermek
 resent
-resist
+resist          direnmek
 suggest 
 stop            durmak, bırakmak
 suffer          katlanmak
@@ -212,5 +212,3 @@ the point of        ın gereği, nın anlamı (yok)
 
 
 prepared by Uğur ARSLAN and His Students
-
-
