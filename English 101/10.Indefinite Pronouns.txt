@@ -1,92 +1,92 @@
-                  Pronoun               Example
+
+		Pronoun		Turkish			Example
 ------------------------------------------------------------------------------------------
-SINGULAR          Someone               there is someone at the door
-                  Somebody              somebody is knocking at the door
-                  Something             something makes me want to dance                    Listen! I just heard something. What could it be?
-                  Somewhere	        I would like to go somewhere this summer
+SINGULAR        someone		biri			there is someone at the door
+                somebody	birisi			somebody is knocking at the door
+                something	bir şey	        	something makes me want to dance                    Listen! I just heard something. What could it be?
+                somewhere	bir yer      		I would like to go somewhere this summer
 
-                  Anyone                I swear I will not tell anyone this secret          Does anyone here speak Spanish?
-                  Anybody               anybody can dance on the floor of dancing
-		  			anybody who wants to talk may leave
-                  Anything              anything is possible if you believe
-                                        she doesn’t have anything to eat for lunch
-                                        I was unable to hear anything last night after the blast
-                                        is there anything in this bag?
-                  Anywhere
+                anyone        	herhangi biri   	I swear I will not tell anyone this secret          Does anyone here speak Spanish?
+                anybody       	herhangi birisi 	anybody can dance on the floor of dancing
+		  					anybody who wants to talk may leave
+                anything      	herhangi bir şey	anything is possible if you believe
+                                        		she doesn’t have anything to eat for lunch
+                                        		I was unable to hear anything last night after the blast
+                                        		is there anything in this bag?
+                anywhere	herhangi bir yer
                   
-                  No one                no one can cope with her in English                 No one will help you in this situation
-                  Nobody                nobody watches telly (tv) anymore                   I am lonely. I have nobody to talk to
-                  Nothing               nothing is impossible to a willing heart            Nothing is left in front of me to tell you the truth
-                  Nowhere               we went nowhere this weekend. We stayed home
+                none (no one)	hiç biri        	no one can cope with her in English                 No one will help you in this situation
+                nobody        	hiç birisi        	nobody watches telly (tv) anymore                   I am lonely. I have nobody to talk to
+                nothing       	hiçbir şey        	nothing is impossible to a willing heart            Nothing is left in front of me to tell you the truth
+                nowhere       	hiçbir yer        	we went nowhere this weekend. We stayed home
 
-                  Everyone              everyone cheered for the violinist at our school concert
-                                        everyone knows something about that incident/accident       Everyone seems to be happy but her
-                  Everybody
-                  Everything            everything is going as planned
-                  Everywhere            I checked everywhere to find my keys
-
-                  Every                 I heartily congratulate every player on this team
-                  Each	                each company is fighting to protect its own commercial interests
-                                        each of them purchased chocolate from my shop
-                                        each will have his or her own seat
+                everyone	herkes			everyone cheered for the violinist at our school concert
+				her biri	        everyone knows something about that incident/accident
+							everyone seems to be happy
                   
-                  Either                either one will be fine birinden biri ikisinden biri
-                                        either one will be died soon 
-                                        either of us can go to the grocery
-                  Neither               neither(hiçbir) side is prepared to compromise (kompırmayz)
+		everybody	herkes
+                everything    	her şey		        everything is going as planned
+                everywhere    	her yer        		I checked everywhere to find my keys
 
-                  One                   one of the boys tripped over and crashed into a tree – which one is 
-                                        he is the chosen one
+                every         	her        		I heartily congratulate every player on this team
+                each		her bir, her biri      	each company is fighting to protect its own commercial interests
+                                        		each of them purchased chocolate from my shop
+                                        		each will have his or her own seat
+                  
+                either		ikisinden biri		either one will be fine 
+                                        		either one will be died soon 
+                                        		either of us can go to the grocery
+                neither		ikisinden hiç biri	neither side is prepared to compromise (kompırmayz)
 
-                  Other                 he raised one arm and then the other
+                one		biri, birisi		one of the boys tripped over and crashed into a tree – which one is 
+                                        		he is the chosen one
 
-                  Another               we finally moved to another apartment
-                                        after all, tomorrow is another day!
-					that slice of pie was good. Can I have another?
-	
-                  Less                  less is more
-                  Little                many a little makes a mickle (many small amounts accumulate to make a large amount)
-                  Much                  much has happened since we met
+                other		diğeri			he raised one arm and then the other
+
+                another		bir diğer, başka	we finally moved to another apartment
+                                        		after all, tomorrow is another day!
+							that slice of pie was good. Can I have another?
+							
+                less		daha az şey / miktar	less is more
+                little		ufak şey, daha az	many a little makes a mickle (many small amounts accumulate to make a large amount)
+                much		çok şey			much has happened since we met
 
 
 PLURAL
-                  Both	                both are guilty
-                                        get both of you out of my classroom
-                                        She likes juice but not milk. I think both are good
+                both		her ikisi de		both are guilty
+                                        		get both of you out of my classroom
+                                        		she likes juice but not milk. I think both are good
 
-                  Few	                  A few of the justices voiced their opposition
-                                        Few are as brave as you
-                  Fewer                 Fewer are smoking these days
-                  Many # Some           Many people feel that the law should be changed
+                few		birkaç, az miktar       a few of the justices voiced their opposition
+                                        		few are as brave as you
+                fewer		daha azı              	fewer are smoking these days
+                many # some	birçok # bazı		many people feel that the law should be changed
                   
-                  Others                Depend on others and you always repent
-                  Several               Several letters arrived this morning
-                                        Several people came to the stadium to see the match
+                others		diğerleri		depend on others and you always repent
+                several		birkaç, birçok          several letters arrived this morning
+                                        		several people came to the stadium to see the match
   
-                  Enough	              Enough is enough
-                                        If there aren’t enough people, we will call you
+                enough		yeterli miktar		enough is enough
+                                        		If there aren’t enough people, we will call you
+
 
 SINGULAR - PLURAL
-                  All                   All of the newspapers were soaked
-                                        All of them are experts in their chosen field
-                                        From my point of view, all are equal
-                  Any                   Any press is good press
-                                        Any will do
-                  More	                More were ignored
-                                        More is better
-                  Most	                Most was rotten
-                                        Most would agree
-                                        Most of the students are participating in cultural events
-                  None	                None of us was going to the party
-                                        She waited for a reply, but none came
-                  Some	                Here is some
-                                        We showed them some of our photos
-                  Such	                Such is life
-                                        Such were the joys
-
-
-
-
+                  all		hepsi, her şey		all of the newspapers were soaked
+                                        		all of them are experts in their chosen field
+                                        		from my point of view, all are equal
+                  any           herhangi bir  		any press is good press
+                                        		any will do
+                  more	        çok, çoğu, fazlalığı	more were ignored
+                                        		more is better
+                  most	        çoğu, en fazlası	most was rotten
+                                        		most would agree
+                                        		most of the students are participating in cultural events
+                  none	        hiç, hir kimse, hiçbiri	none of us was going to the party
+                                			she waited for a reply, but none came
+                  some		bazı, bazıları, kimi    here is some
+                                        		we showed them some of our photos
+                  such		bu gibi, o gibi, böyle	such is life
+                                        		such were the joys
 
 
 
