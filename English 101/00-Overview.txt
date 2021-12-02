@@ -122,14 +122,14 @@ Had to	                   I had to do – yapmak zorundaydım		I didn’t have t
 			   you had to do				you hadn't to do			did you have to do?				
 
 			   ------------------------------------------------------------------------------------------------------------------------------
-Used to V1		   I used to do – yapardım                	I didn’t use to do – yapmazdım	      Did you use to do? – (Eskiden) Yapar mıydın?
-        (eskiden)          I used to be able to do – yapabilirdim	
-			   s/he used to do
-			   you used to do
+Used to V1		   I used to do – yapardım                	I didn’t use to do – yapmazdım	      	did you use to do? – (Eskiden) Yapar mıydın?
+        (eskiden)          I used to be able to do – yapabilirdim	I didn't use to able to do		did I use to able to do? - 
+			   s/he used to do				s/he didn't use to do			did she use to do? - 
+			   you used to do				you didn't used to do			did you use to do? - 
 			   
-Be used Ving	           I am used to doing - yapmaya alışığım (Present) I’m not used to doing	yapmaya alışık değilim
-	(alışık olmak)	   s/he is used to doing
-			   you are used to doing
+Be used Ving	           I am used to doing - yapmaya alışığım (Present) I’m not used to doing - yapmaya alışık değilim
+	(alışık olmak)	   s/he is used to doing			s/he isn't used to doing		is s/he used to doing
+			   you are used to doing			you aren't used to doing		are you used to doing
 			   I was used to doing – yapmaya alışmıştım (Past)
                            I will be used to doing – yapmaya alışacağım (Future)	
 			   
@@ -138,14 +138,14 @@ Get used Ving	           I get used to doing – yapmaya alışırım (Pre. Sim.
          (gittikçe)        I got used doing – yapmaya alıştım (Past Sim.)      I didn’t get used doing
                            I am getting used doing – yapmaya gittikçe alışıyorum (Pres. Cont.)
                            I was getting used doing – yapmaya gittikçe alışıyordum (Past Cont.)	I wasn’t getting used doing
-			   s/he
-			   you
+			   s/he gets used to doing
+			   you are getting used to doing
 			   ---------------------------------------------------------------------------------------------------------------------------------
 Had better	           I had better do - yapsam iyi olur	        I had better (not) study Maths	
 			   s/he had better do				s/he had better not do
 			   you had better do				you had better not do
 
-Be supposed to		   I am supposed to do				I am not supposed to do				
+Be supposed to		   I am supposed to do - yapmam gerekiyor	I am not supposed to do				
 			   s/he is supposed to do			s/he is not supposed to do
 			   you are supposed to do			you are not supposed to do
 
@@ -170,11 +170,11 @@ Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yap
 			   
 Need to			   I need to do – yapmaya ihtiyacım var	I don’t need to do/I need not to do
 			   s/he needs to do				s/he doesn’t need to do
-			   you
+			   you need to do
 			   	
 			   I will need to do				I won’t need to 	
-			   s/he
-			   you
+			   s/he will need to do
+			   you will need to do
 			   
 Try			   I try to do					I don’t try to do
 			   s/he tries to do				s/he doesn’t try to do
@@ -182,28 +182,29 @@ Try			   I try to do					I don’t try to do
 
 			   I tried to do				I didn’t try
 			   I am trying to do				I’m not trying to do	
-			   s/he
-			   you
+			   s/he is trying to do
+			   you are trying to do
 			   
 Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
 			   I would prefer to travel by bus rather than by train
-			   s/he
-			   you
+			   s/he prefers doing to running
+			   you prefer doing to running
 			   
 Would sooner ..than (Anlık)
-Would rather ..than	   I would rather do than go – gitmektense yapmayı tercih ederim I wouldn’t rather do
-			   s/he
-			   you
+Would rather ..than	   I would rather/sooner do than go – gitmektense yapmayı tercih ederim I wouldn’t rather do
+			   s/he would rather do than run
+			   you would rather do to walk
 	
-Be likely to		   I am likely to do
-			   I was likely to do
-			   I will be likely to do		
-			   s/he
-			   you
+Be likely to		   I am likely to do - büyük ihtimalle yaparım
+			   I was likely to do - büyük ihtimalle yapardım
+			   I will be likely to do - büyük ihtimalle yapacağım		
+			   s/he is likely to do	- büyük ihtimalle yapar 
+			   you are likely to do - büyük ihtimalle yaparsın
 			   
-Be allowed to		   I am allowed to do
-			   s/he is allowed to do
-			   you are allowed to do
+Be allowed to		   I am allowed to do - yapmama izin var
+			   s/he is allowed to do - yapmasına izin var
+			   you are allowed to do - yapmana izin var
+
 
 
 prepared by Uğur ARSLAN and His Students
