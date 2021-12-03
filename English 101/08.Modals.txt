@@ -147,15 +147,16 @@ could have participle		past unreal ability		he could have taken the flight off
 
 
 --> SHALL
-	- Shall i help you with that? 			(offer)
+	- shall i help you with that? 			(offer)
 	- I shall meet you there this evening. 		(confirmation)
-	- You shall be the first person to know. 	(promises)
+	- you shall be the first person to know. 	(promises)
 
 --> SHOULD
-	- You should try this new dress. 		(recommend)
-	- You should be more careful where you loiter.	(recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
-	- We should deal with this right now. 		(the right thing to do)
-	- He should be home soon but i’m not sure. 	(uncertain prediction)
+	- you should try this new dress. 		(recommend)
+	- you should be more careful where you loiter.	(recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
+	- we should deal with this right now. 		(the right thing to do)
+	- he should be home soon but i’m not sure. 	(uncertain prediction)
+        - school should teach you how to become rich in your 20's, not how to retire in your 60's
 	- this should not be done --> bu yapılmamalı
 	- this should not have been done --> bu yapılmamalıydı
 
