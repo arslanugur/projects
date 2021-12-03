@@ -25,7 +25,7 @@ Past Simple                I did – yaptım                      	I didn’t do
                            you did – yaptın                    	you didn’t do - yapmadın			did you do? - yaptın mı?
 
 Past Continuous            I was doing – yapıyordum            	I wasn’t doing - yapmıyordum                   	was I doing? - yapıyor muydum?
-                           s/he was doing – yapıyordu          	s/he was doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
+                           s/he was doing – yapıyordu          	s/he wasn't doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
                            you were doing – yapıyordun         	you weren’t doing - yapmıyordun             	were you doing? - yapıyor muydun?
 	
 Past Perfect               I had done – yapmıştım              	I hadn’t done - yapmamıştım			had I done? - yapmış mıydım?
@@ -33,8 +33,8 @@ Past Perfect               I had done – yapmıştım              	I hadn’t 
 			   you had done - yapmıştın		you hadn't done - yapmamıştın			had you done? - yapmış mıydın?
 
 Past Perfect Cont.         I had been doing – yapmış oluyordum	I hadn’t  been doing - yapmış olmuyordum	had I been doing? - yapmış oluyor muydum?
-			   s/he had been doing - mış oluyordu	s/he hadnt been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
-			   you had been doing - mış oluyordun	you hadnt been doing - yapmış olmuyordun	had you been doing? - yapmış oluyor muydun?
+			   s/he had been doing - mış oluyordu	s/he hadn't been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
+			   you had been doing - mış oluyordun	you hadn't been doing - yapmış olmuyordun	had you been doing? - yapmış oluyor muydun?
 			   
 Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
                            s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
