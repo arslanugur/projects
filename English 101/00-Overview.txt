@@ -50,7 +50,7 @@ Future Simple(be going to) I’m going to do – yapacağım         	I’m not 
 S + am/is/are going to V1  I am going home – eve gidiyorum     	I am not going home – eve gitmiyorum  		am I going home? - eve gidiyor muyum?
                            I was going to do – yapacaktım      	I wasn’t going to do - yapmayacaktım		was I going to do? - yapacak mıydım?
                            I am going to have to do – yapmak zorunda olacağım	I’m not going to have to do – yapmak zorunda olmayacaktım	
-			   -----------------------------------------------------------------------------------------------------------------------------
+
 Future Continous	   I will be doing – yapıyor olacağım	I won’t be doing - yapıyor olmayacağım		will I be doing? - yapıyor olacak mıyım?
 S + will be + Ving	   s/he will be doing - yapıyor olacak	s/he won't be doing - yapıyor olmayacak		will s/he be doing? - yapıyor olacak mı?
 			   you will be doing - yapıyor olcaksın	you won't be doing - yapıyor olmayacaksın	will you be doing? - yapıyor olacak mısın?
@@ -64,8 +64,9 @@ S + will have been + Ving  s/he will have been doing		s/he won't have been doing
 			   you will have been doing		you won't have been doing - mış yor olmacaksın	will you have been doing? - yapmış oluyor olacak mısın?
 		
 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+Future in the Past (Geçmişte Kalmış Gelecek) - Would
 
-Future in the Past (Geçmişte Kalmış Gelecek) - Would			   
 Would	                   I would do – yapacaktım/yapardım            	I wouldn’t do				would I do?
 			   I would be doing - yapıyor olurdum		I wouldn't be doing			would I be doing?
                            I would have done - yapacaktım            	I wouldn’t have done			would I have done?
@@ -76,7 +77,7 @@ Would	                   I would do – yapacaktım/yapardım            	I woul
 Would like		   I would like to do - yapmak isterim		I wouldn't like to do - yapmak istemem	would you like to do? - yapmak ister misin?
 			   			yapmak hoşuma giderdi				yapmak hoşuma gitmezdi
 			   
-                           --------------------------------------------------------------------------------------------------------------------------------- 
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 Can (Kalıcı)	           I can do – yapabilirim			I can’t do – yapamam			can I do? - yapabilir miyim?
 			   s/he can do - yapabilir			s/he can't do - yapamaz			can s/he do? - yapabilir mi?
 			   you can do - yapabilirsin			you can't do - yapamazsın		can you do? - yapabilir misin?
@@ -123,7 +124,7 @@ Had to	                   I had to do – yapmak zorundaydım		I didn’t have t
 			   s/he had to do				s/he hadn't to do			did s/he have to do?
 			   you had to do				you hadn't to do			did you have to do?				
 
-			   ------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Used to V1		   I used to do – yapardım                	I didn’t use to do – yapmazdım	      	did you use to do? – (Eskiden) Yapar mıydın?
         (eskiden)          I used to be able to do – yapabilirdim	I didn't use to able to do		did I use to able to do? - 
 			   s/he used to do				s/he didn't use to do			did she use to do? - 
@@ -142,7 +143,8 @@ Get used Ving	           I get used to doing – yapmaya alışırım (Pre. Sim.
                            I was getting used doing – yapmaya gittikçe alışıyordum (Past Cont.)	I wasn’t getting used doing
 			   s/he gets used to doing
 			   you are getting used to doing
-			   ---------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Had better	           I had better do - yapsam iyi olur	        I had better (not) study Maths	
 			   s/he had better do				s/he had better not do
 			   you had better do				you had better not do
@@ -163,7 +165,8 @@ Ought to		   I ought to do				I ought not to do
 Have got to		   I have got to do – yapmalıyım		
 			   s/he has got to do
 			   you have got to do
-			   -----------------------------------------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
 Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yapmak istemem/istemiyorum
 			   I wanted to do – yapmak istedim		I didn’t want to do – yapmak istemedim
 			   I will want to do – yapmak isteyeceğim	I won’t want to do – yapmak istemeyeceğim	
