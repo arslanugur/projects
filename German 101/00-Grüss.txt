@@ -1,11 +1,12 @@
-Selamlaşma
+Begrüssung - Selamlaşma
         Grüss Gott - Selamün Aleyküm
         Moin! - Hamburg and North
         Sevrus! - Bayern, Badun, und Württenberg
         Grüss dich! - selam sana! --> Senli Benli
         Guten Morgen, Tag, Abend
         Gute Nacht
-Vedalaşma
+
+Abschied - Vedalaşma
         Tschüss
         Tschüssi
         Tschö
