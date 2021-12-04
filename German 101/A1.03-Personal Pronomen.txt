@@ -5,6 +5,16 @@ ich                           bin                     heisse      komme     gehe
 du                            bist                    heisst      kommst    gehst
 er/sie/es   der/die/das       ist     (der/die/das)   heisst      kommt     geht
 wir                           sind                    heissen     kommen    gehen
-ihr                           seid    (siz)           heisst      kommt     geht
-sie/Sie                       sind    (onlar/Siz)     heissen     kommen    gehen
+ihr - siz                     seid    (siz)           heisst      kommt     geht
+sie/Sie - onlar/Siz           sind    (onlar/Siz)     heissen     kommen    gehen
+
+
+Woher kommst du?
+Artikeli olmayan ülkeler: Deutschland, Russland, Frankreich
+Artikeli olan ülkeler:    die Türkei, die Schweiz, der Iran, der Irak, die USA (p)
+ich komme aus der Türkei  - -den, dan --> dem Iran, den USA, Deutschland
+        (dativ)
+
+
+
 
