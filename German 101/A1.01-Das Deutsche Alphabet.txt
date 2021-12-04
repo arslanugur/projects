@@ -1,5 +1,13 @@
-        ie --> ii
-        ei --> ay
+Doppellaute
+        ei - ay - mein, dein, Seiler, Zeit(tsayt)
+        ai - ay - Mai, Kaiser
+        ie - ii - Miete, Liebe, dieses
+        eu - oy - Euro, Europa, Eule, euer
+        äu - oy - Häuser, Bäume
+        au - au - Haus, Baum
+        ..er - a - euer
+        
+        
         acht, aachen --> uzun okunur
         Cent - Sent ei ince
         Computer - Kompıtır aou kalın
@@ -35,5 +43,4 @@
         Buchstabieralphabet
         buchstabieren - hafr harf söylemek - hecelemek değil yani
         U-Gustav-U-Richard
-        
         
