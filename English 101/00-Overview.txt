@@ -4,40 +4,41 @@ TIME and SENTENCE COMBINATIONS in ENGLISH
                            AFFIRMATIVE                         	NEGATIVE                                    	QUESTION
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Present Simple             I do – yaparım                      	I don’t do - yapmam                         	do I do? – yapar mıyım?
-                           s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
+S + V1 / V1s               s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
                            you do – yaparsın                   	you don’t do - Yapmazsın                    	do you do? - yapar mısın?
 
 Present Continuous         I am doing - yapıyorum              	I’m not doing - yapmıyorum			am i doing? - yapıyor muyum?
-                           s/he is doing - yapıyor             	s/he isn’t doing - yapmıyor                    	is s/he doing? - yapıyor mu?
+S + am/is/are + Ving       s/he is doing - yapıyor             	s/he isn’t doing - yapmıyor                    	is s/he doing? - yapıyor mu?
                            you are doing – yapıyorsun          	you aren’t doing - yapmıyorsun                 	are you doing? - yapıyor musun?
 
 Present Perfect            I have done - yaptım                	I haven't done - yapmadım			have I done - yaptım mı?                      
-                           s/he has done - yaptı		s/he hasn't done - yapmadı			has s/he done? - yaptı mı?
+S + has/have + V3	   s/he has done - yaptı		s/he hasn't done - yapmadı			has s/he done? - yaptı mı?
                            you have done - yaptın		you haven't done - yapmadın			have you done? - yaptın mı?
                                   
 Present Perfect Continuous I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım		have I been doing? - yapmakta mıyım? 
-                           s/he has been doing - yapmakta	s/he hasn't been doing - yapmamakta		has s/he been dong? - yapmakta mı?
+S + has/have been + Ving   s/he has been doing - yapmakta	s/he hasn't been doing - yapmamakta		has s/he been dong? - yapmakta mı?
                            you have been doing - yapmaktasın	you haven't been doing - yapmamaktasın		have you been doing? - yapmakta mısın?
                                   
-                                  
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 Past Simple                I did – yaptım                      	I didn’t do – yapmadım                      	did I do? - yaptın mı?
-                           s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do? - yaptı mı?
+S + Ved / V2               s/he did – yaptı                    	s/he didn’t do – yapmadı			did s/he do? - yaptı mı?
                            you did – yaptın                    	you didn’t do - yapmadın			did you do? - yaptın mı?
 
 Past Continuous            I was doing – yapıyordum            	I wasn’t doing - yapmıyordum                   	was I doing? - yapıyor muydum?
-                           s/he was doing – yapıyordu          	s/he wasn't doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
+S + was/were + Ving        s/he was doing – yapıyordu          	s/he wasn't doing – yapmıyordu                 	was s/he doing – yapıyor muydu?	
                            you were doing – yapıyordun         	you weren’t doing - yapmıyordun             	were you doing? - yapıyor muydun?
 	
 Past Perfect               I had done – yapmıştım              	I hadn’t done - yapmamıştım			had I done? - yapmış mıydım?
-			   s/he had done - yapmıştı		s/he hadn't done - yapmamıştı			had s/he done? - yapmış mıydı?
+S + had + V3		   s/he had done - yapmıştı		s/he hadn't done - yapmamıştı			had s/he done? - yapmış mıydı?
 			   you had done - yapmıştın		you hadn't done - yapmamıştın			had you done? - yapmış mıydın?
 
-Past Perfect Cont.         I had been doing – yapmış oluyordum	I hadn’t  been doing - yapmış olmuyordum	had I been doing? - yapmış oluyor muydum?
-			   s/he had been doing - mış oluyordu	s/he hadn't been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
+Past Perfect Continuous    I had been doing – yapmış oluyordum	I hadn’t  been doing - yapmış olmuyordum	had I been doing? - yapmış oluyor muydum?
+S + had been + Ving	   s/he had been doing - mış oluyordu	s/he hadn't been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
 			   you had been doing - mış oluyordun	you hadn't been doing - yapmış olmuyordun	had you been doing? - yapmış oluyor muydun?
-			   
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
-                           s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
+S + will + V1              s/he will do - yapacak/yapar		s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
 			   you will do - yapacaksın/yaparsın	you won't do - yapmayacaksın			will you do? - yapacak mısın/yapar mısın?
 			   
 			   will have to do
@@ -46,23 +47,24 @@ Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do 
 			   you will have to do - yapmak zorunda olacaksın
 			   
 Future Simple(be going to) I’m going to do – yapacağım         	I’m not going to do – yapmayacağım		am I going to do? - yapacak mıyım?
-                           I am going home – eve gidiyorum     	I am not going home – eve gitmiyorum  		am I going home? - eve gidiyor muyum?
+S + am/is/are going to V1  I am going home – eve gidiyorum     	I am not going home – eve gitmiyorum  		am I going home? - eve gidiyor muyum?
                            I was going to do – yapacaktım      	I wasn’t going to do - yapmayacaktım		was I going to do? - yapacak mıydım?
                            I am going to have to do – yapmak zorunda olacağım	I’m not going to have to do – yapmak zorunda olmayacaktım	
-
-Future Cont.               I will be doing – yapıyor olacağım	I won’t be doing - yapıyor olmayacağım		will I be doing? - yapıyor olacak mıyım?
-			   s/he will be doing - yapıyor olacak	s/he won't be doing - yapıyor olmayacak		will s/he be doing? - yapıyor olacak mı?
+			   -----------------------------------------------------------------------------------------------------------------------------
+Future Continous	   I will be doing – yapıyor olacağım	I won’t be doing - yapıyor olmayacağım		will I be doing? - yapıyor olacak mıyım?
+S + will be + Ving	   s/he will be doing - yapıyor olacak	s/he won't be doing - yapıyor olmayacak		will s/he be doing? - yapıyor olacak mı?
 			   you will be doing - yapıyor olcaksın	you won't be doing - yapıyor olmayacaksın	will you be doing? - yapıyor olacak mısın?
 			   
 Future Perfect             I will have done - yapmış olacağım	I won't have done - yapmış olmayacağım		will I have done? - yapmış olacak mıyım?
-			   s/he will have done - yapmış olacak	s/he won't have done - yapmış olmayacak		will s/he have done? - yapmış olacak mı?
+S + will have + V3	   s/he will have done - yapmış olacak	s/he won't have done - yapmış olmayacak		will s/he have done? - yapmış olacak mı?
 			   you will have done - yapmış olcaksın	you won't have done - yapmış olmayacak		will you have done? - yapmış olacak mısın?
 			   
-Future Perfect Cont.       I will have been doing - mış yor cak	I won't have been doing - mış yor olmayacağım	will I have been doing? - yapmış oluyor olacak mıyım?
-			   s/he will have been doing		s/he won't have been doing - mış yor olmayacak	will s/he have been doing? - yapmış oluyor olacak mı?
+Future Perfect Continous   I will have been doing - mış yor cak	I won't have been doing - mış yor olmayacağım	will I have been doing? - yapmış oluyor olacak mıyım?
+S + will have been + Ving  s/he will have been doing		s/he won't have been doing - mış yor olmayacak	will s/he have been doing? - yapmış oluyor olacak mı?
 			   you will have been doing		you won't have been doing - mış yor olmacaksın	will you have been doing? - yapmış oluyor olacak mısın?
 		
-		
+
+
 Future in the Past (Geçmişte Kalmış Gelecek) - Would			   
 Would	                   I would do – yapacaktım/yapardım            	I wouldn’t do				would I do?
 			   I would be doing - yapıyor olurdum		I wouldn't be doing			would I be doing?
