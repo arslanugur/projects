@@ -1,10 +1,10 @@
 3) Personal Pronomen
-                sein (to be)            kommen  gehen
-                -------------------------------------
-ich             bin                     komme   gehe
-du              bist                    kommst  gehst
-er/sie/es       ist     (der/die/das)   kommt   geht
-wir             sind                    kommen  gehen
-ihr             seid    (siz)           kommt   geht
-sie/Sie         sind    (onlar/Siz)     kommen  gehen
+                              sein (to be)            heissen     kommen    gehen
+                              --------------------------------------------------
+ich                           bin                     heisse      komme     gehe
+du                            bist                    heisst      kommst    gehst
+er/sie/es   der/die/das       ist     (der/die/das)   heisst      kommt     geht
+wir                           sind                    heissen     kommen    gehen
+ihr                           seid    (siz)           heisst      kommt     geht
+sie/Sie                       sind    (onlar/Siz)     heissen     kommen    gehen
 
