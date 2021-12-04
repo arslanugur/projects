@@ -103,6 +103,7 @@ persist           persistence             persistent                sebat etmek,
 assist            assistance              assistant                 yardım etmek, desteklemek
 contain           containment                                       içermek
 contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
+infect            infection               infected / infectious     bulaşmak, enfeksiyon, bulaşıcı
 concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
 convince of       conviction*             convincing                doğruluğuna ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
 convict of                                                          birini bir şeyden dolayı mahkum etmek 
