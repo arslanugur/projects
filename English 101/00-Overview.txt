@@ -16,7 +16,7 @@ Present Perfect            I have done - yaptım                	I haven't done 
                            you have done - yaptın		you haven't done - yapmadın			have you done? - yaptın mı?
                                   
 Present Perfect Continuous I have been doing – yapmaktayım     	I haven’t been doing - yapmamaktayım		have I been doing? - yapmakta mıyım? 
-                           s/he has been doing - yapmakta	s/he has been doing - yapmamakta		has s/he been dong? - yapmakta mı?
+                           s/he has been doing - yapmakta	s/he hasn't been doing - yapmamakta		has s/he been dong? - yapmakta mı?
                            you have been doing - yapmaktasın	you haven't been doing - yapmamaktasın		have you been doing? - yapmakta mısın?
                                   
                                   
