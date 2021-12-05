@@ -18,6 +18,7 @@ SINGULAR        someone		biri			there is someone at the door
                 none (no one)	hiç biri        	no one can cope with her in English                 No one will help you in this situation
                 nobody        	hiç birisi        	nobody watches telly (tv) anymore                   I am lonely. I have nobody to talk to
                 nothing       	hiçbir şey        	nothing is impossible to a willing heart            Nothing is left in front of me to tell you the truth
+							nothing feels heavier than unsaid words
                 nowhere       	hiçbir yer        	we went nowhere this weekend. We stayed home
 
                 everyone	herkes			everyone cheered for the violinist at our school concert
@@ -61,7 +62,7 @@ PLURAL
                                         		few are as brave as you
                 fewer		daha azı              	fewer are smoking these days
                 many # some	birçok # bazı		many people feel that the law should be changed
-                  
+                a lot		bir çok			a lot things broke my heart, but fixed my vision  
                 others		diğerleri		depend on others and you always repent
                 several		birkaç, birçok          several letters arrived this morning
                                         		several people came to the stadium to see the match
