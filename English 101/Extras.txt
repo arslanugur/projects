@@ -25,6 +25,16 @@ go fishing		go to America
  
 
 
+CORRECT:					INCORRECT:
+I am looking forward to seeing you		I am looking forward to see you
+your hair is really nice			your hairs are really nice
+you should practice speaking English		you should practice to speak English
+I work for a bank				I work in a bank
+one of my friends lives in Tokyo		one of my friend live in Tokyo
+she is good at English				she is good in English
+
+
+
 how long does the winter last in there	- orada kış ne kadar sürer?**
 how long is the winter in there		- kış orda ne kadar uzundur?
 
