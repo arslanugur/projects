@@ -1,15 +1,15 @@
 ---> PARTS OF SPEECH
-              Function/Job    	                      	Example
+              		Function/Job    	                Example
               ----------------------------------------------------------------------------------------
-Noun	      --> thing or person	              	pencil, cat, Jack
-Pronoun	      --> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
-                                                      	--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
-Verb	      --> Action or State	            	go, come, see, open, study, like, eat
-Adverb	      --> Describe a verb, adjective, adverb	silently, badly, really, quickly, well
-Adjective     --> Describes a noun	                big, silent, bad, good
-Preposition   --> Links a noun to another word	        at, on, in, of, after, before, under
-Conjunction   --> Joins clauses or sentences	        but, and, while, when
-Interjection  --> Short Exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
+Noun	      İsim	--> thing or person	              	pencil, cat, Jack
+Pronoun	      Zamir	--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
+                                                      		--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
+Verb	      Fiil	--> Action or State	            	go, come, see, open, study, like, eat
+Adverb	      Zarf	--> Describe a verb, adjective, adverb	silently, badly, really, quickly, well
+Adjective     Sıfat	--> Describes a noun	                big, silent, bad, good
+Preposition   Edat	--> Links a noun to another word	at, on, in, of, after, before, under
+Conjunction   Bağlaç	--> Joins clauses or sentences	        but, because, and, while, when
+Interjection  		--> Short Exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
 
 
 
@@ -65,39 +65,44 @@ what         what are you talking about?
 	     what foreign languages have you studied?
 	     what format should I use?
              what colour are your eyes?
-what kind of what kind of music do you like? - I like Rock songs
+what kind of what kind of music do you like?	I like Rock songs
              what kind of cars do you want to drive? - I want to drive self-driving cars
-which        which one was your car? - the red one (of the cars) was my car/mine
-             which one do you prefer? - I prefer coffee
-             which one do you want to try? - I want to try black one
+which        which one was your car?		the red one (of the cars) was my car/mine	one = car
+             which one do you prefer?		I prefer coffee americano			one = coffee
+             which one do you want to try?	I want to try black one				one = dress
 	    -----------------------------------------------------------------------
-where       where do you live (in)? in New York
-            where are you from?
-where to    where are you going (to)?
-where from  where are you coming from?
+where       where do you live (in)?		I live in New York from US
+            where are you from?			I am from Turkey
+where to    where are you going (to)?		I am going to Stuttgart
+where from  where are you coming from?		I am coming from İstanbul
 	    -----------------------------------------------------------------------
-why         why will I have to clean up? 	- Because, there will be guests soon
-	    why do you sleep early? 		- Because, I have got to get up early
-	    why is this so important to you all of a sudden? – bir anda neden önemli oldu?
+why         why will I have to clean up? 	Because, there will be guests soon
+						You will have to clean up for guests
+	    why do you sleep early? 		Because, I have got to get up early
+	    why is this so important to you all of a sudden? – bir anda (ani) neden önemli oldu?
 	    because I just realized it's really important to me
-what for    noone knows why, what for
+what for    what do you come to the course for? I come to the course for English
+	    noone knows why, what for
 	    -----------------------------------------------------------------------
-who         who’s that? 			- that’s George
-            who has seen the accident? 		- A young man has seen the accident 
-who to/with who is talking to/with you?     	- Arnold is talking to/with me
-	    who are you talking to/with?	- I am talking to/with Arnold
-whom        whom did you see yesterday? 	- I saw your old roommate yesterday
-            whom do you meet every day?		- I meet with my bf/gf every day
+who         who’s that? 			that is George
+	    who's this?				this is Albert
+            who has seen the accident? 		a young man has seen the accident 
+who to/with who is talking to/with you?     	Arnold is talking to/with me
+	    who are you talking to/with?	I am talking to/with Arnold
+whom        whom did you see yesterday? 	I saw your old roommate yesterday
+            whom do you meet every day?		I meet with my bf/gf every day
 with whom   with whom did you go?
-to whom     to whom did you go?
-whose       whose book did you borrow? 		- I borrowed his book
-            whose is this book? 		- It is Charlotte's   
+to whom     to whom did you go?			I went to my friend's house
+whose       whose book did you borrow? 		I borrowed his book			borrow != lend
+            whose is this book? 		It is Charlotte's  
 	    -----------------------------------------------------------------------
-when        when do you wake up every day?	- I wake up at six 	(am/pm)
-            when do you go to work?		- I go to work at seven (am/pm)
-what time   what time is it?			- It's five to seven (It is five minutes to seven o'clock)
+when        when do you wake up every day?	I wake up at six 	(am/pm)
+            when do you go to work?		I go to work in the morning
+since when  	    
+what time   what time is it?			it's five to seven (it is five minutes to seven o'clock)
 	    I guess, everybody else knew what time rehearsal was for.
-	    Sanırım provanın ne zaman olacağını herkes biliyordu.
+	    Sanırım, provanın ne zaman olacağını herkes biliyordu.
+	    
 	    ------------------------------------------------------------------------
 how         how do you get to places? - I get to places by car
 							by private jet
