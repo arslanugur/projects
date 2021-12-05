@@ -19,7 +19,7 @@ forget          forgot              forgotten / forgot      (unutmak)
 beget           begat / begot       begotten                (yaratmak, yol açmak, neden olmak)
 begin           began               begun                   (başlamak)                                    start Ving
 swim            swam                swum                    (yüzmek)
-drink           drank               drunk                   (içmek)
+drink           drank               drunk                   (içmek)                                       if you drink (present) too much, you will get drunk (perfect)
 sing            sang                sung                    (şarkı söylemek)
 sink            sank / sunk         sunk / sunken           (batmak, inmek, alçalmak)
 ring            rang                rung                    (çalmak, çaldırmak, halka geçirmek, kuşatmak, etrafını sarmak)
