@@ -186,6 +186,13 @@ Present		Continuous		(hareket, devam eden, belirli bir sürece yayılabilir)
 Future		Perfect			(tamamlanmış ama etkisi halen olabilir)
 		Perfect Continuous	(tamamlanmış ama hem etkisi, hem de süreci halen devam edebilir)
 
+PAST			PRESENT 		FUTURE
+-------------------------------------------------------------------
+Simple			Simple			Simple
+Continuous		Continuous		Continuous
+Perfect			Perfect			Perfect
+Perfect Continuous	Perfect Continuous	Perfect Continuous
+
 Present Simple Tense	          --> I prefer my coffee black 
 Present Continuous Tense	  --> He is listening to the music now.
 Present Perfect Tense	          --> It has rained a lot lately.
@@ -203,7 +210,7 @@ Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
 
 
 
----> Types of Determiners (ismin önüne gelenler)
+---> Types of Determiners (İsmin önüne gelenler)
 	Determines are used in front of nouns to indicate whether you are refering to something specific or something of a particular type
 	
 	Adjectives:		smart, good, cool, bad, lucky, heavy
