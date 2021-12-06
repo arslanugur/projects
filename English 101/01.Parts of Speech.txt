@@ -186,13 +186,20 @@ Present		Continuous		(hareket, devam eden, belirli bir sürece yayılabilir)
 Future		Perfect			(tamamlanmış ama etkisi halen olabilir)
 		Perfect Continuous	(tamamlanmış ama hem etkisi, hem de süreci halen devam edebilir)
 
-PAST			PRESENT 		FUTURE
--------------------------------------------------------------------
-Simple			Simple			Simple
-Continuous		Continuous		Continuous
-Perfect			Perfect			Perfect
-Perfect Continuous	Perfect Continuous	Perfect Continuous
 
+PAST					PRESENT 				FUTURE
+---------------------------------------------------------------------------------------------------------------
+Simple (-dı, -di)			Simple (-ar, -ur)			Simple (-acak, -ecek, -ar, -er)
+	S + V2/Ved				S + V1 / Vs				S + will V1
+Continuous (-iyordu)			Continuous (-iyor)			Continuous (-iyor olacak)
+	S + was/were Ving			S + am/is/are Ving			S + will be Ving
+Perfect (-mış)				Perfect	(-dı, di)			Perfect (-mış olacak)
+	S + had V3				S + has/have V3				S + will have V3
+Perfect Continuous (-iyormuş)		Perfect Continuous (-iyor)		Perfect Continuous (-iyor olacak)
+	S + had been Ving			S + has/have been Ving			S + will have been Ving
+
+
+# EXAMPLES:
 Present Simple Tense	          --> I prefer my coffee black 
 Present Continuous Tense	  --> He is listening to the music now.
 Present Perfect Tense	          --> It has rained a lot lately.
