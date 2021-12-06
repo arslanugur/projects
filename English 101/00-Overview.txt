@@ -1,5 +1,17 @@
 TIME and SENTENCE COMBINATIONS in ENGLISH
 
+PAST					PRESENT 				FUTURE
+---------------------------------------------------------------------------------------------------------------
+Simple (-dı, -di)			Simple (-ar, -ur)			Simple (-acak, -ecek, -ar, -er)
+	S + V2/Ved				S + V1 / Vs				S + will V1
+Continuous (-iyordu)			Continuous (-iyor)			Continuous (-iyor olacak)
+	S + was/were Ving			S + am/is/are Ving			S + will be Ving
+Perfect (-mış,-mıştı)			Perfect	(-dı, di)			Perfect (-mış olacak)
+	S + had V3				S + has/have V3				S + will have V3
+Perfect Continuous (-iyormuş)		Perfect Continuous (-iyor, -makta)	Perfect Continuous (-iyor olacak)
+	S + had been Ving			S + has/have been Ving			S + will have been Ving
+
+
 
                            AFFIRMATIVE                         	NEGATIVE                                    	QUESTION
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -32,9 +44,9 @@ Past Perfect               I had done – yapmıştım              	I hadn’t 
 S + had + V3		   s/he had done - yapmıştı		s/he hadn't done - yapmamıştı			had s/he done? - yapmış mıydı?
 			   you had done - yapmıştın		you hadn't done - yapmamıştın			had you done? - yapmış mıydın?
 
-Past Perfect Continuous    I had been doing – yapmış oluyordum	I hadn’t  been doing - yapmış olmuyordum	had I been doing? - yapmış oluyor muydum?
-S + had been + Ving	   s/he had been doing - mış oluyordu	s/he hadn't been doing - yapmış olmuyordu	had s/he been doing? - yapmış oluyor muydu?
-			   you had been doing - mış oluyordun	you hadn't been doing - yapmış olmuyordun	had you been doing? - yapmış oluyor muydun?
+Past Perfect Continuous    I had been doing – yapıyormuşum	I hadn’t  been doing - yapmıyormuşum		had I been doing? - yapıyormuymuşum	- yapmış oluyor muydum?
+S + had been + Ving	   s/he had been doing - iyormuş	s/he hadn't been doing - yapmıyormuş		had s/he been doing? - yapıyormuymuş	- yapmış oluyor muydu?
+			   you had been doing - iyormuşsun	you hadn't been doing - yapmıyormuşsun		had you been doing? - yapıyormuymuşsun	- yapmış oluyor muydun?
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Simple(will)        I will do - yapacağım/yaparım       	I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
@@ -209,6 +221,7 @@ Be likely to		   I am likely to do - büyük ihtimalle yaparım
 Be allowed to		   I am allowed to do - yapmama izin var
 			   s/he is allowed to do - yapmasına izin var
 			   you are allowed to do - yapmana izin var
+
 
 
 
