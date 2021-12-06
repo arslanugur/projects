@@ -1,15 +1,17 @@
-TIME and SENTENCE COMBINATIONS in ENGLISH
+🔴  TIME and SENTENCE COMBINATIONS in ENGLISH
 
-PAST					PRESENT 				FUTURE
----------------------------------------------------------------------------------------------------------------
-Simple (-dı, -di)			Simple (-ar, -ur)			Simple (-acak, -ecek, -ar, -er)
-	S + V2/Ved				S + V1 / Vs				S + will V1
-Continuous (-iyordu)			Continuous (-iyor)			Continuous (-iyor olacak)
-	S + was/were Ving			S + am/is/are Ving			S + will be Ving
-Perfect (-mış,-mıştı)			Perfect	(-dı, di)			Perfect (-mış olacak)
-	S + had V3				S + has/have V3				S + will have V3
-Perfect Continuous (-iyormuş)		Perfect Continuous (-iyor, -makta)	Perfect Continuous (-iyor olacak)
-	S + had been Ving			S + has/have been Ving			S + will have been Ving
+
+PAST					PRESENT 				FUTURE						FUTURE ... IN THE PAST
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+SIMPLE (-dı, -di)			SIMPLE (-ar, -ur)			SIMPLE (-acak, -ecek, -ar, -er)			SIMPLE (-acaktı, -ecekti)
+	S + V2/Ved				S + V1 / Vs				S + will V1  #  S + be going to V1		S + would V1
+CONTINUOUS (-iyordu)			CONTINUOUS (-iyor)			CONTINUOUS (-iyor olacak)			CONTINUOUS (-iyor olacaktı)
+	S + was/were Ving			S + am/is/are Ving			S + will be Ving				S + would be Ving
+PERFECT (-mış,-mıştı)			PERFECT	(-dı, di)			PERFECT (-mış olacak)				PERFECT (-mış olacaktı)
+	S + had V3				S + has/have V3				S + will have V3				S + would have V3
+PERFECT CONTINUOUS (-iyormuş)		PERFECT CONTINUOUS (-iyor, -makta)	PERFECT CONTINUOUS (-iyor olacak)		PERFECT CONTINUOUS (-iyor olacaktı)
+	S + had been Ving			S + has/have been Ving			S + will have been Ving				S + would have been Ving
+
 
 
 
@@ -201,7 +203,8 @@ Try			   I try to do					I don’t try to do
 			   I am trying to do				I’m not trying to do	
 			   s/he is trying to do
 			   you are trying to do
-			   
+
+
 Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
 			   I would prefer to travel by bus rather than by train
 			   s/he prefers doing to running
