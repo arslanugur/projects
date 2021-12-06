@@ -17,7 +17,7 @@ TIME and SENTENCE COMBINATIONS in ENGLISH
 PAST					PRESENT 				FUTURE						FUTURE ... IN THE PAST
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 SIMPLE (-dı, -di)			SIMPLE (-ar, -ur)			SIMPLE (-acak, -ecek, -ar, -er)			SIMPLE (-acaktı, -ecekti)
-	S + V2/Ved				S + V1 / Vs				S + will V1  #  S + be going to V1		S + would V1
+	S + V2/Ved				S + V1 / V1s				S + will V1  #  S + be going to V1		S + would V1
 CONTINUOUS (-iyordu)			CONTINUOUS (-iyor)			CONTINUOUS (-iyor olacak)			CONTINUOUS (-iyor olacaktı)
 	S + was/were Ving			S + am/is/are Ving			S + will be Ving				S + would be Ving
 PERFECT (-mış,-mıştı)			PERFECT	(-dı, di)			PERFECT (-mış olacak)				PERFECT (-mış olacaktı)
