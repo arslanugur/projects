@@ -28,7 +28,7 @@ PERFECT CONTINUOUS (-iyormuş)		PERFECT CONTINUOUS (-iyor, -makta)	PERFECT CONTI
 
 
 
-                           AFFIRMATIVE                         	NEGATIVE                                    	QUESTION
+                           AFFIRMATIVE (+)                     	NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Present Simple             I do – yaparım                      	I don’t do - yapmam                         	do I do? – yapar mıyım?
 S + V1 / V1s               s/he does – yapar                   	s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
