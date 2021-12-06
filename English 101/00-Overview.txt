@@ -61,7 +61,7 @@ S + had + V3		   s/he had done - yapmıştı			s/he hadn't done - yapmamıştı	
 
 Past Perfect Continuous    I had been doing – yapıyormuşum		I hadn’t  been doing - yapmıyormuşum		had I been doing? - yapıyormuymuşum
 S + had been + Ving	   s/he had been doing - yapıyormuş		s/he hadn't been doing - yapmıyormuş		had s/he been doing? - yapıyormuymuş
-(yapmış oluyor)		   you had been doing - yapıyormuşsun	y	ou hadn't been doing - yapmıyormuşsun		had you been doing? - yapıyormuymuşsun 
+(yapmış oluyor)		   you had been doing - yapıyormuşsun		you hadn't been doing - yapmıyormuşsun		had you been doing? - yapıyormuymuşsun 
 (yapıyormuş)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
