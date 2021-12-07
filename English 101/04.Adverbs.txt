@@ -12,7 +12,7 @@ HOW?                WHERE?                  WHEN?
 -----------------------------------------------------------------
 Manner              Place                   Time
 --------------------------------------------------------------------------
-silently	        at home		            right now
+silently            at home                 right now
 quickly             in Ankara               this morning 
 carefully           on a bus                in the evening
 slowly              in our garden           at six 
