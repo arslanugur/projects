@@ -1,15 +1,15 @@
 ---> PARTS OF SPEECH
-              		Function/Job    	                Example
-              ----------------------------------------------------------------------------------------
-Noun	      İsim	--> thing or person	              	pencil, cat, Jack
-Pronoun	      Zamir	--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
-                                                      		--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
-Verb	      Fiil	--> Action or State	            	go, come, see, open, study, like, eat
-Adverb	      Zarf	--> Describe a verb, adjective, adverb	silently, badly, really, quickly, well
-Adjective     Sıfat	--> Describes a noun	                big, silent, bad, good
-Preposition   Edat	--> Links a noun to another word	at, on, in, of, after, before, under
-Conjunction   Bağlaç	--> Joins clauses or sentences	        but, because, and, while, when
-Interjection  		--> Short Exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
+              			Function/Job    	                Example
+              	----------------------------------------------------------------------------------------
+Noun	      	İsim		--> thing or person	              	pencil, cat, Jack
+Pronoun	      	Zamir		--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
+                                                      			--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
+Verb	      	Fiil		--> action / state	            	go, come, see, open, study, like, eat
+Adverb	      	Zarf		--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
+Adjective     	Sıfat		--> describes a noun	                big, silent, bad, good
+Preposition   	Edat		--> links a noun to another word	at, on, in, of, after, before, under
+Conjunction   	Bağlaç		--> joins clauses or sentences	        but, because, and, while, when
+Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
 
 
 
@@ -47,7 +47,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
 
 
 ---> MEZZOFANTI METHOD: How to start learning a new language?
-The book is new       --> eşitlik bildiren cümleler   (I = Teacher, x = 3)
+The book is new       --> eşitlik bildiren cümleler   		(he = Jack, he = 25, he = teacher, he = single)
 Is the book new?      --> eşitlik soru cümlesi
 A new book            --> sıfat kullanımı
 I have a book         --> aitlik kullanımı
@@ -60,72 +60,74 @@ I should/can/will go  --> yardımcı fiil kullanımı
 
 
 ---> QUESTION WORDS - 5 W 1 H
-what         what are you talking about?
-             what do you do (for work)?
-	     what foreign languages have you studied?
-	     what format should I use?
-             what colour are your eyes?
-what kind of what kind of music do you like?	I like Rock songs
-             what kind of cars do you want to drive? - I want to drive self-driving cars
-which        which one was your car?		the red one (of the cars) was my car/mine	one = car
-             which one do you prefer?		I prefer coffee americano			one = coffee
-             which one do you want to try?	I want to try black one				one = dress
-	    -----------------------------------------------------------------------
-where       where do you live (in)?		I live in New York from US
-            where are you from?			I am from Turkey
-where to    where are you going (to)?		I am going to Stuttgart
-where from  where are you coming from?		I am coming from İstanbul
-	    -----------------------------------------------------------------------
-why         why will I have to clean up? 	Because, there will be guests soon
-						You will have to clean up for guests
-	    why do you sleep early? 		Because, I have got to get up early
-	    why is this so important to you all of a sudden? – bir anda (ani) neden önemli oldu?
-	    because I just realized it's really important to me
-what for    what do you come to the course for? I come to the course for English
-	    noone knows why, what for
-	    -----------------------------------------------------------------------
-who         who’s that? 			that is George
-	    who's this?				this is Albert
-            who has seen the accident? 		a young man has seen the accident 
-who to/with who is talking to/with you?     	Arnold is talking to/with me
-	    who are you talking to/with?	I am talking to/with Arnold
-whom        whom did you see yesterday? 	I saw your old roommate yesterday
-            whom do you meet every day?		I meet with my bf/gf every day
-with whom   with whom did you go?
-to whom     to whom did you go?			I went to my friend's house
-whose       whose book did you borrow? 		I borrowed his book			borrow != lend
-            whose is this book? 		It is Charlotte's  
-	    -----------------------------------------------------------------------
-when        when do you wake up every day?	I wake up at six 	(am/pm)
-            when do you go to work?		I go to work in the morning
-since when  	    
-what time   what time is it?			it's five to seven (it is five minutes to seven o'clock)
-	    I guess, everybody else knew what time rehearsal was for.
-	    Sanırım, provanın ne zaman olacağını herkes biliyordu.
+what         	what are you talking about?			I am talking about information technologies
+             	what do you do (for work)?			I am an engineer
+	     	what foreign languages have you studied?	I have studied English, German and Russian
+	     	what format should I use?			
+             	what colour are your eyes?			my eyes are black
+what kind of 	what kind of music do you like?			I like Rock songs
+             	what kind of cars do you want to drive?		I want to drive self-driving cars
+which        	which one was your car?				the red one (of the cars) was my car/mine	one = car
+             	which one do you prefer?			I prefer coffee americano			one = coffee
+             	which one do you want to try?			I want to try black one				one = dress
+		
+	    	-----------------------------------------------------------------------
+where       	where do you live (in)?				I live in New York from US
+            	where are you from?				I am from Turkey
+where to    	where are you going (to)?			I am going to Stuttgart
+where from  	where are you coming from?			I am coming from İstanbul
+
+	    	-----------------------------------------------------------------------
+why         	why will I have to clean up? 			because, there will be guests soon
+								You will have to clean up for guests
+	    	why do you sleep early? 			Because, I have got to get up early
+what for    	what do you come to the course for? 		I come to the course for English
+	    	noone knows why, what for
+		
+	    	-----------------------------------------------------------------------
+who         	who’s that? 					that is George
+	    	who's this?					this is Albert
+            	who has seen the accident? 			a young man has seen the accident 
+who to/with 	who is talking to/with you?     		Arnold is talking to/with me
+	    	who are you talking to/with?			I am talking to/with Arnold
+whom        	whom did you see yesterday? 			I saw your old roommate yesterday
+            	whom do you meet every day?			I meet with my bf/gf every day
+with whom   	with whom did you go?				I went with my bf/gf
+to whom     	to whom did you go?				I went to my friend's house
+whose       	whose book did you borrow? 			I borrowed his book			borrow != lend
+            	whose is this book? 				It is Charlotte's
+		
+	    	-----------------------------------------------------------------------
+when        	when do you wake up every day?			I wake up at six 	(am/pm)
+            	when do you go to work?				I go to work in the morning
+since when  	since when have you been working there?		I have been working there since 2020	    
+what time   	what time is it?				it's five to seven (it is five minutes to seven o'clock)
+	    	I guess, everybody else knew what time rehearsal was for.
+	    	Sanırım, provanın ne zaman olacağını herkes biliyordu.
 	    
-	    ------------------------------------------------------------------------
-how         how do you get to places? - I get to places by car
-							by private jet
-							by plane
-							by bus
-							by foot
-							by walking
+	    	------------------------------------------------------------------------
+how         	how do you get to places?		I get to places by car
+									by private jet
+									by plane
+									by bus
+									by foot
+									by walking
 
 
 
 ---> PRONOUNS and POSSESSIVE ADJECTIVES 
                      
------TO BE-----    Subject      Object      Possessive    Possessive    Reflexive
-Present    Past   Pronouns      Pronouns    Adjectives    Pronouns      Pronouns
-----------------------------------------------------------------------------------
-am	    was	         I	me	    my ...        ... mine.	myself
-are        were	       you	you	    your ...      ... yours.    yourself
-is          was	        he	him	    his ...       ... his.	himself
-is          was	       she	her	    her ...       ... hers.	herself
-is          was	        it	it	    its ...       ... 	        itself
-are        were	        we	us	    our ...	  ... ours.	ourselves
-are        were	       you	you	    your ...      ... yours.    yourselves
-are        were       they	them	    their ...     ... theirs.   themselves
+-----TO BE-----    Subject      OBJECT      			Possessive    	Possessive    	Reflexive
+Present    Past   Pronouns      PRONOUNS    			Adjectives    	Pronouns      	Pronouns
+---------------------------------------------------------------------------------------------------------
+am	    was	         I	me	(beni, bana)	    	my ...        	... mine.	myself
+are        were	       you	you	(seni, sana)	    	your ...      	... yours.    	yourself
+is          was	        he	him	(onu, ona)	    	his ...       	... his.	himself
+is          was	       she	her	(onu, ona)	    	her ...       	... hers.	herself
+is          was	        it	it	(onu, ona)	    	its ...       	... 	        itself
+are        were	        we	us	(bizi, bize)	    	our ...		... ours.	ourselves
+are        were	       you	you	(sizi, size)	    	your ...      	... yours.    	yourselves
+are        were       they	them	(onları, onlara)    	their ...     	... theirs.   	themselves
 
 
 
@@ -171,11 +173,6 @@ PLURAL		you			are	   were				you		 | happily 	on television	on the weekend
 		they			are	   were				them		 | eagerly	at the station	at midnight
 
 
----> TIME
-time - zaman              --> sometime, some time, on time, in time, every time
-time - kere, kez, defa    --> one time, two times, sometimes, a few times
-	- why don't you come up sometime and see me?
-	- why don't you spend some time for yourself?
 	
 
 ---> TWELVE TENSES (4x3 Tenses)         (tense - kip, biçim)
@@ -225,10 +222,10 @@ Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
 	Articles:		a, an, the
 	Demonstrative pronouns:	this, that, these, those
 	Numerals:		one, two, three
-	Ordinals:		first, second, third, fourth --> last, next
-	Quantifiers:		Some, Any, No, Many, Much, Enough, Several, Little, All, Lot of, Plenty of, a few, another, very
-	Distributives:		Each, Every, Either, Neither
-	Predeterminers:		All, All of, What, Such, Rather, Quite, Twice, Double, Both
+	Ordinals:		first, last, next 	--> first, second, third, fourth
+	Quantifiers:		some, any, no, many, much, enough, several, little, all, lot of, plenty of, a few, another, very
+	Distributives:		each, every, either, neither
+	Predeterminers:		all, all of, both, what, such, rather, quite, twice, double
                                                 
                      
                      
@@ -317,4 +314,4 @@ Num + (Prep) + Numeral		three of four
 
 
 
-prepared by Uğur ARSLAN and His Students
+prepared by Uğur ARSLAN and His Students														@arslanuguur
