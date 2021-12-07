@@ -50,9 +50,9 @@ Abstract        --> Money, Anger, Love, Beauty, Safety, Advice, Evidence, Knowle
 		time - zaman              --> sometime, some time, on time, in time, every time
 		time - kere, kez, defa    --> one time, two times, sometimes, a few times
 					
-			why don't you come up sometime and see me?	neden bir ara beni görmeye gelmiyorsun?
-			why don't you spend some time for yourself?	neden kendin için biraz zaman harcamıyorsun?
-			why don't you sometimes go shopping?		neden bazen alışverişe çıkmıyorsun? 
+			sometime - bir ara		why don't you come up sometime and see me?	neden bir ara beni görmeye gelmiyorsun?
+			some time - biraz zaman		why don't you spend some time for yourself?	neden kendin için biraz zaman harcamıyorsun?
+			sometimes - bazen		why don't you sometimes go shopping?		neden bazen alışverişe çıkmıyorsun? 
 
 
 how much bread do you want to eat?          	ne kadar ekmek yemek istersin?
