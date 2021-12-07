@@ -28,7 +28,7 @@ PERFECT CONTINUOUS (-iyormuş)		PERFECT CONTINUOUS (-iyor, -makta)	PERFECT CONTI
 
 
 
-                           AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+PRESENT                    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Present Simple             I do – yaparım                      		I don’t do - yapmam                         	do I do? – yapar mıyım?
 S + V1 / V1s               s/he does – yapar                   		s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
@@ -45,7 +45,10 @@ S + has/have + V3	   s/he has done - yaptı			s/he hasn't done - yapmadı			has 
 Present Perfect Continuous I have been doing – yapmaktayım     		I haven’t been doing - yapmamaktayım		have I been doing? - yapmakta mıyım? 
 S + has/have been + Ving   s/he has been doing - yapmakta		s/he hasn't been doing - yapmamakta		has s/he been dong? - yapmakta mı?
                            you have been doing - yapmaktasın		you haven't been doing - yapmamaktasın		have you been doing? - yapmakta mısın?
-                                  
+
+
+
+PAST	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Past Simple                I did – yaptım                      		I didn’t do – yapmadım                      	did I do? - yaptın mı?
 S + Ved / V2               s/he did – yaptı                    		s/he didn’t do – yapmadı			did s/he do? - yaptı mı?
@@ -64,6 +67,8 @@ S + had been + Ving	   s/he had been doing - yapıyormuş		s/he hadn't been doin
 (yapmış oluyor)		   you had been doing - yapıyormuşsun		you hadn't been doing - yapmıyormuşsun		had you been doing? - yapıyormuymuşsun 
 (yapıyormuş)
 
+
+FUTURE	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Simple(will)        I will do - yapacağım/yaparım       		I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
 S + will + V1              s/he will do - yapacak/yapar			s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
@@ -92,19 +97,29 @@ S + will have been + Ving  s/he will have been doing - yapıyor olacak	s/he won'
 (yapıyor olacak)	   you will have been doing - yapıyor olcaksın	you won't have been doing - yapıyor olmacaksın	will you have been doing? - yapıyor olacak mısın?
 (yapmış oluyor olacak)
 
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-Future in the Past (Geçmişte Kalmış Gelecek) - Would
 
+
+FUTURE IN THE PAST - WOULD
+Geçmişte Kalmış Gelecek    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+----------------------------------------------------------------------------------------------------------------------------------------------------------
 Would	                   I would do – yapacaktım/yapardım            	I wouldn’t do					would I do?
 			   I would be doing - yapıyor olurdum		I wouldn't be doing				would I be doing?
                            I would have done - yapacaktım            	I wouldn’t have done				would I have done?
 			   i would have been doing - yapıyor olacaktım	I wouldn't have been doing			would I have been doing?
+			   
 			   s/he would do - yapacaktı			s/he wouldn't do				would s/he do?
 			   you would do	- yapacaktın			you wouldn't do					would you do?
-			   
+
 Would like		   I would like to do - yapmak isterim		I wouldn't like to do - yapmak istemem		would you like to do? - yapmak ister misin?
 			   			yapmak hoşuma giderdi				yapmak hoşuma gitmezdi				yapmak hoşuna gider mi? 
-			   
+
+Would prefer ... rather than			
+			   I would prefer to travel by bus rather than by train
+
+
+
+
+MODALS	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Can (Kalıcı)	           I can do – yapabilirim			I can’t do – yapamam				can I do? - yapabilir miyim?
 			   s/he can do - yapabilir			s/he can't do - yapamaz				can s/he do? - yapabilir mi?
@@ -152,6 +167,9 @@ Had to	                   I had to do – yapmak zorundaydım		I didn’t have t
 			   s/he had to do				s/he hadn't to do				did s/he have to do?
 			   you had to do				you hadn't to do				did you have to do?				
 
+
+
+USED TO	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Used to V1		   I used to do – yapardım                	I didn’t use to do – yapmazdım	      		did you use to do? – (Eskiden) Yapar mıydın?
         (eskiden)          I used to be able to do – yapabilirdim	I didn't use to able to do			did I use to able to do? - 
@@ -172,6 +190,9 @@ Get used Ving	           I get used to doing – yapmaya alışırım (Pre. Sim.
 			   s/he gets used to doing
 			   you are getting used to doing
 
+
+
+OTHER STRUCTURES	   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Had better	           I had better do - yapsam iyi olur	        I had better (not) study Maths	
 			   s/he had better do				s/he had better not do
@@ -194,6 +215,39 @@ Have got to		   I have got to do – yapmalıyım
 			   s/he has got to do
 			   you have got to do
 
+Be likely to		   I am likely to do - büyük ihtimalle yaparım
+			   I was likely to do - büyük ihtimalle yapardım
+			   I will be likely to do - büyük ihtimalle yapacağım		
+			   s/he is likely to do	- büyük ihtimalle yapar 
+			   you are likely to do - büyük ihtimalle yaparsın
+			   
+Be allowed to		   I am allowed to do - yapmama izin var
+			   s/he is allowed to do - yapmasına izin var
+			   you are allowed to do - yapmana izin var
+
+
+
+PREFER	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
+			   I would prefer to travel by bus rather than by train
+			   s/he prefers doing to running
+			   you prefer doing to running
+
+Would sooner ..than (Anlık)
+Would rather ..than	   I would rather/sooner do than go – gitmektense yapmayı tercih ederim I wouldn’t rather do
+			   s/he would rather do than run
+			   you would rather do to walk
+
+
+Would like		   I would like to do - yapmak isterim		I wouldn't like to do - yapmak istemem		would you like to do? - yapmak ister misin?
+			   			yapmak hoşuma giderdi				yapmak hoşuma gitmezdi				yapmak hoşuna gider mi? 
+
+
+
+
+
+COMMON VERBS               AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yapmak istemem/istemiyorum
 			   I wanted to do – yapmak istedim		I didn’t want to do – yapmak istemedim
@@ -219,25 +273,8 @@ Try			   I try to do					I don’t try to do
 			   you are trying to do
 
 
-Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
-			   I would prefer to travel by bus rather than by train
-			   s/he prefers doing to running
-			   you prefer doing to running
-			   
-Would sooner ..than (Anlık)
-Would rather ..than	   I would rather/sooner do than go – gitmektense yapmayı tercih ederim I wouldn’t rather do
-			   s/he would rather do than run
-			   you would rather do to walk
-	
-Be likely to		   I am likely to do - büyük ihtimalle yaparım
-			   I was likely to do - büyük ihtimalle yapardım
-			   I will be likely to do - büyük ihtimalle yapacağım		
-			   s/he is likely to do	- büyük ihtimalle yapar 
-			   you are likely to do - büyük ihtimalle yaparsın
-			   
-Be allowed to		   I am allowed to do - yapmama izin var
-			   s/he is allowed to do - yapmasına izin var
-			   you are allowed to do - yapmana izin var
+
+
 
 
 
