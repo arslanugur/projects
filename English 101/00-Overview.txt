@@ -14,7 +14,7 @@ TIME and SENTENCE COMBINATIONS in ENGLISH											prepared by Uğur ARSLAN and
 
 
 
-PAST					PRESENT 				FUTURE						FUTURE ... IN THE PAST
+PAST					PRESENT 				FUTURE						PAST FUTURE (FUTURE ... IN THE PAST)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 SIMPLE (-dı, -di)			SIMPLE (-ar, -ur)			SIMPLE (-acak, -ecek, -ar, -er)			SIMPLE (-acaktı, -ecekti)
 	S + V2/Ved				S + V1 / V1s				S + will V1  #  S + be going to V1		S + would V1
@@ -78,11 +78,16 @@ S + will + V1              s/he will do - yapacak/yapar			s/he won't do - yapmay
 			   s/he will have to do - yapmak zorunda olacak
 			   you will have to do - yapmak zorunda olacaksın
 			   
-Future Simple(be going to) I’m going to do – yapacağım         		I’m not going to do – yapmayacağım		am I going to do? - yapacak mıyım?
-S + am/is/are going to V1  I am going home – eve gidiyorum     		I am not going home – eve gitmiyorum  		am I going home? - eve gidiyor muyum?
+Future Simple(be going to) I am going to do – yapacağım        		I’m not going to do – yapmayacağım		am I going to do? - yapacak mıyım?
+S + be going to + V1  	   s/he is going to do – yapacak		s/he isn't going to do – yapmayacak		is s/he going to do – yapacak mı?
+			   you are going to do – yapacaksın		you aren't going to do – yapmayacaksın		are you going to do – yapacak mısın?
+
+			   I am going home – eve gidiyorum     		I am not going home – eve gitmiyorum  		am I going home? - eve gidiyor muyum?
+			   
                            I was going to do – yapacaktım      		I wasn’t going to do - yapmayacaktım		was I going to do? - yapacak mıydım?
                            I am going to have to do			I’m not going to have to do			am I going to have to do
 			   	yapmak zorunda olacağım				yapmak zorunda olmayacağım			yapmak zorunda olacak mıyım?
+
 
 Future Continous	   I will be doing – yapıyor olacağım		I won’t be doing - yapıyor olmayacağım		will I be doing? - yapıyor olacak mıyım?
 S + will be + Ving	   s/he will be doing - yapıyor olacak		s/he won't be doing - yapıyor olmayacak		will s/he be doing? - yapıyor olacak mı?
@@ -214,48 +219,59 @@ Get used Ving	           I get used to doing – yapmaya alışırım		I don't g
                            s/he got used to doing - yapmaya alıştı		s/he doesn't get used to doing – yapmaya alışmadı
 	 		   you got used to doing - yapmaya alıştın		you don't get used to doing - yapmaya alışmadın
 			   
-			   I am getting used doing – yapmaya alışıyorum		I’m not getting used doing
-			   s/he is getting used doing – yapmaya alışıyorum	s/he isn't getting used doing
-			   you are getting used doing – yapmaya alışıyorum	you aren't getting used doing
+			   I am getting used doing – yapmaya alışıyorum		I’m not getting used doing - yapmaya alışamıyorum	
+			   s/he is getting used doing – yapmaya alışıyorum	s/he isn't getting used doing - yapmaya alışamıyor	
+			   you are getting used doing – yapmaya alışıyorum	you aren't getting used doing - yapmaya alışamıyorsun
 			   
-                           I was getting used doing – yapmaya alışıyordum	I wasn’t getting used doing
-			   s/he is getting used doing – yapmaya alışıyordu	s/he isn't getting used doing
-			   you are getting used doing – yapmaya alışıyordun	you aren't getting used doing
+                           I was getting used doing – yapmaya alışıyordum	I wasn’t getting used doing – yapmaya alışamıyordum
+			   s/he is getting used doing – yapmaya alışıyordu	s/he isn't getting used doing – yapmaya alışamıyordu
+			   you are getting used doing – yapmaya alışıyordun	you aren't getting used doing - yapmaya alışıyordun
 
 
 
 OTHER STRUCTURES	   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-Had better	           I had better do - yapsam iyi olur	        I had better (not) study Maths	
-			   s/he had better do				s/he had better not do
-			   you had better do				you had better not do
+Had better	           I had better do - yapsam iyi olur	        I had better not do - yapmasam iyi olur	
+			   s/he had better do - yapsa iyi olur		s/he had better not do - yapmasa iyi olur
+			   you had better do - yapsan iyi olur		you had better not do - yapmasan iyi olur
 
-Be supposed to		   I am supposed to do - yapmam gerekiyor	I am not supposed to do				
-			   s/he is supposed to do			s/he is not supposed to do
-			   you are supposed to do			you are not supposed to do
+Be supposed to		   I am supposed to do - yapmam gerekiyor	I am not supposed to do - yapmamam gerekiyor				
+			   s/he is supposed to do - yapması gerekiyor	s/he is not supposed to do - yapmaması gerekiyor
+			   you are supposed to do - yapman gerekiyor	you are not supposed to do - yapmaman gerekiyor
+
+Ought to		   I ought to do - yapmalıyım			I ought not to do - yapmamalıyım
+			   s/he ought to do - yapmalı			s/he ought not to do - yapmamalı
+			   you ought to do - yapmalısın			you ought not to do - yapmamalısın
+
+			   I ought to have done	- yapmalıydım
+			   
+			   
+Be allowed to		   I am allowed to do - yapmama izin var
+			   s/he is allowed to do - yapmasına izin var
+			   you are allowed to do - yapmana izin var
+
+Managed to		   I managed to do - uğraşarak yaptım
+			   s/he managed to do - uğraşarak yaptı
+			   you managed to do - uğraşarak yaptın
+
 
 Be to			   I am to do
 			   s/he is to do
-			   you are to do		
+			   you are to do	
+			   
+Be likely to		   I am likely to do - muhtemelen yaparım		
+			   s/he is likely to do	- muhtemelen yapar 
+muhtemelen		   you are likely to do - muhtemelen yaparsın
+büyük ihtimalle			
+			   I was likely to do - muhtemelen yapardım
+			   I will be likely to do - muhtemelen yapacağım
 
-Ought to		   I ought to do				I ought not to do
-			   I ought to have done		
-			   s/he ought to do
-			   you ought to do
 			   
 Have got to		   I have got to do – yapmalıyım		
 			   s/he has got to do
 			   you have got to do
 
-Be likely to		   I am likely to do - büyük ihtimalle yaparım
-			   I was likely to do - büyük ihtimalle yapardım
-			   I will be likely to do - büyük ihtimalle yapacağım		
-			   s/he is likely to do	- büyük ihtimalle yapar 
-			   you are likely to do - büyük ihtimalle yaparsın
-			   
-Be allowed to		   I am allowed to do - yapmama izin var
-			   s/he is allowed to do - yapmasına izin var
-			   you are allowed to do - yapmana izin var
+
 
 
 
@@ -287,7 +303,7 @@ Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yap
 			   s/he wants to do - yapmak ister/istiyor	s/he doesn't want to do - yapmak istemez/istemiyor
 			   you want to do - yapmak istersin/istiyorsun	you don't want to do - yapmak istemezsin/istemiyorsun
 			   
-Need to			   I need to do – yapmaya ihtiyacım var	I don’t need to do/I need not to do
+Need to			   I need to do – yapmaya ihtiyacım var		I don’t need to do/I need not to do
 			   s/he needs to do				s/he doesn’t need to do
 			   you need to do
 			   	
@@ -300,15 +316,10 @@ Try			   I try to do					I don’t try to do
 			   you try to do				you don’t try to do
 
 			   I tried to do				I didn’t try
+			   
 			   I am trying to do				I’m not trying to do	
 			   s/he is trying to do
 			   you are trying to do
 
 
 
-
-
-
-
-
-prepared by Uğur ARSLAN and His Students
