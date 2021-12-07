@@ -12,12 +12,12 @@ HOW?                WHERE?                  WHEN?
 -----------------------------------------------------------------
 Manner              Place                   Time
 --------------------------------------------------------------------------
-silently            at home                 right now
-quickly             in Ankara               this morning 
-carefully           on a bus                in the evening
-slowly              in our garden           at six 
-openly              on the street           on Tuesday
-early               in a car                in Summer
+silently            at home                 right now                   he is sitting silently at home right now
+quickly             in Ankara               this morning                people voted quickly in Ankara this morning 
+carefully           on a bus                in the evening              the girl sat carefully on the bus in the evening
+slowly              in our garden           at six                      children built sand castles in our garden at six
+openly              on the street           on Tuesday                  the meeting will be organized on the street on Tuesday
+early               in a car                in Summer                   I wake up early in my car in summer
 hard                on the floor            in five weeks	
 happily             on television           on the weekend
 eagerly             at the station          at midnight
