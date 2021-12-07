@@ -14,46 +14,48 @@ Extra Conditionals
 
 
 Type Zero (0): (General Truth)
-              Herkesin doğru kabul ettiği kesin durumları/gerçek olayları ifade eder.
+                Herkesin doğru kabul ettiği kesin durumları/gerçek olayları ifade eder.
 
-              If + Present Simple, Present Simple
+                If + Present Simple, Present Simple
 
-              - if it snows, the roads get slippery.                          kar yağarsa yollar kayganlaşır
-              - if you don’t eat your meal, your mother gets angry.           yemeğini yemezsen annen kızar
-              - if you drink cold water, you get sick.                        soğuk su içersen hasta olursun
-              - if the satellite is slightly closer, the tidal bulge grows.   eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
+                - if it snows, the roads get slippery.                                kar yağarsa yollar kayganlaşır
+                - if you don’t eat your meal, your mother gets angry.                 yemeğini yemezsen annen kızar
+                - if you drink cold water, you get sick.                              soğuk su içersen hasta olursun
+                - if the satellite is slightly closer, the tidal bulge grows.         eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
+                - if water boils at 100 degree centigrade, it starts to evaporate     eğer su 100 derecede kaynarsa, buharlaşır
+              
 
 Type One (1): (Real Present)
-              Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
+                Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
 
-              If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
+                If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
               
-              - if you are adding value to others, the result will come       eğer diğer insanlara değer katıyorsan, sonucu gelir
-              - if you don’t get off the tree, you will fall                  ağaçtan inmezsen düşeceksin
-              - if we have worked hard, we can finish the project             çok çalışırsak projeyi bitirebiliriz
-              - if he has money, he will travel. he is broke in debt          parası olsa seyahat eder, borç batağında beş kuruşu yok
-              - I bet, if it snows, schools will be closed                    bahse varım, kar yağarsa, okullar kapanacak
-              - if he wins the lottery, he'll get you a phone                 lotoyu tutturursa/kazanırsa, sana telefon alacak
+                - if you are adding value to others, the result will come       eğer diğer insanlara değer katıyorsan, sonucu gelir
+                - if you don’t get off the tree, you will fall                  ağaçtan inmezsen düşeceksin
+                - if we have worked hard, we can finish the project             çok çalışırsak projeyi bitirebiliriz
+                - if he has money, he will travel. he is broke in debt          parası olsa seyahat eder, borç batağında beş kuruşu yok
+                - I bet, if it snows, schools will be closed                    bahse varım, kar yağarsa, okullar kapanacak
+                - if he wins the lottery, he'll get you a phone                 lotoyu tutturursa/kazanırsa, sana telefon alacak
 
 
 Type Two (2): (Unreal Present)
-              Gerçekleşme olasılığı çok az ya da imkânsız durumlar için kullanılır. 
-              Daha çok hayali durumları ifade etmek amacıyla tercih edilir. 
-              Konuşulan anı vurguladığı için şimdi veya gelecek zamandan bahseden cümlelerdir.
+                Gerçekleşme olasılığı çok az ya da imkânsız durumlar için kullanılır. 
+                Daha çok hayali durumları ifade etmek amacıyla tercih edilir. 
+                Konuşulan anı vurguladığı için şimdi veya gelecek zamandan bahseden cümlelerdir.
               
-              If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
+                If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
-              - if there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
-              - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
-              - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik.
-              - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi.
-              - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi.
-              - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum.
-              - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu.
+                - if there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
+                - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
+                - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik.
+                - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi.
+                - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi.
+                - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum.
+                - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu.
               
-              Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
-                   Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
-                   Bu nedenle, ‘was’ geçmesi gereken he, she it öznelerinde de ’was’ yerine ‘were’ kullanılır.
+                Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
+                     Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
+                     Bu nedenle, ‘was’ geçmesi gereken he, she it öznelerinde de ’was’ yerine ‘were’ kullanılır.
 
 
 Type Three (3): (Unreal Past)
@@ -70,40 +72,40 @@ Type Three (3): (Unreal Past)
 
 
 What if --> peki ya .. sa
-          - what if he calls the doctor
-          - what if the seller still insisted the discount was impossible?
-          - what if you need an answer by Tuesday
-          - but what if you don't know what herbs and spices are good to use for different meals?
-          - if you're already dating someone, the answer is easy.. but what if you're not?
+                - what if he calls the doctor
+                - what if the seller still insisted the discount was impossible?
+                - what if you need an answer by Tuesday
+                - but what if you don't know what herbs and spices are good to use for different meals?
+                - if you're already dating someone, the answer is easy.. but what if you're not?
 
 Wish    --> keşke
-          - wish he called the doctor
-          - I wish you had called me.
-          - I wish you had said something earlier.
-          - wish you were here
-          - wish you had never come here.
-          - wish she could have seen this.
-          - wish me luck ..
+                - wish he called the doctor
+                - I wish you had called me.
+                - I wish you had said something earlier.
+                - wish you were here
+                - wish you had never come here.
+                - wish she could have seen this.
+                - wish me luck ..
 
 If only --> keşke
-          - if only he called the doctor
-          - if only his mother were alive now.
+                - if only he called the doctor
+                - if only his mother were alive now.
 
 Only if --> ancak, yalnızca, sadece
-          - she would be cured, only if the doctor who she loves is called
-          - he was willing to continue the service only if the use of the weapons should be dropped
+                - she would be cured, only if the doctor who she loves is called
+                - he was willing to continue the service only if the use of the weapons should be dropped
 
 Even if --> .. sa bile
-          - even if he calls the doctor
-          - they will not be injured, even if they are not wearing safety belts.
-          - I don't think you would have fallen in love with him, even if you weren't married.
-          - he respected his colleague, even if he didn't always like him.
+                - even if he calls the doctor
+                - they will not be injured, even if they are not wearing safety belts.
+                - I don't think you would have fallen in love with him, even if you weren't married.
+                - he respected his colleague, even if he didn't always like him.
 
 Unless  --> .. madıkça, tabi .. mıyorsa/mamışsa
-          - unless he calls the doctor
-          - unless he was planning on getting them!
-          - unless there was something wrong with it
-          - I'll go ahead, unless you prefer I don't?
+                - unless he calls the doctor
+                - unless he was planning on getting them!
+                - unless there was something wrong with it
+                - I'll go ahead, unless you prefer I don't?
  
 
 
