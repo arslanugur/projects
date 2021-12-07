@@ -5,6 +5,26 @@ Adverbs of manner
 Adverbs of degree
 Adverbs of frequency
 
+
+                   BASIC ADVERBS
+-----------------------------------------------------------
+HOW?                WHERE?                  WHEN?
+-----------------------------------------------------------------
+Manner              Place                   Time
+--------------------------------------------------------------------------
+silently	        at home		            right now
+quickly             in Ankara               this morning 
+carefully           on a bus                in the evening
+slowly              in our garden           at six 
+openly              on the street           on Tuesday
+early               in a car                in Summer
+hard                on the floor            in five weeks	
+happily             on television           on the weekend
+eagerly             at the station          at midnight
+
+
+
+
 Adverb Placement
 subject + adverb + verb + object                : We often visit museums.
 subject + verb + object + adverb                : She speaks English well.
@@ -77,6 +97,8 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     I have not seen you since Monday.
     Jim has been working here since 1997.
     There has not been a more exciting discovery since last century.
+
+
 
 ---> ADVERBS OF PLACE --- WHERE?
     on -- off, in -- out, inside -- outside, over -- under, overseas, underground
@@ -157,70 +179,52 @@ subject + verb + adverb + preposition + object + adverb   : She looked suspiciou
     badly, boldly, bravely, eagerly, obediently, frankly, cheerfully, joyously, elegantly, justly, neatly - temizce
     kindly = gently, equally, cautiously, faithfully, honestly, dramatically, fantastically, obscenely - bariz şekilde
 
-    good = adjective, well = adverb
-           fast              fast
-           hard              hard
-           early             early
-           late              late
+            good = adjective    well = adverb
+            fast                fast
+            hard                hard
+            early               early
+            late                late
 
     ADJECTIVE                                                  ADVERB
     She is a careful driver. (O dikkatli bir sürücüdür)    --> She drives carefully. (Dikkatlice araba sürer)
     My father is good at football. (Babam futbolda iyidir) --> He plays football well. (O iyi (iyi bir şekilde) futbol oynar)
 
     ADVERB
-    my father drives carefully.                     (Babam dikkatli bir şekilde araba sürer.)
-    you should reply correctly.                     (Doğru bir şekilde yanıtlamalısın)
-    we were walking home quickly.                   (Çabuk bir şekilde eve yürüyorduk.)
-    the children are playing happily in the garden. (Çocuklar mutlu bir şekilde bahçede oynuyorlar)
-    they solved the problem easily.                 (Problemi kolayca çözdüler)
-    the cook cooked the dinner well.                (Aşçı akşam yemeğini iyi bir şekilde pişirdi.)
-    don’t drive fast.                               (Hızlı sürme)
-    you should study hard.                          (Sıkı çalışmalısın)
+    my father drives carefully.                     - Babam dikkatli bir şekilde araba sürer.
+    you should reply correctly.                     - Doğru bir şekilde yanıtlamalısın
+    we were walking home quickly.                   - Çabuk bir şekilde eve yürüyorduk.
+    the children are playing happily in the garden. - Çocuklar mutlu bir şekilde bahçede oynuyorlar
+    they solved the problem easily.                 - Problemi kolayca çözdüler
+    the cook cooked the dinner well.                - Aşçı akşam yemeğini iyi bir şekilde pişirdi.
+    don’t drive fast.                               - Hızlı sürme
+    you should study hard.                          - Sıkı çalışmalısın
 
 
 ---> ADVERBS OF QUANTITY 
 COUNTABLE NOUNS
-MANY / MORE
-    My neighbour has many cats and she wants more. 
-A LOT / LOTS
-    I want a lot of dogs and I want lots of cats too!
-FEW / FEWER
-    There are just a few fairies left in the forest and soon there will be fewer.
-TOO MANY != TOO FEW
-    There are not too many people left on the island and there are too few old people.
-(NOT) ENOUGH
-    You can’t have enough cats!
+        MANY / MORE                 - My neighbour has many cats and she wants more. 
+        A LOT / LOTS                - I want a lot of dogs and I want lots of cats too!
+        FEW / FEWER                 - There are just a few fairies left in the forest and soon there will be fewer.
+        TOO MANY != TOO FEW         - There are not too many people left on the island and there are too few old people.
+        (NOT) ENOUGH                - You can’t have enough cats!
 
 UNCOUNTABLE NOUNS
-MUCH / MORE
-    I haven’t got much time to spend with my dogs. I need more free time.
-A LOT / LOTS
-    There’s a lot of information on the internet and lots of data.
-LITTLE / LESS
-    I have little information on witches and even less on dragons.
-TOO MUCH / TOO LITTLE
-    You spend too much time with your dogs and too little with your friends.
-(NOT) ENOUGH
-    That’s enough happiness for a lifetime.
-    bir ömür boyu için yeterli mutluluk budur. 
+        MUCH / MORE                 - I haven’t got much time to spend with my dogs. I need more free time.
+        A LOT / LOTS                - There’s a lot of information on the internet and lots of data.
+        LITTLE / LESS               - I have little information on witches and even less on dragons.
+        TOO MUCH / TOO LITTLE       - You spend too much time with your dogs and too little with your friends.
+        (NOT) ENOUGH                - That’s enough happiness for a lifetime.   (bir ömür boyu için yeterli mutluluk budur.) 
+
 
 --> ADVERBS BEFORE ADJECTIVE
-TOO
-    this spell is too powerful, don’t use it indoors.
-SO
-    it’s so powerful, it can turn a hundred people into zombies.
-A LITTLE (BIT)
-    be careful with that cat lady. She’s a little bit crazy.
-ENOUGH (comes after the adjective)
-    she’s a nice person, she’s just not friendly enough.
-(NOT) VERY
-    I would say she’s very rude.
-QUITE
-    this forest is quite scary.
-RATHER
-    that dragon is rather scary, too.
-PRETTY
-    it’s pretty dark in here.
+        TOO                                 - this spell is too powerful, don’t use it indoors.
+        SO                                  - it’s so powerful, it can turn a hundred people into zombies.
+        A LITTLE (BIT)                      - be careful with that cat lady. She’s a little bit crazy.
+        ENOUGH (comes after the adjective)  - she’s a nice person, she’s just not friendly enough.
+        (NOT) VERY                          - I would say she’s very rude.
+        QUITE                               - this forest is quite scary.
+        RATHER                              - that dragon is rather scary, too.
+        PRETTY                              - it’s pretty dark in here.
     
     
     
@@ -267,9 +271,6 @@ ADVERBS OF AFFIRMATION or NEGATION
     There’s no chance they’re going to win tonight. Especially not since they lost their start player.
     She has never been to Las Vegas, so I’m certain she hasn’t gotten married behind his back. 
     I don’t see any way this project could hope to be profitable. --> Bu projenin karlı olmasını ummanın bir yolunu göremiyorum.
-
-
-
 
 
 
