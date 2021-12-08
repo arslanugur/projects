@@ -12,7 +12,7 @@ Linguistics – 10 Questions
                     Phonetics                     discourse analysis
                     Morphology                    language acquision
                     Syntax                        neurolinguistics
-                    Semantics	                    applied linguistics
+                    Semantics	                  applied linguistics
                                                   pragmatics
 
 ---> What is Language?
@@ -29,105 +29,105 @@ Linguistics – 10 Questions
 
 
 ---> Approaches to language
-	          Ferdinand de Saussure
-		                 - Langue: Abstract rules and conventions of a signifying system shared by a community --- Grammar
-		                 - Parole: Concrete act of speaking by an individual                                   --- Speaking
+		Ferdinand de Saussure
+				- Langue: Abstract rules and conventions of a signifying system shared by a community --- Grammar
+				- Parole: Concrete act of speaking by an individual                                   --- Speaking
 	          
-            Noam Chomsky
-		                 - Competence: What a person knows of language/Knowing the rules of language
-                     - Performance: Actual Speech Production
+		Noam Chomsky
+				- Competence: What a person knows of language/Knowing the rules of language
+				- Performance: Actual Speech Production
 
-            Dell Hymes
-		                 - Communicative Competence
-			                     The knowledge of grammatical rules
-			                     The knowledge of rules of using language in social contexts
+		Dell Hymes
+		                - Communicative Competence
+			              The knowledge of grammatical rules
+			              The knowledge of rules of using language in social contexts
 			                    
-                            1. Grammatical Competence
-			                              Knowledge of lexical items, phonology, rules of morphology, syntax, semantics
+				1. Grammatical Competence
+			               Knowledge of lexical items, phonology, rules of morphology, syntax, semantics
                                     
-                                    # gives answers to the questions below
-				                            - Which words need to be used?
-                                    - how words must be used to form sentences or phrases?
+                                       # gives answers to the questions below
+				       - Which words need to be used?
+                                       - how words must be used to form sentences or phrases?
 
-                            2. Sociolinguistic Competence
-			                              Knowledge of appropriate language use in certain social situations or for a topic
-			                              Knowledge of rules and conventions
+                            	2. Sociolinguistic Competence
+			               Knowledge of appropriate language use in certain social situations or for a topic
+			               Knowledge of rules and conventions
                                     
-                                    # gives answers to the questions below
-				                            - Which words are suitable for this situation, topic or context?
+                                    	# gives answers to the questions below
+				        - Which words are suitable for this situation, topic or context?
 			
-                            3. Discourse Competence
-			                              Knowledge/Ability of putting forms and sentences- 
-                                    in an order to achieve coherence/cohesion in a text, dialogue, speech etc. (yapısal ve anlamsal)
+                            	3. Discourse Competence
+			            	Knowledge/Ability of putting forms and sentences- 
+                                    	in an order to achieve coherence/cohesion in a text, dialogue, speech etc. (yapısal ve anlamsal)
 	       		                        
-                                    # gives answers to the questions below
-                                    - How words, phrases or sentences must be put together to achieve coherence or cohesion?
+                                    	# gives answers to the questions below
+                                    	- How words, phrases or sentences must be put together to achieve coherence or cohesion?
                                     
-                            4. Strategic Competence
-                                    The ability to overcome communication breakdowns
+                            	4. Strategic Competence
+                                	The ability to overcome communication breakdowns
                             				
-                                    # gives answers to the questions below
-                                    - How can I express myself when I forget or dont know the name of sth?
+                              		# gives answers to the questions below
+                                    	- How can I express myself when I forget or dont know the name of sth?
 
 
-                                    # İki şey yapılmalı.
-				                            1. Avoidance
-				                            2. Compensatory Strategy
-				                                Circumlocution:       Using multiple words to explain sth by describing its shape or function
-				      	                                              - Ball: the round thing you use to play football
-                                                              - Lorry: the vehicle that is used to carry large things
+                                 # İki şey yapılmalı.
+					1. Avoidance
+					2. Compensatory Strategy
+						Circumlocution:		Using multiple words to explain sth by describing its shape or function
+				      	                              	- Ball: the round thing you use to play football
+                                                       		      	- Lorry: the vehicle that is used to carry large things
                                                               
-				                                Coinage:        			Using a Word that doesnt exist in the language to substite for unknown Word
-					                                                    - zoo: animal prison
-      
-                                        Using Purpose Words:  Using some words such as thing, stuff, object to substitute of unknown word
-					                                                    - give me that thing
+				                Coinage:		Using a Word that doesnt exist in the language to substite for unknown Word
+					                                - zoo: animal prison
+						
+						Using Purpose Words:	Using some words such as thing, stuff, object to substitute of unknown word
+					                                - give me that thing
 				      
-                                        Approximation:				Using sth similar to the thing that is unknown by a speaker
-					                                                    - using duck for goose
+                                        	Approximation:		Using sth similar to the thing that is unknown by a speaker
+					                                - using duck for goose
 				     
-                                        Time Gaining:         Using words such as “well, uh” etc. you know to gain more time to find the          
-                                                              ... word that is unknown
+                                        	Time Gaining:         	Using words such as “well, uh” etc. you know to gain more time to find the          
+                                                              		... word that is unknown
                                                               
                                                               
 ---> Properties of Language
-        - Arbitraries (Rasgelelik)
-                      No logical connection between a word and its meaning
-                      "car" is named in this way arbitrarily. No reason why we call this vehicle as car
+		- Arbitraries (Rasgelelik)
+                	No logical connection between a word and its meaning
+			"Car" is named in this way arbitrarily. No reason why we call this vehicle as car
 		
-         - Displacement (Yer v Zaman anlamında dilin sınırı yok)
-		                	No limitation in language in terms of time, place or object while speaking
-			                We can talk about past and future
-			                We can talk about things that are not present
-			                We can talk about things that cannot be seen
-		
-          - Discreteness (Farklılık)
-			                Every language has sounds that are unique
-			                Each sound in the language is different from others
-			                “p” and “b” are different from one another or cat, bat, eat..
-		
-          - Duality (Double Articulation) (sesler diğer seslerle birleşip sonsuz anlam oluşturur)
-			                The sounds in the language have two characteristics:
-			                they are unique
-			                they can be combined with other sounds to produce limitless messages
-		
-          - Cultural Transmission (Kültür Aktarımı)
-			                Language is transmitted to future generations by culture
-			                It is not transmitted genetically
-		
-           - Productivity (Creativity)
-			                Language allows us to produce as many sentences we want or we can
-			                We can talk as much as we can by language
-			                We can produce limitless utterances they have never been heard
-			                Herkes farklı cümleler kurar bir resme bakarak
-		
-           - Reflexivity
-			                Using language to talk about itself
-		                  Recursiveness (Uzatılarak tekrarlılık)
-			                Same structures of language can be used to produce longer utterances
-			                “I went to mall“
-			                “I went to mall and bought a pair of sneakers”
-			                “I went to mall, bought a pair of sneakers anda te pizza”
+		- Displacement (Yer v Zaman anlamında dilin sınırı yok)
+			No limitation in language in terms of time, place or object while speaking
+			We can talk about past and future
+			We can talk about things that are not present
+			We can talk about things that cannot be seen
+
+		- Discreteness (Farklılık/Ayrıklık)
+			Every language has sounds that are unique
+			Each sound in the language is different from others
+			“p” and “b” are different from one another or cat, bat, eat..
+
+		- Duality (Double Articulation) (sesler diğer seslerle birleşip sonsuz anlam oluşturur)
+			The sounds in the language have two characteristics:
+				they are unique
+				they can be combined with other sounds to produce limitless messages
+
+		- Cultural Transmission (Kültür Aktarımı)
+			Language is transmitted to future generations by culture
+			It is not transmitted genetically
+
+		- Productivity (Creativity)
+			Language allows us to produce as many sentences we want or we can
+			We can talk as much as we can by language
+			We can produce limitless utterances they have never been heard
+			Herkes aynı resme bakarak farklı cümleler kurabilir
+
+		- Reflexivity
+			Using language to talk about itself
+			Recursiveness (Uzatılarak tekrarlılık)
+			Same structures of language can be used to produce longer utterances
+				“I went to mall“
+				“I went to mall and bought a pair of sneakers”
+				“I went to mall, bought a pair of sneakers anda te pizza”
 
 
 
