@@ -1,5 +1,5 @@
----> MODALS
-can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request
+---> MODALS															prepared by Uğur ARSLAN and His Students
+can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request					    @arslanuguur
 may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
 must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
 shall		-acak, -ecek		(niyet)		intention, supposition
@@ -230,7 +230,46 @@ could have participle		past unreal ability		he could have taken the flight off
 	- 
 
 
+---> USED TO
+	Now you’re just somebody that I used to know			Şimdi sen sadece eskiden tanıdığım birisin
+	
+	
+	used to + V1 (-ardım, -erdim)
+		Geçmişte sürekli olarak yapılan ama artık yapılmayan eylemleri ya da alışkanlıkları ifade ederken used to kalıbını kullanıyoruz.
+
+	Did you use to ride a bike when you were very young?		Çok gençken bisiklet sürer miydin?
+	The poor people in the village used to rely on his benevolence	Köydeki fakir insanlar onun yardımlarına güvenirdi
+	My family used to live in that old house once upon a time	Ailem bir zamanlar o eski evde kalırdı. = Şimdi başka evde kalıyor
+	I used to grind my teeth when I got angry during my childhood	Çocukluğumda, sinirlendiğimde dişlerimi gıcırdatırdım.= Ancak şimdi yapmıyorum
+	I used to play basketball. I don’t play anymore
+	Did you use to drink milk a lot? 				Eskiden çok süt içer miydin?
+	Where did you use to live? 					Nerede yaşıyordun?
+	She didn’t use to eat a lot, but she does now 			Eskiden çok yemezdi, ama şimdi yiyor
+	She and her friend didn’t use to talk with each other		Ayşe ve arkadaşı birbirleri ile konuşmazdı
+	She didn’t use to live in İstanbul 10 years ago			10 yıl önce İstanbul’da yaşamıyordu
+
+
+	be used to + Ving (Alışık Olmak)
+		Bu yapı “alışkanlık” ifade eder. Yani, şuanda yapıldığını gösterir. Kendisinden sonra mutlaka isim alır.
+	
+	I was used to waiting for hours to see my doctor		Doktorumu görmek için saatlerce beklemeye alışıktım
+	I am used to getting up early					Ben erken kalkmaya alıştım
+	Some students aren’t used to the snow and ice in Erzurum	Bazı öğrenciler Erzurum’daki fırtına ve kara alışkın değiller
+	Women in the Anatolia are used to getting up early every day	Anadolu’daki kadınlar her gün erken kalkmaya alışkınlar
+	Are you used to driving your car fast?				Arabanızı hızlı sürmeye alışık mısınız?
+	I’m used to running fast.					Hızlı koşmaya alışkınım
+	
+	
+	get used to + Ving (Gittikçe alışmak)
+		Yeni yeni alışılmaya başlayan olaylarda kullanılır. Bir şeye alışmak eylemini ifade eder.
+	
+	He is getting used to learning how to drive a car				Araba sürmesini gittikçe öğreniyor
+	They are getting used to learning how replying to my questions in English	İngilizce sorularıma cevap vermeye gittikçe alışıyorlar
+	You will get used to the noise soon						Kısa süre sonra bu gürültüye alışacaksın
+	I never got used to shaking hands with people all the time when I lived there	Orada yaşarken durmadan insanlarla el sıkışmaya hiç alışamadım
+	I’m getting used to running away from the work nowadays owing to stress and strains in my business life
+	İş hayatımdaki stres ve gerginlikler yüzünden son zamanlarda işten kaçmaya alışıyorum/adet ediniyorum
 
 
 
-prepared by Uğur ARSLAN and His Students
+
