@@ -5,6 +5,7 @@
 		Pronoun		Turkish			Example
 ---------------------------------------------------------------------------------------------------------------
 SINGULAR        someone		biri			there is someone at the door					kapıda biri var
+							when someone hugs you, let them be the first to let go		biri sana sarıldığında, ilk bırakan o olsun
                 somebody	birisi			somebody is knocking at the door				birisi kapıya vuruyor
                 something	bir şey	        	there is something makes me want to keep doing			devam etmemi bana isteten bir şey var
 							listen up! I just heard something. what could it be?		dinle! şu an bir şey duydum. o ne olabilir ki?
@@ -22,7 +23,8 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                 anywhere	herhangi bir yer
 		------------------------------------------------------------------------------------------------
                 none (no one)	hiç biri        	no one can cope with her in English				ingilizcede kimse onunla baş edemez
-							no one will help you in this situation				hiç birisi bu durumda sana yardım edemez 
+							no one will help you in this situation				hiç birisi bu durumda sana yardım edemez
+							look on the bright side, no one was hurt			iyi tarafından bak, kimse zarar görmedi
                 nobody        	hiç birisi        	nobody watches telly (tv) anymore                   		artık kimse televizyon izlemiyor/izlemez
 							I dont believe nobody saw it					kimsenin görmediğine inanmıyorum
                 nothing       	hiçbir şey        	nothing is impossible to a willing person			istekli bir kişi için hiçbir şey imkansız değildir 
