@@ -1,6 +1,19 @@
+CORRECT:					INCORRECT:
+I am looking forward to seeing you		I am looking forward to see you
+your hair is really nice			your hairs are really nice
+you should practice speaking English		you should practice to speak English
+I work for a bank				I work in a bank
+one of my friends lives in Tokyo		one of my friend live in Tokyo
+she is good at English				she is good in English
+
+
+
+---> FIT, MATCH, SUIT
 to fit		uymak, oturmak, uydurmak	my glasses doesn’t fit
 to match	eşleştirmek, uygun olmak	your blue shirt matches your blue eyes
 to suit		yakışmak, uymak			that dress really suits you
+
+
 
 
 tough		(adj)	zor, sağlam, kuvvetli
@@ -25,22 +38,24 @@ go fishing		go to America
  
 
 
-CORRECT:					INCORRECT:
-I am looking forward to seeing you		I am looking forward to see you
-your hair is really nice			your hairs are really nice
-you should practice speaking English		you should practice to speak English
-I work for a bank				I work in a bank
-one of my friends lives in Tokyo		one of my friend live in Tokyo
-she is good at English				she is good in English
+
+---> TONGUE TWISTERS
+- red lorry, yellow lorry
+- three witches wished three wishes. so, which witch wished which wish?
+- she sells sea shells by the sea shore. the shells she sells are surely seashells. so if she sells shells on the seashore, I'm sure she sells seashore shells
+- Peter Piper picked a peck of pickled peppers. A peck of pickled peppers Peter Piper picked
 
 
 
+---> DILEMMAS
 how long does the winter last in there	- orada kış ne kadar sürer?**
 how long is the winter in there		- kış orda ne kadar uzundur?
 
+We talked about my leaving the course	- Kurstan ayrılmam hakkında konuştuk 
+We talked about leaving my course	- Kursumu bırakmak hakkında konuştuk 
 
-it is only a matter of time that he resigns - istifa etmesi an meselesi
-
+Corps – a military units trained to perform particular duties
+Corpse – a dead body, usually of a person
 
 
 state - durum vaziyet, hal	- he was in a sad state				üzgün bir haldeydi
@@ -56,6 +71,12 @@ state - belirtmek, ifade etmek, dile getirmek
 
 
 
+---> STRUCTURES
+there is always something good to think
+
+
+
+
 
 ARRIVE
 we arrive home / today / late / right on time
@@ -65,7 +86,7 @@ we arrived at the village
 we arrived on monday
 
 
-GET
+---> GET
 I get up early every day
 I get on a bus
 I am getting bored with the film   It is getting boring here
@@ -88,37 +109,9 @@ a growing concern for	için artan endişe
 data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
 veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
 
-tongue twisters
-- three witches wished three wishes. so, which witch wished which wish?
-
-We talked about my leaving the course
-We talked about leaving my course
 
 
-Corps – a military units trained to perform particular duties
-Corpse – a dead body, usually of a person
 
-
-to whom it may concern.. - ilgili kişiye
-behave yourself - terbiyeni takın, kendine gel, uslu dur
-comparison destroy personality. it's not sharp enough, it's not colourful enough
-
-trying to control what is outside of your control will control you
-one day you will wake up and there won't be any more time to do the things you have always wanted to do. Do it now!
-when you focus on you, you grow. when you focus on shit, shit grows.
-with right people you grow every day
-now more than ever I trust the waiting
-eventually all waves settle
-a champion is someone who gets up when he can't
-it is hard to beat a person who never gives up
-if I had eight hours to chop down a tree, I would spend six hours sharpening my ax.
-always start out with a larger pot than what you think you need
-what one does is what counts. not what one had the intention of doing
-the measure of intelligence is the ability to change
-don't take advice from people like me. do your own thing always
-embracing a future that is hybrid
-you got ripped off - kazıklanmışsın
-use restraint - kendini tutmayı/sınırlandırmayı lehine kullan
 
 phrasal verbs
 we will see about that - onun icabına bakarız, onun hakkında gereğini yaparız, onunla ilgili ilgileniriz
@@ -188,7 +181,7 @@ MAKE  + Object --> a phone call, the bed, a cake, a mistake, a comment, dinner
                     made with 
 
 
-DIRECTION
+---> DIRECTION
 walk until you see the statue - heykeli görene kadar yürü
 go through the park - parkın içinden geç
 walk for five minutes - beş dakika yürüyün
@@ -209,8 +202,8 @@ don't lose momentum
 house always win
 move fast break things
 persistance pays off - kalıcılık karşılığını verir
-Every C in Pacific Ocean is pronounced differently
 good opportunity/positions don't win games, good moves do
+Every C in Pacific Ocean is pronounced differently
 can you break a twenty - bir yirmilik bozabilir misin
 I dont have any change on me - üzerimde hiç bozuk yok
 we offer free delivery on orders over fifty dollar - elli dollar üzerindeki siparişlere ücretsiz kargo sunuyoruz
@@ -220,10 +213,9 @@ don't make a sound - ses yapma
 is that really so - gerçekten öyle mi
 what is the hurry - ne bu acelen
 your opinion will never cut me a check - senin fikrin benim kontrolümü kesemez
-I'm not everybody's cup of tea
 get it over with - elini çabuk tut
 flattery will get you nowhere - boşuna yağ çekmepresent company excluded - sözüm meclisten dışarı
-I am on it - O iş bende
+I am on it - o iş bende
 it was not meant to be - kısmet değilmiş
 I am not buying it honey - yemezler canım
 don't mess with me - bana bulaşma
@@ -258,6 +250,46 @@ my battery is dead / low - şarjım bitti / az kaldı
 you know what - ne diyeceğimi biliyorsun
 it is better than nothing  - hiç yoktan iyidir
 it is my turn - benim sıram
+to whom it may concern.. - ilgili kişiye
+behave yourself - terbiyeni takın, kendine gel, uslu dur
+comparison destroy personality. it's not sharp enough, it's not colourful enough
+there is no other way, it is only a matter of time that he resigns - başka bir yol yok, istifa etmesi an meselesi
+boxing is managing pressure, it's being alert but being relaxed - boksta stresi yönetmek gerekiyor, hem tetikte olman gerekir, hem de rahat
+this fatty is reading your rival - bu şişko rakibini okuyor
+no big deal - büyük bir mesele değil
+he is dedicated - kendini adamış
+I have always been involved with sports - hep sporla ilgilendim
+weirdly very cerebral, very technical one - tuhaf bir şekilde aşırı zeki, aşırı teknik biri
+at first I thought they wouldnt understand each other - ilk bakışta bu insanların birbirilerini hiç anlamayacağını sandım
+no matter how hard you try, it might not work - ne kadar uğraşırsan uğraş, işe yaramayabilirdi
+she is all instinct, just the opposite - o tamamaen içgüdüsel biri, tam zıttı
+good captains go down with the ship, gentlemen it was an honour playing with you tonight - iyi kaptanlar gemiyle batar
+wanderlust - yolculuk tutkusu
+precise - düzgün
+peculiar - özel
+unhinged - kafayı yemiş
+plausible
+privilige - ayrıcalık,
+priceless - kıymetli
+I'm awake - uyanığım
+leg trapped - bacağım sıkıştı
+one step further - bir adım ileri
+trying to control what is outside of your control will control you
+one day you will wake up and there won't be any more time to do the things you have always wanted to do. Do it now!
+when you focus on you, you grow. when you focus on shit, shit grows.
+with right people you grow every day
+now more than ever I trust the waiting
+eventually all waves settle
+a champion is someone who gets up when he can't
+it is hard to beat a person who never gives up
+if I had eight hours to chop down a tree, I would spend six hours sharpening my ax.
+always start out with a larger pot than what you think you need
+what one does is what counts. not what one had the intention of doing
+the measure of intelligence is the ability to change
+don't take advice from people like me. do your own thing always
+embracing a future that is hybrid
+you got ripped off - kazıklanmışsın
+use restraint - kendini tutmayı/sınırlandırmayı lehine kullan
 we are safe and sound  - sağ salimiz, güvendeyiz 
 don't piss me off - beni kızdırma
 get well soon - geçmiş olsun
@@ -319,7 +351,6 @@ nice pull - iyi numara
 you sneaky little minx - seni küçük sinsi şeytan
 you first - önden buyur
 secure the perimeter
-I dont believe nobody saw it - kimsenin görmediğine inanmıyorum
 fork lift - çatal yükselmek --> forklift
 right this way - bu taraftan
 what is going on there - ne oluyor orda
@@ -395,6 +426,62 @@ in a sewer - kanalizasyonda
 guess what - bil bakalım..
 hurry up - acele et
 
+
+---> 50 Life Lessons - 50 Hayat Dersi
+look people in the eye - insanların gözlerinin içine bak
+if you in a fight, hit hard and hit first - eğer bir dövüşteysen, sert vur ve ilk sen vur
+keep it simple - basit tut
+have a firm handshake - kararlı bir el sıkışına sahip ol
+once in a while, take the scenic route - arada bir, manzaralı yoldan git
+take charge of your attitude . don't let someone else choose it for you - tavrına sahip çık. başkasının senin için seçmesine izin verme
+own a great stereo system
+don't expect life to be fair - hayatın adil olmasını bekleme
+count your blessings - yat kalk haline şükret
+never give up on anybody. miracles happen everyday - birisinden asla vazgeçme, mucizeler her gün olur
+always accept an outstretched hand - her zaman uzanmış bir eli kabul et
+be brave. even if you are not, pretend to be. no one can tell the difference
+whistle - ıslık çal
+avoid sarcastic remarks - alaycı sözlerden kaçın
+don't make it a habit to do nice things for people who will never find out - asla öğrenemeyecek insanlar için güzel şeyler yapmayı alışkanlık haline getirme 
+lend only those books you never care about - sadece hiç umursamadığın kitapları ödünç ver
+when playing games with children, let them win - çocuklarla oynadığın zaman kazanmalarına izin ver
+give people a second chance, but not a third - insanlara ikinci şansı ver, ama üçüncüyü değil
+become the most positive and enthusiastic person you know - tanıdığın en pozitif ve hevesli insan ol 
+loosen up, relax. Except for rare life and death matters, nothing is as important as it first seems
+	gevşe, rahatla. nadir ölüm kalım meseleleri dışında, hiçbir şey ilk göründüğü kadar önemli değil 
+remember that 80 percent of the success in any job is based on your ability to deal with people
+	herhangi bir işteki başarının yüzde 80'inin insanlarla başa çıkma yeteneğinize bağlı olduğunu unutmayın
+dont allow the phone to interrupt important moments. it's there for our convenience, not the caller's
+	telefonun önemli anları kesmesine izin verme. bizim rahatlığımız/kolaylığımız için orada, arayanın kolaylığı için değil 
+be a good loser and be a good winner - iyi bir kaybeden ol ve iyi bir kazanan ol
+think twice before burdening a friend with a secret - bir arkadaşına bir sır yüklemeden önce iki kez düşün 
+be modest. a lot was accomplished before you were born - mütevazı ol. sen doğmadan önce çok şey başarıldı 
+beware of the person who has nothing to lose - kaybedecek hiçbir şeyi olmayan kişiden uzak dur
+don't burn bridges. even you will be surprised how many times you have to cross the same river
+	köprüleri yakma. aynı nehri kaç kez geçmen gerektiğine sen bile şaşıracaksın 
+live your life so that your obituary could read. no regrets
+	hayatını öyle yaşa ki ölüm ilanını okuyabilsinler. pişmanlık yok 
+be bold and courageous. when you look back on life. you will regret things you didn't do more than the ones you did
+never waste an opportunity to tell someone you love them
+remember no one makes it alone. have a grateful heart and be quick to acknowledge those who helped you
+	unutma kimse tek başına yapmaz. minnettar bir kalbe sahip ol ve sana yardım edenleri hemen kabul et 
+visit friends and relatives when they are in the hospital; even if it is just for a few minutes
+	hastanedeyken arkadaşlarını ve akrabalarını ziyaret et; sadece birkaç dakikalığına da olsa 
+begin each day with some of your favorite music
+send a lot of Valentine cards. sign them, "someone who thinks you are terrific"
+answer the phone with enthusiasm and energy in your voice - telefona sesinizde coşku ve enerjiyle cevap ver
+keep a notepad and pencil on your bed-side table. million-dollar ideas sometimes strike at three am
+show respect for everyone who works for living, regardless of how trivial their job - işleri ne kadar önemsiz olursa olsun, yaşamak için çalışan herkese saygı göster
+send your loved ones flowers. think of a reason later - sevdiğin birilerine çiçek gönder. sebebini sonra düşün
+make someone's day by paying the toll for the person in the car behind you
+	arkanızdaki arabadaki kişinin geçiş ücretini ödeyerek birinin gününü güzelleştirin 
+become someone's hero
+never deprive someone of hope; it might be all they have - asla kimseyi umuttan mahrum etme; sahip oldukları tek şey bu olabilir
+be romantic, marry only for love and choose your life mate carefully - hayat ortağını dikkatli seç
+keep secrets
+sing in the shower
+compliment the meal when you are a guest in someone's home
+wave at the children on a school bus
 
 
 
