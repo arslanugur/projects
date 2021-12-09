@@ -21,7 +21,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                                         		is there anything in this bag?					bu çantada bir şey var mı?
                 anywhere	herhangi bir yer
 		------------------------------------------------------------------------------------------------
-                none (no one)	hiç biri        	no one can cope with her in English				ingilizcede kimse onunda baş edemez
+                none (no one)	hiç biri        	no one can cope with her in English				ingilizcede kimse onunla baş edemez
 							no one will help you in this situation				hiç birisi bu durumda sana yardım edemez 
                 nobody        	hiç birisi        	nobody watches telly (tv) anymore                   		artık kimse televizyon izlemiyor/izlemez
 							I dont believe nobody saw it					kimsenin görmediğine inanmıyorum
