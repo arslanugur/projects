@@ -1,9 +1,4 @@
-There are two types of modifiers: adjectives and adverbs.
-
-"the first step is always the hardest."
-"difficult roads lead to beautiful destinations"
-"I don't believe I have special talents. I have persistence."
-
+There are two types of MODIFIERS: adjectives and adverbs.
 
 ---> ADJECTIVES
           IRREGULAR ADJECTIVES
@@ -169,12 +164,14 @@ nobody's perfect                                  hiç kimse kusursuz değildir
 take it easy                                      sakin ol, kolay gelsin
 easy-peasy                                        çocuk oyuncağı
 keep your friends close, but your enemies closer. dostlarını yakın tut, ama düşmanlarını daha yakında tut 
-are you not entertained?                          eğleniyor musun?
+are you not entertained?                          eğlenmiyor musun?
+the first step is always the hardest              ilk adım her zaman en zorudur
 he is distracted                                  dikkati dağınık
 you are distrating me                             dikkatimi dağıtıyorsun
 you are our national treasure                     sen milli servetimizsin
 this is more serious than i thought               bu sandığımdan daha ciddi
 it was a dull and boring day                      sıradan ve sıkıcı bir gündü
+I chose a bad day to turn twenty-five             yirmi beş yaşına girmek için kötü bir gün seçtim
 as usual, you turned up late again                her zamanki gibi, yine geç geldin
 I think, we met earlier                           sanırım, daha önce tanışmıştık
 body asleep, mind awake                           vücut uykulu, zihin uyanık
@@ -210,6 +207,8 @@ first time i have been in school for three consecutive days           sanırım 
 I am sleepy today = I am slumbery today
 call me later = ring me up later
 the greatest happiness is to know the source of unhappiness
+difficult roads lead to beautiful destinations
+I don't believe I have special talents. I have persistence
 
 
 ---> SYNONYM and ANTONYM
