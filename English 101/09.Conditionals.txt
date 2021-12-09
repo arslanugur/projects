@@ -1,5 +1,5 @@
-if I had eight hours to chop down a tree, I would spend six hours sharpening my ax                                                                     prepared by Uğur ARSLAN
-         eğer bir ağacı kesmek için sekiz saatim olsaydı, altı saatimi baltamı bilemek için harcardım                                                             @arslanuguur
+if I had eight hours to chop down a tree, I would spend six hours sharpening my ax                                                                   prepared by Uğur ARSLAN
+         eğer bir ağacı kesmek için sekiz saatim olsaydı, altı saatimi baltamı bilemek için harcardım                                                           @arslanuguur
 
 CONDITIONALS
 - Type Zero   (0) ------  Certain
