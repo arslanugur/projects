@@ -30,13 +30,13 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
 							nothing feels heavier than unsaid words				hiçbir şey söylenmemiş kelimelerden daha ağır hissettir.
                 nowhere       	hiçbir yer        	we went nowhere this weekend. we stayed home			bu hafta bir yere gitmedik. evde kaldık
 		------------------------------------------------------------------------------------------------
-                everyone	herkes			everyone cheered for the violinist at our school concert
-				her biri	        everyone knows something about that incident/accident
-							everyone seems to be happy
+                everyone	herkes			everyone cheered for the violinist at our school concert	okul konserimizde herkes kemancıyı alkışladı 
+				her biri	        everyone knows something about that incident/accident		herkes o olay/kaza hakkında bir şeyler biliyor 
+							everyone seems to be happy					herkes mutlu görünüyor				
                   
-		everybody	herkes
-                everything    	her şey		        everything is going as planned
-                everywhere    	her yer        		I checked everywhere to find my keys
+		everybody	herkes			I'm not everybody's cup of tea					ben herkesin anlayabileceği biri değilim
+                everything    	her şey		        everything is going as planned					her şey planladığı gibi gidiyor 
+                everywhere    	her yer        		I checked everywhere to find my keys				anahtarlarımı bulmak için her yeri kontrol ettim
 		------------------------------------------------------------------------------------------------
                 every         	her        		I heartily congratulate every player on this team
                 each		her bir, her biri      	each company is fighting to protect its own commercial interests
