@@ -1,3 +1,6 @@
+if I had eight hours to chop down a tree, I would spend six hours sharpening my ax                                                                     prepared by Uğur ARSLAN
+         eğer bir ağacı kesmek için sekiz saatim olsaydı, altı saatimi baltamı bilemek için harcardım                                                             @arslanuguur
+
 CONDITIONALS
 - Type Zero   (0) ------  Certain
 - Type One    (1) ----    Possible
@@ -52,6 +55,7 @@ Type Two (2): (Unreal Present)
                 - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi.
                 - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum.
                 - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu.
+
               
                 Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
                      Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
@@ -64,11 +68,10 @@ Type Three (3): (Unreal Past)
 
                 If + Past Perfect/ Past Perfect Continuous,  Would/ Could/ Might + Perfect Bare Infinitive (have + V3)
                 
-                - If your mom had given birth to you as a girl, you would still run away from home  (Annen seni kız olarak doğursaydı, yine evden kaçardın)
-                - If you had locked the door, the thief wouldn’t have got in.                       (Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi.) – eleştiri
-                - If you had studied hard enough, you could have passed the exam.                   (Yeteri kadar çalışmış olsaydın sınavı geçebilirdin.) – eleştiri
-                - If I had been more careful, I would have won the race.                            (Daha dikkatli olsaydım yarışı kazanabilirdim.) – pişmanlık
-
+                - if your mom had given birth to you as a girl, you would still run away from home    Annen seni kız olarak doğursaydı, yine evden kaçardın
+                - if you had locked the door, the thief wouldn’t have got in.                         Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi – eleştiri
+                - if you had studied hard enough, you could have passed the exam.                     Yeteri kadar çalışmış olsaydın sınavı geçebilirdin – eleştiri
+                - if I had been more careful, I would have won the race.                              Daha dikkatli olsaydım yarışı kazanabilirdim – pişmanlık
 
 
 What if --> peki ya .. sa
@@ -132,7 +135,3 @@ Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olab
 
 
 
-
-
-
-prepared by Uğur ARSLAN and His Students
