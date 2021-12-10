@@ -104,9 +104,22 @@ TO - -e, -a doğru, 		the bus is going to Ankara
 
 	ile, arasında		the cistern’s  five to six meters deep.		O sarnıcın derinliği 5 ile 6 metre
 
+PAST - geçince			The car is going past the post office
+
+FOR - için, -dır, -dir, 	I bought that car for 3.000 £. (O arabayı 3.000 £ karşılığında aldım.)
+      karşılığında	
+
+PER - başına			per person – kişi başına
+				100 per cent – yüzde 100
 
 FROM - itibaren			the letter is from Ankara
      - den, -dan		from face to face
+
+-------------------------------
+OF - -nın, -nin,  -den		One of my hobbies is swimming. (Hobilerimden biri yüzmektir.)		bütünün bir parçası
+     				One leg of that chair is broken. (O sandalyenin bir bacağı kırık.)	Özellikle insan dışında kalan varlıklar için (aitlik, sahiplik)
+				Please give me the box of candy. (Bana lütfen şeker kutusunu uzat. (Kutuda şeker var)	İçeriği bildirir.
+				Mehmet was a man of great strength. (Mehmet çok güçlü bir adamdı.)	Nitelik, özellik belirtir.
 
 -------------------------------
 TOWARDS - -e doğru, 		He is walking towards the butcher
@@ -161,11 +174,15 @@ UP - yukarı			He is climbing up the stairs
 DOWN - aşağı, aşağısında	He is coming down the stairs
 
 -------------------------------
-BY / BESIDE - yanında/yanına	I decided to go to Berlin by plane/car/taxi/bus/bike/coach/train..
-				this book is written by Richard Bach
-				
+BESIDE - yanında/yanına	
+
 				* Conjunction: BESIDES - -den başka, dışında
 
+BY - yanında / yanına
+				I decided to go to Berlin by plane/car/taxi/bus/bike/coach/train..
+				this book is written by Richard Bach
+				
+VIA - yolu ile, -den geçerek, üzerinden	
 
 NEXT TO				she is sitting next to him
 
@@ -188,6 +205,9 @@ ABOUT - hakkında, nerdeyse	Don’t think about saving money, think about making
 	tahmini			Are you really this upset about having to eat some vegetables?		Sebze yemek zorunda olmak seni gerçekten bu kadar üzüyor mu?
 
 CONCERNING - hakkında , ilgili	I am genuinely concerned about you					gerçekten seninle ilgili endişeliyim
+	     ile ilgili olarak
+
+REGARDING - hakkında, ilişkin	
 
 -------------------------------
 BETWEEN - arasında (2 things)	He is standing between them
@@ -211,59 +231,48 @@ THROUGHTOUT - boyunca,
 
 THRU - yüzünden, sayesinde
 		
-PAST - geçince			The car is going past the post office
+-------------------------------
+OPPOSITE			He is sitting opposite her
+
+AGAINST - -e karşı
+
+
+AFTER - -den sonra	
+BEFORE - -den önce	
+
+BEYOND - ötesine, ötesinde	
+
+DURING - süresince, 
+	 esnasında, boyunca	
+
+LIKE - gibi
+SIMILAR TO - -a benzer	
+
+UNLIKE - gibi değil
+DIFFERENT FROM - den farklı
+
+UNTIL / TILL - -e kadar, -e dek, -e değin 	
 
 -------------------------------
+WITH - ile, beraber		Do you know the girl with red hair? (Kızıl saçlı olan kızı tanıyor musun?)
+				She is walking in the garden with her friends. (Bahçede arkadaşlarıyla birlikte yürüyor.)
+				I’m not involved with admissions – kayıt işleriyle ben ilgilenmiyorum
 
----> opposite = against		He is sitting opposite her
+WITHOUT - -sız, -siz		Finish that without you making a fuss - olay çikarmadan şunu bitir 
 
+-------------------------------
+EXCEPT - -den başka
+EXCEPTING - hariç
+SAVE - -den başka, ... dışında, ....hariç	
+SAVING - -den başka, …dışında, …hariç	
 
----> regarding - hakkında, ilişkin	
+MINUS - eksi
+PLUS - artı, ve ayrıca	
 
----> concerning - ile ilgili olarak	
+TIMES - kere			once, twice, three times
 
----> after - -den sonra	
----> before - -den önce	
----> against - -e karşı	
----> beyond - ötesine, ötesinde	
----> for - için, -dır, -dir, karşılığında	
-I bought that car for 3.000 £. (O arabayı 3.000 £ karşılığında aldım.)
+CIRCA - dolaylarında	
+FAILING - olmadığı taktirde	
 
----> during - süresince, esnasında, boyunca	
----> like = similar to - gibi = -a benzer	
----> unlike = different from - gibi değil = -den farklı	
----> until/ till - -e kadar, -e dek, -e değin 	
----> with - ile, beraber	
-Do you know the girl with red hair? (Kızıl saçlı olan kızı tanıyor musun?)
-She is walking in the garden with her friends. (Bahçede arkadaşlarıyla birlikte yürüyor.)
-I’m not involved with admissions – kayıt işleriyle ben ilgilenmiyorum
-
----> without - -sız, -siz	
-Finish that without you making a fuss - olay çikarmadan şunu bitir 
-
----> of - -nın, -nin,  -den	
-Çok sayıda olan şeylerden birini ya da bütünün bir parçasını ifade eder.
-One of my hobbies is swimming. (Hobilerimden biri yüzmektir.)
-Özellikle insan dışında kalan varlıklar için (aitlik, sahiplik)
-One leg of that chair is broken. (O sandalyenin bir bacağı kırık.)
-İçeriği bildirir.
-Please give me the box of candy. (Bana lütfen şeker kutusunu uzat. (Kutuda şeker var)
-Nitelik, özellik belirtir.
-Mehmet was a man of great strength. (Mehmet çok güçlü bir adamdı.)
-
----> except - -den başka	
----> excepting - hariç	
----> minus - eksi	
----> plus - artı, ve ayrıca	
----> per - başına	
-per person – kişi başına
-100 per cent – yüzde 100
----> times - kere	
-once, twice, three times
----> save - -den başka, ... dışında, ....hariç	
----> saving - -den başka, …dışında, …hariç	
----> circa - dolaylarında	
----> failing - olmadığı taktirde	
----> via - yolu ile, -den geçerek, üzerinden	
 
 
