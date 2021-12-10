@@ -45,7 +45,7 @@ SELT ---> Family Reunion
 		16		26					
 		16		26	
 		22		33		
-IESOL B1	22		33		17 (50-33)	50			* 17 üniversite ve UDK arasında bölüşülecek
+IESOL B1	22		33		17 (50-33)	50			* 17$ share to divide between university and UDK
 IESOL B2	38		49				85
 
 		38		49
