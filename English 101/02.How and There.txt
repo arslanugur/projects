@@ -1,15 +1,15 @@
 HOW																     		     prepared by Uğur ARSLAN
 ---------------																			@arslanuguur
-much            how much did you get paid?
-                how much money do you need?
-many            how many brothers do you have?
-                how many types of listening questions are there? 
-old             how old is your grandfather?
-                how old do i look?
-                how old were you when realised?
-often           how often do you go to gym?
-                how often do you use public transport?
-long            how long have you been working? 
+much            how much did you get paid?						ne kadar maaş aldın?
+                how much money do you need?						kaç paraya ihtiyacın var?
+many            how many brothers do you have?						kaç tane erkek kardeşin var?
+                how many types of listening questions are there in the exam?		sınavda kaç (tane) tarzda dinleme sorusu var?			
+old             how old is your grandfather?						deden kaç yaşında?
+                how old do i look?							kaç yaşında gözüküyorum?
+                how old were you when realised?						farkettiğinde kaç yaşındaydın?
+often           how often do you go to gym?						ne sıklıkla spor salonuna gidiyorsun?
+                how often do you use public transport?					ne sıklıkla toplu taşıma kullanıyorsun?
+long            how long have you been working? 					ne kadar süredir çalışmaya devam ediyorsun?
                 how long does the test last for? 40 min.
 far             how far is London from Leeds?
                 it depends how far you want to go, sir
@@ -24,7 +24,9 @@ late            how late are you usually?
 come            how come you missed the plane? - 'nasıl olur da' uçağı kaçırırsın?
                 how come you got an invitation and not me?
 soon            I cannot say how soon, but it won't be any longer than five years  (ne kadar çabuk/sürede/yakında)
-                it is hard to say how soon he will recover - ne kadar çabuk iyileşeceğini söylemek güç
+                it is hard to say how soon he will recover				ne kadar çabuk iyileşeceğini söylemek güç
+
+
 
 
 
@@ -66,8 +68,8 @@ how much does it cost?                      	bu ne kadar tutuyor, bunun fiyatı 
 ---> QUANTIFIERS    (Nicelikler)
 HOW						HOW
 MUCH + noun					MANY + nouns
----------------------------------------------------------------------------------
-much                  fazla			many                  bir çok
+--------------------------------------------------------------------------------------
+much                  fazla			many                  bir çok			in negative sentences, use 'not many' - countable and 'not much' - uncountable
 some (+)              biraz			some                  bazı, birkaç, bir
 any  (-, ?)           hiç			any                   hiç
 no                    hiç, yok			no                    hiç, yok
@@ -97,27 +99,34 @@ there are some child in the park				parkta bir çocuk var
 there are some children in the park				parkta birkaç çocuk var
 there are a large number of books on the shelf			rafın üstünde çok sayıda kitap var
 there is some honey in the jar					kavanozda biraz bal var
-there are some hens and geese in our neighbour’s garden		komşumuzun bahçesinde birkaç tavuk ve kaz var
 there aren’t any tickets for the show tonight			Bu geceki gösteri için hiç bilet yok
 there aren’t any differences  between you two			Siz ikiniz arasında hiç bir fark yok
 there isn’t any good information in the news			Haberlerde hiç iyi haber yok
 are there any cars in front of the shop?			Dükkanın önünde hiç araba var mı?
 is there any orange juice in the jug?				sürahide hiç portakal suyu var mı?
 there is no cheese in the refrigerator				buzdolabında hiç peynir yok
-
+I would like to give you some apples I picked from our garden	sana bahçemizden topladığım elmalarımızdan biraz vermek istiyorum
+there are some hens and geese in our neighbour’s garden		komşumuzun bahçesinde birkaç tavuk ve kaz var
+there are lots of apples on the trees
+there is a lot of snow on the road
+do you want some chocolate?      
+we use a lot of instead
+they have a lot of money
+I would like to drink a cup of coffee				bir bardak kahve istiyorum
+I need one tablespoon of salt for the pancake			pancake için bir tatlı kaşığı tuza ihtiyacım var
 
 
 --> a/an sadece sayılabilen isimlerde kullanılır 
-there is a university in that city 			şehirde bir üniversite var
-there is a boy in front of the door			kapının önünde bir erkek var
-there is a computer in my room				odamda bir bilgisayar var 
-there is a pen on the table				masanın üzerinde bir kalem var
-there is a man at the door				kapıda bir adam var
-there is an owl in the tree				ağaçta bir baykuş var
-is there an apple in the fridge?			buzdolabında bir elma var mı?
-there isn’t an expensive car in our garage		garajımızda pahalı bir araba yok
-there is a pub next to the cinema			sinemanın bitişiğinde bir birahane var
-is there a post office near here?			buralarda bir yerde postane var mı?
+there is a university in that city 				şehirde bir üniversite var
+there is a boy in front of the door				kapının önünde bir erkek var
+there is a computer in my room					odamda bir bilgisayar var 
+there is a pen on the table					masanın üzerinde bir kalem var
+there is a man at the door					kapıda bir adam var
+there is an owl in the tree					ağaçta bir baykuş var
+is there an apple in the fridge?				buzdolabında bir elma var mı?
+there isn’t an expensive car in our garage			garajımızda pahalı bir araba yok
+there is a pub next to the cinema				sinemanın bitişiğinde bir birahane var
+is there a post office near here?				buralarda bir yerde postane var mı?
 
 
 
@@ -133,23 +142,35 @@ A- we have twenty burger orders before yours. how much time do you have?
 
 
 
----> HAS/HAVE (GOT)
+---> HAS / HAVE (GOT)
 SINGULAR						PLURAL							UNSPECIFIED
 --------------------------------------------------------------------------------------------------------------------------------------------------
-she has an apple. (bir adet elması var.)		she has four apples. (Dört adet elması var.)		she has some apples. (Biraz elması var.)
-she doesn’t have an apple. (Bir adet elması yok.)	she doesn’t have four apples. (Dört adet elması yok.)	she doesn’t have any apples. (Hiç elması yok.)
+she has an apple		bir adet elması var	she has four apples		dört adet elması var	she has some apples		biraz elması var
+she doesn’t have an apple	bir adet elması yok	she doesn’t have four apples	dört adet elması yok	she doesn’t have any apples	hiç elması yok
 
+do you have any fear?					hiç korkun var mı?
+her parents don’t have any money			ailesinin hiç parası yok
+do you have any bread?					ekmeğin var mı?
+how much money do you have in your pocket right now?	cebinde şu an ne kadar para var?
+she has a bottle of water				bir şişe suyu var
+they have a pack of rice				bir paket pirinçleri var
+my grandpa has two shirts for special occasions		dedemin, özel günlerde giymek için iki adet gömleği var
+my cousin had a dog when we were kids			biz çocukken kuzenimin iki köpeği vardı
+she has some flowers in her garden			bahçesinde biraz çiçekleri var
+my parents don’t have a car anymore			ailemin artık bir arabası yok
+I don’t have any papers to take notes with me		not almak için yanımda hiç kağıt yok
+do you have any ideas on how to solve this problem?	bu sorunun nasıl çözüleceği hakkında bir fikrin var mı?
+how many classes do you have this semester?		bu sene kaç dersin var?      				
+					
 
 
 ---> THERE
-Present     Past          Perfect             Modals – Present    Modals – Past
---------------------------------------------------------------------------------
-there is    there was     there has been      there will be       there would be
-there are   there were    there have been     there can be        there could be
-                          there had been      there may be        there might be
-                                              there should be
-
-
+Present		Past		Perfect			Modals – Present	Modals – Past
+----------------------------------------------------------------------------------------------
+there is	there was	there has been		there will be		there would be
+there are	there were	there have been		there can be		there could be
+				there had been		there may be		there might be
+										there should be
 there is no place like home
 there is still a little sadness left
 there is nothing holding me back
@@ -165,62 +186,30 @@ there might be a thousand explanations for what she had witnessed, but only one 
 there should be another possible ending for this story
 if there is something funny, tell me and let's laugh together
 if there is a way out, I will find it!
+how many chairs are there?				
+
+
 
 
 
 
 --> EXTRA EXAMPLES
-There aren’t any people in the lounge. (çoğul) - (Salonda kimse yok.)
-There isn’t restaurant in this street. (tekil) - (Bu caddede hiç restoran yok.)
-There are men at the door. (çoğul) - (Kapıda adamlar var.)
-There is a museum behind the hospital. (tekil) - (Hastanenin arkasında müze var.)
-There are two newspapers on the table. (çoğul)  - (Masanın üzerinde iki gazete var.)
-There isn’t an art galery in our town. (tekil) - (Kasabamızda sanat galerisi yok.)
-There aren’t any bottles in the bin. (çoğul) - (Çöp kutusunda hiç şişe yok.)
-Is there an oven in the kitchen? (tekil) - (Mutfakta fırın var mı?)
-Are there any credit cards in your wallet? (çoğul) - (Cüzdanında hiç kredi kartı var mı?)
-Is there a box on the chair? (tekil) - (Sandalyenin üzerinde bir kutu var mı?)
-Do you have any fear? (Hiç korkun var mı?)
-There is a lot of water. (Çok fazla su var.)
-How much rice should I put? (Ne kadar pirinç koymalıyım?)
-My parents don’t have any money. (Ailemin hiç parası yok.)
-Do you have any bread? (Ekmeğin var mı?)
-How much money do you have in your pocket right now? (Cebinde şu an ne kadar para var?)
-She has a bottle of water. (Bir şişe suyu var.)
-They have a pack of rice. (Bir paket pirinçleri var.)
-I would like to drink a cup of coffee. (Bir bardak kahve istiyorum.)
-I need one tablespoon of salt for the pancake. (Pancake için bir tatlı kaşığı tuza ihtiyacım var.)
-How many apples does she have? (Ne kadar elması var?)
-Does she have any apples? (Hiç elması var mı?)
+there aren’t any people in the lounge			salonda kimse yok
+there isn’t restaurant in this street			bu caddede hiç restoran yok
+there are men at the door				kapıda adamlar var
+there is a museum behind the hospital			hastanenin arkasında müze var
+there are two newspapers on the table			masanın üzerinde iki gazete var
+there isn’t an art gallery in our town			kasabamızda sanat galerisi yok
+there aren’t any bottles in the bin			çöp kutusunda hiç şişe yok
+is there an oven in the kitchen?			mutfakta fırın var mı?
+are there any credit cards in your wallet?		cüzdanında hiç kredi kartı var mı?
+is there a box on the chair?				sandalyenin üzerinde bir kutu var mı?
+there is a lot of water					çok fazla su var
+how much rice should I put?				ne kadar pirinç koymalıyım?
+how many apples does she have? (Ne kadar elması var?)
+does she have any apples? (Hiç elması var mı?)
 Is there an email address to write to?
-How many chairs are there?
-Is there any sugar?      
-How much orange juice is there?
-Do you want some chocolate?      
-Can we have some more chairs, please?
-Have you got some new glasses?
-A lot of (or lots of) can be used with both countable and uncountable nouns.
-There are lots of apples on the trees.
-There is a lot of snow on the road.
-Notice that we don't usually use many or much in positive sentences. 
-We use a lot of instead.
-They have a lot of money.
-However, in negative sentences we use not many with countable nouns and not much with uncountable nouns.
-There are a lot of carrots but there aren't many potatoes.
-There's lots of juice but there isn't much water
-I would like to give you some apples I picked from our garden. 
-(Sana bahçemizden topladığım elmalarımızdan biraz vermek istiyorum.)
-My grandpa has two shirts for special occasions. 
-(Dedemin, özel günlerde giymek için iki adet gömleği var.)
-My cousin had a dog when we were kids. 
-(Biz çocukken kuzenimin iki köpeği vardı.)
-She has some flowers in her garden. (Bahçesinde biraz çiçekleri var.)
-My parents don’t have a car anymore. (Ailemin artık bir arabası yok.)
-I don’t have any papers to take notes with me. 
-(Not almak için yanımda hiç kağıt yok.)
-Do you have any ideas on how to solve this problem? 
-(Bu sorunun nasıl çözüleceği hakkında bir fikrin var mı?)
-How many classes do you have this semester? (Bu sene kaç dersin var?)
-
-
+how much orange juice is there?
+can we have some more chairs, please?
+have you got some new glasses?
 
