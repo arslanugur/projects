@@ -164,6 +164,7 @@ could have participle		past unreal ability		he could have taken the flight off
 	- I'm supposed to be taking care of you		seninle ilgilenmem gerekiyor
 	- it was supposed to be me			o ben olmalıydım
 	- she wasn't supposed to be here		o burada olmamalıydı
+	- how am I supposed to get my medication now?	şimdi ilaçlarımı nasıl elde etmeliyim?
 
 --> MUST
 	- She must leave. 			(probability/logical assumption)
