@@ -1,5 +1,9 @@
----> PASSIVE VOICE (Edilgen)
-Tense                       Active                                        Passive V3
+the blunders are all there on the board, waiting to be made ...                                                                                     prepared by Uğur ARSLAN
+    tahtada yapılmayı bekleyen tüm hatalar / gaflar / falsolar vardır ...                                                                                      @arslanuguur
+    
+
+---> PASSIVE VOICE (Edilgen Çatı) 
+Tense                       Active                                        Passive V3                                                                           
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem                         The problem is solved by him
 Present Continuous          She is making a cake                          A cake is being made by her
@@ -27,9 +31,9 @@ Modal Perfect
 
 
 EXAMPLES:
-she wasn't told - ona söylenmedi
-I was told to stay at home - evde kalmam söylendi
-the blunders are all there on the board, waiting to be made..
+she wasn't told                                                                         ona söylenmedi
+I was told to stay at home                                                              evde kalmam söylendi
+we were told not to leave the class                                                     bize sınıftan dışarı çıkılmamamız söylendi
 the child that was not embraced by the village, will burn it down to feel its warmth
 bullets only do their jobs after they are fired 
 the criminal was arrested as he came out of the bank.
@@ -47,11 +51,8 @@ the ambulance drivers are helped by volunteers.
 the Cathedral was built in the 14th Century.
 the roads are cleaned once a week.
 the Gioconda was painted by Leonardo da Vinci.
-"Catch Me If You Can" was directed by Steven Spielberg.
-we were told not to leave the class - bize sınıftan dışarı çıkılmamamız söylendi
+"Catch Me If You Can" was directed by Steven Spielberg
 
 
 
 
-
-prepared by Uğur ARSLAN and His Students
