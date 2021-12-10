@@ -16,7 +16,6 @@ N --> no, he/she doesn't go on holiday every summer
 	the plane arrives at 10:30.				uçak 10:30’da varacak					- Saat çizelgelerinde
 	the prince gets on his horse.				prens atına biner					- Hikaye anlatımı
 	you heat the oven to a temperature of 180 degree.	fırını 180 dereceye kadar ısıtın			- Talimat
-	we steal our money from ourselves because of tax	vergiler yüzünden kendi paramızı kendimizden çalarız	- Durum
 
 	Present Simple Signals: 
 		every day/week/month/year	(her ...)				I go walking in the morning every day
