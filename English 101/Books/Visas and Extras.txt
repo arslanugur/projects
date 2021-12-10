@@ -25,11 +25,6 @@ Students have a choice --> he is interested in university
 
 
 
-bizden satın aldığı toplu şekildeki voucher kodlarını -- üniversite öğrencilerine daha yüksek değerden satabilir mi
-
-
-
-
 
 SELT ---> Family Reunion
 
@@ -40,7 +35,7 @@ Price List - https://www.scribd.com/document/493941558/PEOPLECERT-2020-2021-Lang
 
 				Partner
 		Partner		Price		Uni Margin	Website 
-		Price		Voucher				Price
+		Price		Voucher				Price			bizden satın aldığı toplu şekildeki voucher kodlarını
 		Paper		Online
 		16		-	
 		16		26					
@@ -83,15 +78,11 @@ pm partner
 apply now
 
 email address
-
 sec email - for applicant
-
 
 phone number
 for use whilst in/out of the UK
 mobile phone number
-
-
 
 given name
 family name
@@ -100,10 +91,8 @@ ikametdeki adresi giriyorsunuz -- NÜFUS KAYIT ÖRNEĞİNDEKİ ADRES
 
 months 6
 I own it
-other ise eşinin adına: this house belongs to my husband
 
-önceki adres girilir
-
+previous address input
 passport info
 national identity card number
 
@@ -112,7 +101,4 @@ date you plan to arrive in the UK
 extract of civil status
 
 financial status
-
-
-
 
