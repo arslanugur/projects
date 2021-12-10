@@ -8,15 +8,15 @@ Q --> does he/she go on holiday every summer?
 A --> yes, he/she goes on holiday every summer
 N --> no, he/she doesn't go on holiday every summer
 
-	The sun sets in the West. 				(Güneş batıdan batar.)  Genel Doğru
-	I play tennis.						(Tenis oynarım.)  Hobi
-	She hates broccoli.					(O brokoliden nefret eder.)  Sevmediklerimiz
-	He works in a bank. 					(O bir bankada çalışır.)  Rutin
-	I drink coffee every morning.				(Her sabah kahve içerim.)  Alışkanlık
-	The plane arrives at 10:30.				(Uçak 10:30’da varacak)  Saat çizelgelerinde
-	The prince gets on his horse.				(Prens atına biner.)  Hikaye anlatımı
-	You heat the oven to a temperature of 180 degree.	(Fırını 180 dereceye kadar ısıtın.)  Talimat
-
+	the sun sets in the West. 				güneş batıdan batar					- Genel Doğru
+	I play tennis.						tenis oynarım						- Hobi
+	she hates broccoli.					o brokoliden nefret eder				- Sevmediklerimiz
+	he works in a bank. 					o bir bankada çalışır					- Rutin
+	I drink coffee every morning.				her sabah kahve içerim					- Alışkanlık
+	the plane arrives at 10:30.				uçak 10:30’da varacak					- Saat çizelgelerinde
+	the prince gets on his horse.				prens atına biner					- Hikaye anlatımı
+	you heat the oven to a temperature of 180 degree.	fırını 180 dereceye kadar ısıtın			- Talimat
+	we steal our money from ourselves because of tax	vergiler yüzünden kendi paramızı kendimizden çalarız	- Durum
 
 	Present Simple Signals: 
 		every day/week/month/year	(her ...)				I go walking in the morning every day
@@ -24,8 +24,8 @@ N --> no, he/she doesn't go on holiday every summer
 		now and then			(ara sıra, bazen, zaman zaman)
 		first ... then ...		(ilk ... ondan sonra ...)		first i get on a bus, then i get to work 
                 these days                      (bu günlerde)
-			I live in Aksaray these days					--> Present Simple
-			I have been living in Aksaray these days (for a few months)	--> Present Perfect Continuous
+			I live in Ankara these days					--> Present Simple
+			I have been living in Ankara these days (for a few months)	--> Present Perfect Continuous
 			
 
                 in the morning 		sabahleyin
@@ -56,7 +56,9 @@ N --> no, he/she doesn't go on holiday every summer
 		hardly ever/scarcely ever/almost never		I hardly ever read the newspaper
 		never						They never listen to what he says
 								Mama always said life was like a box of chocolates. You never know what you're gonna get.
-                - things don't always go with the way you want them to be
+        
+		- things don't always go with the way you want them to be
+
 
 ---> MAKING A QUESTION FOR PRESENT SIMPLE
 					        |	    S		|	V	|	O	|
