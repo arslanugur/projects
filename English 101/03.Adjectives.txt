@@ -83,8 +83,20 @@ jolly, lousy, clumsy, goofy, crazy, easy, dirty, creepy, spooky, fuzzy, fizzy, b
 pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, sloppy - ihtiyatsız, snobby, naughty, sassy, nasty, raunchy, gory 
 
 -IC
-fantastic, lunatic, fanatic, realistic, barbaric, romantic, gigantic 
-pragmatic, pedagogic, tragic, didactic, scientific, pacific, terrific
+reality             realistic
+fantasy             fantastic
+pedagogy            pedagogic
+romance             romantic
+science             scientific
+-------------------------------
+monarchy            monarchic
+democracy           democratic
+bureaucracy         bureaucratic 
+diplomacy           diplomatic 
+
+lunatic, fanatic, barbaric, gigantic 
+pragmatic, tragic, didactic, pacific, terrific
+
 
 -AL
 eternal, ethical, economical, political, natural, industrial, official, brutal 
