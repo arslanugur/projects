@@ -4,17 +4,18 @@
 Noun	      	İsim		--> thing or person	              	pencil, cat, Jack
 Pronoun	      	Zamir		--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
                                                       			--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
-Verb	      	Fiil		--> action / state	            	go, come, see, open, study, like, eat
+Verb	      	Fiil		--> action / state	            	base form V1, past form V2, past participle V3, -s/-es/-ies, -ing, infinitive
 Adverb	      	Zarf		--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
 Adjective     	Sıfat		--> describes a noun	                big, silent, bad, good
-Preposition   	Edat		--> links a noun to another word	at, on, in, of, after, before, under
+Preposition   	Edat		--> links a noun to another word	in, at, on, after, before, under
 Conjunction   	Bağlaç		--> joins clauses or sentences	        but, because, and, while, when
-Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!	Wow! What a nice car
+Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
 
 
 
 ---> SENTENCE STRUCTURES
-S + V	        	The visitors have arrived. 
+S + V	        	students learn
+			The visitors have arrived. 
                 	The old man died.
 S + V + O		The kids’ve eaten all the chocolate jar.
                 	The shop sells computers.
@@ -308,6 +309,4 @@ Numeral + Numeral		the first two
 Num + (Prep) + Numeral		three of four
 *** “The” is the definite article necessary in this chunk
 *** “To” is a particle marking an infinitive
-
-
 
