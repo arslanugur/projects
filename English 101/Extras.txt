@@ -1,3 +1,6 @@
+
+
+
 CORRECT:					INCORRECT:
 I am looking forward to seeing you		I am looking forward to see you
 your hair is really nice			your hairs are really nice
@@ -73,9 +76,13 @@ state - belirtmek, ifade etmek, dile getirmek
 
 ---> STRUCTURES
 there is always something good to think
-
-
-
+tearfully
+put on a happy face
+at least, for one of us - en azından birimiz için 
+this is exactly how I imagined it - bu tam da hayal ettiğim gibi oldu
+take your time - acele etme, we got all day - bütün gün bizim
+the punch line - can alıcı kısım
+subjective - göreceli
 
 
 ARRIVE
