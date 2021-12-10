@@ -46,7 +46,7 @@ Price List - https://www.scribd.com/document/493941558/PEOPLECERT-2020-2021-Lang
 		16		26					
 		16		26	
 		22		33		
-IESOL B1	22		33		17 (50-33)	50			* 17$ share to divide between university and UDK
+IESOL B1	22		33		17 (50-33)	50			* 17$ share to divide between university and language course
 IESOL B2	38		49				85
 
 		38		49
@@ -98,7 +98,6 @@ family name
 other family name - evlenmeden önceki soyadı
 ikametdeki adresi giriyorsunuz -- NÜFUS KAYIT ÖRNEĞİNDEKİ ADRES
 
-
 months 6
 I own it
 other ise eşinin adına: this house belongs to my husband
@@ -107,6 +106,13 @@ other ise eşinin adına: this house belongs to my husband
 
 passport info
 national identity card number
+
+date you plan to arrive in the UK
+
+extract of civil status
+
+financial status
+
 
 
 
