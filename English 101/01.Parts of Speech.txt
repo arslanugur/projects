@@ -1,5 +1,5 @@
----> PARTS OF SPEECH																	prepared by Uğur ARSLAN
-              			Function/Job    	                Example											   @arslanuguur
+---> PARTS OF SPEECH																prepared by Uğur ARSLAN
+              			Function/Job    	                Example										   @arslanuguur
               	----------------------------------------------------------------------------------------
 Noun	      	İsim		--> thing or person	              	pencil, cat, Jack
 Pronoun	      	Zamir		--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
