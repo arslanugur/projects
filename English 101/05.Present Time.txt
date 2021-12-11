@@ -188,7 +188,7 @@ N --> no, we/you/they are not coming...
 		still		(halen)			- I am still studying for tomorrow's exam
 		today		(bugün)			- I am baking a big cake for my friend's birthday
 		tonight 	(bu gece)		- I am watching telly tonight		(for present use)
-							- I will watch telly telly tonight	(for future use)
+							- I will watch telly tonight	(for future use)
 
 ---> MAKING A QUESTION FOR PRESENT CONTINUOUS
 				        |	    S		|	V	|	O	|
