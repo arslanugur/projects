@@ -14,7 +14,7 @@ TIME and SENTENCE COMBINATIONS in ENGLISH													      prepared by Uğur AR
 
 
 
-PAST					PRESENT 				FUTURE						PAST FUTURE (FUTURE ... IN THE PAST)
+🔻 PAST					🔻 PRESENT 				🔻 FUTURE					🔻 PAST FUTURE (FUTURE ... IN THE PAST)
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 SIMPLE (-dı, -di)			SIMPLE (-ar, -ur)			SIMPLE (-acak, -ecek, -ar, -er)			SIMPLE (-acaktı, -ecekti)
 	S + V2/Ved				S + V1 / V1s				S + will V1  #  S + be going to V1		S + would V1
@@ -28,7 +28,7 @@ PERFECT CONTINUOUS (-iyormuş)		PERFECT CONTINUOUS (-iyor, -makta)	PERFECT CONTI
 
 
 
-PRESENT                    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 PRESENT                 AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Present Simple             I do – yaparım                      		I don’t do - yapmam                         	do I do? – yapar mıyım?
 S + V1 / V1s               s/he does – yapar                   		s/he doesn’t do – yapmaz                    	does s/he do? - yapar mı?
@@ -48,7 +48,7 @@ S + has/have been + Ving   s/he has been doing - yapmakta		s/he hasn't been doin
 
 
 
-PAST	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 PAST	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Past Simple                I did – yaptım                      		I didn’t do – yapmadım                      	did I do? - yaptın mı?
 S + Ved / V2               s/he did – yaptı                    		s/he didn’t do – yapmadı			did s/he do? - yaptı mı?
@@ -68,7 +68,7 @@ S + had been + Ving	   s/he had been doing - yapıyormuş		s/he hadn't been doin
 (yapıyormuş)
 
 
-FUTURE	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 FUTURE	           AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 Future Simple(will)        I will do - yapacağım/yaparım       		I won’t do - yapmayacağım/yapmam		will I do? - yapacak mıyım/yapar mıyım?
 S + will + V1              s/he will do - yapacak/yapar			s/he won't do - yapmayacak/yapmaz		will s/he do? - yapacak mı/yapar mı?
@@ -104,11 +104,10 @@ S + will have been + Ving  s/he will have been doing - yapıyor olacak	s/he won'
 
 
 
-FUTURE IN THE PAST - WOULD
-Geçmişte Kalmış Gelecek    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 FUTURE IN THE PAST    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Would	                   I would do – yapacaktım/yapardım            	I wouldn’t do - yapmayacaktım			would I do? - yapacak mıydım?
-			   s/he would do - yapacaktı			s/he wouldn't do - yapmayacaktı			would s/he do? - yapacak mıydı?
+(Geçmişte kalan Gelecek)   s/he would do - yapacaktı			s/he wouldn't do - yapmayacaktı			would s/he do? - yapacak mıydı?
 			   you would do	- yapacaktın			you wouldn't do - yapmayacaktın			would you do? - yapacak mıydın?
 
 			   I would be doing - yapıyor olurdum		I wouldn't be doing - yapıyor olmazdım		would I be doing? - yapıyor olacak mıydım?
@@ -125,7 +124,7 @@ Would prefer ... rather than
 
 
 
-MODALS	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 MODALS	           AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Can (Kalıcı)	           I can do – yapabilirim			I can’t do – yapamam				can I do? - yapabilir miyim?
 			   s/he can do - yapabilir			s/he can't do - yapamaz				can s/he do? - yapabilir mi?
@@ -192,7 +191,7 @@ Had to	                   I had to do – yapmak zorundaydım		I didn’t have t
 			   you have had to do – yapmak zorunda kaldın	you haven't had to do				have you had to do?
 
 
-USED TO	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 USED TO	           AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Used to V1		   I used to do – yapardım                	I didn’t use to do – yapmazdım	      		did I use to do? – yapar mıydım?
         (eskiden)          s/he used to do - yapardı			s/he didn't use to do - yapmazdı		did she use to do? - yapar mıydı?
@@ -234,7 +233,7 @@ Get used Ving	           I get used to doing – yapmaya alışırım		I don't g
 
 
 
-OTHER STRUCTURES	   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 OTHER STRUCTURES	   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Had better	           I had better do - yapsam iyi olur	        I had better not do - yapmasam iyi olur	
 			   s/he had better do - yapsa iyi olur		s/he had better not do - yapmasa iyi olur
@@ -280,7 +279,7 @@ Have got to		   I have got to do – yapmalıyım
 
 
 
-PREFER	                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 PREFER                   AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Prefer (Genel)		   I prefer doing to running – -mayı tercih ederim	I don’t prefer doing
 			   I would prefer to travel by bus rather than by train
@@ -300,7 +299,7 @@ Would like		   I would like to do - yapmak isterim		I wouldn't like to do - yapm
 
 
 
-COMMON VERBS               AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 COMMON VERBS            AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
 Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yapmak istemem/istemiyorum
 			   I wanted to do – yapmak istedim		I didn’t want to do – yapmak istemedim
