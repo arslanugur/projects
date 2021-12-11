@@ -1,5 +1,5 @@
----> MODALS															prepared by Uğur ARSLAN and His Students
-can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request					    @arslanuguur
+---> MODALS																	prepared by Uğur ARSLAN
+can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request					   @arslanuguur
 may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
 must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
 shall		-acak, -ecek		(niyet)		intention, supposition
@@ -13,45 +13,49 @@ should		-malı, meli		(gereklilik)	necessity, advice, blame, recommendation, rep
 used to		-alışmak		(alışkanlık)	repeated action in the past
 
 
-PRESENT       	PAST		PERFECT
--------------------------------------------------------
-can		could		could have V3			How could I have looked him in the face?
-will           	would		would have V3			I would have said I lack the bump of paternity
-shall          	should		should have V3			I should have been with them at the party tonight
-may            	might		might have V3			We might have done something to help you
-must           	had to		must have V3			He must have changed clothes during the night.
-have to       	had to		have to have V3
-				had to have V3
+
+
+PRESENT			PAST			MODALS IN PAST		Concept				Example			
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+can			could			could have V3		past unreal ability		How could I have looked him in the face?
+													he could have taken the flight off
+													I could have lied to you
+may			might			may have V3		past unreal possibility		we may have passed the math exam, but it was in French
+						might have V3		past unreal small probability	you might have sold the car, if you really needed the money
+													We might have done something to help you
+will			would			would have V3		past unreal action		I would have said I lack the bump of paternity
+shall			should			should have V3		past unreal recommendation	I should have been with them at the party tonight
+													there's something I should've done a while ago
+must			had to			must have V3		past unreal assumption		He must have changed clothes during the night.
+have to			had to			have to have V3
+
 
 be able to		was/were able to
-be supposed to		was/were supposed to	
+be supposed to		was/were supposed to
+
+
 
 --> COMPOUND MODALS
-will be able to		had been able to	might be able to
-will have to go		had had to be 		might have to
-would be able to				would have to have V3 - I would have to have broken in.
+will be able to V1			she will be able to walk soon
+will have to V1				he will have to wear uniform at work two days later
+would be able to  V1			
+would have to have V3			I would have to have broken in
+should have to V1			You shouldn't have to go through this alone
+had been able to V1
+had had to V1
+might have to V1
+might be able to V1
+
 
 he will have to walk on a straight line
 he will have to live with the idea 
-You shouldn't have to go through this alone.
-You'll have to figure out the rest, first
-there's something I should've done a while ago
-
-
-MODALS IN PAST			Concept				Example			
-----------------------------------------------------------------------------------------------------------------------------------------------------------
-must have participle		past unreal assumption		we must have been crazy
-may have participle		past unreal possibility		we may have passed the math exam, but it was in French
-might have participle		past unreal small probability	you might have sold the car, if you really needed the money
-would have participle		past unreal action		if I had guessed the future, I would have taken some precautions against what would happen
-should have participle		past unreal recommendation	you should have listened to the teacher
-could have participle		past unreal ability		he could have taken the flight off
-								I could have lied to you
+you will have to figure out the rest, first
 
 
 ---> EXAMPLES
-	- He will/can/should/must have called her
-	- She would/could/should/had to have called him
+	- He will / can / shall / must have called her
+	- She would / could / should / had to have called him
+	
 	
 	- if this is your first night at Fight Club, you have to fight.		(Obligation)
 	- she asked me if she could sit at the end of our table.		(Permission)
@@ -117,7 +121,7 @@ could have participle		past unreal ability		he could have taken the flight off
 	- What would be the first song you want played at your funeral?
 	- I’m not saying ‘I hate you’ but I would unplug your life support to charge my phone.
  	- the world could crumble and she wouldn't notice anything
-
+	- if I had guessed the future, I would have taken some precautions against what would happen
 
 
 	would you mind (if) .. - sakıncası var mı?				* to mind - kafaya takmak, aldırmak, aldırış etmek, karşı çıkmak
