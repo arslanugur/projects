@@ -107,7 +107,7 @@ S + will have been + Ving  s/he will have been doing - yapıyor olacak	s/he won'
 
 
 
-🔻 FUTURE IN THE PAST    AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
+🔻 FUTURE IN THE PAST      AFFIRMATIVE (+)                     		NEGATIVE (-)                                   	QUESTION (?)
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 Would	                   I would do – yapacaktım/yapardım            	I wouldn’t do - yapmayacaktım			would I do? - yapacak mıydım?
 (Geçmişte kalan Gelecek)   s/he would do - yapacaktı			s/he wouldn't do - yapmayacaktı			would s/he do? - yapacak mıydı?
