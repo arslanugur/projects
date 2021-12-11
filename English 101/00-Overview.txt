@@ -310,7 +310,7 @@ Want			   I want to do – yapmak isterim/istiyorum	I don’t want to do – yap
 			   s/he wants to do - yapmak ister/istiyor	s/he doesn't want to do - yapmak istemez/istemiyor
 			   you want to do - yapmak istersin/istiyorsun	you don't want to do - yapmak istemezsin/istemiyorsun
 			   
-Need to			   I need to do – yapmaya ihtiyacım var		I don’t need to do/I need not to do
+Need			   I need to do – yapmaya ihtiyacım var		I don’t need to do/I need not to do
 			   s/he needs to do				s/he doesn’t need to do
 			   you need to do
 			   	
