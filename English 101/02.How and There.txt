@@ -10,20 +10,20 @@ old             how old is your grandfather?						deden kaç yaşında?
 often           how often do you go to gym?						ne sıklıkla spor salonuna gidiyorsun?
                 how often do you use public transport?					ne sıklıkla toplu taşıma kullanıyorsun?
 long            how long have you been working? 					ne kadar süredir çalışmaya devam ediyorsun?
-                how long does the test last for? 40 min.
-far             how far is London from Leeds?
-                it depends how far you want to go, sir
-fast            how fast can a cheetah run?
-                how fast our friends become our enemies
-well            how well do you speak English?
-                explain me how well she knows me
-punctual        how punctual are you?
-                I don't care how punctual you are, just get here on time for dinner
-late            how late are you usually?
-                it doesn't matter how late
-come            how come you missed the plane? - 'nasıl olur da' uçağı kaçırırsın?
-                how come you got an invitation and not me?
-soon            I cannot say how soon, but it won't be any longer than five years  (ne kadar çabuk/sürede/yakında)
+                how long does the test last for? 40 min.				test ne kadar sürer? 40 dakika 
+far             how far is London from Leeds?						Londra, Leeds'den ne kadar uzaktır?
+                it depends how far you want to go, sir					ne kadar uzağa gitmek istediğinize bağlı
+fast            how fast can a cheetah run?						bir çite ne kadar hızlı koşabilir?
+                how fast our friends become our enemies					arkadaşlarımız ne kadar hızlı düşmanlarımız olur
+well            how well do you speak English?						ingilizceyi ne kadar iyi konuşursun? 
+                explain me how well she knows me					onun beni ne kadar iyi bildiğini bana açıkla
+punctual        how punctual are you?							ne kadar dakiksin?
+                I don't care how punctual you are, just get here on time for dinner	ne kadar dakik olduğunu umursamam, akşam yemeğinde sadece tam zamanında burada ol
+late            how late are you usually?						genellikle ne kadar gecikirsin?
+                it doesn't matter how late						ne kadar geç olduğu önemli değil
+come            how come you missed the plane?						'nasıl olur da' uçağı kaçırdın?	
+                how come you got an invitation and not me?				nasıl olur da sen davetiye aldın ama ben almadım
+soon            I cannot say how soon, but it won't be any longer than five days  	(ne kadar çabuk/sürede/yakında)
                 it is hard to say how soon he will recover				ne kadar çabuk iyileşeceğini söylemek güç
 
 
@@ -40,11 +40,11 @@ how many seats are there at the cinema? (sinemada kaç koltuk var?)		there are n
 
 
 ---> HOW MUCH (Uncountable)
-Weather         --> Rain, Snow, Air
-Food            --> Bread, Cheese, Corn, Fruit, Rice, Sugar
-Drinks          --> Coffee, Milk, Tea, Soup, Water
-Materials       --> Luggage, Furniture, Paper, Hair
-Abstract        --> Money, Anger, Love, Beauty, Safety, Advice, Evidence, Knowledge, Information
+Weather         		--> Rain, Snow, Air
+Food            		--> Bread, Cheese, Corn, Fruit, Rice, Sugar
+Drinks          		--> Coffee, Milk, Tea, Soup, Water
+Multipartial Materials       	--> Luggage, Furniture, Paper, Hair
+Abstract        		--> Money, Anger, Love, Beauty, Safety, Advice, Evidence, Knowledge, Information
 
 		TIME
 		time - zaman              --> sometime, some time, on time, in time, every time
@@ -85,7 +85,12 @@ tons of               tonlarca			tons of               tonlarca
 
 EXAMPLES:
 there is some tea in my glass					bardağımda biraz çay var
+there are some people in my house				evimde birkaç insan var				person --> singular, people --> plural
 there isn't any coffee / milk					hiç kahve / süt yok
+how much milk is there in the fridge?				buzdolabında ne kadar süt var?
+there is some milk in the fridge				buzdolabında biraz süt var
+there aren't two bottles of milk in the fridge			buzdolabında iki şişe süt yok			
+there aren't two cups of coffee	here				burada iki fincan kahve yok
 I'm making a cup of coffee					bir fincan kahve hazırlıyorum
 there is tons of money on the table				masada tonla para var
 there isn’t any money in the bag				çantada hiç para yok
@@ -93,14 +98,12 @@ I have some friends in Europe					Avrupa'da bazı arkadaşlarım var
 how much sugar does she have? 					ne kadar şekeri var?
 she has some sugar						biraz şekeri var
 she doesn’t have any sugar 					hiç şekeri yok
-how much milk is there in the fridge?				buzdolabında ne kadar süt var?
-there is some milk in the fridge				buzdolabında biraz süt var
 there are some child in the park				parkta bir çocuk var
 there are some children in the park				parkta birkaç çocuk var
 there are a large number of books on the shelf			rafın üstünde çok sayıda kitap var
 there is some honey in the jar					kavanozda biraz bal var
 there aren’t any tickets for the show tonight			Bu geceki gösteri için hiç bilet yok
-there aren’t any differences  between you two			Siz ikiniz arasında hiç bir fark yok
+there aren’t any differences between you two			Siz ikiniz arasında hiç bir fark yok
 there isn’t any good information in the news			Haberlerde hiç iyi haber yok
 are there any cars in front of the shop?			Dükkanın önünde hiç araba var mı?
 is there any orange juice in the jug?				sürahide hiç portakal suyu var mı?
@@ -118,16 +121,25 @@ I need one tablespoon of salt for the pancake			pancake için bir tatlı kaşı�
 
 --> a/an sadece sayılabilen isimlerde kullanılır 
 there is a university in that city 				şehirde bir üniversite var
+	I am going to the university
 there is a boy in front of the door				kapının önünde bir erkek var
-there is a computer in my room					odamda bir bilgisayar var 
+	the boy has black hair
+there is a computer in my room					odamda bir bilgisayar var
+	the computer is broken
 there is a pen on the table					masanın üzerinde bir kalem var
+	the pen is red
 there is a man at the door					kapıda bir adam var
+	the man stands for minutes at the door
 there is an owl in the tree					ağaçta bir baykuş var
+	the owl is howling
 is there an apple in the fridge?				buzdolabında bir elma var mı?
-there isn’t an expensive car in our garage			garajımızda pahalı bir araba yok
-there is a pub next to the cinema				sinemanın bitişiğinde bir birahane var
+	I just ate the apple
+there is an expensive car in our garage				garajımızda pahalı bir araba var
+	the expensive car is Mercedes
+there is a pub next to the cinema				sinemanın bitişiğinde bir pub var
+	the pub is overcrowded
 is there a post office near here?				buralarda bir yerde postane var mı?
-
+	the post office is next to the bank
 
 
 --> RESTAURANT FALLACY
