@@ -1,11 +1,21 @@
-																		prepared by Uğur ARSLAN
-																			@arslanuguur
+EXTRA INFORMATION																	prepared by Uğur ARSLAN
+																				@arslanuguur
 
-
-on what grounds - neye istinaden, hangi zemin üzerinde
-who told you that? - kim bunu sana söyledi ki?
-in the long run, we are all dead - uzun vadede, hepimiz ölüyüz
-
+---> GET
+I get up early every day
+I got on a bus
+I got off the tree
+I am getting bored with the film   It is getting boring here
+I got tired 
+I just got home
+I got to the school two minutes ago
+I get dressed before the breakfast every morning
+I am getting dressed immediately
+I am getting used 
+I got used
+I get along with her
+I will get well soon
+I get started
 
 
 CORRECT:					INCORRECT:
@@ -25,10 +35,9 @@ to suit		yakışmak, uymak			that dress really suits you
 
 
 
-
 tough		(adj)	zor, sağlam, kuvvetli
-though 		(adv)	-e rağmen, yine de
-thought 	(n)	fikir, düşünce
+though 		(adv)	-e rağmen, yine de					thank you though
+thought 	(n)	fikir, düşünce						my thoughts, I thought
 through 	(prep)	aracılığıyla, ile, boyunca, -in içinden			through the pipelines - boru hatlarından
 thorough 	(adj)	kapsamlı, tam, bütün
 throughout 	(adv)	baştan aşağı, boylu boyunca, tamamıyla	
@@ -98,19 +107,6 @@ we arrived in London
 we arrived at the station
 we arrived at the village
 we arrived on monday
-
-
----> GET
-I get up early every day
-I get on a bus
-I am getting bored with the film   It is getting boring here
-I got tired 
-I just got home
-I got to the school two minutes ago
-I get dressed before the breakfast every morning
-I am getting dressed immediately
-I am getting used 
-I got used
 
 
 CONCERN
@@ -235,6 +231,9 @@ I am not buying it honey - yemezler canım
 don't mess with me - bana bulaşma
 where did you get it - nereden aldın
 as soon as possible - mümkün olan en kısa zamanda
+on what grounds - neye istinaden, hangi zemin üzerinde
+who told you that? - kim bunu sana söyledi ki?
+in the long run, we are all dead - uzun vadede, hepimiz ölüyüz
 it is on the tip of my tongue - dilimin ucunda
 this is your last chance, make it count - bu son şansın, iyi değerlendir
 like painting the Forth Bridge - a neverending job
