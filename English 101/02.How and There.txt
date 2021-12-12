@@ -1,5 +1,5 @@
-HOW																    		prepared by Uğur ARSLAN
----------------																		   @arslanuguur
+HOW																    			prepared by Uğur ARSLAN
+---------------																			   @arslanuguur
 much            how much did you get paid?						ne kadar maaş aldın?
                 how much money do you need?						kaç paraya ihtiyacın var?
 many            how many brothers do you have?						kaç tane erkek kardeşin var?
@@ -157,6 +157,8 @@ SINGULAR						PLURAL							UNSPECIFIED
 she has an apple		bir adet elması var	she has four apples		dört adet elması var	she has some apples		biraz elması var
 she doesn’t have an apple	bir adet elması yok	she doesn’t have four apples	dört adet elması yok	she doesn’t have any apples	hiç elması yok
 
+
+I have no time to waste					kaybedecek vaktim yok
 do you have any fear?					hiç korkun var mı?
 her parents don’t have any money			ailesinin hiç parası yok
 do you have any bread?					ekmeğin var mı?
@@ -175,9 +177,7 @@ how many classes do you have this semester?		bu sene kaç dersin var?
 
 
 
-WHERE - Nerede
-HERE  -	Burada
-THERE - Orada
+WHERE - Nerede, HERE  -	Burada, THERE - Orada
 
 ---> THERE IS / THERE ARE
 Present		Past		Perfect			Modals – Present	Modals – Past
