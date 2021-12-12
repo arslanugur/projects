@@ -11,7 +11,8 @@ N --> no, I didn't go on holiday last summer
 						he learned a long time ago, that anyone who asks that question can't understand his answer anyway.
 		in 2019				I moved to barcelona in 2009 
 		yesterday			We got here yesterday, I guess
-						
+		just				I just heard the news
+		
 
 ---> MAKING A QUESTION FOR PAST SIMPLE
 					        |	    S		      	|	V	|       V	  |     O     	|
