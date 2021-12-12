@@ -1,5 +1,5 @@
-RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)
-
+RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)                                                                                                         prepared by Uğur ARSLAN
+                                                                                                                                                                    @arslanuguur
 * Gerektiğinde uygun şekilde kullanılması için, bazı fiilere ek olarak edat (preposition) eklenmeye devam edilmektedir.
 * Edat (preposition) sonrası, genel olarak isim (noun) ya da zamir (pronoun) gelir.
 
@@ -983,6 +983,3 @@ victory over        a win over an opponent or over difficult problems           
 
 
 
-
-
-prepared by Uğur ARSLAN and His Students
