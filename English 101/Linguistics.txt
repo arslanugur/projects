@@ -6,7 +6,7 @@ Linguistics – 10 Questions
     What is Linguistic Knowledge?
     Sub-Branches of Linguistics
 
-                    Micro-Linguistics	            Macro-Linguistics
+                    Micro-Linguistics	          Macro-Linguistics
                     -----------------------------------------------
                     Phonology                     sociolinguistics
                     Phonetics                     discourse analysis
@@ -14,6 +14,7 @@ Linguistics – 10 Questions
                     Syntax                        neurolinguistics
                     Semantics	                  applied linguistics
                                                   pragmatics
+
 
 ---> What is Language?
 	                    - A system of encoding (conveying) and decoding (understanding) messages
@@ -123,11 +124,246 @@ Linguistics – 10 Questions
 
 		- Reflexivity
 			Using language to talk about itself
-			Recursiveness (Uzatılarak tekrarlılık)
+			
+		- Recursiveness (Uzatılarak tekrarlılık)
 			Same structures of language can be used to produce longer utterances
 				“I went to mall“
 				“I went to mall and bought a pair of sneakers”
 				“I went to mall, bought a pair of sneakers anda te pizza”
+
+
+---> Origins of Language
+		Divine Source Hypothesis
+			Language as a gift granted by god
+			God creates human beings with an innate capacity
+		Natural Evolution Hypothesis
+			Human beings changed during evolution
+			Human beings turned into more sophisticated beings
+			Development of some organs and brain
+			Language acquisition device
+		Tool Making Source
+			El hareketleriyle başladı
+			The emergence of language as result toolmaking
+			The importance of gestures (el hareketleri)
+			A developed left brain that processes language learning
+			(dil öğrenimi ve alet yapımı sol beyinle ilgili bu yüzden böyle gelişti)
+		Ding-Dong Hypothesis
+			Naming objects after a relevant sound
+			Onomatopoeic words
+			“boom, crash,splash, slap, crack”
+		Bow-Wow Theory
+			Hayvan seslerini taklit ile ortaya çıktı
+			Imitation of animal sounds
+		Pooh-Pooh Theory
+			Ouch, yeah..  ÜNLEMLER
+			Emergence of language as a result of interjections
+			Exclamations used to express happiness, pain, humger, dislike, pleasure
+		Genetic Source
+			People have an inherent knowledge of language
+			Innate capacity
+		Yo-He-Ho Hypothesis
+			İnsanların fiziksel güç harcarken çıkardıkları seslerden dil ortaya çıktı
+			Instictive soundmade during physical labor
+
+
+
+---> Grammar Types
+		Descriptive grammar (var olan bir şeyi gösterir)
+			A type of grammar that refers to the structure of a language
+			The type is actually used by people during oral and written communication
+			The way people use their language
+			Rule system that is used by people
+			*How do people use language?
+		Prescriptive Grammar (reçeteli neyi nasıl yapılmasını gösterir)
+			It refers to how the structures/rules of a lang. should or shouldnt be as asserted by certain people
+			Dil için bazı sınırlar koyuluyor
+			It sets boundaries for language
+			It has acceptable and unacceptable rules of language
+			*How should language be or be used?
+		Functional Grammar (İşlevsel)
+			It focuses both on the communicative roles and patterns of a language
+			Hangi kurallar hangi context  alan için kullanılmalı
+			The social and cultural context of grammar is a core point
+			The relationship between the structure and social-pragmatic functions of language
+			*How the rules of language are used to perform certain functions?
+		Pedagogical Grammar
+			The grammar type that is developed for people who want to learn target language
+			It makes grammatical units learnable and teachable
+			It describes how grammar can be used to commuicate by people learning target language
+			Learners can make a comparison between grammar of L1 and target language
+			*How grammar can be taught and learnt?
+		Generative Grammar (Üretilen dil bilgisi)
+			It refers to lang. as a set of formal rules formulated to produce innumerabl grammatical sentences
+			Dil kurallar dizisi olarak ele alınır
+			Cümleleri oluşturan yapılar neler?
+			*How are grammatical sentences produced by rules and principles?
+		Universal Grammar (her dilde benzer bi sistem var)
+			It refers to the theoretical system of rules that are common to all human languages
+			The rules are inherited by all people
+			It is the basis of specific grammar of all human languages
+			*Are there rules that are common to all human languages?
+
+
+> PHONETICS and PHONOLOGY, Part 1
+
+---> Phonology
+		Seslerin soyut ve teorik kısmıyla ilgilenir
+		Studies abstract and mental aspects of sounds
+		Analyzes rules and patterns of sounds
+		How sounds combine anda are organized
+		
+---> Phonetics
+		Seslerin ağzımızdan çıkışı ve dağılışı ve anlandığıyla ilgilenir
+		Studies…
+			Production of sounds (how they are produced)
+			Transmission of sounds (how they are transmitted)
+			Reception (how they are heard)
+		There are three branches of Phonetics
+			Articulatory Phonetics – ses nasıl çıkarılıyor
+				En önemli kısım bu – ses nereye temes ediyor diş dudak vs
+				Studies the production of sounds
+				Üç şeye odaklanır
+				-consonants
+				-vowels
+				-voicing state
+				Detaylı şekilde aşağıda var
+			Acoustic Phonetics – sesin yayılma aşamasıyla ilgili
+				The transmission process of sounds
+				Studies sound waves
+				The quality of sounds in the air
+			Auditory phonetics – sesin nasıl duyulduğuyla ilgili
+				Kulakla ilgili
+				Studies how sounds are perceived and processed by listeners
+
+---> ***Articulatory Phonetics
+		Consonants (Ünsüzler)
+			Place of articulation
+				The place wheresomeone constricts or obstructs air
+				The place where sound is producted
+
+---> Place of Articulation (1 soru)
+Bilabial		(İki dudak arası - articulated with two lips)
+			b, p, m, w
+			“pembe dudakları olan maymunlar nadir görülür”
+
+Labiodental		(dudak ve diş - lower lip touches upper teeth)
+			v, f
+			“vefa sözcükleri dökülüyordu dudağından” (tek dudak)
+			question --> end with labio-dental sound: tough
+
+Interdental/Dental	(dil ve diş - produced with tongue between the teeth)
+			th – thing, think, author - Θ
+			th – this, other, brother - ð (d gibi)
+
+
+Alveolar		(en fazla ses bunda var)
+			when the tip of tongue touches to the alveolar ridge (behind the top teeth)
+			bunda da damak var velar kadar değil
+			t, d, n, s, z, l, r
+			“telsizler nerede”
+			question --> Alveolar is preformed by placing the tip of the tongue on the bony ridge behind the upper teeth
+			
+Palatal			(fonetik alfabesi Türkçede yok)
+			The front or body of the tongue raised to the palatal region when tongue touches hard palate
+			∫   - ş, t∫  - ç, з  - j, dз - c
+			shy, visual, check, judge
+
+Velar			(yumuşak damağın boğaza yakın kısmı)
+			The back of the tongue raised to the soft palate (‘velum’) when the tongue touches velum
+			k, g, ŋ
+			“kg ile satılan yoğurdun tadı damağımda kaldı”
+			extra info: Uvular --> uvular doesnt exist in English
+
+Glottal			(gırtlak - produced with glottis)
+			At the larynx (the glottis is the space between the vocal folds)
+			H ---> dil pasif durumda ---> hot
+
+
+EXAMPLES, QUESTIONS:
+	pencil – bilabial and alveolor
+	hot – glottal and alveolor
+	book – bilabial and velar
+	television – alveolar, labiodental, palatal, velar
+	“fine - vine” pairs of words contains consonants that are labiodental and fricative
+
+
+			
+---> Manner orf articulation
+sesler nasıl oluşturuluyor
+how the air flows from the mouth
+how sounds are articulated
+
+stop (plosive)		the air is blocked and then released
+			p, b, t, d, k, g
+			“pubg tdk’de duruyor”
+
+Fricatives		hava tutuluyor sonrasında sıkıştırılarak bırakılıyor
+			blocking air and squeezing it while it leaves mouth
+			f, v, s, z, ∫, з, ð, Θ
+			
+			“ojesiz ve şeffaf” + dental
+
+Affricate		a consonant that begins as a stop and then releases as a fricative
+			(stop ile fricative birleşimi)
+			t∫  - ç, dз - c
+
+Nasal			Burunla ilgili
+			the airstream passes through the nose as a result of the lowering of the soft palate
+			hava geniz boşluğuna gönderilir sonrasında
+			hava burundan üflenir
+			m, n, ŋ
+
+Approximant		yaklaşma
+			bringing the parts of the mouth that produce speech close together
+				1. Liquid
+					tongue touches alveolar ridge and air stream flows from two sides of tongue
+					(dilimiz dişimizin arasındaki çıkıntıya temas eder dilin her iki tarafından hava çıkar)
+					L, R
+
+				2. Glide
+					moving tongue from one place to another
+					(dilimiz ağzımızın içinde hareket ediyor)
+					it is also called semi-vowel
+					W - one, J - y - university
+
+
+---> Extra info:
+Aspiration (patlama)
+	P, t , k , (h) sound as the initial sound or before a stressed(vutgulu) syllable
+		Tend, attack, poor, appear, cat, occassion
+	Kelimeyi söylerken önüne kağıt koy rüzgarı varsa aspiration – vurgulu hece
+
+
+Voicing State and Vowels
+		Voiced sounds: when vocal folds vibrate
+		(m, n, v)
+		Voiceless: when vocal folds do not vibrate
+		(k, p, s)
+
+	Vowel
+		The flow of air is not limited
+		1- Tongue Height
+			High vowels: i:, ı, u:, υ  (: - uzun)
+			Mid vowels: …
+			Low-vowels: a:,…
+		2- Tongue Advancement
+			Front: i:, ı, e, æ
+			Back: u:, a: …
+			Central: …
+		3- Lip Rounding
+			Rounded: u:, ..
+			Unrounded: 
+
+	Dipthongs
+		İki ünlünün birleşimiyle oluşan çift sesli gibi gözüken ama tek ses
+		A combination of two vowel sounds
+
+	Tripthongs
+		A combination of three vowel sound – flower okunuşu
+
+
+
+
 
 
 
