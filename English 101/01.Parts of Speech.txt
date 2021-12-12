@@ -1,15 +1,32 @@
 ---> PARTS OF SPEECH																	prepared by Uğur ARSLAN
-              			Function/Job    	                Example											   @arslanuguur
+              	Turkish			Function/Job    	                Example										   @arslanuguur
               	----------------------------------------------------------------------------------------
-Noun	      	İsim		--> thing or person	              	pencil, cat, Jack
-Pronoun	      	Zamir		--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
-                                                      			--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
-Verb	      	Fiil		--> action / state	            	base form V1, past form V2, past participle V3, -s/-es/-ies, -ing, infinitive
-Adverb	      	Zarf		--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
-Adjective     	Sıfat		--> describes a noun	                big, silent, bad, good
-Preposition   	Edat		--> links a noun to another word	in, at, on, after, before, under
-Conjunction   	Bağlaç		--> joins clauses or sentences	        but, because, and, while, when
-Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
+Noun	      	İsim			--> thing or person	              	pencil, cat, Jack
+Pronoun	      	Zamir			--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
+                                        	              			--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
+Verb	      	Fiil			--> action / state	            	base form V1, past form V2, past participle V3, -s/-es/-ies, -ing, infinitive
+Adverb	      	Zarf			--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
+Adjective     	Sıfat			--> describes a noun	                big, silent, bad, good
+Preposition   	Edat			--> links a noun to another word	in, at, on, after, before, under
+Conjunction   	Bağlaç			--> joins clauses or sentences	        but, because, and, while, when
+Interjection  	Ünlem			--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
+Determiner	Belirteç / Niteleyici	--> indicate reference			- - -
+
+
+---> Types of Determiners (İsmin önüne gelen Niteleyiciler)
+	Determiners are used in front of nouns to indicate whether you are referring to something specific or something of a particular type
+	
+		Adjectives:			smart, good, cool, bad, lucky, heavy
+		Possessive adjectives:		my, your, his, her, its, our, your, their
+		Articles:			a, an, the
+		Demonstrative pronouns:		this, that, these, those
+		Numerals:			one, two, three, four, five, six, seven, eight, nine, ten
+		Ordinals:			first, last, next 	--> first, second, third, fourth, fifth
+		Quantifiers:			some, any, no, many, much, enough, several, little, all, lot of, plenty of, a few, another, very
+		Distributives:			each, every, either, neither
+		Predeterminers:			all, all of, both, what, such, rather, quite, twice, double
+
+
 
 
 
@@ -59,6 +76,16 @@ I give it to him      --> nesne kullanımı
 I should/can/will go  --> yardımcı fiil kullanımı
 
 
+--> TWO OBJECTS
+		1. Indirect Object, 2. Direct Object
+		
+			you give the attendant your ticket
+			we will send our teacher a message
+			he bought her a diamond ring
+			I can reserve you a table
+			he lent me his phone
+			
+
 
 ---> QUESTION WORDS - 5 W 1 H
 what         	what are you talking about?			I am talking about information technologies
@@ -71,7 +98,7 @@ what kind of 	what kind of music do you like?			I like Rock songs
 which        	which one was your car?				the red one (of the cars) was my car/mine	one = car
              	which one do you prefer?			I prefer coffee americano			one = coffee
              	which one do you want to try?			I want to try black one				one = dress
-		
+		they went which way?				that way
 	    	-----------------------------------------------------------------------
 where       	where do you live (in)?				I live in New York from US
             	where are you from?				I am from Turkey
@@ -88,7 +115,8 @@ what for    	what do you come to the course for? 		I come to the course for Engl
 	    	-----------------------------------------------------------------------
 who         	who’s that? 					that is George
 	    	who's this?					this is Albert
-            	who has seen the accident? 			a young man has seen the accident 
+            	who has seen the accident? 			a young man has seen the accident
+		who / whom did you invite?			sen kimi davet ettin?
 who to/with 	who is talking to/with you?     		Arnold is talking to/with me
 	    	who are you talking to/with?			I am talking to/with Arnold
 whom        	whom did you see yesterday? 			I saw your old roommate yesterday
@@ -214,20 +242,6 @@ Future Continuous Tense	          --> They will be loving you.
 Future Perfect Tense	          --> By next week, they will have earned lots of money.
 Future Perfect Continuous Tense	  --> I will have been shopping on Tuesday.
 
-
-
----> Types of Determiners (İsmin önüne gelenler)
-	Determines are used in front of nouns to indicate whether you are refering to something specific or something of a particular type
-	
-	Adjectives:		smart, good, cool, bad, lucky, heavy
-	Possessive adjectives:	my, your, his, her, its, our, your, their
-	Articles:		a, an, the
-	Demonstrative pronouns:	this, that, these, those
-	Numerals:		one, two, three
-	Ordinals:		first, last, next 	--> first, second, third, fourth
-	Quantifiers:		some, any, no, many, much, enough, several, little, all, lot of, plenty of, a few, another, very
-	Distributives:		each, every, either, neither
-	Predeterminers:		all, all of, both, what, such, rather, quite, twice, double
                                                 
                      
                      
