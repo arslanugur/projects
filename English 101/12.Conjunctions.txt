@@ -89,7 +89,8 @@ So is used to show a reaction or consequence.
 		- I don't know why either.	- I don't know anything about either.
 		- you don't trust me, either.
 		- it wasn't either of your faults.
-		- neither do I - and we should.
+		- I am not going 	- nor am I
+		- he can't drive, and neither can she
 	--> AS WELL
 		- A: I’ll have steak please.
     		  B: Yes.
@@ -228,7 +229,7 @@ So is used to show a reaction or consequence.
 	unless – mezse, mazsa (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 
 	if, only if, assuming that, in that case, in case (that), even if
-	in the event (that), supposing
+	in the event (that), supposing, if so - eğer öyleyse
 
 	whether or not, in order to, so that, otherwise, or (else)
 
