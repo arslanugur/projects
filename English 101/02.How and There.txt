@@ -1,5 +1,5 @@
-HOW																     		     prepared by Uğur ARSLAN
----------------																			@arslanuguur
+HOW																    		prepared by Uğur ARSLAN
+---------------																		   @arslanuguur
 much            how much did you get paid?						ne kadar maaş aldın?
                 how much money do you need?						kaç paraya ihtiyacın var?
 many            how many brothers do you have?						kaç tane erkek kardeşin var?
@@ -219,12 +219,12 @@ are there any credit cards in your wallet?		cüzdanında hiç kredi kartı var m
 is there a box on the chair?				sandalyenin üzerinde bir kutu var mı?
 there is a lot of water					çok fazla su var
 how much rice should I put?				ne kadar pirinç koymalıyım?
-how many apples does she have? (Ne kadar elması var?)
-does she have any apples? (Hiç elması var mı?)
-Is there an email address to write to?
-how much orange juice is there?
-can we have some more chairs, please?
-have you got some new glasses?
+how many apples does she have?				kaç elması var?
+does she have any apples?				hiç elması var mı?
+is there an e-mail address to write to?			yazılacak bir e-posta adresi var mı? 
+how much orange juice is there?				ne kadar portakal suyu var?
+can we have some more chairs, please?			biraz daha sandalye alabilir miyiz, lütfen? 
+have you got some new glasses?				yeni bir gözlüğün var mı?
 
 
 
