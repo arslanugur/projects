@@ -283,39 +283,39 @@ Bedroom         bedrum            yatak odası
 Bee             bii               arı
 Beef            biif              DANA ETİ
 Beer            biır              BİRA
-Beetle	biitl	HAMAMBÖCEĞİ
-Before	bifor	ÖNCE
-Beg	beg	dilenmek
-Begin	begın başlamak
-Start sıtart başlamak 
-Behave	biheyv	davranmak
-Behaviour biheyvıor davranış
-Behind	bihaynd	arkada, geride
-In front of infrontof önde, önünde
-Being	biing	VARLIK
-Believe	bıliiv inanmak
-Belief bılif inanç
-Bell	bel	ZİL, ÇAN
-Belong	bilong	AİT OLMAK + to
-Beneath	bınith	ALTINDA
-Below	bilov	altta, aşağıda
-Above   abov    yukarıda
-Belt	belt	KEMER
-Bench	benç	1.TEZGAH  2.BANK
-Bend	bend	EĞMEK, EĞİLMEK
-Benefit	benıfit	YARARI OLMAK
-Beneficial benıficıil yararlı
-Berry	beri	KÜÇÜK ÇEKİRDEKSİZ MEYVE
-By	bay	YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR
-Beside	bisayd	YANINDA
-Besides	bisaydz	HEM DE
-Bet	bet	İDDİA ETMEK, İDDİAYA GİRMEK
-Better	better	DAHA İYİ
-Best	best	EN İYİ
-Between	bitviin	ARASINDA
-Beyond	biyand	ÖTESİNDE
-Bicycle	baysikl	BİSİKLET
-Big	big	BÜYÜK
+Beetle	        biitl	HAMAMBÖCEĞİ
+Before	        bifor	ÖNCE
+Beg	            beg	dilenmek
+Begin	          begın başlamak
+Start           sıtart başlamak 
+Behave	        biheyv	davranmak
+Behaviour       biheyvıor davranış
+Behind	        bihaynd	arkada, geride
+In front of     infrontof önde, önünde
+Being	          biing	VARLIK
+Believe	        bıliiv inanmak
+Belief          bılif inanç
+Bell	          bel	ZİL, ÇAN
+Belong	        bilong	AİT OLMAK + to
+Beneath	        bınith	ALTINDA
+Below	          bilov	altta, aşağıda
+Above           abov    yukarıda
+Belt	          belt	KEMER
+Bench	          benç	1.TEZGAH  2.BANK
+Bend	          bend	EĞMEK, EĞİLMEK
+Benefit	        benıfit	YARARI OLMAK
+Beneficial      benıficıil yararlı
+Berry	          beri	KÜÇÜK ÇEKİRDEKSİZ MEYVE
+By	            bay	YANINDA, SIRASINDA, TARAFINDAN, ..E KADAR
+Beside	        bisayd	YANINDA
+Besides	        bisaydz	HEM DE
+Bet	            bet	İDDİA ETMEK, İDDİAYA GİRMEK
+Better	        better	DAHA İYİ
+Best	          best	EN İYİ
+Between	        bitviin	ARASINDA
+Beyond	        biyand	ÖTESİNDE
+Bicycle	        baysikl	BİSİKLET
+Big	            big	BÜYÜK
 Bike	bayk	BİSİKLET
 Bill	bil	1.MAKBUZ 2.HESAP 3.KANUN TASLAĞI 4.GAGA (KUŞ)
 Bin	bin	KAP
