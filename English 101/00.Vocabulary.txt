@@ -283,16 +283,16 @@ Bedroom         bedrum            yatak odası
 Bee             bii               arı
 Beef            biif              DANA ETİ
 Beer            biır              BİRA
-Beetle	        biitl	HAMAMBÖCEĞİ
-Before	        bifor	ÖNCE
-Beg	            beg	dilenmek
-Begin	          begın başlamak
-Start           sıtart başlamak 
-Behave	        biheyv	davranmak
-Behaviour       biheyvıor davranış
-Behind	        bihaynd	arkada, geride
-In front of     infrontof önde, önünde
-Being	          biing	VARLIK
+Beetle          biitl             HAMAMBÖCEĞİ
+Before          bifor             ÖNCE
+Beg             beg               dilenmek
+Begin           begın             başlamak
+Start           sıtart            başlamak 
+Behave          biheyv            davranmak
+Behaviour       biheyvıor         davranış
+Behind          bihaynd           arkada, geride
+In front of     infrontof         önde, önünde
+Being           biing             VARLIK
 Believe	        bıliiv inanmak
 Belief          bılif inanç
 Bell	          bel	ZİL, ÇAN
@@ -316,99 +316,99 @@ Between	        bitviin	ARASINDA
 Beyond	        biyand	ÖTESİNDE
 Bicycle	        baysikl	BİSİKLET
 Big	            big	BÜYÜK
-Bike	bayk	BİSİKLET
-Bill	bil	1.MAKBUZ 2.HESAP 3.KANUN TASLAĞI 4.GAGA (KUŞ)
-Bin	bin	KAP
-Bind	baynd	BAĞLAMAK
-Bird	börd	KUŞ
-Birth	börth	DOĞUM
-Biscuit	biskit	BİSKÜVİ
-Bishop	bişıp	PİSKOPOS
-Bit	bit	1.PARÇA 2.MATKAP,ANAHTARIN UCU 3.ISIRMANIN PAST ŞEKLİ
-Bite	bayt	ISIRMAK
-Black	blek	SİYAH
-Blame	bleym	SORUMLU TUTMAK, SUÇLAMAK
-Blank	blenk	BOŞLUK
-Space  sıpeys  boşluk, uzak, aralık
-Blanket	blenkıt	BATTANİYE
-Blast	blast	PATLAYARAK PARÇALANMA, MAHVETMEK
-Bless	bles	(Tanrı'dan) KORUNMASINI DİLEMEK, TAKDİS
-Blind	blaynd	KÖR
-Block	blok	BLOK
-Blood	blad	KAN
-Bloom	bluum	ÇİÇEK, ÇİÇEK AÇMAK
-Blow	blou	ÜFLEMEK, PATLAMAK
-Blue	blu	1. MAVİ 2.MUTSUZ
-Bluff	blaf	BLÖF
-Board	boord	BİNMEK (gemiye,uçağa,vs.) 2.TAHTA 3.KURUL
-Boast	boust	ÖVÜNMEK
-Boat	bout	BOT;SANDAL
-Body	badi	GÖVDE;VÜCUT
-Boil	boıl	KAYNAMAK
-Bold	bould	CÜRETKAR, UTANMAZ, KORKUSUZ vs.
-Bomb	bomb	BOMBA
-Bone	boun	KEMİK
-Bonfire	bonfayır	MEYDAN ATEŞİ, ŞENLİK ATEŞİ
-Book	buk	KİTAP
-Book	buk	YER AYIRTMAK
-Border	bordır	SINIR
-Bore	bor	CAN SIKMAK
-Bored	bord	CANI SIKILMIŞ				
-Born	born	DOĞMUŞ				
-Borrow	borou	ödünç almak
-Lend   lend ödünç vermek		
-Boss	bos	PATRON				
-Both	bouth	İKİSİ				
-Bottle	botl	şişe	
-Bottom	botım	en alt, dip
-Top     tap     en üst, zirve		
-Bowl	boul	TAS				
-Box	boks	1.KUTU 2.BOKS				
-Boy	boy	ERKEK ÇOCUK				
-Bra	bra	SUTYEN				
-Brain	breyn	BEYİN				
-Brass	bras	PİRİNÇ (metal)				
-Brave	breyv	KORKUSUZ, CESUR				
-Bread	bred	EKMEK				
-Break	breyk	KIRMAK				
-Breakfast	brekfıst	KAHVALTI				
-Breath	breth	NEFES				
-Breathe	brith	NEFES ALMAK				
-Brick	brik	TUĞLA				
-Bridge	bric	köprü
-Fridge  fric    buzdolabı				
-Brief	briif	KISA, ÖZETLİ				
-Bright	brayt	PARLAK		
-Bring	bring	GETİRMEK				
-Broad	brood	GENİŞ				
-Broadcast	broodkast	YAYIN (radyo ve T.V. yoluyla)				
-Broom	bruum	SÜPÜRGE				
-Brother	bradır	ERKEK KARDEŞ, AĞABEY				
-Brown	braun	KAHVERENGİ				
-Brush	braş	1.FIRÇA  2.FIRÇALAMAK				
-Budget	bacıt	1.BÜTÇE  2.BÜTÇE YAPMAK				
-Build	bild	İNŞA ETMEK, YAPMAK				
-Building	bilding	BİNA				
-Bulb	balb	AMPUL				
-Bump	bamp	ÇARPIŞMA				
-Bumper	bampır	TAMPON (araba)				
-Bumpy	bampi	ENGEBELİ				
-Bunch	banç	DESTE, DEMET				
-Bungalow	banglou	BUNGALOV				
-Burglar	börglır	HIRSIZ				
-Burn	börn	YANMAK				
-Burst	börst	PATLAMAK				
-Bury	böri	GÖMMEK				
-Bus	bas	OTOBÜS				
-Bush	buş	ÇALI				
-Business	biznıs	İŞ				
-Busy	bizi	MEŞGUL				
-But	bat	FAKAT				
-Butcher	butçır	KASAP				
-Butter	batır	TEREYAĞ				
-Button	batn	DÜĞME				
-Buy	bay	satın almak				
-Sell    sel     satmak				
+Bike            bayk	BİSİKLET
+Bill            bil	1.MAKBUZ 2.HESAP 3.KANUN TASLAĞI 4.GAGA (KUŞ)
+Bin             bin	KAP
+Bind            baynd	BAĞLAMAK
+Bird            börd	KUŞ
+Birth           börth	DOĞUM
+Biscuit         biskit	BİSKÜVİ
+Bishop          bişıp	PİSKOPOS
+Bit             bit	1.PARÇA 2.MATKAP,ANAHTARIN UCU 3.ISIRMANIN PAST ŞEKLİ
+Bite            bayt	ISIRMAK
+Black           blek	SİYAH
+Blame           bleym	SORUMLU TUTMAK, SUÇLAMAK
+Blank           blenk	BOŞLUK
+Space           sıpeys  boşluk, uzak, aralık
+Blanket         blenkıt	BATTANİYE
+Blast           blast	PATLAYARAK PARÇALANMA, MAHVETMEK
+Bless           bles	(Tanrı'dan) KORUNMASINI DİLEMEK, TAKDİS
+Blind           blaynd	KÖR
+Block           blok	BLOK
+Blood           blad	KAN
+Bloom           bluum	ÇİÇEK, ÇİÇEK AÇMAK
+Blow            blou	ÜFLEMEK, PATLAMAK
+Blue            blu	1. MAVİ 2.MUTSUZ
+Bluff           blaf	BLÖF
+Board           boord	BİNMEK (gemiye,uçağa,vs.) 2.TAHTA 3.KURUL
+Boast           boust	ÖVÜNMEK
+Boat            bout	BOT;SANDAL
+Body            badi	GÖVDE;VÜCUT
+Boil            boıl	KAYNAMAK
+Bold            bould	CÜRETKAR, UTANMAZ, KORKUSUZ vs.
+Bomb            bomb	BOMBA
+Bone            boun	KEMİK
+Bonfire         bonfayır	MEYDAN ATEŞİ, ŞENLİK ATEŞİ
+Book            buk	KİTAP
+Book            buk	YER AYIRTMAK
+Border          bordır	SINIR
+Bore            bor	CAN SIKMAK
+Bored           bord	CANI SIKILMIŞ				
+Born            born	DOĞMUŞ				
+Borrow          borou	ödünç almak
+Lend            lend ödünç vermek		
+Boss            bos	PATRON				
+Both            bouth	İKİSİ				
+Bottle          botl	şişe	
+Bottom          botım	en alt, dip
+Top             tap     en üst, zirve		
+Bowl            boul	TAS				
+Box             boks	1.KUTU 2.BOKS				
+Boy             boy	ERKEK ÇOCUK				
+Bra             bra	SUTYEN				
+Brain           breyn	BEYİN				
+Brass           bras	PİRİNÇ (metal)				
+Brave           breyv	KORKUSUZ, CESUR				
+Bread           bred	EKMEK				
+Break           breyk	KIRMAK				
+Breakfast       brekfıst	KAHVALTI				
+Breath          breth	NEFES				
+Breathe         brith	NEFES ALMAK				
+Brick           brik	TUĞLA				
+Bridge          bric	köprü
+Fridge          fric    buzdolabı				
+Brief           briif	KISA, ÖZETLİ				
+Bright          brayt	PARLAK		
+Bring           bring	GETİRMEK				
+Broad           brood	GENİŞ				
+Broadcast       broodkast	YAYIN (radyo ve T.V. yoluyla)				
+Broom           bruum	SÜPÜRGE				
+Brother         bradır	ERKEK KARDEŞ, AĞABEY				
+Brown           braun	KAHVERENGİ				
+Brush           braş	1.FIRÇA  2.FIRÇALAMAK				
+Budget          bacıt	1.BÜTÇE  2.BÜTÇE YAPMAK				
+Build           bild	İNŞA ETMEK, YAPMAK				
+Building        bilding	BİNA				
+Bulb            balb	AMPUL				
+Bump            bamp	ÇARPIŞMA				
+Bumper          bampır	TAMPON (araba)				
+Bumpy           bampi	ENGEBELİ				
+Bunch           banç	DESTE, DEMET				
+Bungalow        banglou	BUNGALOV				
+Burglar         börglır	HIRSIZ				
+Burn            börn	YANMAK				
+Burst           börst	PATLAMAK				
+Bury            böri	GÖMMEK				
+Bus             bas	OTOBÜS				
+Bush            buş	ÇALI				
+Business        biznıs	İŞ				
+Busy            bizi	MEŞGUL				
+But             bat	FAKAT				
+Butcher         butçır	KASAP				
+Butter          batır	TEREYAĞ				
+Button          batn	DÜĞME				
+Buy             bay	satın almak				
+Sell            sel     satmak				
 
 
 
