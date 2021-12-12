@@ -1,5 +1,5 @@
----> PARTS OF SPEECH																prepared by Uğur ARSLAN
-              			Function/Job    	                Example										   @arslanuguur
+---> PARTS OF SPEECH																	prepared by Uğur ARSLAN
+              			Function/Job    	                Example											   @arslanuguur
               	----------------------------------------------------------------------------------------
 Noun	      	İsim		--> thing or person	              	pencil, cat, Jack
 Pronoun	      	Zamir		--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
@@ -133,13 +133,14 @@ are        were       they	them	(onları, onlara)    	their ...     	... theirs.
 
 
 ---> EXAMPLES
-he is going to teach him				o, ona öğretecek
-he is going to teach himself				o, kendisine öğretecek
-we steal our money from ourselves because of tax	vergiler yüzünden kendi paramızı kendimizden çalarız	- Durum
-don't focus your goals instead, focus on the habits. Your habits take you to them
-if I walk by myself, at least I know I'm with somebody I can trust
-I don't want you to spend time with the likes of him	onun gibilerle zaman harcamanı istemiyorum
-because of the likes of you - senin gibiler yüzünden 
+he is going to teach him								o, ona öğretecek
+he is going to teach himself								o, kendisine öğretecek
+we steal our money from ourselves because of tax					vergiler yüzünden kendi paramızı kendimizden çalarız
+don't focus your goals instead, focus on the habits. Your habits take you to them	alışkanlıkların yerine, hedeflerine odaklanmayın. alışkanlıkların seni hedeflerine götürür 
+your salary per month is a bribe to forget your dreams and your rights			her ay aldığınız maaş, hayallerinizi ve haklarınızı unutmanız için size verilen bir rüşvettir
+I don't want you to spend time with the likes of him					onun gibilerle zaman harcamanı istemiyorum
+because of the likes of you								senin gibiler yüzünden 
+if I walk by myself, at least I know I'm with somebody I can trust			kendi başıma yürürsem, en azından güvenebileceğim biriyle birlikte olduğumu biliyorum 
 My car is in front of the school
 This is Jack and this is his wife, Sue
 Put your coats on the back of your seats
@@ -151,8 +152,7 @@ Your hotel is near the city center while ours is near the airport
 I love your sofa. Mine isn’t as comfortable as yours
 We don’t need help with our project but the boys need help with theirs.
 Is this Carol’s bicycle? – No, that red one over there is hers.
---> We also use possessive pronouns after a noun + ‘of’. 
-For example:
+--> We also use possessive pronouns after a noun + ‘of’.
 I’m a friend of his.
 You’re a student of mine.
 
