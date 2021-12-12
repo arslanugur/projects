@@ -1,5 +1,5 @@
-
-
+English         Pronounciation    Turkish                                                                                                               prepared by Uğur ARSLAN
+-------------------------------------------------------------                                                                                                      @arslanuguur
 Ability         ebılıti	          yetenek, beceri
 Able            eybıl             muktedir
 Abandon         ebandın	          terk etmek
@@ -2637,13 +2637,5 @@ Youth	yuuth	GENÇLİK
 Zero	zirou	SIFIR				
 Zip	zip	FERMUAR				
 Zone	zon	BÖLGE				
-
-
-
-
-prepared by Uğur ARSLAN and His Students
-
-
-
 
 
