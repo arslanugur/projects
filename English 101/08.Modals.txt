@@ -1,5 +1,5 @@
----> MODALS																	prepared by Uğur ARSLAN
-can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request					   @arslanuguur
+---> MODALS																		prepared by Uğur ARSLAN
+can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request						   @arslanuguur
 may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
 must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
 shall		-acak, -ecek		(niyet)		intention, supposition
@@ -204,6 +204,37 @@ you will have to figure out the rest, first
 --> HAVE GOT TO 
 
 
+--> BE TO
+	- the teacher says we are to wait here		order
+	- you are not to stay up late			order
+	- no one is to leave this building		order
+	- the two companies are to merge shortly	arrangement
+	- the prime minister is to visit Rome		arrangement
+	
+	BE ABOUT TO and BE ON THE POINT OF
+	- the performance is about to start		near future
+	- hurry up. the bus is (just) about to leave	near future
+	- the bus is just going to leave		be going to
+	- I am on the point of quitting my job		nearly
+	
+	BE DUE TO
+	- the meeting is due to take place today
+	- the train is due to leave at 4:20
+	
+	BE SET TO
+	- the player is set to leave the club
+	- prices are set to rise once more
+	
+	BE BOUND / SURE / CERTAIN TO
+	- there's bound to be trouble
+	- the president is sure / certain to resign
+	
+	WAS TO / WAS ABOUT TO
+	- he fell ill on the day he was to go for a job interview
+	- we saw that the bus was about to leave
+	- we were on the point of buying the flat when we had second thoughts
+	
+	
 --> Extras
 	- he was getting used to getting to do
 	- you've got to ask yourself one question: 'Do I feel lucky?' 
@@ -236,7 +267,7 @@ you will have to figure out the rest, first
 
 
 ---> USED TO
-	Now you’re just somebody that I used to know			Şimdi sen sadece eskiden tanıdığım birisin
+	now you’re just somebody that I used to know			şimdi sen sadece eskiden tanıdığım birisin
 	
 	
 	used to + V1 (-ardım, -erdim)
@@ -274,7 +305,6 @@ you will have to figure out the rest, first
 	I never got used to shaking hands with people all the time when I lived there	Orada yaşarken durmadan insanlarla el sıkışmaya hiç alışamadım
 	I’m getting used to running away from the work nowadays owing to stress and strains in my business life
 	İş hayatımdaki stres ve gerginlikler yüzünden son zamanlarda işten kaçmaya alışıyorum/adet ediniyorum
-
 
 
 
