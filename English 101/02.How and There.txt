@@ -173,29 +173,36 @@ how many classes do you have this semester?		bu sene kaç dersin var?
 					
 
 
----> THERE
+
+
+WHERE - Nerede
+HERE  -	Burada
+THERE - Orada
+
+---> THERE IS / THERE ARE
 Present		Past		Perfect			Modals – Present	Modals – Past
 ----------------------------------------------------------------------------------------------
 there is	there was	there has been		there will be		there would be
 there are	there were	there have been		there can be		there could be
 				there had been		there may be		there might be
 										there should be
-there is no place like home
-there is still a little sadness left
-there is nothing holding me back
-there are no handsome boys here at all.
-there was no sound to be heard anywhere throughout the country.
-there were few things that he wanted more.
-there will be blood
-there would be no moon tonight
-there must be more to life than this
-there must be money somewhere here - burada bir yerlerde para vardır
-there must be several times that by now.
-there might be a thousand explanations for what she had witnessed, but only one came to mind.
-there should be another possible ending for this story
-if there is something funny, tell me and let's laugh together
-if there is a way out, I will find it!
-how many chairs are there?				
+there is no place like home									Ev gibi hiçbir yer yok
+there is still a little sadness left								halen biraz hüzün var 
+there is nothing holding me back								beni geri tutan hiçbir şey yok
+there are no handsome boys here at all					(at all - hiç)		burada hiç yakışıklı oğlan yok 
+there was no sound to be heard anywhere throughout the country					ülkenin hiçbir yerinde duyulacak bir ses yoktu 
+there were few things that he wanted more							daha çok istediği birkaç şey vardı 
+there will be blood										kan dökülecek
+there would be no moon tonight									bu gece ay olmayacaktı 
+there must be more to life than this								hayatta bundan daha fazlası olmalı 
+there must be money somewhere here								burada bir yerlerde para olmalı
+there must be several times that by now								şimdiye kadar birkaç kez olmalı 
+there might be a thousand explanations for what she had witnessed, but only one came to mind
+	tanık olduklarına dair binlerce açıklama olabilir ama aklıma sadece bir tanesi geldi
+there should be another possible ending for this story						bu hikaye için başka bir olası son olmalı 
+if there is something funny, tell me and let's laugh together					komik bir şey varsa, söyle beraber gülelim 
+if there is a way out, I will find it!								bir çıkış yolu varsa, onu bulacağım! 
+how many chairs are there?									kaç sandalye var?	
 
 
 
