@@ -267,7 +267,8 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
 		------------------------------------------------------------------------------------------------
                 every         	her        		I heartily congratulate every player on this team
                 each		her bir, her biri      	each company is fighting to protect its own commercial interests
-                                        		each of them purchased chocolate from my shop
+                                        		each generation creates its own reality and follows it 
+							each of them purchased chocolate from my shop
                                         		each will have his or her own seat
                   
                 either		ikisinden biri		either one will be fine 
