@@ -1,5 +1,5 @@
-HOW																    			prepared by Uğur ARSLAN
----------------																			   @arslanuguur
+HOW																   	prepared by Uğur ARSLAN
+---------------																	   @arslanuguur
 much            how much did you get paid?						ne kadar maaş aldın?
                 how much money do you need?						kaç paraya ihtiyacın var?
 many            how many brothers do you have?						kaç tane erkek kardeşin var?
@@ -293,7 +293,8 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
 							that slice of pie was good. Can I have another?
 							
                 less		daha az şey / miktar	less is more
-                little		ufak şey, daha az	many a little makes a mickle (many small amounts accumulate to make a large amount)
+                little		ufak şey, daha az	little is known about their history
+							many a little makes a mickle (many small amounts accumulate to make a large amount)
                 much		çok şey			much has happened since we met
 
 		------------------------------------------------------------------------------------------------
@@ -303,7 +304,8 @@ PLURAL
                                         		she likes juice but not milk. I think both are good
 
                 few		birkaç, az miktar       a few of the justices voiced their opposition
-                                        		few are as brave as you
+                                        		few were chosen for the job
+							few are as brave as you
                 fewer		daha azı              	fewer are smoking these days
                 many # some	birçok # bazı		many people feel that the law should be changed
                 a lot		bir çok			a lot things broke my heart, but fixed my vision  
