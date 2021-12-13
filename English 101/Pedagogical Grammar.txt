@@ -8,110 +8,112 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 > Part of Speech
--  Nouns
-          Singular vs Plural Nouns: 
-                analysis-analyses           crisis-crises                     thesis-theses
-                phenomenon-phenomena        criterion-criteria                datum-data
-                bacterium-bacteria          appendix-appendices/appendixes	  memorandum-memoranda
-                basis-bases                 hypothesis-hypotheses             medium-media
-                parenthesis-parantheses     synthesis-syntheses               curriculum-curricula
+-  NOUNS
+		Singular vs Plural Nouns: 
+                	analysis-analyses           crisis-crises                     thesis-theses
+                	phenomenon-phenomena        criterion-criteria                datum-data
+                	bacterium-bacteria          appendix-appendices/appendixes	  memorandum-memoranda
+                	basis-bases                 hypothesis-hypotheses             medium-media
+                	parenthesis-parantheses     synthesis-syntheses               curriculum-curricula
 
-	        Possessive Nouns    ‘s
-		            A type of noun added an apostrophe to Show ownership
-		            Last weekend’s plans
-		            Students’ assignment
+		Possessive Nouns    ‘s
+			A type of noun added an apostrophe to Show ownership
+			Last weekend’s plans
+			Students’ assignment
 	
-          Proper Noun - özel isim
-		             A type of noun identifying a specific person, place or item
-		             It starts with capital letter: Ankara, London, Eiffel, Shakespeare
+		Proper Nouns - özel isim
+			A type of noun identifying a specific person, place or item
+			It starts with capital letter: Ankara, London, Eiffel, Shakespeare
 	
-          Collective Nouns (2013)
-                  A type of noun used to refer to a group of people, animals, objects
-                  The names of a group of people, objects and so on.
-                  Audience, Cabinet, Choir-Chorus, Class, Jury, Family, Society, Navy, Company
-                  Staff, Committee, group, crew, flock, army, herd, team, gang, orchestra
+		Collective Nouns (2013)
+			A type of noun used to refer to a group of people, animals, objects
+			The names of a group of people, objects and so on.
+			Audience, Cabinet, Choir-Chorus, Class, Jury, Family, Society, Navy, Company
+			Staff, Committee, group, crew, flock, army, herd, team, gang, orchestra
           
-          Compound Nouns
-                  Nouns consiting more than one word
-                  noun+noun       ---> Classroom, Textbook, basketball, garden gate, car park, wooden soldier
-                  adjective+noun  ---> blackberry, grandfather, software
-                  verb+noun       ---> helpmate, go-kart, break dance
+		Compound Nouns
+			Nouns consiting more than one word
+			noun+noun       ---> Classroom, Textbook, basketball, garden gate, car park, wooden soldier
+			adjective+noun  ---> blackberry, grandfather, software
+			verb+noun       ---> helpmate, go-kart, break dance
 	        
-          Mass Nouns – Money, Justice, Wine
-
-          Common Noun
-		              A type of noun used for refer to general items rather than specific ones
-		              Hepsinin bi türü, branşı,  konusu, tarzı, miktarı var…
-		              Dog, doctor, country, lesson, singer, sea, tree, newspaper, bag
-	
-          Concrete Nouns
-                  A type of noun used to refer to things that can be seen, heard, smelt, touched, tasted
-                  Apple, Pencil, Book, perfume, ocean, car
-        
-          Abstract Nouns
-                  A type of noun used to refer to things that dont have physical reality
-                  It refers to ideas, feelings, concepts etc
-                  Love, Respect, Peace, adventure, patience, comfort, religion, abilty, liberty, loss, pride, life, anxiety 
-
-          Gender-Specific Noun
-		              A type of noun used to refer specifically to a male or female
-		              Governess, man, woman, husband, poetess, actress, waiter, tigress, hen, princess, queen
-
-          Gerunds – Reading, Writing
-	
-          Nominalization – Failure, Movement
-
-	        Noun Phrase - can be subject and object too
+		Mass Nouns
+			Money, Justice, Wine
+		
+		Common Nouns
+			A type of noun used for refer to general items rather than specific ones
+			Hepsinin bi türü, branşı,  konusu, tarzı, miktarı vaR
+			Dog, doctor, country, lesson, singer, sea, tree, newspaper, bag
+			
+		Concrete Nouns
+			A type of noun used to refer to things that can be seen, heard, smelt, touched, tasted
+			Apple, Pencil, Book, perfume, ocean, car
+			
+		Abstract Nouns
+			A type of noun used to refer to things that dont have physical reality
+			It refers to ideas, feelings, concepts etc
+			Love, Respect, Peace, adventure, patience, comfort, religion, abilty, liberty, loss, pride, life, anxiety 
+			
+		Gender-Specific Noun
+			A type of noun used to refer specifically to a male or female
+			Governess, man, woman, husband, poetess, actress, waiter, tigress, hen, princess, queen
+		
+		Gerunds
+			Reading, Writing
+			
+		Nominalization – Failure, Movement
+		
+		Noun Phrase - can be subject and object too
 
 
 - Determiner (2016)
-  	A determiner is a word used before a noun to modify it
-	    Articles: a, an, the
-	    Quantifiers: some, any
-	    Possessives: my, his, their
-	    Numbers: one, two, three
-	    Demonstratives: this, that, these, those
+		A determiner is a word used before a noun to modify it
+		Articles: a, an, the
+		Quantifiers: some, any
+		Possessives: my, his, their
+		Numbers: one, two, three
+		Demonstratives: this, that, these, those
 
 - Adjectives
 
 - Verbs
-	  Transitive Verbs – geçişli -  nesneli  a verb that takes a direct object
-	    “he eats sugar and cake” “she like coffee”
-	    -Mono Transitive Verbs take only one direct object –he plays basketball
-	    -Ditransitive Verbs take both a direct and a indirect -  çift geçişli
-	    	“he have a book to me”
-		    “she sends a letter to her best friend”
-		    “you need to give him some money”
-	
-  -Complex Transitive Verbs take a direct object and an object complement
-	  	“everybody regards him as a good man”
-		  “he named her son Michael”
-		  “I found the movie boring” nesne tamamlayıcı vardır
+		Transitive Verbs – geçişli -  nesneli  a verb that takes a direct object
+			“he eats sugar and cake” “she like coffee
+		-Mono Transitive Verbs take only one direct object –he plays basketball
+		-Ditransitive Verbs take both a direct and a indirect -  çift geçişli
+			“he have a book to me”
+			“she sends a letter to her best friend”
+			“you need to give him some money”
+			
+		-Complex Transitive Verbs take a direct object and an object complement
+			“everybody regards him as a good man”
+			“he named her son Michael”
+			“I found the movie boring” nesne tamamlayıcı vardır
 		
-	- Intransitive – geçişsiz
-      a verb that does not take a direct object
-		  “he is coughing too much”
-		  “lots of people died because of the disease”
-		  “she lives there”
+		- Intransitive – geçişsiz
+			a verb that does not take a direct object
+			“he is coughing too much”
+		  	“lots of people died because of the disease”
+		  	“she lives there”
 	
-	- Ergative Verbs
-      a verb that can be used both as transitive and intransitive verb
-		  “break”, “he broke the vase”, “the glass broke”
+		- Ergative Verbs
+			a verb that can be used both as transitive and intransitive verb
+		  		“break”, “he broke the vase”, “the glass broke”
 		
-	- Copular Verbs (Linking Verb)
-      Kendinden sonra gelen sıfatı fiilleştirir. (2014)
+		- Copular Verbs (Linking Verb)
+      			Kendinden sonra gelen sıfatı fiilleştirir. (2014)
 			Özne ile özneyi niteleyen kelimeyi bağlamak
 			Yüklemi isme ya da sıfat bağlı olan filler
 			A type of verb that links subject to a noun or adjective as subject complement
 			
-      get, be, become, feel, look, smell, sound, seem, appear, taste
+      			get, be, become, feel, look, smell, sound, seem, appear, taste
 			
-      üstekilerini kullandığında özne nitelenmiş olur
+			üstekilerini kullandığında özne nitelenmiş olur
 			“the book is boring”    boring diye niteleniyor
 			“she became a singer”   became ama ne became nitelenmesi gerek singer ile niteleniyor
-		  “they look happy”       nasıl görünüyor
-		  “nobody got angry”      nobody öznesi got ile tamamlanmıyor ve nitelenmesi gerek angry ile
-      “they play football”	  NOT copular
+		  	“they look happy”       nasıl görünüyor
+		  	“nobody got angry”      nobody öznesi got ile tamamlanmıyor ve nitelenmesi gerek angry ile
+      			“they play football”	  NOT copular
 
 
 --->	CATEGORIES OF VERBS
@@ -120,7 +122,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		        Using a verb to explore a conditional or unreal situation
 		        ***To express a wish, a demand, request or suggestion
 		        Dilek kipi 
-            If I were you, I would go (unreal situation)
+            		If I were you, I would go (unreal situation)
 		        I wish I were there (wish)
 		        I wish i were there (wish)
 		        I suggest that you study more (expressing suggestion)
@@ -129,11 +131,11 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		
 	        -Declarative Mood (2015)
 		        A mood that is based on an act or statement as an objective fact.
-            Presenting an act or statement as an objective fact
+            		Presenting an act or statement as an objective fact
 		        It generally gives information and presents a real situation in contrast to subjunctive mood
-            Beyanda bulunmak, olan şeyi anlatmak, gerçekleşen bi durum var, bildirme kipi
+            		Beyanda bulunmak, olan şeyi anlatmak, gerçekleşen bi durum var, bildirme kipi
 		
-            She is writing an article (A Real Situation)
+            		She is writing an article (A Real Situation)
 		        Ankara is a big city (real)
 		        She is driving to his hometown to visit her parents (a real situation)
 
@@ -147,14 +149,14 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		        When you say these words, you do the action
 		        Uyarı ya d aiişi o anda yapmak
 		        Confess, Declare, Guarantee, Sentence
-            Assert, Suggest, Promise, Ask, Order, Apologize, Warn etc
+            		Assert, Suggest, Promise, Ask, Order, Apologize, Warn etc
 		
             -I suggest that you go there
 		        -I warn you
 		        -I request your help
 		        I play football – Hem futbol oynuyor ama şimdi değil hem de oynadığımı aktarıyorum
-		         Söz veriyorsun aynı anda yapıyorsun gibi
-		         Söylemenin yanında bizzat yapıyorsun
+		        Söz veriyorsun aynı anda yapıyorsun gibi
+		        Söylemenin yanında bizzat yapıyorsun
 
 
           - Auxiliary Verbs
@@ -165,98 +167,99 @@ Pedagogical Grammar (and Profiency) 25 Questions
         		to do, to have, to walk, to run, to jump,   oto carry, to sit, to stand
 	        
           - Stative Verbs (Feelings, Thoughts, Senses)
-             like, love, wish, need, know, think, understand, believe, remember, forget, agree, see, sound, taste, appear, feel, look
+             		like, love, wish, need, know, think, understand, 
+			believe, remember, forget, agree, see, sound, taste, appear, feel, look
 	
           - Finite Verbs (Tense, Continuous Tenses) (Clause)
-		         I go, I am going
+		        I go, I am going
 	
           - Non-Finite Verbs (Gerund, Infinitive, Participles) (Clause)
 		        Sailing is my favorite
-				    To understand each other
+			To understand each other
 
 
 ---> Adverbs
-          	He is quite happy  Sıfatı nitelemiş
-	          They walked slowly  Fiili nitelemiş
-	          Nearly everybody came to the party  Belgisiz zamiri nitelemiş
-	          Almost half of the book
+			he is quite happy  Sıfatı nitelemiş
+	          	They walked slowly  Fiili nitelemiş
+	          	Nearly everybody came to the party  Belgisiz zamiri nitelemiş
+	          	Almost half of the book
 
 - Pronouns
-	      Subject/Personal Pronouns
-            He loves you
+	      		Subject/Personal Pronouns
+            		He loves you
 		        A type of pronoun used to substitute for a certain proper name or proper names
 	      
-        Object Pronouns (2015)
-            It is a type of pronoun that is used as object of a verb or preposition
-            He loves you
-            I will call him (Object)
+        	Object Pronouns (2015)
+            		It is a type of pronoun that is used as object of a verb or preposition
+            		He loves you
+            		I will call him (Object)
 	      
-        Possessive Pronouns (2016)
-            This is mine, Mine is blue
-            It is a type of pronoun that replaces a noun and shows possession
-            Mine is red one, this is yours, the best Project is ours 
+        	Possessive Pronouns (2016)
+            		This is mine, Mine is blue
+            		It is a type of pronoun that replaces a noun and shows possession
+            		Mine is red one, this is yours, the best Project is ours 
 	      
-        Demonstrative Pronouns (2015)
-            This is my car, That’s yours
-            Those are happy
-            İşaret zamiri: this, that, thesei those
-            It is a type of pronoun that is used in sentence to point sth 
-            This, that, those, these isim ile kullanılırsa olmaz  these people  demonstrative adjective olur
+        	Demonstrative Pronouns (2015)
+            		This is my car, That’s yours
+            		Those are happy
+            		İşaret zamiri: this, that, thesei those
+            		It is a type of pronoun that is used in sentence to point sth 
+            		This, that, those, these isim ile kullanılırsa olmaz  these people  demonstrative adjective olur
 	      
-        Reflexive Pronouns (2015)
+        	Reflexive Pronouns (2015)
 		        When the subject (doer) and object is the same person or thing, this type of pronoun is used
-            İşi yapan da etkilenen kişi de aynı kişi
-            She loves herself
-            They believes themselves
+            		İşi yapan da etkilenen kişi de aynı kişi
+            		She loves herself
+            		They believes themselves
 
-      	Indefinite Pronouns (2018)
-            A type of pronoun that does not refer to any specific person, thing or amount
-            Everyone is here, Something happened, Anything Else
-            Bunların neyi refer ettiği bilinmez
+      		Indefinite Pronouns (2018)
+            		A type of pronoun that does not refer to any specific person, thing or amount
+            		Everyone is here, Something happened, Anything Else
+            		Bunların neyi refer ettiği bilinmez
 	
-        Relative Pronouns (2015)
-            It is a type of pronoun that is used as object or subject of relative clause
-            --Which, who, where, whom, that etc.
-            --relative pronoun olması için mutlaka relative clause olması gerekli
-            This is my house where, I lived when I was child
-            I love the car which is expensive subject
-            She borrowed the book that/which I bought object
-            I will never forgive people who shout at me subject
+	        Relative Pronouns (2015)
+        		It is a type of pronoun that is used as object or subject of relative clause
+            		--Which, who, where, whom, that etc.
+            		--relative pronoun olması için mutlaka relative clause olması gerekli
+            		This is my house where, I lived when I was child
+            		I love the car which is expensive subject
+            		She borrowed the book that/which I bought object
+            		I will never forgive people who shout at me subject
 	
-        Interrogative Pronouns
-		          A type of pronoun used to ask questions
-		          Who, Which, What, How
-		          Whom did you share your food with?
-		          How did you get through it?
-              Where are you from?
+        	Interrogative Pronouns
+		        A type of pronoun used to ask questions
+		        Who, Which, What, How
+		        Whom did you share your food with?
+		        How did you get through it?
+              		Where are you from?
 		
-        Reciprocal Pronouns
-			        A type of pronoun used to express mutual relationship or action
-			        Karşılıklı ilişki yardımlaşma
-			        “each other, one another”
-			        They helped each other/one another
+        	Reciprocal Pronouns
+		        A type of pronoun used to express mutual relationship or action
+		        Karşılıklı ilişki yardımlaşma
+		        “each other, one another”
+		        They helped each other/one another
 		
-        Quantifier Pronouns
-			        All, many, more, little, several, few
-              some, any, enough, much, many 
-			        Few were chosen for the job
-			        Little is known about their history
-			        All have achieved a good result 
+        	Quantifier Pronouns
+		        All, many, more, little, several, few
+              		some, any, enough, much, many 
+			Few were chosen for the job
+			Little is known about their history
+			All have achieved a good result 
 	
-        USAGE OF PRONOUN
-        - Cataphoric Usage
-		          When he arrived, John noticed that the door was open
+        	USAGE OF PRONOUN
+        	- Cataphoric Usage
+			When he arrived, John noticed that the door was open
 	
-        - Referential Usage (2016) 
-              If there is referent for a pronoun, it is referential.
-		          I looked for my dict for an hour before I found it (referential) 
-		          This is my pencil, I like it
-		          My friend called us after he arrived (referential)
+        	- Referential Usage (2016) 
+              		If there is referent for a pronoun, it is referential.
+		        I looked for my dict for an hour before I found it (referential) 
+		        This is my pencil, I like it
+		        My friend called us after he arrived (referential)
 	      
-        - Non-Referential Usage (2016)
-              If a pronoun is without a referent it non-referential, 
-              It is clear that..
-		          It takes three hours to Ankara by plan (non-referential)
+        	- Non-Referential Usage (2016)
+              		If a pronoun is without a referent it non-referential, 
+              		It is clear that..
+		        It takes three hours to Ankara by plan (non-referential)
 
 
 
@@ -268,58 +271,58 @@ Pedagogical Grammar (and Profiency) 25 Questions
 	        - Quantitative Adj: they are used to described the amount of things
 		        
                  Quantifiers: few, all, no, some, sufficient, enough, each
-	
-          - Demonstrative Adj: they are used to point sth or the position of sth
+		
+		- Demonstrative Adj: they are used to point sth or the position of sth
 		                            this, that, these, those
 		                            Bunlar tek başına kullanılırsa pronoun olur
-	
-           - Classifying Adj: They are used to indicate which group people or things belong to
-		                          Musical, German, Wooden, Glass, Military, Scientific
+		
+		- Classifying Adj: They are used to indicate which group people or things belong to
+		              Musical, German, Wooden, Glass, Military, Scientific
 		
                               Neyin hangi sınıfa ait olduğunu gösterir: I bought a glass box, She is German
 		                          He wonders military issues, medical devices
 	
-            - Possessive Adj: (2018)
+            	- Possessive Adj: (2018)
                               They are used to indicate ownership
-		                          My, your his… bunlar tek başına kullanılırsa possessive pronoun olur
+		              My, your his… bunlar tek başına kullanılırsa possessive pronoun olur
 
                               It is a type of adj used before a noun to Show who owns it
                               My, your, her, his, our
                               His pencil, her dict, their house, its food
 
 ---> GRAMMATICAL ADJECTIVES
-	          - Participle Adj: They have past (-ed) or present (-ing) participles at their endings
-	          - Gradable Adj: They are used to describe level, intensity or grade (2014)
-		          Derecelendirilebilen sıfatlar: az, çok
-		          These are adjs whose intensity vary
-              Very, Extremely, A bit, Slightly, Really
-		          Hot, cold, big, happy, important, strong, funny, handsome
+	        - Participle Adj: They have past (-ed) or present (-ing) participles at their endings
+	        - Gradable Adj: They are used to describe level, intensity or grade (2014)
+		          	Derecelendirilebilen sıfatlar: az, çok
+		          	These are adjs whose intensity vary
+              			Very, Extremely, A bit, Slightly, Really
+		          	Hot, cold, big, happy, important, strong, funny, handsome
 	          
-            - Ungradable Adj: they dont contain idea of intensity or grade (2014)
-		                          These are adjs whose intensity dont vary
-		                          They are modified by adverbs such as totally, completely, absolutely
-		                          They can be used with totally, completely, absolutely pekiştirmek için önemli
-		                          wet, dead, finished, necassary, impossible, Superb, Formal, Delicious, Perfect
-		                          “the play was absolutely superb”
+            	- Ungradable Adj: they dont contain idea of intensity or grade (2014)
+		                These are adjs whose intensity dont vary
+		                They are modified by adverbs such as totally, completely, absolutely
+		                They can be used with totally, completely, absolutely pekiştirmek için önemli
+		                wet, dead, finished, necassary, impossible, Superb, Formal, Delicious, Perfect
+		                “the play was absolutely superb”
 	
-            - Nominal Adj: They denote a class anda re preceded by the determiner –the-
-		                          The article ile çoğul olabilen isimler
-		                          The english, the elderly, the young, the poor
-		                          “The elderly are respected in this country”
+            	- Nominal Adj: They denote a class anda re preceded by the determiner –the-
+		                The article ile çoğul olabilen isimler
+		                The english, the elderly, the young, the poor
+		                “The elderly are respected in this country”
 	
-            - Denominal Adj: They were derived from nouns
-		                          isimden sıfatlaştırılmış hal
-		                          Mathematical problem, wodden box, russian doll
+            	- Denominal Adj: They were derived from nouns
+		                isimden sıfatlaştırılmış hal
+		                Mathematical problem, wodden box, russian doll
 	
 	          ADJECTIVES ACCORDING TO THEIR POSITION
-		        Sıfatların cümlede bulundukları yerine göre
+			        Sıfatların cümlede bulundukları yerine göre
 	          - Attributive Adj: They come before a noun (2014)
-		                          Young boy, Important problem
-		                          High mountain, large city
+		                Young boy, Important problem
+		                High mountain, large city
 	          - Predicative Adj: They come after nouns (2015)
-		                          The adjs that are used after the noun they modify. 
-                              They are mostly used with copula verbs – nitelediği isinden sonra gelen sıfatlar
-		                          He was angry. The city was overcrowded. He became popular. They were excited
+		                The adjs that are used after the noun they modify. 
+                        	They are mostly used with copula verbs – nitelediği isinden sonra gelen sıfatlar
+		                He was angry. The city was overcrowded. He became popular. They were excited
 		
 --->	ORDER OF ADJECTIVES
 	      - Opinion   -- nice, boring, lovely  kişiden kişiye göre değişebilen sıfatlar durumlar – bana göre sana göre
@@ -347,61 +350,61 @@ Pedagogical Grammar (and Profiency) 25 Questions
 			  “the building was huge” – bahsedilen şey biliniyor
 			  “a Project will be initiated next month. The Project is about recycling”
 		
----> USAGE OF THE
-        -to refer to people or objects that are unique
+---> USAGE OF 'THE'
+        	-to refer to people or objects that are unique
 				  “The pope will set agenda (gündemi belirlemek) attentively”
 				  “the world will be invaded by snakes eventually”
 				  “He is the happiest man on the earth”
-			  -before superlatives and ordinal numbers
+		-before superlatives and ordinal numbers
 			  	“the highest mountain” 
 				  “the second book”
 				  “the most important issue”
 				  “the first step”
-			  -when there is just one of sth in a place and it is referred to
+		-when there is just one of sth in a place and it is referred to
 				  “can you give me lift to the airport?”
 				  “close the door”
 				  “why you didnt turn off the light”
-			  -before countries whose names include words like lkingdom, states, republic
+		-before countries whose names include words like lkingdom, states, republic
 				  The united kingdom
 				  The People’s Republic of China
 				  The United States
-			-before countries which have plural nouns as their names
+		-before countries which have plural nouns as their names
 				The netherlands, The Philippines
-			-with nationalities to mean the people having this nationality
+		-with nationalities to mean the people having this nationality
 				“the japanese (japonlar) are used to getting up early”
 				 “the english have different way of thinking”
-			-with the name of regions when they are used with words such as West, east, middle…
+		-with the name of regions when they are used with words such as West, east, middle…
 				“the middle east, the far east, the east of Turkey”
 				ama South Korea, South Africa the kullanılmaz
-			-with geographical features, such as mountain ranges, groups of islands, river, sea, ocean, canal
+		-with geographical features, such as mountain ranges, groups of islands, river, sea, ocean, canal
 				“the himalayas, the alps”   sıra dağlar için the gelir
 				“the canaries” – kanarya adaları
 				“the atlantic (ocean)”, “the Panama canal”
-			-with the name of newspapers
+		-with the name of newspapers
 				The times, the Washington post
-			-with organizations
+		-with organizations
 				The united nations,
-			-well known buildings or Works of art
+		-well known buildings or Works of art
 				The empire state building, the taj mahal, the mona lisa
-			-before musical instruments
+		-before musical instruments
 				He plays the piano well
-			-with adjectives like rich, poor, elderly, unemployed to talk about groups of people
+		-with adjectives like rich, poor, elderly, unemployed to talk about groups of people
 				Life can be very hard for the poor
 				The old are respected by people
 				I think the rich should pay more taxes
-			-before a noun to refer to a group
+		-before a noun to refer to a group
 				The wolf attacts other animals in winter
-			-before a noun to refer to a group
+		-before a noun to refer to a group
 				The wolf attacks other animals in winter  aslında tek bi kurt değil bi tür olarak kurt
 				The kangaroo  always looks at tourists
 				The lion is a very strong animal
-			-before cinema, radio and theatre
+		-before cinema, radio and theatre
 				I wish to go to the cinema/theatre
 				I listen to the radio before sleeping
-			-before the names of hotels, pubs and restaurants
+		-before the names of hotels, pubs and restaurants
 				The ritz hotel, the marriott
 				The Charlie’s restaurant apostrape varsa the kullanılmaz
-			-with the names of families
+		-with the names of families
 				-the browns, the millers, the simpsons
 			
 
@@ -437,7 +440,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 	Belirteç - İsmin önüne gelip ismi miktar anlamındaniteleyen kelime
 	Some, several, a lot of, a great deal of, each, both, a number of, either
 	A number of books, either of projects, a great deal of effort
-Nicelik sıfatları
+	Nicelik sıfatları
 		Any – just in negative and interrogative sentences
 			I didnt buy any sugar -- uncount
 			Did you see any wild animals? – count
@@ -546,32 +549,33 @@ Nicelik sıfatları
 	FANBOYS
 	and
 	“they should understand each other and take responsibility”
-”she is brilliant and creative”
-”some people g oto abroad, and they visit museums”
-or
-”the university will establish a library or a research centre”
-”he will achieve his aim, or he will come up with a new idea”
-but/yet
-”the watch was nice but/yet counterfeit”
-”he studied very hard, but/yet he failed in the exam”
-Bir olumsuz bir olumlu durum kullanıldığı için but/yet yoksa and olabilirdi
-so
-”she was very hardworking, sos he was promoted”
-“they did their best, so they managed to overcome problems”
-for
-“this problem must be solved immediately, for it is very serious” because anlamında cümle başında
-“we listen carefully, for he was talking on sth important”
-nor
+	”she is brilliant and creative”
+	”some people g oto abroad, and they visit museums”
+	or
+	”the university will establish a library or a research centre”
+	”he will achieve his aim, or he will come up with a new idea”
+	but/yet
+	”the watch was nice but/yet counterfeit”
+	”he studied very hard, but/yet he failed in the exam”
+	Bir olumsuz bir olumlu durum kullanıldığı için but/yet yoksa and olabilirdi
+	so
+	”she was very hardworking, sos he was promoted”
+	“they did their best, so they managed to overcome problems”
+	for
+	“this problem must be solved immediately, for it is very serious” because anlamında cümle başında
+	“we listen carefully, for he was talking on sth important”
+	nor
 	Ne de
 	“he didnt help them nor did give advice” ikinci cümle devrik olur
-”he doesnt like football, nor does he like volleyball”
-”he is not generous, nor is he helpful”
+	”he doesnt like football, nor does he like volleyball”
+	”he is not generous, nor is he helpful”
 
 	-Subordinating Conjunctions
 		A word that connects a main clause to a subordinate or dependent clause
 		Cümlelerden biri bağımlı biri bağımsız olmalı
-		“when i g oto school, i fel sad”
-TIME CONJUNCTIONS
+		“when i go to school, i feel sad”
+
+TIME CONJUNCTIONS
 -After, befroe, by the time, until ,since, while, whenever, every timr, now (that)
 ”now that he has left, we can use his room” madem ki, hazır olmuşken
 ”after i completed my work, I drank a coffee”
