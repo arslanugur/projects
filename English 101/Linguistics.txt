@@ -1342,3 +1342,395 @@ Voicing State and Vowels
 			Bir konuşmada sırası geldiğini bilip konuşmaya başlamak
 			A situation in which each of interlocutors starts speaking or respond to what is said one by one
 			
+
+
+> Pragmatics
+
+--What is Pragmatics?
+	Cümlenin genel anlamı değil söylendiği andaki içerisinde bulunan durum
+	Görünen anlamdan ziyade – anlamın kastettiği anlama zamandan zamana değişiyor
+	The study of how language is used by someone to mean sth in a particular situation
+	It studies the meaning in the context
+	It deals with underlying meaning
+	The effect of factors such as place, time and social relations on meaning
+
+	1- Context
+		--Linguistic Context
+			Kelimelerin bir arada kullanılması. Cümleye göre kelime anlamı çıkar
+			A set of words that are used in a sentence or utterance and help to understand the meaning of each of words
+			“I bought a watch and I will do my best to be punctual”
+
+		--Physical (Situational ) Context		
+			The time and location in which a word or utterance is seen
+			Seeing the word library on a Wall
+			Pictures in a room
+			A messy room
+			Slow the word on the road
+			Billboards
+
+
+
+	2- Deixis
+		The use of words to refer to a certain time, place or person
+		“They were here yesterday” they – belirli bi grup, here- yer, yesterday - zaman	
+		“Today, I will call her and invite her here” today, I, her, her, here
+		--Person Deixis
+			The words used to refer to someone that is speaker or addressee
+			Subject Pronouns, Object Pronouns
+		--Place (Spatial) Deixis
+			The words used to refer to a place
+			here, there, over there, above, below, this, these
+			“You can follow -this- way to go -there-”
+		--Time (Temporal) Deixis		
+			The words used to refer to a certain point of time
+			yesterday, today, now, then
+
+	3- Presupposition
+		Konuşmayı yapmadan cümleyi kurmadan önce bir sanrı olması
+		An assumption made by someone before saying sth
+		--doğru olduğuna inandığımız bir şey var
+		A belief someone had before saying sth
+		“you need to help your sister with her homework”  You have a sister, your sister has homework
+		“her car broke down”altında yatan düşünce she has a car
+		
+	4- Implicature
+		Dolaylı yol ima etmek
+		The act of implying or meaning sth without expressing directly
+		“She will meet a man tomorrow”
+		ImplicatureShe will meet someone stranger
+		“will she come with us? – she is ill” she wont come
+	
+	5- Speech Act
+		A speech act is an utterance that is not only passive, but includes an action
+		-her konuşmanın bir katalizörü var –yani bi şey yaptırıyor
+		Konuşma sadece konuşma değil, aynı zamanda eylemde bulunmak
+		Promising, advising, apologizing, warning, complaining
+
+
+---> Aspects of Speech Acts
+		--Locutionary Act
+			The act of saying sth  herhangibir şey söylemek yorgunum gibisinden
+		--Illocutionary Act
+			The meaning of an utterance söylenen şey boşa değil, bi anlam bi niyet var
+			--Types of Illocutionary Act
+			1. Assertives
+				Öne süren - İddialı söylediğinin doğru olduğunu düşünen kişi
+				Speech acts that shows the truth of an utterance
+				Assure, affirm, suggest, stating, boasting, believing, reporting, assertimng
+				“no one can run faster than me”
+				“Pandemic will last for years”
+			2. Directives
+				Birine bir şey yaptırmak
+				Speech acts that are utilized by a speaker to make someone do sth
+				Commanding, Inviting, Asking, Requesting, Begging
+				“give me that dictionary”
+			3. Commissives
+				Gelecekte yapılacağinı söylediğimiz taahhüt ettiğimiz
+				The acts utilized by speakers to commit emselves to future actions to be taken
+				Promising, guaranteeing, swearing
+				“I will do my best”, “I will make a nice cake”
+			4. Expressives
+				Speech acts that express a speaker’s emotions, opinions and attitudes
+				Appreciating, congratulating, enjoying, regretting
+				“I enjoy passing time here”
+				“Thank you very much”
+			5. Declarations
+				İlan etmek – var olan durumu değiştirmek, devam eden durumu değiştirmek
+				Speech acts that change the reality or state of sth
+				“I name him Mickey”
+				“I find you guilty”
+ 				“I pronounce you husband and wife”
+
+		--Perlocutionary Act
+			Artık bizle ilgili bişey değil, duyan kişiyle ilgili bir şey
+			The effect of utterance on the hearer
+			The hearer’s reaction
+
+			
+		Bir konuşma doğrudan ve dolaylı olabilir
+		--Indirect Speech Act
+			A speech act in which the form of sentence and its function dont watch
+			Cümlenin anlamı ile yapısı uyuşmuyor
+			“why dont w ego to cinema?” soru mu sorulmuş! (değil), yoksa öneri miii
+			“I am very bored here” sıkılıyorum bi şeyler yapalım
+			“Why not!”  soru değil, kabul gibi Neden olmasın
+		
+		--Direct Speech Act
+			Cümlenin yapısı ile anlamının uyuşması
+			A speech act in which the form of sentence and its function match
+			“Can you run fast?”	soru
+			“give me this dictionary” emir
+		
+
+			6- Cooperative Principles
+				The description of the way people have an effective conversational communication
+				Etkili karşılıklıişbirliğine dayalı konuşma
+				How people understand each other
+				the linguist Grice and Maxims (konuşmada bulunması gereken özellikler)
+
+				a- Maxim of Quality
+					Konuşmanın niteliği, bi şeyler öğreten kaliteli
+					Truthfulness
+					Say what you think is true, Avoid false details
+					“Istanbul is the most crowded city in Turkey”
+				b- Maxim of Quantity
+					Konuşmanın miktarıyla ilgili - yeterlilik
+					Talk as much as necessary
+					Avoid speaking too much if not necessary
+				c- Maxim of Relation
+					Avoid irrelevant details
+					Staying relevant to the topic
+					Daldan dala atlama, gereksiz detaylardan kaçın
+				d- Maxim of Manner
+					Be clear – Net ol
+					Avoid ambiguity and obscurity
+
+			7- Politeness Theory
+				--Politeness
+					Having good manners and respect for other people’s feelings and showing consideration yo someone’s face								>Face
+						Somebody’s social image
+					>Face Saving Act
+						An activity or utterance that is used to avoid threatening somebody’s face (social image)
+						“give me that dict” ”could you give me that dictionary”
+						“you need to turn down that bloody telly” “would you pls turn down telly”
+		
+
+					>Face Threatening act
+						An activity or utterance that is threatening to somebody’s face (social image)
+						“Give me that dict”
+					>Positive Face
+						The need to be a part of a group, be liked or accepted by others
+						“Let’s go and enjoy ourselves”
+					>Negative Face
+						The need or desire to be free and independent
+						“I regret to say I cant come with you” –incitmeden mesafeyi korur
+
+
+> Neurolinguistics
+	The branch of linguistics that focus on the relationship between language learning and brain
+	Parts of brain that is responsible fort he storing the information of human language
+	Parts of brain that is responsible for language production
+
+	1- PARTS OF BRAIN
+		--Corpus Callosum
+			Sağ ve sol arasındaki ilişkiyi belirleyen bölge
+			A region that connects the right and left hemispheres of the brain
+		--Cerebellum
+			A part of brain that controls motor movements
+			Control, balance and coordination
+			Vücut hareketleri yönlendiren dengeyi sağlayan kısım
+		--Right and Left Hemisphere
+			Two hemispheres exist in the brain
+	
+	2- LANGUAGE AREAS IN THE BRAIN
+		--Broca’s Area
+			A region in the brain that is responsible for speech production
+			Konuşma fabrikası denilebilir –konuşmamızı sağlar
+		--Wernicke’s Area
+			A region in the brain that is responsible for comprehension (algılama yeri – anlamamızı sağlar)
+		--Motor Cortex
+			İstemli hareketleri yaparken kaslarımızı kontrol etmemiz
+			A part of brain that is responsible for motor movements and movement of muscles
+			Tongue, Jaw, Face (dilimizi kullanırken kullandığımız kaslar)
+		--Arcuate Fasciculus
+			A region in the brain that is responsible for the connection between Borca’s and Wernicke’s area
+			Konuşmaya cevap verirken ve algılamada devreye girer ve arasındaki bağlantıdan sorumlu
+	
+	3- Lateralization
+		Beynin sağ ve sol kısmı kendine has ayrı görevlerinin özelliklerinin olması
+		Two halves of the brain has different functions
+		--Right Hemisphere 
+			Subjective – öznel
+			Holistic Processing – bir bütün olarak bakabilmek
+			Creativity
+			Imagination and Intuition
+			Artistic
+			Visualizing
+		--Left Hemisphere
+			Objective
+			Looks at part
+			Rational
+			Logical reasoning
+			Mathematics
+			Language
+			Analytic
+
+	4- Localization of the Brain
+		Different parts of the brain are assigned different functions
+		Different modules in the brain
+
+	5- Split Brain
+		When Corpus Collosum (the connection between right and left hemispheres of the brain) is damged
+		İki taraf arasındaki bağlantı aktarımı hasarı
+
+	6- Plasticity of the Brain
+		The ability of the brain to change and reorganize itself
+	
+	7- Contra-lateral Function of the brain
+		Beynin sağ tarfı vücudun sol tarafını kontrol ediyor
+		Beynin sol tarafı vücudun sağ tarafının kontrol ediyor
+		The right hemisphere controls the left side of the body
+		The left hemisphere controls the right side of the body
+	
+	8- Aphasia
+		Beyindeki hasardan dolayı dil problemi yaşamak
+		A language impairment concerning production and comprehension of the speech because of a damage to certain parts of the brain
+
+		Broca’s Aphasia  beyindeki hasardan dolayı konuşmada yaşanan problem
+		Problem with speech production (yine de anlaşılabilir)
+		Syntactic problem
+		Omission of function words
+		Hesitant/Halting Speech
+		They are aware of the problem
+		Conveying message (mesajı yine de iletebiliyorlar)
+		Wernicke’s Aphasia
+		Konuşmada problem yok ama anlamda problem var
+		Speaking fluently
+		Grammatical sentences (accuracy) are ok but..
+		Meaningless speech
+		Problem with comprehension
+		Conduction Aphasia
+		Kişilerin problemi telaffuz ve tekrarlama da güçlük çekiyorlar
+		When the Arcuate Fasciculus is damaged (the connection between Broca’s area and Wernicke’s area)
+		No problem with fluent speaking
+		No problem with comprehension
+		Difficulty with pronunciation
+		Difficulty with repetition tasks
+
+	9- Other Linguistic Disabilities
+		Beyindeki hasarla ilgili olmayan sorunlar
+		--Dyslexia
+		Difficulty with reading
+		Difficulty with spelling
+		Difficulty with segmenting letters
+		Difficulty with letter identification
+		--Dysgraphia
+		Difficulty with writing
+		Difficulty with writing down thoughts
+		Harfleri hatırlayamamak, karıştırmak
+		Difficulty with hand writing - Difficulty with using fine motor skills
+		
+	10- Instant Speech Errors
+		Anlık yapılan hatalar
+		-- Tip of tongue
+		A phenomenon in which a speaker does not recall a word that is already known
+		Dilimin ucunda ama söyleyemiyorum		
+		-- Slips of Tongue 
+		Dil sürçmesi
+		A type of speech error
+		A phenomenon in which speakers say sth accidentallywhen they intend to say sth else
+		“give me the water to drink the glass”
+		Slip of tongue türü olarak
+			a- Spoonerism
+				Birden fazla sen kullanıp o seslerin birbiriyle karışması
+				A mistake made by speakers by changing some sounds or syllables of two or more words
+				“tons of soil”  “sons of toil”
+				“I took a shower”  “I shook a tower”
+		-- Malapropism
+			Spoonerism ile karıştırma
+			A speaker uses a wrong word instead of another one as they have similar sounds
+			Bir kelimenin yerine başka bi kelime kullanımı
+			“She is good at predicating” predicate ile predict farklı kelimeler (yanlış kullanmış)
+			“I want two tenor slices of chicken” ”tender” olmalı
+
+		-- Slip of Ear
+			Anlık olarak dinlemede yanlış anlamak
+			An error of comprehension during listening
+			Misperception of what is heard
+			“but try the best”  “butter the best” olarak anlamak
+			Benzer sesler yüzünden farklı şekilde anlamak
+
+>First Language Acquisition
+	The first lang a person learns -- The native language
+		Acquisition – bilinçsiz bi şekilde öğrenmek edinim
+		Learning – bilinçli bir şekilde öğrenmek
+	--First language acquisition
+		The process by which children acquire their native language
+	--Input
+		The things children hear
+		**structural input – çocuklarla iletişim kurmak bilgiyi vermek için seviyesine inmek demek
+			Motherese, caretaker, parentese, child-directed speech simplified language
+	--Pre-Language stages
+		- cooing/gooing		0-6 months
+			Sounds such as /k//g/
+		
+		- babbling		6-8 months
+			Syllables –heceler başlar
+		
+		- one-word stage/holophrastic stage/single unit stage	9-18 months
+			Producing one word (dog, cat)
+			Or single unit utterances (come on!)
+		
+		- two-word stage		18-24 moths
+			Combining words (more milk, no bed, our car)
+			Two word sentences
+		
+		- telegraphic stage	2-3 years
+			Telegraf gibi konuşuyor
+			Three-four words sentences
+			Some grammatical sentences – özne yüklem nesne gibi
+			Problem with inflections – yani s takısı gibi 
+		
+	The Acquisition Process
+		- Acquisition of phonology
+			Bütün dünya dillerinde - Hangi sırayla, çocuklar sesleri kavrayabilirler? 
+			1-Acquiring common sounds such as p,b,s,m,d,k
+			2-vowels
+			3-manner of articulation: Nasal, Stops, Glides, Liquids, Fricative, Affricate (duruma şekle göre)
+			4-place of articulation: labials, velars, alveolars, palatal (teleafuz edilen yere göre)
+		
+		- Acquisition of Semantics
+			Limited words during holophrastic stage – kelime dağarcığı yetersiz
+			As a type of errors, Overextension – Calling four whelled-vehicles as car
+			Calling all round objects as ball
+	  		Around 5 years old – antonyms (go-come) semantic relationship
+		
+		- Acquisition of Morphology
+			As a type of errors, Overgeneralization
+			“Mummy goed”, “two mans”
+			İlk aşamada çocuk…
+			--Present progressive kullanmayı öğreniyor ”I playing”
+			--preposition “at home”
+ 			--plural “balls”
+			--irregular past “daddy went”
+			--possessives “mummy’s hat”
+			--U-Shape Learning (spent-spended-spent) –öğrendiğiniz noktaya geri dönmek
+		
+		- Acquisition of Syntax
+			Cümle dizimiyle ilgili
+			--questions nasıl elde edilir üç aşamalı
+				Stage1:“where mummy”, “mummy there?”
+				Stage2:”where mummy going”,”you like ball”
+				Stage3:”can i have food”,”will you come”
+			
+			--negatives
+				Stage1: “no come here”,”not go there”
+				Stage2:”I cant play”, “I dont like Mummy not go”, “mummy not go”
+				Stage3:”she wont come”,”i didnt play”
+				At last: “isnt” is used
+	
+		- Approaches to Language Acquisition
+			--Social Interaction Approach
+				Vygotsky, bruner, krashen, piaget
+			--Behaviorism
+				Skinner
+				Imitation, memorization and repetition
+				Habit formation
+				Reinforcement
+			--Nativist Approach
+				Chomsky
+				Innatism
+				Language acquisition is innately determined
+				Language acquisition device (LAD) -Dil için bir mekanizma var yeni doğan bebekte
+				Doğuştan var sonradan harekete geçiyor
+				Poverty of Stimulus –kendisinden beklenenin aksine çocuk umulmadık şey söyleyebilir
+				Bu doğuştan programlı oluşunun kanıtı olarak görülüyor
+				Universal grammar konusu var o da grammer türüdür konu dışı
+
+
+EXTRAS:
+
+
+
+
+
