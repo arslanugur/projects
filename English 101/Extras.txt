@@ -58,6 +58,17 @@ SHORTS:
 (are you) tired?
 
 
+LAW WORDS
+law		kanun, hukuk, yasa
+lawyer		avukat	solicitor
+prison		hapis
+court		mahkeme
+jury		jüri
+witness		tanık, şahit
+defendant	sanık
+case		dava
+evidence	kanıt
+right		hak
 
 
 
@@ -173,6 +184,21 @@ you used to be mad about me - deli olmak, deli gibi sevinmek
 -not to laze about - tembellik etme - i wasnt lazing about. I tripped
 I don't care about your dad. I care about Mona
 dont hang about - oyalanma, aylak aylak dolaşma
+
+
+look for 	a job - iş aramak
+		a remedy - çare
+		trouble - bela
+		an answer - cevap
+		evidence - kanıt
+		a solution - çözüm
+		an adventure - macera
+		happiness - mutluluk
+		a way out - bir çıkış yolu
+		a scapegoat - günah keçisi
+		a place to hide - saklanacak yer
+		
+		
 
 
 Complimentizer in English
@@ -424,6 +450,9 @@ counteroffer - karşı teklif
 the vault room - kasa odası
 an English major - Dil uzmanı
 speak for yourself - kendi adına konuş
+my treat - bu benden
+allow me - müsaadenizle
+it is my turn - benim sıram
 save yourself - kendini kurtar
 come on, bring it in - gel bakalım buraya
 I am so focused on winning all the time - her zaman kazanmaya o kadar odaklanıyorum ki
@@ -631,6 +660,11 @@ Baby month by Month - Infant Milestones
 6-8   - sitting without support
 9-10  - standing with support
 11-15 - walking
+
+examination - muayene
+prescription - reçete
+syringe - şırınga
+emergency - acil servis
 
 
 
