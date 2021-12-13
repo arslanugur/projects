@@ -261,7 +261,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
 							I dont believe nobody saw it					kimsenin görmediğine inanmıyorum
                 nothing       	hiçbir şey        	nothing is impossible to a willing person			istekli bir kişi için hiçbir şey imkansız değildir 
 							nothing is left in front of me to tell you the truth		gerçeği anlatmak için önümde bir şey kalmadı
-							nothing feels heavier than unsaid words				hiçbir şey söylenmemiş kelimelerden daha ağır hissettir.
+							nothing feels heavier than unsaid words				hiçbir şey söylenmemiş kelimelerden daha ağır hissettirmez
                 nowhere       	hiçbir yer        	we went nowhere this weekend. we stayed home			bu hafta bir yere gitmedik. evde kaldık
 		------------------------------------------------------------------------------------------------
                 everyone	herkes			everyone cheered for the violinist at our school concert	okul konserimizde herkes kemancıyı alkışladı 
