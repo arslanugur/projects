@@ -364,7 +364,981 @@ Voicing State and Vowels
 
 
 
+> PHONETICS and PHONOLOGY, Part II
+
+---> Phonology
+	Seslerin soyut ve teorik kısmıyla ilgilenir
+	Studies abstract and mental aspects of sounds
+	Analyzes rules and patterns of sounds
+	How sounds combine anda are organized
+	The study of patterns of sounds
+	Sound system of a system
+
+	Phoneme
+		The smallest unit of sound in speech
+			Sit - three phonemes, help - four phonemes
+
+	Allophone
+		Phonetic variation of the same sound
+		sesin konumuna göre farklı telaffuz, nerde vurgulu/vurgusuz
+			Top – Stop
+	
+	Phonotactics
+		A study of the possible ways of combining phonemes to form words
+		-sesleri birleştirimek nasıl olacak
+		All syllables have a nucleus
+
+	Minimal Pair
+		The pair of the words that are the same except on sound
+			Bin, Pin
+			Seal, Zeal
+			Wet, Wait
+
+	Minimal Set
+		A group of words that are the same except one sound
+			Bit, Fit, Sit, Hit, Pit
+
+	Syllable
+		An unbroken unit of a word that has a vowel (kelimenin bölünemeyen birimi)
+			Write, water, attack, holiday
+			Her hece de bi diphthong var
+
+	Nucleus
+		All syllables have a nucleus
+		A vowel(ünlü) or diphthong in a syllable
+			Water – a - e
+
+	Onset
+		A consonant(ünsüz) sound at the beginning of a syllable
+			Water – w –t
+
+	Coda
+		A consonant sound at the end of a syllable
+			Attack, back – k
+
+	Open syllable
+		A syllable which does not have coda
+			Water, a’ttack
+
+	Closed syllable
+		A syllable that has a coda
+			A’ttack – k, sit – t
+	
+	
+	
+---> Co-Articulation Effects
+		Assimilation
+        		A type of sound change in which some phonemes are pronounced more similar to other nearby sounds
+				She climbs(z) mountains
+				I have(f) to go
+				She bought a handbag(m)
+
+		Elision
+			Konuşmada sesli konuşunca bir sesin düşmesi
+			Elision is the omission of a sound(or phoneme) in everyday speech
+			I don’t know = I dunno
+
+		Linking
+			A way of combining the pronunciation of two words
+			Her eyes, fried egg   - ulama
+		
+		Geminate
+			When the last sound of a word and the initial sound of the following words are identical,
+			They are combined by this sound.
+			Length of a consonant when it is doubled
+			Cheap places, red dress, black car, beginning
+
+		Intrusion
+			When two words are articulated together, an extra sound is sometimes placed between them
+			I am sad - ayeem
+			Go away - w
 
 
 
 
+> MORPHOLOGY (kelimelerle ilgili)
+	The study of words
+	How they are formed
+	In what way they are related to other words
+	
+---> Morpheme
+	The smallest unit that has meaning or grammatical function
+	It cannot be divided: Stop, cut, hand
+	-ist, -er, -ness
+	Larger - two morphemes
+	Dryness - two morphemes
+		
+	Morphemes are divided into two categories:
+		Free Morpheme
+			A type of morpheme that can stand alone as a Word
+			toy, friend, play, in
+			Free morphemes are divided into two categories:
+			1. Lexical Morpheme
+				It has meaning or context
+				verb, noun, adjective, adverb
+				I play a game with my friend and brother
+			2. Functional Morpheme
+				It involves function words such as prepositions, conjunctions, pronouns, articles, auxiliary verbs
+				I play a game with my friend and brother
+					
+		Bound Morpheme
+			The morphemes that cannot stand alone and must be attached to a word
+			im-, dis-, -ness, -ly, -er, -ful, un-
+			discreteness, highly, baker
+			Bound morphemes are also divided into two categories:
+			1. Derivational Morpheme (türeten)
+				The bound morphemes that are added to words to make a new Word or change a word’s grammatical category
+				happiness, impatient, helpful, friendship
+			2. Inflectional Morpheme
+				The bound morphemes that are added to a word to imply a grammatical function
+
+				Possessive: Michael’s
+				Progressive: Playing
+				Plurality: Books
+				Comparative: cheaper
+				Superlative: the cheapest
+				Past Participle: tried, helped, wrote
+
+		Affix
+			Bound morphemes that are added to the beginning/the end of words
+			They can be derivational and inflectional
+			impatient, careful, slowly, dismiss
+		Prefix
+			A morpheme that is placed at the beginning of a word for derivational purpose
+			dis-place, un-tidy, mis-match, non-sense, in-visible
+		Suffix
+			A morpheme that is placed at the end of a word for derivational or inflectional purpose
+			big-ger, help-s, beuati-ful, clear-ly, go-ing
+		Infix
+			A morpheme that is placed at the center of a word
+			It doesnt exist in english
+		Circumfix
+			A morpheme that is placed both at the beginning and end of a word
+			It doesnt exist in English
+
+		Allomorph
+			It is a variant of morphemes
+			-s: cats, boxes, babies, Shannon’s
+			-ed: studied, talked
+			Kelimelerin eklere göre değişiklik göstermesi
+
+		Root vs Stem
+			Root: A morpheme that has neither derivational nor inflectional morpheme
+				Play, touch – root kelimeler hiç ek almamış
+			Stem: the part of a word that takes inflectional morpheme
+				dis-agree-d, playing, dismissed, relationships
+
+
+---> Word-Formation Processes
+
+	---> Word Formation (Kelime oluşturma)
+		Acronym ***
+			Forming a word from initial letters of a sequence of words
+			AIDS – Acquired Immune Deficiency Syndrome
+			NATO – The North Atlantic Treaty Organization
+			UNICEF – The united nations international children’s emergency fund
+		Back-Formation
+			Forminga word by shortening another word
+			Mostly nouns are shortened to form a verb
+			Televise from television
+			Donate from donation
+			Edit from editör
+			Destruct from destruction
+			Gamble from gambler
+			***edit-or, babysit-ter, enthuse-iasm
+		
+		Coinage
+			Forming words from trade names
+			Aspirin, nylon, nescafe, selpak
+		
+		Compounding
+			Combining two words to form a single word
+			Sunflower, takeaway, breakfast, billboard, fisherman, newborn, worksheet
+		
+		Blending
+			Forming a new word by combining certain parts of two different words
+			Motor + hotel = motel
+			Hungry + angry = hangry
+			Spoon + fork = spork
+			***brunch, motel, smog, cranapple, camcorder, education + entertainment = edutainment
+			binary + digit = bit
+
+		Borrowing
+			Words that are taken from other languages
+			Croissant, piano, alcohol, yoghurt
+		
+		Clipping
+			A type of word formation progress in which a part of deleted without change in the meaning
+			Telly for television
+			Exam for examination
+			Photo for photograph
+			Maths for mathematics
+		
+		Abbreviation
+			Shortening a word
+			Dr. – Doctor, Jr., Mr. (mister)
+		
+		Conversion
+			Changing the syntactic category of a word
+			The verb o text from the noun text
+			To guess from guess
+			Downloads from the verb to download
+		
+		Loan Translation (Calque)
+			Forming a word vy borrowing from another language and translating it directly
+			Skyscraper – wolkenkratzer – gökdelen
+		
+		Folk-Etymology
+			A change in the form or pronunciation of a word
+			Pretani  Britain
+			Yoğurt  Yoghurt
+			Cucaracha  Cockroach
+		
+		Generification
+
+		Metaphorical Extension
+			Bir kelimeyi başka bir kelime için de kullanmak – uzatmak
+			It stands for the extension of meaning
+			Attributing the meaning of a word to another object similar properties
+			Mouse as a device
+
+
+
+
+> SYNTAX (cümlelerle ilgili çalışma)
+	
+---> What is syntax?
+	the study of the grammatical structure of sentences
+	How the part of the speech are ordered
+	How words and phrases are put together to form sentences
+
+		Generative Grammar (Chomsky)
+			A type of grammar that refers to language as a set of formal rules formulated to produce innumerable grammatical structures
+			kuralları kullandığın sürece dilde sayısız cümleler oluşturabilirsin
+			language is shaped by a set of basic principles
+			*How are grammatical sentences produced by rules and principles?
+
+			Structures of a language are handled within two levels:
+				Deep Structure
+					Abstract structures
+					It helps us to understand sentences
+					Active and affirmative sentences 
+					Michael washes the car (deep structure)
+				
+				Surface Structure
+					Actually produced concrete sentences
+					Derived from deep structure by transformations (cümlelerle oynamak)
+					It can be heard, read and spoken
+					The car is washed by Michael (surface structure)
+					It is Michael, who washes the car (surface structure)
+					The person who washes the car is Michael (surface structure)
+
+		Grammaticality
+			The terms that stands fort he conformity of sentences to the specific grammar rules
+			Well-formed rather than meaningful sentences
+			“he was given a pencil” – correct grammaticality
+			“people are talking without speaking” – correct grammaticality but no meaning!
+
+		Categories of Words
+			1- Phrasal categories: a group words that is used as a unit
+				Noun phrase
+				Verb phrase
+				Prepositional phrase
+				Adjective phrase
+				Adverbial phrase
+
+			2- Lexical categories (syntactic)
+				Noun, verb, adjective, preposition, adverb, determiner, auxiliary, complementizer
+				“Michael worked hard and bought a nice car”
+
+			3- Functional categories
+				Determiners, conjunctions, auxiliary verbs, prepositions, pronoun
+				Anlamsal bi katkısı yok sadece işlevsel the gibi, he gibi grammar için
+
+---> What is a phrase?
+	A group of words used as a unit within a sentence
+		The best player, in the bank, washed the car…
+	How to create a phrase
+	Three components: Specifier + Head + Complement
+		
+		> Head (2016)
+			-the word determining the syntactic category of a phrase
+			-cümlede nitelenen bir isim varsa buna head derler
+			-head tek başına olabilir
+			The best movie - Noun phrase
+			Exceptionally beautiful – Adjective Phrase
+			They could play football – Verb Phrase
+			The girl – noun phrase – head
+			Borrow sth – head = verb phrase
+			At school – head = prepositional phrase
+
+		> Specifier
+			-a word narrowing the meaning of the head
+				The children, good books, always work hard
+		> Complement
+			-word/s giving more information about the head
+				The girl in the bank, the boy Works at the bank 
+			
+		Noun Phrase (2017)
+			It is a group of words that consists of noun and modifiers
+			The modifiers can be adjective, determiner, prepositional phrase, infinitive etc
+			The car, great time, the man in the garden  - mutlaka bi isim olacak
+			A phrase consisting a noun or pronoun as head
+			
+			Children (head)
+			The children (specifier + head)
+			The children in the garden (specifier + head + comlement)
+		
+			Some people on the stage shouted at the director – 3 nouns
+
+		Verb Phrase
+			The phrase that has a verb
+			The children went
+			The children helped the man (phrase içinde phrase olabilir)	
+			The children helped the man in the garden
+			Verb sonrası hepsi verb phrase içinde dahil ama içinde tabi başka tür phrase de olabilir
+		
+		Prepositional Phrase
+			The phrase consisting of a phrase
+			He arrived in time
+			He was waiting in the bank
+	
+
+		Sentence
+			Sentence = noun phrase + verb phrase
+			The man arrived
+			The man in the car has just arrived here			
+		Predicate
+			A part of a sentence that contains a verb
+			Some people love cooking at home
+
+		Recursion
+			The process of repeating a part of speech to make longer sentences
+			He ate a chocolate – he ate a chocolate quickly
+			He ate a chocolate quickly at school
+
+			The man was standing in the Office (phrase içinde phrase)
+		
+		Tree Diagram
+			A visual organization of the parts of a sentence hierarchically
+			Phrase structure tree or constituent structure three	
+			Bir cümleyi kendisine oluşturan bileşenlere ayırmak, aşağıya doğru parçalara ayır
+			Her bir phrase aşağıya doğru kendi içinde parçalanır
+			The man helped the boy in the office
+			Step 1: Sentence
+			Step 2: Noun Phrase + Verb Phrase
+			Step 3: NP(Determiner + Noun) + Verb Phrase (Verb + Determiner + Noun)
+			Step 4: VP(Verb + Prepositional Phrase) + Prepositional Phrase (Preposition + NP)
+			Step 5: NP (Determiner + Noun)
+
+			The boy dropped the ball - Sentence
+			The boy - NP
+			Dropped the ball - VP
+			Dropped - Verb
+			The ball - NP
+
+
+
+		Transformational Rules
+			A syntactic rule changing the position of an element in the sentence
+			1- Substitution
+				Replacing grammar unit with another one
+				“I don’t know when John will arrive”  “I don’t know when he will arrive”
+				“Everybody like this book”  “Everybody likes it”
+			
+			2- Clefting
+				A complex sentence containing a message that can be expressed in a simple sentence
+				“Charlie made the cake”  “It was Charlie who made the cake”
+				“Shannon never drinks coffee”  “It is Shannon who never drinks coffee”
+				“I love the man who is standing there”
+				“It is really boring that I have tos tay here”
+				Yukardakileri tek cümlede söyleyemeyiz - cleft değil, çünkü gerekli olan relative clause
+			
+			3- Pseudoclefting
+				I love football  What I love is football/football is what I love
+				She wants to see her best friend  Whom she wants to see is her best friend/her best friend is the one whom she wants to see
+			
+			4- Topicalization
+				Placing a linguistic unit at the beginning of the sentence to put emphasis on it
+				-vurgulamak için cümlenin başına alırız
+				I like to drink coffee  Coffee, I want to drink
+				Those  children laugh when they see me  Those children, they laugh when they see me
+			
+			5- Ellipsis (üç nokta…)
+				The act of omitting a word or words from a sentence deliberately without a change in the meaning
+				I can play piano, but Sue can’t.
+				Do you like watching movies – Yes, I like.
+			
+			6- Inversion (Devrik)
+				The act of reversing of the normal order of the words syntactically
+				I have never read a science fiction novel
+				 Never have I read a science fiction novel
+				I had hardly left when she called me
+				 Hardly had I left when she called me
+				
+		Ambiguity (Belirsizlik)
+			The presence of multiple interpretations because of a lexical unit or sentence structure
+			-cümledeki yapıdan kaynaklı ya da birden fazla olan yappılardan kaynaklı belirsizlik
+			1- Structural Ambiguity
+				The presence of more than one meaning due to sentence structure
+				“After a long time, I saw him coincidentally at the bank”
+				**cümle normal gözüküyorsa, ilk bakılması gereken preposition
+				**ben onu bankada mı gördüm, onun bankada olduğunu mu gördüm..
+				“Shannon saw Katie when she was buying an umbrella” 
+				**zamirlere de dikkat edilmeli, she kimi refer ediyor..
+				Old men and women got on the bus
+				**bağlaçlara dikkat. Sıfat her iki tarafı da niteliyor mu acaba….
+				“Visiting relatives may distract me”
+				**progressive participle
+				**akrabaları ziyaret etmek mi yoksa ziyaret eden akrabalar mı?
+			
+			2- Lexical Ambiguity
+				Kelimeden kaynaklı anlam belirsizliği
+				The presence of more than one meaning of a word
+				“I saw him coincidentally at the bank”
+				Onu bankada mı gördüm yoksa suyun kenarında mı gördüm??
+				“Charlie didn’t beat his friend because he loves him”
+				Beat kelimesi hem vurmak anlamında hem de yenmek anlamında
+				Yenmedi mi dövmedi mi?
+				“When I checked it, the tank was full of water”
+				Tank su tankı mı askeri tank mı??
+				“I hate receiving gifts that are packed by using paper”
+				Acaba gazeteye sarılan mı kağıda sarılan mı hediyeler?
+
+> SEMANTICS
+	What is semantics?
+		Anlamla ilgilenen dal
+		The branch studying meaning of words, phrases and sentences.
+		The branches
+			1- Phrasal and Sentential Semantics
+				A branch of linguistics dealing with the meaning of phrases and sentences
+				Semantic (Thematic Roles)
+				-Agent
+					The doer of an action – işi yapan kişi
+					“Michael broke the vase”
+					“The vase was broken by Michael”
+				-Experiencer
+					The one being exposed to a sensory or emotional input
+					Beş duyu organımız ve hislerimiz önemli
+					“John saw a dog”
+					“My friend felt happy”
+					“he make her unhappy”
+				-Theme (Hedef)
+					The entity undergoing the effect of the action. It may move but its state doesnt change
+					-sadece konum değişir nesnenin yapısı değişmez
+					“the bottle is on the table”
+					“they carried the table”
+					“i bought two books”
+					“there is a dog in the park”
+				-Beneficiary (fayda sağlayan kişi)
+					The entity that benefits from the action
+					“I prepared breakfast for him”
+					“Charlie helped Luke to do his homework”
+					“I did him a favor”
+				-Patient (etkilenen kişi)
+					The entity going through an action
+					Its state changes
+					“he chopped the tomato”
+					“the ice melted”
+				-Recipient (alan kişi)
+					The one that receives sth
+					“I bought Steve a pencil”
+					Beneficiary ile karıştırma o manevi bu nesnel
+					“Charlie sold his car to Mary”
+					“She sent a book to Susan”
+				-Location (olayın gerçekleştiği nokta)
+					The place where the action takes place
+					“the children are waiting in the hall”
+					“I saw him near the library”
+				-Instrument (olayı gerçekleştirmek için kullanılan alet)
+					The entity that is used to the action
+					“he chopped potatoes with knife”
+					“children opened the dor with a key”
+				-Source/Origin
+					The entity from which the action comes from
+					“my friend called me from NY”
+					“our boss came from abroad”
+
+
+			2- Lexical Sementics
+				Kelime anlamlarını inceliyor
+				The branch of linguistics that studies word meaning
+
+				--> Semantic Features
+						dog	pencil	waitress
+				animate		+	-	+
+				adult		+	-	+
+				human		-	-	+
+				female		-	-	+
+
+				
+				Lexical Relations
+					1. Synonyms
+						Two or more words that have the same meanings
+						Nearly-almost
+						Answer-reply
+					2.Antonyms
+						Two or more words that have opposite meanings
+						Open-Close
+						Big-Small
+						New-Old
+
+	
+					ANTONYMS
+					1. Complementary antonyms
+						antonyms that represent only two opposite possibilities
+						İki şey var ve ikisinin ortası yok
+						büyük küçük ortası var
+						uzun kısa ortası var short tall medium gibi
+
+						dead-alive
+						true-false
+						absent-present
+						entrance-exit
+
+					2. Gradable Antonyms
+						derecelendirilebilen zıtlıklar
+						antonyms each of which denotes one end of a scale
+						hot-cold  (az çok yaparsın daha en yaparsın vs)
+						tall-short
+						good-bad
+						rich-poor
+						heavy : light, fat : skinny, dark : light, 
+						old - young, early : late, empty : full, dull : interesting.
+												
+					3. Relational Opposites
+						tam olarak zıt anlam içermez
+						the words that have a reciprocal relationship
+						birbirini tamamlayan bağlayan karşılıklı etkileşim olan şeyler
+						aslında zıt anlamlı değiller
+						give-receive
+						wife-husband
+						teacher-student
+						sell-buy
+						question-answer
+
+					Auto-Antonyms / Contranyms
+						Words that have two opposite meanings
+						Put out: to generate vs to end
+						Left: remaining vs departed
+	
+					Anti-Autonyms
+						The words that seem to have opposite meanings but having the meanings
+						Bazı kelimelerin farklı anlamalara sahip olduğu gözüküyor ama aynı anlamlara sahip
+						Valuable = Invaluable --> ikisi de değerli demek
+						Pricey = Priceless --> pahalı
+
+
+				3- Hyponym
+					A word that denotes a subcategory or member of a general group
+					Cat, dog, lion, donkey  animal
+					Blue, red, black, White  color
+					Rose, daffodil, orchid  flower
+				
+				4- Homonym
+					Aynı isimler ama anlamlar farklı
+					The words that share the same spelling and pronunciation
+					Bank, Address(hitap etmek), Date
+
+				5- Homophone
+					Aynı sese aynı telaffuza sahip olanlar
+					The words that share the same pronunciation
+					where, wear****
+					vale, veil
+					to, two
+					bury, berry
+ 	
+				6-Meronym
+					Bir bütünün parçası
+					Bunu hyponym ile karıştıma o bir şeyin üyesi demek
+					A word that denotes a part of sth
+					El parçası parmak, parmağın parçası tırnak
+					Tırnak parmağın meronym'i parmak da elin meronym'i
+					Finger is meronym of hand
+					Nail is meronym of finger
+					Wheel is meronym of car
+
+				8- Polysemy
+					Bir kelimenin birden fazla farklı anlamı
+					The fact of having more than one and related meanings
+					Foot as a part of body
+					Foot as the bottom or the lever end of sth
+					Run – he runs, run – water runs
+				9- Homographs/Heteronyms
+					Graph denilince akla yazı gelsin
+					Sadece yazılış olarak aynı anlamaları farklı
+					Words that have the same spelling but different meaning and pronunciation
+					“I present everything” – sunmak
+					“I bought him a present” – hediye
+					“she has been to a desert” - çöl, 
+					“it is the best to desert him” – terketmek
+			
+				10- Collocations
+					Two or more words that go together
+					“do homework”, “have breakfast”, “make a mistake”,”get angry”,”do shopp”
+ 				11- Prototype
+					The best hyponym or member of a group – akla gelecek ilk şey
+					Sofa for furniture
+					Dog for animal
+					Apple for fruit
+					Tomato for vegetable
+
+
+		Conceptual Meaning
+			The actual object or ideas a words refers to
+			Actual/literal meaning
+			“I was at home”
+			“She has a blue jacket”
+		Associative Meaning
+			An idea suggested by a word
+		
+			“I feel like home here”
+			“He was blue after the event” - depressed
+
+		What is Truth Condition?
+			A condition which makes meaning of a sentence true
+			“It is snowing in Moscow” – doğru olması için doğruluk durumuna sahip olmalı
+			“a dog has four legs” -  gramaer olarak doğru olabilir ama semantic olrak doğru olmalı
+		
+		Truth conditional semantics
+			A branch of semantics combining the meaning of a sentence and the condition which makes it true
+			“this rose is white” – bir cümlenin anlamı belirttiği durum doğruysa doğru olabilir
+	
+		Entailment
+			Bir cümlenin doğruluğu bi başka cümlenin doğruluğuna bağlı
+			A relationship between two statements in which the truth of one entails or ensures the truth of the other
+			“Charlie bought a car in İstanbul last last month”
+			-“Charlie has a car”
+			-“Charlie was in İstanbul last month”
+			“Everybody has arrived on time”  “nobody is late”
+		
+		Compositionality
+			Farklı şeylerin bir araya getirerek bi uyum içinde anlam oluşturması – kompozisyon
+			The meaning of an expression or phrase consists of the meaning of its parts and the way they are combined
+			Bi ifadenin anlamı onun kendsini oluşturan parçaların kelimelerin anlamlarından birleşir
+		
+		Rule Violation
+			Gramer olarak doğru ama anlamsız olabiliyor. Anlamsızlıklar nelerle olabilir: 
+			1- Anomaly 
+				Anlamsızlık
+				A phenomenın in which a sentence is syntactically true but meaningless semantically
+				There is incompatibility(uyumsuzluk) between meanings of words
+				“the computer has bad intentions” – cümle doğru özne cansız ama şu an için anlamsız ya da mecazi
+			2- Metaphor
+				Gibi kullanmadan benzetmek
+				A figüre of speech that contains an implied comparison
+				It is a type of comparison applied without using the words such as “as” or ”like”
+				“Juliet is the sun”
+				“you are an angel”
+				“all the world’s a stage”
+			3- Idiom
+				An expression whose meaning cannot be deduced from the words it consist of
+				“hang in there” = never give up
+				“break a leg” = good luck
+				Anlamsız gibi ama idiom adı üstünde
+
+
+> Sociolinguistics
+	What is sociolinguistics?
+		The analysis of sociological aspect of language
+		It studies the effect of societal values, culture, region, sex, social class on the language
+		
+	Language Variation/Varieties
+		A language my vary according to factors such as geography, age, gender, ethnic roots, socioeconomic level
+		Dilin değişimleri
+		-Social Variable: Age, Ethnicity, Religion
+		-Linguistic Variable: Pronunciation, Grammar, Vocabulary
+	
+	Dilin gösterdiği değişiklikler
+		1- Dialect
+			A variety of language that is specific to a region
+			A variety of language that is based on differences in pronunciation, vocabulary and grammar 
+			Telafuzi gramer, kelime üçünde de değişiklik varsa dialect olur
+			
+			Pronunciation
+			British English 	Currency, Hurricane
+			American English	Currency, Hurricane 
+			
+			Vocabulary
+			British English Aeroplane, Flat
+			American English Airplane, Apartment
+			
+			Grammar  - An example collacation
+			British English  Have a bath
+			American English  take a bath 
+			 
+			-Social Dialect
+			A language variety that is based on social variables such as occupation, age, gender, ethnic roots, socioeconomic level
+			Differences in the use of a language due to
+			
+			-Dialect/Language Atlas
+			The maps on which dialects are spotted
+
+			-Isoglass
+			A map having boundaries to separate places according to single linguistic item that is different
+			 tek bi farklılık varsa – simit  gevrek gibi – bölgelere göre küçük farklılıklar
+			
+			-Dialect Boundary
+			A clear linet hat shows isoglosses that come together
+			isoglosslar varsa birden fazla farklılık var grammar ya da kelime açısından gibi
+
+			-Dialect Continuum
+			Dialectin devamlılığını sağlamak
+			A range of dialects that are spoken in an area where they differ slightly in areas..
+			 that are close to each other, but differ a great deal in the ones far from each other	
+			Mutual Intelligibility- karşılıklı anlaşılabilirlik
+			Dialect yakın bölgelerde anlaşılabilirliği daha yüksektir
+
+		2- Accent
+			Dilin  telaffuz anlamındaki değişimi..
+			A variety of language that is based on difference in pronunciation
+			
+		3- Idiolect
+			Tek bi kişiyle alakalıdır – kendine özgü
+			A variety of language that is specific to person	
+
+			Speech Community
+				A group of people sharing the language or a variety a language
+				A group of people speaking the same language
+		
+			Discourse Community
+				Discourse – söylem
+				A group of people that have the same goals, expectations, hobbies, values, so share a discourses
+				Aynı amaçlar, aynı beklentiler, aynı düşünceler, ortak dili söylemi paylaşmak
+				Tenis kulübü, satranç kulübü gibi
+	
+			Bilingualism
+				The ability of speaking two languages
+				Having a high level of proficiency in two languages
+	
+			Diglossia
+				Bir dilin iki hali (formal ve informal versiyon gibi)
+				A situation in which two varieties of a language co-exist in a community
+				Arkadaş ortamı ya da konferans konuşmasında
+				İki farklı dilde kullanmak olabilir günlük hayatta
+				Using two varieties of language for different purposes
+				High vs Low varieties – resmi vs resmi olmayan
+
+	Language Planning
+		An activity of making changes in a language or promoting and influencing the use of it by governmental authorities
+		Dilin kullanımıyla lgilibazı planlamalar çalışmalar yapmak
+		State intervention in language – müdahale
+			
+		-Language Standardization
+			Choosing and implementing a certain variety of a language 
+			as the standard form or the language itself as the standard language in a community
+			bir dilin bir versiyonunu standart version olarak belirleme – İstanbul Türkçesi
+
+		-Steps of Language Planning
+	 		Selection:
+				-choosing the language or the variety of language
+			Codification:
+				-studies on structures and linguistic elements
+			Elaboration:
+				-developing the form to be used in different contexts – zenginleştirmek
+			Acceptance:
+				-to be accepted by the society as the standard form
+
+
+	Language Death
+		It’s the extinction of a lang. when nobody speaking it or no native speakers of it exist
+
+	Language Revitalization (Revival)
+		A situation in which an extinct language starts to be spoken or decline of an endangered lang. is stopped
+
+	Language Maintenance
+		The situation in which a group of ppl keep using their lang. in a community where their lang. isnt dominant
+		Azınlık dilini korumak
+	
+	Language Shift
+		The situation in which people stop using a language to use another one
+		Yabancı ülkeye gidip kendi dilini değiştirmek
+	
+	Language Contact
+		A situation in which the speakers of different languages interact
+		Kelime alışverişi gibi
+
+	Taboo Words
+		The words that rude, disrespectful or shocking in a society and must be avoided
+
+	Slang
+		Argo – grup içinde, gençlik
+		A type of language use composed of words, phrases and pronunciations that are informal
+		Common in speech rather than writing
+		Used by some particular groups such as gangs
+		Küfürden ziyade dilin argo alt seviye gibi konuşulması
+
+	Register
+		A language variety to be used for different contexts or situations
+		Dilin farklı durumlar ve içerikler için kullanılabilmesi
+		Tıp dili, mühendislik dili gibi
+		Legal, religious, topical, religious, situational
+
+	Jargon
+		Jargon dilin şekli değil sadece kelime haznesi/havuzu. register ile karıştırma
+		Specialized words and expressions used by a group of people for professional purposes such as occupation and not understood by others
+		Jargon zaten register içinde olan bişey tıp dili derken aslında kelimeler yani terimler
+		“a percutaneous injection” – deri yoluyla demek  through the skin yerine
+		
+	Speech Accommodation
+		A situation in which a participant adjusts his/her speech according to the speech of another participant
+		Karşıdaki kişiye göre konuşmanın seviyesini ayarlamak
+		-Convergence: +
+			Reducing social distance or social difference through speech style
+		-Divergence: - 
+			Increasing social distance through speech style
+	
+	Pidgin
+		A simple form of lang. developed for communication between groups in the absence of a common language
+		The mixture of  languages as a result of different purposes such as trade and so on
+		Ortak amaç için dil kullanıyorlar bi süre sonra biraz ondan biraz bundan karışıyor
+		Ama ortak bi dilleri yok lingua francadaki durum gibi değil 
+
+	Creole
+		Pidginde karşışan dili sonraki neslin direk alması ana dil gibi olması
+		A mixture of languages (pidgin) that becomes the first language of a speech community
+
+	Vernacular
+		Resmi olmayan yöresel dil
+		A type of local language used in a multilingual community
+		A colloquial language used in a certain region
+	
+	Argot
+		A type of language or set of expressions used by a particular group in order not be understood by others
+		Şifreli dil başkaları tarafından anlaşılmamaları isteniyor
+		Illegal olan kişiler gizli saklı işlerini yürüttüğü iş- slang den çok farklı
+		Mostly for illegal purposes
+
+	Lingua Franca
+		A language used a means of communication between people that are native speakers of different languages
+		İkisinin de dilleri İngilizce değil ama ikiside İngilizceden anlaşıyor
+		
+	Prestige
+		Saygınlık – dilin saygınlığı
+		The respect of value a language or a language variety has.
+
+	Speech Style
+		It refers to the difference in the way of communication
+		Formal vs. Informal style
+	
+		Style-shifting – stil değiştirmek – formalden informale ya da tam tersi geçiş
+		İçinde bulunulan context ile ilgili buna domain de denilebilir
+		
+
+	Language and Culture
+		The Sapir-Whorf Hypothesis
+			Dilin kültür üzerinde büyük etkisi var
+			Language determines how we perceive the world
+			Language has a deep influence on our actions and thoughts
+
+
+
+> Discourse Analysis
+	What is discourse? 
+		–söylem – kişinin iletişim için dili kullanıp mesajını iletmesi
+		Language use in speech and writing for the purpose of producing meaning
+		The meaning beyond sentence
+	
+	What is discourse analysis?
+		The analysis of meaning beyond sentence
+		The study of language use beyond sentence
+
+	Elements of Discourse
+		1- COHESION (yapısal bütünlük ve geçişleri sağlamak)
+			Dil bilgisi yapısal bütünlük
+			A situation in which all of the units of a text or speech are connected together
+			“Mickey was very sorry yesterday. Mickey had a problem. Mickey did his best…
+			..mickey couldn’t solve his problem”
+			-her cümlede Mickey diyor bu cohesion problemi- zamir ve bağlaç kulanılmaması
+			“Mickey was very sorry yesterday because he had a problem. He did his best, but he couldnt solve his problem” doğru şekli – bütünlük oluştu
+
+			Cohesion (yapısal bütünlük oluşturmak) için bazı şeyler olmalı
+			
+			-Cohesive Devices
+			1-Reference
+				A situation in which a word such as pronoun refers to another word
+				“connor arrived at home, but he couldnt see anyone”
+				“i g oto Fethiye every summer because i love spending time there”
+	
+				a- Cataphoric Reference (2017-2019)
+					Refer ettiği kelimeden önce kullanılması
+					A type of reference that occurs when a word refers to another word mentioned later in the text or sentence
+					When he woke up, Mickey  felt dizzy
+					When I arrived there, London was very hot
+					He didnt say anything when Charlie was questioned”
+					The fact that it is expensive, we cant buy this aquarium”
+				
+				b- Anaphoric Reference
+					refer ettiği kelimeden sonra gelir
+					a type of reference that occurs when a word refers to another word mentioned earlier in the text or sentence
+					“when Charlie was questioned, he didnt say anything”
+					“we cant buy this aquarium becuase it is expensive”
+				c- Exophoric Reference
+					a type of reference that occurs when a word refers to another word that doesnt exist in the text or sentence
+					Refer edilen kişi şey cümlede olmaması
+ 					“I love her very much” who is she?
+					“he will never give up ” who is he?
+					“she didnt like to be there”who is he?, where is there?
+					
+			2- Substitution (yerine kullanma)
+				A situation in which a word or group of words replace a word or phrase
+			
+				a- verbal substitution
+					This type occurs when a word replaces a verb or predicate
+					*Predicate - (fillden başlayıp sonuna kadar olan kısım)
+					“do you like chocolate? – Yes, I do”
+					“they thought i didnt wake up early, but i did”
+				b- clausal substitution (cümlecik yerine)
+					this type occurs when the words such as “not” or “so” replace a clause
+					“I hope she will arrive on time, - I hope so”
+					“they will do their best – I think so”
+					“We may fail in the exam. – I hope not”
+				c- nominal substitution (ismin yerine)
+					this type occurs when the words such as one, ones, same replace a noun phrase
+					“do you want a chocolate. – Yes, I want one”
+					“I bought a bok and he will buy th same”
+
+			3- Ellipsis - …(üç nokta/bi şeylerin bilerek eksiltilmesi, çıkarılması)
+				A situation in which a word or a part of the speech is omitted without any loss in the meaning
+				“I tried hard to pass the exam, but i couldnt…”
+				Substitution ile karıştırma bu eksik bırakıyor do did kullanmımyor
+				“there is not any sugar. I will buy some”
+				That çıkarılması örnek olabilir
+
+			4- Conjunctions
+				The words that connect words, phrases or sentences and form a unity in a sentence or text
+				“I wanted to play with them. I had a problem with my leg” – No Cohesion
+				“I wanted to play with them, but I had a problem with my leg” - Cohesion
+
+			COHESION (yapısal bütünlük ve geçişleri sağlamak) sorusunda bakılması gereken yerler burası yukarısı	
+	
+		2- Coherence - Tutarlılık
+			Anlamsal Bütünlük. Neden bahsettiği tutarlı olmalı baştan sona - Tutarlılık
+			The consistency or logical consistency between parts of a speech or text
+			Unity in a speech or text
+			“why dont we go? – myleg is hurt” – cohesion yok because yok ama anlamsal bi tutarlılık var coherence
+		
+		3- Informativeness
+			A situation in which a discourse necessitates new information
+		
+		4- Situationality (durumsallık)
+			A situation in which a speech or text becomes meaningful in a specific context
+			“do u wanna watch a movie? – I am very hungry”
+			-ikisi arasında bi tutarlılık yok bütünlük yok 
+			-ama bunu bilen kişiler aç olduğunu bu yüzden film izlemek istemediğini bilir	
+
+		5- Intentionality
+			The text or speech must be constructed consciously
+			Niyetli bilinçli şekilde mesaj olmalı
+
+	Conversiational Interaction
+		Bir diyalogta olması gereken bazı şeyler
+		 	- Hedge
+			Eğer söylediğin şeyden emin değilsen ondan emin olmadığını belirten bi şey söylemelisin
+			Hedge is a word or phrases utilized to express uncertainty or probability
+			“It is believed, It is widely thought, as far as i know, probably,  it is likely, it seems..”
+			
+			- Turn-Taking 
+			Bir konuşmada sırası geldiğini bilip konuşmaya başlamak
+			A situation in which each of interlocutors starts speaking or respond to what is said one by one
+			
