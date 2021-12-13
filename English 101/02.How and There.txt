@@ -242,7 +242,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                 something	bir şey	        	there is something makes me want to keep doing			devam etmemi bana isteten bir şey var
 							listen up! I just heard something. what could it be?		dinle! şu an bir şey duydum. o ne olabilir ki?
 							when you smile, it's like you're waiting for something		güldüğün zaman, bir şey bekliyorsun gibi
-                somewhere	bir yer      		I would like to go somewhere this summer			bu yaz bir yere gitmek hoşuma giderdi/isterdim
+                somewhere	bir yer      		I would like to go somewhere else this summer			bu yaz başka bir yere gitmek hoşuma giderdi/isterdim
 		------------------------------------------------------------------------------------------------
                 anyone        	herhangi biri   	I swear I will not tell anyone this secret			bu sırrı kimseye söylemeyeceğime yemin ederim
 							does anyone here speak Spanish?					burada herhangi biri ispanyolca konuşur mu?		
@@ -251,7 +251,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                 anything      	herhangi bir şey	anything is possible if you believe				eğer inanırsan herhangi bir şey mümkündür
                                         		she doesn’t have anything to eat for lunch			onun öğle yemeğinde yiyecek bir şeyi yok
                                         		I was unable to hear anything last night after the blast	dün gece patlamadan sonra hiçbir şey duyamadım
-                                        		is there anything in this bag?					bu çantada bir şey var mı?
+                                        		is there anything else in this bag?			        bu çantada başka bir şey var mı?
                 anywhere	herhangi bir yer
 		------------------------------------------------------------------------------------------------
                 none (no one)	hiç biri        	no one can cope with her in English				ingilizcede kimse onunla baş edemez
@@ -283,7 +283,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                                         		either of us can go to the grocery
                 neither		ikisinden hiç biri	neither side is prepared to compromise (kompırmayz)
 
-                one		biri, birisi		one of the boys tripped over and crashed into a tree – which one is 
+                one		biri, birisi		one of the boys tripped over and crashed into a tree – which one of the boys?
                                         		he is the chosen one
 
                 other		diğeri			he raised one arm and then the other
