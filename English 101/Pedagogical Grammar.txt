@@ -129,7 +129,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		        Her bro demanded that switch of lights (demand)
 		        It is vital that she study hard fort he exam (suggestion)
 		
-	        -Declarative Mood (2015)
+	        - Declarative Mood (2015)
 		        A mood that is based on an act or statement as an objective fact.
             		Presenting an act or statement as an objective fact
 		        It generally gives information and presents a real situation in contrast to subjunctive mood
@@ -139,54 +139,55 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		        Ankara is a big city (real)
 		        She is driving to his hometown to visit her parents (a real situation)
 
-          -Imperative Mood (2015)
+		- Imperative Mood (2015)
 		        Emir cümleleri, emir kipi
 		        A form of verb that forms a command or request
 	        	“Come here”, “Keep off the grass”, “Don’t shout”
 	
-          -Performative Verb (2016)
+		- Performative Verb (2016)
 		        A type of a verb that states the speech of act is being performed
 		        When you say these words, you do the action
-		        Uyarı ya d aiişi o anda yapmak
+		        Uyarı ya da işi o anda yapmak
 		        Confess, Declare, Guarantee, Sentence
             		Assert, Suggest, Promise, Ask, Order, Apologize, Warn etc
-		
-            -I suggest that you go there
+			-I suggest that you go there
 		        -I warn you
 		        -I request your help
 		        I play football – Hem futbol oynuyor ama şimdi değil hem de oynadığımı aktarıyorum
 		        Söz veriyorsun aynı anda yapıyorsun gibi
 		        Söylemenin yanında bizzat yapıyorsun
 
-
-          - Auxiliary Verbs
+		- Auxiliary Verbs
 		        be, have, do, may, might, will, should, must, can, could, would
 		        using modal verbs
 	        
-          - Action Verbs (Things we do, Things that happen)
+		
+		- Action Verbs (Things we do, Things that happen)
         		to do, to have, to walk, to run, to jump,   oto carry, to sit, to stand
 	        
-          - Stative Verbs (Feelings, Thoughts, Senses)
+		- Stative Verbs (Feelings, Thoughts, Senses)
              		like, love, wish, need, know, think, understand, 
 			believe, remember, forget, agree, see, sound, taste, appear, feel, look
-	
-          - Finite Verbs (Tense, Continuous Tenses) (Clause)
+			
+		- Finite Verbs (Tense, Continuous Tenses) (Clause)
 		        I go, I am going
-	
-          - Non-Finite Verbs (Gerund, Infinitive, Participles) (Clause)
+		
+		- Non-Finite Verbs (Gerund, Infinitive, Participles) (Clause)
 		        Sailing is my favorite
 			To understand each other
 
 
 ---> Adverbs
-			he is quite happy  Sıfatı nitelemiş
-	          	They walked slowly  Fiili nitelemiş
-	          	Nearly everybody came to the party  Belgisiz zamiri nitelemiş
-	          	Almost half of the book
+		he is quite happy  Sıfatı nitelemiş
+	        they walked slowly  Fiili nitelemiş
+	        nearly everybody came to the party  Belgisiz zamiri nitelemiş
+	        almost half of the book
 
-- Pronouns
-	      		Subject/Personal Pronouns
-            		He loves you
+
+
+---> Pronouns
+		Subject/Personal Pronouns
+          		He loves you
 		        A type of pronoun used to substitute for a certain proper name or proper names
 	      
         	Object Pronouns (2015)
@@ -270,7 +271,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
                               
 	        - Quantitative Adj: they are used to described the amount of things
 		        
-                 Quantifiers: few, all, no, some, sufficient, enough, each
+			Quantifiers: few, all, no, some, sufficient, enough, each
 		
 		- Demonstrative Adj: they are used to point sth or the position of sth
 		                            this, that, these, those
@@ -352,22 +353,22 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		
 ---> USAGE OF 'THE'
         	-to refer to people or objects that are unique
-				  “The pope will set agenda (gündemi belirlemek) attentively”
-				  “the world will be invaded by snakes eventually”
-				  “He is the happiest man on the earth”
+				“The pope will set agenda (gündemi belirlemek) attentively”
+				“the world will be invaded by snakes eventually”
+				“He is the happiest man on the earth”
 		-before superlatives and ordinal numbers
-			  	“the highest mountain” 
-				  “the second book”
-				  “the most important issue”
-				  “the first step”
+				"the highest mountain” 
+				“the second book”
+				“the most important issue”
+				“the first step”
 		-when there is just one of sth in a place and it is referred to
-				  “can you give me lift to the airport?”
-				  “close the door”
-				  “why you didnt turn off the light”
+				“can you give me lift to the airport?”
+				“close the door”
+				“why you didnt turn off the light”
 		-before countries whose names include words like lkingdom, states, republic
-				  The united kingdom
-				  The People’s Republic of China
-				  The United States
+				The united kingdom
+				The People’s Republic of China
+				The United States
 		-before countries which have plural nouns as their names
 				The netherlands, The Philippines
 		-with nationalities to mean the people having this nationality
@@ -512,133 +513,127 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 - Conjunctions
-	-Correlative Conjunctions
+	- Correlative Conjunctions
 		They are used in pairs to connect two balanced clauses, phrases, or words
-		both…and…
-		“he can both play football and climb a mountain”
-		either …or
-		“he is going to either France or England”
-		“he will either succeed or give up”
- 		neither…nor
-		“neither novels nor stories were read”
-		“he is neither generous nor helpful”
-		“he will neither work nor help anybody”
-		“neither does he have a bicycle nor does he have car” cümle başında ise devrik yap 
-		not only…but also
-		“the resort was not only crowded but also expensive”
-		“he not only helps other people but also shares everything with them”
-		“not only did the members arrive late, but also they didnt bring documents”
-		hardly/scarcely/barely…when – olaylar arasında neredeyse hiç zaman farkı yok
-		“I hardly/scarcely had closed the door when the bell rang” – tam kapatmıştım ki
-		“hardly/scarcely had I closed the door when the bell rang”
-		no sooner…than
-		“she had no sooner left than she fell down”
-		“no sooner had she left than she fell down”
-		“no sooner did she leave than she fell down”
+		- both and			“he can both play football and climb a mountain”
+		- either or			“he is going to either France or England”
+						“he will either succeed or give up”
+ 		- neither nor			“neither novels nor stories were read”
+						“he is neither generous nor helpful”
+						“he will neither work nor help anybody”
+						“neither does he have a bicycle nor does he have car” cümle başında ise devrik yap 
+		- not only…but also		“the resort was not only crowded but also expensive”
+						“he not only helps other people but also shares everything with them”
+						“not only did the members arrive late, but also they didnt bring documents”
+		- hardly/scarcely/barely when – olaylar arasında neredeyse hiç zaman farkı yok
+						“I hardly/scarcely had closed the door when the bell rang” – tam kapatmıştım ki
+						“hardly/scarcely had I closed the door when the bell rang”
+		- no sooner than		“she had no sooner left than she fell down”
+						“no sooner had she left than she fell down”
+						“no sooner did she leave than she fell down”
 
 	
+	- Coordinating Conjunctions (2017)
+		They are words/structures - connect words, clauses or sentences, that have the same grammatical structures
+		İki bağımsız cümleyi birbirine bağlar
+		FANBOYS
+		- and				“they should understand each other and take responsibility”
+						”she is brilliant and creative”
+						”some people go to abroad, and they visit museums”
+		- or				”the university will establish a library or a research centre”
+						”he will achieve his aim, or he will come up with a new idea”
+		- but/yet			”the watch was nice but/yet counterfeit”
+						”he studied very hard, but/yet he failed in the exam”
+						Bir olumsuz bir olumlu durum kullanıldığı için but/yet yoksa and olabilirdi
+		- so				”she was very hardworking, sos he was promoted”
+						“they did their best, so they managed to overcome problems”
+		- for				“this problem must be solved immediately, for it is very serious” ---> because anlamında cümle başında
+						“we listen carefully, for he was talking on sth important”
+		- nor		ne de		“he didnt help them nor did give advice” ikinci cümle devrik olur
+						”he doesnt like football, nor does he like volleyball”
+						”he is not generous, nor is he helpful”
 
-
-
-
-
-	
--Coordinating Conjunctions (2017)
-	They are words/structures - connect words, clauses or sentences, that have the same grammatical structures
-	İki bağımsız cümleyi birbirine bağlar
-	FANBOYS
-	and
-	“they should understand each other and take responsibility”
-	”she is brilliant and creative”
-	”some people g oto abroad, and they visit museums”
-	or
-	”the university will establish a library or a research centre”
-	”he will achieve his aim, or he will come up with a new idea”
-	but/yet
-	”the watch was nice but/yet counterfeit”
-	”he studied very hard, but/yet he failed in the exam”
-	Bir olumsuz bir olumlu durum kullanıldığı için but/yet yoksa and olabilirdi
-	so
-	”she was very hardworking, sos he was promoted”
-	“they did their best, so they managed to overcome problems”
-	for
-	“this problem must be solved immediately, for it is very serious” because anlamında cümle başında
-	“we listen carefully, for he was talking on sth important”
-	nor
-	Ne de
-	“he didnt help them nor did give advice” ikinci cümle devrik olur
-	”he doesnt like football, nor does he like volleyball”
-	”he is not generous, nor is he helpful”
-
-	-Subordinating Conjunctions
+	- Subordinating Conjunctions
 		A word that connects a main clause to a subordinate or dependent clause
 		Cümlelerden biri bağımlı biri bağımsız olmalı
 		“when i go to school, i feel sad”
 
-TIME CONJUNCTIONS
--After, befroe, by the time, until ,since, while, whenever, every timr, now (that)
-”now that he has left, we can use his room” madem ki, hazır olmuşken
-”after i completed my work, I drank a coffee”
-”every time he arrives, I sleep”(whenever)
--Subordinating bağlaç ortadaysa virgül almaz
-”they will keep working, until she arrives”
-”she came across him while she was walking”
-PLACE CONJUNCTIONS
--where, whereever
-”wherever you live, we can send you the materials”
-”you should stay where you feel happy”
-MANNER CONJUNCTIONS
--as if, as though, how
-”he is speaking as if he were depressed” –gerçek bi durum değil past
-”he looks as if he knows the truth” – gerçek bi durum present
-”i dont know how he succeeded”
-CAUSE AND EFFECT
--Because, since, as, seeing that, so long as, inasmuch as
-“Because…. He succeeded eventually, he deserved a present” –dığı için
-PURPOSE
--so that/in order that(böylece, olması için), in case(olursa diye), lest(olmasın diye), for fear that
-”he does jogging so that he wont get fat”  present ya da pre modals
-”I always hide documents lest someone may see them” 
-”I study hard for the exam in case the teacher asks confusing questions”
-CONDITIONAL 
--if, provided that, providing that, as long as, so long as, only if, unless
-“if she helps us, we will finish the work earlier than expected”
-”unless she helps, we wont be able to finish the work”
-EXPRESSING CONTRAST
--although, though, even thoughi, even if, much as
-“although… he studied very hard, he didnt manage to pass the exam”
-”though…he tried hard, he wasnt able to persuade him”
-SHOWING DIRECT OPPOSITON
--while/whereas
--zıtlık – iki şeyin birbiriyle çelişen noktası, kıyası
-“he is hardworking while/whereas his brother is lazy”
-		“while/whereas his brother is lazy, he is hardworking”
-		ADVERB
-		-bazı yapıları bağlaçmış gibi görürürüz ama aslında bunlar zarf
-		-therefore, consequently, as a result, thus, hence sonuç olarak, bundan dolayı
+		TIME CONJUNCTIONS
+		- after, before, by the time, until ,since, while, whenever, every timr, now (that)
+				”now that he has left, we can use his room”  --> madem ki, hazır olmuşken
+				”after i completed my work, I drank a coffee”
+				”every time he arrives, I sleep” (whenever)
+				
+				-Subordinating bağlaç ortadaysa virgül almaz
+				”they will keep working, until she arrives”
+				”she came across him while she was walking”
+
+		PLACE CONJUNCTIONS
+		- where, whereever
+				”wherever you live, we can send you the materials”
+				”you should stay where you feel happy”
+
+		MANNER CONJUNCTIONS
+		-as if, as though, how
+				”he is speaking as if he were depressed” –gerçek bi durum değil past
+				”he looks as if he knows the truth” – gerçek bi durum present
+				”I dont know how he succeeded”
+
+		CAUSE AND EFFECT
+		- because, since, as, seeing that, so long as, inasmuch as
+				“Because he succeeded eventually, he deserved a present” –dığı için
+
+		PURPOSE
+		- so that/in order that(böylece, olması için), in case(olursa diye), lest(olmasın diye), for fear that
+				”he does jogging so that he wont get fat”  present ya da pre modals
+				”I always hide documents lest someone may see them” 
+				”I study hard for the exam in case the teacher asks confusing questions”
+
+		CONDITIONAL 
+		- if, provided that, providing that, as long as, so long as, only if, unless
+				“if she helps us, we will finish the work earlier than expected”
+				”unless she helps, we wont be able to finish the work”
+
+		EXPRESSING CONTRAST
+		- although, though, even thoughi, even if, much as
+				“although he studied very hard, he didnt manage to pass the exam”
+				”though he tried hard, he wasnt able to persuade him”
+
+		SHOWING DIRECT OPPOSITON
+		- while/whereas
+		- zıtlık – iki şeyin birbiriyle çelişen noktası, kıyası
+				“he is hardworking while/whereas his brother is lazy”
+				“while/whereas his brother is lazy, he is hardworking”
+		
+		ADVERB
+		Bazı yapıları bağlaçmış gibi görürürüz ama aslında bunlar zarf
+		- therefore, consequently, as a result, thus, hence sonuç olarak, bundan dolayı
 		İki cümleyi bağlayamıyor bu yüzden virgül şart 
 		Çünkü iki cümle ya bağlaçla bağlanır ya da noktalı vürgülle 
-		“it was cold./; consequently, I wore a coat”
-		“it was cold, and consequently I wore a coat”
-		-bazı zıtlık belirten zarflar
-		-however, nevertheless, nonetheless, even so, notwithstanding
-		“he was exhausted; however, he attended the survey”
-		“he is a conscientious teacher. Notwithstanding, he has to study hard”
-		-on the one hand…on the other hand
-		“on the one hand, she is very hardworking; on the other hand, he is lazy”
-		“on the one hand, she is very hardworking. On the other hand, he is lazy”
-		-in contrast, on the contrary
-		“he overcame the injury; in conrast, his brother still copes with it”
-		“he overcame the injury. On the contrary, his brother still copes with it”
-		-thus may mean “in this way”
-		“he donated too much money, thus contributing to the charities”
-		-moreover, what is more, furthermore, in addition, besides
-		“he finished his work; what is more, he helped his friends”
-		“he finished hiswork. In addition, he helped his friends”
-		PREPOSITION
-		-because of , on account of, thanks to, owing to, due to, in case of, fort he purpose of, in spite of
-		-despite, in case of, besides/in addition to, in contrast to
-		-bunlar bağlaç gibi gözükebilir ama değil bunlar edat yani
+			“it was cold. consequently, I wore a coat”
+			“it was cold; consequently, I wore a coat”
+			“it was cold, and consequently I wore a coat”
+		
+		Bazı zıtlık belirten zarflar
+		- however, nevertheless, nonetheless, even so, notwithstanding
+			“he was exhausted; however, he attended the survey”
+			“he is a conscientious teacher. Notwithstanding, he has to study hard”
+		- on the one hand…on the other hand
+			“on the one hand, she is very hardworking; on the other hand, he is lazy”
+			“on the one hand, she is very hardworking. On the other hand, he is lazy”
+		- in contrast, on the contrary
+			“he overcame the injury; in conrast, his brother still copes with it”
+			“he overcame the injury. On the contrary, his brother still copes with it”
+		- thus may mean “in this way”
+			“he donated too much money, thus contributing to the charities”
+		- moreover, what is more, furthermore, in addition, besides
+			“he finished his work; what is more, he helped his friends”
+			“he finished hiswork. In addition, he helped his friends”
+		
+		PREPOSITION
+		- because of , on account of, thanks to, owing to, due to, in case of, fort he purpose of, in spite of
+		- despite, in case of, besides/in addition to, in contrast to
+		- bunlar bağlaç gibi gözükebilir ama değil bunlar edat yani
 
 
 
@@ -648,13 +643,11 @@ TIME CONJUNCTIONS
 		Niteleyen bi sözcük ya da sözcük grubu
 		A word or group of words that describes a noun or verb phrase.
 		It can be an adj, adv, determiner, article, demonstrative, prepositional phrase, relative clause etc
-		-the book was bought
-		-this man is looking angrily
-		-it was a fantastic movie
-		-he was running fast
+			-the book was bought
+			-this man is looking angrily
+			-it was a fantastic movie
+			-he was running fast
 		Modifiers can be divided into two categories:
-
-
 
 --- Pre-Modifiers (2016)
 A word/group of words that comes before verbs/adj/other adv and describe them
