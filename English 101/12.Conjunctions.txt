@@ -1,5 +1,5 @@
-CONJUNCTIONS (CONNECTORS, LINKING WORDS)
-      - Coordinating Conjunctions
+CONJUNCTIONS (CONNECTORS, LINKING WORDS)											     prepared by Uğur ARSLAN
+      - Coordinating Conjunctions														@arslanuguur
             - for, and, nor, but, or, yet, so
       - Coordinating Conjunctions
             -- too, also, so, also
@@ -77,43 +77,45 @@ So is used to show a reaction or consequence.
 	--> TOO 
 		- 15 + 15 is thirty and 16 + 16 is thirty too
                 - if you’re going to the mall, can I come too?
-		- I love you too, sweetie. = me too.
+		- I love you too, sweetie. = me too
 		- "Ah, you've come here too, young man!" he said
-		- Gill’s having chicken. I’ll probably have chicken too.
-		- She looks really tired and she must be really hungry too.
+		- Gill’s having chicken. I’ll probably have chicken too
+		- She looks really tired and she must be really hungry too
+		
 	--> EITHER
 		- Bill’s not here. I don’t think Dave is either, is he?
-		- I can't sleep either.				
-		- no, no, don't answer that either.
+		- I can't sleep either		
+		- no, no, don't answer that either
 		- what if they don't talk, either?
-		- I don't know why either.	- I don't know anything about either.
-		- you don't trust me, either.
-		- it wasn't either of your faults.
-		- I am not going 	- nor am I
+		- I don't know why either	- I don't know anything about either
+		- you don't trust me, either
+		- it wasn't either of your faults
+		- I am not going 		- nor am I
 		- he can't drive, and neither can she
+		
 	--> AS WELL
-		- A: I’ll have steak please.
-    		  B: Yes.
-    		  A: And I’ll have the mixed vegetables as well.
-		- if he had lied to her, he might have cheated as well.
-		- I think you felt something as well.
-		- She must have suspected as well.
-		- There was little sound from the kitchen as well.
-		- He obviously missed Julia as well.
-		- She can decide for herself as well.
+		- A: I’ll have steak please
+    		  B: Yes
+    		  A: And I’ll have the mixed vegetables as well
+		- if he had lied to her, he might have cheated as well
+		- I think you felt something as well
+		- She must have suspected as well
+		- There was little sound from the kitchen as well
+		- He obviously missed Julia as well
+		- She can decide for herself as well
 		
 		--> AS WELL AS - yanı sıra
-		- He could be tender and thoughtful, as well as charming.
-		- I know you as well as I know anyone else.
-		- This wasn't going as well as she had planned.
-		- In fact, they were a police force as well as an army.
+		- He could be tender and thoughtful, as well as charming
+		- I know you as well as I know anyone else
+		- This wasn't going as well as she had planned
+		- In fact, they were a police force as well as an army
 		
 
 
 
 ---> CORRELATIVE CONJUNCTIONS (Paired Conjuntions)
 	--> BOTH ... AND ...			--> hem ... hem de ...
-		- we'll have both the cheesecake and the chocolate cake.
+		- we'll have both the cheesecake and the chocolate cake
 		- he can both sing and play the violin
 		- I am finished with both my English essay and my history essay
 	--> EITHER ... OR ...			--> ya ... ya da ...
@@ -122,9 +124,9 @@ So is used to show a reaction or consequence.
 		- she either doesn't understand or is pretending
 		- you can have either tea or coffee 
 	--> NEITHER ... NOR ...			--> ne ... ne de ...
-		- by the way, neither Alex nor I drink.
-		- he heard neither the clock nor the birds.
-		- they knew neither her name nor anything about her.
+		- by the way, neither Alex nor I drink
+		- he heard neither the clock nor the birds
+		- they knew neither her name nor anything about her
 		- he will neither visit the museum nor attend the conference
 		- neither will he visit the museum nor will he attend the conference
 	--> NOT ONLY ... BUT ALSO / AS WELL	--> sadece ... değil, aynı zamanda ...
@@ -206,21 +208,13 @@ So is used to show a reaction or consequence.
 
 --> Contrast (Concession and Opposition)
 	however, but, yet, whereas, while, on the one hand, on the other hand
-
 	as opposed to, on the contrary, otherwise, instead of
-
 	even though, although, though, whereas, while, even if, no matter, whatever, wherever, whenever, but for
-
 	however + adj/ adv
-
 	but ... anyway, but ... still, yet ... still
-
 	nevertheless, nonetheless
-
 	despite, in spite of
-
 	apart from, admittedly, all the same, up to a point, even so
-
 
 --> Condition
 	CÜMLE ALANLAR
@@ -233,10 +227,9 @@ So is used to show a reaction or consequence.
 
 	whether or not, in order to, so that, otherwise, or (else)
 
-
 --> Reason (Purpose / Cause and Effect)
 	CÜMLE ALANLAR
-	-dığı için 
+	-dığı için
 	because, since, as
 
 	on the grounds that – mesi sebebiyle/gerekçesiyle
@@ -248,15 +241,15 @@ So is used to show a reaction or consequence.
 
 	so that, in order (to) (that), to, so as to, what this in mind, in fact, for fear that
 
+	as long as, so long as, inasmuch as, lest, such ... that, so ... that
+	therefore, consequently, so
+	... mek için			--> in order to, so as to, to + Ving
+	... mek için, … sın diye 	--> in order that, so that + clause
+
+
 	İSİM ALANLAR
 	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
 
-	as long as, so long as, inasmuch as, lest, such ... that, so ... that
-
-	therefore, consequently, so
-	
-	... mek için			--> in order to, so as to, to + Ving
-	... mek için, … sın diye 	--> in order that, so that + clause
 	
 	
 BECAUSE
@@ -298,13 +291,37 @@ as a result of - .. neticesinde
 
 --> Opinion
 	in my opinion, as far as i’m concerned, to my mind, i think, it seems to me that
-
+		- at least, as far as I can see, he'll be fine
+		- there was no other way to look at it as far as she was concerned
+		- the wheels started spinning in my mind
+		- I am quite clear in my mind that this means building on the existing programmes
+			Bunun mevcut programların üzerine inşa etmek anlamına geldiği konusunda oldukça netim
+		- I think, the birth rate will go down in my country in the next few years
+		- it seems to me that the situation really is very confused
+		- the committee adopted too many amendments, in my opinion
+		
 --> Explaining
 	as, since, in so far as, because, the reason why
-
+		- as she left the kitchen, her daughter followed her
+		- it has helped seen substantial creations in so far as game quality and design
+			Oyun kalitesi ve tasarımı açısından önemli kreasyonların görülmesine yardımcı oldu
+		- since the restaurant is located at a beach resort, it is a good choice for hungry people who have just finished exploring the beach
+			Restoran bir sahil beldesinde bulunduğundan, sahili keşfetmeyi yeni bitirmiş aç insanlar için iyi bir seçimdir
+		- I love to go to the cafe, because I like to see my friends
+			arkadaşlarımı görmeyi sevdiğimden, o kafeye gitmeyi seviyorum
+		- we have to understand the reason why we do these certain ceremonies in life
+			hayatta bu belli törenleri neden yaptığımızı anlamalıyız
+		
 --> Choice
 	or, whatever, whoever, neither ... nor, either ... or
-	
+		- I don't know how many times or how many ways I can say I'm sorry
+			bilmiyorum kaç kere ya da kaç şekilde özür dilerim diyebileceğimi
+		- whatever technique is employed, an electric generator is required
+			hangi teknik kullanılırsa kullanılsın, bir elektrik jeneratörü gereklidir
+		- she evidently saw this thief, whoever he may have been
+			her kimse bu hırsız, belli ki o hırsızı görmüş
+		
+		
 --> Manner
 	how, as though, as if
 	
@@ -463,7 +480,3 @@ as long as it takes- ne kadar gerekirse
 
 
 
-
-
-
-prepared by Uğur ARSLAN and His Students
