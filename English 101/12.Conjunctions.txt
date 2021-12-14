@@ -53,7 +53,6 @@ So is used to show a reaction or consequence.
       I ate a lot of cookies, so there are none left.
       I was feeling anxious, so I went home.
 
-	so that - böylece
 
 
 ---> TOO, ALSO, SO, AS WELL, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
@@ -167,6 +166,22 @@ So is used to show a reaction or consequence.
 	after, before, when, while, as, by the time, since, until, as soon as, so long as, eventually 
 	whenever, every time (that), the first time (that), the last time (that), the next time (that)
 	now that, meanwhile, in the meantime, in the past, currently, presently, at last, immediately, finally
+	
+		until/till	e kadar		I will stay up until midnight tomorrow
+						I wont say much till it’s time to go to bed
+		since		den beri	since when did we start following the rules?		ne zamandan beri kurallara uyduk?
+
+		Whenever/every time – ne zman ..-se,-sa
+					Every time we meet a problem, it always seems to be related to housing
+					Naturally i will come to you for advice whenever i feel in need of some
+
+		As long as / so long as – dığı sürece
+					As long as it is raining, i think i will stay at home
+					You can stay with us as long as you want to
+
+		as soon as/once – yapar yapmaz
+					I am going to get out and have a drink as soon as i have finished with the work
+					Once the Soviet Union collapsed, Russia Federation was founded in 1991
 
 
 --> Emphasis
@@ -191,8 +206,8 @@ So is used to show a reaction or consequence.
 
 
 --> Result (Consequence)
-	as a result, as a consequence, therefore, thus, consequently, hence, for this reason, due to, 
-	so, therefore, eventually, that’s why 
+	as a result, as a consequence, therefore = thus, consequently, hence, for this reason, due to, 
+	so, eventually, that’s why 
 
 
 --> Illustration
@@ -207,18 +222,30 @@ So is used to show a reaction or consequence.
 
 
 --> Contrast (Concession and Opposition)
-	however, but, yet, whereas, while, on the one hand, on the other hand
+	but, yet, whereas, while, on the one hand, on the other hand
 	as opposed to, on the contrary, otherwise, instead of
-	even though, although, though, whereas, while, even if, no matter, whatever, wherever, whenever, but for
+	even if, no matter, whatever, wherever, whenever, but for
 	however + adj/ adv
 	but ... anyway, but ... still, yet ... still
 	nevertheless, nonetheless
-	despite, in spite of
 	apart from, admittedly, all the same, up to a point, even so
+
+	although -->  much as
+
+	although, though, even though, much as, even if, despite the fact that, in spite of the fact that - ... e rağmen, ... se bile
+	
+		although + clause 	--> ... e rağmen	he can’t speak English although he has been attending a course for two years
+		though + clause 	--> ... e rağmen	though I knew the answer, I didn’t tell it
+		even though + clause	--> ... e rağmen	even though there weren’t enough funnds, the government decided to make new investments
+		despite + noun 		--> ... e rağmen	he went out despite the rain
+								he couldn’t succeed despite his effort
+		in spite of 		--> ... e rağmen	in spite of the rain, they had the party outside
+								he decided to go in spite of my objection
+								
 
 --> Condition
 	CÜMLE ALANLAR
-	on condition that, provided/providing that – şartıyla, koşuluyla
+	on condition that, provided that, providing that – şartıyla, koşuluyla
 	so long as, as long as – dığı sürece
 	unless – mezse, mazsa (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 
@@ -226,27 +253,50 @@ So is used to show a reaction or consequence.
 	in the event (that), supposing, if so - eğer öyleyse
 
 	whether or not, in order to, so that, otherwise, or (else)
+	
+	in case he comes back
+	as long as it takes - ne kadar gerekirse
+	
 
 --> Reason (Purpose / Cause and Effect)
 	CÜMLE ALANLAR
-	-dığı için
-	because, since, as
+	since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
 
+	because, since, as
+		because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
+		since all the buses were crowded, i took a taxi yesterday
+	
 	on the grounds that – mesi sebebiyle/gerekçesiyle
 
 	now that – artık … -dığına göre
+		Now that everybody is here, we can start the conference
+		Now that the work is finished, i am going to rest a few hours
+	
 	seeing that – madem ki
 		seeing that you have already made your decision, there isn't much I can do
 			madem çoktan kararını verdin, yapabileceğim pek bir şey yok
-	inas much as – çünkü 
+	
+	inas much as – çünkü
+		inas much as you couldnt make a decision, you should stop complaining about it
+	
 	in that – çünkü
 
 	so that, in order (to) (that), to, so as to, what this in mind, in fact, for fear that
 
 	as long as, so long as, inasmuch as, lest, such ... that, so ... that
+		as long as you want to, you can stay in this city
+		so long as you eat a well-branced diet you will be all right
+	
 	therefore, consequently, so
-	... mek için			--> in order to, so as to, to + Ving
-	... mek için, … sın diye 	--> in order that, so that + clause
+		... mek için			--> in order to, so as to, to + Ving
+		... mek için, … sın diye 	--> in order that, so that + clause
+
+	So, therefore, as a result, consequently, hence, that's why – bu yüzden, sonuç olarak
+		it was rather cold, so we had to stay at home
+		it hasnt rained for three months. Therefore, the farmers are having hard times
+		they left home late. They, therefore, misssed the bus (therefore)
+		there was a lot of noise in the neighborhood. Consequently, he had to move to another place
+		
 
 	BECAUSE
 	as a result of - nın sonucu olarak
@@ -261,35 +311,6 @@ So is used to show a reaction or consequence.
 
 	İSİM ALANLAR
 	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
-
-	
-	
-
-
---> AS
-as - olarak, gibi
-as regards - e gelince
-such as - gibi
-so as to - mek için
-inasmuch as - çünkü
-much as - e rağmen
-as far as - kadarı ile
-as for - e gelince
-as from - .. itibariyle
-as to - hakkında
-as of - den itibaren
-as well - de, da
-as well as - nın yanı sıra
-as in/with - de olduğu gibi
-as long as - dığı sürece
-so long as - dığı sürece
-as soon as - .. er .. mez
-as if - .. mış gibi
-as though - .. mış gibi
-just as - .. dığı gibi
-as a result - sonuç olarak
-as a result of - .. neticesinde
-
 
 
 --> Opinion
@@ -327,6 +348,7 @@ as a result of - .. neticesinde
 		
 --> Manner
 	how, as though, as if
+		- he behaved as if nothing had happened			hiçbir şey olmamış gibi davrandı
 	
 --> Generalisation
 	as a rule, for the most part, in general, generally, on the whole, overall, in most cases
@@ -340,10 +362,21 @@ as a result of - .. neticesinde
 --> relative adjectives
 	that, whatever, which, whichever
 
---> Choice
-	or, whatever, whoever, neither ... nor, either ... or
-	
-	
+
+
+
+
+due to, owing to, on account of, because of, in view of, by virtue of, as a result of		... den dolayı, ... yüzünden, ... sonucunda
+despite, inspite of, for all, notwithstanding							... e rağmen
+as well as, in addition to, besides, along with, coupled with, together with			... nın yanı sıra, ... ile birlikte
+in contrast to, as opposed to, contrary to, unlike						... nın aksine
+however, but, yet, nonetheless, nevertheless, even so, still					fakat, yine de
+because, as, since, now that, in that, given that, seeing that, knowing that, for		... dığı için, çünkü
+therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence, accordingly	bu yüzden, dolayısıyla
+moreover, furthermore, what is more, besides, in addition, additionally, also			dahası, ek olarak
+in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 	... niyetiyle, ... mek için
+
+
 
 
 
@@ -354,7 +387,7 @@ Cause and Effect	because					consequently 		so			because of
 			as/so long as				
 			inasmuch as – mademki gibi
 			now that - madem
-			so that
+			so that - ..sın diye, böylece
 			as
 			-------------------------------------------------------------------------------------------------------------
 Condition		if					otherwise		or (else)		in case of
@@ -385,9 +418,6 @@ Addition							moreover					in addition to
 
 
 Bağlaç eşleştime (Benzer anlamlar)
-although -->  much as
-despite --> in spite of -- ... e rağmen
-thus --> therefore
 such as --> like -- gibi
 because --> since -- çünkü
 otherwise --> or else
@@ -397,9 +427,6 @@ moreover --> in addition
 as well as --> in addition to
 thanks to -- sayesinde
 unlike -- ... nın aksine
-provided that -- ... şartıyla
-so that -- ... sın diye
-thus -- bu yüzden
 
 
 --> SEQUENCE WORDS
@@ -412,74 +439,27 @@ to start off with	thirdly
 
 
 
-
-... den dolayı, ... yüzünden, ... sonucunda 	--> due to, owing to, on account of, because of, in view of, by virtue of, as a result of
-... e rağmen 					--> despite, inspite of, for all, notwithstanding
-... nın yanı sıra, ... ile birlikte 		--> as well as, in addition to, besides, along with, coupled with, together with
-... nın aksine 					--> in contrast to, as opposed to, contrary to, unlike
-fakat, yine de					--> however, but, yet, nonetheless, nevertheless, even so, still
-... dığı için, çünkü				--> because, as, since, now that, in that, given that, seeing that, knowing that, for
-bu yüzden, dolayısıyla 				--> therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence, accordingly
-... e rağmen, ... se bile			--> although, though, even though, much as, even if, despite the fact that, in spite of the fact that
-dahası, ek olarak				--> moreover, furthermore, what is more, besides, in addition, additionally, also
-... niyetiyle, ... mek için 			--> in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 
-
-
-RAĞMEN YAPILARI
-although + clause 	--> ... e rağmen
-	He can’t speak English although he has been attending a course for two years
-though + clause 	--> ... e rağmen
-	Though I knew the answer, I didn’t tell it
-even though + clause	--> ... e rağmen
-	even though there weren’t enough funnds, the government decided to make new investments
-despite + noun 		--> ... e rağmen
-	He went out despite the rain
-	He couldn’t succeed despite his effort
-in spite of 		--> ... e rağmen
-	in spite of the rain, they had the party outside
-He decided to go in spite of my objection
-
-
-
-
-
---> EXAMPLES
-as soon as/once – yapar yapmaz
-	I am going to get out and have a drink as soon as i have finished with the work
-	Once the Soviet Union collapsed, capital flight became the most persistent of all post communist Russia’ economic headaches
-
-As long as / so long as – dığı sürece
-	As long as it is raining, i think i will stay at home
-	You can stay with us as long as you want to
-
-Whenever/every time – ne zman ..-se,-sa
-	Every time we meet a problem, it always seems to be related to housing
-	Naturally i will come to you for advice whenever i feel in need of some
-
-Since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
-	Because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
-	Since all the buses were crowded, i took a taxi yesterday
-	As long as you want to, you can stay in this city
-	Now that everybody is here, we can start the conference
-	Now that the work is finished, i am going to rest a few hours
-	So long as you eat a well-branced diet you will be all right
-	In as much as you couldnt make a decision, you should stop complaining about it
-
-So, therefore, as a result, consequently, hence, thats why – bu yüzden sonuç olarak
-	It was rather cold, so we had tos tay at home
-	It hasnt rained for three months. Therefore, the farmers are having hard times
-	They left home late. They, therefore, misssed the bus (therefore)
-	There was a lot of noise in the neighborhood. Consequently, he had to move to another place
-
-
-Until/till – e kadar
-	I will stay up until midnight tomorrow
-	I wont sayy much till it’s time to go to bed
-
-Since when did we start following the rules? * ne zmandan beri kurallara uyduk?
-He behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
-in case he comes back
-as long as it takes- ne kadar gerekirse
-
-
+--> AS
+as - olarak, gibi
+as regards - e gelince
+such as - gibi
+so as to - mek için
+inasmuch as - çünkü
+much as - e rağmen
+as far as - kadarı ile
+as for - e gelince
+as from - .. itibariyle
+as to - hakkında
+as of - den itibaren
+as well - de, da
+as well as - nın yanı sıra
+as in/with - de olduğu gibi
+as long as - dığı sürece
+so long as - dığı sürece
+as soon as - .. er .. mez
+as if - .. mış gibi
+as though - .. mış gibi
+just as - .. dığı gibi
+as a result - sonuç olarak
+as a result of - .. neticesinde
 
