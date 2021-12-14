@@ -1,5 +1,5 @@
-CONJUNCTIONS (CONNECTORS, LINKING WORDS)											     prepared by Uğur ARSLAN
-      - Coordinating Conjunctions														@arslanuguur
+CONJUNCTIONS (CONNECTORS, LINKING WORDS)												     prepared by Uğur ARSLAN
+      - Coordinating Conjunctions															@arslanuguur
             - for, and, nor, but, or, yet, so
       - Coordinating Conjunctions
             -- too, also, so, also
@@ -246,22 +246,23 @@ So is used to show a reaction or consequence.
 	... mek için			--> in order to, so as to, to + Ving
 	... mek için, … sın diye 	--> in order that, so that + clause
 
+	BECAUSE
+	as a result of - nın sonucu olarak
+	as things go - bu şekilde geliştiğinden
+	considering - göz önüne alarak
+	due to - sebebiyle
+	by virtue of - sayesinde
+	for the sake of - bu uğurda
+	in view of - bu bakış açısı ile
+	on grounds that - gerekçesiyle
+	whereas - buna karşılık
 
 	İSİM ALANLAR
 	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
 
 	
 	
-BECAUSE
-as a result of - nın sonucu olarak
-as things go - bu şekilde geliştiğinden
-considering - göz önüne alarak
-due to - sebebiyle
-by virtue of - sayesinde
-for the sake of - bu uğurda
-in view of - bu bakış açısı ile
-on grounds that - gerekçesiyle
-whereas - buna karşılık
+
 
 --> AS
 as - olarak, gibi
@@ -442,36 +443,36 @@ He decided to go in spite of my objection
 
 --> EXAMPLES
 as soon as/once – yapar yapmaz
-I am going to get out and have a drink as soon as i have finished with the work
-Once the Soviet Union collapsed, capital flight became the most persistent of all post communist Russia’ economic headaches
+	I am going to get out and have a drink as soon as i have finished with the work
+	Once the Soviet Union collapsed, capital flight became the most persistent of all post communist Russia’ economic headaches
 
 As long as / so long as – dığı sürece
-As long as it is raining, i think i will stay at home
-You can stay with us as long as you want to
+	As long as it is raining, i think i will stay at home
+	You can stay with us as long as you want to
 
 Whenever/every time – ne zman ..-se,-sa
-Every time we meet a problem, it always seems to be related to housing
-Naturally i will come to you for advice whenever i feel in need of some
+	Every time we meet a problem, it always seems to be related to housing
+	Naturally i will come to you for advice whenever i feel in need of some
 
 Since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
-Because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
-Since all the buses were crowded, i took a taxi yesterday
-As long as you want to, you can stay in this city
-Now that everybody is here, we can start the conference
-Now that the work is finished, i am going to rest a few hours
-So long as you eat a well-branced diet you will be all right
-In as much as you couldnt make a decision, you should stop complaining about it
+	Because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
+	Since all the buses were crowded, i took a taxi yesterday
+	As long as you want to, you can stay in this city
+	Now that everybody is here, we can start the conference
+	Now that the work is finished, i am going to rest a few hours
+	So long as you eat a well-branced diet you will be all right
+	In as much as you couldnt make a decision, you should stop complaining about it
 
 So, therefore, as a result, consequently, hence, thats why – bu yüzden sonuç olarak
-It was rather cold, so we had tos tay at home
-It hasnt rained for three months. Therefore, the farmers are having hard times
-They left home late. They, therefore, misssed the bus (therefore)
-There was a lot of noise in the neighborhood. Consequently, he had to move to another place
+	It was rather cold, so we had tos tay at home
+	It hasnt rained for three months. Therefore, the farmers are having hard times
+	They left home late. They, therefore, misssed the bus (therefore)
+	There was a lot of noise in the neighborhood. Consequently, he had to move to another place
 
 
 Until/till – e kadar
-I will stay up until midnight tomorrow
-I wont sayy much till it’s time to go to bed
+	I will stay up until midnight tomorrow
+	I wont sayy much till it’s time to go to bed
 
 Since when did we start following the rules? * ne zmandan beri kurallara uyduk?
 He behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
