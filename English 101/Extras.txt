@@ -1,6 +1,5 @@
-EXTRA INFORMATION															prepared by Uğur ARSLAN
-																		   @arslanuguur
-
+EXTRA INFORMATION																prepared by Uğur ARSLAN
+																			   @arslanuguur
 ---> GET
 I get up early every day				ben her gün erken kalkarım
 I got on a bus						otobüse bindim
