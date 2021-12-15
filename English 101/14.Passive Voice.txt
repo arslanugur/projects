@@ -2,8 +2,8 @@ the blunders are all there on the board, waiting to be made ...                 
     tahtada yapılmayı bekleyen tüm hatalar / gaflar / falsolar vardır ...                                                                                          
     
 
----> PASSIVE VOICE (Edilgen Çatı) 
-Tense                       Active                                        Passive V3                                                                           
+---> PASSIVE VOICE (Edilgen Çatı)                                         V3
+Tense                       Active                                        Passive                                                                           
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem                         The problem is solved by him
 Present Continuous          She is making a cake                          A cake is being made by her
@@ -34,25 +34,26 @@ EXAMPLES:
 she wasn't told                                                                         ona söylenmedi
 I was told to stay at home                                                              evde kalmam söylendi
 we were told not to leave the class                                                     bize sınıftan dışarı çıkılmamamız söylendi
-the child that was not embraced by the village, will burn it down to feel its warmth
-bullets only do their jobs after they are fired 
-the criminal was arrested as he came out of the bank.
-interest rates will probably be increased next year.
-who were you introduced to at the meeting? anyone interesting?
-the Christmas cakes are already being distributed.
-my grandfather was born in 1898.
-the grapes are picked in September. Then they are packaged and sent to shops.
-we haven’t been informed about the new price list yet.
-this book was written by John Grisham. Have you read it?
-when we arrived, our bags had already been taken to our room.
-your shirts will have been washed and ironed by 6pm.
-my car was being cleaned when it started to rain.
-the ambulance drivers are helped by volunteers.
-the Cathedral was built in the 14th Century.
-the roads are cleaned once a week.
-the Gioconda was painted by Leonardo da Vinci.
-"Catch Me If You Can" was directed by Steven Spielberg
-six people have been arrested in a raid (six arrested in raid)
+the child that was not embraced by the village, will burn it down to feel its warmth    köy tarafından kucaklanmayan çocuk, sıcaklığını hissetmek için köyü yakar
+bullets only do their jobs after they are fired                                         kurşunlar sadece ateşlendikten sonra işlerini yapar 
+interest rates will probably be increased next year                                     faiz oranları muhtemelen gelecek yıl artırılacaktır
+who were you introduced to at the meeting? anyone interesting?                          toplantıda kimlerle tanıştırıldın, ilginç herhangi biri? 
+the Christmas cakes are already being distributed                                       Noel pastaları şimdiden dağıtılıyor
+my grandmother was born in 1913                                                         babaannem 1913'de doğdu
+the grapes are picked in September. Then they are packaged and sent to shops            üzümler eylül ayında toplanır. daha sonra paketlenir ve dükkanlara gönderilir
+we haven’t been informed about the new price list yet                                   yeni fiyat listesi hakkında henüz bilgilendirilmedik
+this book was written by Aldous Huxley. Have you read it?                               Bu kitap Aldous Huxley tarafından yazılmıştır. Onu okudun mu? 
+when we arrived, our bags had already been taken to our room                            vardığımızda çantalarımız çoktan odamıza alınmıştı 
+your shirts will have been washed and ironed by 6 pm                                    gömlekleriniz akşam 6'ya kadar yıkanmış ve ütülenmiş olacak
+my car was being cleaned when it started to rain                                        arabam yağmur yağmaya başladığında temizleniyordu
+the ambulance drivers are helped by volunteers                                          Ambulans şoförlerine gönüllüler yardım ediyor 
+the Cathedral was built in the 14th Century                                             bu katedral 14üncü yüzyılda inşa edilmiş
+the roads are cleaned once a week                                                       yollar haftada bir kez temizlenir
+the Gioconda was painted by Leonardo da Vinci                                           Gioconda, Leonardo da Vinci tarafından boyandı 
+"Catch Me If You Can" was directed by Steven Spielberg                                  "sıkıysa yakala" filmi Steven Spielberg tarafından yönetildi
+six people have been arrested in a raid (six arrested in raid)                          operasyonda altı kişi tutuklandı 
+the criminal was arrested as he came out of the bank                                    suçlu bankadan çıkarken tutuklandı
+I want to live the life is chosen by myself, not what is offered to me                  ben bana sunulan değil, kendi seçtiğim hayatı yaşamak istiyorum
 
 
 
