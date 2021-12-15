@@ -1,9 +1,14 @@
-CAUSATIVES (Ettirgen)
-have/get + sth + V3	
-have + someone + V1	
-make + someone + V1	
-get + someone + to + V1	
-let + someone + V1
+CAUSATIVES (Ettirgen)                                                                                                 prepared by Uğur ARSLAN, @arslanuguur
+have    + something + V3                     I had my hair cut yesterday
+get     + something + V3	                    our neighbours are getting their house painted
+have    + someone   + V1    + something      I had the dentist clean my teeth
+get     + someone   + to V1 + something      I get waiter to bring some water
+let     + someone   + V1    + something      my parents let me go abroad last summer
+allow   + someone   + to V1 + something      her father didn't allow her to go the party
+make    + someone   + V1	 	 + something      the boss made us overwork for the new project
+be made + to V1     + something              I was made to do all the exercises in one day by the teacher
+force   + someone   + to V1 + something      the boss forces her to work on Sunday
+
 
 ---> have + something + V3 
 --Bir işi başkasına yaptırtmak.
@@ -67,5 +72,3 @@ If there is a problem, let me know. (Bir sorun olursa bana bildir)
 
 
 
-
-prepared by Uğur ARSLAN and His Students
