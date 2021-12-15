@@ -1,5 +1,5 @@
-CONJUNCTIONS (CONNECTORS, LINKING WORDS)												     prepared by Uğur ARSLAN
-      - Coordinating Conjunctions		independent + independent										@arslanuguur
+CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, @arslanuguur
+      - Coordinating Conjunctions		independent + independent
             - for, and, nor, but, or, yet, so
       - Coordinating Conjunctions
             -- too, also, so, also
@@ -151,6 +151,7 @@ So is used to show a reaction or consequence.
 		- no sooner had he opened his eyes than the phone rang
 	--> WHETHER ... OR			--> ya da sevmesin	
 		- he will have to cooperate with us, whether he likes us or not
+		- Idk whether I will come or not
 	--> RATHER ... THAN
 		- i would rather stay at home than go out tonight
 	--> HARDLY ... WHEN			--> zar zor	
