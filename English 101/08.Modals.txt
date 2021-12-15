@@ -1,5 +1,5 @@
----> MODALS																		prepared by Uğur ARSLAN
-can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request						   @arslanuguur
+---> MODALS													     prepared by Uğur ARSLAN, @arslanuguur
+can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request
 may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
 must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
 shall		-acak, -ecek		(niyet)		intention, supposition
@@ -30,10 +30,30 @@ must			had to			must have V3		past unreal assumption		He must have changed cloth
 have to			had to			have to have V3
 
 
-be able to		was/were able to
+be able to		was/were able to				
 be supposed to		was/were supposed to
 
 
+
+--------------------------------------------------------------------------------------------------
+UNREAL STRUCTURES
+	you should have done		yapmalıydın				ama yapmadı
+	you ought to have done		yapmalıydın				ama yapmadı
+	you may have done		yapmış olabilirsin
+	you might have done		yapmış olabilirdin			ama yapmadın
+	you can't have done		yapmış olamazsın
+	you could have done		yapabilirdin, yapmış olabilirdin	ama yapmadın
+	you couldn't have done		yapmış olamazdın
+	you must have done		yapmış olmalısın
+	you mustn't have done		yapmamış olmalısın
+	you needn't have done		yapmana gerek yoktu 			ama boşuna yaptın
+	you didn't have to do		yapmak zorunda kalmadın			
+	you didn't need to do		yapmana gerek kalmadı
+	you would have done		yapmış olacaktın, yapardın		ama yapmadın		
+	you were to have done		yapman beklenirdi			ama yapmadın
+	you were supposed to do		yapman lazımdı				ama yapmadın
+	you were going to do		yapacaktın				ama yapmadın
+--------------------------------------------------------------------------------------------------
 
 --> COMPOUND MODALS
 will be able to V1			she will be able to walk soon
@@ -50,6 +70,25 @@ might be able to V1
 he will have to walk on a straight line
 he will have to live with the idea 
 you will have to figure out the rest, first
+
+-----------------------------------------------------------------------------------------------
+Obligation
+	you must do - zorundasın
+	you dont have to do, dont need to do, neednt do - zorunda değilsin
+	you had to do - yapmak zorunda kaldın
+	you didnt have to do, didnt need to do - yapmak zorunda kalmadın, yapmana gerek kalmadı
+Strong Advice
+	you must do - mutlaka yapmalısın
+	you mustn't do - sakın yapmamalısın
+	you should have done, ought to have done - yapmalıydın
+	you shouldn't have done, ought not to have done - yapmamalıydın
+Deduction
+	you must do - yapmalısın
+	you can't do - yapamazsın
+	you must have done - yapmış olmalı
+	you can't have done - yapmış olamaz
+	you couldn't have done - yapmış olamazdı
+-----------------------------------------------------------------------------------------------
 
 
 ---> EXAMPLES
@@ -98,9 +137,10 @@ you will have to figure out the rest, first
 	- May i borrow your pen for a moment? 		(Permission - Formal)
 
 --> MIGHT
-	- It might happen. 				(possibility)
-	- She might get a scholarship this year. 	(possibility)
-	- They might be eating lunch. 			(possibility)
+	- It might happen. 								(possibility)
+	- She might get a scholarship this year. 					(possibility)
+	- They might be eating lunch. 							(possibility)
+	- life is hard enough already. you never know what someone might be going through. just be kind
 
 --> WILL
 	- I will come back next year. 							(future time)
