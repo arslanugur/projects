@@ -1,6 +1,6 @@
 CAUSATIVES (Ettirgen)                                                                                                 prepared by Uğur ARSLAN, @arslanuguur
 have    + something + V3                     I had my hair cut yesterday
-get     + something + V3	                    our neighbours are getting their house painted
+get     + something + V3                     our neighbours are getting their house painted
 have    + someone   + V1    + something      I had the dentist clean my teeth
 get     + someone   + to V1 + something      I get waiter to bring some water
 let     + someone   + V1    + something      my parents let me go abroad last summer
