@@ -431,10 +431,10 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		*nearly - neredeyse
 	
 	Usage of Adverbs
-	-adverbs can be used to modify verbs: he played badly
-	-adverbs can be used to modify adverbs: she works incredibly quickly, quite hard
-	-adverbs can be used to modify adjectives: he is seriously ill, very good
-	-adverbs can be used to modify sentences: unfortunately, accordingly, actually
+		- adverbs can be used to modify verbs: he played badly
+		- adverbs can be used to modify adverbs: she works incredibly quickly, quite hard
+		- adverbs can be used to modify adjectives: he is seriously ill, very good
+		- adverbs can be used to modify sentences: unfortunately, accordingly, actually
 
 ---> QUANTIFIERS (2018)
 	Belirteç - İsmin önüne gelip ismi miktar anlamındaniteleyen kelime
@@ -823,330 +823,361 @@ Pedagogical Grammar (and Profiency) 25 Questions
 			“the man who is talkin over there is our boss”
 	- Non-defining relative clause – tanım gerektirmeyen
 		Non-defining relative clause gives us info that is not essential
-	-Mutlaka virgül ile ayır, ekstra bilgi için
-	“My uncle, who lives my work, is younger than me”
-	“My uncle, who lives in Ankara, is younger than me”
-	“she sold her bike, which was white” 
-	“Mr. Orange, whose books are about science, is writing a new book”
-	Omission of Relative Pronoun
-	We cant omit relative pronoun when it is the subject of clause
-	“the actor who died yesterday was very popular” – burda omit olmaz
-	“the car which is expensive cant be bought” – atamayız
-	We can omit relative pronoun when it is object of the clause
-	“the book (which) I bought yesterday is very interesting ”
-	“the applicant (whom) we interviewed yesterday was suitable for the job”
-	Reduction of Relative Clause – değişiklikler olması
-	If there is a subject i n a relative clause And relative pronoun is object of the clause, we cant do reduction
-	“the boy whom I saw was happy” – reduction olmaz
-	“I always help my neighbor, whom I love very much”
-	Reduction özne durumunda olduğu zman
-	“I saw the man who was happy” – who özne durumunda
-	Active Clauses for reduction
-	Simple present, present continuous, sipmle ast, past continuous, simple future = verb + ing for actives
-	“the boy who plays football is my best friend”
-	“the boy playing football is my best friend” 
-	“i know the man sitting over there”
-	“the girl who solved the problem was smiling”
-	“the teacher helping students did her best”
-	“I must call the man who will arrange the meeting”  normal form
-	“I must call the man arranging the meeting” future form
-	Past perfect, past simple, and present perfect : having + verb3
-	“the man who had gone before they arrived was not known”
-	“the man having göne before they arrived was not known” – perfect form
-	“She is talking those who has neglected their work”
-	“she is talking those having neglected their work” – perfect form
-	“I had a problem with the secretary who started last week”
-	“I had a problem with the secretary having started last week” – perfect form
+		-Mutlaka virgül ile ayır, ekstra bilgi için
+			“My uncle, who lives my work, is younger than me”
+			“My uncle, who lives in Ankara, is younger than me”
+			“she sold her bike, which was white” 
+			“Mr. Orange, whose books are about science, is writing a new book”
+	- Omission of Relative Pronoun
+		We cant omit relative pronoun when it is the subject of clause
+			“the actor who died yesterday was very popular” – burda omit olmaz
+			“the car which is expensive cant be bought” – atamayız
+		We can omit relative pronoun when it is object of the clause
+			“the book (which) I bought yesterday is very interesting ”
+			“the applicant (whom) we interviewed yesterday was suitable for the job”
+	- Reduction of Relative Clause – değişiklikler olması
+		If there is a subject i n a relative clause And relative pronoun is object of the clause, we cant do reduction
+			“the boy whom I saw was happy” – reduction olmaz
+			“I always help my neighbor, whom I love very much”
+			Reduction özne durumunda olduğu zman
+			“I saw the man who was happy” – who özne durumunda
+	- Active Clauses for reduction
+		Simple present, present continuous, sipmle ast, past continuous, simple future = verb + ing for actives
+			“the boy who plays football is my best friend”
+			“the boy playing football is my best friend” 
+			“i know the man sitting over there”
+			“the girl who solved the problem was smiling”
+			“the teacher helping students did her best”
+			“I must call the man who will arrange the meeting”  normal form
+			“I must call the man arranging the meeting” future form
+			Past perfect, past simple, and present perfect : having + verb3
+			“the man who had gone before they arrived was not known”
+			“the man having göne before they arrived was not known” – perfect form
+			“She is talking those who has neglected their work”
+			“she is talking those having neglected their work” – perfect form
+			“I had a problem with the secretary who started last week”
+			“I had a problem with the secretary having started last week” – perfect form
 	
-	TO BE + adjective
-	The people who are happy with their family are lucky
-	The people happy with their family are lucky
+		TO BE + adjective
+				The people who are happy with their family are lucky
+				The people happy with their family are lucky
 
-	BE + prepositional phrase
-	The book which is on the shelf was bought by him
-	The book on the shelf was bought by him
+		BE + prepositional phrase
+				The book which is on the shelf was bought by him
+				The book on the shelf was bought by him
 
-	TO + Infinitive
-	After the first, the second, the last, the only and superlatives the relative pronoun can be omitted
-	“he was the last person who arrived at home” == “He was the last person to arrive”
-	“he is the last man who arrived yesterday” == “he is the last man to have arrived yesterday”
+		TO + Infinitive
+			After the first, the second, the last, the only and superlatives the relative pronoun can be omitted
+				“he was the last person who arrived at home” == “He was the last person to arrive”
+				“he is the last man who arrived yesterday” == “he is the last man to have arrived yesterday”
 	
-	Passive Clauses for reduction
-	Simple present/simple past = verb3 
-	“the school that was built last year is a primary school” – “the school built last year is a primary school”
-	“the driver who is often warned by the poliçe is this one”—“the driver warned by the ploice is this one”
-	Present perfect/past perfect/simple past
-	“the car which had been sold by him belonged to his brother”
-	“the car having been sold by him belonged to his brother” reduced form
-	“the room that has been cleaned smells nice”  “the room having been cleaned smells nice”
-	“I found the key which was dropped by him” “I found the key having been dropped by him”
-	REDUCTION OF CONTINUOUS TENSES IN PASSIVE CLAUSES
-	“the issue which is being discussed now is important” – “the issue being discussed now is important”
-	“the issue which was being discussed was important”--”the issue being discussed was important”
-	TO + Infinitive
-After the first, the second, the last, the only and superlatives the relative pronoun can be omitted
-	“It was the last book which was bought”—“It was the last book to be bought”
+	- Passive Clauses for reduction
+		Simple present/simple past = verb3 
+				“the school that was built last year is a primary school” – “the school built last year is a primary school”
+				“the driver who is often warned by the poliçe is this one”—“the driver warned by the ploice is this one”
+		Present perfect/past perfect/simple past
+				“the car which had been sold by him belonged to his brother”
+				“the car having been sold by him belonged to his brother” reduced form
+				“the room that has been cleaned smells nice”  “the room having been cleaned smells nice”
+				“I found the key which was dropped by him” “I found the key having been dropped by him”
+		REDUCTION OF CONTINUOUS TENSES IN PASSIVE CLAUSES
+				“the issue which is being discussed now is important” – “the issue being discussed now is important”
+				“the issue which was being discussed was important”--”the issue being discussed was important”
+		TO + Infinitive
+			After the first, the second, the last, the only and superlatives the relative pronoun can be omitted
+				“It was the last book which was bought”—“It was the last book to be bought”
 
-- Cleft Sentences (Yarık Cümle)
-It was John who broke the window
-This is the house that he built
+	- Cleft Sentences (Yarık Cümle)
+			It was John who broke the window
+			This is the house that he built
 
-- Subjectives (Wish, Suggestion) (İstek kipli cümleler)
-If I were you, I would do
-I suggest that he play the guitar
-I suggest that you be here
-
-
+	- Subjectives (Wish, Suggestion) (İstek kipli cümleler)
+			If I were you, I would do
+			I suggest that he play the guitar
+			I suggest that you be here
 
 
--CONJUNCTIONS
-Coordinating Conjunctions (2017)
-for, and, nor, but, or, yet, so  (FANBOYS)
-It is a type of conjunction that links two independent sentence or two words
--i enjoyed there, but i didnt stay
--i bought pencil and eraser
-bu iki cümlede independent yani tek başlarına anlamları var
-
-subordinating de bu yok anlamı olmayan cümlede oluyor
-bir independent bi de dependent yani
-when i was there, i was sad 
-
-Subordinating Conjunctions
-SEBEP: because, since, in that
-ZITLIK: although, while, though, except
-ŞART: if, whether
-DURUM: as, as if, as though
-ZAMAN: after, as soon as, as long as
-YER: where, wherever
-AMAÇ: in order that, so that
 
 
-- Noun Clauses
-Cümlede isim görevi gören cümlecik
-A noun clause is a dependent clause that acts as a noun
-It can be used as the subject or the object of the sentence
-Hepsi isim gibi olacak bi şeyi nitelemesine gerek yok nitelerse sıfat olur zaten
-Pronoun yani zamirde nasıl oluyorsa benzer yolla cümle versiyonu olarak düşün..
-I will buy a computer   I will buy what I want (ismin yerine kullanılır)
-Idk when he is coming
-The fact that he is happy must not be forgetten
-She is excited about where we are going to visit
-I love football  Football is my life
-That he is happy (his happiness) is important
-He says that he goes to Antalya for holiday every summer
-Idk where I can go
-He wants to find a place where he can go – çünkü relative clause
-I saw a man that was running  çünkü relative clause
-	Noun clauses can be used as subject of a sentence
-	What causes so many difficulties in the project is laziness
-	The fact that he is not studying is annoying
-	Whether he will try hard is not certain
-	Noun Clause as the object
-	Noun clauses can be used as object of a sentence
-	“this book describes how succeed in an exam”
-	“I dont believe that he will solve this problem”
-	“She will reveal whether/if she will join us”	
-	Noun Clause as the object of a Preposition
-	Noun clause, preposition sonrası gelebilir
-	Noun clauses can be used as object of a preposition
-	“He always engages in what he cant do” – o her zman yapamadığı şeylere dahil olur
-	“they should interfere in what their son plans to do” – oğullarının yapmayı plandığına müdahale etmeliler
-	“He has to be concerned about whether his bro studies”
-	Noun clause with Infinitives
-	Infinitivelerle kullanılan noun clause
-	Some noun clauses can be used with infinitives following question words
-	“Idk where I should go”  “Idk where to go”
-	“Idk how I can carry out this project” ”Idk how to carry out this project” 
-	Noun Clauses with Whether /If or not
-	When noun clauses are used with whether, “or not” can be used after whether, at the end of the sentence or can be omitted
-	“I am not sure whether the meeting will be put off or not”
-	“I am not sure whether or not the meeting will be put off”
-	“I am not sure whether the meeting will be put off”
-	Noun clauses with whether/If  or not
-	When noun clauses are used with if, “or not” must be used at the end of the sentence or can be omitted
-	“I am not sure if the meeting will be put off or not”
-	“I am not dsure if the meeting will be put off”
-	Noun Clauses with Whether/If or not
-	“if” cannot be used at the beginning of a sentence
-	“If/Whether this is important or not, will be revealed” if kullanılmaz
-	 “IF” cannot be used with infinitives
-	“I cant decide whether to go or not”   Idk if to go or not
-	“Whether” is also used to mean “it doesnt matter if”  - olsa da olmasa da 
-	“He always said what he thought, whether it was polite or not”olsa da olmasa da farketmez
+---> CONJUNCTIONS
+	Coordinating Conjunctions (2017)
+		for, and, nor, but, or, yet, so  (FANBOYS)
+			It is a type of conjunction that links two independent sentence or two words
+			- i enjoyed there, but i didnt stay
+			- i bought pencil and eraser
+			bu iki cümlede independent yani tek başlarına anlamları var
+
+			subordinating de bu yok anlamı olmayan cümle de oluyor
+			bir independent bi de dependent yani
+			when i was there, i was sad 
+
+	Subordinating Conjunctions
+		SEBEP: because, since, in that
+		ZITLIK: although, while, though, except
+		ŞART: if, whether
+		DURUM: as, as if, as though
+		ZAMAN: after, as soon as, as long as
+		YER: where, wherever
+		AMAÇ: in order that, so that
+
+
+---> NOUN CLAUSES
+		Cümlede isim görevi gören cümlecik
+		A noun clause is a dependent clause that acts as a noun
+		It can be used as the subject or the object of the sentence
+		Hepsi isim gibi olacak bi şeyi nitelemesine gerek yok nitelerse sıfat olur zaten
+		Pronoun yani zamirde nasıl oluyorsa benzer yolla cümle versiyonu olarak düşün..
+			I will buy a computer   I will buy what I want (ismin yerine kullanılır)
+			Idk when he is coming
+			The fact that he is happy must not be forgetten
+			She is excited about where we are going to visit
+			I love football  Football is my life
+			That he is happy (his happiness) is important
+			He says that he goes to Antalya for holiday every summer
+			Idk where I can go
+			He wants to find a place where he can go – çünkü relative clause
+			I saw a man that was running  çünkü relative clause
+	
+		Noun clauses can be used as subject of a sentence
+			What causes so many difficulties in the project is laziness
+			The fact that he is not studying is annoying
+			Whether he will try hard is not certain
+	
+		Noun Clause as the object
+			Noun clauses can be used as object of a sentence
+				“this book describes how succeed in an exam”
+				“I dont believe that he will solve this problem”
+				“She will reveal whether/if she will join us”	
+		
+		Noun Clause as the object of a Preposition
+			Noun clause, preposition sonrası gelebilir
+			Noun clauses can be used as object of a preposition
+				“He always engages in what he cant do” – o her zman yapamadığı şeylere dahil olur
+				“they should interfere in what their son plans to do” – oğullarının yapmayı plandığına müdahale etmeliler
+				“He has to be concerned about whether his bro studies”
+		Noun clause with Infinitives
+			Infinitivelerle kullanılan noun clause
+			Some noun clauses can be used with infinitives following question words
+				“Idk where I should go”  “Idk where to go”
+				“Idk how I can carry out this project” ”Idk how to carry out this project” 
+		Noun Clauses with Whether /If or not
+			When noun clauses are used with whether, “or not” can be used after whether, at the end of the sentence or can be omitted
+				“I am not sure whether the meeting will be put off or not”
+				“I am not sure whether or not the meeting will be put off”
+				“I am not sure whether the meeting will be put off”
+		Noun clauses with whether/If  or not
+			When noun clauses are used with if, “or not” must be used at the end of the sentence or can be omitted
+				“I am not sure if the meeting will be put off or not”
+				“I am not dsure if the meeting will be put off”
+		Noun Clauses with Whether/If or not
+			“if” cannot be used at the beginning of a sentence
+			“If/Whether this is important or not, will be revealed” if kullanılmaz
+	 		“IF” cannot be used with infinitives
+				“I cant decide whether to go or not”   Idk if to go or not
+			“Whether” is also used to mean “it doesnt matter if”  - olsa da olmasa da 
+				“He always said what he thought, whether it was polite or not”olsa da olmasa da farketmez
 	
 
 - Adverbial Clauses
-	Zarf cümleciği
-	Cümlecik olarak zarfın yaptığı işi yapar
-	Adverb clauses are dependent clauses that function as adverbs
-	-I went to school yesterday  I went to school before he arrived
+		Zarf cümleciği
+		Cümlecik olarak zarfın yaptığı işi yapar
+		Adverb clauses are dependent clauses that function as adverbs
+			- I went to school yesterday  I went to school before he arrived
 	
-	Adverbs of Time
-		Sub. Conj: before, after, by the time, when, while, whenever, since, soon, as soon as, once, until
-		I was ill when he visited me
-		After we finished our work, we left
-		By the time he arrived, I was busy
+		Adverbs of Time
+			Sub. Conj: before, after, by the time, when, while, whenever, since, soon, as soon as, once, until
+				I was ill when he visited me
+				After we finished our work, we left
+				By the time he arrived, I was busy
 	
-Adverbs of Condition
-		If, whether or not, provided, even if, only if, unless, in case
-		If you want to save money, do not buy anything
-		He always says what he thinks, whether it is polite or not – olsa da olmasa da
-		If you help us, we will do our best
+		Adverbs of Condition
+			If, whether or not, provided, even if, only if, unless, in case
+			If you want to save money, do not buy anything
+			He always says what he thinks, whether it is polite or not – olsa da olmasa da
+			If you help us, we will do our best
 	
-Adverbs of Reason (Cause and Effect)
-	Because, as, since, in order that, now that, inasmuch as
-	Since he was very tired, he didnt come with us  since –dığı için zarf görevinde 		
-Adverbs of Contrast
-	although, though, while, even though, whereas
-	he always smile although he has problems
+		Adverbs of Reason (Cause and Effect)
+			Because, as, since, in order that, now that, inasmuch as
+				Since he was very tired, he didnt come with us  since –dığı için zarf görevinde 		
+	
+		Adverbs of Contrast
+			although, though, while, even though, whereas
+				he always smile although he has problems
  
-	Adverbs of Place
-		anywhere, everywhere, wherever
-	You cant find this book wherever you go
+		Adverbs of Place
+			anywhere, everywhere, wherever
+				You cant find this book wherever you go
 	
-Adverbs of Manner
-	As if, as though
-	He is speaking as if he were depressed  gerçek değil --past
-	He looks as if he knows the truth  gerçek olabilir –present
+		Adverbs of Manner
+			As if, as though
+				He is speaking as if he were depressed  gerçek değil --past
+				He looks as if he knows the truth  gerçek olabilir –present
 
-Adverbs of Purpose
-	So that, for purpose that, for fear that, lest
-	He does jogging so that he won’t get fat
-	They always take some money in case they need
-	I always hide documents lest someone may see them  birileri görür diye
+		Adverbs of Purpose
+			So that, for purpose that, for fear that, lest
+				He does jogging so that he won’t get fat
+				They always take some money in case they need
+				I always hide documents lest someone may see them  birileri görür diye
 	
-Adverbs of Comparison
-	than, so...as
+		Adverbs of Comparison
+			than, so...as
 
 	RELATIVE CLAUSE, ADVERBIAL CLAUSE, NOUN CLAUSE
-	He visited me on a day when I was busy  Relative  ismi niteleyen sıfat var, kendin önce isim gelmiş
-	Idk when he visited me  Noun Clause  nesne görevinde
-	He visited me when I was busy   Adverbial Clause  nesne değil, ismi de nitelemiyor
+		He visited me on a day when I was busy  Relative  ismi niteleyen sıfat var, kendin önce isim gelmiş
+		Idk when he visited me  Noun Clause  nesne görevinde
+		He visited me when I was busy   Adverbial Clause  nesne değil, ismi de nitelemiyor
 		Biri bağımlı, biri bağımsız cümle
-	When he will come is not known  Noun Clause  özne görevinde
-	The year when he was born must be revealed  Relative Clause  ismi year niteliyor sıfat
-  	When she comes, I will tell her everything  Adverbial cümle nesnesi öznesi değil, ismi de nitelemiyor
+		When he will come is not known  Noun Clause  özne görevinde
+		The year when he was born must be revealed  Relative Clause  ismi year niteliyor sıfat
+  		When she comes, I will tell her everything  Adverbial cümle nesnesi öznesi değil, ismi de nitelemiyor
 			Zaman anlamında niteleme var
-	I will find where she is  öncesi isim yok, nesne görevinde  Noun Clause
-	We must find a place where we can stay  Relative  kendinden önce isim var, sıfat 
-	They must arrive before we finish the work  Adverbial zaman var nesne gerektiren fiil de yok
+		I will find where she is  öncesi isim yok, nesne görevinde  Noun Clause
+		We must find a place where we can stay  Relative  kendinden önce isim var, sıfat 
+		They must arrive before we finish the work  Adverbial zaman var nesne gerektiren fiil de yok
 	
 	REDUCTION OF ADVERBIAL CLAUSES OF TIME
-	When I was there, I worked hard  özne aynı kısaltılabilir
-	Yıldızlı olanlar istenirse omit yapılabilir
-	while*
-	Active Clause:
-		While he was going to meeting, he fell down  while going to meeting , he feel down
-						          going to meeting, he fell down
-		I was upset while I was ill yesterday  when gibi while kullanılırsa
-					             I was upset while ill yesterday
-	Passive Clause:	
-		While it was being washed, the glass got broken  While being washed, the glass got broken
-	After*
-	Active Clause:
-		After he worked/had worked for a year, he resigned from the company
-		-After working/having worked for a a year, …
-		-Having worked for a year, …
-	Passive Clause:
-		After he was fired/had been fired, he found another work
-		-after being (fired)/having been fired, …
-		-having been fired, …
-	Before
-		Active:
-		Before they arrived here, they called us  before arriving here, they called us
-		Passive:
-		Before I was robbed, I had some money for holiday  before being robbed, …
-	When
-		Active:
-		When she completed her work, she prepared dinner  On/Upon completing her work, …
-		When he is working, he never answers phone class when working, …
-		--while anlamında when var yukarda
-Passive:
-When he was compelled to work, he resigned  when compelled to work, he resigned
-When he was happy last week, he bought a present for me when happy last week, …
-		Until
+		When I was there, I worked hard  özne aynı kısaltılabilir
+		Yıldızlı olanlar istenirse omit yapılabilir
+		- while*
+			Active Clause:
+			While he was going to meeting, he fell down
+			while going to meeting , he feel down
+			going to meeting, he fell down
+			
+			I was upset while I was ill yesterday - when gibi while kullanılırsa
+			I was upset while ill yesterday
+			
+			Passive Clause:	
+			While it was being washed, the glass got broken
+			While being washed, the glass got broken
+	
+		- After*
+			Active Clause:
+			After he worked/had worked for a year, he resigned from the company
+			After working/having worked for a a year,
+			Having worked for a year,
+			
+			Passive Clause:
+			After he was fired/had been fired, he found another work
+			after being (fired)/having been fired,
+			having been fired,
+	
+		- Before
 			Active:
-			Until I found all details, I didnt do anything  Until finding all details, …
+			Before they arrived here, they called us
+				before arriving here, they called us
 			Passive:
-			Until he was chosen, he didnt feel happy Until chosen, …
-		Since 	
-because anlamındaki since değil, zaman anlamındaki since
+			Before I was robbed, I had some money for holiday
+				before being robbed,
+		- When
 			Active:
-since I arrived, I havnt seen him since arriving,
+			When she completed her work, she prepared dinner
+				on/upon completing her work,
+			When he is working, he never answers phone class
+				when working,
+			--while anlamında when var yukarda
 			Passive:
-			Since he was chosen, he hasnt gone anywhere since being chosen, …
+			When he was compelled to work, he resigned
+				when compelled to work, he resigned
+			When he was happy last week, he bought a present for me
+				when happy last week,
+		- Until
+			Active:
+			Until I found all details, I didnt do anything
+				Until finding all details, …
+			Passive:
+			Until he was chosen, he didnt feel happy 
+				Until chosen, …
+		- Since 	
+			because anlamındaki since değil, zaman anlamındaki since
+			Active:
+			since I arrived, I havent seen him
+				since arriving,
+			Passive:
+			Since he was chosen, he hasnt gone anywhere
+				since being chosen, …
 
 		REDUCTION OF ADVERBIAL CLAUSES OF CAUSE AND EFFECT
-		because, as, since**
+		- because, as, since**
 			Bunların üçü de atılmak zorunda
-Active:			
+			Active:			
 			Because she finished her work, she took a break  Finishing her work, …
-                Having finished her work, ...
+               			Having finished her work, ...
 			Because she had finished her work, she took a break
-			Because he is a father, he has a lot of responsibilities being a father, …
+			Because he is a father, he has a lot of responsibilities
+				being a father, 
 			Being tired now, he can’t help us
-			Tired now, he cant help us
-Passive:
-			Because he was fired from job, he was sorry  Being fired from job, …
+				tired now, he cant help us
+			Passive:
+			Because he was fired from job, he was sorry
+				Being fired from job,
 		
 		REDUCTION OF ADVERBIAL CLAUSES OF CONDITONAL AND CONTRAST
-		If/Unless
-		If he is fired, he will find another work  if fired, …
-		Unless it is fixed by Mr.Orange, the car will break down again unless fixed by Mr. Orange
-		Whether
-		Whether he is late or not, he never bothers to hurry  whether late or not, …
-		 Although
-		Although he was upset, he came with us Although upset, …
-		Although it was made in a short time, the cake was delicious  although made in a short time, …
+		- If/Unless
+			If he is fired, he will find another work
+				if fired,
+			Unless it is fixed by Mr.Orange, the car will break down again
+				unless fixed by Mr. Orange
+		- Whether
+			Whether he is late or not, he never bothers to hurry
+				whether late or not,
+		- Although
+			Although he was upset, he came with us
+				Although upset,
+			Although it was made in a short time, the cake was delicious
+				although made in a short time,
 
 
 
 > Types of Sentences
-- Declarative Mood (Statement)	       
-She ate two pizza
-- Interrogative Mood (Question) (2015)
-	It is a form of verb to ask a question. It can’t be used without a question mark
-	Are you happy?
-	Where were you?
-Did she eat two pizza?
-- Imperative Mood (Command)
-Eat two pizza
-- Exclamatory Mood (Exclamation) (2015)
-	A type of sentence showing strong emotion. It has always exclamatory mark at the end
-	-what a lovely day!
-	- How she ate two pizza!
+	- Declarative Mood (Statement)	       
+			She ate two pizza
+	- Interrogative Mood (Question) (2015)
+		It is a form of verb to ask a question. It can’t be used without a question mark
+			Are you happy?
+			Where were you?
+			Did she eat two pizza?
+	- Imperative Mood (Command)
+			Eat two pizza
+	- Exclamatory Mood (Exclamation) (2015)
+		A type of sentence showing strong emotion. It has always exclamatory mark at the end
+			what a lovely day!
+			How she ate two pizza!
 
-       > Sentence Structure
-- Simple Sentences
-A sentence containing only one independent clause – tek bir yargısı olan cümle
-They were playing football in the garden
-They will come here asap
-Some people have never been to there
-It is a nice book
-- Compound Sentences   (İki ana cümle, Bir coordinating)
-Minimum iki bağımsız cümle olmalı bağlaçla bağlanabilen
-A sentence type that contains at least two independent clauses
-He was very happy, and he was smiling
-I studied very hard; I didn’t fail the exam.
-He did best, but couldn’t have done anthing
-They were lucky (main sentence) but (coordinating) We weren’t (main clause)
-He woke up early and worked all day 
-- Complex Sentences (Bir ana cümle, bir de yardımcı-subordinating clause (bağlaçla bağlanmalı))
-En az bi bağımlı bi de bağımsız cümle olması gerekli
-A sentence type that contains at least an independent and a dependent clause
-It may contain more than one dependent clause
-Although he didnt study hard, he didnt fail
-He is never late (bağımlı) beacuse he is a punctual person(bağımsız)
-I will leave here(bağımsız) if I find a job(bağımlı)
-When they arrived, he was not ready although they called him
-When you leave home, please turn off the lights
-(If you are happy) I am happy
-- Complex - Compound Sentences  (En az iki main/independent clause, bir subordinating/dependent clause)
-	A sentence type that contains at least two independent clauses and a dependent clause
-	Although he missed the deadline(subo), he came to school to give his project, but the teacher didnt accept it
-	Some people fail to do sth(indep), but they never give up trying(indep) if they see a ray of hope (dependent)
-Although I lost my phone, I didn’t worry about it. I had fun during my holiday
-     Subordinating Clause                Main Clause                   Main Clause
+> Sentence Structure
+	- Simple Sentences
+		A sentence containing only one independent clause – tek bir yargısı olan cümle
+			They were playing football in the garden
+			They will come here asap
+			Some people have never been to there
+			It is a nice book
+	
+	- Compound Sentences   (İki ana cümle, Bir coordinating)
+		Minimum iki bağımsız cümle olmalı bağlaçla bağlanabilen
+		A sentence type that contains at least two independent clauses
+			He was very happy, and he was smiling
+			I studied very hard; I didn’t fail the exam.
+			He did best, but couldn’t have done anthing
+			They were lucky (main sentence) but (coordinating) We weren’t (main clause)
+			He woke up early and worked all day 
+	
+	- Complex Sentences (Bir ana cümle, bir de yardımcı-subordinating clause (bağlaçla bağlanmalı))
+		En az bi bağımlı bi de bağımsız cümle olması gerekli
+		A sentence type that contains at least an independent and a dependent clause
+		It may contain more than one dependent clause
+			Although he didnt study hard, he didnt fail
+			He is never late (bağımlı) beacuse he is a punctual person(bağımsız)
+			I will leave here(bağımsız) if I find a job(bağımlı)
+			When they arrived, he was not ready although they called him
+			When you leave home, please turn off the lights
+			(If you are happy) I am happy
+
+	- Complex - Compound Sentences  (En az iki main/independent clause, bir subordinating/dependent clause)
+		A sentence type that contains at least two independent clauses and a dependent clause
+			Although he missed the deadline(subo), he came to school to give his project, but the teacher didnt accept it
+			Some people fail to do sth(indep), but they never give up trying(indep) if they see a ray of hope (dependent)
+			Although I lost my phone, I didn’t worry about it. I had fun during my holiday
+     			Subordinating Clause                Main Clause                   Main Clause
 
 
 
@@ -1164,97 +1195,102 @@ Although I lost my phone, I didn’t worry about it. I had fun during my holiday
 	Dash  ( - )				Teacher-Student, This method-developed in China-was successful
 
 
->COMMA
-Comma follows any elements that comes before independent clause in a sentence
--therefore, she went to school
--as a result, she got through the disease
--since she was busy, she didnt accept the work (dependent clause)
--“i have always studied on this issue”said she (direct quotation)
--hearing that her father was in hospital, Jane left work immediately
-		Comma is used before a coordinating conjunction that connect two independent clauses
+> COMMA
+	Comma follows any elements that comes before independent clause in a sentence
+		-therefore, she went to school
+		-as a result, she got through the disease
+		-since she was busy, she didnt accept the work (dependent clause)
+		-“i have always studied on this issue”said she (direct quotation)
+		-hearing that her father was in hospital, Jane left work immediately
+		
+	Comma is used before a coordinating conjunction that connect two independent clauses
 		-it was raining cats and dogs, so the meeting was called off
 		-she was very successful, but she was not recruited fort he position
-		When making a list, commas are the most common way to separate one list item from the next
+	When making a list, commas are the most common way to separate one list item from the next
 		-we got prepared, go out, and did shopping (a series of independent clauses)
 		-for dinner I had soup, fish, chicken, dessert, and coffee (a series of nouns)
 		-the actor was young, beautiful, kind, and intelligent. (a series of adjectives)
 		-the dog attacked, barked,  and bit him (a series of verbs)
-		Non-defining relative clause requires a comma
+	Non-defining relative clause requires a comma
 		-my grandma, who has always been nervous, is very upset nowadays
 		-Ankara, which is capital city of Turkey, is a crowded city.
-		Comma is used between coordinate adjectives
+	Comma is used between coordinate adjectives
 		-I saw well-built, handsome man yesterday –and yerine
-		Comma is used to enclose info not very important to the message or the sentence itself
+	Comma is used to enclose info not very important to the message or the sentence itself
 		-Footballers, unlike basketball players, earn too much – topçular basketçilerin aksine çok para kazanıyor
 		-Mrs. Brown, Michael’s aunt, always helps us with our studies
-		 Use a comma with date
+	 Use a comma with date
 		-September 23, 1995
 		-Tuesday, June 25, 1998
 		*18 August 2010
 		*January 2005
-		Comma is used before a quoted sentence
+	Comma is used before a quoted sentence
 		-He said, “I will never give up”
 
 
-		Comma is used to separate a city from the state of country
+	Comma is used to separate a city from the state of country
 		-Manchester, UK
 		-Ankara, Turkey
 		-Seattle, Washington
 
-		>EXCLAMATION MARK
-		To express exasperation, astonishment, or surprise, or to emphasize a comment or short, sharp phrase.
+> EXCLAMATION MARK
+	To express exasperation, astonishment, or surprise, or to emphasize a comment or short, sharp phrase.
 		-Look out! That’s unbelievable!
-		You can also use exclamation marks to mark a phrase as humorous, ironic or sarcastic.
+	You can also use exclamation marks to mark a phrase as humorous, ironic or sarcastic.
 		-That was clever! What a lovely work!
 		
-		>COLON
-		Colon is used to introduce lists
+> COLON
+	Colon is used to introduce lists
 		-There are three main reasons fort he success of a student: planning, studying and having rest
-		Colon is used to indicate a subtitle or to indicate a subdivision of a topic
+	Colon is used to indicate a subtitle or to indicate a subdivision of a topic
 		-Life in Province: A Personal View
-		Colon is used to introduce direct speech
+	Colon is used to introduce direct speech
 		 -the professor started his speech with a statement about the usage of technology in education: “fdfdf.”
-		Colon is used between independent sentences when the second sentence is an explanation for the first one.
--All 3 of their children are involved in the sports: Lee is a sprinter, Joe is a volleyball player, and Max is a footballer
+	Colon is used between independent sentences when the second sentence is an explanation for the first one.
+		-All 3 of their children are involved in the sports: Lee is a sprinter, Joe is a volleyball player, and Max is a footballer
 		
-		>SEMICOLON
-		Semi-colon is used instead of full stops to separate two independent clauses. 
-In such cases, the clauses are related in meaning but are separated grammatically.
-		-The manager is very kind. I love him. The manager is very kind; I love him
+> SEMICOLON
+	Semi-colon is used instead of full stops to separate two independent clauses. 
+	In such cases, the clauses are related in meaning but are separated grammatically.
+		The manager is very kind. I love him. The manager is very kind; I love him
 		You can go to library to study tomorrow; it is not crowded on Thursdays.
 	
-		Semicolon is used with transition words 
-(therefore, hence, as a result, furthermore, besides, in addition, moreover)
+	Semicolon is used with transition words 
+		(therefore, hence, as a result, furthermore, besides, in addition, moreover)
 		Used between two independent sentences
-		İki cmleyi bağlayacak bağlaç olmadığı için ; noktalı virgüle ihtiyaç var
-		-he was very ill; therefore, he didnt g oto school.
-		-he was very ill. Therefore, he didnt g oto school.
-		-he studied very hard; as a result, he passed the exam.
-		-They were very hardworking; moreover, they were generous.
+		İki cümleyi bağlayacak bağlaç olmadığı için ; noktalı virgüle ihtiyaç var
+			- he was very ill; therefore, he didnt g oto school.
+			- he was very ill. Therefore, he didnt g oto school.
+			- he studied very hard; as a result, he passed the exam.
+			- They were very hardworking; moreover, they were generous.
 		
-		Semicolon is used to separate units of a series containing commas
-		-for camping, I prepared a bag in which there are mat, sleeping bag, and pillow for sleeping; 
-lantern, batteries, and book for reading; pants, shoes, and socks for hiking 
+	Semicolon is used to separate units of a series containing commas
+			- for camping, I prepared a bag in which there are mat, sleeping bag, and pillow for sleeping; 
+				 lantern, batteries, and book for reading; pants, shoes, and socks for hiking 
 		
-		>QUOTATION MARK
-		Quotation mark is used to enclose direct quotations.
+> QUOTATION MARK
+	Quotation mark is used to enclose direct quotations.
 		-The manager said, “Where is the secretary?”
 
 
 > Essay Types
-- Opinion Essay
-- Narrative Essay
-- Compare and Contrast Essay
-- Argumentative Essay (Evidence and Facts) (Main Goal is to persuade the reader)
-- Cause and Effect Essay
-	Two or more events connected, Chain of Events
-	Explains and Analyzes why something happened how something occured
-- Process Essay (Rehberlik; Birşey nasıl yapılır, Sürecin adımları)
-	For guidance, to discuss how to do something
-	Focuses on steps/sequences
+	- Opinion Essay
+	- Narrative Essay
+	- Compare and Contrast Essay
+	- Argumentative Essay (Evidence and Facts) (Main Goal is to persuade the reader)
+	- Cause and Effect Essay
+		Two or more events connected, Chain of Events
+		Explains and Analyzes why something happened how something occured
+	- Process Essay (Rehberlik; Birşey nasıl yapılır, Sürecin adımları)
+		For guidance, to discuss how to do something
+		Focuses on steps/sequences
   
 
-      > Paragraph
-- Topic Sentence (Konu Cümlesi)
-- Supporrting Sentence
-- Concluding Sentence
+> Paragraph
+	- Topic Sentence (Konu Cümlesi)
+	- Supporrting Sentence
+	- Concluding Sentence
+
+
+
+
