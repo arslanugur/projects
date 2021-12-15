@@ -8,7 +8,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 > Part of Speech
--  NOUNS
+---> NOUNS
 		Singular vs Plural Nouns: 
                 	analysis-analyses           crisis-crises                     thesis-theses
                 	phenomenon-phenomena        criterion-criteria                datum-data
@@ -66,7 +66,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		Noun Phrase - can be subject and object too
 
 
-- Determiner (2016)
+---> DETERMINER (2016)
 		A determiner is a word used before a noun to modify it
 		Articles: a, an, the
 		Quantifiers: some, any
@@ -74,9 +74,8 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		Numbers: one, two, three
 		Demonstratives: this, that, these, those
 
-- Adjectives
 
-- Verbs
+---> VERB
 		Transitive Verbs – geçişli -  nesneli  a verb that takes a direct object
 			“he eats sugar and cake” “she like coffee
 		-Mono Transitive Verbs take only one direct object –he plays basketball
@@ -177,7 +176,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 			To understand each other
 
 
----> Adverbs
+---> ADVERB
 		he is quite happy  Sıfatı nitelemiş
 	        they walked slowly  Fiili nitelemiş
 	        nearly everybody came to the party  Belgisiz zamiri nitelemiş
@@ -185,7 +184,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 
----> Pronouns
+---> PRONOUN
 		Subject/Personal Pronouns
           		He loves you
 		        A type of pronoun used to substitute for a certain proper name or proper names
@@ -264,7 +263,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 
-- Adjectives
+---> ADJECTIVE
       	Types of Adjectives
 	        - Qualitative Adj: they are used to describe the quality of things
 		                          boring, helpful, beautiful, high, dirty, hot
@@ -340,7 +339,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 
-- ARTICLES
+---> ARTICLES
 		Indefinite Article (a/an)
 			  Used when the hearer/reader doesnt know exactly the thing or person that is referred to
 			  “an explosion can kill lots of people”
@@ -410,7 +409,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 			
 
 
-- Adverbs
+---> ADVERBS
 	Adds more information to a verb, an adjective or another adverbs in terms of place, time, manner, cause or degree
 	- Adverbs of Manner – HOW sth is done
 	- Adverbs of Place – WHERE sth happens or is done	
@@ -437,7 +436,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 	-adverbs can be used to modify adjectives: he is seriously ill, very good
 	-adverbs can be used to modify sentences: unfortunately, accordingly, actually
 
-- Quantifiers (2018)
+---> QUANTIFIERS (2018)
 	Belirteç - İsmin önüne gelip ismi miktar anlamındaniteleyen kelime
 	Some, several, a lot of, a great deal of, each, both, a number of, either
 	A number of books, either of projects, a great deal of effort
@@ -512,7 +511,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		-much, little/a little, a large/a great/a small amount/quantity of, a great/a good deal of
 
 
-- Conjunctions
+---> CONJUNCTIONS
 	- Correlative Conjunctions
 		They are used in pairs to connect two balanced clauses, phrases, or words
 		- both and			“he can both play football and climb a mountain”
@@ -638,7 +637,7 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 
-- Modifiers
+---> MODIFIERS
 		What is Modifier?
 		Niteleyen bi sözcük ya da sözcük grubu
 		A word or group of words that describes a noun or verb phrase.
@@ -649,178 +648,181 @@ Pedagogical Grammar (and Profiency) 25 Questions
 			-he was running fast
 		Modifiers can be divided into two categories:
 
---- Pre-Modifiers (2016)
-A word/group of words that comes before verbs/adj/other adv and describe them
-It is a word or clause thta comes before a noun, ver bor adjective
-Nitelediği şeyden önce gelen kelime
--he is very happy
--they are playing on the football pitch
--A man was climbing the high mountain 
--I bought a nice watch                                               
--They have a highly(sıfatı niteliyor) successful(ismi niteliyor) career
--A crying person makes me feel bad
--A cleaned house smells good
+		--- Pre-Modifiers (2016)
+			A word/group of words that comes before verbs/adj/other adv and describe them
+			It is a word or clause thta comes before a noun, ver bor adjective
+			Nitelediği şeyden önce gelen kelime
+				- he is very happy
+				- they are playing on the football pitch
+				- A man was climbing the high mountain 
+				- I bought a nice watch                                               
+				- They have a highly(sıfatı niteliyor) successful(ismi niteliyor) career
+				- A crying person makes me feel bad
+				- A cleaned house smells good
+
+			> Noun as Pre-Modifier
+				a noun that comes before another noun
+				- “She bought a flight ticket”
+				- “he works as bus driver”
+				- “An application form must be filled”
+
+			> Adjective as Pre-Modifier						> Adjective as Post-Modifier
+				adjective that comes before a noun					adj that come after noun to modify it
+				- “he had an expensive phone”						- “i can give you sth (which is) useful”
+				- “a successful career requires resolution”				- “He said that he saw someone familiar”
+				- “what he underlined was a significant point”
 
 
 
 
->Noun as Pre-Modifier
--a noun that comes before another noun
-“She bought a flight ticket”
-“he works as bus driver”
-“An application form must be filled”
 
->Adj. as Pre-Modifier
--adj that comes before a noun
-“he had an expensive phone”
-“a successful career requires resolution”
-“what he underlined was a significant point”
+			> Determiners as Pre-Modifier
+				articles, possessives, quantifiers and demonstratives that come before a noun
+				- “a book is enough for success”
+				- ”he called the man”
+				- “can i borrow your dict?”
+				- “their cat is very sweet”
+				- “some students have probs”
+				- “they brought a lot of docs”
+				- “who is that man?”
+				- “those shelves are empty”
 
-
-
->Determiners as Pre-Modifier
--articles, possessives, quantifiers and demonstratives that come before a noun
-“a book is enough for success”
-”he called the man”
-“can i borrow your dict?”
-“their cat is very sweet”
-“some students have probs”
-“they brought a lot of docs”
-“who is that man?”
-“those shelves are empty”
+			> Adverb as Pre-Modifier						> Adverbs as post-modifier
+				adverbs that come before a noun, adj, adv, or sentence			They come after verbs to modify them
+				- “Luckily, he arrived on time”						- “she finished the work successfully”
+				- “He was a pretty lucky boy”						- “they arrived late”
+				- “a really bad book was given”
 
 
->Adverb as Pre-Modifier
--adverbs that come before a noun, adj, adv, or sentence
-“Luckily, he arrived on time”
-“He was a pretty lucky boy”
-“a really bad book was given”
 
 
-Post-Modifiers (2016)
-a word or group of words that comes after verbs and nouns to describe them
-“he drove fast”, “It rained heavily”, “The museum which was there is closed”
--he has been given a work to be finished
--Mr. Brown, the boss, was angry
--the girl, in the car looks happy
--he had words unspoken
--I bought the book on the table (prepositional phrase)
--The girl succeeding the exam  was very happy. (relative clause)
--He played well (adverb)
--I found the book to be translated (Infinitive) aslında infinitive relative clause için bi kısaltma oluyor burda
+		--- Post-Modifiers (2016)
+			a word or group of words that comes after verbs and nouns to describe them
+				- “he drove fast”
+				- “It rained heavily”
+				- “The museum which was there is closed”
+				- he has been given a work to be finished
+				- Mr. Brown, the boss, was angry
+				- the girl, in the car looks happy
+				- he had words unspoken
+				- I bought the book on the table (prepositional phrase)
+				- The girl succeeding the exam  was very happy. (relative clause)
+				- He played well (adverb)
+				- I found the book to be translated (Infinitive) aslında infinitive relative clause için bi kısaltma oluyor burda
 
 
->Adverbs as post-modifier
-They come after verbs to modify them
-“she finished the work successfully”
-“they arrived late”
 
-> Relative Clause as Post-modifier
-“The man which was successful was promoted”
-“I saw a cat which was black”
-“the museum visited by people is very popular”
-“I know the girl coming towards us”
-“the book (which is) on the shelf has a lot of knowledge”
+			> Relative Clause as Post-modifier
+				- “The man which was successful was promoted”
+				- “I saw a cat which was black”
+				- “the museum visited by people is very popular”
+				- “I know the girl coming towards us”
+				- “the book (which is) on the shelf has a lot of knowledge”
 
->Infinitives as post-modifier
--Infinitives that come after a noun
-“She looks for bicycle to buy”
-“the book to be bought is very expensive”
-“The best universityto study at is not known”
-“It is the worst time to study”
+			> Infinitives as post-modifier
+				infinitives that come after a noun
+				- “She looks for bicycle to buy”
+				- “the book to be bought is very expensive”
+				- “The best university to study at is not known”
+				- “It is the worst time to study”
 
->Apposition as Post-Modifier
-Appositive that comes after a noun
-“Mike, my best friend, will come here”
-“Mr.Illata, our mathematics teacher”
-“I saw Charlie Stout, the best basketball player, in the town”
+			> Apposition as Post-Modifier
+				appositive that comes after a noun
+				- “Mike, my best friend, will come here”
+				- “Mr.Illata, our mathematics teacher”
+				- “I saw Charlie Stout, the best basketball player, in the town”
 
 
->Prepositional Phrase as Post-modifier
--prepositional phrases that come after noun
-“the woman in the bank is excited”
-“the cafe on the corner has a good menu”
-
->Adj as Post-Modifier
--adj that come after noun to modify it
-“i can give you sth (which is) useful”
-“He said that he saw someone familiar”
-
-- Prepositions
-	Prepositions are usually used in front of nouns or pronouns
-	They Show the relationship between the noun or pronoun and other words in a sentence
-	Prepositions in the expression of time
-	At, On, In
-	In + a period of time – in two days, in a week, in three years
-At dawn, at midday
-At Christmas, At Easter, on Christmas’ Eve, on my birthday, on Monday morning
-On 12th of sept
-with, within, into, from, against, towards, in, at, on, across, along, by
-	by vs until
-	“he will have arrived by midnight”, “he will work until midnight”
-	in the end, at the end
-	-in the end, we arrived there (finally)
-	-at the end of the week, i was exhausted
-	On time, In time
-	-“the ambulance arrived in time – yeteri zman var”, “the bus arrived on time – zmanında vardı”
-	-“i got to the class on time”
-	-at sea – iş gereği denizde
-	On the cover, on an island, on the coast of Turkey
-	-in front of  the library is in front of the post office
-	-at front of he was sitting at the front of the car
-
-- Interjections (2014)
-A part of speech to convey our emotion in a sudden or exclamatory way
-Yippie! (Joy), Ale! (Joy), wahoo! (Enthusiasm), OMGodness! (Surprise), Oh no!, My Gosh!, Huh!, Ouch!
+			> Prepositional Phrase as Post-modifier
+				prepositional phrases that come after noun
+				- “the woman in the bank is excited”
+				- “the cafe on the corner has a good menu”
 
 
->CLAUSE AND SENTENCE TYPES
-- Clauses (cümlecik - used with fanboys) vs Sentence (cümle – simple, compound, complex)
-	A group of words that has a subject and a verb
-	-she has just arrived
-	-when they come
-	-that he is happy
-	-if i had known 
-	- (you) come here!
+---> PREPOSITIONS
+		Prepositions are usually used in front of nouns or pronouns
+		They show the relationship between the noun or pronoun and other words in a sentence
 	
->Types of Clauses
+		Prepositions in the expression of time
+		at, on, in
+			In + a period of time – in two days, in a week, in three years
+			at dawn, at midday
+			at Christmas, at Easter, on Christmas’ Eve, on my birthday, on Monday morning
+			on 12th of sept
+		
+		with, within, into, from, against, towards, in, at, on, across, along, by
+		
+		by vs until
+			- “he will have arrived by midnight”, “he will work until midnight”
+	
+		in the end, at the end
+			- in the end, we arrived there (finally)
+			- at the end of the week, i was exhausted
+		
+		on time, in time
+			- “the ambulance arrived in time – yeteri zaman var”
+			- “the bus arrived on time – zamanında vardı”
+			- “i got to the class on time”
+		at sea – iş gereği denizde
+		on the cover, on an island, on the coast of Turkey
+		in front of - the library is in front of the post office
+		at front of - he was sitting at the front of the car
+
+---> INTERJECTIONS (2014)
+		A part of speech to convey our emotion in a sudden or exclamatory way
+			Yippie! (Joy), Ale! (Joy), wahoo! (Enthusiasm), OMGodness! (Surprise), Oh no!, My Gosh!, Huh!, Ouch!
+
+
+
+> CLAUSE AND SENTENCE TYPES
+	- Clauses (cümlecik - used with fanboys) vs Sentence (cümle – simple, compound, complex)
+		A group of words that has a subject and a verb
+			- she has just arrived
+			- when they come
+			- that he is happy
+			- if i had known 
+			- (you) come here!
+	
+> Types of Clauses
 	1-Independent Clause
 		A clause that has a subject and a verb
 		It has a complete thought and can stand alone as a sentence
-		“I have an exam”
-		“She helped them”
-		“They will do their best to contribute to his life”
-		“You were very tired”
+			“I have an exam”
+			“She helped them”
+			“They will do their best to contribute to his life”
+			“You were very tired”
 
 	2-Dependent (Subordinate) clause
 		Tek başına anlam içermez ama bağıl da olsa özne ve fiili var
 		It doesnt have a complete thought – belirtmek isediği yargı tam değil tek başına cümle olamaz
-It can stand alone as a sentence
-“when he arrives”
-“whether he will call us”
-“if you help him”
-“the man whom I helpred”
-Verbal Clause, Relative Clause, Noun Clause
-Üç clause’a bakalır
+		It can stand alone as a sentence
+			“when he arrives”
+			“whether he will call us”
+			“if you help him”
+			“the man whom I helpred”
 
+	Verbal Clause, Relative Clause, Noun Clause
+	Üç clause’a bakalır
 	Noun Clause
 	Adjective Clause
 	Adverbial Clause
+
 > Subordinate Clauses (Yan Cümlecikler)
-- Relative Clauses (and Reduced Sentences)
-A subordinate clause that defines a noun
-The boy who is standing there is twelve y/o
-I hate books that have open-ending
-My friends (who are) living in London miss me
-This is the house (that) he built
-The hotel (where) we stayed was very clean
-This is my friend whom I love
-	Defining relative clause – tanım gerektiren
-	-a defining relative clause gives essential info about a noun
-	“I like the cat which she brought last week”
-	“the man who is talkin over there is our boss”
-	Non-defining relative clause – tanım gerektirmeyen
-	-Non-defining relative clause gives us info that is not essential
+	- Relative Clauses (and Reduced Sentences)
+		A subordinate clause that defines a noun
+			The boy who is standing there is twelve y/o
+			I hate books that have open-ending
+			My friends (who are) living in London miss me
+			This is the house (that) he built
+			The hotel (where) we stayed was very clean
+			This is my friend whom I love
+	
+	- Defining relative clause – tanım gerektiren
+		a defining relative clause gives essential info about a noun
+			“I like the cat which she brought last week”
+			“the man who is talkin over there is our boss”
+	- Non-defining relative clause – tanım gerektirmeyen
+		Non-defining relative clause gives us info that is not essential
 	-Mutlaka virgül ile ayır, ekstra bilgi için
 	“My uncle, who lives my work, is younger than me”
 	“My uncle, who lives in Ankara, is younger than me”
