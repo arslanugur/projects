@@ -36,6 +36,8 @@ Compares to contrasting ideas or highlights an exception.
 
 It can also be used in a way that says, ‘not this, but that’.
       The noise wasn’t coming from a computer, but rather a phone.
+      
+      I know you have had a bad day but you don't have to take it out on me 
 
 --> OR
 Or highlights two choices.
@@ -57,11 +59,12 @@ So is used to show a reaction or consequence.
 
 ---> TOO, ALSO, SO, AS WELL, EITHER (TÜRKÇEDEKİ DAHİ (DE, DA ANLAMINDA))
 	--> ALSO
-		- He was also dressed for the exclusive party.
-		- Both William and Catherine would also attend.
-		- She also lost her sense of smell and taste.
-		- It’s very humid. Also, you can easily get sunburnt.
-		- I’ll phone you next week and we can discuss it then. Also, we need to decide who will be going to Singapore.
+		- getting no message, is also a message
+		- He was also dressed for the exclusive party
+		- Both William and Catherine would also attend
+		- She also lost her sense of smell and taste
+		- It’s very humid. Also, you can easily get sunburnt
+		- I’ll phone you next week and we can discuss it then. Also, we need to decide who will be going to Singapore
 		
 		
 	--> SO
