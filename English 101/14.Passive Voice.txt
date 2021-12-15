@@ -1,8 +1,5 @@
-the blunders are all there on the board, waiting to be made ...                                                       prepared by Uğur ARSLAN, @arslanuguur
-    tahtada yapılmayı bekleyen tüm hatalar / gaflar / falsolar vardır ...                                                                                          
-    
-
----> PASSIVE VOICE (Edilgen Çatı)                                         V3
+---> PASSIVE VOICE (Edilgen Çatı)                                                                                    prepared by Uğur ARSLAN, @arslanuguur    
+                                                                          V3
 Tense                       Active                                        Passive                                                                           
 -----------------------------------------------------------------------------------------------------------
 Present Simple              He solves the problem                         The problem is solved by him
@@ -54,6 +51,6 @@ the Gioconda was painted by Leonardo da Vinci                                   
 six people have been arrested in a raid (six arrested in raid)                          operasyonda altı kişi tutuklandı 
 the criminal was arrested as he came out of the bank                                    suçlu bankadan çıkarken tutuklandı
 I want to live the life is chosen by myself, not what is offered to me                  ben bana sunulan değil, kendi seçtiğim hayatı yaşamak istiyorum
-
+the blunders are all there on the board, waiting to be made                             tahtada yapılmayı bekleyen tüm hatalar / gaflar / falsolar vardır
 
 
