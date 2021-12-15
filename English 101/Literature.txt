@@ -5,219 +5,1350 @@ Literature
 >Literary Movements
 
           Connotation
-            An idea suggested by a word
-            Negative and positive
-            Changeable
-            “I feel like home here” positive –ev rahatlığı çağrıştırıyor
-            “He was blue after the event” negative –mavi üzüntüyü çağrıştırıyor
+            	An idea suggested by a word
+            	Negative and positive
+            	Changeable
+            		“I feel like home here” 	positive – ev rahatlığı çağrıştırıyor
+            		“He was blue after the event” 	negative – mavi üzüntüyü çağrıştırıyor
 
         Denotation
 		        Bir kelimeyi sözlük anlamıyla kullanmak
 		        The actual object or ideas a word refers to
 		        Actual meaning
-		        “I was at home”
-		        “She has a blue jacket”
+			        “I was at home”
+			        “She has a blue jacket”
 
 > Figures of Speech – Söz sanatları
-		    - Allusion
-			        A reference to another literary text, a piece of art, a place, chracter or situation
+		- Allusion
+		    	A reference to another literary text, a piece of art, a place, chracter or situation
 			        “ah, Krusty – This is your Waterloo”
 			        “Learned Faustus, to find the secrets of astronomy”
 			        “Graven in the book of Jove’s high firmament, did mount him up to scale Olympus’ top”
 			        Gönderme yapmak
 			        “senec and plato call me from thy lore to perfect wealth, my wit fort o endeavor”
 		      
-        - Anachronism
-                The action of attributing sth to a period to which it does not belong.
-                A type of chronological inconsistency
-                “peace! Count the clock”brutus –saat o dönemde yok
-                ”the clock has stricken three” Cassius
-                Döneme ait olmayan bi şey kullanmak
-          
-         - Anaphora
-			          Repetition of a word or expression at the beginning of clauses, sentences and lines
-			          “my life is my purpose, my life is my goal, my life is my inspiration”
+		- Anachronism
+                	The action of attributing sth to a period to which it does not belong.
+                	Döneme ait olmayan bi şey kullanmak
+			A type of chronological inconsistency
+                		“peace! Count the clock”brutus –saat o dönemde yok
+                		”the clock has stricken three” Cassius
+                	
+		- Anaphora
+			Repetition of a word or expression at the beginning of clauses, sentences and lines
+				“my life is my purpose, my life is my goal, my life is my inspiration”
 		     
-         - Apostrophe
-			          Speaking or adressing to someone or sth in the text –hitap var
-		        	  “o holy night!, the starsa re brightly shining!”
-                “o, pardon me, thou bleeding piece of earth”
-                ”oh! Stars and clouds and winds, ye are all about to mock me”
-                “farewell love and all thy laws forever”
-		      
-          - Archaism
-			          Using sayings, writing, or words that are old and out-dated
-			          “it is an ancient Mariner,
-                And he stoppeth one of three
-                By thy long rey beard and glittering eye,
-                Now wherefore stopp’st thou me”
+		- Apostrophe
+			Speaking or adressing to someone or sth in the text –hitap var
+		        	“o holy night!, the starsa re brightly shining!”
+                		“o, pardon me, thou bleeding piece of earth”
+                		”oh! Stars and clouds and winds, ye are all about to mock me”
+                		“farewell love and all thy laws forever”
+ 
+		- Archaism
+			Using sayings, writing, or words that are old and out-dated
+				“it is an ancient Mariner,
+                		And he stoppeth one of three
+                		By thy long rey beard and glittering eye,
+                		Now wherefore stopp’st thou me”
 
       		- Anti-thesis
-			          Birbirinine xot olan ifadelerin birlikte kullanılması
-			          Oxymoron ile karıştırma
-			          Using contradictory or opposing concepts, phrases, words or ideas in the same rsentence or statement
-			          “it was the best of times, it was the worst of times, 
-                it was the age of wisdom, it was the age of foolishness” bu cümle aynı zmanda anaphora örneği
-                “speech is silver, but silence is gold”
+			Birbirine zıt olan ifadelerin birlikte kullanılması
+			Oxymoron ile karıştırma
+			Using contradictory or opposing concepts, phrases, words or ideas in the same rsentence or statement
+				“it was the best of times, it was the worst of times, 
+                		it was the age of wisdom, it was the age of foolishness” bu cümle aynı zmanda anaphora örneği
+                		“speech is silver, but silence is gold”
 
-          - Oxymoron – a short self-contradictory phrase - İki zıt özellik aynı yapı içinde kullanılması
-	              known secret, awfully nice, orderly confusion, 
-                walking dead, terrible beauty, living death, dear enemy, sweet sorrow, wise fool
-	              a figure of speech in which two contradictory words used together
+		- Oxymoron
+			a short self-contradictory phrase
+			İki zıt özellik aynı yapı içinde kullanılması
+				known secret, awfully nice, orderly confusion, 
+				walking dead, terrible beauty, living death, dear enemy, sweet sorrow, wise fool
+			a figure of speech in which two contradictory words used together
 
-          - Chiasmus
+		- Chiasmus
 	              Inverting a word, phrase or idea in the following statement
-	              “love as if you would one day hate and hate as if you would one day love”
-	              “and these tend inward to me, and I tend outward to them”
-	              Bir cümlede söylenen bişey diğer cümlede ya da cümlelerde sırayla verilmişse, 
-                başta olan sona ya da sonda olan başa gibi
+	        	      “love as if you would one day hate and hate as if you would one day love”
+			      “and these tend inward to me, and I tend outward to them”
+	              Bir cümlede söylenen bişey diğer cümlede ya da cümlelerde sırayla verilmişse, başta olan sona ya da sonda olan başa gibi
 		      
-          - Conceit
-			          Bir metaphor türü
-			          An extended metaphor that is based on the comparison of two unlike things so as to create an extended meaning
-Birbiriyle hiçbir benzerlik olmayan şeyleri karşılaştırmak
-“how like a winter hath my absence been
-From thee, the pleasure of the fleeting year”
-Kış ile ayrılığı birbirine benzetiyor
-Sinek ve insan kanlarımız birleşiyormetaphysical poems
+		- Conceit
+			Bir metaphor türü
+			An extended metaphor that is based on the comparison of two unlike things so as to create an extended meaning
+			Birbiriyle hiçbir benzerlik olmayan şeyleri karşılaştırmak
+				“how like a winter hath my absence been
+				From thee, the pleasure of the fleeting year”
+			Kış ile ayrılığı birbirine benzetiyor
+			Sinek ve insan kanlarımız birleşiyormetaphysical poems
+			
 		-Euphemism
 			Using a less offensive or indirect expression for sth unpleasant
-			“passed away instead of died” yumuşatarak söylemek
-		-hyperbole
+				“passed away instead of died” - yumuşatarak söylemek
+		- Hyperbole
 			Mübağala, abartı
 			It is a figüre of speech in which exaggeration is used for emphasis
-			“my grandmother is as old as the hills”
-			“your suitcase weighs a ton”
-			“and i will love thee still, my dear, till a’ the seas gang dry”
-	“I have told you a million times”
-	“I’m so hungry, I can even eat the plate”
+				“my grandmother is as old as the hills”
+				“your suitcase weighs a ton”
+				“and i will love thee still, my dear, till a’ the seas gang dry”
+				“I have told you a million times”
+				“I’m so hungry, I can even eat the plate”
 
--imagery
+		- Imagery
 			Duyu organlarını kullanarak zihnimizde anlatılanları resmederiz
 			Descriptive language used to create images in the mind of the reader
 			Drawing meantal pictures in readers’ minds
-			“it was a rimy morning, and very damp. I had seen the damp lying on the outside”
+				“it was a rimy morning, and very damp. I had seen the damp lying on the outside”
 			Tasvir ile ilgili, koklamaya hitap eden tasvirler gibi
 		
-		-Irony
+		- Irony
 			Beklenen bir durumun bir şeyin tam tersi
-	A literary device in which words are used to express sth other than or the opposite of what is said
-Intention to convey opposite
-“there are dark clouds. A lovely day!”
+			A literary device in which words are used to express sth other than or the opposite of what is said
+			Intention to convey opposite
+				“there are dark clouds. A lovely day!”
 
-			Verbal Irony
+			--> Verbal Irony
 				Statement ile ilgili
-				“what a good decision..!”
-				“you are very funny..”
-				“Good Job!” For mocking (mock, ridicule others)
-			Situational Irony (2017)
+					“what a good decision..!”
+					“you are very funny..”
+					“Good Job!” For mocking (mock, ridicule others)
+			--> Situational Irony (2017)
 				Durumsal ironi, beklentinin dışına çıkılması
-				“The  ajör  station gets robbed”
-			Dramatic Irony (2017)
+					“The  ajar station gets robbed”
+			--> Dramatic Irony (2017)
 				Karakterin bilmediği ama seyircinin bildiği bi durum
-When the audience knows sth which the characters dont know	 
--Sarcasm
-It is a form of verbal irony – iğneleme
-A kind of a sharp and satirical utterance that is based on ironic language and wit
-“thanks for explaining that my eye cancer isnt gonna make me deaf”
+				When the audience knows sth which the characters dont know	 
 
--Kenning
+		- Sarcasm
+			It is a form of verbal irony – iğneleme
+			A kind of a sharp and satirical utterance that is based on ironic language and wit
+				“thanks for explaining that my eye cancer isnt gonna make me deaf”
+
+		- Kenning
 			A two-worded metaphor used in old english  ajör eth 	
 			Bone house: man kemik yığını
 			War sweat: blood
 			Whale road: sea
-		-Metaphor
+			
+		- Metaphor
 			A figure of speech that contains an implied comparison
 			Comparision without using the words such as “as” or ”like”
-			“Juliet is the sun”, “all the world’s a stage, all the men and women merely players”
-			“You are an angel”
-	“you are a lion”
-			“a good laugh is sunshine in a house”
-			“thy baited hooks shall tangle me no more”
--Simile
-	A figure of speech that makes comparison between two different things 
-by the words such as “as”or “like”
-	“you are like a lion, you are as brave as a lion”
-	“I wandered lonely as a cloud”
-	“you are like an angel”
-	“they were fighting like cats and dogs”
--Metonym
- (Mecazı Mürsel, Ad Aktarması)
-	A figure of speech in which sth is referred to by using a word or phrase that is closely connected with it
-	“the pen is mighter than sword”
-	“as the only prince, he took the crown” –kral oldu demek
-	Metonym onunla ilgisi olan şeyi refer eder
--Synecdoche – Her Synecdoche bir Metonymy
-	A figure of speech in which a part of sth is used to refer to the whole, or vice versa
-	Parçayı verir bütünü ima eder gibi ya da tam tersi
-	“the boots continued to march” askerleri refer ediyor 
-	The crown  ajör e king
-	He loves his bed (Sleeping)
-	The pen is mighter than the sword (Literary power is superior than Military force)
-	Pentagon for US Department of Defense
-Number 10 for the Prime Minister’s Office
-I am reading Shakespeare
-	“the thieves were put behind the bars”  hapishane yerine
-	“so the whole ear of denmark is by a forged process of my death rankly abused”
--Personification
-	A figure of speech in which a personal or human characteristics is attributed to sth non-human
-	“the heart wants what it wants – or else it does not care”
-	“the tree screams in the wind”
-	“the car danced across the icy road”
-	“the cat is wearing a tie”
-	“peace had deserted Las Vegas”	
--Onomatopoeia (Yansıma)
-	It is the technique of naming a word according to the sound that is associated with it
-	Hiss, splash
-	Human sounds – moaning, murmuring
-	Animal sounds – roar, quack, buzz
-	Nature sounds – splash, drip,  ajör 
--Imagery – Mental Image – appeals to five senses
--Symbol – White Ribbon for Support
--Motif 
--Allegory – (Symbolic figures, Imagery)
-	Soyut düşünceyi somut bir şey ile göstermek: Themis – Adalet, Orwell – Animal Farm
--Alliteration – Aynı seslerin tekrar etmesi  - Consonant
-	Sea sells sea shells by the sea shore
-	The bright bird flew
--Assonance
-	Clap your hands and stamp your feet
-	Try to light the fire
-	Beat, Sweep, Clean
--Pun
-İki yada daha fazla anlam içeren kelimeler kullanarak mizahi bir etki yaratan kelimelerin üzerinden oynanan bir oyun
-	It is the unkindest tide that ever any man tied
-	You have dancing shoes with nimble soles; I have a soul of lead
-	If you failed to point the conversation to me, every now or then and stick the point into me
-Charlotte Bronte is a breath of fresh air
--Pathetic Fallacy – Personification gibi ama duygu var
--Chiamus – Struggle is my life, My life is struggle
-	      Success is happiness, Happiness is Success
--Euphemism – Güzelleştirme sanatı
-	Pass away (die), senior citizen (old people)
--Aphorism – Aforizma
-	“…” George Orwell
--Paradox 
-	İlk söylenir sonra yalanlanır
-	A statement appears contradictory or absurd, but contains a logical point
-Zıtlık
-	“I like the new one but I miss the old”
-	“we talked with each other about each other, though neither of us spoke”
-	“konuştuk ama konuşmaya değer bi şey çıkmadı”
-	“the truest poetry is the one most feigning”	
--Lilota – Olumlu anlam olumsuzlukla verilmiş
-	not bad, not trivial, I don’t hate it, nok ok
--Circumlocution (Periphasis) – bir olguyu fazla kelimelerle anlatmak – dolaylı anlatım
-	cutting things such as paper or hair (scissors)
-	the father of one’s father (grandfather)
--Portmanteau – linguistics blending
-	britain-exit (brexit)
--Epithet – sıfatı ismin sonuna koymak
-	 ajör et the great
-	 ajör eth the second
-	 ajör the eight
--Kenning – Eski İngiliz edebiyatında kullanılır
-	First lady, Battle sweat, Wind racers, Winter’s blanket, Heaven’s Candle (Sun), Sky candle, four eyes (glasses) 
--Sonnet – is a fourteen-line lyric poem, usually written in rhymed iambic pentameter, and expresses a single theme or idea. William Shakespeare is known to have produced 154 works in this type of poem (not including those that appear in his plays).
--Comedy of Menace – is a term that denotes a kind of play in which one or more characters feel that they are threatened by an obscure and frightening force, power, and personality. Thus, the fear becomes a source of comedy.
+				“Juliet is the sun”, “all the world’s a stage, all the men and women merely players”
+				“You are an angel”
+				“you are a lion”
+				“a good laugh is sunshine in a house”
+				“thy baited hooks shall tangle me no more”
+		
+		- Simile
+			A figure of speech that makes comparison between two different things by the words such as “as”or “like”
+				“you are like a lion, you are as brave as a lion”
+				“I wandered lonely as a cloud”
+				“you are like an angel”
+				“they were fighting like cats and dogs”
+		- Metonym
+ 			(Mecazı Mürsel, Ad Aktarması)
+			A figure of speech in which sth is referred to by using a word or phrase that is closely connected with it
+				“the pen is mighter than sword”
+				“as the only prince, he took the crown” –kral oldu demek
+			Metonym onunla ilgisi olan şeyi refer eder
 
+		- Synecdoche – Her Synecdoche bir Metonymy
+			A figure of speech in which a part of sth is used to refer to the whole, or vice versa
+			Parçayı verir bütünü ima eder gibi ya da tam tersi
+				“the boots continued to march” askerleri refer ediyor 
+				The crown  ajar e king
+				He loves his bed (Sleeping)
+				The pen is mighter than the sword (Literary power is superior than Military force)
+				Pentagon for US Department of Defense
+				Number 10 for the Prime Minister’s Office
+				I am reading Shakespeare
+				“the thieves were put behind the bars”  hapishane yerine
+				“so the whole ear of denmark is by a forged process of my death rankly abused”
+				
+		- Personification
+			A figure of speech in which a personal or human characteristics is attributed to sth non-human
+				“the heart wants what it wants – or else it does not care”
+				“the tree screams in the wind”
+				“the car danced across the icy road”
+				“the cat is wearing a tie”
+				“peace had deserted Las Vegas”	
+
+		- Onomatopoeia (Yansıma)
+			It is the technique of naming a word according to the sound that is associated with it
+				Hiss, splash
+				Human sounds – moaning, murmuring
+				Animal sounds – roar, quack, buzz
+				Nature sounds – splash, drip,  ajör
+		
+		- Imagery
+			Mental Image – appeals to five senses
+
+		- Symbol
+			White Ribbon for Support
+
+		- Motif 
+		
+		- Allegory
+			(Symbolic figures, Imagery)
+			Soyut düşünceyi somut bir şey ile göstermek:
+				Themis – Adalet, Orwell – Animal Farm
+
+		- Alliteration
+			Aynı seslerin tekrar etmesi  - Consonant
+			Sea sells sea shells by the sea shore
+			The bright bird flew
+
+		- Assonance
+			Clap your hands and stamp your feet
+			Try to light the fire
+			Beat, Sweep, Clean
+		
+		- Pun
+			İki yada daha fazla anlam içeren kelimeler kullanarak mizahi bir etki yaratan kelimelerin üzerinden oynanan bir oyun
+				It is the unkindest tide that ever any man tied
+				You have dancing shoes with nimble soles; I have a soul of lead
+				If you failed to point the conversation to me, every now or then and stick the point into me
+				Charlotte Bronte is a breath of fresh air
+
+		- Pathetic Fallacy
+			Personification gibi ama duygu var
+
+		- Chiamus
+			Struggle is my life, My life is struggle
+	      		Success is happiness, Happiness is Success
+			
+		- Euphemism
+			Güzelleştirme sanatı
+			Pass away (die), senior citizen (old people)
+
+		- Aphorism
+			Aforizma
+				“...” George Orwell
+		
+		- Paradox 
+			İlk söylenir sonra yalanlanır
+			A statement appears contradictory or absurd, but contains a logical point
+			Zıtlık
+				“I like the new one but I miss the old”
+				“we talked with each other about each other, though neither of us spoke”
+				“konuştuk ama konuşmaya değer bi şey çıkmadı”
+				“the truest poetry is the one most feigning”	
+		
+		- Lilota
+			Olumlu anlam olumsuzlukla verilmiş
+			not bad, not trivial, I don’t hate it, nok ok
+			
+		- Circumlocution (Periphasis)
+			bir olguyu fazla kelimelerle anlatmak – dolaylı anlatım
+				cutting things such as paper or hair (scissors)
+				the father of one’s father (grandfather)
+
+		- Portmanteau
+			linguistics blending
+				britain-exit (brexit)
+
+		- Epithet
+			sıfatı ismin sonuna koymak
+	 		ajör et the great
+	 		ajör eth the second
+	 		ajör the eight
+		
+		- Kenning
+			Eski İngiliz edebiyatında kullanılır
+				First lady, Battle sweat, Wind racers, Winter’s blanket, Heaven’s Candle (Sun), Sky candle, four eyes (glasses) 
+
+		- Sonnet
+			is a fourteen-line lyric poem, usually written in rhymed iambic pentameter, and expresses a single theme or idea. 
+			William Shakespeare is known to have produced 154 works in this type of poem (not including those that appear in his plays).
+
+		- Comedy of Menace
+			is a term that denotes a kind of play in which one or more characters feel 
+			that they are threatened by an obscure and frightening force, power, and personality. 
+			Thus, the fear becomes a source of comedy.
+
+
+
+
+> LITERARY GENRES
+	Prose, Poetry, Drama..
+	
+	PROSE
+		Novella
+			- a form of narrative prose that is shorter than a novel but longer than a short story
+			- it is realistic and satire in tone
+			- heart of darkness – Joseph Conrad
+			- a christmas carol – Charles Dickens
+		
+		Fable
+			- a short fiction that has animals as characters and contains a moral lesson
+			- didactic – öğretici
+		
+		Folktale
+			- a short and anonymous story passed from generation to generation orally
+		
+		Fairy Tale
+			- a traditional story that involves imaginary creatures, elves, goblins, wizards, and fairies
+			- snow White
+			- cinderella
+		
+		Myth
+			- Belirli bi topluma aittir
+			- a fictional story concerning the early history of a community
+			- it may be based on religious events
+			- it may deal with ancestors or herbes of a community
+			- it may reflect custom and psychology of a community
+		
+		Legend
+			- a narrative that is about a particular historical figure
+			- it has exaggerated events
+			- gerçek olup olmadığı belli değil
+			- whether the events in the legend happened is not proved
+		
+		Anecdote
+			- a short and humorous story about a real event or person
+		
+		Mini-Saga
+			- A very short story that contains 50 words
+		
+		Short story
+			- a type of fictional prose narrative that is brief and shorter than a novel
+			- it focuses on only one or two characters (and that usually on only a few characters)
+			- it has one basic plot
+			- it covers a short time period
+		
+		Novel
+			- a long prose narrative that is longer than a novella and short story. It contains a sequence of actions
+			- it has multiple characters
+			- it has a long time period
+			- it has a main plot and sub-plots
+			- a tale of two cities – Charles Dickens
+			- wuthering heights – emily bronte
+
+			TYPES OF NOVELS	
+				> Picaresque Novel
+					A type of novel that focuses on the adventures of a rogue or lowborn adventurer that.. 
+					drifts from place to place
+					from one social milieu to another in his effort to survive by using his wit
+					- daniel defoe- moll flanders
+					- charles Dickens- the pickwick papers
+					- mark Twain – huckleberry finn
+					- henry fielding – Joseph andrews
+
+				> Epistolary Novel
+					it is a type of novel that is written as a series of letters or documents
+					- pamela - samuel richardson
+					- clarissa - samuel richardson
+					- frankenstein – mary shelley
+					- lady susan – jane austen
+ 					- dracula - bram stoker
+	
+				> Gothic Novel
+					a type of novel that combines horror and fiction
+					it includes terror, ghosts, supernatural elements, death, haunted buildings
+					- frankenstein - mary shelly
+					- dracula – bram stoker
+					- the castle of otranto – horace walpole
+					- bleak house – Charles Dickens
+
+				> Bildungsroman
+					bir karakterin baştan sona psikolojik ve ahlaki gelişimi
+					a type of novel focusing on the growth a character
+					it is based on both moral and psychological growth
+					- a portrait of the artist as a young man - James Joyce
+					- david copperfield – Charles Dickens
+					- jane eyre – charlotte bronte
+		
+				> Historical novel
+					a type of novel that takes place in a period of history
+					settings önemli
+					- War and Peace - Tolstoy
+					- Romola - George eliot
+					- A Tale of Two cities – Charles Dickens
+		
+				> Social novel
+					a type of novel which focuses on social problems
+					subjects such as gender inequalities, racism, poverty etc. and their effect on the characters
+					- oliver twist – C Dickens
+					- hard times- C Dickens
+					- Middlemarch – George Eliot
+					- little dorrit – C Dickens
+	
+				> Metaficton
+					A type of work that draws attention to the fact that it is an artifact not real
+					okurken romanın kurgu olduğunu gözüne sokuyor hissettiriyor
+					- Northanger Abbey - Jane austen
+		
+				> Science-Fiction Novel
+					It is based on an imagines future scientific or technological advances and fundamental social or environmental changes
+					it frequently portrays space or time travel and life on other planets
+					- a journey to the center of the earth – jules verne
+					- the war of the worlds – HG Wells
+					- brave new world – aldous huxley
+	
+				> Psychological novel
+					a type of novel that focuses on interior life of characters
+					the focus is on thoughts, emotions, dreams, memories and desires of characters
+					- samuel richardson – pamela
+					- tristram shandy – laurence sterne
+
+				> Sentimental Novel
+					a type of novel that creates a flood of emotions - acıklı roman
+					it presents tearful scenes
+					it touches emotions of readers
+					- pamela – samuel richardson
+
+
+---> ELEMENTS OF NARRATIVE TEXT
+		> theme
+			The main idea in a narrative text
+			Macbeth’s themes: betrayal, ambition, loyalty
+		> motif
+			A recurring idea, object, image, event in narrative text
+			Motifs in Macbeth: violence, Hallucination
+		> conflict
+			A struggle between two opposing forces in a narrative text
+			1-Internal Conflict
+				a character’s struggle with her/his emotions, fears, needs, desires etc
+			2-External Conflict
+				a struggle between a character and outside forces
+				man vs man, man vs society, man vs nature
+		> mood
+			-Yazarın okuyucuda yaşatmak istediği his
+			-overall feeling for audience (atmosphere)
+			-mystery, fear, joy
+		> tone
+			Author’s attitude towards the subject
+			Yazar hangi ruh haliyle yazdığı
+			Serious, objective, questioning, annoyed, pessimistic
+		> setting
+			Time and location in a narrative text
+		> Narratıve point of view
+			The narrator’s position
+		> first person point of view
+			-The story is told by the first person that is a characte in texts.
+			-S/he tells the story by the pronouns such as “I”,”We”
+			-“I saw him on the corner”, “we met in the morning”
+			-I was helping them or we were together
+		> second person
+			-by a narrator that isnt character in the text to address readers by pronouns as “you”
+			-generally used for scientific articles, guidebooks etc. for direction or instruction
+			-“you do it regularly”
+		> third person point of view
+			Used by narrator that is not a character in the text
+			The narrator uses pronouns such as he, she or they tonarrate the story
+			It is divided into three types
+
+
+	Omniscient
+		the narrator knows everything about the story and its characters and can enter everybody’s mind 
+		and give the reader their own opinions and observations as well as those of the characters
+
+		Jane Austen’s Pride and Prejudice. 
+			The narrator tells everything about the main character, Elizabeth, in addition the characters around her
+
+
+	Limited (selective) Omniscient
+		the author tells the story from the point of view of one character or a few characters, but she/he remains in third person
+		the narrator knows everything about this character
+
+
+	Objective
+		the narrator tells what is happening the story and does not Show us anyone’s thoughts or feelings
+		the narrator is like a camera and he doesnt comment on anything
+		
+		In Hills like White Elephants by Ernest Hemingway, the narrator tells story as an observer
+
+
+
+> PARTS OF PLOT
+		A chain or plan in narrative that connects events in a story
+		it has five parts
+		
+		> exposition (2016)
+		-the part in which the author introduces the characters and the setting
+		-readers are provided background information
+		
+		> rising action
+		-it is the part in which mostly the main character goes through some conflicts
+		
+		> climax
+		-The most exciting part of a story and it is highest point of the tension
+		-it is also the part in which everything changes
+		
+		> falling action
+		-the part of plot in which the tension and excitement start to decrease
+		-the characters try to sort out problems and conflicts
+		
+		> Denouement/Resolution
+		-the final part of a story in which conflicts are resolved and made clear, so the story concludes
+
+
+--> CHARACTER TYPES
+		Flat character (2018)
+			S/he is a type of chracter that has not a multi-faceted personality
+		Round character (2018)
+			It is a type of character that has a complex personality
+			 S/he has depth in feelings and passions
+		Static Character (2018)
+			S/he is a character who doesnt undergo any significant change in character, personality or worldview throughout a literary work
+		Dynamic Character (2018)
+			S/he is a type of character that undergoes an important change in personality, attitude, or worldview over throughout a literary work
+			baştan sona değişim yaşar		
+		Stock Character (2018)
+			S/he is a fictional stereotypical character whom readers are familiar with due to frequent similar recurrences in a particular literary tradition
+			Ruthless boss, absent minded prof, jealous husband
+		Foil (2019)
+			S/he is a char that has opposite or conflicting characteristics to another char.
+			Ana karakterin tam zıttı oluyor
+		Antagonist (2019)
+			S/he is a character that is the principal opponent of the main character
+		Confidant(e) (2019)
+			She is a character with whom the protagonist confides with and tells his secrets and inner thoughts 
+
+
+---> POETRY
+	Poem: a piece of writing written in verse and expressing idea sor emotions by using particular rhythmic and metrical pattern
+	An art form which contains interplay of words and rythm
+	> Dramatic Poetry
+		-verse drama --> şiir şeklinde yazılan oyun diyaloglar
+		-it tells a story
+		-the characters speak
+		-it can be acted
+		
+	> Narrative Poetry
+		Telling a story
+		1-Ballad
+			-a type of poem that tells a story and is set to music
+			-It is a type of narrative poem set to music and began as a folk song
+				- the ballad of reading gaol – o Wilde
+				- the rime of an ancient mariner
+		
+		2-Epic
+			- a type of poem based on the deeds and adventures of historical hero or legendary figures or the glorious history of a nation
+			- a long poem written in elevated style and it tells the heroic deeds and adventures of a legenddary figure
+				Illiad, Odyssey, Beowulf, Paradise Lost, Faerie Queene – edmund spencer
+		
+			Epic Theatre (2016)
+				A type of political didactic theatre thta deals with contemporary issues.
+				The audience is taught sth by direct address
+				It contains a series loosely connected scenes
+		3-Mock-Epic
+			-adapting elevated style of epic to a trivial matter
+				- the rape of the lock – Alexander Pope
+		4-Romance
+			-a type of narrative poem that is based on love and adventures of knights
+			-Sir Gawain and Green Knight
+		5-Dramatic Monologue (2019)
+			-a type of poem written in the form a conversation
+			-There is as speaker and a silent listener
+			-My last duchess – Robert browning
+		6-Lyric Poetry (2016)
+			-expressing personal feelings and emotions
+			
+			--Elegy
+			A melancholic poem that typically about mourning fort he death of a person or a loss
+			A form of poetry that can be said to be a sad poem written to mourn and lament for someone who is dead or sth that is lost
+			In memoriam AHH– Alfred Lord Tennyson
+			
+			--Ode
+			Hitap etme
+			a type of poem which in the form of an address to someone or sth
+			it is also used to glorify or celebrate a special event
+			Ode to a Nightingale – John Keats
+			
+			--Sonnet
+			A type of poem containing fourteen-lines
+			It is mostly based on Love
+			Shakespearian, Spenserian, Petrarchan sonnet types
+			Astrophel and Stella – Philip Sidney
+			Amoretti - Spencer
+
+		7-Pastoral Poetry (2016)
+			-dealing with shepherds and rustic life
+			-relationship between people and the nature
+			-the shepherd’s calendar – Edmund Spenser
+
+		Other forms of Poetry
+		- haiku
+			A three lined and unrhymed poem borrowed from Japanese literatüre
+		- Limerick
+			A five-lined humorous poem
+		- Villanelle
+			a nineteen-lined poem
+		- Cinquain
+			A five-lined poem
+			A fixed number of syllables in each line – sabit hece sayısı her satırda
+		- Eclogue
+			A short pastoral poem written in dialogues
+		- Epithalamion
+			A song or poem written in honor of a bride and bridegroom
+			
+
+
+---> ELEMENTS OF POETRY
+		Stanza
+			-Division of lines – KITA
+			-a group of lines a poem and it can be named differently according to the number of lines it contains
+			-it is named according to the number of lines it contains
+		
+			-Couplet – 2 lines
+			-Tercet or Triplet – 3 lines
+			-Quatrain – 4 lines
+			-Quintet – 5 lines
+			-Sestet – 6 lines
+			-Septet – 7 lines
+			-Octave – 8 lines
+
+		Tone
+			-poet’s attitude towards the subject
+			-serious, objective, questioning, annoyed, pessimistic, melancholic
+		
+		Meter
+			-ölçü
+			-repetition of sound patterns to create rhythm
+			-the number of syllables (stressed and unstressed)
+		
+		Ryhme
+			-kafiye	- repetition of similar or identical sounds in more than a word in each line
+			--Internal Rhyme
+			--End Rhyme
+			--Eye Rhyme (Courtest Rhyme) – bakınca anlaşılır
+					Rough/Bough
+			--Identical Rhyme
+				Kafiye aynı kelimeden oluşuyorsa
+			--Rhyme Scheme
+				The pattern of rhyme in each line
+				aa, bb, ab, ba, abcd
+
+		Rhythm
+			-A strong regular repeated pattern of sounds or movements
+			-Şiirdeki ölçü vurgu ahenk tempo akış vurgulu vurgusuz vesaire
+
+		Iamb
+			-A foot of two syllables
+			-The first syllable is unstressed
+			-iki heceden oluşuyor ilk hece vurgusuz
+			-“com-pare”
+
+		Trochee
+			-a foot of two syllables
+			-the first syllable is stressed
+
+		Blank Verse
+			-a type of poetry written with regular meter (iambic pentameter) but unrhymed line 
+			--satırlar boş kafiye yok ama 10 hece var
+			-a literary device in which there are un-rhymed lines with iambic pentameter
+			-vurgusuz başlar devam eder en son vurguluysa biter – iambic
+
+		Free Verse
+			A literary device that can be said to be an open form of poetry free from limitations of regular meter or rhythm
+			--şiirde kural falan yok
+			-open form of poetry
+
+		Caesura
+			a pause in a poetic line or a sentence
+			satırların tam ortasında boşluk __ vardır - bu bir nevi duraksama olarak görülür
+
+	---> SOUND DEVICES
+			Alliteration
+				- the use of same sound at the beginning of words – genelde ünsüz olur
+				“and with old woes new wail my dear time’s waste”
+			Consonance (Half Rhyme)
+				- the use of more than one same sound in the words – birden fazla ünsüz
+				“rider to reader”, “farer to fearer”, “hearer to horror”
+			Assonance
+				- the repetition of the same vowels within the words – ünlü tekrarı
+				“the lotos blooms below the barren peak”  -ses olarak düşün
+
+
+
+
+---> DRAMA
+		A piece of writing contains a story told via dialogues to be performed. 
+		Divided into units of action named scenes and long ones named acts
+		A genre containing texts written to be put on the stage
+		The plays that are considered to be forms of literatüre
+		
+		Tragedy
+			-a type of serious play based on sorrowful events
+			-an unhappy or tragic end
+			-the downfall of the characters
+			-it evokes pity and fear – for audience
+			-teaching a lesson – morality
+	
+		Revenge tragedy
+			-a type of tragedy that is based on a quest for vengeance
+			-it includes violence and intrigue
+			-Hamlet 
+			-The Jew of Malta – Marlowe
+	
+		Tragicomedy
+			-a type of play that combines the humorous and sorrowful elements
+			-it has a happy ending
+			-The tempest – Shakespeare
+			-The Merchant of Venice
+
+		Domestic tragedy
+			-a type of drama in having the tragic protagonists who are ordinary middle-class or lower-class individuals  
+			-Othello
+	
+
+		Comedy
+			-a type of play based on the depiction of amusing people or incidents with humorous style
+
+			--Comedy of Manners
+			-a type of comedy that shows and satirizes affectations, intrigues and illicit love affairs of witty and sophisticated members of the society
+			- Pygmalion – George Bernand Shaw
+			- The Importance of Being Earnest – o wilde
+
+			--Comedy of Humours
+			- a type of play attention a character or a rage of characters, each of whom exhibits two or more humours dominating their personality
+			- Human body has four liquids (humour) such as  blood pleghm, black bile, yellow bile and they must be balanced in a body
+			-every man in his humour – ben jonson
+			-ben jonson’s volpone
+
+			--Comedy of Errors
+			-a type of comedy based on comic events based on mistaken identities and some other types of mistakes
+			-yanlış anlaşılmalar, kimlik karmaşası
+			-comedy of errors by Shakespeare
+
+			--Commedia Dell’ Arte
+			-a type of comedy in which the Professional characters wear masks and improvise an already known plot
+	
+			--Comedy of Menace
+			-a type of play in which a disaster or surprise comes after the laughter of the audience
+			-one or more charaters feel that they are threatened by a power
+			-a fear exists throughout the play
+			-the birthday party – harold pinter
+
+			--Comedy of morals
+			-a type of comedy that ridicules abuses or follies to correct them
+			-it can be regarded as a dramatic satire
+			-the moral state of people is a core point
+			-sıradan insanların eksik yanlarını göstermek 
+			-the tempest – Shakespeare
+
+			--Satirical Comedy
+			-a type of comedy satirizing the shortcomings of someone, the society or a certain period
+			-belli tarihsel dönemi ve kişileri satirize eden tür
+			-the alchemist – ben jonson
+
+			--Comedy of Ideas
+			-a type of comedy in which the humour is based on intellectual and verbal aspects of comedy
+			-olaylar önemli ama gülünç bi şekilde tartışmak
+			-discussion on important issues such as marriage, war, religion, class etc and different views on these issues are based on display of wit
+
+			--Romantic Comedy
+			-a type of comedy whose plot focuses on a romantic relationship or love affair
+			-it ends with a happy ending or marriage
+	
+			--Sentimental Comedy
+			-hisli komedi, biraz trajediye yakın
+			-a type of comedy which evokes sorrow and maket the audience cry
+			-it ends happily
+			-the hero changes and overcomes several trials
+	
+
+
+
+---> OTHER TYPES OF DRAMA	
+		--Farce
+			-a type of play creating enjoyment through silly, absurd and unlikely situations together with exaggerated physical action
+			-gerçekleşmesi neredeyse imkansız durumlar ama oldukça abartılan bi konu, saçma absürd, yok artık
+			-palyaço, sihirbazlık vs fiziksel hareketlerle güldürmek, kimlik karmaşası filan
+			- comedy of errors and twelfth night by Shakespeare
+			- the importance of being earnest  - O. Wilde
+
+		--Miracle Plays
+			-the plays that are based on the biblical stories, the miracles or the lives of saints and the virgin
+			-these plays were performed to teach people Christianity
+			-kilisede oynanırmış
+
+		--Mystery Plays
+			-the plays that are based on incidents from the Bible
+			-dini olaylara dayanır
+			-these plays take their subjects from scriptural(kutsal denilebilir) events such as creation of the world, flood, death and resurrection of the Christ
+		
+		--Morality Plays
+			-the plays that are didactic because they aim to teach a lesson
+			-vice and virtues clash through personification
+			-allegoric karakterler objeler başka bir şeyi sembolize eder
+			-they teach moral lessons through allegories
+			-Everyman - the play
+
+		--Closet Drama
+			-sahne için değil okunmak amacıyla yazılmış oyunlar
+			-a play that is not written to be performed
+			-it is written to be performed
+	
+		--Interlude
+			-aralarda geçen kısa skeç tarzı oyunlar
+			-short dramatic sketches that are performed at intervals
+	
+		--Historic Play (Chronicle Play)
+			-a type of play that is based on a subject form history
+			-tarihsel sıra da önemli
+	
+		--Masque
+			-a dramatic entertainment containing singing, dancing, music
+			-there are mythological characters
+			-it may contain compliments to a patron who supports the play
+
+
+---> ELEMENTS OF DRAMA
+		--Soliloquy (2017)
+			-A type of speech delivered by a character alone on the stage and not heard by other characters
+			-the expression of his inner thoughts
+		--Aside
+			-a short speech directed to the audience by a character in the presence of the characters
+			-diğer karakterlerde sahnede oluyor ama içsel konuşma, seyircilere konuşma 
+			-S/he is not heard by other cjharacters
+		--Monologue
+			-a long speech given by a character in the presence of other characters
+			-S/he is not interrupted by other characters
+		--Anagnorisis (2019)
+			-it is a moment in a play or any other literary other work when a character notices sth important or makes a critical discovery
+			-karakter bir gerçeğin farkına vardığı an – gerçeği bulma
+		--Peripeteia (2019)
+			-it is a sudden shift in a literary work which results in a negative reversal of circumstances
+			-iyi giderken herşeyin berbat olması
+		--Catharsis
+			-it is the purification or purgation of the emotions such as pity, fear etc
+			-it can be seen as a renewal in emotions
+			-duygu boşalması
+			-sigara içince rahatladığını düşünmek gibi
+		--Hamartia
+			-The defect in the hero’s character  making him suffer from error in judgment
+			-karakter gerçekleri göremiyor gibi
+			-it leads to tragic flaw
+		--Hubris
+			-the state of being too proud
+			-excess of pride
+			-it is a flaw leading to tragic flaw
+		--Tragic Flaw
+			-it is a character defect that leads to downfall of character
+			-such as cowardice, ambition, over-protectiveness, self-sacrifice etc
+		--Tragic Hero
+			-the protagonist of a tragedy that is a man of noble birth
+			-he has a character flaw leading to his tragic fall
+		--Catastrophe
+			-a event that make characters suffer
+			-it leads to unhappy ending
+			-it is resolution (conclusion part of play) such as poison Romeo juliet
+	
+	
+
+---> LITERARY TERMS
+		symbol
+			-a literary device which stands for using characters, settings, images, or sth else to represent an idea or sth abstract
+			-it can be an image, an object etc
+			-black is a symbol for evi lor death
+		
+		Foreshadowing
+			-a literary device to present hint of what is to happen later
+			A literary device to deliver an advance hint of what is to happen later in a narrative work
+	 		-ileriye dönük ipucu
+		
+		Flashback
+			-geçmişte gerçekleşmiş bir sahneye olaya geri dönmek
+			-it is a literary device that moves readers from the present moment to a scene that took place in the past
+			-wuthering heights starts and cathy is dead. There are lots of shifts to events Cathy involved in
+			-forrest Gump, a well-known movie, contains a series of shift to events occured earlier		
+
+		Authorial Intrusion
+			-a literary device wherein the author breaks from the text and addresses the reader
+			-textin ilerlemesi biter yazar artık okuyucuyla konuşmaya hitaba başlar
+		
+		Stream of Consciousness
+			-a technique of narrating the flow of thoughts and feelings of a character
+		
+		Epigram
+			-a statement that is short and witty
+			-it can be paradoxical and humorous
+			-“experience is the name everyone gives to their mistakes”
+			-“arguments are to be avoided; they are always vulgar and often convincing”
+		
+		Epistle
+			-a letter in the form of prose or poetry that is written to a someone
+		
+		Chorus (2017)
+			-a group of actors that describe and comment on the action of a play
+			-In macbeth, the characters who act like a chorus are the witches
+		
+		Prologue (2017)
+			-a preface or introduction that establishes the setting and gives background details in a literary work
+			-in drama, it appears as a speech, generally in verse, and it is addressed to the audience by one or more of the actors or actresses
+			-bir nevi önsöz gibi
+		
+		Deus ex Machina
+			-a literary technique in which an unexpected power 
+							or a character changes or saves a hopeless situation or provides solution to an insoluble difficulty.
+		
+		In Medias Res
+			-a literary technique in which a narrative work opens in the midst of the plot
+			-Illiad by Homer starts with a quarrel between Achilles and Agamemnon
+
+		Comic Relief
+			-rahatlama kısmı
+			-a literary technique of including ...
+				a humorous character, scene, event, or speech in the serious or tragic elements in the drama 
+				in order to provide temporary relief from tension
+
+		Poetic Justice (2019)
+			-A literary device in which a virtue is ultimately rewarded and viciousness is punished
+		
+		Pun
+			-It is a kind of word play in which a word having two or more meanings, or similar-sounding words are used to achieve a humorous effect
+			-kelime oyunuyla anlama oluşturmak
+	
+		Satire
+			-Hiciv
+			-A literary form that is based on ridiculing an idea or the follies, shortcoming, and vices of people
+			-Gulliver’s Travels – Jonathan Swift
+			-Mac Flecknoe – John Dryden
+		
+		Allegory
+			-a figure of speech in which a character, place, or event is used to represent a hidden meaning
+			-it is used to represent real-world issues and to teach principles and moral ideas
+			-animal farm – George orwell
+		
+		Parody
+			-a piece of writing, music, acting in which humour is created through imitation(taklit) of the style of somebody/sth
+		
+		Burlesque (2019)
+			-it is a literary work that tries to ridicule by means of exaggeration, comic imitation or performing
+		
+
+> LITERARY PERIODS IN ENGLISH LITERATURE
+--- Old English (450/5th cent. - 1066)
+		Angles-Saxons-Jutes –king alfred birleştiriyor –anglosaxon
+		--Characteristics of Old-English Poetry
+		-Before Christianity
+			Melancholic
+			Wars all the time
+			Dark side of the nature
+			Struggle
+		-Christian Poetry
+			Monastry, Monks writes,
+		-Christianity, Pagan Culture
+		
+		--Characteristics of the Works
+			Kenning – iki kelimelik metaphor – war sweat
+			Alliteration – kelime başındaki ünsüz tekrarları
+			Caesura – arada uzun boşluk
+		-Anonymous (No Author)
+		-Germanic Elements
+		-King Alfred (Alfred the Great) – The Anglo-Saxon Chronicle – Prose
+		-St. Bede – Ecclesiastical History of the English People - Prose
+		Poets
+			-Caedmon (7th cent): Genesis, Caedmon’s Hymn
+			-Cynewulf (8th-9th cent): Crist, The Fates of Apostles, Ascension, Elene, The Legend of St.Juliana
+		Anonymous Works
+			The Wanderer (Gezgin) – Elegy, 115 lines
+			The Widsith
+			The Wife’s Lament
+			The Seafarer (Denizde yaşam, Yaşam Mutsuzluğu) – Elegy, 124 lines 
+			The Ruin
+			The Husband’s Message
+			The Dream of the Rood
+			Battle of Maldon
+			Beowolf – Epic Poem, Monster Grendel and his mother, 3183 lines
+
+--- Middle (Medieval) English (1066-1500)
+		Historical Background
+		-Norman Conquest (1066)
+		-Effect of French as Language for more than two centuries
+		-Feudalism
+		-Hundred Years Wars (1337-1453), War of Roses, Black Death
+		
+		The Importance of Middle English as a Language
+		-English emerged after 13th century
+		-Geoffrey Chaucer, John Gower, William Langland
+		-The Bible was translated into English by John Wycliffe
+		-Printing Press by William Caxton
+
+		Literature
+		-no work for 200 years because of french effect
+		-Effect of Church and Chivalry on literatüre
+		-Arthurian Legend
+		-Allegorical and Satire Works
+		- Themes: Love, Loss, Death, Courtly Love
+
+		POETRY
+		-Ballad
+		-Courtly Love Poetry
+		-Dream Poetry/Dream Vision
+		-Romance
+
+		William Langland (1330-1400) - Piers the Plowman – (Allegorical Poem) – Robin Hood refers
+		Pearl Poet - Sir Gawain and the Green Knight – King Arthur Stories, Pearl (Adanmış)
+		Geoffrey Chaucer (1340-1400)
+			-Formation process of modern English
+			-First great poet
+			-Influence of Italian Poets
+			-Allegorical Works initially
+			-A Comic Poet
+			-Canterbury Tales
+				24 Stories (4 in complete) told by Pilgrims
+				Characters from different classes (Cook, Knight)
+				Important characters
+				Criticism of the church, social rank, position of women
+				Heroic Couplet, Iambic Pentameter (her satırda on hece beşi vurgulu beşi vurgusuz)
+				Heroic Couplet – 2 lines
+					Iambic pentameter + couplet
+		-Parlement of Fouls
+		-The legend of Good Women
+		-Troilus and Criseyde
+		-The book of Duchess
+		John Gower (1330-1408), John Skelton (1460-1529)
+		
+		PROSE
+		Sir Thomas Mallory (1395-1471) – Le Morte d’Arthur – The First great work of Prose
+		
+		DRAMA
+		Miracle Plays
+		-the plays that are based on the biblical stories, the miracles or the lives saints and the virgin
+		-These plays were performed to teach people Christianity
+		Mystery Plays
+		-the plays that are based on incidents from the bible
+		-the plays take their subjects from scriptural events such as creation of the world, flood, death and resurrection of the Christ
+		Morality Plays
+		The plays that are didactic because they aim to teach a lesson
+		Vice and Virtues clash thorough personification
+		They teach moral lessons through allegories
+		Everyman – Character presents all humankind, Morality Play, Good Deeds
+
+--- Renaissance (1500-1660)
+		Historical Background
+		-Rebirth
+		-Printing and Press
+		-New ways of thinking
+		-Questioning and Discoveries
+		-Decrease of Church and Feudalism
+		-Humanism
+
+		Renaissance in England
+		-England as a Colonial Power
+		-Nationalism
+		-Reformation (Catholic Criticism)
+		-Anglican Church
+		-Act of Supremacy – Kral sadece devletin değil kilisenin de başı oluyor –Kanun
+		-The effect of Renaissance on Literature
+		
+		Renaissance Literature
+		-the impact of Scientific developments and reformation on literatüre
+		-deep effect of Rome and Ancient Greek literature
+		-the influence of Italian, French and Spanish literatüre
+		-Lyric Poetry is the most common type
+		-Sonnet and Epic as popular poetic forms  - the most common
+		
+		POETRY
+			Thomas Wyatt – 1503-1542
+			-Effect of French and Italian poetry
+			-the Pioneer of Sonnet form (14 lines)
+			-he has 30 sonnets
+			-Effect of Petrarch
+			-Farewell Love, Whose List to hunt, I find no peace
+			
+			Henry Howard (Earl of Surrey) 1517-1547
+			-pioneer of sonnet form
+			-the founder of Shakespearean Sonnet
+			-**Blank verse technique (kafiye yok, her satırda 10 hece var vurgusuz vurgulu devam eden)
+			-free verse ile karıştırma onda hiç kural yok
+			-known for elegy (ağıt şiir) and sonnet forms
+			-Themes: love, death, friendship, youth 
+			-“The Soote Season”
+
+			SONNET TRADITION
+			-Petrarchan Sonnet
+				Two Stanzas (Octave (sekizli) and a sestet(altılı)) 14 stanzas
+					abbaabba, cdecde/cdcdcd
+			-Spenserian Sonnet
+				Three Quatrains(3 dörtlük) and a couplet(iki satır - beyit) 14 stanzas
+					abab bcbc cdcd ee
+			
+				Edmund Spencer – 1552-1599
+					-a sequence of sonnets (Amoretti)
+					-Pastoral Poetry  “The Shepherd’s  Calendar”
+					-Some Allegoric Works
+					- Epic - “The Faerie Queene”
+					- Effect of greek literature
+					-Spenserian Stanza (9 lined)
+			
+				Sir Philip Sidney
+					-effect of Petrarch
+					-a perfect sequence of Sonnets: “Astrophel and Stella”
+			
+			-Shakespearian Sonnet
+				William Shakespeare – 1564-1616
+				Three quatrains and a couplet
+					abab cdcd efef gg
+				Iambic Pentameter – 10 heceden oluşan satır
+				154 Sonnets
+				2 narrative poems: “The Rape of Lucrece”,”Venus and Adonis”
+			
+			Christopher Marlowe – 1564-1593
+				-Effect of Greek Literature - “Hero and Leander”
+				-Pastoral Tradition - ”The passionate shepherd to his love”
+
+		PROSE IN RENAISSANCE
+			Thomas Moore – 1478-1535
+				-Utopia  -- Social Criticism
+			Francis Bacon – 1561-1626
+				-Essays
+				-The Advancement of Learning
+				-The New Atlantis
+			Sir Philip Sidney
+				-Arcadia
+				-A defence of Poesy/An Apologie for Poetry
+
+		DRAMA IN RENAISSANCE
+			The effect of Roman drama (SENECA)
+			Three Unities (time, place, action) are not of immense value
+			Comedy, Tragedy, History
+			Elizabethean Age (1558-1603)
+			
+			Christopher Marlowe – 1564-1593
+				-Revenge, Death, Lust, Crime and Ambition in tragedies
+				-Blank Verse
+				-No comedy
+				-Four Tragedy
+					Tamburlaine (Timurlenk), Doctor Faustus, The Jew of Malta, Edward II	
+
+			William Shakespeare – 1564-1616
+				-37 plays
+				-Tragedy, comedy,  History
+				-Myths, Historical Events, Stories, Legends
+				-Romance and Violence
+				
+				Shakespearean Comedy
+					-love as crucial theme, identity, mistaken identity, 
+						disguise, jealousy, trick of characters, funny jokes, use of subjects that are common for tragedies
+					-Twelfth Night, A Mid-Summer Night’s Dream, Measure for measure
+					-The Comedy of Errors, The Merchant of Venice, As you like it
+				
+				Shakespearean Tragedy
+					-revenge, death, jealousy, ambition in tragedies
+					-comic elements and comic characters
+					-fall of characters
+					-the reflection of souls and inner world
+					-romeo n juliet, macbeth, hamlet, othello, king lear, coriolanus, troilus and cressida
+				
+				Shakespearean History
+					-the nature of being a king
+					-named after kings
+					-shakespeare as a patriot
+					-tragic elements
+					-Henry IV, Henry V, Henry VI, Julius Caesar, Richard II 
+
+			Ben Jonson – 1572-1637
+				-mostly writing comedies
+				-two tragedies
+				-valuing three unities
+				-human character and four liquids
+				-comedy of humours –sıvılar biyoloji denge mizaç
+				-satirical comedy
+				-follies and manners of the society
+				-masques
+				
+				Jonson Comedy
+					-everyman in his humour, volpone, the alchemist, the silent woman, bartholomew Fair
+				Jonson Tragedy
+					-sejanus, catiline
+
+
+	Elizabethan Age (1558-1603)
+		Elizabeth the First
+			National Identity
+			Golden Age of English History
+			Renaissance Optimism
+			Lyric Poetry, Drama, Prose
+			W. Shakespeare, Globe Theatre
+			Christopher Marlowe – Faust
+			Edmund Spencer
+			Ben Jonson – Statesman, Wolpone
+			Thomas Kyd
+			Sir Philip Sidney – Criticism
+			Sir Francis Bacon – Essays 
+				“Knowledge is power”
+			Thomas Moore – Utopia (1516)
+
+	Jacobean Age (1603-1625)
+		James the First
+			Rich Prose (Sanatlı Dil)
+
+			Metaphysical Poetry
+				John Donne
+				Andrew Marwell
+
+			Religion and Romantic love
+			Imagery
+			Philosophy, Geography, Astronomy
+			Sophisticated Literature
+
+			Translation of the Bible – James I
+
+
+	Caroline Age (1625-1649)
+		Charles the First
+			Elegance
+			
+			Cavalier Poets
+			- Robert Herrick
+			- Thomas Carew
+			- Richard Lovelace
+
+	Commonwealth (1649-1660)
+		(Puritan Interregnum) - (Yönetim boşluğu)
+		Puritan Leader Cromwell
+			John Milton – Paradise Lost
+			Thomas Hobbes – Leviathan
+			Andrew Marvel – To his Coy Mistress
+
+		First Half of 17th Century
+			Historical background
+		James I (Stuart) – catholic Jacobean Period (1603-1625)
+		-Conflict between Puritans and Anglicans
+		-Conflict of Ideas
+		-Political Instability
+		-Turmoil
+		Charles I (1625-1649)
+		-Charles I execution, Puritans afterwards Commonwealth
+
+	LITERATURE
+		-metaphysical poetry
+			Abstractness, wit, reason-oriented 
+			Intellectual and Philosophical Ideas
+			Questioning nature of reality, The Nature of Universe
+			Man’s function or his place in the universe
+			Mixture of feeling and thought
+		Poets
+			-John Donne (The Sun Rising, The Flea, Holly Sonnets) 
+			-George Herbert, Richard Crashaw, Andrew Marvell (to his coy mistress), John Cleveland
+			
+			-cavalier poetry
+			Carpe Diem
+			Romantic and Sensual Love
+			Enjoying the life
+			Simple Language
+		
+			-Thomas Carew, Robert Herrick, Richard Lovelace, 
+			-Ben Johnson(still to be neat – still to be dressed, song: to Celia)
+			-John Milton – 1608-1674 
+				Lycidas (1638), Paradise Lost (1667), Paradise Regained (1671)
+				Paradise Lost: Epic, Blank Verse	
+
+--- Neo Classical (1660-1785)
+		Characteristics
+		-Principles of ancient Greek and Roman Poets
+		-Focus on reason and Logic
+		-Critical, realistic and satirical Works
+		-Intellectual rather than emotional Works
+		-containing lessons
+		-In Works; order, accuracy and structure içerikten ziyade biçim önemli
+		-clear expression
+		-heroic couplet
+			Time and death shall depart, and say in flying,
+			Love has found out a way tol ive, by dying.
+		-satire/mock epic as popular poetic forms
+
+
+--- Restoration Age (1660-1713)
+		Charles the Second
+			-the return of stuarts
+			-charles II and Monarcy was back
+			-Suffering from a Plague
+			-Big London Fire
+			-tiyatrolar tekrar açılıyor
+
+			Poetry
+				John Dryden – 1631-1700
+				-satirical poetry (hicivli şiir)
+				-satirizing particular people
+				-poems about religious and political affairs
+				-heroic couplet
+				-Absalom and Achitophel, Mac Flecknoe, the Medal
+
+				John Milton – 1608-1674
+				-paradise lost – 1667
+				-paradise regained -1671
+
+			Prose
+				John Bunyan
+				-the pilgrim’s progress
+
+				Aphra Behn
+				-Oroonoko
+
+			Drama
+				Restoration Comedy
+				- comedy manners
+					-William Wycherley – The country wife – 1675
+					-William Congreve – the way of the world
+					-Aphra Behn – The Rover – 1677
+					-John Dryden – the conquest of Granada
+
+
+
+--- Augustan Age (1700-1745)(1713-1780)
+	Neo-Classical Period
+		POETRY
+			Alexander Pope – 1688-1744
+			-Popular Satires and Mock Epic
+			-Heroic Couplet
+			-Principles of Ancient Greek and Roman poets
+			-“An essay on Criticism, An Essay on Man, The Rape of Lock, The Dunciad”
+
+		DRAMA
+			Sentimental Comedy
+			-a type of comedy which evokes sorrow and maket he audience cry. It ends happily. The hero changes and overcomes several trials.
+			-John Gay – The beggar’s opera
+			-Richard Brinsley Sheridan – The schools for Scandal
+			-Richard Brinsley Sheridan – The Rivals
+			-Oliver Goldsmith – she stoops to conquer
+
+		DRAMA
+			The Birth of Novel
+
+		RISE OF NOVEL
+			Daniel Defoe – Robinson Crusoe (1719)
+			Daniel Defoe – Moll Flanders
+
+			Jonathan Swift  Hiciv - Satire
+			- Gulliver’s Travels – Satirical Novel (1726)
+			- A Modest Proposal (1729) 
+
+			Samuel Richardson
+			- Pamela – Epistolory Novel (1740)
+			- Clarissa
+
+			Lawrence Stern
+			- The life and Times of Tristram Shandy
+
+			Strong Traditionalism
+			
+			Alexander Pope
+			- The Rape of the Lock – Poem (1714)
+			- Essay on Criticism
+			- Essay on Man
+
+			Alpha Behn – First Female Writer
+			18 plays about Women (1640-1689)
+
+
+--- The Age of Sensibility (1745-1785)
+		ENLIGHTMENT (1685-1815)
+			Henry Fielding
+			- Tom Jones – Bildungs Picaresque Novel (1749)
+			- Joseph Andrews	-- Picaresque novel
+			- Joseph Andrews, Tom jones, Amelia, Shamela
+
+			Samuel Johnson
+			- A Dictionary of the English Language (1755)
+			- A Journey to the Western Isles of Scotland (1775)
+
+			Walpone
+			- The Castle of Otronto - the First Gothic Novel (1765)
+
+
+--- Romantic (1785-1837)
