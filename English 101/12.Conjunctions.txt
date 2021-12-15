@@ -1,9 +1,9 @@
 CONJUNCTIONS (CONNECTORS, LINKING WORDS)												     prepared by Uğur ARSLAN
-      - Coordinating Conjunctions															@arslanuguur
+      - Coordinating Conjunctions		independent + independent										@arslanuguur
             - for, and, nor, but, or, yet, so
       - Coordinating Conjunctions
             -- too, also, so, also
-      - Subordinating Conjunctions
+      - Subordinating Conjunctions		dependent/independent + independent
 
 
 ---> COORDINATING CONJUNCTIONS - FANBOYS
