@@ -1,5 +1,5 @@
-HOW																   	prepared by Uğur ARSLAN
----------------																	   @arslanuguur
+HOW														      prepared by Uğur ARSLAN, @arslanuguur
+---------------	
 much            how much did you get paid?						ne kadar maaş aldın?
                 how much money do you need?						kaç paraya ihtiyacın var?
 many            how many brothers do you have?						kaç tane erkek kardeşin var?
@@ -114,7 +114,8 @@ we use a lot of instead
 they have a lot of money
 I would like to drink a cup of coffee				bir bardak kahve istiyorum
 I need one tablespoon of salt for the pancake			pancake için bir tatlı kaşığı tuza ihtiyacım var
-
+there is no risk, there is no story
+there is no pain, there is no gain
 
 --> a/an sadece sayılabilen isimlerde kullanılır 
 there is a university in that city 				şehirde bir üniversite var
@@ -172,8 +173,9 @@ my parents don’t have a car anymore			ailemin artık bir arabası yok
 I don’t have any papers to take notes with me		not almak için yanımda hiç kağıt yok
 do you have any ideas on how to solve this problem?	bu sorunun nasıl çözüleceği hakkında bir fikrin var mı?
 how many classes do you have this semester?		bu sene kaç dersin var?      				
-					
 
+we have two lives, and the second begins when we realise we only have one
+	iki hayata sahibiz, ve ikincisi biz sadece bir hayata sahip olduğumuzu farkettiğimiz zaman başlar
 
 
 
