@@ -1,5 +1,5 @@
----> PARTS OF SPEECH																	prepared by Uğur ARSLAN
-              	Turkish			Function/Job    	                Example										   @arslanuguur
+---> PARTS OF SPEECH												     prepared by Uğur ARSLAN, @arslanuguur
+              	Turkish			Function/Job    	                Example
               	----------------------------------------------------------------------------------------
 Noun	      	İsim			--> thing or person	              	pencil, cat, Jack
 Pronoun	      	Zamir			--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
@@ -65,7 +65,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
 
 
 ---> MEZZOFANTI METHOD: How to start learning a new language?
-The book is new       --> eşitlik bildiren cümleler   		(he = Jack, he = 25, he = teacher, he = single)
+The book is new       --> eşitlik bildiren cümleler   		(he = Jack, he = 25, he = teacher, he = single, my visit = how / short)
 Is the book new?      --> eşitlik soru cümlesi
 A new book            --> sıfat kullanımı
 I have a book         --> aitlik kullanımı
