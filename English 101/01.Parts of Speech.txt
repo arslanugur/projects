@@ -13,6 +13,33 @@ Interjection  	Ünlem			--> short exclamation 	                Oh!, Hi!, Ouch!, 
 Determiner	Belirteç / Niteleyici	--> indicate reference			- - -
 
 
+
+	SUBJECT					     VERB			    	OBJECT			ADVERB			     ( in , at, on )
+	--------------		-----------------------------------------------		--------------		--------------------------------------------
+	noun / pronoun		regular		    		      irregular		noun / pronoun		manner (how?)	place (where?)	time (when?)
+	--------------		-----------------------------------------------		--------------		--------------------------------------------
+		I		watch		base form (V1) 		see			me		carefully	on a bus	in the evening
+		---		watched		past form (V2)		saw			---		slowly		in our garden	at six
+		he		watched	     past participle (V3)	seen			him		quickly		in Ankara	this morning 
+singular	she		watches		 -s/-es/-ies 		sees 			her		openly		on the street	on Tuesday
+		it		watching      continuous (-ing)		seeing			it		silently	at home		right now
+		---		to watch	  infinitive		to see			---		early		in a car	in Summer
+		we										us		hard		on the floor	in five weeks
+plural		you										you		happily 	at the station	on the weekend
+		they										them		eagerly		on television	at midnight
+
+						     TO BE				     
+				-----------------------------------------------
+				PRESENT        PAST        FUTURE       PERFECT
+				-----------------------------------------------
+				am	       was	   will be	been
+				is	       were	
+				are
+
+				* he = Jack, he = 25, he = architect, he = single, my visit = how / short, it = certain
+				* Continuous
+
+
 ---> Types of Determiners (İsmin önüne gelen Niteleyiciler)
 	Determiners are used in front of nouns to indicate whether you are referring to something specific or something of a particular type
 	
@@ -25,8 +52,6 @@ Determiner	Belirteç / Niteleyici	--> indicate reference			- - -
 		Quantifiers:			some, any, no, many, much, enough, several, little, all, lot of, plenty of, a few, another, very
 		Distributives:			each, every, either, neither
 		Predeterminers:			all, all of, both, what, such, rather, quite, twice, double
-
-
 
 
 
@@ -185,24 +210,6 @@ You’re a student of mine.
 
 
 
-		S			------------- V -------------		O
-		---------------------------------------------------------------------------------
-		Subject			    TO BE		 Verb		Object           |	     ADVERBS
-		(noun/pronoun)		---------------				(noun/pronoun)	 |---------------------------------------------
-		Subject Pronouns	Present	   Past				Object Pronouns	 | Manner     |   Place       | Time
--------------------------------------------------------------------------------------------------|---------------------------------------------
-		I			am	   was				me		 | silently	at home		right now
--------------------------------------------------------------------------------------------------| quickly	in Ankara	this morning 
-		he			is	   was				him		 | carefully	on a bus	in the evening
-SINGULAR	she			is	   was				her		 | slowly	in our garden	at six 
-		it			is	   was				it		 | openly	on the street	on Tuesday
--------------------------------------------------------------------------------------------------| early	in a car	in Summer
-		we			are	   were				us		 | hard		on the floor	in five weeks	
-PLURAL		you			are	   were				you		 | happily 	on television	on the weekend	
-		they			are	   were				them		 | eagerly	at the station	at midnight
-
-
-	
 
 ---> TWELVE TENSES (4x3 Tenses)         (tense - kip, biçim)
 Time		Aspects			Explains:
@@ -323,4 +330,5 @@ Numeral + Numeral		the first two
 Num + (Prep) + Numeral		three of four
 *** “The” is the definite article necessary in this chunk
 *** “To” is a particle marking an infinitive
+
 
