@@ -87,7 +87,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                                --> I have spent two years in İstanbul
                                                       
 4 --> POSITION and COMPANY
-      what's your job/occupation/profession?
+      what's your job / occupation / profession / specialization?
             --> I am a teacher
             --> I am an engineer
             --> I am a technician
