@@ -1,5 +1,5 @@
-English         Pronounciation    Turkish                                                                                                               prepared by Uğur ARSLAN
--------------------------------------------------------------                                                                                                      @arslanuguur
+English         Pronounciation    Turkish                                                                            prepared by Uğur ARSLAN, @arslanuguur
+-------------------------------------------------------------
 Ability         ebılıti	          yetenek, beceri
 Able            eybıl             muktedir
 Abandon         ebandın	          terk etmek
@@ -412,188 +412,188 @@ Sell            sel               satmak
 
 
 
-Cab	keb	TAKSİ				
-Cable	keybl	1.KABLO 2.TELGRAF				
-Cage	keyc	KAFES				
-Cake	keyk	KEK				
-Calculate	kalkuleyt	HESAPLAMAK				
-Calendar	kelindır	TAKVİM				
-Call	kol	1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET				
-Calm	kaam	SAKİN	
-Camera	kemıra	KAMERA				
-Camouflage	kamuflaaj	SAKLAMAK				
-Camp	kemp	KAMP				
-Campaign	kempein	KAMPANYA				
-Campus	kempıs	KAMPÜS				
-Can	ken	TENEKE KUTU				
-Canal	knal	KANAL				
-Cancel	kensıl	İPTAL ETMEK				
-Cancer	kensır	KANSER				
-Candidate	kendidıt	ADAY				
-Candle	kendl	MUM				
-Canteen	kantiin	KANTİN				
-Capacity	kpasiti	KAPASİTE				
-Capital	kepıtl	1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL				
-Captain	keptın	1.KAPTAN  2.YÜZBAŞI				
-Capture	kepçır	1.ELE GEÇİRMEK  2.HAPSE ATMAK				
-Car	kaar	ARABA				
-Caravan	karavan	KARAVAN				
-Card	kaad	KART				
-Cardigan	kardigın	HIRKA				
-Care	keyr	DİKKAT, ÖZEN				
-Career	kariır	MESLEK				
-Carnival	karnivıl	KARNAVAL				
-Carpenter	karpıntır	MARANGOZ				
-Carpet	kaarpıt	HALI				
-Carriage	keriıc	1.FAYTON 2.VAGON				
-Carry	keri	TAŞIMAK				
-Case	keys	1.KUTU,KAP 2.DAVA				
-Cash	keş	NAKİT				
-Castle	kesl	KALE				
-Cat	ket	KEDİ				
-Catch	keç	YAKALAMAK				
-Cattle	ketl	BÜYÜKBAŞ HAYVAN				
-Cause	koz	1.NEDEN  2.NEDEN OLMAK				
-Ceiling	silign	TAVAN				
-Cell	sel	HÜCRE (hapis,beyin v.b)				
-Cellar	selır	KİLER, BODRUM				
-Century	sençri	YÜZYIL				
-Ceremony	serımıni	SEREMONİ
-Certain	sörtın	KESİN,BELİRLİ,  EMİN OLMAK
-Certainly	sörtınli	KUŞKUSUZ
-Certificate	sertıfıkeyt	SERTİFİKA
-Chain	çeyn	ZİNCİR
-Chair	çeır	İSKEMLE
-Chairman	çeırmen	YÖNETİM KURULU BAŞKANI
-Chalk	çolk	TEBEŞİR
-Challenge	çalınc	MEYDAN OKUMA
-Champion	çempiın	ŞAMPİYON
-Championship	çempiınşip	ŞAMPİYONA
-Chance	çens	ŞANS, FIRSAT
-Change	çeync	1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA
-Character	kerıktır	KİŞİLİK
-Charge	çarc	1.DOLDURMAK 2.MASRAFA YAZMAK
-Charm	çarm	ÇEKİCİLİK
-Charming	çarming	ÇEKİCİ
-Chatter	çetır	GEVEZELİK YAPMAK
-Cheap	çiip	UCUZ
-Cheat	çiit	1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK
-Check	çek	KONTROL ETMEK
-Cheer	çiır	1.NEŞE 2.COŞTURMAK
-Cheese	çiiz	PEYNİR
-Chemical	kemıkl	KİMYASAL
-Cherry	çeri	KİRAZ
-Chess	çes	SATRANÇ
-Chewing-Gum	çuving gam	SAKIZ
-Chicken	çikın	PİLİÇ
-Chief	çif	ŞEF
-Child	çayld	ÇOCUK
-Childhood	çayldhuud	ÇOCUKLUK
-Chin	çin	ÇENE
-Choose	çuz	SEÇMEK
-Christian	krisçın	HIRİSTİYAN
-Church	çörç	KİLİSE
-Cigarette	sigıret	SİGARA
-Cinema	sinıma	SİNEMA
-Circle	sörkl	1.ÇEMBER  2.GRUP (ÇEVRE)
-Circular	sörkulır	YUVARLAK, ÇEMBERSEL, SİRKÜLER (imza v.b)
-Circumstances	sörkımstansıs	DURUM, VAZİYET
-Circus	sörkıs	SİRK
-Citizen	sitizn	YURTTAŞ
-City	siti	KENT;SİTE
-Civic	sivik	1.KENTE AİT 2.'CIVIC DUTY': YURTTAŞLIK GÖREVİ
-Civil	sivl	SİVİL
-Claim	kleym	İLERİ SÜRMEK, SAVLAMAK
-Clasp	klasp	SIKICA TUTMAK
-Class	klas	SINIF
-Classic	klesik	KLASİK
-Clean	kliin	1.TEMİZLEMEK 2.TEMİZ
-Clear	kliır	1.AÇIK, BERRAK, ANLAŞILAN  2.(ortalığı) TOPLAMAK
-Clerk	klark	MEMUR
-Clever	klevır	AKILLI
-Climb	klaymb	TIRMANMAK, YÜKSELMEK
-Cloakroom	kloukrum	VESTİYER, TUVALET
-Clock	klok	SAAT
-Close	klous	YAKIN
-Close	klouz	1.SON 2.KAPALI 3.KAPATMAK
-Clothes	klouthz	GİYSİLER (her zaman çoğuldur )
-Cloud	klaud	BULUT
-Club	klab	1.KLÜP 2.(kağıt oyunlarında) SİNEK
-Coach	kouç	1.ANTRENÖR 2.YOLCU VAGONU 3.ŞEHİRLERARASI OTOBÜS
-Coal	kol	KÖMÜR
-Coat	kout	PALTO
-Cobweb	kobveb	ÖRÜMCEK AĞI
-Coconut	kokonat	HİNDİSTAN CEVİZİ
-Coffee	kafi	KAHVE
-Coffin	kofin	TABUT
-Coin	koin	MADENİ PARA
-Cold	kould	SOĞUK
-Collar	kolır	YAKA, TASMA
-Collect	kolekt	TOPLAMAK
-Colour	kalır	RENK
-Comb	kom	TARAK
-Come	kam	GELMEK
-Comfort	kanfırt	KONFOR ,RAHAT
-Comfortable	kanfırtıbıl	KONFORLU
-Command	komand	KUMANDA ETMEK
-Commence	kımens	BAŞLAMAK
-Commercial	kımörşıl	1.TİCARİ 2.REKLAM ( filmi )
-Common	kamın	1.AVAM, BASİT, SADE 2.ORTAK ,MÜŞTEREK
-Community	komüniti	TOPLUM
-Company	kampany	1.ŞİRKET, KUMPANYA 2.BERABERLİK, ARKADAŞLIK
-Comparatively	kımpırativli	MUKAYESELİ OLARAK
-Compare	kımpeyr	MUKAYESE ETMEK
-Compass	kampıs	1.PUSULA  2.PERGEL
-Compete	kımpiit	YARIŞMAK
-Competition	kompitişn	1.YARIŞMA 2.REKABET
-Complain	kımpleyn	YAKINMAK, ŞİKAYET ETMEK
-Complete	kımpliit	BÜTÜN, TÜM, TAMAMI, BİTMİŞ
-Compliment	komplimınt	İLTİFAT, KOMPLİMAN, HEDİYE
-Compound	kompaund	BİRLEŞİK, BİLEŞİK
-Concern	konsörn	1.İLGİLENDİRMEK  2.ÜZÜLMEK
-Concert	kansıt	KONSER
-Conclude	konkluud	1.SONUCA ULAŞMAK 2.KARAR VERMEK
-Condition	kındişın	DURUM, ŞART
-Confess	kınfes	İTİRAF ETMEK
-Confidence	konfidıns	GÜVEN
-Confuse	kınfüuz	(kafası) KARIŞMAK, ŞAŞIRMAK
-Congratulate	kongraçuleyt	KUTLAMAK
-Connect	konekt	BİRLEŞTİRMEK				
-Conquer	konkuır	İŞGAL ETMEK				
-Conscience	konşıns	VİCDAN, BİLİNÇ				
-Conscious	konşıs	BİLİNÇLİ				
-Consider	konsidır	1.GÖZ ÖNÜNE ALMAK  2.DÜŞÜNMEK				
-Consideration	konsidıreyşın	DÜŞÜNÜŞ, TARTIŞ				
-Consist	kınsist	OLUŞMAK				
-Consul	konsl	KONSOLOS				
-Consult	kınsalt	DANIŞMAK				
-Consultation	konslteyşın	TOPLANTI, KONSÜLTASYON				
-Contain	konteyn	KAPSAMAK				
-Container	konteynır	KAP				
-Content	kontent	TATMİN OLMUŞ				
-Contents	kontents	İÇERİK				
-Continuous	kontinuıs	SÜREKLİ				
-Contrary	kontrıri	TERSİNE, ZIDDINA				
-Contrast	kıntrast	KARŞILAŞTIRMAK				
-Control	kontroul	KONTROL ETMEK, YÖNETMEK				
-Convenience	konvinyıns	UYGUNLUK, KOLAYLIK				
-Convenient	konvinyınt	ELVERİŞLİ, UYGUN				
-Conversation	konverseyşın	SÖYLEŞİ				
-Cook	kuuk	1.AŞÇI 2.YEMEK PİŞİRMEK				
-Cool	kuul	1.SERİN 2.SERİNLETMEK, SOĞUTMAK				
-Cop	kap	POLİS				
-Copper	kapır	BAKIR				
-Copy	kopi	KOPYALAMAK, TAKLİT ETMEK				
-Corn	korn	1. EKİN, MISIR 2.NASIR (tread on someone~s corns)				
-Corner	kornır	KÖŞE				
-Correct	korekt	1.HATASIZ  2.DÜZELTMEK				
-Cost	kost	MALİYET,  MAL OLMAK				
-Costly	kostli	PAHALI				
-Cottage	kotıc	KÖY EVİ				
-Cotton	kotn	PAMUK				
-Cough	kof	ÖKSÜRMEK				
-Council	kaunsl	KONSEY				
-Count	kaunt	SAYMAK				
+Cab             keb	TAKSİ				
+Cable           keybl	1.KABLO 2.TELGRAF				
+Cage            keyc	KAFES				
+Cake            keyk	KEK				
+Calculate       kalkuleyt	HESAPLAMAK				
+Calendar        kelindır	TAKVİM				
+Call            kol	1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET				
+Calm            kaam	SAKİN	
+Camera          kemıra	KAMERA				
+Camouflage      kamuflaaj	SAKLAMAK				
+Camp            kemp	KAMP				
+Campaign        kempein	KAMPANYA				
+Campus          kempıs	KAMPÜS				
+Can             ken	TENEKE KUTU				
+Canal           knal	KANAL				
+Cancel          kensıl	İPTAL ETMEK				
+Cancer          kensır	KANSER				
+Candidate       kendidıt	ADAY				
+Candle          kendl	MUM				
+Canteen         kantiin	KANTİN				
+Capacity        kpasiti	KAPASİTE				
+Capital         kepıtl	1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL				
+Captain         keptın	1.KAPTAN  2.YÜZBAŞI				
+Capture         kepçır	1.ELE GEÇİRMEK  2.HAPSE ATMAK				
+Car             kaar	ARABA				
+Caravan         karavan	KARAVAN				
+Card            kaad	KART				
+Cardigan        kardigın	HIRKA				
+Care            keyr	DİKKAT, ÖZEN				
+Career          kariır	MESLEK				
+Carnival        karnivıl	KARNAVAL				
+Carpenter       karpıntır	MARANGOZ				
+Carpet          kaarpıt	HALI				
+Carriage        keriıc	1.FAYTON 2.VAGON				
+Carry           keri	TAŞIMAK				
+Case            keys	1.KUTU,KAP 2.DAVA				
+Cash            keş	NAKİT				
+Castle          kesl	KALE				
+Cat             ket	KEDİ				
+Catch           keç	YAKALAMAK				
+Cattle          ketl	BÜYÜKBAŞ HAYVAN				
+Cause           koz	1.NEDEN  2.NEDEN OLMAK				
+Ceiling         silign	TAVAN				
+Cell            sel	HÜCRE (hapis,beyin v.b)				
+Cellar          selır	KİLER, BODRUM				
+Century         sençri	YÜZYIL				
+Ceremony        serımıni	SEREMONİ
+Certain         sörtın	KESİN,BELİRLİ,  EMİN OLMAK
+Certainly       sörtınli	KUŞKUSUZ
+Certificate     sertıfıkeyt	SERTİFİKA
+Chain           çeyn	ZİNCİR
+Chair           çeır	İSKEMLE
+Chairman        çeırmen	YÖNETİM KURULU BAŞKANI
+Chalk           çolk	TEBEŞİR
+Challenge       çalınc	MEYDAN OKUMA
+Champion        çempiın	ŞAMPİYON
+Championship    çempiınşip	ŞAMPİYONA
+Chance          çens	ŞANS, FIRSAT
+Change          çeync	1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA
+Character       kerıktır	KİŞİLİK
+Charge          çarc	1.DOLDURMAK 2.MASRAFA YAZMAK
+Charm           çarm	ÇEKİCİLİK
+Charming        çarming	ÇEKİCİ
+Chatter         çetır	GEVEZELİK YAPMAK
+Cheap           çiip	UCUZ
+Cheat           çiit	1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK
+Check           çek	KONTROL ETMEK
+Cheer           çiır	1.NEŞE 2.COŞTURMAK
+Cheese          çiiz	PEYNİR
+Chemical        kemıkl	KİMYASAL
+Cherry          çeri	KİRAZ
+Chess           çes	SATRANÇ
+Chewing-Gum     çuving gam	SAKIZ
+Chicken         çikın	PİLİÇ
+Chief           çif	ŞEF
+Child           çayld	ÇOCUK
+Childhood       çayldhuud	ÇOCUKLUK
+Chin            çin	ÇENE
+Choose          çuz	SEÇMEK
+Christian       krisçın	HIRİSTİYAN
+Church          çörç	KİLİSE
+Cigarette       sigıret	SİGARA
+Cinema          sinıma	SİNEMA
+Circle          sörkl	1.ÇEMBER  2.GRUP (ÇEVRE)
+Circular        sörkulır	YUVARLAK, ÇEMBERSEL, SİRKÜLER (imza v.b)
+Circumstances   sörkımstansıs	DURUM, VAZİYET
+Circus          sörkıs	SİRK
+Citizen         sitizn	YURTTAŞ
+City            siti	KENT;SİTE
+Civic           sivik	1.KENTE AİT 2.'CIVIC DUTY': YURTTAŞLIK GÖREVİ
+Civil           sivl	SİVİL
+Claim           kleym	İLERİ SÜRMEK, SAVLAMAK
+Clasp           klasp	SIKICA TUTMAK
+Class           klas	SINIF
+Classic         klesik	KLASİK
+Clean           kliin	1.TEMİZLEMEK 2.TEMİZ
+Clear           kliır	1.AÇIK, BERRAK, ANLAŞILAN  2.(ortalığı) TOPLAMAK
+Clerk           klark	MEMUR
+Clever          klevır	AKILLI
+Climb           klaymb	TIRMANMAK, YÜKSELMEK
+Cloakroom       kloukrum	VESTİYER, TUVALET
+Clock           klok	SAAT
+Close           klous	YAKIN
+Close           klouz	1.SON 2.KAPALI 3.KAPATMAK
+Clothes         klouthz	GİYSİLER (her zaman çoğuldur )
+Cloud           klaud	BULUT
+Club            klab	1.KLÜP 2.(kağıt oyunlarında) SİNEK
+Coach           kouç	1.ANTRENÖR 2.YOLCU VAGONU 3.ŞEHİRLERARASI OTOBÜS
+Coal            kol	KÖMÜR
+Coat            kout	PALTO
+Cobweb          kobveb	ÖRÜMCEK AĞI
+Coconut         kokonat	HİNDİSTAN CEVİZİ
+Coffee          kafi	KAHVE
+Coffin          kofin	TABUT
+Coin            koin	MADENİ PARA
+Cold            kould	SOĞUK
+Collar          kolır	YAKA, TASMA
+Collect         kolekt	TOPLAMAK
+Colour          kalır	RENK
+Comb            kom	TARAK
+Come            kam	GELMEK
+Comfort         kanfırt	KONFOR ,RAHAT
+Comfortable     kanfırtıbıl	KONFORLU
+Command         komand	KUMANDA ETMEK
+Commence        kımens	BAŞLAMAK
+Commercial      kımörşıl	1.TİCARİ 2.REKLAM ( filmi )
+Common          kamın	1.AVAM, BASİT, SADE 2.ORTAK ,MÜŞTEREK
+Community       komüniti	TOPLUM
+Company         kampany	1.ŞİRKET, KUMPANYA 2.BERABERLİK, ARKADAŞLIK
+Comparatively   kımpırativli	MUKAYESELİ OLARAK
+Compare         kımpeyr	MUKAYESE ETMEK
+Compass         kampıs	1.PUSULA  2.PERGEL
+Compete         kımpiit	YARIŞMAK
+Competition     kompitişn	1.YARIŞMA 2.REKABET
+Complain        kımpleyn	YAKINMAK, ŞİKAYET ETMEK
+Complete        kımpliit	BÜTÜN, TÜM, TAMAMI, BİTMİŞ
+Compliment      komplimınt	İLTİFAT, KOMPLİMAN, HEDİYE
+Compound        kompaund	BİRLEŞİK, BİLEŞİK
+Concern         konsörn	1.İLGİLENDİRMEK  2.ÜZÜLMEK
+Concert         kansıt	KONSER
+Conclude        konkluud	1.SONUCA ULAŞMAK 2.KARAR VERMEK
+Condition       kındişın	DURUM, ŞART
+Confess         kınfes	İTİRAF ETMEK
+Confidence      konfidıns	GÜVEN
+Confuse         kınfüuz	(kafası) KARIŞMAK, ŞAŞIRMAK
+Congratulate    kongraçuleyt	KUTLAMAK
+Connect         konekt BİRLEŞTİRMEK				
+Conquer         konkuır	İŞGAL ETMEK				
+Conscience      konşıns	VİCDAN, BİLİNÇ				
+Conscious       konşıs	BİLİNÇLİ				
+Consider        konsidır	1.GÖZ ÖNÜNE ALMAK  2.DÜŞÜNMEK				
+Consideration   konsidıreyşın	DÜŞÜNÜŞ, TARTIŞ				
+Consist         kınsist	OLUŞMAK				
+Consul          konsl	KONSOLOS				
+Consult         kınsalt	DANIŞMAK				
+Consultation    konslteyşın	TOPLANTI, KONSÜLTASYON				
+Contain         konteyn	KAPSAMAK				
+Container       konteynır	KAP				
+Content         kontent	TATMİN OLMUŞ				
+Contents        kontents	İÇERİK				
+Continuous      kontinuıs	SÜREKLİ				
+Contrary        kontrıri	TERSİNE, ZIDDINA				
+Contrast        kıntrast	KARŞILAŞTIRMAK				
+Control         kontroul	KONTROL ETMEK, YÖNETMEK				
+Convenience     konvinyıns	UYGUNLUK, KOLAYLIK				
+Convenient      konvinyınt	ELVERİŞLİ, UYGUN				
+Conversation    konverseyşın	SÖYLEŞİ				
+Cook            kuuk	1.AŞÇI 2.YEMEK PİŞİRMEK				
+Cool            kuul	1.SERİN 2.SERİNLETMEK, SOĞUTMAK				
+Cop             kap	POLİS				
+Copper          kapır	BAKIR				
+Copy            kopi	KOPY ALAMAK, TAKLİT ETMEK				
+Corn            korn	1. EKİN, MISIR 2.NASIR (tread on someone~s corns)				
+Corner          kornır	KÖŞE				
+Correct         korekt	1.HATASIZ  2.DÜZELTMEK				
+Cost            kost	MALİYET,  MAL OLMAK				
+Costly          kostli	PAHALI				
+Cottage         kotıc	KÖY EVİ				
+Cotton          kotn	PAMUK				
+Cough           kof	ÖKSÜRMEK				
+Council         kaunsl	KONSEY				
+Count           kaunt	SAYMAK				
 Country	kantri	1.ÜLKE  2.KIRLIK ALAN				
 Couple	kapıl	1.ÇİFT (karı-koca v.b)  2.BİR KAÇ				
 Courage	karıc	CESARET				
