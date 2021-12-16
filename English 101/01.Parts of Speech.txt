@@ -65,7 +65,7 @@ Why:	    Last night, at Walmart, I waited impatiently in a lengthy line with my 
 
 
 ---> MEZZOFANTI METHOD: How to start learning a new language?
-The book is new       --> eşitlik bildiren cümleler   		(he = Jack, he = 25, he = teacher, he = single, my visit = how / short)
+The book is new       --> eşitlik bildiren cümleler   		(he = Jack, he = 25, he = teacher, he = single, my visit = how / short, it = certain)
 Is the book new?      --> eşitlik soru cümlesi
 A new book            --> sıfat kullanımı
 I have a book         --> aitlik kullanımı
@@ -78,7 +78,6 @@ I should/can/will go  --> yardımcı fiil kullanımı
 
 --> TWO OBJECTS
 		1. Indirect Object, 2. Direct Object
-		
 			you give the attendant your ticket
 			we will send our teacher a message
 			he bought her a diamond ring
