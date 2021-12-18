@@ -1,34 +1,32 @@
 ---> PARTS OF SPEECH												     prepared by Uğur ARSLAN, @arslanuguur
-              	Turkish			Function/Job    	                Example
+              	Turkish			Function / Job    	                Example
               	----------------------------------------------------------------------------------------
-Noun	      	İsim			--> thing or person	              	Jack, computer, cat
+Noun	      	İsim			--> person or thing called             	Jack, London, England, computer, cat
 Pronoun	      	Zamir			--> replaces a noun	              	--> SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
                                         	              			--> OBJECT PRONOUNS: me, you, him, her, it, us, you, them
 Verb	      	Fiil			--> action / state	            	base form V1, past form V2, past participle V3, -s/-es/-ies, -ing, infinitive
 Adverb	      	Zarf			--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
 Adjective     	Sıfat			--> describes a noun	                big, silent, bad, good
-Preposition   	Edat			--> links a noun to another word	in, at, on, after, before, under
+Preposition   	Edat			--> links a noun to another word	in, at, on
 Conjunction   	Bağlaç			--> joins clauses or sentences	        but, because, and, while, when
 Interjection  	Ünlem			--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
 Determiner	Belirteç / Niteleyici	--> indicate reference			- - -
-
 
 
 	SUBJECT					     VERB			    	OBJECT			ADVERB			     	( in , at, on )
 	--------------		-----------------------------------------------		--------------		-----------------------------------------------
 	noun / pronoun		regular		    		      irregular		noun / pronoun		manner (how?)	place (where?)	time (when?)
 	--------------		-----------------------------------------------		--------------		-----------------------------------------------
-		I		watch		base form (V1) 		see			me		carefully	on a bus	in the evening
-		---		watched		past form (V2)		saw			---		slowly		in our garden	at six
-		he		watched	     past participle (V3)	seen			him		quickly		in Ankara	this morning 
-singular	she		watches		 -s/-es/-ies 		sees 			her		openly		on the street	on Tuesday
-		it		watching      continuous (-ing)		seeing			it		silently	at home		right now
-		---		to watch	  infinitive		to see			---		early		in a car	in Summer
+		I		watch	      (V1) base form 		see			me		carefully	on a bus	in the evening
+		---		watched	      (V2) past form		saw			---		slowly		in our garden	at six
+		he		watched	      (V3) past participle	seen			him		quickly		in Ankara	this morning 
+singular	she		watches		   -s/-es/-ies 		sees 			her		openly		on the street	on Tuesday
+		it		watching    (-ing) continuous		seeing			it		silently	at home		right now
+		---		to watch      (to) infinitive		to see			---		early		in a car	in Summer
 		we										us		hard		on the floor	in five weeks
 plural		you										you		happily 	at the station	on the weekend
 		they										them		eagerly		on television	at midnight
 														willingly	in the cafe	ten minutes ago
-
 
 
 			TO BE					COMMON TENSES					Examples
