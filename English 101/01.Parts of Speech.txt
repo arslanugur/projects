@@ -27,6 +27,7 @@ singular	she		watches		 -s/-es/-ies 		sees 			her		openly		on the street	on Tues
 		we										us		hard		on the floor	in five weeks
 plural		you										you		happily 	at the station	on the weekend
 		they										them		eagerly		on television	at midnight
+																		ten minutes ago
 
 
 
@@ -41,6 +42,7 @@ are	       were	   will be	have / had been		Future Simple		(Gelecek Zaman)		he w
 * he = Jack, he = 25, he = architect, he = single
 * his visit = how / short, it = certain, it = sunny
 * he = at home, he = in Los Angeles, he = from United States
+* this = Jack, that = ship
 * there = three people, there = a building, there = a car
 * Continuous (-ing) tenses
 
