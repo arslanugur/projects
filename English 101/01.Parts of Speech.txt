@@ -1,5 +1,6 @@
 ---> PARTS OF SPEECH												     prepared by Uğur ARSLAN, @arslanuguur
-              	Turkish		Function / Job    	                Example
+
+		Turkish		Function / Job    	                Example
               	--------------------------------------------------------------------------------------------
 Noun	      	İsim		--> person or thing called             	Jack, London, England, computer, cat
 Pronoun	      	Zamir		--> replaces a noun	              	🔵 SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
