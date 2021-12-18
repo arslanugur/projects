@@ -10,7 +10,29 @@ Adjective     	Sıfat			--> describes a noun	                big, silent, bad, g
 Preposition   	Edat			--> links a noun to another word	in, at, on
 Conjunction   	Bağlaç			--> joins clauses or sentences	        but, because, and, while, when
 Interjection  	Ünlem			--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
-Determiner	Belirteç / Niteleyici	--> indicate reference			- - -
+Determiner	Niteleyici		--> indicate reference			- - -
+
+
+	Types of Determiners
+		Determiners are used "in front of nouns" to indicate whether you are referring to something specific or something of a particular type
+	
+		Determiners		Turkish			Examples					  Noun: CAT
+		----------------------------------------------------------------------------------------------------------------------------------
+		Adjectives:		Sıfatlar		smart, good, cool, bad, lucky, heavy			lucky cat	
+		Possessive adjectives:	Sahiplik sıfatları	my, your, his, her, its, our, your, their		my cat
+		Articles:		Belirteçler		a, an, the						a cat / the cat
+		Demonstrative pronouns:	İşaret zamirleri	this, that, these, those				this cat / that cat
+		Numerals:		Sayılar			one, two, three, four, five, six, seven, eight		one cat / two cats
+		Ordinals:		Sıra sayıları	 	first, last, next, second, third, fourth, fifth		first cat / last cat
+		Quantifiers:		Niceleyiciler 		some, any, no, many, much, several			some cats / several cats
+		Distributives:		Dağıtıcılar		each, every, either, neither				each cat / every cat		
+		Predeterminers:		Önbelirleyiciler 	all, all of, both, what, such, rather, quite		all cats / all of the cats
+
+
+
+---> S + V + O
+	Turkish: Kahve içerim		English: I drink coffee
+		   O    V   S			 S   V     O
 
 
 	SUBJECT					     VERB			    	OBJECT			ADVERB			     	( in , at, on )
@@ -43,22 +65,6 @@ are	       were	   will be	have / had been		Future Simple		(Gelecek Zaman)		he w
 * this = Jack, that = ship
 * there = three people, there = a building, there = a car
 * Continuous (-ing) tenses
-
-
----> Types of Determiners (İsmin önüne gelen Niteleyiciler)
-	Determiners are used in front of nouns to indicate whether you are referring to something specific or something of a particular type
-	
-		Adjectives:			smart, good, cool, bad, lucky, heavy
-		Possessive adjectives:		my, your, his, her, its, our, your, their
-		Articles:			a, an, the
-		Demonstrative pronouns:		this, that, these, those
-		Numerals:			one, two, three, four, five, six, seven, eight, nine, ten
-		Ordinals:			first, last, next 	--> first, second, third, fourth, fifth
-		Quantifiers:			some, any, no, many, much, enough, several, little, all, lot of, plenty of, a few, another, very
-		Distributives:			each, every, either, neither
-		Predeterminers:			all, all of, both, what, such, rather, quite, twice, double
-
-
 
 ---> SENTENCE STRUCTURES
 S + V	        	students learn
