@@ -1,7 +1,8 @@
-RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)                                                                                                         prepared by Uğur ARSLAN
-                                                                                                                                                                    @arslanuguur
-* Gerektiğinde uygun şekilde kullanılması için, bazı fiilere ek olarak edat (preposition) eklenmeye devam edilmektedir.
-* Edat (preposition) sonrası, genel olarak isim (noun) ya da zamir (pronoun) gelir.
+RELATIONAL VOCABULARY (İlişkisel Kelime Bilgisi)                                                                           prepared by Uğur ARSLAN, @arslanuguur
+      
+      * Gerektiğinde uygun şekilde kullanılması için, bazı fiilere ek olarak edat (preposition) eklenmeye devam edilmektedir.
+      * Edat (preposition) sonrası, genel olarak isim (noun) ya da zamir (pronoun) gelir.
+
 
 
 VERB              NOUN                    ADJECTIVE/ADVERB
@@ -13,8 +14,9 @@ be able to        ability in              -able                     beceri, yete
 abound            abundance               abundant                  bolluk
 access            access                  accessible                erişmek, erişim
 accuse of                                                           suçlamak
-accept            acceptance              acceptable                kabul etmek, kabullenmek
-agree             agreement               agreeable                 kabul etmek, anlaşmak, hemfikir olmak, onaylamak
+accept to         acceptance              acceptable to             bir şeyi yada bir teklifi kabul etmek
+agree to/on/with  agreement on            agreeable                 kabul etmek, bir konu hakkında anlaşmak, hemfikir olmak, onaylamak
+argue with        argument                                          birisiyle tartışmak 
 accord            accordance              according to              uygun hale getirmek -- uygunluk -- -e göre --> according to me - bana göre
 admit             admission               admitted                  kabul etmek, içeri almak (okul vs)
 refuse            refusal                                           reddetmek, kabul etmemek, izin vermemek, geri çevirmek
@@ -44,12 +46,12 @@ represent         representation          representative            temsil etmek
 admire            admiration              admired                   hayran olmak
 afford            effort                                            bir şeye sahip olmaya satın almaya gücü yetmek
 affect            effect on = impact on   effective != ineffective  etkilemek -- etki -- etkili  --> birinin yada bir şeyin üzerinde etkisi olmak
-                  efficacy                efficient                 etkililik
+                  efficacy                efficient in = productive etkililik, verimli olmak
                                           be affected by            -den etkilenmek
                                           (in)evitable              (-)kaçınılabilir
 arrive in/at      arrival                                           bir yere ulaşmak, varış 
                   departure                                         kalkış
-
+                  anxiety over            anxious about             bir şey hakkında endişe etmek 
 acquire           acquisition                                       edinmek
 achieve           achievement             achieved                  başarmak
 apply             application             applied                   uygulamak
@@ -68,19 +70,30 @@ persist           persistence
 
 
 ---> B
+                  brevity = courageous    brave of                  cesaretli olmak 
 behave            behaviour                                         davranmak, -e göre davranmak -- davranış
 believe in        belief in               believer                  inanmak -- inanç
                   faith                   faithful                  inanç
 convince                                                            birini inandırmak 
 belong to         belonging = property                              ait olmak -- özel eşya
-benefit           beneficence             beneficial to             e yararlı olmak, faydalanmak -- yarar, hayır, fayda -- faydalı --> helpful, useful
-                  business                busy                      iş, meşguliyet
+benefit from      beneficence             beneficial to             yararlanmak, -e yararlı olmak, faydalanmak -- yarar, hayır, fayda -- faydalı --> helpful, useful
+                  business                busy with = occupied      iş, meşguliyet
 bargain for       expect = prepared for                             bir şey beklemek veya hazırlıklı olmak
 borrow from                                                         ödünç almak
 lend to                                                             ödünç vermek
-                  brevity = courageous    brave of                  cesaretli olmak 
 aware of          awareness                                         birinin yada bir şeyin farkında olmak 
 beware of                                                           dikkatli olmak 
+ban from / on     ban                                               to forbid / prohibit sth yasaklamak 
+begin with        beginning                                         ile başlamak
+                  boredom                 bored with                bir şeyden sıkılmak 
+battle over       battle                                            birine yada bir şeye ulaşmak için mücadele etmek 
+battle against                                                      birine veya bir şeye karşı savaşmak
+bias against                                                        having a prejudice against sb or sth              birine ya da bir şeye karşı önyargılı olmak
+                  base                    based on                  e dayalı,bağlı olarak 
+blame on                                                            birini yada bir şeyi suçlamak 
+boycott on                                                          protesto etmek, bir şeyi boykot etmek 
+burden on         burden / load                                     (sırtına) yüklemek, yük 
+
 
                   
                   
@@ -207,16 +220,35 @@ elaborate on      elaboration             elaborated                detay vermek
 embargo on                                                          bir şeyi yasaklamak(ticari)
 ban                                                                 yasaklamak, engellemek
 embark on         start something new                               bir şeye atılmak/girişmek 
+                  evidence against                                  kanıt sunarak birine karşı tanıklık etmek - to witness
+equip with        equipment                                         ile donatmak 
+exchange for                                                        bir şey karşılığında takas etmek 
+explain           explanation for                                   bir şey için açıklaması olmak 
+                  eagerness = willingness eager for                 bir şeye istekli olmak 
+                  enthusiasm for          enthusiast                bir şeye hevesli olmak
+eliminate from    elimination                                       birini yada bir şeyi bir yerden çıkarmak/yok etmek/elemek 
+emerge from       emergency                                         bir şeyden uzaklaşıp görünür hale gelmek -- acil 
+eradicate from    eradiction                                        -den yok edilmek 
+escape from                                                         -den kaçmak 
+exclude from      exclusion               exclusive                 hariç tutmak 
+                  envy                    envious of                birine karşı kıskanç olmak 
+entitled to       have right                                        -e hakkı olmak 
+entrust to                                                          -e emanet etmek 
+estimate at       guess sth                                         bir şeyi tahmin etmek 
+enroll in         sign up                                           kaydolmak 
+experience in                                                       bir şeyde deneyimli olmak 
+experiment on                                                       bir şey üzerinde deney yapmak 
+end in            conclude                                          sonlandırmak 
 
 
 
 
 
 ---> F
-fail              failure                 failed                    başarısız olmak
-focus on          focus                   focused                   odaklanmak
+fail              failure in              failed                    başarısız olmak = unsuccessful
+focus on          focus                   focused                   birine yada bir şeye odaklanmak 
 facilitate        facilitation            facile                    kolaylaştırmak, rahatlatmak, hafifletmek, olanak tanımak
-familiarise       familiarization         familiar                  tanımak, bilmek, aşina olmak --- tanıma -- tanıdık, bilinen, yakın
+familiarise       familiarization         familiar with             tanımak, bilmek, aşina olmak --- tanıma -- tanıdık, bilinen, yakın
                   familiarity                                       aşinalık, benzerlik
                   family = aile
                   parent = ebeveyn
@@ -236,6 +268,24 @@ force             force                                             zorlamak
 enforce           force                   forceful                  kuvvetlendirmek -- kuvvet
                   frequency               frequent                  sıklık
                   fluency                 fluent                    akıcılık
+fight against     struggle against                                  biriyle veya bir şeyle mücadele etmek/savaşmak 
+fight for                                                           bir şey uğruna savaşmak 
+forget about      disregard sb or sth                               bir şeyi unutmak/hatırlamamak/ birini veya bir şeyi boşvermek
+                                          famous for                bir şeyiyle ünlü olmak
+free from         lacking; without / released or removed from sth   ..sız / den uzak / den muaf 
+                                          fond of                   birine yada bir şeye düşkün olmak 
+                   fear of                afraid of sb or sth       birine yada bir şeye korkusu olmak 
+                                          full of                   bir şeyle dolu olmak 
+                                          friendly to               kind an pleasent to sb -e nazik olmak
+feed on             to eat sth as food                        beslenmek 
+fall in             descend / collapse düşmek  / çökmek 
+fit in              harmonize uyum sağlamak
+fatal to            causing death to sb e ölümcül olmak 
+faith in            in the belief of sth bir şeyin inancında 
+faithful to         loyal and true in devotion to sth e sadık / e bağlı 
+
+
+
 
 ---> G
 graduate          grade                   gradual-ly                mezun olmak -- derece,sınıf -- kademeli
@@ -573,19 +623,7 @@ blood, sweat , tears
 
 
 IN
-compete in          to make an effort to be more succesful rekabet etmek
-confide in          trust güvenmek 
-enroll in           sign up kaydolmak 
 gain in             obtain sth bir şey kazanmak,elde etmek 
-experience in       the process of getting knowledge about sth bir şeyde deneyimli olmak 
-dress in            to put clothes on yourself or someone else giyinmek 
-drop in             to fall   / to leave damlamak /  bırakmak 
-failure in          be unsuccessfull in sth bir şeyde başarısız olmak 
-faith in            in the belief of sth bir şeyin inancında 
-fall in             descend / collapse düşmek  / çökmek 
-efficient in        be productive verimli olmak 
-fit in              harmonize uyum sağlamak 
-end in              conclude sonlandırmak 
 lack in             to not have enough of sth that is needed bir şeyde eksik olmak 
 persist in          to continue doing sth in a determined bir konuda ısrar etmek 
 proficient in       to be skilled and experienced bir konuda yetkin olmak 
@@ -605,7 +643,6 @@ shout at            utter a loud cry                          e bağırmak
 smile at            show a pleased expression to sb           e gülümsemek 
 aim at              have the intention of achieving sth       bir şeyi hedeflemek 
 attempt at          make an effort to do sth                  e kalkışmak, teşebbüs etmek 
-estimate at         guess sth                                 bir şeyi tahmin etmek 
 glance at           take a brief look                         e kısa bakış 
 point at/to         indicate                                  e işaret etmek,göstermek 
 look at             looking carefully to sth/sb               e dikkatli bakmak 
@@ -616,26 +653,11 @@ throw at            to toss sth                               e atmak
 
 
 ON 
-ban on              prohibit sth                              yasaklamak 
-based on            to use sth as the thing from which sth else is developed      e dayalı,bağlı olarak 
-blame on            declare that sb or sth is responsible for a wrong             birini yada bir şeyi suçlamak 
-boycott on          to do kind of protest                     bir şeyi boykot etmek 
-burden on           load heavily                              (sırtına) yüklemek 
-assault on          make a physical attack on sb              birine saldırmak 
-agreement on        to be acordance in an opinion             bir konu hakkında anlaşma 
-attack on           take aggresive action against sb          birine saldırmak 
 center on           make the focus                            merkez tutmak 
-depend on           to trust sb/sth and know that that person or thing will help you            birine yada bir şeye bağlı olmak 
-dependent on        need the support of sb or sth             birine yada bir şeye bağımlı olmak 
 comment on          express an opinion about sth              bir şeyi yorumlamak 
 count on            depend on sb/sth                          birine yada bir şeye güvenmek/hesaba katmak
 compliment on       politely praise sb for sth                birine iltifat etmek 
 concentrate on      focus all one's attention on particular thing bir şeye konsantre olmak 
-decide on           make a choice about sth                   bir şeye karar vermek 
-experiment on       perform a scientific procedure            bir şey üzerinde deney yapmak 
-dwell on            to spend a lot of time thinking or talking about sth unpleasant bir şey üzerinde durmak/uzatarak söylemek 
-feed on             to eat sth as food                        beslenmek 
-focus on            to give most of your attention to sb/sth  birine yada bir şeye odaklanmak 
 impose on           to make a strong impression on sb birini  empoze etmek 
 influence on        have an affect on sb                      birisi üzerinde etkisi olmak 
 insist on           to keep doing something                   bir konuda ısrar etmek 
@@ -653,46 +675,7 @@ spy on              to watch sb secretly                      birini gözetlemek
 
 
 TO
-accept to           to agree to take sth / to say yes to an offer       bir şeyi yada bir teklifi kabul etmek
-acceptable to       to be agreed on                                     kabul edilir olmak 
-access to           be reached                                          ulaşılır olmak/ e ulaşmak 
-alternative to      be available as another choice                      bir şeye alternatif olmak
-answer to           sth said or written in reply                        bir şeye cevap olmak
-appeal to           to ask for something, usually in an urgent or pleading manner bir şeye başvurmak/istemek appear to give the impression of being e görünmek/görünür olmak 
-apply to            make a formal application or request e başvurmak 
-adapt to            to modify or adjust sth to fit or work properly with something else / to become familiar or comfortable with sth e uyarlamak / e adapte olmak 
-add to              to make an amount or number greater by adding another amount or numbere eklemek 
-approach to         come near or nearer to sb or sth in distance or time e yaklaşmak 
-adhere to           to continue to obey a rule or have a belief bir kurala veya inanca bağlı kalmak 
-adjust to           alter or move (something) slightly in order to achieve the desired fit, appearance, or result e uyarlamak / e alışmak 
-admit to            to admit sth / to acknowledge the truth or existence of sth bir şeyi itiraf etmek 
-agree to            to accept sth bir şeyi kabul etmek 
-assign to           appoint to a job or duty bir işe veya göreve atamak 
-attachment to       affection, fondness, or sympathy for sb or sth birine veya bir şeye karşı bağlılık 
-alien to            be unfamiliar and disturbing or distasteful to sth e yabancı olmak 
-allege to           to say that sb has done sth illegal or wrong without giving proof iddia etmek 
-attend to           to manage or take care of sb or sth biriyle veya bir şeyle ilgilenmek yada bakmak 
-attentive to        paying careful attention to something bir şeye özenli dikkatli olmak
-attribute to        to believe or say that a situation or event is caused by something atfetmek, bir durumun bir şey tarafından sebep olduğuna inanmak 
-change to           to convert sth to a different form or method bir şeyin farklı bir forma dönüşmesi / e değişmek 
-confine to          to only exist in a particular area or group of people sınırlamak 
-dedicate to         devote to a particular subject e adamak contrary to conflicting with sth bir şeye karşı olmak/zıt olmak 
-contribute to       give sth, especially money in order to help achieve or provide something bir şeye katkı sağlamak 
-close to            very near to sb or sth e yakın olmak 
-compare to          in relation to sth else : measured or judged against sth bir şeyle karşılaştırmak 
-crucial to          of great importance for sth bir şey için çok önemli, kritik 
-cruel to            wilfully causing pain or suffering to others bir şeye karşı zalim olmak 
-damage to           inflict physical harm on sth e zarar vermek 
-dare to             have the courage to do something e cürret etmek / e cesareti olmak 
-confess to          to admit sth to sb birine bir şeyi itiraf etmek
-devote to           to give all of sth, especially your effort, or love,to sth you believe in or to a person e adamak 
-determined to       having made a firm decision and being resolved not to change it e kararlı olmak 
-entitled to         have the right to do sth e hakkı olmak 
-entrust to          to give sth to another with confidence e emanet etmek 
-friendly to         kind an pleasent to sb e nazik olmak 
-faithful to         loyal and true in devotion to sth e sadık / e bağlı 
 happen to           if sth happens to you, an event or action takes place which affects you birinin başına bir şey gelmesi 
-fatal to            causing death to sb e ölümcül olmak 
 hostile to          angry and deliberately unfriendly towards sb e düşman olmak 
 identical to        looks exactly the same as bir şeyler aynı, özdeş 
 immune to           resistant to a particular infection e bağışıklığı olmak 
@@ -728,33 +711,16 @@ rude to             offensively impolite to sb e kaba olmak
 
 
 OF
-
-approval of         accept sth is good bir şeyin onaylanması durumu 
-ashamed of          be embrassed because of sth bir şeyden utanmak 
-afraid of           feel fear of sth bir şeyden korkmak 
-assure of           tell someone something positively to dispel any doubts birine güvence vermek 
 careless of         not concerned or worried about sth bir şeye dikkatsiz/ilgisiz olmak  
 certain of          having no doubt or knowing exactly that something is true bir şeyden emin olmak 
 characteristic of   a quality or feature of sth bir şeyin özelliği 
 conscious of        having knowledge of sth bir şeyin bilincinde olmak 
-deprive of          to take sth away from sb or sth birini veya bir şeyi başka bir şeyden mahrum bırakmak 
-desirous of         having or expressing desire for sth bir şeyi arzu etmek 
-despair of          to give up or lose all hope about sth bir şeyden ümidini kesmek 
 composed of         be made of sth bir şeyden oluşmak 
 conceive of         to think about sth bir şey hakkında düşünmek 
-
-disadvantage of     to be at the expense of sb or sth birinin yada bir şeyin zararına olmak 
-disapprove of       to believe that sb or sth is bad or wrong bir şeyi yada birini uygun bulmamak/onaylamamak 
-dispose of          to get rid of sb or sth bir şeyden yada birinden kurtulmak/elden çıkarmak 
-envious of          feeling or showing envy towards sb birine karşı kıskanç olmak 
-full of             containing or holding sth as much or as many as possible; having no empty space.bir şeyle dolu olmak 
-dream of            to think about sth that you want very much çok istenilen bir şeyin hayalini kurmak 
 guilty of           be responsible for a specified wrongdoing bir şeyin suçlusu olmak 
 hear of             to know about sb or sth birisi yada bir şey hakkında bilgisi olmak 
 hopeful of          having hope about sth bir şey hakkında umutlu olmak 
-fear of             be afraid of sb or sth birine yada bir şeye korkusu olmak 
 ignorant of         lacking knowledge or awareness in sth bir şeyden habersiz olmak 
-fond of             having a liking for or love of sb or sth birine yada bir şeye düşkün olmak 
 knowledge of        have information about sth bir şey hakkında bilgi sahibi olmak 
 lack of             to not have or not have enough of something that is needed or wanted bir şeyin eksik olması/yeterince olmaması 
 innocent of         not guilty of an offence bir suçta/durumda masum olmak 
@@ -771,7 +737,6 @@ tolerant of         inclined to tolerate sth or sb birine yada bir şeye karşı
 smell of            to have the odor of sth due to its presence bir şeyin kokusunu almak 
 remind of           to cause sb to remember sth birine bir şeyi hatırlatmak 
 relieve of          to remove sb who has done sth wrong from a duty, job, etc. birini görevden almak 
-avoid of            to stay away from sb or sth birinden veya bir şeyden uzak durmak/kaçınmak 
 warn of             inform sb in advance of a possible danger birini bir konuda uyarmak 
 sure of             completely confident about sth bir şeyden emin olmak 
 scared of           to be afraid of sth bir şeyden korkmak
@@ -780,34 +745,9 @@ FROM
 prevent from        keep sth from happening bir şeyi engellemek 
 profit from         to get an advantage from a situation bir şeyden çıkar sağlamak 
 prohibit from       to forbid sb or sth from doing sth bir şeyi yapmayı yasaklamak 
-absent from         not present bir yerde bulunmama 
-abstain from        to avoid or stay away from sb or sth birinden veya bir şeyden kaçınma 
-ban from            to forbid sth yasaklamak 
-benefit from        gain profit from sth bir şeyden yararlanmak 
-arise from          ascent from somewhere   /  become appearent  den kaynaklanmak / den gelmek / ortaya çıkmak 
-alienate from       make sb feel isolated den yabancılaşmak 
-deduce from         arrive at a conclusion den sonuç çıkarmak 
-deduct from         take away (an amount or part) from a total den düşmek (parasal) 
-depart from         to leave   /   to not use the usual way of doing something den ayrılmak   /  bir şeyi yapmanın olağan yolunu kullanmamak 
-derive from         to obtain or receive from a source den türemek 
-deter from          discourage sb from doing sth den caydırmak 
-deviate from        depart from an established course bir şeyden sapmak 
-different from      not the same as other thing(s) den farklı 
-discriminate from   recognize a distinction; differentiate den ayırt etmek 
-free from           lacking; without  /   released or removed from sth …sız / den uzak / den muaf 
-eradicate from      destroy sth in somewhere den yok edilmek 
-escape from         break free from confinement or control den kaçmak 
-distinct from       not the same as other thing(s) den farklı 
-distinguish from    recognize sb or sth as different den ayırmak / den ayırt etmek 
-divert from         cause sb/sth to change course or turn from one direction to another bir yerden bir yere yönlendirmek 
-divorce from        legally dissolve one's marriage with sb  /  seperate from sth den boşanmak  /  den ayrılmak 
-draw from           to take or obtain something from a particular source. belirli bir kaynaktan bir şey almak 
-exclude from        to leave out sth : to not include sth hariç tutmak 
 graduate from       successfully complete an academic degree den mezun olmak 
 hide from           to physically conceal sb or sth den saklamak/saklanmak 
 hinder from         to stop sb from doing sth birinin bir şey yapmasını engellemek 
-eliminate from      to remove or take away sb/sb birini yada bir şeyi bir yerden çıkarmak/yok etmek/elemek 
-emerge from         move out of or away from sth and become visible bir şeyden uzaklaşıp görünür hale gelmek 
 infer from          to come to or reach a conclusion from or regarding the information bir şeyden sonuç çıkarmak seperate from to move apart den ayrı 
 recover from        to get back or regain sth lost or taken away den kurtarmak / alınan yada kaybolan bir şeyin geri kazanılması 
 refrain from        stop oneself from doing sth birinin bir şey yapmaktan kaçınması 
@@ -822,32 +762,14 @@ withdraw from       leave or cause to leave a place or situation den geri çekil
 result from         to cause sth to happen den kaynaklanmak / bir şeyin olmasına sebep olmak 
 
 FOR
-account for         to explain the reason for sth or the cause of sth bir şeyin nedenini açıklamak 
-apologize for       express regret for sth bir şey için özür dilemek 
-adequate for        be satisfactory or acceptable in quality or quantity for sth bir şey için yeterli olmak 
-appreciation for    to be thankful upon sth bir şey için takdir etmek 
-appropriate for     being suitable for sth bir şeye uygun olmak 
-admiration for      feeling the mixture of respect and love at the same time bir şeye hayranlık duymak 
-affection for       feel of liking for sb or sth birine yada bir şeye sevgi hissetmek 
-demand for          request sth bir şey istemek 
 contempt for        humiliate sb birisini aşağılamak 
-desire for          to want sth, especially strongly bir şeye haz duymak 
 cry for             shout or scream, typically to express fear, pain, or grief haykırmak/yakarmak/ağıt yakmak 
 notorious for       to describe people, places, or things that are famous for a bad reason bir şeyden dolayı kötü anılmak 
 cure for            relieve of the symptoms of a disease or condition bir şeyin tedavisi olmak 
-dislike for         to not like sb or sth bir şeyden haz etmemek 
-disregard for       to ignore sth bir şeyi önemsememek 
-disrespect for      lack of respect for sb or sth birine yada bir şeye saygısızlık yapmak 
-enthusiasm for      a feeling of energetic interest in a particular subject or activity bir şeye hevesli olmak
 forgive for         excuse sb for sth birini bir şeyden dolayı affetmek 
 good for            to be able and willing to provide something bir şeyde iyi olmak 
 grateful for        be thankful for sth bir şeye minnettar olmak 
-exchange for        to return or trade an item for sth else. bir şey karşılığında takas etmek 
-explanation for     a reason or justification given for an action or belief bir şey için açıklaması olmak 
-eager for           strongly wanting to do or have sth bir şeye istekli olmak 
-famous for          known about with sth by many people bir şeyiyle ünlü olmak
 hope for            to be hopeful that sth will happen bir şeye bel bağlamak / bir şeyi umut etmek 
-fight for           to fight in support of sth bir şey uğruna savaşmak 
 pay for             to make payment for sth bedelini ödemek 
 plan for            to make the necessary preparations for sth before it happens planlamak 
 liable for          responsible by law bir şeyle sorumlu olmak 
@@ -875,36 +797,6 @@ supply for          make sth needed or wanted available to sb tedarik etmek/dest
 
 
 WITH 
-alternate with      occur in turn repeatedly birbirini sırayla izlemek 
-angry with          feeling anger kızgın olmak
-annoyed with        slightly angry; irritated sinirlenmek/rahatsız olmak 
-begin with          to do the first part of an action with sth ile başlamak 
-concern with        to be busy with sth ile ilgilenmek 
-argue with          to engage in an argument with sb birisiyle tartışmak 
-bored with          one's feeling weary and impatient because of lacking interest in somethingbir şeyden sıkılmak 
-busy with           keep oneself occupied bir şeyle meşgul olmak 
-associate with      to be related to a particular subject, activity etc ile ilişkili olmak 
-agree with          to think the same thought with sb aynı fikirde olmak 
-conflict with       disaggrement on sth with sb ile çatışmak 
-confuse with        identify wrongly; mistake birini yada bir şeyi başka biri yada bir şeyle karıştırmak 
-charge with         to officially accuse one of a crime birini bir şeyle suçlamak 
-consistent with     not containing any logical contradictions ile tutarlı olmak 
-content with        be satisfied with what one have ile yetinmek / ile memnun olmak 
-coincide with       occur at the same time ile rastlaşmak / ile denk gelmek 
-collaborate with    work jointly on an activity or project with sb biriyle iş birliği yapmak 
-combine with        join or merge to form a single unit with sth ile birleştirmek 
-cooperate with      to work with sb in a positive manner for a common purpose ile işbirliği yapmak 
-cope with           deal effectively with something difficult ile başa çıkmak 
-correspond with     communicate by exchanging letters /to match or be similar / biriyle yazışmak / ile uymak 
-communicate with    share or exchange information with sb biriyle iletişim kurmak 
-cover with          put sth on top of or in front of sth in order to protect or conceal it ile örtmek / ile kapatmak 
-compatible with(of two things)able to exist or occur together without problems ile uyumlu 
-compete with        be able to rival another or others ile yarışmak 
-cross with          be offended to sb biriyle küsmek 
-comply with         act in accordance with a wish or command boyun eğmek 
-deal with           to take action in order to achieve something bir şeyin üstesinden gelmek 
-equip with          supply with the necessary items for a particular purpose ile donatmak 
-familiar with       having some knowledge about sth aşina olmak 
 identify with       to think of sth as being the same as sth else ile özdeşleşmek 
 infect with         to put an idea on someone's head birinin kafasına bir şey sokmak 
 interact with       communicate or be involved directly with sb ile etkileşime girmek 
@@ -923,14 +815,7 @@ satisfied with      to be happy with sth                                        
 
 
 ABOUT
-anxious about       full of mental distress or uneasiness about sth                 bir şey hakkında endişeli olmak
-argument about      a disagreement on sth                                           bir şey hakkında tartışma 
-ask about           to ask for information about sb or sth                          bir şey yada biri hakkında soru sormak
-careful about       making sure of avoiding danger things                           bir şey hakkında dikkatli olmak
-concern about       relate to sth                                                   bir şeyle ilgili olmak
-doubt about         feel uncertain about sth                                        bir şey hakkında şüpheli olmak
 ideas about         suggestions or plans for doing sth                              bir şey hakkındaki fikirler,öneriler 
-forget about        to not think about/ fail to remember / disregard sb or sth      bir şeyi unutmak/hatırlamamak/ birini veya bir şeyi boşvermek
 information about   fact provided or learned about sth or sb                        bir şey yada biri hakkındaki bilgi
 question about      ask sb questions about sth                                      birini bir şey hakkında sorgulamak 
 talk about          to say words in order to express thoughts, feelings... abt sth  bir şey hakkında düşünceleri, duyguları vb. bahsetmek için konuşmak
@@ -938,18 +823,7 @@ worry about         to feel uneasy, anxious, or fretful about sb or sth         
 
 
 AGAINST
-ally against        being a person, group, or nation that is associated with one side against the other side  bir tarafa karşı diğer tarafla müttefik olmak 
-battle against      wage a fight against sb or sth                                        birine veya bir şeye karşı savaşmak
-bias against        having a prejudice against sb or sth                                  birine ya da bir şeye karşı önyargılı olmak
-aggresion against   have a quality of anger and determination that makes you ready to attack other peoplebirine karşı saldırgan olmak/agresif olmak 
-campaign against    to strongly oppose sb or sth and encourage others to do the same      birine veya bir şeye karşı olup diğerlerini de cesaretlendirmek
-defend against      to protect sb or sth against a physical attack                        birini yada bir şeyi herhangi bir şeye karşı korumak
-conspire against    to agree together, especially secretly against sb or sth              birine yada bir şeye karşı gizli anlaşma yapmak
-crime against       to do  illegal activities against sth                                 bir şeye karşı suç işlemek
-compete against     to work or put forth effort against sb or sth in an attempt to do sth successfully  birine yada bir şeye karşı yarışmak/mücadele etmek 
-evidence against    to act as a witness against sb in court by presenting proof that they acted or did not act in a certain way kanıt sunarak birine karşı tanıklık etmek
 guard against       to take careful action in order to try to prevent sth from happening  bir şeyi yada birini olası şeylere karşı korumak 
-fight against       to struggle or contend with sb or sth                                 biriyle veya bir şeyle mücadele etmek/savaşmak 
 immunize against    to gain a resistance or immunity to a disease                         bir hastalığa karşı bağışıklık kazanmak
 lean against        rest on for support                                                   birine yada bir şeye yaslanmak
 legislation against to ban, prohibit, or forbid something through legislation             yasa yoluyla bir şeyi yasaklamak
@@ -967,15 +841,6 @@ warn against        to advise sb not to do sth                                  
 
 
 OVER
-anxiety over        a worried feeling you have because you think sth bad might happen     bir şey hakkında endişe etmek 
-authority over      have control over sb or sth                                           birinin yada bir şeyin üzerinde otorite sahibi olmak 
-battle over         to argue about who gets access to sb or sth                           birine yada bir şeye ulaşmak için mücadele etmek 
-advantage over      have a favorable or superior position when compared to sb or sth else birisiyle veya bir şeyle karşılaştırıldığında üstün pozisyona sahip olmak 
-control over        power or influence over sb or sth                                     birinin yada bir şeyin üstünde kontrol sahibi olmak 
-controversy over    discussion and argument about sth                                     bir şey üzerine tartışmak 
-disagree over       to have a different opinion about sth                                 bir şey üzerine anlaşmazlık olması 
-disagreement over   a situation where people have different opinions about sth            bir durum hakkında farklı fikirler olması 
-dominance over      power or influence over sb or sth                                     birinin yada bir şeyin üstünde hakimiyeti olmak 
 puzzle over         to think hard about sb or sth for a long time and try to understand them biri yada bir şey hakkında çok düşünüp çözmeye çalışmak 
 triumph over        to defeat sb or sth birini yada bir şeyi yenmek 
 victory over        a win over an opponent or over difficult problems                     zor problemler üzerinde zafer elde etmek
@@ -983,3 +848,134 @@ victory over        a win over an opponent or over difficult problems           
 
 
 
+attack on           take aggresive action against sb                birine saldırmak 
+assault on          make a physical attack on sb                    birine saldırmak 
+access to           be reached                                      ulaşılır olmak/ e ulaşmak 
+alternative to      be available as another choice                  bir şeye alternatif olmak
+answer to           sth said or written in reply                    bir şeye cevap olmak
+appeal to           to ask for something, usually in an urgent or pleading manner bir şeye başvurmak/istemek appear to give the impression of being e görünmek/görünür olmak 
+apply to            make a formal application or request e başvurmak 
+adapt to            to modify or adjust sth to fit or work properly with something else / to become familiar or comfortable with sth e uyarlamak / e adapte olmak 
+add to              to make an amount or number greater by adding another amount or numbere eklemek 
+approach to         come near or nearer to sb or sth in distance or time e yaklaşmak 
+adhere to           to continue to obey a rule or have a belief bir kurala veya inanca bağlı kalmak 
+adjust to           alter or move (something) slightly in order to achieve the desired fit, appearance, or result e uyarlamak / e alışmak 
+admit to            to admit sth / to acknowledge the truth or existence of sth bir şeyi itiraf etmek 
+assign to           appoint to a job or duty bir işe veya göreve atamak 
+attachment to       affection, fondness, or sympathy for sb or sth birine veya bir şeye karşı bağlılık 
+alien to            be unfamiliar and disturbing or distasteful to sth e yabancı olmak 
+allege to           to say that sb has done sth illegal or wrong without giving proof iddia etmek 
+attend to           to manage or take care of sb or sth biriyle veya bir şeyle ilgilenmek yada bakmak 
+attentive to        paying careful attention to something bir şeye özenli dikkatli olmak
+attribute to        to believe or say that a situation or event is caused by something atfetmek, bir durumun bir şey tarafından sebep olduğuna inanmak 
+approval of         accept sth is good bir şeyin onaylanması durumu 
+ashamed of          be embrassed because of sth bir şeyden utanmak 
+afraid of           feel fear of sth bir şeyden korkmak 
+assure of           tell someone something positively to dispel any doubts birine güvence vermek 
+avoid of            to stay away from sb or sth birinden veya bir şeyden uzak durmak/kaçınmak
+absent from         not present bir yerde bulunmama 
+abstain from        to avoid or stay away from sb or sth birinden veya bir şeyden kaçınma 
+arise from          ascent from somewhere   /  become appearent  den kaynaklanmak / den gelmek / ortaya çıkmak 
+alienate from       make sb feel isolated den yabancılaşmak 
+account for         to explain the reason for sth or the cause of sth bir şeyin nedenini açıklamak 
+apologize for       express regret for sth bir şey için özür dilemek 
+adequate for        be satisfactory or acceptable in quality or quantity for sth bir şey için yeterli olmak 
+appreciation for    to be thankful upon sth bir şey için takdir etmek 
+appropriate for     being suitable for sth bir şeye uygun olmak 
+admiration for      feeling the mixture of respect and love at the same time bir şeye hayranlık duymak 
+affection for       feel of liking for sb or sth birine yada bir şeye sevgi hissetmek
+associate with      to be related to a particular subject, activity etc ile ilişkili olmak 
+alternate with      occur in turn repeatedly birbirini sırayla izlemek 
+angry with          feeling anger kızgın olmak
+annoyed with        slightly angry; irritated sinirlenmek/rahatsız olmak 
+argument about      a disagreement on sth                                           bir şey hakkında tartışma 
+ask about           to ask for information about sb or sth                          bir şey yada biri hakkında soru sormak
+ally against        being a person, group, or nation that is associated with one side against the other side  bir tarafa karşı diğer tarafla müttefik olmak 
+aggresion against   have a quality of anger and determination that makes you ready to attack other peoplebirine karşı saldırgan olmak/agresif olmak 
+authority over      have control over sb or sth                                           birinin yada bir şeyin üzerinde otorite sahibi olmak 
+advantage over      have a favorable or superior position when compared to sb or sth else birisiyle veya bir şeyle karşılaştırıldığında üstün pozisyona sahip olmak 
+
+
+
+compete in          to make an effort to be more succesful rekabet etmek
+confide in          trust güvenmek 
+change to           to convert sth to a different form or method bir şeyin farklı bir forma dönüşmesi / e değişmek 
+confine to          to only exist in a particular area or group of people sınırlamak 
+contribute to       give sth, especially money in order to help achieve or provide something bir şeye katkı sağlamak 
+close to            very near to sb or sth e yakın olmak 
+compare to          in relation to sth else : measured or judged against sth bir şeyle karşılaştırmak 
+crucial to          of great importance for sth bir şey için çok önemli, kritik 
+cruel to            wilfully causing pain or suffering to others bir şeye karşı zalim olmak 
+concern with        to be busy with sth ile ilgilenmek 
+conflict with       disaggrement on sth with sb ile çatışmak 
+confuse with        identify wrongly; mistake birini yada bir şeyi başka biri yada bir şeyle karıştırmak 
+charge with         to officially accuse one of a crime birini bir şeyle suçlamak 
+consistent with     not containing any logical contradictions ile tutarlı olmak 
+content with        be satisfied with what one have ile yetinmek / ile memnun olmak 
+coincide with       occur at the same time ile rastlaşmak / ile denk gelmek 
+collaborate with    work jointly on an activity or project with sb biriyle iş birliği yapmak 
+combine with        join or merge to form a single unit with sth ile birleştirmek 
+cooperate with      to work with sb in a positive manner for a common purpose ile işbirliği yapmak 
+cope with           deal effectively with something difficult ile başa çıkmak 
+correspond with     communicate by exchanging letters /to match or be similar / biriyle yazışmak / ile uymak 
+communicate with    share or exchange information with sb biriyle iletişim kurmak 
+cover with          put sth on top of or in front of sth in order to protect or conceal it ile örtmek / ile kapatmak 
+compatible with(of two things)able to exist or occur together without problems ile uyumlu 
+compete with        be able to rival another or others ile yarışmak 
+cross with          be offended to sb biriyle küsmek 
+comply with         act in accordance with a wish or command boyun eğmek 
+careful about       making sure of avoiding danger things                           bir şey hakkında dikkatli olmak
+concern about       relate to sth                                                   bir şeyle ilgili olmak
+campaign against    to strongly oppose sb or sth and encourage others to do the same      birine veya bir şeye karşı olup diğerlerini de cesaretlendirmek
+conspire against    to agree together, especially secretly against sb or sth              birine yada bir şeye karşı gizli anlaşma yapmak
+crime against       to do  illegal activities against sth                                 bir şeye karşı suç işlemek
+compete against     to work or put forth effort against sb or sth in an attempt to do sth successfully  birine yada bir şeye karşı yarışmak/mücadele etmek 
+control over        power or influence over sb or sth                                     birinin yada bir şeyin üstünde kontrol sahibi olmak 
+controversy over    discussion and argument about sth                                     bir şey üzerine tartışmak 
+confess to          to admit sth to sb birine bir şeyi itiraf etmek
+
+
+
+
+dress in            to put clothes on yourself or someone else giyinmek 
+drop in             to fall   / to leave damlamak /  bırakmak 
+depend on           to trust sb/sth and know that that person or thing will help you            birine yada bir şeye bağlı olmak 
+dependent on        need the support of sb or sth             birine yada bir şeye bağımlı olmak 
+dedicate to         devote to a particular subject e adamak contrary to conflicting with sth bir şeye karşı olmak/zıt olmak 
+damage to           inflict physical harm on sth e zarar vermek 
+dare to             have the courage to do something e cürret etmek / e cesareti olmak 
+devote to           to give all of sth, especially your effort, or love,to sth you believe in or to a person e adamak 
+determined to       having made a firm decision and being resolved not to change it e kararlı olmak 
+deprive of          to take sth away from sb or sth birini veya bir şeyi başka bir şeyden mahrum bırakmak 
+desirous of         having or expressing desire for sth bir şeyi arzu etmek 
+despair of          to give up or lose all hope about sth bir şeyden ümidini kesmek 
+disadvantage of     to be at the expense of sb or sth birinin yada bir şeyin zararına olmak 
+disapprove of       to believe that sb or sth is bad or wrong bir şeyi yada birini uygun bulmamak/onaylamamak 
+dispose of          to get rid of sb or sth bir şeyden yada birinden kurtulmak/elden çıkarmak 
+distinct from       not the same as other thing(s) den farklı 
+distinguish from    recognize sb or sth as different den ayırmak / den ayırt etmek 
+divert from         cause sb/sth to change course or turn from one direction to another bir yerden bir yere yönlendirmek 
+divorce from        legally dissolve one's marriage with sb  /  seperate from sth den boşanmak  /  den ayrılmak 
+draw from           to take or obtain something from a particular source. belirli bir kaynaktan bir şey almak 
+deduce from         arrive at a conclusion den sonuç çıkarmak 
+deduct from         take away (an amount or part) from a total den düşmek (parasal) 
+depart from         to leave   /   to not use the usual way of doing something den ayrılmak   /  bir şeyi yapmanın olağan yolunu kullanmamak 
+derive from         to obtain or receive from a source den türemek 
+deter from          discourage sb from doing sth den caydırmak 
+deviate from        depart from an established course bir şeyden sapmak 
+different from      not the same as other thing(s) den farklı 
+discriminate from   recognize a distinction; differentiate den ayırt etmek 
+demand for          request sth bir şey istemek 
+desire for          to want sth, especially strongly bir şeye haz duymak 
+dislike for         to not like sb or sth bir şeyden haz etmemek 
+disregard for       to ignore sth bir şeyi önemsememek 
+disrespect for      lack of respect for sb or sth birine yada bir şeye saygısızlık yapmak 
+deal with           to take action in order to achieve something bir şeyin üstesinden gelmek 
+doubt about         feel uncertain about sth                                        bir şey hakkında şüpheli olmak
+defend against      to protect sb or sth against a physical attack                        birini yada bir şeyi herhangi bir şeye karşı korumak
+disagree over       to have a different opinion about sth                                 bir şey üzerine anlaşmazlık olması 
+disagreement over   a situation where people have different opinions about sth            bir durum hakkında farklı fikirler olması 
+dominance over      power or influence over sb or sth                                     birinin yada bir şeyin üstünde hakimiyeti olmak 
+dream of            to think about sth that you want very much çok istenilen bir şeyin hayalini kurmak 
+dwell on            to spend a lot of time thinking or talking about sth unpleasant bir şey üzerinde durmak/uzatarak söylemek 
+decide on           make a choice about sth                   bir şeye karar vermek 
