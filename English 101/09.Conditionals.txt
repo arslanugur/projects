@@ -1,7 +1,4 @@
-if I had eight hours to chop down a tree, I would spend six hours sharpening my ax                                                                   prepared by Uğur ARSLAN
-         eğer bir ağacı kesmek için sekiz saatim olsaydı, altı saatimi baltamı bilemek için harcardım                                                           @arslanuguur
-
-CONDITIONALS
+CONDITIONALS                                                                                                                prepared by Uğur ARSLAN, @arslanuguur
 - Type Zero   (0) ------  Certain
 - Type One    (1) ----    Possible
 - Type Two    (2) --      Less Possible
@@ -14,6 +11,7 @@ Extra Conditionals
 - Only if
 - Even if
 - Unless
+- Whether (.. or not)
 
 
 Type Zero (0): (General Truth)
