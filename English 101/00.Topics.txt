@@ -1,4 +1,36 @@
----> Examples of Global Issues
+---> Different Type Speaking Topics for Students
+      what do you want to be in your future
+      what is your dream for your future?
+      what field do you want to improve yourself? 
+      what field in the university do you want to study?                           field = department
+      
+      what do you think about ...
+			            your city
+                                   country
+                                   future
+                                   life
+                                   personality
+                                   friends
+                                   teachers
+                                   school
+                                   work
+                                    
+      do you have any plan about your life?                              
+      what activities do you like to do in your free time?
+      how much time you spend to study / work?
+      how often do you use smart phone or computer?
+      what do you do on your smartphone or computer?
+      can you drive a car – do you have a driving license
+      what country do you want to travel 
+      have you ever travelled abroad?
+      have you ever travelled another city?
+      which countries/cities have you travelled?            - which one is better
+      do you think that your family expects anything from you about your future?
+      generally, how is your communication with people?      
+      
+      
+      
+---> Reading - Translation Examples about Global Issues
 
 Clean Water
       Water is a basic substance required for all living organisms. Without it, human health inevitably fails. 
@@ -84,6 +116,85 @@ Refugees
               Children make up the largest percentage of refugees. 
               The U.N. Refugee Agency currently provides aid and safekeeping to 59 million refugees.
 
+Electric Car
+            Old electric cars are a raw material of the future.
+            Car Sales have, generally speaking, plunged during the coronavirus epidemic. But there has been one bright spot. 
+            Electric vehicles (EVs) continue to grow in popularity. 
+            According to IHs Markit, a research firm, almost 2.5m battery-electric and plug-in-hybrid cars were sold around the world in 2020—and 
+            the company expects that number to grow by 70% this year. 
+            BloombergNEF, another researcher, reckons that by 2030 some 8% of the 1.4bn cars on the road will be electric, rising to more than 30% by 2040. 
+            It is not, moreover, just a matter of cars. There will also be electric lorries, buses, motorbikes, bicycles, scooters, ships and maybe even aircraft. 
+            And, when all of these machines come to the ends of their useful lives, they will need to be recycled.
+
+Crypocurrency
+
+Climate Change
+
+Artificial Intelligence
+
+Social Media
+
+Online Education
+
+Nuclear Power
+
+Space Discovery
+
+Master Degree
+
+Genetics
+
+Overpopulation
+
+Sea Pollution
+
+Air Pollution
+
+
+
+
+
+
+---> An Interviewer And An Interviewee
+Interviewer: Welcome to ABC Controls, David. I am Tom.
+Interviewee: Hello, it's nice to meet you.
+Interviewer: Nice to meet you too, how are you doing today?
+Interviewee: I am doing well, and yourself?
+Interviewer: Great, thanks. I hope we didn't keep you waiting for long?
+Interviewee: No, I had the chance to talk to one of your engineers while waiting.
+Interviewer: That's good. David, shall we start?
+Interviewee: Yeah, sure.
+Interviewer: First of all, let me introduce myself. I am the manager of our engineering department here and we have an open position, 
+             so we have been interviewing applicants to fill the position as quickly as possible.
+Interviewee: Yes sir, I read about the position on your website, and I think I am a good fit.
+Interviewer: We currently have several ongoing projects and the team is working hard. We are hoping to keep busy for a long time.
+Interviewee: What are the essential qualifications required for the position?
+Interviewer: This is an entry-level engineering position, we do provide a lot of training here. 
+             But we do require that you have at least a bachelors degree in computer engineering. Previous experience in the field is a plus. 
+Interviewee: What kind of experience would you count as a work in the field?
+Interviewer: Even though we provide training, 
+             it would be great if you had some hands-on programming experience, knowledge of database systems or skills on developing applications.
+Interviewee: My final school project was actually developing a mobile application, so I am fairly competent in developing mobile and web applications.
+Interviewer: That's good to hear, which school did you graduate from?
+Interviewee: I was a student at DEF University, and I graduated with a bachelor degree in computer science. 
+             I worked as a computer lab tutor in school for about 2 years. 
+             Guiding students through their projects helped me get experience in several programming languages. 
+Interviewer: What are you looking for in a job?
+Interviewee: The job should definitely help me grow in my career. I will be happy to learn and grow as I work in a passionate company like yours.
+Interviewer: You are right. There is plenty of room for advancement in our company. What are your strengths? Why should I hire you?
+Interviewee: I am a diligent person and a fast learner. I am very eager to learn. My friends also find me very easy to work with.
+Interviewer: Very well. Now, do you mind working overtime?
+Interviewee: No, I do not.
+Interviewer: Because, sometimes we get overwhelmed with heavy workload.
+Interviewee: I understand that's the nature of the job. When I was going to school, 
+             I took quite a few courses each semester while working at least twenty hours every week. 
+             And, I handled that situation very well.
+Interviewer: Do you have any questions for me?
+Interviewee: No, I think I have a pretty good understanding of the requirements. 
+             I believe that I can handle it with ease, and the fact that you provide all the training sounds excellent. I hope to have the opportunity to work for you.
+Interviewer: David, It is nice to meet you. I can tell that you are a good candidate. Expect to hear from us within a week or so about the job.
+Interviewee: Nice meeting you too. Thank you for your time.
+Interviewer: Thank you for coming.
 
 
 
