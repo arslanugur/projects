@@ -117,6 +117,8 @@ Deduction
 	- That can’t be her. 					(impossibility)
 	- but she can come back at any time - her an		(possibility)
 	- how can you bear that on your conscience		nasıl o vicdan yükünü taşıyorsun?
+	- The lift can take four at a time			asansör bir seferde dört kişi alabilir
+
 
 --> COULD
 	- I could do trigonometry six years ago. 		(past ability)
