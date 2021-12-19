@@ -5,7 +5,7 @@
       what field in the university do you want to study?                           field = department
       
       what do you think about ...
-			            your city
+			           your city
                                    country
                                    future
                                    life
