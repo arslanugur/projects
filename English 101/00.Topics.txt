@@ -8,17 +8,22 @@ Clean Water
       Unfortunately, 844 million people lack access to it, and one of three people do not have access to a toilet. 
               Ne yazık ki, 844 milyon insan buna erişemiyor ve üç kişiden birinin tuvalete erişimi yok.
       Millions perish daily from unhygienic diseases due to inadequate water and sanitation. 
-              Yetersiz su ve sanitasyon nedeniyle hijyenik olmayan hastalıklardan her gün milyonlarca insan ölüyor.
+              Yetersiz su ve sağlık önlemleri nedeniyle hijyenik olmayan hastalıklardan her gün milyonlarca insan ölüyor.
       Governments are making efforts to assist those in need but are hindered by declining economics and disorganized infrastructures.
               Hükümetler, ihtiyacı olanlara yardım etmek için çaba sarf ediyor, ancak azalan ekonomi ve düzensiz altyapılar tarafından engelleniyor. 
       
       
 Food Security
-              Like water, food helps people lead healthy lives. Globally, 12.9 percent of the population is undernourished. 
-              Developing countries struggle with providing an adequate food supply to their people; 
-              as a result, nearly 795 million people do not have enough food to meet their nutritional needs. 
-              The World Food Programme, a humanitarian effort established by the U.N. to combat hunger and food security, 
-              is working to bring relief to developing countries, currently assisting more than 80 countries every year.
+      Like water, food helps people lead healthy lives. Globally, 12.9 percent of the population is undernourished. 
+              Su gibi, yemek de insanların sağlıklı yaşam sürmesine yardımcı olur. Küresel olarak, nüfusun yüzde 12,9'u yetersiz besleniyor.
+      Developing countries struggle with providing an adequate food supply to their people; 
+              Gelişmekte olan ülkeler, halklarına yeterli gıda arzını sağlamakta zorlanıyor;    
+      as a result, nearly 795 million people do not have enough food to meet their nutritional needs.
+              Sonuç olarak, yaklaşık 795 milyon insan beslenme ihtiyaçlarını karşılamak için yeterli gıdaya sahip değil.
+      The World Food Programme, a humanitarian effort established by the U.N. to combat hunger and food security, 
+              Açlık ve gıda güvenliği ile mücadele amacıyla BM tarafından kurulan insani bir çaba olan Dünya Gıda Programı,
+      is working to bring relief to developing countries, currently assisting more than 80 countries every year.
+              gelişmekte olan ülkelere yardım getirmek için çalışıyor ve şu anda her yıl 80'den fazla ülkeye yardım ediyor. 
 
 Health
               Universal health is a growing concern. 
