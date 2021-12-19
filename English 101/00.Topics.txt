@@ -1,12 +1,18 @@
 ---> Examples of Global Issues
 
 Clean Water
-              Water is a basic substance required for all living organisms. Without it, human health inevitably fails. 
-              According to a report by the United Nations, there is enough fresh water on the planet for everyone. 
-              Unfortunately, 844 million people lack access to it, and one of three people do not have access to a toilet. 
-              Millions perish daily from unhygienic diseases due to inadequate water and sanitation. 
-              Governments are making efforts to assist those in need but are hindered by declining economics and disorganized infrastructures.
-    
+      Water is a basic substance required for all living organisms. Without it, human health inevitably fails. 
+              Su, tüm canlı organizmalar için gerekli olan temel bir maddedir. Onsuz, insan sağlığı kaçınılmaz olarak başarısız olur.
+      According to a report by the United Nations, there is enough fresh water on the planet for everyone. 
+              Birleşmiş Milletler'in bir raporuna göre, gezegende herkese yetecek kadar tatlı su var.
+      Unfortunately, 844 million people lack access to it, and one of three people do not have access to a toilet. 
+              Ne yazık ki, 844 milyon insan buna erişemiyor ve üç kişiden birinin tuvalete erişimi yok.
+      Millions perish daily from unhygienic diseases due to inadequate water and sanitation. 
+              Yetersiz su ve sanitasyon nedeniyle hijyenik olmayan hastalıklardan her gün milyonlarca insan ölüyor.
+      Governments are making efforts to assist those in need but are hindered by declining economics and disorganized infrastructures.
+              Hükümetler, ihtiyacı olanlara yardım etmek için çaba sarf ediyor, ancak azalan ekonomi ve düzensiz altyapılar tarafından engelleniyor. 
+      
+      
 Food Security
               Like water, food helps people lead healthy lives. Globally, 12.9 percent of the population is undernourished. 
               Developing countries struggle with providing an adequate food supply to their people; 
