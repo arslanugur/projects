@@ -17,21 +17,27 @@ Food Security
       Like water, food helps people lead healthy lives. Globally, 12.9 percent of the population is undernourished. 
               Su gibi, yemek de insanların sağlıklı yaşam sürmesine yardımcı olur. Küresel olarak, nüfusun yüzde 12,9'u yetersiz besleniyor.
       Developing countries struggle with providing an adequate food supply to their people; 
-              Gelişmekte olan ülkeler, halklarına yeterli gıda arzını sağlamakta zorlanıyor;    
+              Gelişen ülkeler, halklarına yeterli gıda arzını sağlamakta mücadele ediyor;    
       as a result, nearly 795 million people do not have enough food to meet their nutritional needs.
               Sonuç olarak, yaklaşık 795 milyon insan beslenme ihtiyaçlarını karşılamak için yeterli gıdaya sahip değil.
       The World Food Programme, a humanitarian effort established by the U.N. to combat hunger and food security, 
-              Açlık ve gıda güvenliği ile mücadele amacıyla BM tarafından kurulan insani bir çaba olan Dünya Gıda Programı,
+              Açlık ve gıda güvenliği ile mücadele amacıyla B.M. tarafından kurulan insani bir çaba olan Dünya Gıda Programı,
       is working to bring relief to developing countries, currently assisting more than 80 countries every year.
-              gelişmekte olan ülkelere yardım getirmek için çalışıyor ve şu anda her yıl 80'den fazla ülkeye yardım ediyor. 
+              gelişmekte olan ülkelere yardım/hafifletme/rahatlatma getirmek için çalışıyor ve şu anda her yıl 80'den fazla ülkeye yardım ediyor. 
 
 Health
-              Universal health is a growing concern. 
-              Unfortunately, diseases like HIV/AIDS, malaria, tuberculosis, smallpox and polio are still claiming the lives of thousands of people worldwide, 
-              mostly in developing nations. 
-              The World Health Organization is a global initiative that provides antibiotics and vaccinations all over the world. 
-              Since its inception, polio cases have declined by 99 percent, tuberculosis treatment has saved more than 37 million people, 
-              and in 2016, zero cases of Ebola were reported in West Africa.
+      Universal health is a growing concern. 
+                    Evrensel sağlık büyüyen bir endişe kaynağıdır.
+      Unfortunately, diseases like HIV/AIDS, malaria, tuberculosis, smallpox and polio are still claiming the lives of thousands of people worldwide, 
+                    Ne yazık ki, HIV/AIDS, sıtma, tüberküloz, çiçek hastalığı ve çocuk felci gibi hastalıklar hala dünya çapında binlerce insanın hayatına mal oluyor.
+      mostly in developing nations. 
+                  çoğunlukla gelişmekte olan ülkelerde.
+      The World Health Organization is a global initiative that provides antibiotics and vaccinations all over the world. 
+                  Dünya Sağlık Örgütü, tüm dünyada antibiyotik ve aşı sağlayan küresel bir girişimdir.
+      Since its inception, polio cases have declined by 99 percent, tuberculosis treatment has saved more than 37 million people, 
+                  Başlangıcından bu yana, çocuk felci vakaları yüzde 99 azaldı, tüberküloz tedavisi 37 milyondan fazla insanı kurtardı,   
+      and in 2016, zero cases of Ebola were reported in West Africa.
+                  ve 2016'da Batı Afrika'da sıfır Ebola vakası bildirildi. 
 
 Human Rights
               Every person deserves basic rights, regardless of their race, sex or ethnicity. 
