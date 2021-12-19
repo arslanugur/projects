@@ -52,20 +52,36 @@ plural		you										you		happily 	at the station	on the weekend
 														willingly	in the cafe	ten minutes ago
 
 
-			TO BE					COMMON TENSES					Examples
--------------------------------------------------------		--------------------------------------------------------------------------------------------
-PRESENT        PAST        FUTURE       PERFECT			Present Simple 		(Geniş zaman)		he watches us		they see him
--------------------------------------------------------		Present Continuous	(Şimdiki zaman)		he is watching us	they are seeing him
-am	       was	   will be	have / had been		Present Perfect		(Türkçede yok)		he has watched us	they have seen him
-is	       was	   will be	has  / had been		Past Simple		(Geçmiş zaman)		he watched us		they saw him
-are	       were	   will be	have / had been		Future Simple		(Gelecek Zaman)		he will watch us	they will see him
+---> TO  BE						I	    he/she/it	    we/you/they
+-----------------------------------------------------------------------------------------------------------
+be as a main verb in the Present Simple			am		is		are		* he = Jack, he = 25, he = architect, he = single, he = here
+be as a main verb in the Past Simple			was		was		were		* his visit = how / short, it = certain, it = sunny
+be as a main verb in the Future Simple				      will be				* he = at home, he = in Los Angeles, he = from United States
+be as a main verb in the Present Perfect			   has/have been			* this = Jack, that = ship
+be as a main verb in the Past Perfect				      had been				* there = three people, there = a building, there = a car
 
-* he = Jack, he = 25, he = architect, he = single
-* his visit = how / short, it = certain, it = sunny
-* he = at home, he = in Los Angeles, he = from United States
-* this = Jack, that = ship
-* there = three people, there = a building, there = a car
-* Continuous (-ing) tenses
+------------------------------------------------------------------------------------------------------------
+be as an auxiliary in the Present Continuous		am		is		are	  +	Ving	* s/he is watching television
+be as an auxiliary in the Past Continuous		was		was		were	  +	Ving	* s/he was watching television
+be as an auxiliary in the Passive
+			Present Simple		A house is built
+			Past Simple		A house was built
+    			Future Simple		A house will be built
+			Future - going to	A house is going to be built
+
+
+
+---> COMMON TENSES				Examples
+--------------------------------------------------------------------------------------------
+Present Simple 		(Geniş zaman)		he watches us		they see him
+Present Continuous	(Şimdiki zaman)		he is watching us	they are seeing him
+Present Perfect		(Türkçede yok)		he has watched us	they have seen him
+Past Simple		(Geçmiş zaman)		he watched us		they saw him
+Future Simple		(Gelecek Zaman)		he will watch us	they will see him
+
+
+
+
 
 ---> SENTENCE STRUCTURES
 S + V	        	students learn
