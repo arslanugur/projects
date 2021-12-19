@@ -1,4 +1,9 @@
-There are two types of MODIFIERS: adjectives and adverbs.                                                             prepared by Uğur ARSLAN, @arslanuguur
+"manners maketh man" - English Proverb                                                                                      prepared by Uğur ARSLAN, @arslanuguur
+        "davranışlar, insanı insan yapar ve kişiliğini oluşturur" - İngiliz Atasözü
+
+
+There are two types of MODIFIERS: adjectives and adverbs
+
 
 ---> ADJECTIVES
 
@@ -179,7 +184,6 @@ I focus too much on the details
 
 
 --> ADJECTIVE PHRASAL EXAMPLES
-manners maketh man                                tavırlar (birini) adam yapar
 nobody's perfect                                  hiç kimse kusursuz değildir
 take it easy                                      sakin ol, kolay gelsin
 easy-peasy                                        çocuk oyuncağı
@@ -215,14 +219,14 @@ he has juvenile anger                             genç öfkesine sahip
 you look so sad/mopish, what happened?            üzgün gözüküyorsun, ne oldu?
 she is broken                                     o kırılmış
 he is broke                                       o meteliksiz
-a martini. shaken, not stirred.                   bir martini, çalkalanmış ama karıştırılmamış
 more important than one man's life is order       bir adamın hayatından daha önemli olan düzendir
+good students becomes good employees, self-learners become employers
 you can be successful and have enemies or you can be unsuccessful and have friends
 why is this so important to you all of a sudden?  bir anda (ani) neden önemli oldu?       - because I just realized it's really important to me
 I already know all of these, it is not necessary for me. It is necessary for you all
 money is very powerful, but sometimes it’s more powerful to say no to it
 I don't care who is doing better than me. I am doing better than I was last year. it is me, myself versus me
-today, I consider myself the luckiest man on the face of the earth.
+today, I consider myself the luckiest man on the face of the earth
 it could have gone better - daha iyi gidebilirdi (well)
 as far as I am concerned, you are no longer welcome here
 first time i have been in school for three consecutive days           sanırım üç gün boyunca okulda art arda olduğum ilk zamandı
@@ -374,6 +378,23 @@ thirsty = parched
 --> V
 --> W	
 
+
+
+--> Extras
+ADJECTIVES
+dodgy - unreliable, untrustworthy, dangerous
+  this is really dodgy area and there are lots of dodgy people here
+knackered - really very tired
+  I really need to go to bed, I'm knackered
+
+--> Quotes
+    "the faker you are, the bigger your circle will be.
+     the realer you are, the smaller your circle you are. These are well-known facts." R. Reynolds
+    "a martini. shaken, not stirred."   bir martini, çalkalanmış ama karıştırılmamış - James Bond 007
+    "manners maketh man" - tavırlar (birini) adam yapar - English Proverb
+
+
+
 ambitious - aspiring
 artificial - fake - synthetic - false
 amazing - fantastic - astonishing - fabulous - wonderful
@@ -387,39 +408,28 @@ apparent - obvious - evident
 awful - dreadful 
 awkward - clumsy - embrassing
 aggressive - assertive - pushy
-
-
-
-
-
---> Extras
-ADJECTIVES
-dodgy - unreliable, untrustworthy, dangerous
-  this is really dodgy area and there are lots of dodgy people here
-knackered - really very tired
-  I really need to go to bed, I'm knackered
-"the faker you are, the bigger your circle will be.
- the realer you are, the smaller your circle you are. These are well-known facts." R. Reynolds
-
-
-punitive -ceza gerektirici
+punitive - ceza gerektirici
 blockaded - kuşatılmış
 profound - derin, kök
-absurd
-chilling
-controversial
-Coming-of age
-Emsemble
-Fairy Tale
-Ominous
-Rags to Riches
-Suspenseful
-Slick
-Gal Pals
-Scandalous
-Sentimental
-Twists and Turns
-Heartfelt
-Rousing
+absurd - saçma
+chilling - rahatlatıcı
+controversial - tartışmalı, münakaşalı, anlaşmazlığa neden olan
+Coming-of age - reşit olma yaşı
+Ensemble - topluluk, grup, birlik
+Fairy Tale - peri masalı
+Ominous - uğursuz, meşum
+Rags to Riches - paçavradan zenginliklere
+Suspenseful - şüpheli, endişeli
+Slick - kurnaz, şeytan gibi
+Gal Pals - kız arkadaşlar
+Scandalous - kepaze, rezil, iftiralı, dedikoducu
+Sentimental - duygulu, hisli, duygulara hitap eden
+Twists and Turns - şaşırtıcı ve dönüşlü
+Twist ending - şaşırtıcı sonlu
+Heartfelt - yürekten, içten, samimi, candan
+Rousing - heyecan verici, hareketlendirici
+	
+
+
 
 
