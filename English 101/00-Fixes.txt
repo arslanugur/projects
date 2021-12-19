@@ -1,0 +1,72 @@
+NOUN SUFFIXES      adjective                Examples
+------------------------------------------------------------------------------------------------------------------------
+-acy                                        privacy, fallacy, delicacy
+-ary                                        budgetary, planetary, military, honorary
+-al                                         refusal, recital, rebuttal, arrival, burial, deferral
+-ance, -ence                                reliance, defence, insistence, brilliance, maintenance, eminence, assurance
+                   -ant, -ent               reliant, defiant, insistent, brilliant, vigilant 
+-dom                                        freedom, kingdom, boredom
+-ry                                         entry, robbery, ministry
+-er      	                                  employer, trainer, minister, driver, writer, helper, teacher, preacher, dancer
+-ee                                         employee, trainee, payee, referee, trustee, retiree
+-eer                                        engineer, pioneer, auctioneer, volunteer, profiteer
+-or                                         director, distributor, protector, narrator, investigator, translator, conductor
+-ism                                        communism, narcissism, skepticism, capitalism, criticism, humanism, professionalism, patirotism
+                    -ist                    communist, narcissist, chemist, plagiarist
+-ity, -ty 	                                probability, equality, abnormality, civility, inactivity, veracity, parity, serenity, brutality, cruelty
+-ment 	                                    amazement, disappointment, parliament, argument, endorsement, punishment, movement, retirement, abandonment, establishment
+-mentation          -mentative              documentation, presentation, recommendation
+-tion 	            -tive                   transition, abbreviation, revolution, population, complexion, celebration, opinion
+-sion               -sive                   concession, depression, confusion, expression, tension, compulsion, decision, revision
+-ness 	                                    heaviness, sadness, rudeness, testiness, happiness, kindness, usefulness, readiness, fondness, awareness, darkness 
+-ship 	                                    fellowship, ownership, kinship, internship, friendship, membership, workmanship, worship, courtship
+-age                                        baggage, village, postage
+-hood                                       brotherhood, childhood, neighbourhood
+-th                                         health, length, strength, labyrinth, depth, warmth
+
+
+
+VERB SUFFIXES       noun                    Examples
+------------------------------------------------------------------------------------------------------------------------
+-ate                -ation                  regulate, eradicate, enunciate, repudiate, complicate, dominate, irritate
+-en                                         enlighten, awaken, strengthen, harden, soften, shorten
+-ify, -fy           -ication                beautify, clarify, identify, terrify, satisfy, rectify, exemplify
+-ize, -ise          -sation                 memorialize, authorize, commercialize, advertise, economise, realise, industrialize, civilize, humanize, socialize, valorize
+
+
+
+ADJECTIVE SUFFIXES                          Examples
+------------------------------------------------------------------------------------------------------------------------
+-able, -ible 	                              edible, presentable, abominable, credible, drinkable, portable, flexible, preventable, adaptable, predictable
+-al 	                                      regional, grammatical, emotional, coastal, brutal, formal, postal, equal, theatrical, natural, criminal, seasonal
+-esque 	                                    picturesque, statuesque, burlesque
+-ful                                        fanciful, resentful, woeful, doubtful, forgetful, helpful, useful, grateful, beautiful, wonderful
+-less 	                                    endless, ageless, lawless, effortless, homeless, hopeless, useless
+-ic, -ical 	                                musical, mythic, domestic, chiastic, classic, Islamic, poetic, iconic, organic, heroic
+-ious, -ous 	                              nutritious, portentous, studious, cautious, famous, nervous, gracious, cautious, humorous, fabulous
+-ish 	                                      fiendish, childish, snobbish
+-ive 	                                      creative, punitive, divisive, decisive, active, passive, productive, expensive, expressive, pensive
+-y 	                                        sleazy, hasty, greasy, nerdy, smelly, cloudy, rainy, windy, brainy, fruity, tasty, grouchy
+-en                                         broken, golden, wooden
+-ese                                        Chinese, Japanese, Vietnamese
+-ish                                        selfish, English, Turkish, childish
+-i                                          Iraqi, Pakistani, Yemeni
+-ian                                        Canadian, Malaysian, Peruvian
+-ly                                         daily, monthly, yearly
+
+
+
+ADVERB SUFFIXES                             Examples
+------------------------------------------------------------------------------------------------------------------------
+-ly                                         calmly, easily, quickly
+-ward(s)                                    downwards, homeward(s), upwards
+-wise                                       anti-clockwise, clockwise, edgewise
+
+
+
+
+
+
+https://www.fluentu.com/blog/english/suffixes-in-english/
+https://www.lexico.com/grammar/prefixes-and-suffixes
+https://opentextbc.ca/advancedenglish/chapter/prefixes-and-suffixes/
