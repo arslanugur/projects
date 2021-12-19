@@ -27,17 +27,18 @@ Food Security
 
 Health
       Universal health is a growing concern. 
-                    Evrensel sağlık büyüyen bir endişe kaynağıdır.
+                  Evrensel sağlık, büyüyen bir endişedir.
       Unfortunately, diseases like HIV/AIDS, malaria, tuberculosis, smallpox and polio are still claiming the lives of thousands of people worldwide, 
-                    Ne yazık ki, HIV/AIDS, sıtma, tüberküloz, çiçek hastalığı ve çocuk felci gibi hastalıklar hala dünya çapında binlerce insanın hayatına mal oluyor.
+                  Ne yazık ki, HIV/AIDS, sıtma, tüberküloz, çiçek hastalığı ve çocuk felci gibi hastalıklar halen dünya çapında binlerce insanın hayatına mal oluyor.
       mostly in developing nations. 
                   çoğunlukla gelişmekte olan ülkelerde.
       The World Health Organization is a global initiative that provides antibiotics and vaccinations all over the world. 
                   Dünya Sağlık Örgütü, tüm dünyada antibiyotik ve aşı sağlayan küresel bir girişimdir.
       Since its inception, polio cases have declined by 99 percent, tuberculosis treatment has saved more than 37 million people, 
-                  Başlangıcından bu yana, çocuk felci vakaları yüzde 99 azaldı, tüberküloz tedavisi 37 milyondan fazla insanı kurtardı,   
+                  Başlangıcından beri, çocuk felci vakaları yüzde 99 kadar azaldı, tüberküloz tedavisi 37 milyondan fazla insanı kurtardı,   
       and in 2016, zero cases of Ebola were reported in West Africa.
                   ve 2016'da Batı Afrika'da sıfır Ebola vakası bildirildi. 
+
 
 Human Rights
               Every person deserves basic rights, regardless of their race, sex or ethnicity. 
