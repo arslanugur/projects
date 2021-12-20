@@ -177,10 +177,12 @@ BESIDE - yanında/yanına
 
 				* Conjunction: BESIDES - -den başka, dışında
 
-BY - yanında / yanına
-				I decided to go to Berlin by plane/car/taxi/bus/bike/coach/train..
-				this book is written by Richard Bach
-				
+BY - yanında, kenarında         she drinks tea at the cafe by the sea every morning
+     ile, vasıtasıyla		I decided to go to Berlin by plane/car/taxi/bus/bike/coach/train..
+     tarafından			Brave New World, the book was written by Aldous Huxley
+     -arak, -erek               he tries to catch up the work by running every morning
+     -e kadar                   there will be a lot of changes in our lives by 2030
+
 VIA - yolu ile, -den geçerek, üzerinden	
 
 NEXT TO				she is sitting next to him
