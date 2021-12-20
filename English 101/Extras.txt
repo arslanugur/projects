@@ -1,4 +1,4 @@
-EXTRA INFORMATION												     prepared by Uğur ARSLAN, @arslanuguur
+EXTRA INFORMATION											prepared by Uğur ARSLAN, @arslanuguur
 
 ---> GET
 I get up early every day				ben her gün erken kalkarım
@@ -754,13 +754,6 @@ emergency - acil servis
 
 
 
-reason/logic - mantık
-you use another truth to find out a truth - bir gerçeği bulmak için başka bir gerçeği kullanırsın
-axiom - aksiyom
-reasoning rules - akıl yürütme kuralları
-inference rules - çıkarım kuralları
-
-
 
 
 d) If clause
@@ -1027,5 +1020,60 @@ you feel at s***ty as I do - sen de benim gibi **k**n mı hissediyorsun
 *hit! I'm down - ***t** öldüm
 
 
+---> Beynin ve durum yapılarının işleyişi üzerine yöntemler, araştırmalar 
+🔻 Reason/Logic - Mantık
 
-http://www.tmco.com.tr/ise-alim-testleri/watson-glaser-elestirel-dusunme
+	you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
+	axiom - aksiyom
+	reasoning rules - akıl yürütme kuralları
+	inference rules - çıkarım kuralları
+
+
+🔻 Situational Awareness (Durumsal Farkındalık)
+
+	be aware of your surroundings, identify specific problems or threats, 
+	and be prepared to execute a tactical plan to deal with each threat as it presents itself
+	arkandaki resmi hatırlıyor musun?
+	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
+	
+
+🔻 S.T.A.R. Technique - mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
+
+	situation	-- set the scene		sahneyi ayarla / oyunu kur
+	task		-- describe the purpose		amacını tarif et
+	action		-- explain what you did		ne yaptığını açıkla
+	result		-- share the outcome		sonucu paylaş
+	
+	
+🔻 Eisenhower Matrix: To Evaluate each task - herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi 
+				    important
+				     	|
+		can I do it now?	|	delay / drop / delete 
+		   			|		(can I decide when to do it?)
+					|		(schedule a time to do it)
+					|
+	urgent	<-----------------------|------------------------> not urgent
+					|
+			delegate it	|	delete (should I dump it?)
+	     (who can do it for you?)	|	       (eliminate it)
+	     				|
+				   not important
+	
+
+🔻 S.W.O.T. Business Analysis - bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
+
+			helpful					harmful
+			(to achieving the objective)		(to achieving the objective)
+							|
+internal origin						|
+(attributes of the organization)	strengthes	|	weaknesses 
+		   					|
+							|
+				------------------------|-----------------------
+							|
+external origin				opportunities	|	threats
+(attributes of the environment)				|
+	     						|
+			
+
+🔻 http://www.tmco.com.tr/ise-alim-testleri/watson-glaser-elestirel-dusunme
