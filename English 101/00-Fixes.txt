@@ -7,13 +7,13 @@ NOUN SUFFIXES      adjective                Examples
                    -ant, -ent               reliant, defiant, insistent, brilliant, vigilant 
 -dom                                        freedom, kingdom, boredom
 -ry                                         entry, robbery, ministry
--er      	                                  employer, trainer, minister, driver, writer, helper, teacher, preacher, dancer
+-er      	                            employer, trainer, minister, driver, writer, helper, teacher, preacher, dancer
 -ee                                         employee, trainee, payee, referee, trustee, retiree
 -eer                                        engineer, pioneer, auctioneer, volunteer, profiteer
 -or                                         director, distributor, protector, narrator, investigator, translator, conductor
 -ism                                        communism, narcissism, skepticism, capitalism, criticism, humanism, professionalism, patirotism
                     -ist                    communist, narcissist, chemist, plagiarist
--ity, -ty 	                                probability, equality, abnormality, civility, inactivity, veracity, parity, serenity, brutality, cruelty
+-ity, -ty 	                            probability, equality, abnormality, civility, inactivity, veracity, parity, serenity, brutality, cruelty
 -ment 	                                    amazement, disappointment, parliament, argument, endorsement, punishment, movement, retirement, abandonment, establishment
 -mentation          -mentative              documentation, presentation, recommendation
 -tion 	            -tive                   transition, abbreviation, revolution, population, complexion, celebration, opinion
@@ -117,14 +117,14 @@ https://opentextbc.ca/advancedenglish/chapter/prefixes-and-suffixes/
 
 Root, Prefix or Suffix	                        Meaning	                                        Examples
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-a, ac, ad, af, ag, al, an, ap, as, at	          to, toward, near, in addition to, by	          aside, accompany, adjust, aggression, allocate, annihilate, 
+a, ac, ad, af, ag, al, an, ap, as, at	        to, toward, near, in addition to, by	          aside, accompany, adjust, aggression, allocate, annihilate, 
                                                                                                 affix, associate, attend, adverb
 a-, an-	                                        not, without	                                  apolitical, atheist, anarchy, anonymous, apathy, aphasia, anemia
 ab, abs	                                        away from, off	                                absolve, abrupt, absent
--able, -ible	                                  Adjective: worth, ability	                      solvable, incredible
-acer, acid, acri	                              bitter, sour, sharp	                            acerbic, acidity, acrid, acrimony
+-able, -ible	                                Adjective: worth, ability	                      solvable, incredible
+acer, acid, acri	                        bitter, sour, sharp	                            acerbic, acidity, acrid, acrimony
 act, ag	                                        do, act, drive	                                active, react, agent, active, agitate
-acu	                                            sharp	                                          acute, acupuncture, accurate
+acu	                                        sharp	                                          acute, acupuncture, accurate
 -acy, -cy	                                      Noun: state or quality	                        privacy, infancy, adequacy, intimacy, supremacy
 -ade	                                          act, product, sweet drink	                      blockade, lemonade
 aer, aero	                                      air, atmosphere, aviation	                      aerial, aerosol, aerodrome
@@ -218,23 +218,25 @@ cred	                                          Believe	                         
 cresc, cret, crease, cru	                      rise, grow	                                    crescendo, concrete, increase, decrease, accrue
 crit	                                          separate, choose	                              critical, criterion, hypocrite
 cur, curs	                                      run	                                            current, concurrent, concur, incur, recur, occur, courier, precursor, cursive
-cura	                                          Care	                                          curator, curative, manicure
-cycl, cyclo	                                    wheel, circle, circular	                        Cyclops, unicycle, bicycle, cyclone, cyclic
+cura	                                          Care	                                        curator, curative, manicure
+cycl, cyclo	                                    wheel, circle, circular			Cyclops, unicycle, bicycle, cyclone, cyclic
 de-                                             from, down, away, to do the opposite,           detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate 
                                                 reverse, against	
-dec, deca	ten, ten times	decimal, decade, decalogue, decimate, decathlon
-dec, dign	Suitable	decent decorate dignity
-dei, div	God	divinity, divine, deity, divination, deify
-dem, demo	people, populace, population	democracy, demography, demagogue, epidemic
-dent, dont	Tooth	dental, denture, orthodontist, periodontal
-derm	skin, covering	hypodermic, dermatology, epidermis, taxidermy
-di-, dy-	two, twice, double	divide, diverge, diglycerides
-dia	through, across, between	diameter, diagonal, dialogue dialect, dialectic, diagnosis, diachronic
-dic, dict, dit	say, speak	dictation, dictionary, dictate, dictator, Dictaphone, edict, predict, verdict, contradict, benediction
-dis, dif	not, opposite of, reverse, separate, deprive of, away	dismiss, differ, disallow, disperse, dissuade, divide, disconnect, disproportion, disrespect, distemper, disarray
-dit	Give	credit, audit
-doc, doct	teach, prove	docile, doctor, doctrine, document, dogma, indoctrinate
-domin	master, that which is under control	dominate, dominion, predominant, domain
+dec, deca					ten, ten times					decimal, decade, decalogue, decimate, decathlon
+dec, dign					Suitable					decent decorate dignity
+dei, div					God						divinity, divine, deity, divination, deify
+dem, demo					people, populace, population			democracy, demography, demagogue, epidemic
+dent, dont					Tooth						dental, denture, orthodontist, periodontal
+derm						skin, covering					hypodermic, dermatology, epidermis, taxidermy
+di-, dy-					two, twice, double				divide, diverge, diglycerides
+dia						through, across, between			diameter, diagonal, dialogue dialect, dialectic, diagnosis, diachronic
+dic, dict, dit					say, speak					dictation, dictionary, dictate, dictator, Dictaphone, 
+												edict, predict, verdict, contradict, benediction
+dis, dif					not, opposite of, reverse,			dissuade, divide, disconnect, disproportion, disrespect, distemper, disarray
+						separate, deprive of, away			dismiss, differ, disallow, disperse
+dit						Give						credit, audit
+doc, doct					teach, prove					docile, doctor, doctrine, document, dogma, indoctrinate
+domin						master, that which is under control		dominate, dominion, predominant, domain
 don	Give	donate, condone
 dorm	Sleep	dormant, dormitory
 dox	thought, opinion, praise	orthodox, heterodox, paradox, doxology
