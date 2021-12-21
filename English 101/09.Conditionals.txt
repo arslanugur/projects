@@ -1,8 +1,8 @@
 CONDITIONALS                                                                                                                prepared by Uğur ARSLAN, @arslanuguur
-- Type Zero   (0) ------  Certain
-- Type One    (1) ----    Possible
-- Type Two    (2) --      Less Possible
-- Type Three  (3) -       Impossible
+- Type Zero   (0) -       Certain
+- Type One    (1) --      Possible
+- Type Two    (2) ----    Less Possible
+- Type Three  (3) ------  Impossible
 
 Extra Conditionals
 - What if
