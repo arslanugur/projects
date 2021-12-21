@@ -117,109 +117,109 @@ https://opentextbc.ca/advancedenglish/chapter/prefixes-and-suffixes/
 
 Root, Prefix or Suffix	                        Meaning	                                        Examples
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
-a, ac, ad, af, ag, al, an, ap, as, at	        to, toward, near, in addition to, by	          aside, accompany, adjust, aggression, allocate, annihilate, 
+a, ac, ad, af, ag, al, an, ap, as, at	        to, toward, near, in addition to, by		aside, accompany, adjust, aggression, allocate, annihilate, 
                                                                                                 affix, associate, attend, adverb
-a-, an-	                                        not, without	                                  apolitical, atheist, anarchy, anonymous, apathy, aphasia, anemia
+a-, an-	                                        not, without	                                apolitical, atheist, anarchy, anonymous, apathy, aphasia, anemia
 ab, abs	                                        away from, off	                                absolve, abrupt, absent
--able, -ible	                                Adjective: worth, ability	                      solvable, incredible
-acer, acid, acri	                        bitter, sour, sharp	                            acerbic, acidity, acrid, acrimony
+-able, -ible	                                Adjective: worth, ability			solvable, incredible
+acer, acid, acri	                        bitter, sour, sharp				acerbic, acidity, acrid, acrimony
 act, ag	                                        do, act, drive	                                active, react, agent, active, agitate
-acu	                                        sharp	                                          acute, acupuncture, accurate
--acy, -cy	                                      Noun: state or quality	                        privacy, infancy, adequacy, intimacy, supremacy
--ade	                                          act, product, sweet drink	                      blockade, lemonade
-aer, aero	                                      air, atmosphere, aviation	                      aerial, aerosol, aerodrome
-ag, agi, ig, act	                              do, move, go	                                  agent, agenda, agitate, navigate, ambiguous, action
--age	                                          Noun: activity, or result of action	            courage, suffrage, shrinkage, tonnage
-agri, agro	                                    pertaining to fields or soil	                  agriculture, agroindustry
--al	                                            Noun: action, result of action	                referral, disavowal, disposal, festival
--al, -ial, -ical	                              Adjective: quality, relation	                  structural, territorial, categorical
-alb, albo	                                      white, without pigment	                        albino, albite
-ali, allo, alter	                              Other	                                          alias, alibi, alien, alloy, alter, alter ego, altruism
-alt	                                            high, deep                                    	altimeter, altitude
-am, ami, amor	                                  love, like, liking	                            amorous, amiable, amicable, enamoured
-ambi	                                          Both	                                          ambidextrous
-ambul	                                          to walk	                                        ambulatory, amble, ambulance, somnambulist
--an	                                            Noun: person	                                  artisan, guardian, historian, magician
-ana, ano	                                      up, back, again, anew	                          anode, anagram, anagenetic
--ance, -ence	                                  Noun: action, state, quality or process	        resistance, independence, extravagance, fraudulence
--ancy, -ency	                                  Noun: state, quality or capacity	              vacancy, agency, truancy, latency
-andr, andro	                                    male, characteristics of men	                  androcentric, android
-ang	                                            Angular	                                        angle
-anim	                                          mind, life, spirit, anger	                      animal, animate, animosity
-ann, annu, enni	                                Yearly	                                        annual, annual, annuity, anniversary, perrenial
--ant, -ent	                                    Noun: an agent, sth that performs the action	  disinfectant, dependent, fragrant
--ant, -ent, -ient	                              Adjective: kind of agent, indication	          important, dependent, convenient
-ante	                                          Before	                                        anterior, anteroom, antebellum, antedate, antecedent antediluvian
-anthrop	                                        Man	                                            anthropology, misanthrope, philanthropy
-anti, ant	                                      against, opposite	                              antisocial, antiseptic, antithesis, antibody, antinomies, antifreeze, antipathy
-anti, antico	                                  Old	                                            antique, antiquated, antiquity
-apo, ap, aph	                                  away from, detached, formed	                    apology, apocalypse, aphagia
-aqu	                                            Water	                                          aqueous
--ar, -ary	                                      Adjective: resembling, related to	              spectacular, unitary
-arch	                                          chief, first, rule	                            archangel, architect, archaic, monarchy, matriarchy, patriarchy, Archeozoic era
--ard, -art	                                    Noun: characterized	                            braggart, drunkard, wizard
-aster, astr	                                    Star	                                          aster, asterisk, asteroid, astronomy, astronaut
--ate	                                          Noun: state, office, fuction	                  candidate, electorate, delegate
--ate	                                          Verb: cause, to be	                            graduate, ameliorate, amputate, colligate
--ate	                                          Adjective: kind of state	                      inviolate
+acu	                                        sharp						acute, acupuncture, accurate
+-acy, -cy					Noun: state or quality	                        privacy, infancy, adequacy, intimacy, supremacy
+-ade	                                        act, product, sweet drink	                      blockade, lemonade
+aer, aero	                                air, atmosphere, aviation	                      aerial, aerosol, aerodrome
+ag, agi, ig, act	                        do, move, go	                                  agent, agenda, agitate, navigate, ambiguous, action
+-age	                                        Noun: activity, or result of action	            courage, suffrage, shrinkage, tonnage
+agri, agro	                                pertaining to fields or soil	                  agriculture, agroindustry
+-al	                                        Noun: action, result of action	                referral, disavowal, disposal, festival
+-al, -ial, -ical	                        Adjective: quality, relation	                  structural, territorial, categorical
+alb, albo	                                white, without pigment	                        albino, albite
+ali, allo, alter	                        Other	                                          alias, alibi, alien, alloy, alter, alter ego, altruism
+alt	                                        high, deep                                    	altimeter, altitude
+am, ami, amor	                                love, like, liking	                            amorous, amiable, amicable, enamoured
+ambi	                                        Both	                                          ambidextrous
+ambul	                                        to walk	                                        ambulatory, amble, ambulance, somnambulist
+-an	                                        Noun: person	                                  artisan, guardian, historian, magician
+ana, ano	                                up, back, again, anew	                          anode, anagram, anagenetic
+-ance, -ence	                                Noun: action, state, quality or process	        resistance, independence, extravagance, fraudulence
+-ancy, -ency	                                Noun: state, quality or capacity	              vacancy, agency, truancy, latency
+andr, andro	                                male, characteristics of men	                  androcentric, android
+ang	                                        angular	                                        angle
+anim	                                        mind, life, spirit, anger	                      animal, animate, animosity
+ann, annu, enni	                                yearly	                                        annual, annual, annuity, anniversary, perrenial
+-ant, -ent	                                Noun: an agent, sth that performs the action	  disinfectant, dependent, fragrant
+-ant, -ent, -ient	                        Adjective: kind of agent, indication	          important, dependent, convenient
+ante	                                        before	                                        anterior, anteroom, antebellum, antedate, antecedent antediluvian
+anthrop	                                        man	                                            anthropology, misanthrope, philanthropy
+anti, ant	                                against, opposite	                        antisocial, antiseptic, antithesis, antibody, antinomies, antifreeze, antipathy
+anti, antico	                                old	                                            antique, antiquated, antiquity
+apo, ap, aph	                                away from, detached, formed	                    apology, apocalypse, aphagia
+aqu	                                        water	                                          aqueous
+-ar, -ary	                                Adjective: resembling, related to	              spectacular, unitary
+arch	                                        chief, first, rule	                         archangel, architect, archaic, monarchy, matriarchy, patriarchy, Archeozoic era
+-ard, -art	                                Noun: characterized	                            braggart, drunkard, wizard
+aster, astr	                                star	                                          aster, asterisk, asteroid, astronomy, astronaut
+-ate	                                        Noun: state, office, fuction	                  candidate, electorate, delegate
+-ate	                                        Verb: cause, to be	                            graduate, ameliorate, amputate, colligate
+-ate	                                        Adjective: kind of state	                      inviolate
 -ation	                                        Noun: action, resulting state	                  specialization, aggravation, alternation
-auc, aug, aut	                                  to originate, to increase	                      augment , author, augment, auction
-aud, audi, aur, aus	                            to hear, listen	                                audience, audible, auditorium, audiovisual, audition, auricular, ausculate
+auc, aug, aut	                                to originate, to increase	                      augment , author, augment, auction
+aud, audi, aur, aus	                        to hear, listen	                                audience, audible, auditorium, audiovisual, audition, auricular, ausculate
 aug, auc                                      	increase	                                      augur, augment, auction
-aut, auto	                                      self	                                          automobile, automatic, automotive, autograph, autonomous, autoimmune
-bar	                                            weight, pressure	                              barometer
-be	                                            on, around, over, about, excessively,           berate, bedeck, bespeak, belittle, beleaguer 
+aut, auto	                                self	                                          automobile, automatic, automotive, autograph, autonomous, autoimmune
+bar	                                        weight, pressure	                              barometer
+be	                                        on, around, over, about, excessively,           berate, bedeck, bespeak, belittle, beleaguer 
                                                 make, cause, name, affect	
-belli	                                          war	                                            rebellion, belligerent, casus belli, bellicose
-bene	                                          good, well, gentle	                            benefactor, beneficial, benevolent, benediction, beneficiary, benefit
-bi, bine	                                      two	                                            biped, bifurcate, biweekly, bivalve, biannual
-bibl, bibli, biblio	                            Book	                                          bibliophile, bibliography, Bible
+belli	                                        war	                                            rebellion, belligerent, casus belli, bellicose
+bene	                                        good, well, gentle	                            benefactor, beneficial, benevolent, benediction, beneficiary, benefit
+bi, bine	                                two	                                            biped, bifurcate, biweekly, bivalve, biannual
+bibl, bibli, biblio	                        book	                                          bibliophile, bibliography, Bible
 bio, bi	                                        life	                                          biography, biology, biometricsm biome, biosphere
-brev	                                          Short	                                          abbreviate, brevity, brief
-cad, cap, cas, ceiv, cept, capt, cid, cip	      to take, to seize, to hold	                    receive, deceive, capable, capacious, captive, accident, capture, 
+brev	                                        short	                                          abbreviate, brevity, brief
+cad, cap, cas, ceiv, cept, capt, cid, cip	to take, to seize, to hold	                receive, deceive, capable, capacious, captive, accident, capture, 
                                                                                                 occasion, concept, intercept, forceps, except, reciprocate
-cad, cas	                                      to fall	                                        cadaver, cadence, cascade
--cade	                                          procession	                                    motorcade, arcade
-calor	                                          Heat	                                          calorie, caloric, calorimeter
-capit, capt	                                    Head	                                          decapitate, capital, captain, caption
-carn	                                          Flesh	                                          carnivorous, incarnate, reincarnation, carnal
+cad, cas	                                to fall	                                        cadaver, cadence, cascade
+-cade	                                        procession	                                    motorcade, arcade
+calor	                                        heat	                                          calorie, caloric, calorimeter
+capit, capt	                                head	                                          decapitate, capital, captain, caption
+carn	                                        flesh	                                          carnivorous, incarnate, reincarnation, carnal
 cat, cata, cath	                                down, with	                                    catalogue, category, catheter
-caus, caut	                                    burn, heat	                                    caustic, cauldron, cauterize
-cause, cuse, cus	                              cause, motive	                                  because, excuse, accusation
-ceas, ced, cede, ceed, cess	                    to go, to yield, move, go, surrender	          succeed, proceed, precede, recede, secession, exceed, succession
-cent	                                          Hundred	                                        centennial, century, centipede
-centr, centri	                                  Center	                                        eccentricity, centrifugal, concentric, eccentric
-chrom	                                          Color	                                          chrome, chromosome, polychrome, chromatic
-chron	                                          Time	                                          chronology, chronic, chronicle chronometer, anachronism, synchronize
+caus, caut	                                burn, heat	                                    caustic, cauldron, cauterize
+cause, cuse, cus	                        cause, motive	                                  because, excuse, accusation
+ceas, ced, cede, ceed, cess	                to go, to yield, move, go, surrender	          succeed, proceed, precede, recede, secession, exceed, succession
+cent	                                        hundred	                                        centennial, century, centipede
+centr, centri	                                center	                                        eccentricity, centrifugal, concentric, eccentric
+chrom	                                        color	                                          chrome, chromosome, polychrome, chromatic
+chron	                                        time	                                          chronology, chronic, chronicle chronometer, anachronism, synchronize
 cide, cis, cise	                                to kill, to cut, cut down	                      fratricide, homicide, incision, incision, circumcision, scissors
-circum	                                        Around	                                        circumnavigate, circumflex, circumstance, circumcision, circulatory,
+circum	                                        around	                                        circumnavigate, circumflex, circumstance, circumcision, circulatory,
                                                                                                 circumference, circumorbital, circumlocution, circumvent, circumscribe
-cit	                                            call, start	                                    incite, citation, cite
-civ	                                            Citizen	                                        civic, civil, civilian, civilization
-clam, claim	                                    cry out	                                        exclamation, clamor, proclamation, reclamation, acclaim
-clin	                                          lean, bend	                                    decline, aclinic, inclination
-clud, clus claus	                              to close, shut	                                include, exclude, clause, claustrophobia, enclose, 
+cit	                                        call, start	                                    incite, citation, cite
+civ	                                        citizen	                                        civic, civil, civilian, civilization
+clam, claim	                                cry out	                                        exclamation, clamor, proclamation, reclamation, acclaim
+clin	                                        lean, bend	                                    decline, aclinic, inclination
+clud, clus claus	                        to close, shut	                                include, exclude, clause, claustrophobia, enclose, 
                                                                                                 exclusive, reclusive, conclude
-co, cog, col, coll, con, com, cor	              with, together	                                cohesiveness, cognate, collaborate, convene, commitment, compress, 
+co, cog, col, coll, con, com, cor	        with, together	                                cohesiveness, cognate, collaborate, convene, commitment, compress, 
                                                                                                 contemporary, converge, compact, confluence, convenient, concatenate, 
                                                                                                 conjoin, combine, correct
-cogn, gnos	                                    to know	                                        recognize, cognizant, diagnose, agnostic, incognito, prognosis
-com, con	                                      Fully	                                          complete, compel, conscious, condense, confess, confirm
+cogn, gnos	                                to know	                                        recognize, cognizant, diagnose, agnostic, incognito, prognosis
+com, con	                                fully	                                          complete, compel, conscious, condense, confess, confirm
 contr, contra, counter	                        against, opposite	                              contradict, counteract, contravene, contrary, counterspy, contrapuntal
-cord, cor, cardi	                              Heart	                                          cordial, concord, discord, courage, encourage
-corp	                                          Body	                                          corporation, corporal punishment, corpse, corpulent, corpus luteum
-cort	                                          Correct	                                        escort, cortage
-cosm	                                          universe, world	                                cosmos, microcosm, cosmopolitan, cosmonaut
-cour, cur, curr, curs	                          run, course	                                    occur, excursion, discourse, courier, course
-crat, cracy	                                    Rule	                                          autocrat, aristocrat, theocracy, technocracy
-cre, cresc, cret, crease	                      Grow	                                          create, crescent, accretion, increase
-crea	                                          Create	                                        creature, recreation, creation
-cred	                                          Believe	                                        creed, credo, credence, credit, credulous, incredulous, incredible
-cresc, cret, crease, cru	                      rise, grow	                                    crescendo, concrete, increase, decrease, accrue
-crit	                                          separate, choose	                              critical, criterion, hypocrite
-cur, curs	                                      run	                                            current, concurrent, concur, incur, recur, occur, courier, precursor, cursive
-cura	                                          Care	                                        curator, curative, manicure
-cycl, cyclo	                                    wheel, circle, circular			Cyclops, unicycle, bicycle, cyclone, cyclic
+cord, cor, cardi	                        heart	                                          cordial, concord, discord, courage, encourage
+corp	                                        Body	                                          corporation, corporal punishment, corpse, corpulent, corpus luteum
+cort	                                        correct	                                        escort, cortage
+cosm	                                        universe, world	                                cosmos, microcosm, cosmopolitan, cosmonaut
+cour, cur, curr, curs	                        run, course	                                    occur, excursion, discourse, courier, course
+crat, cracy	                                rule	                                          autocrat, aristocrat, theocracy, technocracy
+cre, cresc, cret, crease	                grow	                                          create, crescent, accretion, increase
+crea	                                        create	                                        creature, recreation, creation
+cred	                                        believe	                                        creed, credo, credence, credit, credulous, incredulous, incredible
+cresc, cret, crease, cru	                rise, grow	                                    crescendo, concrete, increase, decrease, accrue
+crit	                                        separate, choose	                              critical, criterion, hypocrite
+cur, curs	                                run	                                        current, concurrent, concur, incur, recur, occur, courier, precursor, cursive
+cura	                                        care	                                        curator, curative, manicure
+cycl, cyclo	                                wheel, circle, circular				Cyclops, unicycle, bicycle, cyclone, cyclic
 de-                                             from, down, away, to do the opposite,           detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate 
                                                 reverse, against	
 dec, deca					ten, ten times					decimal, decade, decalogue, decimate, decathlon
