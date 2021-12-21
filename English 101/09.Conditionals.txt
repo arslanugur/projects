@@ -22,9 +22,11 @@ Type Zero (0): (General Truth)
                 - if it snows, the roads get slippery.                                kar yağarsa yollar kayganlaşır
                 - if you don’t eat your meal, your mother gets angry.                 yemeğini yemezsen annen kızar
                 - if you drink cold water, you get sick.                              soğuk su içersen hasta olursun
-                - if the satellite is slightly closer, the tidal bulge grows.         eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
+                - if the satellite is slightly closer, the tidal bulge grows          eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
                 - if water boils at 100 degree centigrade, it starts to evaporate     eğer su 100 derecede kaynarsa, buharlaşır
-              
+                - If the margin of error is brought close to zero, the process works almost flawlessly
+                             hata payı sıfıra yaklaştırılırsa, süreç neredeyse kusursuz şekilde işler
+
 
 Type One (1): (Real Present)
                 Kesinlik değil ihtimâl dahilinde olma durumu vardır. Gelecek zamanı ifade eder.
@@ -47,12 +49,12 @@ Type Two (2): (Unreal Present)
                 If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
                 - if there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
-                - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım.
-                - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik.
-                - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi.
-                - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi.
-                - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum.
-                - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu.
+                - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım
+                - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik
+                - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi
+                - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi
+                - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum
+                - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu
 
               
            Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
@@ -69,10 +71,10 @@ Type Three (3): (Unreal Past)
 
                 If + Past Perfect/ Past Perfect Continuous,  Would/ Could/ Might + Perfect Bare Infinitive (have + V3)
                 
-                - if your mom had given birth to you as a daughter, you would still have run away from home Annen seni kız olarak doğursaydı, yine evden kaçardın
-                - if you had locked the door, the thief wouldn’t have got in.                               Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi – eleştiri
-                - if you had studied hard enough, you could have passed the exam.                           Yeteri kadar çalışmış olsaydın sınavı geçebilirdin – eleştiri
-                - if I had been more careful, I would have won the race.                                    Daha dikkatli olsaydım yarışı kazanabilirdim – pişmanlık
+                - if your mom had given birth to you as a daughter, you would still have run away from home   Annen seni kız olarak doğursaydı, yine evden kaçardın
+                - if you had locked the door, the thief wouldn’t have got in                                  Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi – eleştiri
+                - if you had studied hard enough, you could have passed the exam                              Yeteri kadar çalışmış olsaydın sınavı geçebilirdin – eleştiri
+                - if I had been more careful, I would have won the race                                       Daha dikkatli olsaydım yarışı kazanabilirdim – pişmanlık
 
 
 ---> EXTRA CONDITIONS
