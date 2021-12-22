@@ -110,15 +110,15 @@ Deduction
 	
 
 --> CAN
-	- Can you help me? 					(request)
-	- I can play football, but I can not speak German. 	(ability)
-	- I know he can’t drive yet, but he can dream. 		(ability)
-	- We can stay home and watch telly tonight. 		(suggestion/giving an option) 
-	- That can’t be her. 					(impossibility)
-	- but she can come back at any time - her an		(possibility)
-	- how can you bear that on your conscience		nasıl o vicdan yükünü taşıyorsun?
-	- The lift can take four at a time			asansör bir seferde dört kişi alabilir
-
+	- can you help me? 						(request)
+	- I can play football, but I can not speak German. 		(ability)
+	- I know he can’t drive yet, but he can dream. 			(ability)
+	- we can stay home and watch telly tonight. 			(suggestion/giving an option) 
+	- that can’t be her. 						(impossibility)
+	- but she can come back at any time - her an			(possibility)
+	- how can you bear that on your conscience			nasıl o vicdan yükünü taşıyorsun?
+	- the lift can take four at a time				asansör bir seferde dört kişi alabilir
+	- you can lead a horse to water but you can't make him drink	atı suya götürebilirsin, ama ona suyu içirtemezsin
 
 --> COULD
 	- I could do trigonometry six years ago. 		(past ability)
