@@ -1,1 +1,101 @@
+> Approaches, Methods and Techniques in Language Teaching
+    Approach: cognitivism, behavioursm, humanism, constructism
+    Method: gtm, dm, alm, sw (approach somutlaştır)
+    Technique: drill, cognate, translate
+    Procedure: sunuş sıralaması
+   
+   
+   
+   
+ --– Linguistic View (Language Theories)
+      1. Traditional View
+        - focus on written language and its grammar are special attention 
+        - correctly grammatical structure (accuracy)
+        - Spoken language is seen erroneous
+        - Language is not for communication, Language is a means of understanding literatüre/philosophy (GTM)
+
+        -Kurallı dil önemli 
+        -Gramer önemsenir prescriptive
+        -Dil iletişim için değil edebiyat için lazım
+        -Yazı dili önemli
+
+      2. Communicative/Functional View
+        - focus on functions
+        - Language as a tool to express functional meaning
+        - Semantic and communicative aspect of language
+        - communication (frequency)
+        - Communicative Competence
+        - Appropriate and Effective use of language
+        - Communicative approach
+
+        -dilin yapılarına odaklanmak yerine işlevlerine odaklanılır
+        -bir çok işlevi vardır bu işlevler öğretilmelidir
+        -yaş, cinsiyet, fiziksel ortam, yakınlık ilişkisidilin kullanımı açısından büyük öneme sahiptir
+
+      3. Generative Transformational Theory View
+          - Chomsky
+          - Competence (knowledge of the language) (zamanla kazandığımız tüm bilgi ve beceriler)
+          - Performance (the actual use of the language) (öğrendiklerimizi uygulaya dökmek)
+          - Innatism: Inborn ability to acquire language rules and produce utterances
+          - The focus is on the mental activity
+
+          -Dil doğuştan gelir Innatism
+
+       4. Structural Linguistic View
+          - Ferdinand de Saussure
+          - Language is for communication
+          - Language analyzed as a formal system
+          - Language containing structurally related components: grammatical, phonological, and lexical units. 
+          - The focus is on every day language (Descriptivism) (How the language should be/use) (toplum nasıl kullanıyorsa o şekilde öğrenciler kutlar)
+          - Predescriptive (Everyday Language)
+
+          -dil günlük kulanım için
+          -asıl amaç sözlü iletişimdir
+
+        5. Interactional View
+          - Dil iletişimsel bir araçtır, iletişim odaklıdır ve öğrenciler de dili iletişim kurmak amacıyla kullanmalıdır
+            
+
+--- Theories of Learning (öğrenmeyle ilgili teoriler)
+          BEHAVIOURISM
+              - against cognitivizm
+              - Stimulus – Response (otomatikleşme) (Habit Formation) (AudioLangMethod)
+              - ***Reinforcement vs Punishment
+              - ***Reinforce - Increasing the probability of a behavior, reinforcing correct responses (ödül)
+              - Punishment – Decreasing the future frequency of sth unwanted (punishing wrong utterances)
+
+              Positive(presenting), Negative(removing/eliminating) 
+              Reinforcement (+)
+                  Increase the probabilityof a behavior by presenting a motivating stimulus
+                  Eg: Praising learners, Rewarding learners, saying a student welldone.
+              Reinforcement (-)
+                  Increasing the probability of a behaviour by removing sth negative
+                  examples
+                      Eliminating homework
+                      Extending a deadline
+              
+              Punishment (+)
+                  Presenting a negative outcome to decrease probability of an unwanted behaviour
+                  Eg; rebuking someone, making students clean the classroom at a boarding school
+              Punishment (-): taking away sth desirable. Eg Cancelling break time, extending deadline for a Project, cancelling cinema time
+                  hataya izin yok yoksa fossilization olur
+                  ve immediate correction
+    
+                  - Individuals Tabula Rasa
+                  - Passive Learner
+                  - Imitation the envorenmental stimuli (Uyarıcıyı taklit)
+
+                  - gözlemlenebilen davranışlara odaklanır.
+                  - Learning is habit information (öğrenmek davranış ile olur alışkanlık)
+                  - Drills – Tekrarlanan şeyler
+                  - Momorization (Ezberleme)
+                  - Immediate correction (Hatalar tolerans gösterilmez hemen düzeltilir)
+
+                    When learners imitate and repeat the language
+                    they hear in their surrounding environment and are
+                    positively reinforced for doing so, habit formation
+                    (learning) occurs.
+
+
+    
 
