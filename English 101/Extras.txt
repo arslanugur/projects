@@ -1,4 +1,4 @@
-EXTRA INFORMATION											prepared by Uğur ARSLAN, @arslanuguur
+EXTRA INFORMATION													prepared by Uğur ARSLAN, @arslanuguur
 
 ---> GET
 I get up early every day				ben her gün erken kalkarım
@@ -241,13 +241,6 @@ the punch line - can alıcı kısım
 subjective - göreceli
 
 
-ARRIVE
-we arrive home / today / late / right on time
-we arrived in London
-we arrived at the station
-we arrived at the village
-we arrived on monday
-
 
 CONCERN
 be concerned about	hakkında endişelenmek
@@ -358,6 +351,7 @@ turn	to the left / right
 	from the left / right
 	on your left / right
 	on the left / right
+
 
 
 
