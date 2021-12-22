@@ -147,9 +147,12 @@ anim	                                        mind, life, spirit, anger	         
 ann, annu, enni	                                yearly	                                        annual, annual, annuity, anniversary, perrenial
 -ant, -ent	                                Noun: an agent, sth that performs the action	disinfectant, dependent, fragrant
 -ant, -ent, -ient	                        Adjective: kind of agent, indication	        important, dependent, convenient
-ante	                                        before	                                        anterior, anteroom, antebellum, antedate, antecedent antediluvian
+ante	                                        before	                                        anterior, anteroom, antebellum, antedate, antecedent, 
+												antediluvian, antenatal, anteroom, antedate
 anthrop	                                        man	                                        anthropology, misanthrope, philanthropy
-anti, ant	                                against, opposite	                        antisocial, antiseptic, antithesis, antibody, antinomies, antifreeze, antipathy
+anti, ant	                                against, opposite, opposing, in opposition of   antisocial, antiseptic, antithesis, antibody, antinomies, antifreeze, antipathy
+												antibiotic, antidepressant, antidote, antiseptic, anti-hero, antiaircraft
+												antifreeze, antisocial, antiviral, antibody, antiwar, anti-government
 anti, antico	                                old	                                        antique, antiquated, antiquity
 apo, ap, aph	                                away from, detached, formed	                apology, apocalypse, aphagia
 aqu	                                        water	                                        aqueous
@@ -164,28 +167,24 @@ aster, astr	                                star	                               
 auc, aug, aut	                                to originate, to increase	                augment , author, augment, auction
 aud, audi, aur, aus	                        to hear, listen	                                audience, audible, auditorium, audiovisual, audition, auricular, ausculate
 aug, auc                                      	increase	                                augur, augment, auction
-aut, auto	                                self	                                        automobile, automatic, automotive, autograph, autonomous, autoimmune
+aut, auto	                                self, same, spontaneous, or self-sufficient     automobile, automatic, automotive, autograph, autonomous, autoimmune
+												autobiography, autopilot, autonomy, autocratic, autocorrect, autodidact
 ab-						away from					abdicate, absolve, absolute, absorb, abject, 
 												abhor, abjure, abort, absorb, abnormal, abrasive, abominable, ablation
 ad-						towards, to, with regard to, 			administer, advertise, adhere, addition, adrenal, admonish, 
 						in relation to, addition, joining		adgerminal, addental, adoral, adjoin
-ante-	before				antenatal, anteroom, antedate
-anti-	against, opposing, in opposition of		antibiotic, antidepressant, antidote, antiseptic, anti-hero, 
-							antifreeze, antisocial, antiviral, antibody, antiwar, anti-government, antisocial, antiaircraft
-auto-	self, same, spontaneous, or self-sufficient	autobiography, automotive, autopilot, autograph, automobile, automatic, autonomy, autocratic, autocorrect, autodidact
-
 bar	                                        weight, pressure	                        barometer
 be	                                        on, around, over, about, excessively,           berate, bedeck, bespeak, belittle, beleaguer 
-                                                make, cause, name, affect	
+                                                make, cause, name, affect
+be-						to exist					befriend, bewitch, besiege, beguile, become, berate, bejewel, bewail, bedazzle
 belli	                                        war	                                        rebellion, belligerent, casus belli, bellicose
 bene	                                        good, well, gentle	                        benefactor, beneficial, benevolent, benediction, beneficiary, benefit
-bi, bine	                                two	                                        biped, bifurcate, biweekly, bivalve, biannual
+bi, bine	                                two, twice                                      biped, bifurcate, biweekly, bivalve, biannual, biracial, biceps, 
+												bilingual, bipedal, billion, binoculars, bicycle, bipartisan, 
+												bisect, bimonthly, bicarbonate
 bibl, bibli, biblio	                        book	                                        bibliophile, bibliography, Bible
 bio, bi	                                        life	                                        biography, biology, biometricsm biome, biosphere
 brev	                                        short	                                        abbreviate, brevity, brief
-be-			to exist	befriend, bewitch, besiege, beguile, become, berate, bejewel, bewail, bedazzle
-bi-			twice, two	biracial, biceps, biannual, bilingual, bipedal, billion, binoculars, bicycle, bipartisan, bisect, bimonthly, bicarbonate, bifurcate
-
 cad, cap, cas, ceiv, cept, capt, cid, cip	to take, to seize, to hold	                receive, deceive, capable, capacious, captive, accident, capture, 
                                                                                                 occasion, concept, intercept, forceps, except, reciprocate
 cad, cas	                                to fall	                                        cadaver, cadence, cascade
@@ -210,9 +209,14 @@ clam, claim	                                cry out	                            
 clin	                                        lean, bend	                                decline, aclinic, inclination
 clud, clus claus	                        to close, shut	                                include, exclude, clause, claustrophobia, enclose, 
                                                                                                 exclusive, reclusive, conclude
-co, cog, col, coll, con, com, cor	        with, together	                                cohesiveness, cognate, collaborate, convene, commitment, compress, 
+co, cog, col, coll, con, com, cor	        with, together, together, joined, mutually as well as denoting a group of people, ideas, or things.
+												cohesiveness, cognate, collaborate, convene, commitment, compress, 
                                                                                                 contemporary, converge, compact, confluence, convenient, concatenate, 
-                                                                                                conjoin, combine, correct
+                                                                                                conjoin, combine, correct, co-worker, co-pilot, co-operation, cohabitation,
+												coauthor, copilot, co-conspirator, co-manage, coexist, coaxial, co-captain, 
+												co-creator, co-anchor, confirm, congregation, congenial, console, 
+												converge, consult, confederation, conjoined, conjecture, confluence, 
+												contingent, conflate
 cogn, gnos	                                to know	                                        recognize, cognizant, diagnose, agnostic, incognito, prognosis
 com, con	                                fully	                                        complete, compel, conscious, condense, confess, confirm
 contr, contra, counter	                        against, opposite	                        contradict, counteract, contravene, contrary, counterspy, contrapuntal
@@ -230,13 +234,14 @@ crit	                                        separate, choose	                  
 cur, curs	                                run	                                        current, concurrent, concur, incur, recur, occur, courier, precursor, cursive
 cura	                                        care	                                        curator, curative, manicure
 cycl, cyclo	                                wheel, circle, circular				Cyclops, unicycle, bicycle, cyclone, cyclic
-circum-	around		circumstance, circumvent, circumnavigate
-co-	With		co-worker, co-pilot, co-operation, cohabitation, coauthor, copilot, co-conspirator, co-manage, coexist, coaxial, co-captain, co-creator, co-anchor
-con-	together, joined, mutually as well as denoting a group of people, ideas, or things.
-			confirm, congregation, congenial, console, converge, consult, confederation, conjoined, conjecture, confluence, contingent, conflate
-
-de-                                             from, down, away, to do the opposite,           detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate 
-                                                reverse, against	
+						------------------------------------------------------------------------------------------------------------------------------
+de-						off, down, away from				detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate
+						from, to do the opposite,			devalue, defrost, derail, demotivate, decide, dehumidify, degrade, detract, 
+						reverse, against				deduce, decompose, decentralize, desensitize, deconstruct, demoralize, 
+						privation, removal, separation, etc.		defrost, destroy
+						negation, descent, reversal, or intensity. 
+						The prefix de- is also added to verbs in order for them to mean the opposite of what they originally mean.
+						-----------------------------------------------------------------------------------------------------------------------------	
 dec, deca					ten, ten times					decimal, decade, decalogue, decimate, decathlon
 dec, dign					Suitable					decent decorate dignity
 dei, div					God						divinity, divine, deity, divination, deify
@@ -244,10 +249,15 @@ dem, demo					people, populace, population			democracy, demography, demagogue, e
 dent, dont					Tooth						dental, denture, orthodontist, periodontal
 derm						skin, covering					hypodermic, dermatology, epidermis, taxidermy
 di-, dy-					two, twice, double				divide, diverge, diglycerides
-dia						through, across, between			diameter, diagonal, dialogue dialect, dialectic, diagnosis, diachronic
+						------------------------------------------------------------------------------------------------------------------------------
+dia						passing through, throughly, across, between	diameter, diagonal, dialect, dialectic, diagnosis, diachronic
+						completely, going apart, opposed in the moment	diabetes, diabolic, dialysis, diagram, diaspora, dialogue, diaper, diarrhea
+						------------------------------------------------------------------------------------------------------------------------------
 dic, dict, dit					say, speak					dictation, dictionary, dictate, dictator, Dictaphone, 
 												edict, predict, verdict, contradict, benediction
-dis, dif					not, opposite of, reverse,			dissuade, divide, disconnect, disproportion, disrespect, distemper, disarray
+dis, dif					not, opposite of, reverse,			dissuade, divide, disconnect, disproportion, disrespect, distemper, 
+												disarray, disagree, disappear, disintegrate, disapprove, 
+												disbelief, displeasure, disconnect
 						separate, deprive of, away			dismiss, differ, disallow, disperse
 dit						Give						credit, audit
 doc, doct					teach, prove					docile, doctor, doctrine, document, dogma, indoctrinate
@@ -262,20 +272,8 @@ dura						hard, lasting					durable, duration, endure
 dynam						power						dynamo, dynamic, dynamite, hydrodynamics
 dys-						bad, abnormal, difficult,			dysfunctional, dyslexia, dyspathy, dystopia 
 						impaired, unfavorable,
-de-		off, down, away from
-		privation, removal, separation, etc.
-		It is used to indicate privation, removal, separation, negation, descent, reversal, or intensity. 
-		The prefix de- is also added to verbs in order for them to mean the opposite of what they originally mean.
-				devalue, defrost, derail, demotivate
-				decide, dehumidify, degrade, detract, deduce, decompose, decentralize, desensitize, deconstruct, demoralize, defrost, destroy 
-
-di- 	two, twice, double   Chemistry dipolar, disulfide, diatomic, dioxide, dialogic, diazepine, dicobalt, diacarboxyl, dibasal, dibenzonate
-dia- passing through, thoroughly, completely, going apart, opposed in the moment
-		diabetes, dialect, diabolic, diagnosis, dialysis, diagram, diaspora, dialogue, diaper, diarrhea, diameter, diagonal
-dis- opposite of, not		disagree, disappear, disintegrate, disapprove
-				disbelief, displeasure, disconnect
-
-
+di-						two, twice, double (Chemistry)			dipolar, disulfide, diatomic, dioxide, dialogic, diazepine, 
+												dicobalt, diacarboxyl, dibasal, dibenzonate
 e-						not, missing, out, fully,			emit, embed, eternal,ether, erase, email, etailer
 						away, computer network related
 ec-						out of, outside					echo, eclipse, eclectic, ecesis, ecstasy, exzema
