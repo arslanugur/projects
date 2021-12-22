@@ -57,7 +57,7 @@
             
 
 --- Theories of Learning (öğrenmeyle ilgili teoriler)
-          BEHAVIOURISM
+         BEHAVIOURISM
               - against cognitivizm
               - Stimulus – Response (otomatikleşme) (Habit Formation) (AudioLangMethod)
               - ***Reinforcement vs Punishment
@@ -93,9 +93,1440 @@
 
                     When learners imitate and repeat the language
                     they hear in their surrounding environment and are
-                    positively reinforced for doing so, habit formation
+                    positively reinforced for doing so, habit formation****
                     (learning) occurs.
 
 
+        INNATISM (Chomsky, Krashen)
+                Features
+                    - Universal Grammar
+                    - Innate ability
+                    - LAD
+                    - Creativity
+
+                    - Mental capability
+                    - Mental Representation
+
+                    Human beings are born with mental structures that are designed specifically for the acquisition of language, 
+                    and therefore they are biologically predisposed to learn language.
     
+
+        INTERACTIONISM
+                    - Interplay between innate ability and environment
+                    - Both genetic and environment factors
+                    - Physical, Social and Cognitive factors
+                                (Vygotsky)  (Piaget) 
+                    - Vygotsky Social Interaction
+                    - ZPD
+                    - Scaffolding (Novice and Expert to assist them)
+
+
+        HUMANISM
+                    - learners are human beings
+                    - taking the needs of kearners into account
+                    - spiritual and emotional needs
+                    - emotions, needs, values, beliefs, motivation
+                    - making learners feel comfy
+                    - self-actualization (goals, motivation)
+                    - Intrinsic motivation (kendini motive etmek)
+
+                    - öğrenci herşeyden önce insandır
+                    - duygu düşünce ihtiyaç motivasyon ilgi davranış göz önünde bulundurulmalıdır
+                    - human feelings, emotions and needs are important. relaxing environment
+
+        CONSTRUCTIVISM (vygotsky) YAPILANDIRMACILIK
+                    - knowledge is constructed within social contexts
+                        (insanların birbiriyle iletişimi)
+                    - communication w each other
+                    - sharing knowledge, feelings and experiences
+                    - integration of learners into a community
+                    - building on previous knowledge and experience
+                        (fikir alışverişi)
+                    - bilgi sosyal ortamda, yetişkin yardımıyla öğrenilir
+                    - sosyal ortam göz ardı edilemez
+                    - yeni bilgiler eskilerin üzerine inşa edilir
+
+                    - collabrative learning
+                    - social context
+                    - interacting with community
+
+
+        COGNITIVIZM (Piaget)
+            - Against behaviourism
+            - Cognitive Development (öğrenci kendi öğrenme sürecini yapılandırmalıdır)
+            - Schema, Schemata
+            - Maturation
+            - Nature
+            - Nurture
+            - Concrete Operational
+
+                öğrenme içsel  bi süreçtir doğrudan göstermez
+                active student
+                analyzing,planning
+                cognitive process (bilişsel sürece katılan öğrenci)
+
+            - internal and mental processes of learning
+            - relationship between language and cognition
+            - language learning as a mental activity
+
+            - organization of knowledge and new learning by a mental sctructure
+            - reorganizing existing knowledge
+            - individuals act, construct, plan and analyze their learning
+            - importance of negative and positive feedback
+
+                deneme-yanılma
+                denge-dengesizlik-denge
+
+        CONNECTIONISM
+            - Study of SLA (Second Language Acquisition)
+            - Association
+            - Associating Words
+            - Language is a sys of unit
+            - Strictly against Innatism (it challenges innate knowledge)
+            - creating networks that connects words and phrases
+            - language includes linguistic units
+            - these units are connected in mind
+            - the more we see or hear, the more we connect them
+            - repeated input or linguistic stimuli (maruz kalmak)
+            - var olan bilgilerle yeni gelen bağlantı oluşturur
+
+                Language is a system of units that become intertwined in the mind. 
+                Language acquisition is a process of associating words with elements of external reality.
+
+
+        INNATISM (Chomsky, Krashen)
+            - Critical Period Hypothesis
+                    It claims there are biological mechanisms specifically designed for language acquisition and these cease to be available at or even before puberty. 
+                    Thus, an older learner has to use general mechanisms that are not effective for language acquisition.
+                    
+                    - First Language Acquision 
+                        > Stages
+                            - Cooing: Motherese Language (Mum talks to child)
+                            - Babbling: ba, ba, pa, pa
+                            - One-Word Stage: holophrastic; milk, cat, cookie
+                            - Two-Words Stage: baby chair, mommy cat
+                            - Telegraphic Stage: daddy go bye, cat drink milk
+            
+            - Comprehensible Input Hypothesis (Krashen) - Study of SLA
+                    1- Natural Order Hypothesis 
+                            Simple to Complex – Predictable Order
+                    2- Input Hypothesis
+                            Input should be comprehensive
+                            L+1 – One step above your current level
+                    3- Monitor Hypothesis
+                            Students need time to think, observe one’s output (check and correct)
+                    4- Acquisition of Learning Hypothesis
+                            Conscious      vs.     Unconscious
+                            (learning sys.)        (acquired sys.)
+                    5. Affective Filter Hypothesis
+                            Emotional
+                            When one learns sth, the other is uncomfy
+                            (High Anxiety Level)
+                            Teacher’s joke or familiar questions makes ss relax
+
+            - Interlanguage Hypothesis (Selinker)
+                    - L1, L2 errors are neutral
+                    - Language Learning is a process
+
+                        ERRORS
+                            - Interference** 
+                                    thank you, nothing 
+                                    Language transfer
+                                    Interference error
+                                    Türkçe düşünerek İngilizce
+                                    I library went (why the native speaker of Turkish makes the exemplified grammatical error in english)
+
+                            - Overgeneralization
+                                    I goed, I walked, I eated
+                                    (Grammatical Structure)
+
+                            - Fossilization**
+                                    Mistakes exist even though he knows the correct (Hatada kalıcı olmak)
+
+                            - Contrastive Analysis Hypothesis (Robert Lado-57)
+                                    Errors from the interference from the first language
+                                    Errors from the transfer from the first language
+                                    Comparison between foreign language and native lang.
+                                    Comparison with Krashen hypothesis
+
+                             hypercorrection, Code-sswitching, Underextension
+
+
+
+
+
+
+--- Methods and Approaches
+                Approach: 
+                        It is a set of assumption about language learning and teaching. 
+                        Theories about the nature of language and language learning. 
+                        Statements about how to promote language learning. 
+                        It is source of principles and practices of language teaching (yaklaşım bilimsel değildir teori gibi işte). 
+                        Approach: HOW LANGUAGE IS LEARNT? ---> SÖYLEM
+
+                Method: 
+                        It is a plan of presentation of language material   
+                        UYGULANIŞ, the way of teaching language, it is application of principles and findings. 
+                        Her metod bir yaklaşıma dayanır ve kaynağı olur. 
+                        It is based on an approach. 
+                        It takes student and teacher roles, syllabus type, and techniques into account. 
+
+                Technique: 
+                        Specific activities used during teaching process. 
+                        It includes tasks, exercises, activities. 
+                        Uygulanış şekli. roleplay, human computer etc
+
+                
+                
+                Methods: 
+                    Grammar Translation Method, Direct Method, Audio Lingual Method, Silent Way, suggestopedia, Community, Totl Physical Response
+                Approaches: Content-Based Approach, 
+
+
+                GRAMMAR TRANSLATION METHOD
+                    Classical Method / Prussian Method
+                        - Literature (Language is utilized to read, understand and interpret literacy texts)
+                        - Based on no specific approach
+                        - Paragraph questions
+                        - Individuals become sophisticated and intellectual
+
+                    Learning Theory (Öğrenim nasıl yapılıyor) 
+                        - L1 used translation
+                        - Memorize vocabulary
+                        - Deductive Grammar (deductive teaching is applied) – Tümden gelim
+                        - Grammar rules are taught explicitly/deductive
+                        - Rules are reinfored by exercises
+
+                        - Teacher Authority
+                        - Errors aren’t tolerated and instant correction
+                        - Reading, Writing
+
+                    Importance of Culture
+                        - Target Culture is thought to be composed of literature and fine arts
+                        - The culture is learnt through texts
+
+                    The role of mother Tongue
+                        - Classroom language is student’s mother tongue
+                        - Instructions are given by using student’s mother tongue
+
+                    The role of teacher
+                        - Teacher is strict authority
+                        - The class is teacher-centred
+                        - students passive
+
+                    Teaching Areas
+                        - Grammar and Vocabulary are paid special attention
+                        - Reading and writing are emphasized
+                        - Speaking and Listening areas are neglected
+
+                    Teaching Grammar
+                        - Grammar rules are taught deductively (kurallar açık şekilde verilir, öğrenciler  exercices), burda yok ama inductivede çıkarım yolula okutursun
+                        - students memorize rules
+                        - Rules are practice and antond through exercises
+                        - Translation of literary texts
+
+                    Teaching Vocabulary
+                        - words are presented w their mother tongue equivalents
+                        - synonym and antonym
+                        - using cognates (trafik-traffic)
+
+                    Interaction
+                        - little interaction between teacher and students
+                        - no interaction between students
+
+                    Error Correction
+                        - no tolerance of errors because of accuracy
+                        - immediate error correction
+                        - the focus is on accuracy rather fluency (akıcılıktan ziyade gramer doğruluğuna odaklı)
+
+                    Syllabus type
+                        - Structural syllabus is used in this method
+                        - simple to complex rules
+
+                    Evaluation
+                        - students are asked to translate some literary texts
+                        - comprehension questions may be asked
+                        - questions consisting of cognate, synonyms, antonym may be asked
+                        - student’s writing skill is evaluated
+
+                    Techniques
+                        - Translation of texts
+                        - focusing on grammar in literary texts
+                        - deductive application of rule
+                        - reading comprehension questions
+                        - antonym, synonym, cognates (benzer kelimeler)
+                        - filling in the blanks
+                        - memorisation
+                        - writing composition
+                        - using words in sentences
+
+                        reading and writing –primary skills
+                        speaking and listening are neglected
+
+                        true cognate : cinema, sinema
+                        false cognate: 
+
+                    Criticism
+                        - oral language is neglected (konuşma dilinden uzak kalır)
+                        - real life contexts are missing 
+                        - dört beceri kullanılmaz
+
+
+                    Etkileşim: t – ss
+                    Traditional view – prescriptive
+                    yazı dili edebi eserler
+
+
+                    KEYWORDS
+                        classical method
+                        prussian method
+                        translation
+                        deductive learning 
+                        teacher authority
+                        student passive
+                        structural syllabus – yapı gramer tabanlı
+                        accuracy
+                        literatüre and fine arts
+                        memorization
+
+
+
+
+
+                DIRECT METHOD
+                    Neutral method/Berlitz method
+                    - There is no L1 (No Native Language)
+                    - Grammar inductively
+                    - Vocabulary, Visuals, Realia(resimleri kullan kelime için), Pictures, Demonstrations
+                    - Fine Arts
+                    - Teacher is not Dominant
+                    - Students – Self Correction
+                    - Speaking, Listening, Pronunciation
+
+                    -Çeviri translation YOK
+                    -Hedef dili kullanarak iletişim kurmak amaç
+                    -Öğretme gesture(mimik) kullanır
+                    -konuşma ve iletişim için SITUATION yaratılır. (at home, in the cinema)
+
+                    - rection to GTM
+                    - language is for communication
+                    - similarity between learning target language and acquisition of L1
+                    - significance of demonstration (görsellik önemli)
+                    - taklit, obje gösterme
+                    -bebeğin ana dili öğrenmesi gibi benzer
+
+                    Goals
+                    - to teach students how to communicate in the target language
+                    - to make students think in the target language
+
+                    Culture
+                    - maruz bırakıldığı için kültür sunuluyor
+                    - culture is an indispensable part of learning
+                    - real life contexts are based on customs, values, beliefs
+
+                    Role of teacher
+                    - directing instructions and activities
+                    - source of input as a model
+
+                    Role of Students
+                    - Participating activities
+                    - Processing the knowledge presented
+                    - Active learners
+
+                    Mother Tongue
+                    - no usage of mother tongue
+
+                    Language and Skills(neler öğretilir)
+                    - L, S, R, W
+                    - Oral skill is important
+                    - Four skills are taught
+                    - Fluency is more important than accuracy
+
+                    Grammar
+                    - Inductive teaching (students discover rules themselves)
+                    - Presenting grammar rules through contexts or example sentences
+                    - students induce rules
+                    Teaching prepositions
+                    Eg: I think, he was born in summer
+                    Eg: She will go to holiday on xmas day
+                    Exercises
+                    Eg: I will invite everybody___my birthday
+
+                    Vocabulary
+                    - Realia (Gerçek objeler kullan)
+                    - Pictures about words
+                    - Example sentences
+                    - Demonstration and miming
+                    - Association of ideas
+                    - Everyday vocabulary (kullanım sıklığı)
+
+                    Interaction in the Classroom
+                    - Interaction between teacher and students
+                    - Interaction between students
+
+                    Error treatment
+                    - Enabling students to discover their errors
+                    - self-correction
+                    
+                    
+                    
+                    - No use of the mother tongue is permitted.
+                    - When the teacher introduces a new target language -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
+                    - Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
+                    - Grammar is learned inductively.
+                    - The syllabus is based on situations or topics, not on linguistic structures.
+                    
+                    - Classroom instruction is conducted exclusively in the target language. The native language shouldnot be used in the classroom.
+                    - Oral communication skills are given priority, 
+                        and they are built up in a carefully graded progression organised 
+                        around question-and-answer exchanges between teachers and students in small, intensive classes.
+                    - Vocabulary is taught through the use of demonstration, realia, and visual aids.
+                    - Grammar is taught inductively. An explicit grammar rule may never be given.
+
+                    Syllabus Type
+                    - Situational Syllabus (at rest, at airport, at school)
+                    - Topical Syllabus (Economy, Technology, Education, Social Media)
+
+                    Evaluation
+                    - Students are made to Show their ability to communicate in the target language
+                    - No ealuation cocerning abstract rules or knowledge of the target language
+
+                    Techniques
+                    - Reading aloud (Clarification by teacher)
+                    - Q and A Questions
+                    - Self- Correction
+                    - Conversation practice
+                    - Fill in the blank exercise
+                    - Dictation(ne söylerse anında yazılır),
+                        - Dictocomp(dinler not almaz, akılda kalanlar yazılır) yaratıcı teknik
+                        - Dictoglass(metni dinleyip, key words not edip, metni yeniden yazma)
+                    - Map drawing
+                    - paragraph writing
+                    - self correction
+                    - conversation practices
+                    - meaning-based fill-in-the-blanks exercises
+                    - drawing
+
+                    S L R are importants skills
+                    Vocabulary is over grammar
+
+                    Criticism
+                    - Grammar hataları çok olur
+                    - Accuracy is neglected 
+                    - Anxiety because of the target language
+                    - waste of time because of abstract words
+                    sınıf mevcudu fazlai se yaş yüksekse, hazır bulunuşluk azsa, herkese uygulanmaz
+
+                    • No use of the mother tongue is permitted.
+                    • When the teacher introduces a new target language -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
+                    • Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
+                    • Grammar is learned inductively.
+                    • The syllabus is based on situations or topics, not on linguistic structures.
+
+                    KEYWORDS
+                    demonstration
+                    implicit grammar
+                    Daily speech
+                    realia
+                    **no translation çeviri kullanılmaz
+                    **no L1 ana dil yok
+                    ** inductive (çıkarım yapıyor)
+                    self correction by studens
+                    situations or topics to communicate
+                    map drawing
+
+
+            AUDIO LINGUAL METHOD
+                    Army method
+                    First scientific method
+                    - There is no L1 (not allowed) no translation
+                    - Dialogues, Drills
+                    - Habit Formation (Alışkanlık behaviorist)
+                    - Structural Syllabus
+                    - Listening, Speaking (Limited)
+                    - Teacher is an Orchestra leader
+                    - Students – Imitator
+                    - Errors are corrected by Teacher
+                    - Pronouncation is important
+
+                    -amaç aktif şekilde hedef dilde konuşmak
+                    -adjecency pair – birbirini bekleyen cevaplar
+                    -phatic expression – otomatikleşme var
+                    -inductive (grammari kendisi çıkarır)
+                    -rol model öğretmeni öğrenci taklit eder
+                    -diyalog ezberleme yapılır
+                    -Drill kullanılır
+
+                    - Alışkanlık oluşturma
+                    - Based on principles of behaviorism and structuralism (tekrarlar, yapılar oluşturmak)
+                    - Learning without intellectual analysis (Askerlere dil öğretmek gibi)
+                    - Mother tongue is thought to interfere in language learning process (Ana dil istenmez)
+                    - Contrastive analysis is applied (L1 vs L2)
+                    - Language is for communication
+
+                    Goals
+                    - To make learners communicate in the target language
+
+                    Culture
+                    - Everyday Language (Culture is mostly based on everyday behaviour and lifestyle of target language speakers)
+
+                    Role of Teacher
+                    - Teacher as an orchestra leader
+                    - Good models speaking native like with a good pronunciation
+                    
+                    Role of students
+                    -  imitating the teacher
+                    - repeating, momerising and using structures
+
+                    Mother Tongue
+                    - no usage of mother language in the classroom
+                    
+                    Teaching Skills
+                    - listening and speaking are paid special attention
+                    - correct pronunciation is valued
+
+                    Grammar
+                    - Grammar is taught by examples, drills and dialogues (part of speech: noun, pronoun..)
+
+                    Vocabulary
+                    - Limited
+                    - Words are learnt through dialogues
+                    
+                    Interaction
+                    - Interaction is between the teacher and students
+                    - Interactions between students
+                    
+                    Error Treatment
+                    - Habit Formation
+                    - Errors are prevented
+                    - Errors are corrected immediately
+                    
+                    Syllabus
+                    - Structural syllabus (simple to complex)
+                    - Key items are put in order and presented
+
+                    Evaluation
+                    - Discrete-Point tests (becerileri ayrı ayrı test etmek)
+                    - Audio-Visual Materials
+                    - Course book
+                     
+                    Techniques
+                    - based on behaviorist approach
+                    - Dialogue memorization
+                    - Dialogue completion
+                    - Back-Ward build up (geriden başa doğru)
+                    - mechanical Repetition drill
+                    - minimal pairs
+                    - grammar rules 
+                    - Chain Drill (Zincirleme)
+                    - Substitution drill (bir kelimeyi başka kelime)
+                    - Grammar game
+                    - Transformation drill (olumluyu soru yapma)
+                    - Q and A
+                    - Single-slot Substition drill
+
+                    Mechanical drills
+                    - repetition drill
+                    - chain drill
+                    - backward build up (expansion) drill
+                    - Single-slot substitution drill
+                    - multiple-slot substitution drill
+                    - transformational drill
+                    
+                    L and S are emphasized
+                    
+                    
+                    Criticism
+                    - Drills and imitation is not effective in language learning (bilişsel süreçleri ihmal ediyor)
+                    
+                    
+                    
+                    Drills
+                    -backward – build up dril (tekrar söz konusu)
+                    -transformation drill (olumlu cümle olumsuz yapılır)
+                    -question-answwer drill
+                    -single-slot substution drill
+                    -multi-slotsubstution drill (çokluboşluklar doldurulur)
+                    -repetition drill
+                    -chain drill
+                    
+                    Key words
+                    -stimulus
+                    -response
+                    -drill
+                    -minimal pair
+                    -dialog
+                    -repetition
+                    -punishment
+                    -reinforcement
+
+                    Advantages 
+                    – pronunciation iyi
+                    - gramer arka planda
+                    - konuşma iyi
+
+                    ama sıkıcı olabilir
+                    öğrenci birey olarak kabull edilmez (humanistik değil yani)
+
+                    Discrete point test – tek bi amaç ölçmek için kullanılan testler
+
+                    KEYWORDS
+                    army method
+                    students imitator
+                    habit formation
+                    stimulus/response
+                    repetition
+                    teacher orchestra leader
+                    dialogs-drills
+                    expect perfect pronunciation
+                    oral communication
+                    no L1
+
+
+
+            SILENT WAY METHOD
+                    Cognitivist (piaget) – öğrencinn bi bilgiyi öğrenmesi için problem çözmesi gerek
+                        - Sound, Color Chart, Color rods, Fidel Chart
+                        - L1 allowed for only instructions
+                        - Teacher/Technician/Engineer is almost silent
+                        - Students – Interaction 
+                        - Peer Correction vs Self Correction 
+                        - Students are relaxed – autonomous (kendi öğrenmelerinden kendileri sorumlu)
+
+                    - recycle syllabus (konular sınırlı old için hep başa sarar)
+                    - methodun amacı öğrencinin kendi öğrenme sorumluluğunu alıp, kendi fikirlerini ifade etmesi
+                    - hatalar süreecin ayrılmaz parçası (humanistik yaklaşım)
+
+                    - it is based on cognitive theory
+                    - language learning is rule-formation 
+                    - (öğrenciler hipotez kurar)
+                    - Students must be autonomous learners that are resposible for their learning (öğretmen sessiz)
+
+                    Goals
+                    - Self-expression
+                    - Autonomous learners
+
+                    Mother Tongue
+                    - giving instruction
+                    - Giving feedback at the early stages
+                    - Helping students correct their pronunciation
+                    
+                    Role of teacher
+                    - Öğretmen mühendis gibi projeyi çizer sadece yapılıp yapılmadığını gözlemler
+                    - A technician or engineer
+                    - keeps silent and uses body language if necessary
+                    - help students
+                    
+                    Role of students
+                    - Autonomous learners
+                    - They learn by exploring and actively engaging in activities
+                    - formulating hypothesis
+                    
+                    Culture
+                    - Culture cant be separated from language
+                    - Language reflects the way people live
+                    - Daily life and art of target language are important
+                    
+                    Language areas
+                    - Vocabulary is a priority
+                    - Sounds are paid special attention
+                    - Grammar rules are valued but not presented deductively (direk açık öğretilmez)
+                    - Four skills
+                    
+                    Grammar
+                    - grammar rules are important
+                    - there is not deductive teaching
+                    - Imperatives are used through action verbs
+                    - from simple to complex (structural sylabus)
+
+                    Vocabulary
+                    - Visual aids
+                    - Color-coded chart
+
+                    Interaction
+                    - Student-Student interaction (teacher is silent)
+
+                    Error treatment
+                    - Self-Correction
+                    - Peer Correction
+                    
+                    Syllabus Type
+                    - Structural Syllabus
+                    - Not Linear (sırayı bozabilirsiniz) (önce öğrencinin aşina old şeyler anlatılır)
+                    
+                    Students’ feelings
+                    - The teacher treats negative feelings while giving feedback (negatif düşünceleri gidermek)
+                    
+                    Evaluation
+                    - no formal test
+                    - the teacher observes and evaluates
+
+                    Techniques
+                    - Teacher’s silence
+                    - Color-coded chart
+                    - Self and peer correction
+                    - Fidel chart (sesler)
+                    - Colored Cuisenaire Rod (renkli çubuklar)
+                    - Word chart
+                    - Structured feedback (öğrenciler feedback verir öğretmen değil, öğrencilere sorar öğretim nasıl diye, öğretmen kendini düzeltir öğrenci sorumluluk alır)
+
+                    Criticism
+                    - Teachers silence creates anxiety
+                    - Hypothesis may lead to incorrect learning
+
+                    key words
+                    - recycle syllabus
+                    - inner criteria
+                    - active student (kendi mücadelesini yönetir)
+                    - peer correction (işbirliği artar)
+                    - fidel chart
+                    - silent
+                    - autonous
+
+                    Progression, not perfection!
+                    (ilerlemek önemli, mükemmellik değil)
+
+
+                    Dezavantaj
+                    - Sınıf kalabalık olursa öğrencileri kenidni ifade emesi zorlaşır
+                    - giriş seviyesine uygun olmayabilir
+
+
+                    KEYWORDS
+                    Rods/Charts
+                    Inner Criteria (karar vermeli)
+                    Teacher Technician/Engineer
+                    Self correction
+                    Peer correction
+                    Teacher Silent
+
+                    Techniques
+                        Fidel charts
+                        Color-coded sound charts
+                        Teacher’s silence
+                        Structured feedback
+                        Word chart
+                        Self correction gestures
+                        Self and peer correction
+
+                    Pronunciation is emphasized at the beginning 
+                    And 4 skills
+
+
+            TOTAL PHYSICAL RESPONSE METHOD
+James Asher
+- Language-Body Conversation
+- Body Movement (Physical)
+- L1 can be used
+- Teacher is director (Imperative)
+- Teacher commands, Students performs
+- Students stress level low
+- Error Tolerated
+- Sentence based syllabus (a Syllabus type)
+- Left and Right hemisphere of the brain
+- Listening, Speaking
+
+- Öğrenciler ortamdan keyif alır (fun atmosphere) 
+- rahatlık önemli
+- öğrenciler bebekler gibi öğrensin
+- önce dinleme için zaman ver sonra konuşsun
+- öğretmendn emir cümleleri öğrenciler uygulasın
+- emir için karmaşık instructions verilmemeli
+- hata yapıldığında ders ortamı bölünmeden sonrasında düzelt
+- hatalar öğrenmenin parçasıdır
+- dersin çoğunluğunda hedef dil kullanılır
+- öğrenci öğretmen rol değişikliği (role reversal)
+- perfection aranmaz
+- fine tune (hatalar nazikçe düzeltilir)
+- action sequence (emirler ardarda verilir)
+- listening and speaking 
+
+- the importance of coordination between the action and speech (şunu biliyorsan koş gibi)
+- it is both humanistic and structural (= grammar)
+- first language acquisition is taken into account
+- comprehension is prioritized
+
+Goals
+- creating a stress free learning environment to make students enjoy learning
+- making students respond to the commands physically (söylenenleri anlayıp tepki ver anla göster)
+
+Mother Tongue
+- rarely used
+
+Role of teacher
+- Director (söyle yapsınlar)
+- model for students
+
+Culture
+- Culture is component of the language learnt
+- Daily lives of the community of the target language
+
+Language Areas ( neler öğretiliyor)
+- grammar rules and vocabulary are paid special attention
+- comprehension is prioritized
+- pronunciation is delayed(suskunluk sonrası seviyeye gelir ondana sonra konuşturulur)
+- L, S, R, W
+
+Grammar
+- Impreratives (comprehension)
+- Producing commands
+
+Vocabulary
+- verbs have priority (emir verirken fiiler ön planda)
+- adj, nouns, conjunction, adverb are taught together with verbs
+- frequently used objects
+- chunks are used (chunk=sözcük öbekleri)
+
+Interaction
+- teacher-Student initially
+- Stu-Stu or Stu-Teacher later (öğretmene de emir)
+
+Error treatmen
+- Regarding errors as a natural part of language learning process
+- tolerated initially (başlarda tolere edilir)
+- only major errors are corrected
+- Minor ones are also corrected at later stages
+
+Syllabus type
+- A sentence-based syllabus focusing on grammar and lexis (cümle kurmaya yönelik)
+
+Student’s feeling
+- feelings are paid special attention
+- students are not made to speak initially (çünkü kaygı ve endişeyi söndürüyor)
+- Perfection is not expected
+
+Evaluation
+- formal tests are used to assess students (gözleme dayalı emir testleri)
+- formal tests are based on commands
+- observation is conducted
+
+KEYWORDS
+Actions/Commands
+Oral communication
+Teacher director
+Students imitator
+Imperatives
+Fun
+Low anxiety and more fun
+Understanding before speaking
+
+Techniques
+- using commands
+- role reversal (rol değşimi) bazen öğretmene de verilir 
+- Action sequence (bi kaç emir verilir birden fazla)
+
+Natural order of skills
+LSRW amaa
+Hepsinden önce dinleme bu method için önemli
+ 
+
+Critisicm
+- not suitable for introverted students (içine kapanık)
+- pronunciation is neglected
+- difficulty of teaching abstract lexical items (soyut kelime öğretiminde güçlük)
+
+
+
+            COMMUNITY LANGUAGE LEARNING METHOD
+- Öğrenci bütün olarak kabul edilir (whole person)
+- Öğrencinin kendini rahat hissetmesi en önemli amacıdır (non-defensive)
+- Round table and a recorder (herkes tek tek okur, kaydedilir. En son dinleyip hatalar düzeltilir (reflexive listening yapılır))
+- Öğretmen tehdit unsuru değil, danışman, yol gösterici olabilir.
+- öğrenciler iletişim kurup sorumluluk alsınlar
+- daha çok yetişkinler için uygun
+
+Six Elements of Non-Defensive Learning
+- Security (Güvenlik)
+- Attention (ilgili, dikkatli)
+- Aggresion (bilgiye agrsif saldır al)
+- Retention (parça bütün ilişkisi)
+- Reflection (Günlük hayata yansıt)
+- Discrimination (ana dil ile hedef dil arasındaki farkı ayırt e)
+
+Stand Behind (öğretmen öğrenciye tehdit olmaktan ziyade destek olmalı)
+
+Human computer activity
+öğrencinin anlamadığı bir yeri anlayana kadar tekrar et
+input – duyulan, görülen her bilgi
+intake – ..her bilgiyi anlamlandır
+uptake – kullanıma dök
+output – ağızdan çıkan her şey
+
+- Students are secure and relax (enough time to respond)
+- Language for Communication
+- Group-Pair Work (Teacher Counsellor)
+- Chunk used (Firstly L1, Step by step L2)
+- Target Language on tape, human computer
+-Whole Person
+- Listening, Speaking
+
+Topluluk birbirinden faydanan
+- based on whole person (bir bütün olarak) learning and humanism
+- a secure and cooperative classroom is created
+
+GOALS
+- making students use target language communicatively
+- creating a classroom where everybody trust eachother and see each other as whole person
+- makking students take the responsibility for their learning
+
+Requirements of a good language environment
+- security (feeling secure)
+- aggresion (opportunity for someone to Show his perfomance)
+- attention (availablity of activities to attend)
+- reflection(thinking on and reviewing their learning)
+- retention (internalizing the new information)  içselleştir
+- discrimination (realizing differences)
+
+Mother tongue
+- mother tongue is used for instructions
+- students express their mother tongue
+- L1 is used in grammar and vocabulary teaching
+
+Role of teacher
+- counselor
+- structuring activities
+- Frees students from negative feelings
+- stands behind
+
+Role of students
+- dependent on the teacher in the beginning
+
+Culture
+- culture is a part of language
+- it should be taught
+
+Language areas
+- listening and speaking is prioritized
+- pronunciation is valued
+- reading and writing are also taught
+
+GRAMMAR
+- Grammar is taught through chunks (kalıplar aracılığıyla)
+- students induce rules (kendileri bulur) but deductive teaching from time to time
+- chunks are studied through mother tongue
+
+VOCABULARY
+- words are presented with their equivalents from mother tongue
+
+interaction
+- stu and stu
+- stu and teac
+- team work
+- pair work
+
+Error treatment
+- errors are corrected in a nonthreating way
+- the correct form is read to other members of the class
+- kimin yaptığını hissettirmeden sınıfa duyurur ve düzeltirir
+
+Syllabus type
+-  no specific syllabus
+- students’ needs are taken into account
+
+Students feeling
+- students feelings are highly valued
+- students are made to talk about their feelings
+
+Evaluation
+- no specific test type
+- students are made to write a paragraph (integrative – beceriler bütün olarak test edilir)
+- they are interviewed (integrative – speaking seviye belirleme konuşması gibi)
+
+KEYWORDS
+Whole person learning 
+(bi bütün olarak  birey)
+teacher counselor
+Human computer
+Security – güvende hissettir
+Attention – ne kadar stu aktif
+Agression – öğrendiğini göstermeli
+Reflection – kendi düşünceleri
+Retention – benimsemek bilgileri kabul etmek
+Discrimination -  l1 ile l2 ayrımını yapmak
+Non-defensive learning
+Teacher and students centered
+Non-threating atmosphere
+Students feelings are important
+Humanistic approach
+
+Techniques
+- Transcription (turn record into writing)
+- Reflexive listening (önceden öğrenci kayıtları)
+- human computer (öğretmen bilgisayar gibi davranması – telaffuz düzeltmesi gibi)
+- reflection of experience (öğrencilerden yorum düşünceler)
+- small group activities
+
+L S important skills
+
+Criticism
+- Translation (ana dil kullanımı)
+- difficulty of applying
+
+
+
+            SUGGESTOPEDIA METHOD
+                Lazanov method
+- Fine Arts, Soft Music
+- Grammar taught explicitly
+- Translation (GTM gibi değil, L1 kısıtlı gerekirse kullan)
+- Teacher Authority
+- Infantilization (Parent-Child Relationship)
+- Students choose an identity 
+- Posters for peripheral learning
+- Culture
+
+- Rahat bi öğrenme ortamı
+- öğrenme ortamındaki güçlükleri ortadan kaldırır
+- olumsuzlukların nedeni AFFECTIVE FILTER (kaygıları, beklentileri getirdiği olumsuz durumlar)
+(sınıf ortamı, ışıklandırma, sıra düzeni yok, biraz müzik var,)
+- humanistic (ilgi ve ihtiyaçları önemser)
+- dil iletişim kurmak için
+- öğrenciye yeni bir kimlik verilir
+- hatalara sorumlu bulunmaz yeni kimliğinin hatası
+- Tavsiyede telkinde bulunup mental rahatlık önemli
+- it is based on humanism
+- elimination of psychological barriers
+- increases self-confidence (inanmak başarmanın yarısı)
+-  design of learning environment (furniture, music etc)
+
+Peripheral Learning
+- öğretmenin ders ortamında hem posterden, hem çevreden yararlanarak öğrenme ortamını kolaylaştırmak 
+- hatalar düzeltilir ama anında değil
+Infantalization
+- öğrenciler çocuk gibi kabul edilirler, yaptıkları hata eleştirilmez
+Double Plannedness
+- Öğretmenin rolü hem ortamı planlamak hem de çevreyi planlamak
+Deductive – kural verilir
+Sınav yok
+Ödev yok   -stres yok
+
+4 skills de kullanılır ama hiçbiri mükemmel değildir
+hangi skille odaklanacağı belli değil
+
+KEYWORDS
+active concert, passive concert, peripheral learning, low affective filter, deductive, music
+New identity (hataları yei kimliğe vermek)
+Trust-respect
+Teacher authority
+Errors are corrected gently
+Psychological barriers
+Peripheral learning (çevredeki poster vs)
+Positive suggestion
+Cheerful environment
+Deductive approach
+
+
+Goals
+- make students ready for learning
+
+Mother tongue
+- mother tongue is not forbidden at early stages
+- used to make meaning of dialogues clear
+
+Role of teacher
+-  a trustable authority
+
+Culture
+- everyday life
+- fine arts
+
+Language areas
+-  vocabulary teaching is important than grammar
+- speaking and listening are important
+- oral communication is valued
+- pronunciation is learnt during speaking activities
+- Reading and writing are also taught
+
+Grammar
+- Rules are taught explicitly (deductively)
+- learning how to use rules is more important then rules
+
+Vocabulary
+-  Vocabulary teaching is more important tan grammar rules
+- first language can be used for making the meaning of words clear
+
+Interaction
+- The teacher initiates the interaction at early stages
+- stu-stu interaction
+- stu-tea interaction
+
+Error treatment
+- Recast (reformulation) (öğrenci yeniden oluşturur)
+- olmazsa öğretmen tekrarlattırır ama öğrencinin kendi farketmesi garanti değildir
+
+Syllabus type
+- grammar önemsendiği her yerde structural syllabus var
+- kelime öğretimi daha önemli demiş o zman lexical syllabus
+- bu ikisinin karışımı kullanılır
+
+Students’ feelings
+- students feeling are very important
+- positive suggestion is provided
+- students are helped to eliminate negative feelings
+
+Evaluation
+- Kendini rahat hissetmli ki sınav yok
+- observing students
+- no formal test to avoid anxiety
+
+Techniques
+- classroom setup
+- peripheral learning (sınıf içinde bilgi doluluğu duvarlar, afişler vs)
+- Positive suggestion (olumlu yönde telkin)
+- visualization (canlandırma)
+- choosing a new identity (hayali kimlik)
+- role play , dramatization
+- first-concert (müziğe göre uyumlu okuma öğretmen)
+- second-concert (text yok teacher konuşur)
+- primary activation (teacher reads andwants students to feel different feelings: read angry, funny way)
+- socondary activation (kişiler arası etkileşim)
+
+Oral communication is emphasized. Speaking and listening are important. W and R also important
+
+Criticism
+- not suitable for crowded classrooms
+- not suitable for adults
+- comprehension and prob-solving is neglected
+
+
+- double-planedness (sadece öğretmenin anlattığından öğrenmez, çevresinden de öğrenir – peripheral gibi)
+- Infantilization (öğretmen öğrenci arasında çocukça yaklaşım)
+
+
+
+
+            COMMUNICATIVE LANGUAGE TEACHING APPROACH
+- No L1 (use of target language)
+- Authentic Language in Real Situation
+- Functions
+- Linguistic forms introduced; meaning and functions
+- Teacher is facilitator
+- Students are communicators
+- Students participate efficiently in convrstion
+- Cohesion-Coherence (Meaning, Forms, Functions)
+- Instructions, Homeworks, Explanations o L2
+- Functional – Notional Syllabus (Communicative Purpose Syllabus Type)
+- Information gaps, Opinion gaps, Role-Play, Language Games (İletişim amaçlı etkinlikler)
+- Integrative Tests – Communicative Tests
+
+- dili fonksiyonel olarak bilmek gerekli.
+- to make learners use L2 for communication in different contexts
+- to help learners to consider why, when, where or to whom they are speaking
+
+Dell Hhymes’s Communicative Competence
+- Learners’ grammatical knowledge together with social knowledge about how and when to use utterances appropriately (hangi sosyal ortamda nasıl kullanmalı)
+Communicative Competence
+- The knowledge of grammatical rules
+- the knowledge of rules of using and interpreting language in social contexts
+It has four components: 
+- Grammatical Competence
+- Sociolinguistic Competence
+- Discourse Competence (Coherence and Cohesion) (Konuşamda bir bütünlük tutarlılıkve yapısal olarak da cümleler birbirleriyle bağlantılı olmalı)
+- Strategical competence (bir şeyi tam ifade edemediğinizde farklı şekilde kullanılır makas diyemiyorsan kesen şey deriz)
+
+
+- Functional side of the language is paid special attention
+
+Dilin işlevselliği Halliday’in functions dayanır
+- Instrumantal Function (bir şeyi elde etmek)
+- Regulatory Function (başakalarının tutumlarını kontrol)
+- Interactional Function
+- Personal Function
+- Heuristic Function (keşfetme işlevi)
+- Imaginative Function
+- Representational Function
+
+- both fluency and accuracy are important
+- Four skills are valued from the beginning
+- authentic language is utilized
+- negotiation of meaning and feedback are important (bize söylenen bi mesajı anlamlandırmaya çalışmak)
+- the grammar and vocabulary that students learn come from social context, functions and the roles of the interlocutors
+- Meaning is central to learning and inferred from the context
+- Culture and non-verbal language is added to learning process in the light of socio-linguistic competence (dili hangi ortamda nasıl kullanmamız gerekli)
+- Errors are tolerated/ Delayed correction
+- Teacher is facilitator /Establishing communicative activities
+- collaboration, interpretation, negotiation and expression
+- Task-based or functional-notional syllabus may be used
+
+Etkinlik hazırlanırken üç özellik olmalı
+Three requirements for an activities
+- information gap (bilgi vermek)
+- choice (farklı şekilde söyleyebilmek)  
+- feedback
+
+KEYWORDS
+Dilin kurallarını bilmek yetmez
+Linguistic competence – dil bilgisi imla
+Sociolinguistic competence – ne zman nerede kullanma
+Discourse competence – coherence(anlamsal tutarlılık) n cohesion (teknik tutarlılık)
+Strategic competence – yaratıcı anlatma yollar
+Authentic language – beden dili de işin içinde
+Cohesion-coherence
+Teacher facilitator – danışman, cevap veren
+Student communicator
+Real language use
+No L1
+
+Techniques
+- Information gap
+- Scrambled sentences
+- Role play
+- Acting
+- Authentic materials (newspapers, videos etc)
+- Picture strip story
+- language games
+
+CLT method ise
+- amaç iletişim kurmaktır
+- humanistic
+- duygu v düşünceler önemli
+- kurallardan çok işlevler işlevsellik önemli
+- hatalardan öğrenmek (creative construction)
+- Hatalar korkulacak şeyler değil
+- functional syllabus (özür, selamlaşma in target language)
+- çağdaş bir method
+- Communicative Competence in CLT
+1- Linguistic competence
+    dil iletişim kurmak için yeterli
+    grammar v voc iletişim için yeter
+2- Discourse competence
+     Cohesion – dil bilgisinin etkili ve uygun
+     Coherence – herşeyin anlamca oturması
+3- Sociolinguistic competence (Pragmatic)
+    duruma uygun konuşmak, doğru yerde doğru şeyi söyle
+4- Strategic competence
+    iletişimde oluşabilecek boşlukları doldurabilme becerisi (cümle kurabilme becerisi) Eg. Uçağı check etsene (saati kaçta)
+
+CLT
+- dört beceriyi de geliştirmeyi amaçlar
+- dilin amacı hem accuracy hem de fluency
+- negotiation of meaning (öğrencilerin anlama odaklanması)
+
+- Communicative activities in CLT
+1- Information gap activities (biri bilir diğerine öğretir iletişim önemli) bilgi alışverişi
+2- choice: Öğrenci yeter ki kendin ifade etsin nasıl isterse öyle doğru yanlış
+3- feedback: karşıt dönüt önemli
+
+Keywords
+Authentic material
+scrambled sentence (karışık kelimeleri bütün hale getirerek anlamlı bi cümle oluşturmak)
+Picture talk
+language games
+
+Audio-Lingual Method
+-New material is presented through dialogues
+-Voc is limited and is introduced within a context
+-Mastering good pronunciation is emphasized from the beginning
+-Grammatical points are taught through examples and drills
+
+Silent Way Method and Materials
+-Soundcolor, Charts, Word Charts, Fidel Charts, Self-Correction, Gestures, Structured Feedback
+
+Community Language Learning Method
+-Reflective listening, Small Group Tasks, Recording Students’ Conversation, Transcription
+
+
+
+
+            TASK BASED LANGUAGE TEACHING APPROACH
+- Real World, Everyday Discourse
+- Activities outside of the classroom
+- Making a phone call to reserve ticket or sending an e-mail (real life context)
+- Creating school newspaper or magazine
+- Meaningful purpose rather than using grammatical features
+- Real World activities
+- Authentic Context
+- Problem Solving, Decision Making
+
+Görev verilir: istediğimiz sonuç değil, süreç
+- task is the fundamental unit for teaching
+- the tasks are based on real-life contexts
+- The purpose is to make students use the target language communicatively
+- language is a tool to perform a task
+- students improve their strategies such as turn-taking(konuşma sırasını vermek), asking for clarification etc. (iletişimde işe yarayacak stratejiler)
+- teacher is designer, selector and sequencer of the tasks
+- task based syllabus is used
+- the focus is on process
+
+Students’ success is often measured in terms of their ability to do something with a language, such as creating a school newspaper, rather than their accuracy
+in using certain grammatical features.
+
+Task-Based Language Teaching Method
+- öğrenciler problem çözer
+- authentic material
+- en etkili yöntemdir denilebilir
+- öğrenci problemle karşılaşır, öğretmen bu problemi task olarak verir, öğrenci çözmeye çalışır
+- genelde günlük hayatta karşılaşılan problemler seçilir (iş başvurusunda bulunmak gibi)
+
+- öğrencinin görevini seç planlamasını yap
+- öğrenciler taskleri yerine getirken işbirliği yapar bu önemlidir
+- dili kullanmaya çalışırlar
+- öğretmenin amacı dili günlük hayatta karşılaşabileceği sorunları çözüp, günlük hayatta kullanılabilen ifadeleri kullanmasını sağlamaktır
+- öğrenci dile maruz bırakılır
+- hedef dil kullanılır
+- iletişim öğrenciler arasındadır v önplandadır
+
+Tasklar nasıl olmalı
+- Verilen taşkın bir amacı olmalı
+- authentic olmalı
+- belli bi süreci olmalı adım adım ilerlemeli
+- öğrenci mutlaka problem çözmeli
+- öğrenci bi ürün ortaya koymalı
+- öğretmen feedback vermeli
+- iletişim önplanda olmalı
+
+Task types
+1- Information gap: fikir alışverişi
+2- Opinion gap: öğrenciye bir konu hakkında fikri sorulur ve sonrası fikri sunar
+3- Reasoning gap: Öğrenci verilen bilgiden çıkarım yapar
+
+
+KEYWORDS
+Humanism
+Interactional view
+Problem solving (students should)
+Authentic tasks (dışardan sınıfa bir konu getirilir ve etkileşim sağlanır)
+
+Techniques
+Information gap
+Opinion-gap activity – kişisel duygu fikir
+Reasoning-gap activity – görevi tamamlayacak bilgiler verilir yeni bilgi etme çabası
+
+
+
+
+            CONTENT BASED APPROACH
+- Academic Connection
+- History-Science
+
+- Language is not a goal but a tool
+- Teaching content such as history, geometry etc
+- planning the instruction around a content
+- using integrative skills (bütn beceriler kullanılıyor)
+- no pre-planned syllabus (içeriğe göre olduğu için)
+- thematic chapters (üniteler)
+- visual support (realia gibi)
+- the structures and vocabulary teaching are based on the content (konuya göre kelime bilgisi)
+- target lang is used in the classroom
+
+
+Content-Based Learning as Method
+- Türkiyede yaygın
+- konu temelli yapılan method
+- Amacı: fizik, kimya vs dersler İngilizce
+- Subject Area
+- Teknik terimler kullanılır
+- Amacı dili değil konuyu öğrenmektir (dolaylı dil öğrenimi)
+- akademiktir
+- 4 beceri de önemlidir
+
+Content-Based Models in CBL
+1- Immersion Model
+     öğrenci önhazırlıksız dile maruz bırakılır
+2- Adjust Model
+    İki ders aynı anda verilir
+3- Sheltered Model
+    Öğrencinin kendi seviyesine uygun alanda dile akademik olarak başlatılması
+
+
+KEYWORD
+-Immersion program (akademik programların yabancı dil aracılığıyla dam diye hazırlıksız öğrenilmesi)
+-Sheltered instruction (seviyelere göre hazırlıklı öğrenilmesi)
+-Adjunct model (birinde akademik dersler varken diğerinde yabancı dil öğretimi)
+-Academic course
+-Subject matter
+Specific content
+
+Hedef dili öğretirken konuyu da öğretmek
+
+Techniques
+Language skills improvement
+Vocabulary building
+Study skills
+Note-taking
+Communicative interaction
+Discourse organization
+
+
+
+
+            NEURO LINGUISTIC PROGRAMMING APPROACH
+- Remove negative, give positive
+- Communication is non-verbal (feelings and emotions aren’t things that you have, but things that you do.)
+- NLP assumes all human action is possible
+
+- based on the assumptions spread after a study
+- NLP aims to teach people hpw to be successful
+- başarının bir formülü olduğuna inanılır
+- the study was based on examining the thoughts, beliefs and behaviours of successful people
+- it offers some techniques to help people in terms of communication, personal growth and learning
+- it suggests that the body and mind are interconnected
+- thought and behaviours influence failures and successes
+- people can control their lves
+- NLP teaches people to develop self-awarenessi to change their thoughts and emotional behaviours
+
+Components of NLP
+- neuro – neurological processes/senses and neurological processes
+- linguistic – language is the means of making sense of the world, conceptualizing things, experiencing, and influencing experiences (dili kullanma biçimi yaklaşım, dğnyayı algılayış)
+- programming – to reach our aims, we can train ourselves in terms of thinking, speaking, acting
+
+
+VAKOG System of NLP
+- Visual: see and learn
+- Auditory: listen, hear and learn
+- Kinesthetic: touch, move, act n learn
+- Olfactory: smell
+- Gustatory: taste
+
+Aspects of NLP
+- outcomes: setting goals(hedefleri koy)
+- rapport: establishing friendly relationships w others (samimi – farklılıkları azalt)
+- sensory acuity: paying attention what others express verbally and non-verbally
+- Flexibilitiy: alternative means/techniques
+
+In a nutshell (kısaca toparlarsak)
+- Anxiety is eliminated
+- L2 is used
+- Good behaviours are modelled (model kişiler)
+- Failure doesnt exist (aslında başarısızlık yok)
+- Goals brings success
+- Interaction is important
+
+
+- kişisel gelişim yöntemidr
+- öğrencilerin olumlu düşünüp olumlu sonuçlar beklenmesi gerekir
+neuro – düşünce gücü
+linguistic – söylemlerimiz
+
+1- outcome              -->     hedef demektir. Hedef koy yeri. Getir
+2- rapport              -->     uyum, iyi ilişki, güven iişkisi. Hedefi yerine getirirken önemli
+3- sensory activity     -->     duyulara ortamın hitap etmesi
+4- flexibility          -->     ortamın değişebileceğine olan inanç
+
+
+
+            MULTIPLE INTELLIGENCES APPROACH
+Gardner
+- each learner is unique
+- different learning style, inteligence type
+- to intelligence type to choose appropriate activities
+- humanistic
+- no preprepared syllabus
+
+Techniques
+- discussion for verbal
+- comparing and classifiying for logical
+- mental images (gözde canlandır) – visual
+- kinestetic- they love physical actions – hands on (pratic)
+-  collaboration and cooperation – interpersonal
+- reflective writing - içe dönüklük ama olumlu anlamda - intra-personal
+
+
+
+
+
+
+
+
+
 
