@@ -1,78 +1,83 @@
+SUFFIX and PREFIX													prepared by Uğur ARSLAN, @arslanuguur
 
-
-NOUN SUFFIXES      adjective                Examples
+NOUN SUFFIXES      adjective                	Examples
 ------------------------------------------------------------------------------------------------------------------------
--acy                                        privacy, fallacy, delicacy
--ary                                        budgetary, planetary, military, honorary
--al                                         refusal, recital, rebuttal, arrival, burial, deferral
--ance, -ence                                reliance, defence, insistence, brilliance, maintenance, eminence, assurance
-                   -ant, -ent               reliant, defiant, insistent, brilliant, vigilant 
--dom                                        freedom, kingdom, boredom
--ry                                         entry, robbery, ministry
--er      	                            employer, trainer, minister, driver, writer, helper, teacher, preacher, dancer
--ee                                         employee, trainee, payee, referee, trustee, retiree
--eer                                        engineer, pioneer, auctioneer, volunteer, profiteer
--or                                         director, distributor, protector, narrator, investigator, translator, conductor
--ism                                        communism, narcissism, skepticism, capitalism, criticism, humanism, professionalism, patirotism
-                    -ist                    communist, narcissist, chemist, plagiarist
--ity, -ty 	                            probability, equality, abnormality, civility, inactivity, veracity, parity, serenity, brutality, cruelty
--ment 	                                    amazement, disappointment, parliament, argument, endorsement, punishment, movement, retirement, abandonment, establishment
--mentation          -mentative              documentation, presentation, recommendation
--tion, -ison        -tive                   transition, abbreviation, revolution, population, complexion, celebration, opinion
--sion               -sive                   concession, depression, confusion, expression, tension, compulsion, decision, revision
--ness 	                                    heaviness, sadness, rudeness, testiness, happiness, usefulness, readiness, fondness, 
-					    awareness, darkness, kindness, wilderness, blindness
--ship 	                                    fellowship, ownership, kinship, internship, friendship, membership, workmanship, worship, courtship
--age                                        baggage, village, postage
--hood                                       brotherhood, childhood, neighbourhood
--th                                         health, length, strength, labyrinth, depth, warmth
+-acy                                        	privacy, fallacy, delicacy
+-ary                                        	budgetary, planetary, military, honorary
+-al                                         	refusal, recital, rebuttal, arrival, burial, deferral
+-ance, -ence                                	reliance, defence, insistence, brilliance, maintenance, eminence, assurance
+                   -ant, -ent               	reliant, defiant, insistent, brilliant, vigilant 
+-dom                                        	freedom, kingdom, boredom
+-ry                                         	entry, robbery, ministry
+-er      	                            	employer, trainer, minister, driver, writer, helper, teacher, preacher, dancer
+-ee                                         	employee, trainee, payee, referee, trustee, retiree
+-eer                                        	engineer, pioneer, auctioneer, volunteer, profiteer
+-or                                         	director, distributor, protector, narrator, investigator, translator, conductor
+-ism                                        	communism, narcissism, skepticism, capitalism, criticism, humanism, professionalism, patirotism
+                    -ist                    	communist, narcissist, chemist, plagiarist
+-ity, -ty 	                            	probability, equality, abnormality, civility, inactivity, veracity, parity, serenity, brutality, cruelty
+-ment 	                                    	amazement, disappointment, parliament, argument, endorsement, punishment, movement, retirement, abandonment, establishment
+-mentation          -mentative              	documentation, presentation, recommendation
+-tion, -ison        -tive                   	transition, abbreviation, revolution, population, complexion, celebration, opinion
+-sion               -sive                   	concession, depression, confusion, expression, tension, compulsion, decision, revision
+-ness 	                                    	heaviness, sadness, rudeness, testiness, happiness, usefulness, readiness, fondness, 
+					    	awareness, darkness, kindness, wilderness, blindness
+-ship 	                                    	fellowship, ownership, kinship, internship, friendship, membership, workmanship, worship, courtship
+-age                                        	baggage, village, postage
+-hood                                       	brotherhood, childhood, neighbourhood
+-th                                         	health, length, strength, labyrinth, depth, warmth
 
 
 
-VERB SUFFIXES       noun                    Examples
+VERB SUFFIXES       noun                    	Examples
 ------------------------------------------------------------------------------------------------------------------------
--ate                -ation                  regulate, eradicate, enunciate, repudiate, complicate, dominate, irritate
--en                                         enlighten, awaken, strengthen, harden, soften, shorten
--ify, -fy           -ication                beautify, clarify, identify, terrify, satisfy, rectify, exemplify
--ize, -ise          -sation                 memorialize, authorize, commercialize, advertise, economise, realise, industrialize, civilize, humanize, socialize, valorize
+-ate                -ation                  	regulate, eradicate, enunciate, repudiate, complicate, dominate, irritate
+-en                                         	enlighten, awaken, strengthen, harden, soften, shorten
+-ify, -fy           -ication                	beautify, clarify, identify, terrify, satisfy, rectify, exemplify
+-ize, -ise          -sation                 	memorialize, authorize, commercialize, advertise, economise, realise, industrialize, civilize, humanize, socialize, valorize
 
 
 
-ADJECTIVE SUFFIXES                          Examples
+ADJECTIVE SUFFIXES                          	Examples
 ------------------------------------------------------------------------------------------------------------------------
--able, -ible 	                            edible, presentable, abominable, credible, drinkable, portable, flexible, 
-					    preventable, adaptable, predictable, comfortable, reversible, terrible
--al 	         relating to                regional, grammatical, emotional, coastal, brutal, formal, postal, 
-					    equal, theatrical, natural, criminal, seasonal, annual comical economical
--esque 	                                    picturesque, statuesque, burlesque
--ful                                        fanciful, resentful, woeful, doubtful, forgetful, helpful, useful, grateful, beautiful, wonderful
--less 	                                    endless, ageless, lawless, effortless, homeless, hopeless, useless, friendless, tireless
--ic, -ical 	                            musical, mythic, domestic, chiastic, classic, Islamic, poetic, iconic, organic, heroic
--ious, -ous 	                            nutritious, portentous, studious, cautious, famous, nervous, gracious, cautious, humorous, fabulous
--ish 	                                    fiendish, childish, snobbish
--ive 	                                    creative, punitive, divisive, decisive, active, passive, productive, expensive, expressive, pensive
--y 	                                    sleazy, hasty, greasy, nerdy, smelly, cloudy, rainy, windy, brainy, fruity, tasty, grouchy, glory, messy, victory
--en                                         broken, golden, wooden
--ese                                        Chinese, Japanese, Vietnamese
--ish                                        selfish, English, Turkish, childish
--i                                          Iraqi, Pakistani, Yemeni
--ian                                        Canadian, Malaysian, Peruvian
--ly                                         daily, monthly, yearly, clearly, hourly
--er	comparative			   	bigger, stronger
--est	superlative				strongest, tiniest
--ing	denoting an action, a material, or a gerund	acting, showing
+-able, -ible 	                            	edible, presentable, abominable, credible, drinkable, portable, flexible, 
+					    	preventable, adaptable, predictable, comfortable, reversible, terrible
+-al 	         relating to                	regional, grammatical, emotional, coastal, brutal, formal, postal, 
+					    	equal, theatrical, natural, criminal, seasonal, annual comical economical
+-esque 	                                    	picturesque, statuesque, burlesque
+-ful                                        	fanciful, resentful, woeful, doubtful, forgetful, helpful, useful, grateful, beautiful, wonderful
+-less 	                                    	endless, ageless, lawless, effortless, homeless, hopeless, useless, friendless, tireless
+-ic, -ical 	                            	musical, mythic, domestic, chiastic, classic, Islamic, poetic, iconic, organic, heroic
+-ious, -ous 	                            	nutritious, portentous, studious, cautious, famous, nervous, gracious, cautious, humorous, fabulous
+-ish 	                                    	fiendish, childish, snobbish
+-ive 	                                    	creative, punitive, divisive, decisive, active, passive, productive, expensive, expressive, pensive
+-y 	                                    	sleazy, hasty, greasy, nerdy, smelly, cloudy, rainy, windy, brainy, fruity, tasty, grouchy, glory, messy, victory
+-en                                         	broken, golden, wooden
+-ese						Chinese, Japanese, Vietnamese
+-ish						selfish, English, Turkish, childish
+-i						Iraqi, Pakistani, Yemeni
+-ian						Canadian, Malaysian, Peruvian
+-ly						daily, monthly, yearly, clearly, hourly
+-er		comparative			bigger, stronger
+-est		superlative			strongest, tiniest
+-ing		denoting an action,		acting, showing
+		a material, or a gerund
 	
 
-ADVERB SUFFIXES                             Examples
+ADVERB SUFFIXES                             	Examples
 ------------------------------------------------------------------------------------------------------------------------
--ly, -ily                                   calmly, easily, quickly, eerily, happily, lazily
--ward(s)                                    downwards, homeward(s), upwards
--wise                                       anti-clockwise, clockwise, edgewise
+-ly, -ily                                   	calmly, easily, quickly, eerily, happily, lazily
+-ward(s)                                    	downwards, homeward(s), upwards
+-wise                                       	anti-clockwise, clockwise, edgewise
 
 
 
 
 
+
+https://www.fluentu.com/blog/english/suffixes-in-english/
+https://www.lexico.com/grammar/prefixes-and-suffixes
+https://opentextbc.ca/advancedenglish/chapter/prefixes-and-suffixes/
 
 
 
@@ -99,54 +104,33 @@ un-	against, not, opposite				undo, unequal, unusual
 
 
 
-https://www.fluentu.com/blog/english/suffixes-in-english/
-https://www.lexico.com/grammar/prefixes-and-suffixes
-https://opentextbc.ca/advancedenglish/chapter/prefixes-and-suffixes/
-
-
-
-
-
-
-
-
 
 Root, Prefix or Suffix	                        Meaning	                                        Examples
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
+---> A
 a, ac, ad, af, ag, al, an, ap, as, at	        to, toward, near, in addition to, by		aside, accompany, adjust, aggression, allocate, annihilate, 
                                                                                                 affix, associate, attend, adverb
 a-, an-	                                        not, without, lacking                           apolitical, atheist, anarchy, anonymous, apathy, aphasia, anemia, 
 												anoxia, anastral, anegoic, anethical, anhistorical,
 												aniconic, anisomeric, anisotomic, anotia, anuria
 ab, abs	                                        away from, off	                                absolve, abrupt, absent
--able, -ible	                                Adjective: worth, ability			solvable, incredible
 acer, acid, acri	                        bitter, sour, sharp				acerbic, acidity, acrid, acrimony
 act, ag	                                        do, act, drive	                                active, react, agent, active, agitate
 acu	                                        sharp						acute, acupuncture, accurate
--acy, -cy					Noun: state or quality	                        privacy, infancy, adequacy, intimacy, supremacy
--ade	                                        act, product, sweet drink	                blockade, lemonade
 aer, aero	                                air, atmosphere, aviation	                aerial, aerosol, aerodrome
 ag, agi, ig, act	                        do, move, go	                                agent, agenda, agitate, navigate, ambiguous, action
--age	                                        Noun: activity, or result of action	        courage, suffrage, shrinkage, tonnage
 agri, agro	                                pertaining to fields or soil	                agriculture, agroindustry
--al	                                        Noun: action, result of action	                referral, disavowal, disposal, festival
--al, -ial, -ical	                        Adjective: quality, relation	                structural, territorial, categorical
 alb, albo	                                white, without pigment	                        albino, albite
 ali, allo, alter	                        Other	                                        alias, alibi, alien, alloy, alter, alter ego, altruism
 alt	                                        high, deep                                    	altimeter, altitude
 am, ami, amor	                                love, like, liking	                        amorous, amiable, amicable, enamoured
 ambi	                                        Both	                                        ambidextrous
 ambul	                                        to walk	                                        ambulatory, amble, ambulance, somnambulist
--an	                                        Noun: person	                                artisan, guardian, historian, magician
 ana, ano	                                up, back, again, anew	                        anode, anagram, anagenetic
--ance, -ence	                                Noun: action, state, quality or process	        resistance, independence, extravagance, fraudulence
--ancy, -ency	                                Noun: state, quality or capacity	        vacancy, agency, truancy, latency
 andr, andro	                                male, characteristics of men	                androcentric, android
 ang	                                        angular	                                        angle
 anim	                                        mind, life, spirit, anger	                animal, animate, animosity
 ann, annu, enni	                                yearly	                                        annual, annual, annuity, anniversary, perrenial
--ant, -ent	                                Noun: an agent, sth that performs the action	disinfectant, dependent, fragrant
--ant, -ent, -ient	                        Adjective: kind of agent, indication	        important, dependent, convenient
 ante	                                        before	                                        anterior, anteroom, antebellum, antedate, antecedent, 
 												antediluvian, antenatal, anteroom, antedate
 anthrop	                                        man	                                        anthropology, misanthrope, philanthropy
@@ -156,14 +140,8 @@ anti, ant	                                against, opposite, opposing, in opposi
 anti, antico	                                old	                                        antique, antiquated, antiquity
 apo, ap, aph	                                away from, detached, formed	                apology, apocalypse, aphagia
 aqu	                                        water	                                        aqueous
--ar, -ary	                                Adjective: resembling, related to	        spectacular, unitary
 arch	                                        chief, first, rule	                        archangel, architect, archaic, monarchy, matriarchy, patriarchy, Archeozoic era
--ard, -art	                                Noun: characterized	                        braggart, drunkard, wizard
 aster, astr	                                star	                                        aster, asterisk, asteroid, astronomy, astronaut
--ate	                                        Noun: state, office, fuction	                candidate, electorate, delegate
--ate	                                        Verb: cause, to be	                        graduate, ameliorate, amputate, colligate
--ate	                                        Adjective: kind of state	                inviolate
--ation	                                        Noun: action, resulting state	                specialization, aggravation, alternation
 auc, aug, aut	                                to originate, to increase	                augment , author, augment, auction
 aud, audi, aur, aus	                        to hear, listen	                                audience, audible, auditorium, audiovisual, audition, auricular, ausculate
 aug, auc                                      	increase	                                augur, augment, auction
@@ -173,6 +151,25 @@ ab-						away from					abdicate, absolve, absolute, absorb, abject,
 												abhor, abjure, abort, absorb, abnormal, abrasive, abominable, ablation
 ad-						towards, to, with regard to, 			administer, advertise, adhere, addition, adrenal, admonish, 
 						in relation to, addition, joining		adgerminal, addental, adoral, adjoin
+-able, -ible	                                Adjective: worth, ability			solvable, incredible
+-acy, -cy					Noun: state or quality	                        privacy, infancy, adequacy, intimacy, supremacy
+-ade	                                        act, product, sweet drink	                blockade, lemonade
+-age	                                        Noun: activity, or result of action	        courage, suffrage, shrinkage, tonnage
+-al	                                        Noun: action, result of action	                referral, disavowal, disposal, festival
+-al, -ial, -ical	                        Adjective: quality, relation	                structural, territorial, categorical
+-an	                                        Noun: person	                                artisan, guardian, historian, magician
+-ance, -ence	                                Noun: action, state, quality or process	        resistance, independence, extravagance, fraudulence
+-ancy, -ency	                                Noun: state, quality or capacity	        vacancy, agency, truancy, latency
+-ant, -ent	                                Noun: an agent, sth that performs the action	disinfectant, dependent, fragrant
+-ant, -ent, -ient	                        Adjective: kind of agent, indication	        important, dependent, convenient
+-ar, -ary	                                Adjective: resembling, related to	        spectacular, unitary
+-ard, -art	                                Noun: characterized	                        braggart, drunkard, wizard
+-ate	                                        Noun: state, office, fuction	                candidate, electorate, delegate
+-ate	                                        Verb: cause, to be	                        graduate, ameliorate, amputate, colligate
+-ate	                                        Adjective: kind of state	                inviolate
+-ation	                                        Noun: action, resulting state	                specialization, aggravation, alternation
+
+---> B
 bar	                                        weight, pressure	                        barometer
 be	                                        on, around, over, about, excessively,           berate, bedeck, bespeak, belittle, beleaguer 
                                                 make, cause, name, affect
@@ -185,10 +182,11 @@ bi, bine	                                two, twice                             
 bibl, bibli, biblio	                        book	                                        bibliophile, bibliography, Bible
 bio, bi	                                        life	                                        biography, biology, biometricsm biome, biosphere
 brev	                                        short	                                        abbreviate, brevity, brief
+
+---> C
 cad, cap, cas, ceiv, cept, capt, cid, cip	to take, to seize, to hold	                receive, deceive, capable, capacious, captive, accident, capture, 
                                                                                                 occasion, concept, intercept, forceps, except, reciprocate
 cad, cas	                                to fall	                                        cadaver, cadence, cascade
--cade	                                        procession	                                motorcade, arcade
 calor	                                        heat	                                        calorie, caloric, calorimeter
 capit, capt	                                head	                                        decapitate, capital, captain, caption
 carn	                                        flesh	                                        carnivorous, incarnate, reincarnation, carnal
@@ -234,6 +232,9 @@ crit	                                        separate, choose	                  
 cur, curs	                                run	                                        current, concurrent, concur, incur, recur, occur, courier, precursor, cursive
 cura	                                        care	                                        curator, curative, manicure
 cycl, cyclo	                                wheel, circle, circular				Cyclops, unicycle, bicycle, cyclone, cyclic
+-cade	                                        procession	                                motorcade, arcade
+
+---> D
 						------------------------------------------------------------------------------------------------------------------------------
 de-						off, down, away from				detach, deploy, derange, decrease, deodorize, devoid, deflate, degenerate
 						from, to do the opposite,			devalue, defrost, derail, demotivate, decide, dehumidify, degrade, detract, 
@@ -265,7 +266,6 @@ domin						master, that which is under control		dominate, dominion, predominant,
 don						give						donate, condone
 dorm						sleep						dormant, dormitory
 dox						thought, opinion, praise			orthodox, heterodox, paradox, doxology
--drome						run, step					syndrome, aerodrome, velodrome
 duc, duct					to lead, pull					produce, abduct, product, transducer, viaduct, 
 												aqueduct, induct, deduct, reduce, induce
 dura						hard, lasting					durable, duration, endure
@@ -274,25 +274,49 @@ dys-						bad, abnormal, difficult,			dysfunctional, dyslexia, dyspathy, dystopi
 						impaired, unfavorable,
 di-						two, twice, double (Chemistry)			dipolar, disulfide, diatomic, dioxide, dialogic, diazepine, 
 												dicobalt, diacarboxyl, dibasal, dibenzonate
+---> E
 e-						not, missing, out, fully,			emit, embed, eternal,ether, erase, email, etailer
 						away, computer network related
 ec-						out of, outside					echo, eclipse, eclectic, ecesis, ecstasy, exzema
 eco-						household, environment,				ecology, economize, ecospheres, ecomanagement
 						relating to ecology or economy
 ecto-						outside, external				ectomorph, ectoderm, ectoplasm
+						---------------------------------------------------------------------------------------------------------------------
+en-, em-					put into, make, provide with, surround with	enamor, embolden, enslave, empower, entangle
+						cause to, confine something in a place, 	embrace, encode, embed, entrust, enthrone, entomb, enshrine, 
+						gather in a place, 				enable, endear, encase
+						cause sth or someone to be in a specific place	encircle, enclose, entwine, engulf, encapsulate, entangle, 
+						---------------------------------------------------------------------------------------------------------------------
+end-						inside, within					endorse, endocardial, endergonic, endoskeleton, endoscope, endogenous
+equi-						equal						equidistant, equilateral, equilibrium, equinox, equation, equator
+erg						work, effect					energy, erg, allergy, ergometer, ergograph, ergophobia
+ev-, et-					time, age					medieval, eternal
+exter-, extra-, extro-				outside of, beyond, more than			external, extrinsic, extraordinary, extrapolate, extraneous, extrovert
+												extracurricular, extraordinary, extra-terrestrial
+endo-						within						endobiotic, endocarp, endocrine, endoderm, endogenous, endomitosis,
+						used in biology, medicine, and other sciences	endomorph, endorphin, endoplasm, endospore, endotherm
+						------------------------------------------------------------------------------------------------------------------------
+epi-						upon, close to, after, on, upon, 		epicenter, epicarp, epilogue, epigone, epidiorite, epicentre, episcope,
+						altered, over, near, at before, after sth else	epigene, epistasis, epidermis, epitome, epigraph, epigram, epipod
+						used across many sciences and disciplines,	epidermis, epiblast, epidemic, epicarp, epiderm, epidural 	
+						and is most common in biology and medicine
+						-----------------------------------------------------------------------------------------------------------------------
+eu						good, well					eulogy, eucalyptus, euchlorine, euglycemia, eukaryote, 
+						used in biology, medicine, and chemistry.	euthanasia, euglena, eupeptic, eupnea, euthyroid, euthropic, euploid
+						-----------------------------------------------------------------------------------------------------------------------
+ex-						former, out of, from, lacking, utterly, 	ex-president, ex-boyfriend, exterminate, ex-wife, ex-girlfriend,
+						thoroughly, not, or without, away from, 	exit, exhale, exclusive, exceed, explosion, ex-mayor
+						and can indicate a former status or title	ex-member, ex-president, ex-convict, exodus, exhume, ex-husband, ex-Christian
+						-----------------------------------------------------------------------------------------------------------------------
+-drome						run, step					syndrome, aerodrome, velodrome
 -ed						Verb: past tense				dressed, faded, patted, closed, introduced
 -ed						Adj: having the quality or characteristics of	winged, moneyed, dogged, tiered
 -en						Verb: to cause to become			lengthen, moisten, sharpen
 -en						Adjective: material				golden, woolen, silken
-en-, em-					put into, make, provide with, surround with	enamor, embolden, enslave, empower, entangle
 -ence, -ency					Noun: action or process, quality or state	reference, emergency, dependence, eminence, latency
-end-						inside, within					endorse, endocardial, endergonic, endoskeleton, endoscope, endogenous
-epi-						upon, close to, over, after, altered		epicenter, epicarp, epilogue, epigone, epidiorite
-equi-						equal						equidistant, equilateral, equilibrium, equinox, equation, equator
 -er, -ier					Adjective: comparative				better, brighter, sooner, hotter, happier
 -er, -or					Noun: person or thing that does something	flyer, reporter, player, member, fryer, collector, concentrator
 -er, -or					Verb: action					ponder, dishonor, clamor
-erg						work, effect					energy, erg, allergy, ergometer, ergograph, ergophobia
 -ery						collective qualities, art, practice,		snobbery, bakery, geenery, gallery, slavery 
 						trade, collection, state, condition
 -es, -ies					Noun: plural of most nouns ending		passes, glasses, ladies, heroes 
@@ -303,26 +327,8 @@ erg						work, effect					energy, erg, allergy, ergometer, ergograph, ergophobia
 						that end in -ch, -s, -sh, - and some in -y
 -ess						female						actress, goddess, poetess
 -est, -iest					Adjective or Adverb: superlative		latest, strongest, luckiest, lyingest
-ev-, et-					time, age					medieval, eternal
-ex-						out of, away from, lacking, former		exit, exhale, exclusive, exceed, explosion, ex-mayor
-exter-, extra-, extro-				outside of, beyond				external, extrinsic, extraordinary, extrapolate, extraneous, extrovert
-em-, en-		cause to, put into
-				confine something in a place, gather in a place, cause something or someone to be in a specific place
-		embrace, encode, embed, enslave, entrust, enthrone, entomb, enshrine, encircle, enclose, entwine, engulf, encapsulate, entangle, enable, endear, encase
-endo-	within
-	used in biology, medicine, and other sciences
-		endobiotic, endocarp, endocrine, endoderm, endogenous, endomitosis, endomorph, endorphin, endoplasm, endospore, endotherm
-epi-	upon, close to, after, on, upon, over, near, at before, after sth else
-	used across many sciences and disciplines, and is most common in biology and medicine
-	epicentre, episcope, epidermis, epiblast, epidemic, epicarp, epiderm, epidural, epigene, epistasis, epidermis, epitome, epigraph, epigram, epipod
-eu - good, well
-	used in biology, medicine, and chemistry.
-	eulogy, eucalyptus, euchlorine, euglycemia, eukaryote, euthanasia, euglena, eupeptic, eupnea, euthyroid, euthropic, euploid
-ex-	former, out of, from, without, utterly, thoroughly, not, or without, and can indicate a former status or title.
-	ex-president, ex-boyfriend, exterminate, ex-wife, ex-girlfriend, ex-member, ex-president, ex-convict, exodus, exhume, ex-husband, ex-Christian
-extra-	beyond, more than	
-	extracurricular, extraordinary, extra-terrestrial
 
+---> F
 fa, fess					speak						fable, fabulous, fame, famous, confess, profess
 fac, fact, fec, fect, fic, fas, fea		do, make					difficult, fashion, feasible, feature, 
 												factory, fact, effect, manufacture, amplification, confection
@@ -341,7 +347,6 @@ flex, flect					bend						flex, reflex, flexible, flexor, inflexibility, reflect
 flict						strike						affliction, conflict, inflict
 flu, fluc, fluv, flux				flow						influence, fluid, flue, flush, fluently, fluctuate, reflux, influx
 -fold						Adverb: in a manner of, marked by		fourfold
-for, fore					before						forecast, fortune, foresee
 forc, fort					strength, strong				effort, fort, forte, fortifiable, fortify, forte, fortitude
 form						shape, resemble					form, format, conform, formulate, perform, formal, formula
 fract, frag, frai				break						fracture, infraction, fragile, fraction, refract, frail
@@ -350,11 +355,13 @@ füge						flee						subterfuge, refuge, centrifuge
 -ful						Adjective: having, giving, marked by		fanciful
 fuse						pour						confuse, transfuse
 -fy						make, form into					falsify, dandify
-fore-	before, in front, superior
-	forecast, forehead, foresee, foreword, foremost, forefront, forefather, foreman, foreground, foreshadow, forebode
-	Forbear, forbuy, forcut, fordo, forswearer, forgather, forhang, forlet, forlive, forset, forslow, forstop, fortear, fortread, forwarn, forwork
-	forebode, forego, forefather, forbidden, forsake, foreshadow, foreskin, forsworn
-
+						-----------------------------------------------------------------------------------------------------------------------
+for-, fore-					before, in front, superior			forecast, forehead, foresee, foreword, foremost, forefront, forefather, 
+												foreman, foreground, foreshadow, forebode, forbear, forbuy, forcut, 
+												fordo, forswearer, forgather, forhang, forlet, forlive, forset, 
+												forslow, forstop, fortear, fortread, forwarn, forwork, forebode, 
+												forego, forefather, forbidden, forsake, foreshadow, foreskin, forsworn, fortune
+						-----------------------------------------------------------------------------------------------------------------------
 gam						marriage					bigamy, monogamy, polygamy
 gastr, gastro					stomach						gastric, gastronomic, gastritis, gastropod
 gen						kind						generous
@@ -379,26 +386,44 @@ hema, hemo					blood						hemorrhage, hemoglobin, hemophilia, hemostat
 her, here, hes					stick						adhere, cohere, cohesion, inherent, hereditary, hesitate
 hetero						other, different				heterodox, heterogeneous, heterosexual, heterodyne
 hex, ses, sex					six						hexagon, hexameter, sestet, sextuplets
-homo						same						homogenize, homosexual, homonym, homophone
+homo						same						homogenize, homosexual, homonym, homophone, homonuclear, homoplastic
 hum, human					earth, ground, man				humus, exhume, humane
 hydr, hydra, hydro				water						dehydrate, hydrant, hydraulic, hydraulics, hydrogen, hydrophobia
-hyper						over, above					hyperactive, hypertensive, hyperbolic, 
-												hypersensitive, hyperventilate, hyperkinetic
 hypn						sleep						hypnosis, hypnotherapy
-hemi- 	half	used in medicine and biology.
-		hemiparesis, hemiplegia, hemithorax, hemihelix, hemicarbonic, hemicerebral, hemicoronal, heminode, hemiparesis
-hetero-		different, other	used biology and social science
-		heterocyclic, heteromorphism, heterosexual, heterozygous, heterodox, heterogene, heteropod, heterochromatic, heterolateral, heterodiagenic
-homo-		Same		homosexual, homonuclear, homoplastic
-hyper-		over, above		abundant, something in excess or something being exaggerated.
-				Science and astrology
-				Commonly in sciences to denote mass or space.
-		hyperactive, hyperventilate, hyperbole, hyperthyroid, hyperventilate, 
-		hypermass, hyperinflation, hyperactive, hypercatabolic, hyperchloric, hypercritical, hyperchronic, hyperlink
-hypo-	under
-		used in medical terms, as well as generally in sciences, biology and various researches.
-		hypodermic, hypoglycemia, hypochondria, hypoallergenic, hypothesis, hypocritical, hypocrite, hypocorism, hypogean, hypocaust
-
+hemi- 						half	used in medicine and biology		hemiparesis, hemiplegia, hemithorax, hemihelix, hemicarbonic, 
+												hemicerebral, hemicoronal, heminode, hemiparesis
+hetero-						different, other, used biology n social science	heterocyclic, heteromorphism, heterosexual, heterozygous, heterodox, 
+												heterogene, heteropod, heterochromatic, heterolateral, heterodiagenic
+						------------------------------------------------------------------------------------------------------------------------
+hyper-						over, above					hyperactive, hyperventilate, hyperbole, hyperthyroid, hyperventilate,
+						abundant, sth in excess				hypermass, hyperinflation, hyperactive, hypercatabolic, 
+						sth being exaggerated				hyperchloric, hypercritical, hyperchronic, hyperlink	
+						Science and astrology				hypertensive, hyperbolic, hypersensitive, hyperventilate, hyperkinetic
+						Commonly in sciences to denote mass or space
+						------------------------------------------------------------------------------------------------------------------------
+hypo-						under						hypodermic, hypoglycemia, hypochondria, hypoallergenic, hypothesis,
+						used in medical terms, 				hypocritical, hypocrite, hypocorism, hypogean, hypocaust
+						as well as generally in sciences, biology 
+						and various researches.
+						------------------------------------------------------------------------------------------------------------------------
+ignis						fire						ignite, igneous, ignition
+in, im						into, on, near, towards				instead, import, inside, insert
+in, im, il, ir					not						illegible, irresolute, inaction, inviolate, 
+												innocuous, intractable, innocent, impregnable, impossible, imposter
+												impossible, illegal, irresponsible, indefinite, impatient, imperfect, 
+												immature, impurity, impartially, immobilized, immaculate, impassive, imperil
+infra						beneath						infrared, infrastructure
+intra						within, during, between layers, underneath	intramural, intranet, intranatal
+intro						into, within, inward				interoffice, introvert, introspection, introduce
+infra-						beneath, below					infrastructure, infrared, infrasonic, infraspecific
+inter-						between, among, in the midst of, 		interact, intermediate, intergalactic, intercede, interlude, intercept,
+						mutual, reciprocated, together, 		intersect, intercom, interim, interject, international, internet,
+						or active during an event.			interrupt, intertwine, interview, intermission, internal, intermittent
+intra-						within - used in biology and medicine		intranet, intravenous, intradermal, intracranial, intrada, 
+												intracardiac, intraclonal, intracodon, intray, intraocular, 
+												intrauterine, intrahost, intrasient, intraset
+iso-						equal						isometric, isotope, isocyanic, isoalkene, isolate, 
+						in chemistry to describe isometric compounds	isontropic, isoclonal, isocurve
 -ia						Noun: names, diseases				phobia
 -ian, an					Noun: related to, one that is			pedestrian, human
 -iatry						Noun: art of healing				psychiatry
@@ -406,19 +431,11 @@ hypo-	under
 -ic, ics					Noun: related to the arts and sciences		arithmetic, economics
 -ice						Noun: act					Malice
 -ify						Verb: cause					Specify
-ignis						fire						ignite, igneous, ignition
 -ile						Adjective: having the qualities of		projectile
-in, im						into, on, near, towards				instead, import
-in, im, il, ir					not						illegible, irresolute, inaction, inviolate, 
-												innocuous, intractable, innocent, impregnable, impossible, imposter
-infra						beneath						infrared, infrastructure
 -ing						Noun: material made for, activity,		flooring, swimming, building 
 							result of an activity
 -ing						Verb: present participle			depicting
 -ing						Adjective: activity				Cohering
-inter						between, among					international, intercept, interject, intermission, internal, intermittent
-intra						within, during, between layers, underneath	intramural, intranet, intranatal
-intro						into, within, inward				interoffice, introvert, introspection, introduce
 -ion						Noun: condition or action			abduction
 -ish						Adjective: having the character of		Newish
 -ism						Noun: doctrine, belief, action or conduct	formalism
@@ -429,18 +446,7 @@ intro						into, within, inward				interoffice, introvert, introspection, introd
 -ive, -ative, -itive				Adjective: having the quality of		festive, cooperative, sensitive
 -ize						Verb: cause					fantasize
 
-il-, im-, in-, ir-	not	impossible, illegal, irresponsible, indefinite, impatient, imperfect, immature, impurity, impartially, immobilized, immaculate, impassive, imperil
-im-, in-	into	insert, import, inside
-infra-		beneath, below	infrastructure, infrared, infrasonic, infraspecific
-inter-		between, among, in the midst of, mutual, reciprocated, together, or active during an event.
- 			interact, intermediate, intergalactic, intercede, interlude, intercept, 
-			intersect, intercom, interim, interject, international, internet, interrupt, intertwine, interview
-intra-		within			used in biology and medicine.
-		intranet, intravenous, intradermal, intracranial, intrada, 
-		intracardiac, intraclonal, intracodon, intray, intraocular, intrauterine, intrahost, intrasient, intraset
-iso-		Equal		It is commonly used in chemistry to describe isometric compounds.
-		isometric, isotope, isocyanic, isoalkene, isolate, isontropic, isoclonal, isocurve
-
+---> J
 jac, ject					throw						reject, eject, project, trajectory, 
 												interject, dejected, inject, ejaculate, adjacent
 join, junct					join						adjoining, enjoin, juncture, conjunction, injunction, conjunction
@@ -503,12 +509,12 @@ morph						shape, form					amorphous, dimorphic, metamorphosis,
 												morphology, polymorphic, morpheme, amorphous
 multi						many, much	multifold, multilingual, multiped, multiply, multitude, multipurpose, multinational
 
-macro-	large			macroeconomics, macromolecule
-micro-	small			microscope, microbiology, microfilm, microwave	
-mid-	middle			midfielder, midway, midsummer
-mis-	wrong-ly, mistaken, incorrect, ill	misinterpret, misfire, mistake, misunderstand,
-						mishap, misinformed, misaligned, misspell, misread, misuse, mispronounce, mishear, mistrial, misprint, mistrust, misbehavior
-
+macro-						large			macroeconomics, macromolecule
+micro-						small			microscope, microbiology, microfilm, microwave	
+mid-						middle			midfielder, midway, midsummer
+mis-						wrong-ly, mistaken, incorrect, ill	misinterpret, misfire, mistake, misunderstand,
+											mishap, misinformed, misaligned, misspell, misread, misuse, 
+											mispronounce, mishear, mistrial, misprint, mistrust, misbehavior
 nano						billionth	nanosecond, nanobucks
 nasc, nat, gnant, nai				to be born	nascent, native, pregnant, naive
 nat, nasc					to be from, to spring forth	innate, natal, native, renaissance
