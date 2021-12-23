@@ -1021,7 +1021,7 @@ Error treatment
 
 Syllabus type
 -  no specific syllabus
-- students’ needs are taken into account
+- students’ needs are taken into accountc
 
 Students feeling
 - students feelings are highly valued
