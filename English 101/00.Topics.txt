@@ -95,10 +95,15 @@ Girls’ Access to Education
               Funds are directed towards curriculums to help girls read and write.
 
 Digital Access
-              We live in a digital age where we can find all the help we need online. 
-              This luxury is absent in many countries, as more than four billion people do not have access to the internet. 
-              Internet connectivity would assist those living in developing countries with finding help and aid. 
-              With online options, people in need can contact international aid programs to get assistance faster.
+              	We live in a digital age where we can find all the help we need online. 
+			ihtiyacımız olan tüm yardımı çevrimiçi olarak bulabileceğimiz dijital bir çağda yaşıyoruz.
+		This luxury is absent in many countries, as more than four billion people do not have access to the internet. 
+              		Dört milyardan fazla insanın internete erişimi olmadığı için bu lüks pek çok ülkede yok
+	      	Internet connectivity would assist those living in developing countries with finding help and aid. 
+			İnternet bağlantısı, gelişmekte olan ülkelerde yaşayanlara yardım ve yardım bulma konusunda yardımcı olacaktır.
+		With online options, people in need can contact international aid programs to get assistance faster.
+	              Çevrimiçi seçeneklerle, ihtiyaç sahipleri daha hızlı yardım almak için uluslararası yardım programlarıyla iletişime geçebilir. 
+	       
 
 Foreign Aid Budgets
               The world would like to believe it does enough for the poor, but sadly this is not true. 
