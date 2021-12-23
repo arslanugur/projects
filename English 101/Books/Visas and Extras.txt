@@ -194,3 +194,28 @@ LTE		55		77				148
 	date you plan to arrive in the UK
 	extract of civil status
 	financial status
+
+
+
+
+Cumhurbaşkanlığı Kabinesi
+	- Adalet Bakanlığı
+	- Aile ve Sosyal Hizmetler Bakanlığı
+	- Çalışma ve Sosyal Güvenlik Bakanlığı
+	- Çevre ve Şehircilik Bakanlığı
+	- Dışişleri Bakanlığı
+	- Enerji ve Tabii Kaynaklar Bakanlığı
+	- Gençlik ve Spor Bakanlığı
+	- Hazine ve Maliye Bakanlığı
+	- İçişleri Bakanlığı
+	- Kültür ve Turizm Bakanlığı
+	- Milli Eğitim Bakanlığı
+	- Milli Savunma Bakanlığı
+	- Sağlık Bakanlığı
+	- Sanayi ve Teknoloji Bakanlığı
+	- Tarım ve Orman Bakanlığı
+	- Ticaret Bakanlığı
+	- Ulaştırma ve Altyapı Bakanlığı
+	
+	
+	
