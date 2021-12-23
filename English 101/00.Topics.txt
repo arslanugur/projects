@@ -87,13 +87,21 @@ Maternal Health
               to provide expert maternal care to expecting mothers.
 
 Girls’ Access to Education
-              Girls deserve the right to learn. 
+              Girls deserve the right to learn.
+	      		Kızlar öğrenme hakkını hak ediyor
               Currently, 98 million girls do not attend school due to barriers like poverty, gender bias, governmental conflict, 
-              safety concerns and a lack of educators, classrooms and curriculums. 
+              		Şu anda 98 milyon kız çocuğu yoksulluk, cinsiyet yanlılığı, hükümet çatışması gibi engeller nedeniyle okula katılamıyor
+	      safety concerns and a lack of educators, classrooms and curriculums
+	      		güvenlik endişeleri ve eğitimci, derslik ve müfredat eksikliği		
               Global Citizen reported that schools are sometimes hours away from where children live, making it unsafe for them to travel alone. 
-              Let Girls Learn is a U.S. global strategy targeting an increase in safe access to education for girls and educators. 
-              Funds are directed towards curriculums to help girls read and write.
-
+        		Global Citizen, okulların bazen çocukların yaşadığı yerden 
+					saatlerce uzakta olduğunu ve bu nedenle yalnız seyahat etmelerini güvensiz hale getirdiğini bildirdi
+	      Let Girls Learn is a U.S. global strategy targeting an increase in safe access to education for girls and educators. 
+              		Kızlar Öğrensin, kız çocukları ve eğitimcilerin eğitime güvenli erişimini artırmayı hedefleyen bir ABD küresel stratejisidir
+	      Funds are directed towards curriculums to help girls read and write
+	      		fonlar, kızların okuma ve yazmalarına yardımcı olacak müfredatlara yönlendiriliyor. 
+	       
+	       
 Digital Access
               	We live in a digital age where we can find all the help we need online. 
 			ihtiyacımız olan tüm yardımı çevrimiçi olarak bulabileceğimiz dijital bir çağda yaşıyoruz.
@@ -102,7 +110,7 @@ Digital Access
 	      	Internet connectivity would assist those living in developing countries with finding help and aid. 
 			İnternet bağlantısı, gelişmekte olan ülkelerde yaşayanlara yardım ve yardım bulma konusunda yardımcı olacaktır.
 		With online options, people in need can contact international aid programs to get assistance faster.
-	              Çevrimiçi seçeneklerle, ihtiyaç sahipleri daha hızlı yardım almak için uluslararası yardım programlarıyla iletişime geçebilir. 
+	              Çevrimiçi seçeneklerle, ihtiyaç sahipleri insanlar daha hızlı yardım almak için uluslararası yardım programlarıyla iletişime geçebilir. 
 	       
 
 Foreign Aid Budgets
