@@ -198,24 +198,25 @@ LTE		55		77				148
 
 
 
-Cumhurbaşkanlığı Kabinesi
-	- Adalet Bakanlığı
-	- Aile ve Sosyal Hizmetler Bakanlığı
-	- Çalışma ve Sosyal Güvenlik Bakanlığı
-	- Çevre ve Şehircilik Bakanlığı
-	- Dışişleri Bakanlığı
-	- Enerji ve Tabii Kaynaklar Bakanlığı
-	- Gençlik ve Spor Bakanlığı
-	- Hazine ve Maliye Bakanlığı
-	- İçişleri Bakanlığı
-	- Kültür ve Turizm Bakanlığı
-	- Milli Eğitim Bakanlığı
-	- Milli Savunma Bakanlığı
-	- Sağlık Bakanlığı
-	- Sanayi ve Teknoloji Bakanlığı
-	- Tarım ve Orman Bakanlığı
-	- Ticaret Bakanlığı
-	- Ulaştırma ve Altyapı Bakanlığı
-	
+Cumhurbaşkanlığı Kabinesi	(Presidential Cabinet)
+	- Adalet Bakanlığı				Ministry of Justice
+	- Aile ve Sosyal Hizmetler Bakanlığı		Ministry of Family and Social Services
+	- Çalışma ve Sosyal Güvenlik Bakanlığı		Ministry of Labour and Social Security
+	- Çevre ve Şehircilik Bakanlığı			Ministry of Environment, Urbanisation and Climate Change
+	- Dışişleri Bakanlığı				Ministry of Foreign Affairs
+	- Enerji ve Tabii Kaynaklar Bakanlığı		Ministry Of Energy And Natural Resources
+	- Gençlik ve Spor Bakanlığı			Ministry of Youth and Sports
+	- Hazine ve Maliye Bakanlığı			Ministry of Treasury and Finance
+	- İçişleri Bakanlığı				Ministry of the Interior
+		The Land Property Records - Tapu Sicil Merkezi / Kayıtları
+	- Kültür ve Turizm Bakanlığı			Ministry of Culture and Tourism
+	- Milli Eğitim Bakanlığı			Ministry of National Education
+	- Milli Savunma Bakanlığı			Minister of Defence	
+	- Sağlık Bakanlığı				Ministry of Health			
+	- Sanayi ve Teknoloji Bakanlığı			Ministry of Industry and Technology
+	- Tarım ve Orman Bakanlığı			Minister of Agriculture and Forestry
+	- Ticaret Bakanlığı				Ministry of Trade
+	- Ulaştırma ve Altyapı Bakanlığı		Ministry of Transport and Infrastructure
+
 	
 	
