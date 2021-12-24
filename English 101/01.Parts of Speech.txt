@@ -98,8 +98,8 @@ S + V + ADVERB		The match is tomorrow.
                 	We got on the bus.
                 	The meetings are every month.
 			She was hiding under the table
-S + V + O + O		We should give the children presents(direct object)
-                	She sent me a text message. (direct object)
+S + V + O + O		We should give the children presents(indirect / direct object)
+                	She sent me a text message. (indirect / direct object)
 S + V + O + ADJECTIVE	The Project kept everyone very busy.
                 	All the publicity made the song a big hit.
 S + V + O + ADVERB	She puts her phone in her pocket.
