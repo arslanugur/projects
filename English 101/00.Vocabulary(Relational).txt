@@ -330,8 +330,9 @@ impart                                    impartial                 vermek, -- t
 invest in         investment              invested                  yatırım yapmak
 invite            invitation              invited                   davet etmek
                   intimacy                intimate                  samimiyet
-increase in       increase/increment-ation                          artmak, arttırmak -- artış
-decrease in       decrease                                          azalmak, azaltmak -- azalış    
+increase in       increase/increment-ation                              artmak, arttırmak -- artış
+decrease in       decrease                                              azalmak, azaltmak -- azalış    
+rise in                                                                 increase in size, amount or degree bir şeyin artması/yükselmesi 
 lessen            little                  less                      azalmak 
 infer             inferrence                                        sonuç çıkarmak, anlam çıkarmak, çıkarım yapmak
 refer             referrence/referral      referee                  başvurmak, değinmek, tavsiye etmek  -- hakem
@@ -450,7 +451,6 @@ remind of           to cause sb to remember sth birine bir şeyi hatırlatmak
 relieve of          to remove sb who has done sth wrong from a duty, job, etc. birini görevden almak 
 result in           occur as the consequence of sth sonuçlanmak 
 rich in             abundant in zengin olmak 
-rise in             increase in size, amount or degree bir şeyin artması/yükselmesi 
 
 
 
