@@ -266,6 +266,8 @@ turn	to the left / right
 
 PHRASES
 I am from İstanbul, born and bred - doğma büyüme İstanbulluyum
+"the more a man has in himself, the less he will want from other people" Schopenhauer
+	"bir insan kendi içinde ne kadar çok şeye sahipse, diğer insanlardan o kadar az şey isteyecektir" 
 how so? - nasıl yani
 being bilingual means double the songs you can cry to
 I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
@@ -1135,6 +1137,13 @@ You can lead a horse to water, but you can't make him drink 	You can't force som
 You can't make an omelet without breaking some eggs 		There's always a cost to doing something 				by itself
 
 
+
+“For the more a man has in himself, the less he will want from other people, 
+ - the less, indeed, other people can be to him. 
+ This is why a high degree of intellect tends to make a man unsocial.” A. Schopenhauer, The Wisdom of Life
+"Çünkü bir insan kendi içinde ne kadar çok şeye sahipse, diğer insanlardan o kadar az şey isteyecektir 
+ - aslında diğer insanlar onun için o kadar az olabilir. 
+ Bu nedenle yüksek düzeyde bir zeka, bir insanı sosyal olmaktan çıkarır.” A. Schopenhauer, Yaşamın Bilgeliği
 
 SLANG - ARGO
 you feel at s***ty as I do - sen de benim gibi **k**n mı hissediyorsun
