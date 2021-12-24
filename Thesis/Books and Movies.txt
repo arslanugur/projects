@@ -1513,8 +1513,9 @@ Aleksandr Isayevich Solzhenitsyn - The First Circle %
 Aleksandr Isayevich Solzhenitsyn - One Day in the Life of Ivan Denisovich % Arthur Schnitzler - None but the Brave %
 Arthur Schnitzler - Professor Bernhardi // (1862–1931)
 Arthur Schopenhauer - The World as Will and Idea# (İsteme v Tasarım Olarak Dünya) (818-44-59)
-
-"Bir dosta karşı gururlu ve onu biraz ihmal edici bir biçimde davranarak onu yitirmeyiz ama ona karşı çok fazla dostça ve kibar davranırsak onu yitiririz; çünkü bu davranışımız onu küstah ve katlanılmaz kılacaktır.'' "insanın içinde ne kadar çok şey varsa, başkalarından o kadar az şey ister."
+          "Bir dosta karşı gururlu ve onu biraz ihmal edici bir biçimde davranarak onu yitirmeyiz ama ona karşı çok fazla dostça ve kibar davranırsak onu yitiririz; 
+          çünkü bu davranışımız onu küstah ve katlanılmaz kılacaktır.'' 
+          "insanın içinde ne kadar çok şey varsa, başkalarından o kadar az şey ister."
 
 >James Surowiecki - The Wisdom of Crowds
 
@@ -1610,7 +1611,8 @@ J. Arbuthnot, J. Gay, T. Parnell, A. Pope, J. Swift - Memoirs of Martinus Scribl
 Jonathan Swift - A Modest Proposal % (English Neo-Classical Period)
 Jonathan Swift - Gulliver's Travels %
 Jonathan Swift - A Tale of a Tub %
-José Saramago - The Double % (Nobel Literature 1998) (körlüğün salgın hastalık gibi yayıldığı bir toplumda korku ve paniğin hakim olması sonucu ahlaki değerlerin çökmesi)
+José Saramago - The Double % (Nobel Literature 1998)
+          körlüğün salgın hastalık gibi yayıldığı bir toplumda korku ve paniğin hakim olması sonucu ahlaki değerlerin çökmesi
 José Saramago - Baltasar and Blimunda %
 José Saramago - The History of the Siege of Lisbon %
 José Saramago - The Year of the Death of Ricardo Reis %
@@ -1698,7 +1700,9 @@ Leo Tolstoy - The Death of Ivan Ilyich %
 Leo Tolstoy - Anna Karenina %
 Leo Tolstoy - The Power of Darkness //
 Jim Thompson - The Killer Inside Me %
-J.R.R. Tolkien - The Lord of the Rings % (Güç tek bir kişide toplanması iyi değildir, Demokraside bu yüzden güçler ayrılığı var, güçler birlikteği yok. Eğer böyle olursa Totaliter bir idare şekline girer. İyi kalpli Frodo bile, yüzüğü yok etmeye geldiğinde sıra terredüt etti.)
+J.R.R. Tolkien - The Lord of the Rings % 
+                              Güç tek bir kişide toplanması iyi değildir, Demokraside bu yüzden güçler ayrılığı var, güçler birlikteği yok. 
+                              Eğer böyle olursa Totaliter bir idare şekline girer. İyi kalpli Frodo bile, yüzüğü yok etmeye geldiğinde sıra terredüt etti.
 J.R.R. Tolkien - The Hobbit %
 James Thurber - The 13 Clocks %
 James Thurber - The Wonderful "O" %
@@ -1740,9 +1744,10 @@ Server Tanilli - Uygarlık Tarihi
 Sun Tzu - The Art of War #101
 Sophie Treadwell - Machinal // (1885–1970)
 Shashi Tharoor - The Great Indian Novel %
-Haldun Taner - Keşanlı Ali Destanı*  (31 Mart 1964) Gecekondu Sorunun ele alan ilk türk oyun.    Cumhuriyetin ilk yıllarından Demokrat Parti dönemine kadarki süreçleri mizahi ve eleştirel bir bakış. Eser halkın geri kalmışlığı, batıl itikatları ve yaşamı hakkında hayali kahraman arayışı
-
-
+Haldun Taner - Keşanlı Ali Destanı*  (31 Mart 1964) 
+                    Gecekondu Sorunun ele alan ilk türk oyun.    
+                    Cumhuriyetin ilk yıllarından Demokrat Parti dönemine kadarki süreçleri mizahi ve eleştirel bir bakış.
+                    Eser halkın geri kalmışlığı, batıl itikatları ve yaşamı hakkında hayali kahraman arayışı
 U
 Unknown - Kabbalah#
 Dubravka Urgresic - The Museum of Unconditional Surrender %
@@ -1904,31 +1909,18 @@ Joost Zwagerman - Gimmick! %
 
 
 EXTRAS
-
 https://read.barnesandnoble.com/book/the-official-dictionary-of-sarcasm-a-lexicon-for-those-of-us-who-are-better-and-smarter-than-the-rest-of-you/title-page#3  
-
 http://ew.com/gallery/50-greatest-plays-past-100-years/#46-what-the-butler-saw-1969
-
 https://www.goodreads.com/list/show/13581.Goodreads_Top_100_Stage_Plays_of_All_Time
-
 https://www.nobelprize.org/nobel_prizes/literature/laureates/1911/
-
 Hugo Awards - Best science fiction or fantasy works of previous year
-
 Nebula Award - The best science fiction or fantasy works
-
 Rudolf Eucken - German Idealism - Nobel Literature 1908 - Der Sinn und Wert des Lebens
-
 Paul Johann Ludwig Heyse - Andrea Delfin (Nobel Literature 1910)
-
 Maurice Maeterlinck - (fakirlerin hazinesi) ile (mavi kuş) adlı eserleri
 
-Fuat Sezgin - Kitapları. İslam medeniyeti Avrupa medeniyetinin parçasıdır.
-
 MINORS (Uncategorized yet)
-
 Prof. Dr. Orhan Oguz - Iktisada Giris, Temel Kavramlar ve Prensipler
-
 01 Platon - Diyaloglar, Gorgias (Retorik Üzerine)
 02 Platon - Diyaloglar, Protagoras
 04 Platon - Mektuplar
@@ -1952,7 +1944,6 @@ Halil Cibran - Aforizmala
 51 Matematik Formülleri
 56 M. Kemal Atatürk - Geometri Kilavuzu
 57 Mevlana Celaleddin Rumi - Divan-i Kebir
-60 Osmanli Sözlük
 64 Tevrat
 65 Zebur
 66 Gilgamis Destani
@@ -1980,12 +1971,9 @@ Halil Cibran - Aforizmala
 08 Azra Erhat - Mitoloji Sözlügü
 09 Filiz Bingölçe - Kadin Argosu Sözlügü
 13 Leonardo Da Vinci - Leonardo'nun Defterleri
-
 15 Ioan James - Büyük Matematikçiler
 17 Mina Urgan - Ingiliz Edebiyati Tarihi
-
 22 A Dictionary of English Etymology
-
 24 Gülten Kazgan - Iktisadi Düsünce veya Politik Iktisadin Evrimi
 28 Henri Bergson - Ahlâkin ve Dinin Iki Kaynagi (1932)
 29 Henri Bergson - Yaratici Tekâmül(Evrim) (1907)
@@ -1996,35 +1984,25 @@ Halil Cibran - Aforizmala
 50 Alan Swingewood - Sosyolojik Düsüncenin Kisa Tarihi
 55 John Locke - Tabiat Kanunu Üzerine Denemeler (1664)
 56 Milliyet - Ilkler Ansiklopedisi (1985)
-
 65 Vergil - Georgics
 66 Orhan Saik Gökyay - Dede Korkut Hikayeleri (1938)
 68 Jean de La Fontaine - Masallar (1668-1694)
 70 Søren Kierkegaard - Felsefe Parçalari/Bir Parça Felsefe
-71 Türkiye Tarihi
 73 Hesiodos - Eseri ve Kaynaklari
-75 Programlama Dili - Java
-76 Programlama Dili - C
-
 84 Sevan Nisanyan - Kelimebaz
 88 The Best of the World's Classics, Restricted to Prose in Ten Volumes
 90 W. W. Rouse Ball - A Short Account of the History of Mathematics (2010)
 91 Introduction to Oracle9i SQL
 92 Introduction to Artificial Intelligence by Wolfgang Ertel (2011)
 00 Course to Theoretical Physics, Nine Volumes
-
 02 Bertrand Russell - Introduction to Mathematical Philosophy
-
 39 Bertrand russell - the principia mathematica
-
 73 Bertrand Russell - Aylakliga Övgü
-
 74 Bertrand Russell - Dünya Görüsüm
 75 Bertrand Russell - Iktidar
 76 Bertrand Russell - Neden Hiristiyan Degilim
 77 Bertrand Russell - Sorgulayan Denemeler (Nobel Literature 1950)
 78 Bertrand Russell - Bati Felsefesi Tarihi
-
 03 General Physics, Mechanics and Molecular Physics by Landau, Akhiezer, Lifshitz
 07 Ernst Hans Gombrich - Sanatin Öyküsü
 08 Farabi - Kitabu'l-Burhan
@@ -2048,20 +2026,12 @@ Halil Cibran - Aforizmala
 37 Sinan Canan - Kimsenin Bilemeyecegi Seyler
 38 José Rodrigues dos Santos - Tanri'nin Formülü
 39 John Rawls - A Theory of Justice
-40 Hilmi Ziya Ülken - Bilim Felsefesi
-41 Cemal Yildirim - Bilim Tarihi
-
-45 Giordano Bruno - Küllerin Söleni
 47 Ugur Mumcu - Sakincali Piyade
-50 Ferit Devellioglu - Osmanlica - Türkçe Ansiklopedik Lûgat
 52 Incropera - Fundamentals of Heat and Mass Transfer [7th Edition]
 53 Steven S. Zumdahl - Chemistry (2013)
 54 Jheni Osman - Dünyayi Degistiren 100 Fikir
 59 Daniel Goleman - Sosyal Zeka (Insan Iliskilerinin Yeni Bilimi)
 
-Beynin Gizemi
-
-Senaryo - Senaryo Yaziminin Temelleri-Syd Field.pdf
 
 Ekrem akurgal - doğu ve batı(türkçesi yok)
 Marc Ferro - Sömürgecilik Tarihi1.pdf
@@ -2234,21 +2204,7 @@ Eric Hobsbawn - Asiriliklar Çagi, Kisa 20. Yüzyil 1914-1991.pdf
 Erich Maria Remarque - Garp Cephesinde Yeni Bir Sey Yok.pdf
 Eric J. Hobsbawm - 1780 den Günümüze Milletler Ve Milliyetçilik.pdf
 Farabi - Ideal Devlet (El Medinetü'l Fazila).pdf
-Felsefenin Ilkeleri.pdf
-Faruk K. Timurtas - Uydurma Olan ve Olmayan Yeni Kelimeler Sözlügü.pdf
-Felsefe Ansiklopedisi 01.pdf
-Ferit Devellioglu - Osmanlica - Türkçe Ansiklopedik Lûgat.pdf
 Ferhan Oguzkan - Egitim Terimleri Sözlügü.pdf
-Ferit Devellioglu - Türk Argosu.pdf
-kutadgu bilig
-politikada 45 yil
-Orhan Hançerlioglu - Ekonomi Sözlügü.pdf
-Tomris Uyar - Amerikan Hikayeleri Antolojisi.pdf
-Orhan Hançerlioglu - Felsefe Ansiklopedisi (Cilt-1).pdf
-Thomas Piketty - Yirmi Birinci Yüzyilda Kapital.pdf
-T.E.Lawrence - Bilgeligin Yedi Diregi (Bir Casunun Anilari).pdf
-SÖZLÜGÜN TARIHÇESI.pdf
-Oguz Tekin - Eski Yunan Tarihi - seyyar - cls.pdf
 Paul Kennedy - Büyük Güçlerin Yükselis ve Çöküsleri.pdf
 Octavio Paz - Modern Insan v Edebiyat.pdf
 Norman Davies - Avrupa Tarihi.pdf
@@ -2271,2114 +2227,1062 @@ Jean Brun - Platon ve Akademia.pdf
 Islam Ansiklopedisi (MEB) 2.pdf
 Ibn Rüsd - Tutarsizligin Tutarsizligi (Tehâfüt et-Tehâfüt) (trc. Kemal Isik & Mehmet Dag).pdf
 Ibn Battuta - Seyahatname Cilt 2.pdf
-Ibn Arabi – Endülüs Sufileri.pdf
 
-Carpini - moğol hikayesi
-Moğolların gizli tarihi the secret history of mongols
-Altın defter (moğollar hakkında)
+
+
 
 
 MOVIES
-
 A Trip to the Moon (La voyage dans la lune) 1902
-
 The Great Train Robbery 1903
-
 The Birth of a Nation (1915)
-
 Les Vampires (The Vampires) (1915)
-
 Intolerance (1916)
-
 The Cabinet of Dr. Caligari (Das Kabinett des Doktor Caligari) (1920)
-
 Broken Blossoms (1919)
-
 Within Our Gates    (1920)
-
 Way Down East    (1920)
-
 Orphans of the Storm    (1921)
-
 The Phantom Carriage (Korkarlen) (1921)
-
 The Smiling Madame Beudet (La souriante Madame Beudet) (1922)
-
 Dr. Mabuse Parts 1 and 2 (Dr. Mabuse, der Spieler)   (1922)
-
 Nanook of the North (1922)
-
 Nosferatu (Nosferatu, eine Symphonie des Grauens)   (1922)
-
 Haxan   (1923)
-
 Foolish Wives   (1922)
-
 Our Hospitality   (1923)
-
 Wheel, The (La roue)     (1923)
-
 The Last Laugh (Der Letzte Mann)   (1924)
-
 Strike (Stachka)   (1924)
-
 Sherlock, Jr.   (1924)
-
 The Great White Silence  (1924)
-
 Greed  (1924)
-
 The Thief of Bagdad   (1924)
-
 The Eagle  (1925)
-
 The Phantom of the Opera (1925)
-
 Battleship Potemkin (Bronenosets Potyomkin) (1925)
-
 The Gold Rush (1925)
-
 The Big Parade (1925)
-
 Seven Chances (1925)
-
 The Adventures of Prince Achmed (Die Abenteuer des Prinzen Achmed) (1926)
-
 Metropolis (1927)
-
 Sunrise: A Song of Two Humans   (1927)
-
 The General  (1927)
-
 The Unknown (1927)
-
 October (Oktyabr) (1927)
-
 The Jazz Singer (1927)
-
 Napoleon (1927)
-
 The Kid Brother (1927)
-
 The Crowd  (1928)
-
 The Docks of New York (1928)
-
 The Passion of Joan of Arc (La passion de Jeanne d'Arc) (1928)
-
 Un Chien Andalou (An Andalusian Dog) (1928)
-
 Steamboat Bill, Jr.   (1928)
-
 Storm Over Asia (Potomok Chingis-Khana) (1928)
-
 A Throw of Dice (Prapancha Pash) 1929
-
 The Man with the Movie Camera (Chelovek s kino-apparatom) 1929
-
 Pandora's Box (Die Buchse der Pandora) 1929
-
 Blackmail 1929
-
 Little Caesar (1931)
-
 The Blue Angel (Der Blaue Engel) 1930
-
 All Quiet on the Western Front 1930
-
 L'Age d'Or (The Age of Gold) 1930
-
 Earth (Zemlya) 1930
-
 A Nous la Liberte (Freedom for Us) (1931)
-
 Limite (1931)
-
 Tabu (1931)
-
 City Lights (1931)
-
 Dracula   (1931)
-
 Frankenstein   (1931)
-
 The Public Enemy (1931)
-
 M (1931)
-
 Le Million (The Million)   (1931)
-
 La Chienne (The Bitch)   (1931)
-
 Vampyr (The Vampire) (1932)
-
 I Am a Fugitive from a Chain Gang   (1932)
-
 Boudu Saved from Drowning (Boudu sauve des eaux)    (1932)
-
 Love Me Tonight     (1932)
-
 Shanghai Express   (1932)
-
 Trouble in Paradise     (1932)
-
 Scarface: The Shame of a Nation  (1932)
-
 Freaks  (1932)
-
 Me and My Gal     (1932)
-
 42nd Street   (1933)
-
 Footlight Parade (1933)
-
 The Bitter Tea of General Yen (1933)
-
 She Done Him Wrong (1933)
-
 Duck Soup (1933)
-
 Zero for Conduct (Zero de conduite)   (1933)
-
 Gold Diggers of 1933   (1933)
-
 King Kong (1933)
-
 Land Without Bread (Las hurdes)     (1933)
-
 Sons of the Desert     (1933)
-
 Queen Christina (1933)
-
 Triumph of the Will (Triumph des Willens) 1934
-
 It's a Gift 1934
-
 The Goddess (Shen nu) 1934
-
 It Happened One Night 1934
-
 L'Atalante 1934
-
 The Black Cat 1934
-
 The Thin Man 1934
-
 Judge Priest 1934
-
 Mutiny on the Bounty 1935
-
 The 39 Steps 1935
-
 A Night at the Opera 1935
-
 Bride of Frankenstein 1935
-
 Captain Blood 1935
-
 Top Hat 1935
-
 Peter Ibbetson 1935
-
 Modern Times 1936
-
 Swing Time 1936
-
 Mr. Deeds Goes to Town 1936
-
 My Man Godfrey 1936
-
 The Story of a Cheat (Le roman d'un tricheur) 1936
-
 Camille 1936
-
 Things to Come 1936
-
 Dodsworth 1936
-
 A Day in the Country (Partie de campagne) 1936
-
 Sabotage 1936
-
 Pepe le Moko 1937
-
 Make Way for Tomorrow 1937
-
 Grand Illusion (La grande illusion) 1937
-
 Stella Dallas 1937
-
 Song at Midnight (Ye Ban Ge Sheng) 1937
-
 Snow White and the Seven Dwarfs 1937
-
 Captains Courageous 1937
-
 The Awful Truth 1937
-
 The Life of Emile Zola 1937
-
 Jezebel 1938
-
 The Adventures of Robin Hood 1938
-
 Angels with Dirty Faces 1938
-
 The Baker's Wife (La femme du boulanger) 1938
-
 Bringing Up Baby 1938
-
 Olympia Part 1: Festival of the Nations (Olympia 1. Teil: Fest der Volker) 1938
-
 Olympia Part 2: Festival of Beauty (Olympia 2. Teil: Fest der Schonheit) 1938
-
 The Lady Vanishes 1938
-
 Wuthering Heights 1939
-
 Mr. Smith Goes to Washington 1939
-
 Stagecoach 1939
-
 Only Angels Have Wings 1939
-
 Destry Rides Again 1939
-
 Gone with the Wind 1939
-
 Daybreak (Le jour se leve) 1939
-
 Gunga Din 1939
-
 Ninotchka 1939
-
 The Wizard of Oz 1939
-
 The Rules of the Game (La regle du jeu) 1939
-
 The Story of the Last Chrysanthemum (Zangiku monogatari) 1939
-
 Babes in Arms 1939
-
 His Girl Friday 1940
-
 Fantasia 1940
-
 Rebecca 1940
-
 The Philadelphia Story 1940
-
 The Grapes of Wrath 1940
-
 The Mortal Storm 1940
-
 The Bank Dick 1940
-
 Pinocchio 1940
-
 Dance, Girl, Dance 1940
-
 Citizen Kane 1941
-
 Sergeant York 1941
-
 The Lady Eve 1941
-
 The Wolf Man 1941
-
 High Sierra 1941
-
 How Green was My Valley 1941
-
 Sullivan's Travels 1941
-
 The Maltese Falcon 1941
-
 Dumbo 1941
-
 The Palm Beach Story (1942)
-
 Now, Voyager (1942)
-
 To Be or Not to Be (1942)
-
 The Magnificent Ambersons (1942)
-
 Yankee Doodle Dandy (1942)
-
 Mrs. Miniver (1942)
-
 Casablanca (1942)
-
 Cat People (1942)
-
 Fires Were Started 1943
-
 The Ox-Bow Incident 1943
-
 The Life and Death of Colonel Blimp 1943
-
 Meshes of the Afternoon 1943
-
 The Seventh Victim 1943
-
 The Man in Grey 1943
-
 Shadow of a Doubt 1943
-
 Ossessione 1943
-
 I Walked with a Zombie 1943
-
 Laura 1944
-
 Meet Me in St. Louis 1944
-
 To Have and Have Not 1944
-
 Gaslight 1944
-
 Henry V 1944
-
 Double Indemnity 1944
-
 Murder, My Sweet (Farewell, My Lovely) 1944
-
 Ivan the Terrible, Part I (Ivan Groznyy) 1944
-
 Ivan the Terrible, Part II (Ivan Groznyy: Skaz vtoroy - Boyarskiy zagovor) 1958
-
 Mildred Pierce 1945
-
 Detour 1945
-
 I Know Where I'm Going! 1945
-
 The Lost Weekend 1945
-
 Children of Paradise (Les enfants du paradis) 1945
-
 The Battle of San Pietro 1945
-
 Brief Encounter 1945
-
 Rome, Open City (Roma, citta aperta) 1945
-
 Spellbound 1945
-
 The Best Years of Our Lives 1946
-
 Paisan (Paisa) 1946
-
 Beauty and the Beast (La belle et la bete) 1946
-
 The Killers 1946
-
 It's a Wonderful Life 1946
-
 The Big Sleep 1946
-
 Gilda 1946
-
 A Matter of Life and Death 1946
-
 Great Expectations 1946
-
 My Darling Clementine 1946
-
 Notorious 1946
-
 Black Narcissus 1946
-
 The Stranger 1946
-
 Out of the Past 1947
-
 Monsieur Verdoux 1947
-
 Odd Man Out 1947
-
 The Ghost and Mrs. Muir 1947
-
 Bicycle Thieves (Ladri di biciclette) 1948
-
 Letter from an Unknown Woman 1948
-
 Secret Beyond the Door 1948
-
 Force of Evil 1948
-
 Spring in a Small Town (Xiao cheng zhi chun) 1948
-
 Red River 1948
-
 The Paleface 1948
-
 The Snake Pit 1948
-
 The Lady from Shanghai 1948
-
 Rope 1948
-
 The Red Shoes 1948
-
 The Treasure of the Sierra Madre 1948
-
 Louisiana Story 1948
-
 Gun Crazy 1949
-
 The Reckless Moment 1949
-
 White Heat 1949
-
 Adam's Rib 1949
-
 The Heiress 1949
-
 The Third Man 1949
-
 Kind Hearts and Coronets 1949
-
 Whisky Galore! 1949
-
 On the Town 1949
-
 Orpheus (Orphee) 1949
-
 TheAsphalt Jungle 1950
-
 Rashomon 1950
-
 All About Eve 1950
-
 Winchester '73 1950
-
 Rio Grande 1950
-
 Sunset Blvd. 1950
-
 Los Olvidados (The Young and the Damned) 1950
-
 In a Lonely Place 1950
-
 Ace in the Hole (The Big Carnival) 1951
-
 Strangers on a Train 1951
-
 A Streetcar Named Desire 1951
-
 An American in Paris 1951
-
 Pandora and the Flying Dutchman 1951
-
 The African Queen 1951
-
 A Place in the Sun 1951
-
 The Lavender Hill Mob 1951
-
 Diary of a Country Priest (Journal d'un cure de campagne) 1951
-
 The Day the Earth Stood Still 1951
-
 The Quiet Man 1952
-
 Forbidden Games (Jeux interdits) 1952
-
 Europa '51 (The Greatest Love) 1952
-
 Singin' in the Rain 1952
-
 The Bad and the Beautiful 1952
-
 Ikiru (To Live) 1952
-
 Umberto D 1952
-
 High Noon 1952
-
 The Golden Coach (Le carrosse d'or) 1952
-
 Angel Face 1952
-
 The Big Sky 1952
-
 Summer with Monika (Sommaren med Monika) 1953
-
 Pickup on South Street 1953
-
 The Band Wagon 1953
-
 Mr. Hulot's Holiday (Les vacances de M. Hulot) 1953
-
 The Earrings of Madame De... (Madame de...) 1953
-
 The Wages of Fear (La salaire de la peur) 1953
-
 The Bigamist 1953
-
 The Naked Spur 1953
-
 Tokyo Story 1953
-
 From Here to Eternity 1953
-
 Ugetsu (Ugetsu monogatari) 1953
-
 Journey to Italy (Viaggio in Italia) 1954
-
 Shane 1953
-
 Gentlemen Prefer Blondes 1953
-
 Roman Holiday 1953
-
 The Big Heat 1953
-
 Beat the Devil 1953
-
 On the Waterfront 1954
-
 La Strada (The Road) 1954
-
 Diabolique (Les diaboliques) 1954
-
 A Star is Born 1954
-
 Rear Window 1954
-
 Senso (The Wanton Countess) 1954
-
 Silver Lode 1954
-
 The Barefoot Contessa 1954
-
 Seven Samurai (Shichinin no samurai) 1954
-
 Sansho the Bailiff (Sansho dayu) 1954
-
 Carmen Jones 1954
-
 Johnny Guitar 1954
-
 Salt of the Earth 1954
-
 Seven Brides for Seven Brothers 1954
-
 Animal Farm 1954
-
 Lola Montes (The Sins of Lola Montes) 1955
-
 Pather Panchali 1955
-
 Ordet 1955
-
 Marty 1955
-
 Artists and Models 1955
-
 Rebel Without a Cause 1955
-
 The Mad Masters (Les maitres fous) 1955
-
 Hill 24 Doesn't Answer (Giv'a 24 Eina Ona) 1955
-
 Bad Day at Black Rock 1955
-
 Night and Fog (Nuit et brouillard) 1955
-
 The Phenix City Story 1955
-
 The Man with the Golden Arm 1955
-
 Kiss Me Deadly 1955
-
 Guys and Dolls 1955
-
 The Night of the Hunter 1955
-
 The Ladykillers 1955
-
 Oklahoma! 1955
-
 Smiles of a Summer Night (Sommarnattens leende) 1955
-
 Bob le Flambeur (Bob the Gambler) 1955
-
 All that Heaven Allows 1955
-
 The Man from Laramie 1955
-
 The Ten Commandments 1956
-
 The Searchers 1956
-
 The Burmese Harp (Biruma no tategoto) 1956
-
 Forbidden Planet 1956
-
 Written on the Wind 1956
-
 A Man Escaped (Un condamne a mort s'est echappe ou le vent souffle ou il veut) 1956
-
 Bigger than Life 1956
-
 Invasion of the Body Snatchers 1956
-
 Giant 1956
-
 The Wrong Man 1956
-
 High Society 1956
-
 The Man Who Knew Too Much 1956
-
 Throne of Blood (Kumonosu-jo) 1957
-
 Paths of Glory 1957
-
 An Affair to Remember 1957
-
 The Seventh Seal (Det sjunde inseglet) 1957
-
 12 Angry Men 1957
-
 Wild Strawberries (Smultronstallet) 1957
-
 The Incredible Shrinking Man 1957
-
 Gunfight at the O.K. Corral 1957
-
 Nights of Cabiria (Le notti di Cabiria) 1957
-
 The Cranes are Flying (Letjat zhuravli) 1957
-
 Aparajito (The Unvanquished) 1957
-
 The Bridge on the River Kwai 1957
-
 Sweet Smell of Success 1957
-
 Mother India (Bharat Mata) 1957
-
 Touch of Evil 1958
-
 Gigi 1958
-
 The Defiant Ones 1958
-
 Man of the West 1958
-
 Vertigo 1958
-
 Ashes and Diamonds (Popiol i diament) 1958
-
 Cairo Station (Bab el hadid) 1958
-
 The Music Room (Jalsaghar) 1958
-
 Mon Oncle (My Uncle) 1958
-
 Some Came Running 1958
-
 Horror of Dracula (Dracula) 1958
-
 Some Like it Hot 1959
-
 North by Northwest 1959
-
 The 400 Blows (Les quatre cent coups) 1959
-
 Pickpocket 1959
-
 Hiroshima Mon Amour 1959
-
 Ride Lonesome 1959
-
 Black Orpheus (Orfeu Negro) 1959
-
-
 Anatomy of a Murder 1959
-
 Shadows 1959
-
 The World of Apu (Apur Sansar) 1959
-
 Rio Bravo 1959
-
 Floating Weeds (Ukigusa) 1959
-
 Eyes Without a Face (Les yeux sans visage) 1960
-
 Saturday Night and Sunday Morning 1960
-
 La Dolce Vita 1960
-
 Le Trou (The Hole) 1960
-
 Rocco and His Brothers (Rocco e i suoi fratelli) 1960
-
 L'Avventura (The Adventure) 1960
-
 Breathless (A bout de souffle) 1960
-
 Spartacus 1960
-
 The Apartment 1960
-
 The Housemaid (Hanyo) 1960
-
 The Cloud-Capped Star (Meghe Dhaka Tara) 1960
-
 Psycho 1960
-
 Shoot the Piano Player (Tirez sur le pianiste) 1960
-
 Peeping Tom 1960
-
 Black Sunday (La maschera del demonio) 1960
-
 The Young One (La joven) 1960
-
 Splendor in the Grass 1961
-
 Viridiana 1961
-
 La Jetee (The Pier) 1962
-
 Breakfast at Tiffany's 1961
-
 Lola 1961
-
 Exiles, The 1961
-
 La Notte (The Night) 1961
-
 West Side Story 1961
-
 Hustler, The 1961
-
 Ladies Man, The 1961
-
 Through a Glass Darkly (Sasom i en spegel) 1961
-
 Chronicle of a Summer (Chronique d'un ete) 1961
-
 Last Year at Marienbad (L'annee derniere a Marienbad) 1961
-
 One-Eyed Jacks 1961
-
 Cleo from 5 to 7 (Cleo de 5 a 7) 1962
-
 Dog Star Man 1962
-
 My Life to Live (Vivre sa vie: film en douze tableux) 1962
-
 Autumn Afternoon, An (Sanma no aji) 1962
-
 Lolita 1962
-
 Man Who Shot Liberty Valance, The 1962
-
 Heaven and Earth Magic 1962
-
 Lawrence of Arabia 1962
-
 To Kill a Mockingbird 1962
-
 Given Word, The (O Pagador de Promessas) 1962
-
 L'Eclisse (The Eclipse) 1962
-
 Mondo Cane (A Dog's Life) 1962
-
 Exterminating Angel, The (El angel exterminidor) 1962
-
 Jules and Jim (Jules et Jim) 1962
-
 Manchurian Candidate, The 1962
-
 What Ever Happened to Baby Jane? 1962
-
 8 1/2 1963
-
 Birds, The 1963
-
 Passenger (Pasazerka) 1963
-
 Servant, The 1963
-
 Flaming Creatures 1963
-
 House is Black, The (Khaneh siah ast) 1963
-
 Hud 1963
-
 Leopard, The (Il gattopardo) 1963
-
 Barren Lives (Vidas Secas) 1963
-
 Shock Corridor 1963
-
 Contempt (Le mepris) 1963
-
 Blonde Cobra 1963
-
 Cool World, The 1963
-
 Nutty Professor, The 1963
-
 Great Escape, The 1963
-
 Mediterranee 1963
-
 Actor's Revenge, An (Yukinojo henge) 1963
-
 Haunting, The 1963
-
 Winter Light (Nattvardsgasterna) 1963
-
 Goldfinger 1964
-
 My Fair Lady 1964
-
 Red Desert (Il deserto rosso) 1964
-
 Woman in the Dunes (Suna no onna) 1964
-
 Shadows of Forgotten Ancestors (Tini zabutykh predkiv) 1965
-
 Scorpio Rising 1964
-
 Marnie 1964
-
 Masque of the Red Death, The 1964
-
 Before the Revolution (Prima della rivoluzione) 1964
-
 Dr. Strangelove, or How I Learned to Stop Worrying and Love the Bomb 1964
-
 Black God, White Devil (Deus e o Diabo na Terra do Sol) 1964
-
 Hard Day's Night, A 1964
-
 Umbrellas of Cherbourg, The (Les parapluies de Cherbourg) 1964
-
 Gertrud 1964
-
 Mary Poppins 1964
-
 Onibaba (The Demon) 1964
-
 Gospel According to St. Matthew, The (Il vangelo secondo Matteo) 1964
-
 Shop on Main Street, The (Obchod na korze) 1965
-
 Doctor Zhivago 1965
-
 War Game, The 1965
-
 Tokyo Olympiad (Tokyo orimpikku) 1965
-
 Juliet of the Spirits (Giulietta degli spiriti) 1965
-
 Battle of Algiers, The (La battaglia di Algeri) 1965
-
 Sound of Music, The 1965
-
 Man Who Had His Hair Cut Short, The (De man die zijn haar kort liet knippen) 1965
-
 Alphaville (Alphaville, une etrange aventure de Lemmy Caution) 1965
-
 Chimes at Midnight (Campanadas a medianoche) 1965
-
 Faster, Pussycat! Kill! Kill! 1965
-
 Vinyl 1965
-
 Saragossa Manuscript, The (Rekpis znaleziony w Saragossie) 1965
-
 Repulsion 1965
-
 Pierrot le Fou (Pierrot Goes Wild) 1965
-
 Golden Thread, The (Subarnarekha) 1965
-
 Hold Me While I'm Naked 1966
-
 Who's Afraid of Virginia Woolf? 1966
-
 Blow-Up (Blowup) 1966
-
 Daisies (Sedmikrasky) 1966
-
 Come Drink with Me (Da zui xia) 1966
-
 Seconds 1966
-
 Good, the Bad, and the Ugly, The (Il buono, il bruto, il cattivo) 1966
-
 Persona 1966
-
 Au Hasard Balthazar (Balthazar) 1966
-
 Masculin Feminin (Masculine Feminine) 1966
-
 Report 1967
-
 2 or 3 Things I Know About Her (2 ou 3 choses que je sais d'elle) 1967
-
 Belle de Jour 1967
-
 Cool Hand Luke 1967
-
 Playtime 1967
-
 Red and the White, The (Csillagosok, katonak) 1967
-
 Graduate, The 1967
-
 Point Blank 1967
-
 Young Girls of Rochefort, The (Les demoiselles de Rochefort) 1967
-
 Week End 1967
-
 Le Samourai (The Godson) 1967
-
 Wavelength 1967
-
 Closely Watched Trains (Ostre sledovane vlaky) 1967
-
 Entranced Earth (Terra em Transe) 1967
-
 In the Heat of the Night 1967
-
 Marketa Lazarova 1967
-
 Firemen's Ball, The (Hori, ma panenko) 1967
-
 The Jungle Book 1967
-
 Bonnie and Clyde 1967
-
 Viy 1967
-
 Hombre 1967
-
 Cow, The (Gaav) 1969
-
 Once Upon a Time in the West (C'era una volta il West) 1968
-
 Faces 1968
-
 Planet of the Apes 1968
-
 Rosemary's Baby 1968
-
 If.... 1968
-
 David Holzman's Diary 1968
-
 Memories of Underdevelopment (Memorias del subdesarollo) 1968
-
 High School 1968
-
 Hour of the Wolf (Vargtimmen) 1968
-
 2001: A Space Odyssey 1968
-
 Night of the Living Dead 1968
-
 Targets 1968
-
 Shame (Skammen) 1968
-
 The Producers 1968
-
 Z 1969
-
 Satyricon (Fellini Satyricon) 1969
-
 Andrei Rublev (Andrey Rublyov) 1966
-
 The Color of Pomegranates (Sayat Nova) 1968
-
 Midnight Cowboy 1969
-
 Butch Cassidy and the Sundance Kid 1969
-
 A Touch of Zen (Xia nu) 1969
-
 Easy Rider 1969
-
 Kes 1969
-
 Lucia 1969
-
 In the Year of the Pig 1969
-
 The Wild Bunch 1969
-
 My Night at Maud's (Ma nuit chez Maud) 1969
-
 Tristana 1970
-
 The Conformist (Il conformista) 1970
-
 Le Boucher (The Butcher) 1970
-
 El Topo 1970
-
 Five Easy Pieces 1970
-
 Deep End 1970
-
 Spider's Strategem, The (Strategia del ragno) 1970
-
 The Ear (Ucho) 1970
-
 Little Big Man 1970
-
 Patton 1970
-
 Bird with the Crystal Plumage, The (L'uccello dalle piume di cristallo) 1970
-
 M*A*S*H 1970
-
 Zabriskie Point 1970
-
 Performance 1970
-
 Woodstock 1970
-
 Gimme Shelter 1970
-
 Garden of the Finzi-Continis, The (Il giardino dei Finzi Contini) 1970
-
 Dirty Harry 1971
-
 Clockwork Orange, A 1971
-
 McCabe and Mrs. Miller 1971
-
 Sorrow and the Pity, The (Le chagrin et la pitie) 1971
-
 Willy Wonka and the Chocolate Factory 1971
-
 Devils, The 1971
-
 Hired Hand, The 1971
-
 WR: Mysteries of the Organism (W.R. - Misterije organizma) 1971
-
 Walkabout 1971
-
 Klute 1971
-
 Harold and Maude 1971
-
 French Connection, The 1971
-
 Red Psalm (Meg ker a nep) 1972
-
 Get Carter 1971
-
 Shaft 1971
-
 Sweet Sweetback's Baadasssss Song 1971
-
 Last Picture Show, The 1971
-
 Wanda 1971
-
 Murmur of the Heart (Le souffle au coeur) 1971
-
 Straw Dogs 1971
-
 Two-Lane Blacktop 1971
-
 Wake in Fright 1971
-
 Deliverance 1972
-
 Aguirre: The Wrath of God (Aguirre, der Zorn Gottes) 1972
-
 Cabaret 1972
-
 Solaris (Solyaris) 1972
-
 Cries and Whispers (Viskningar och rop) 1972
-
 Discreet Charm of the Bourgeoisie, The (Le charme discret de la bourgeoisie) 1972
-
 Godfather, The 1972
-
 Last Tango in Paris (Ultimo tango a Parigi) 1972
-
 Bitter Tears of Petra von Kant, The (Die bitteren Tranen der Petra von Kant) 1972
-
 Fat City 1972
-
 Heartbreak Kid, The 1972
-
 Frenzy 1972
-
 Pink Flamingos 1972
-
 Sleuth 1972
-
 Superfly 1972
-
 The Sting 1973
-
 Mother and the Whore, The (La maman et la putain) 1973
-
 High Plains Drifter 1973
-
 Badlands 1973
-
 American Graffiti 1973
-
 Papillon 1973
-
 The Long Goodbye 1973
-
 Wicker Man, The 1973
-
 Enter the Dragon 1973
-
 Serpico 1973
-
 Don't Look Now 1973
-
 Day for Night (La nuit americaine) 1973
-
 Mean Streets 1973
-
 Sleeper 1973
-
 Exorcist, The 1973
-
 F for Fake (Verites et mensonges) 1973
-
 Pat Garrett and Billy the Kid 1973
-
 Turkish Delight (Turks fruit) 1973
-
 Spirit of the Beehive, The (El espiritu de la colmena) 1973
-
 Harder they Come, The 1973
-
 Fantastic Planet (Le planete sauvage) 1973
-
 Amarcord 1973
-
 Towering Inferno, The 1974
-
 Bring Me the Head of Alfredo Garcia 1974
-
 Dersu Uzala 1975
-
 TheGodfather: Part II 1974
-
 TheConversation 1974
-
 TheMirror (Zerkalo) 1974
-
 Chinatown 1974
-
 A Woman Under the Influence 1974
-
 Young Frankenstein 1974
-
-TheTexas Chainsaw Massacre 1974
-
+The Texas Chainsaw Massacre 1974
 Blazing Saddles 1974
-
 Celine and Julie go Boating (Celine et Julie vont en bateau) 1974
-
 Ali: Fear Eats the Soul (Angst essen seele auf) 1974
-
 Barry Lyndon 1975
-
 Rocky Horror Picture Show, The 1975
-
 Jeanne Dielman, 23 Quai du Commerce, 1080 Bruxelles 1975
-
 Travelling Players, The (O thiasos) 1975
-
 Monty Python and the Holy Grail 1975
-
 Deewaar (The Wall) 1975
-
 Dog Day Afternoon 1975
-
 One Flew Over the Cuckoo's Nest 1975
-
 Nail of Brightness, The (Maynila: Sa mga kuko ng liwanag) 1975
-
 Fox and His Friends (Faustrecht der Freiheit) 1975
-
 Nashville 1975
-
 Salo, or the 120 Days of Sodom (Salo o le 120 giornate di Sodoma) 1975
-
 Cria Cuervos (Cria!) 1975
-
 Picnic at Hanging Rock 1975
-
 India Song 1975
-
 Jaws 1975
-
 Man Who Fell to Earth, The 1976
-
 All the President's Men 1976
-
 Outlaw Josey Wales, The 1976
-
 Killing of a Chinese Bookie, The 1976
-
 Network 1976
-
 Carrie 1976
-
 Taxi Driver 1976
-
 Rocky 1976
-
 In the Realm of the Senses (Ai no korida) 1976
-
 1900 (Novecento) 1976
-
 Ascent, The (Voskhozhdeniye) 1977
-
 Close Encounters of the Third Kind 1977
-
 TheLast Wave 1977
-
 Star Wars (Star Wars: Episode IV - A New Hope) 1977
-
 Stroszek 1977
-
 Ceddo 1977
-
-TheAmerican Friend (Der Amerikanische Freund) 1977
-
+The American Friend (Der Amerikanische Freund) 1977
 Annie Hall 1977
-
 Suspiria 1977
-
 Sleeping Dogs 1977
-
 Last Chants for a Slow Dance 1977
-
 Man of Marble (Czlowiek z marmuru) 1977
-
 Saturday Night Fever 1977
-
 Killer of Sheep 1979
-
 Eraserhead 1977
-
 Soldier of Orange (Soldaat van Oranje) 1977
-
 TheHills Have Eyes 1977
-
 Days of Heaven 1978
-
 Halloween 1978
-
 Tree of Wooden Clogs, The (L'albero degli zoccoli) 1978
-
 Chant of Jimmie Blacksmith, The 1978
-
 Deer Hunter, The 1978
-
 Dawn of the Dead 1978
-
 Up in Smoke 1978
-
 Grease 1978
-
 36th Chamber of Shaolin, The (Shao Lin san shi liu fang) 1978
-
 Five Deadly Venoms (Wu du) 1978
-
 My Brilliant Career 1979
-
 Marriage of Maria Braun, The (Die Ehe der Maria Braun) 1979
-
 Nosferatu the Vampyre (Nosferatu: Phantom der Nacht) 1979
-
 Stalker 1979
-
 Life of Brian 1979
-
 Real Life 1979
-
 Breaking Away 1979
-
 Alien 1979
-
 Being There 1979
-
 Manhattan 1979
-
 All that Jazz 1979
-
 Muppet Movie, The 1979
-
 Christ Stopped at Eboli (Cristo si e fermato a Eboli) 1979
-
 Mad Max 1979
-
 Tin Drum, The (Die Blechtrommel) 1979
-
 Jerk, The 1979
-
 Kramer vs. Kramer 1979
-
 Ordinary People 1980
-
 Star Wars: Episode V - The Empire Strikes Back 1980
-
 Atlantic City 1980
-
 Last Metro, The (Le dernier metro) 1980
-
 Shining, The 1980
-
 Elephant Man, The 1980
-
 Big Red One, The 1980
-
 Loulou 1980
-
 Raging Bull 1980
-
 Airplane! 1980
-
 American Werewolf in London, An 1981
-
 Diva 1981
-
 Raiders of the Lost Ark 1981
-
 Das Boot (The Boat) 1981
-
 Gallipoli 1981
-
 Chariots of Fire 1981
-
 Body Heat 1981
-
 Man of Iron (Czlowiek z zelaza) 1981
-
 Reds 1981
-
 Three Brothers (Tre fratelli) 1981
-
 E.T.: The Extra-Terrestrial 1982
-
 Evil Dead, The 1982
-
 Fast Times at Ridgemont High 1982
-
 Too Early, Too Late (Zu fruh, zu spat aka Trop tot, trop tard) 1982
-
 Poltergeist 1982
-
 Yol (The Way) 1982
-
 Blade Runner 1982
-
 Diner 1982
-
 Tootsie 1982
-
 Fitzcarraldo 1982
-
 Gandhi 1982
-
 The Thing 1982
-
 Fanny and Alexander (Fanny och Alexander) 1982
-
 Night of the Shooting Stars, The (La notte di San Lorenzo) 1982
-
 A Question of Silence (De stilte rond Christine M.) 1982
-
 Draughtsman's Contract, The 1982
-
 A Christmas Story 1983
-
 L'Argent (Money) 1983
-
 Right Stuff, The 1983
-
 Big Chill, The 1983
-
 Sans Soleil (Sunless) 1983
-
 Star Wars: Episode VI - The Return of the Jedi 1983
-
 Ballad of Narayama, The (Narayama-bushi ko) 1983
-
 Terms of Endearment 1983
-
 El Norte 1983
-
 Fourth Man, The (De vierde man) 1983
-
 Videodrome 1983
-
 Koyaanisqatsi 1983
-
 Scarface 1983
-
 King of Comedy, The 1983
-
 Local Hero 1983
-
 Once Upon a Time in America 1983
-
 Last Battle, The (Le dernier combat) 1983
-
 Terminator, The 1984
-
 Natural, The 1984
-
 Ghostbusters 1984
-
 Paris, Texas 1984
-
 Nightmare on Elm Street, A 1984
-
 This is Spinal Tap 1984
-
 Beverly Hills Cop 1984
-
 Killing Fields, The 1984
-
 Stranger than Paradise 1984
-
 Amadeus 1984
-
 Utu 1984
-
 Prizzi's Honor 1985
-
 Time to Live and a Time to Die, A (Tong nien wang shi) 1985
-
 Breakfast Club, The 1985
-
 Come and See (Idi i smotri) 1985
-
 Mishima: A Life in Four Chapters 1985
-
 Out of Africa 1985
-
 Ran 1985
-
 Back to the Future 1985
-
 Brazil 1985
-
 Kiss of the Spider Woman 1985
-
 Quiet Earth, The 1985
-
 Purple Rose of Cairo, The 1985
-
 Vagabond (Sans toit ni loi) 1985
-
 Shoah 1985
-
 Color Purple, The 1985
 
 Room with a View, A 1985
-
 Official Story, The (La historia oficial) 1985
-
 Manhunter 1986
-
 Blue Velvet 1986
-
 Hannah and Her Sisters 1986
-
 She's Gotta Have It 1986
-
 Children of a Lesser God 1986
-
 Caravaggio 1986
-
 Salvador 1986
-
 Platoon 1986
-
 Down by Law 1986
-
 Decline of the American Empire, The (Le declin de l'empire americain) 1986
-
 Peking Opera Blues (Do ma daan) 1986
-
 Aliens 1986
-
 Ferris Bueller's Day Off 1986
-
 The Fly 1986
-
 Top Gun 1986
-
 Sherman's March 1986
-
 Stand by Me 1986
-
 Tampopo 1985
-
 Horse Thief, The (Dao ma zei) 1986
-
 Au Revoir Les Enfants (Goodbye Children) 1987
-
 Raising Arizona 1987
-
 Brightness (Yeelen) 1987
-
 Project A 2 ('A' gai wak juk jap) 1987
-
 Wings of Desire (Der Himmel uber Berlin) 1987
-
 Withnail and I 1987
-
 Princess Bride, The 1987
-
 Chinese Ghost Story, A (Sien nui yau wan) 1987
-
 Full Metal Jacket 1987
-
 Broadcast News 1987
-
 Babette's Feast (Babettes gaestebud) 1987
-
 Good Morning, Vietnam 1987
-
 Moonstruck 1987
-
 Wall Street 1987
-
 The Untouchables 1987
-
 Red Sorghum (Hong gao liang) 1987
-
 Fatal Attraction 1987
-
 The Dead 1987
-
 Housekeeping 1987
-
 Bull Durham 1988
-
 Hotel Terminus (Hotel Terminus: Klaus Barbie sa vie et son temps) 1988
-
 Women on the Verge of a Nervous Breakdown (Mujeres al borde de un ataque de nervios) 1988
-
 Vanishing, The (Spoorloos) 1988
-
 Alice (Neco z Alenky) 1988
-
 Ariel 1988
-
 Thin Blue Line, The 1988
-
 Akira 1988
-
 Fish Called Wanda, A 1988
-
 Tale of the Wind, A (Une historie de vent) 1988
-
 Naked Gun, The: From the Files of Police Squad! 1988
-
 Cinema Paradiso (Nuevo Cinema Paradiso) 1988
-
 Grave of the Fireflies (Hotaru no haka) 1988
-
 Big 1988
-
 Who Framed Roger Rabbit? 1988
-
 Decalogue, The (Dekalog) 1988
-
 Rain Man 1988
-
 Die Hard 1988
-
 Dangerous Liaisons 1988
-
 Dead Ringers 1988
-
 RoboCop 1987
-
 Distant Voices, Still Lives 1988
-
 Landscape in the Mist (Topio stin omichli) 1988
-
 Story of Women (Une affaire de femmes) 1988
-
 The Accidental Tourist 1988
-
 Drowning by Numbers 1988
-
 When Harry Met Sally... 1989
-
 Crimes and Misdemeanors 1989
-
 Batman 1989
-
 Field of Dreams 1989
-
 Glory 1989
-
 Cook, The Thief, His Wife & Her Lover, The 1989
-
 My Left Foot 1989
-
 Killer, The (Dip huet seung hung) 1989
-
 Drugstore Cowboy 1989
-
 Asthenic Syndrome, The (Astenicheskiy sindrom) 1989
-
 Do the Right Thing 1989
-
 Unbelievable Truth, The 1989
-
 Roger & Me 1989
-
 Sex, Lies, and Videotape 1989
-
 City of Sadness, A (Bei qing cheng shi) 1989
-
 Say Anything 1989
-
 Trust 1990
-
 No Fear, No Die (S'en fout la mort) 1990
-
 GoodFellas 1990
-
 Close-Up (Nema-ye Nazdik) 1990
-
 King of New York 1990
-
 Pretty Woman 1990
-
 Dances with Wolves 1990
-
 Henry: Portrait of a Serial Killer 1990
-
 Archangel 1990
-
 Total Recall 1990
-
 Edward Scissorhands 1990
-
 Europa Europa (Hitlerjunge Salomon) 1990
-
 Reversal of Fortune 1990
-
 Jacob's Ladder 1990
-
 Boyz N the Hood 1991
-
 La Belle Noiseuse (The Beautiful Troublemaker) 1991
-
 Rapture, The 1991
-
 Brighter Summer Day, A (Gu ling jie shao nian sha ren shi jian) 1991
-
 JFK 1991
-
 Slacker 1991
-
 Once Upon a Time in China (Wong fei hung) 1991
-
 Thelma & Louise 1991
-
 My Own Private Idaho 1991
-
 Silence of the Lambs, The 1991
-
 Terminator 2: Judgment Day 1991
-
 Delicatessen 1991
-
 Double Life of Veronique, The (La double vie de Veronique) 1991
-
 Tongues Untied 1989
-
 Raise the Red Lantern (Da hong deng long gao gao gua) 1991
-
 Hearts of Darkness: A Filmmaker's Apocalypse 1991
-
 Naked Lunch 1991
-
 Romper Stomper 1992
-
 Strictly Ballroom 1992
-
 Player, The 1992
-
 Reservoir Dogs 1992
-
 Glengarry Glen Ross 1992
-
 Tale of Winter, A (Conte d'hiver) 1992
-
 Unforgiven 1992
-
 Center Stage (Yuen Ling-yuk) 1992
-
 Man Bites Dog (C'est arrive pres de chez vous) 1992
-
 Crying Game, The 1992
-
 Bram Stoker's Dracula 1992
-
 Candyman 1992
-
 Aileen Wuornos: The Selling of a Serial Killer 1992
-
 Blue Kite, The (Lan feng zheng) 1993
-
 Philadelphia 1993
-
 Puppetmaster, The (Xi meng ren sheng) 1993
-
 Short Cuts 1993
-
 Schindler's List 1993
-
 Three Colors: Blue (Trois couleurs: Bleu) 1993
-
 Farewell My Concubine (Ba wang bie ji) 1993
-
 Groundhog Day 1993
-
 Piano, The 1993
-
 Wedding Banquet, The (Xi yan) 1993
-
 Thirty-Two Short Films About Glenn Gould 1993
-
 Jurassic Park 1993
-
 The Lion King 1994
-
 The Last Seduction 1994
-
 Wild Reeds (Les roseaux sauvages) 1994
-
 Crumb 1994
-
 Heavenly Creatures 1994
-
 Pulp Fiction 1994
-
 Three Colors: Red (Trois couleurs: Rouge) 1994
-
 Natural Born Killers 1994
-
 Muriel's Wedding 1994
-
 The Adventures of Priscilla, Queen of the Desert 1994
-
 Hoop Dreams 1994
-
 Satantango 1994
-
 Clerks 1994
-
 Four Weddings and a Funeral 1994
-
 Forrest Gump 1994
-
 Through the Olive Trees (Zire darakhatan zeyton) 1994
-
 The Shawshank Redemption 1994
-
 Dear Diary (Caro diario) 1994
-
 Chungking Express (Chung Hing sam lam) 1994
-
 The Kingdom (Riget) 1994
-
 Braveheart 1995
-
 Deseret 1995
-
 Babe 1995
-
 Se7en 1995
-
 Smoke 1995
-
 The White Balloon (Badkonake sefid) 1995
-
 Underground 1995
-
 Dilwale Dulhania Le Jayenge (The Brave Heart Will Take the Bride) 1995
-
 Cyclo (Xich lo) 1995
-
 Clueless 1995
-
 Safe 1995
-
 Heat 1995
-
 Toy Story (as part of Toy Story trilogy) 1995
-
 Toy Story 2 (as part of Toy Story trilogy) 1999
-
 Toy Story 3 (as part of Toy Story trilogy) 2010
-
 Dead Man 1995
-
 The Usual Suspects 1995
-
 Zero Kelvin (Kjaerlighetens kjotere) 1995
-
 Casino 1995
-
 Strange Days 1995
-
 Fargo 1996
-
 Gabbeh 1996
-
 Three Lives and Only One Death (Trois vies & une seule mort) 1996
-
 Shine 1996
-
 Scream 1996
-
 Secrets and Lies 1996
-
 TheEnglish Patient 1996
-
 Lone Star 1996
-
 Breaking the Waves 1996
-
 Independence Day 1996
-
 The Pillow Book 1996
-
 Ice Storm, The 1997
-
 Fireworks (Hana-bi) 1997
-
 Boogie Nights 1997
-
 L.A. Confidential 1997
-
 Funny Games 1997
-
 Open Your Eyes (Abre los ojos) 1997
-
 The Sweet Hereafter 1997
-
 Titanic (1997)
-
 Taste of Cherry (Ta'm e guilass) 1997
-
 Deconstructing Harry 1997
-
 Happy Together (Chun gwong cha sit) 1997
-
 Princess Mononoke (Mononoke-hime) 1997
-
 Fast, Cheap and Out of Control 1997
-
 The Butcher Boy 1997
-
 Kundun 1997
-
 Mother and Son (Mat i syn) 1997
-
 Saving Private Ryan 1998
-
 Run Lola Run (Lola Rennt) (1998)
-
 Rushmore 1998
-
 The Celebration (Festen) 1998
-
 Buffalo '66 1998
-
 Ringu 1998
-
 Happiness 1998
-
 The Thin Red Line 1998
-
 Tetsuo (1989)
-
 Lock, Stock and Two Smoking Barrels 1998
-
 Pi 1998
-
 The Idiots (Idioterne) 1998
-
 Sombre 1998
-
 There's Something About Mary 1998
-
 The Big Lebowski 1998
-
 The Blair Witch Project 1999
-
 Being John Malkovich 1999
-
 The Sixth Sense 1999
-
 Three Kings 1999
-
 Magnolia 1999
-
 Fight Club 1999
-
 Audition (Odishon) 1999
-
 American Beauty 1999
-
 Beau Travail 1999
-
 All About My Mother (Todo sobre mi madre) 1999
-
 The Matrix 1999
-
 Taboo (Gohatto) 1999
-
 Rosetta 1999
-
 The Wind Will Carry Us (Bad ma ra khahad bord) 1999
-
 Time Regained (Le temps retrouve) 1999
-
 Attack the Gas Station! (Juyusu seubgyuksageun) 1999
-
 Eyes Wide Shut 1999
-
 The Gleaners & I (Les glaneurs et la glaneuse) (2000)
-
 In the Mood for Love (Fa yeung nin wa) (2000)
-
 Gladiator (2000)
-
 Kippur (2000)
-
 Yi Yi (A One and a Two) (2000)
-
 Requiem for a Dream (2000)
-
 Amores Perros (2000)
-
 Memento (2000)
-
 Crouching Tiger, Hidden Dragon (Wo hu cang long) (2000)
-
 Nine Queens (2000)
-
 The Captive (La captive)(2000)
-
 Ali Zaoua: Prince of the Streets (Ali Zaoua, prince de la rou) (2000)
-
 Meet the Parents (2000)
-
 Signs & Wonders (2000)
-
 Traffic (2000)
-
 Dancer in the Dark (2000)
-
 O Brother, Where Art Thou? (2000)
-
 The Lord of the Rings: The Fellowship of the Ring    (2001)
-
 The Lord of the Rings: The Two Towers   (2002)
-
 The Lord of the Rings: The Return of the King   (2003)
-
 Spirited Away (Sen to Chihiro no kamikakushi)   (2001)
-
 No Man's Land  (2001)
-
 Amelie (Le fabuleux destin d'Amelie Poulain)  (2001)
-
 What Time Is It Over There? (Ni na bian ji dian)  (2001)
-
 Y Tu Mama Tambien (And Your Mother, Too)    (2001)
-
 Kandahar (Safar e Ghandehar)    (2001)
-
 The Piano Teacher (La pianiste)   (2001)
-
 The Son's Room (La stanza del figlio)   (2001)
-
 Moulin Rouge!      (2001)
-
 Monsoon Wedding      (2001)
-
 Fat Girl (A ma soeur!)   (2001)
-
 Mulholland Dr.   (2001)
-
 The Royal Tenenbaums (2001)
-
 Lantana  (2001)
-
 A.I.: Artificial Intelligence (2001)
-
 Gangs of New York (2002)
-
 Russian Ark (Russkiy kovcheg) (2002)
-
 Bowling for Columbine (2002)
-
 City of God (Cidade de Deus) (2002)
-
 Talk to Her (Hable con ella) (2002)
-
 The Pianist(2002)
-
 Adaptation. (2002)
-
 Far from Heaven (2002)
-
 Chicago (2002)
-
 Hero (Ying xiong) (2002)
-
 Distant (Uzak)(2002)
-
 Rabbit-Proof Fence (2002)
-
 Irreversible (2002)
-
 Bus 174 (Onibus 174) (2002)
-
 Elephant (2003)
-
 Aileen: Life and Death of a Serial Killer (2003)
-
 Oldboy (Oldeuboi) (2003)
-
 Goodbye Lenin! (Good Bye Lenin!) (2003)
-
 Osama (2003)
 The Barbarian Invasions (Les invasions barbares) (2003)
 Kill Bill: Vol. 1 (2003)
@@ -4519,3 +3423,8 @@ Son of Saul (2015)
 Spotlight (2015)
 Tangerine (2015)
 Mad Max: Fury Road (2015)
+
+
+
+
+
