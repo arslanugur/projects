@@ -6,54 +6,54 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
       - Subordinating Conjunctions		dependent/independent + independent
 
 
+
 ---> COORDINATING CONJUNCTIONS - FANBOYS
---> FOR
-Shows a reason or purpose. 
-Using 'for' in this way can often be seen as quite formal, 
-and so is usually replaced with the word 'because', 'since', or 'as'.
-      The money I earned is gone, for I have spent it all.
+	--> FOR
+		Shows a reason or purpose. 
+		Using 'for' in this way can often be seen as quite formal, 
+		and so is usually replaced with the word 'because', 'since', or 'as'.
+      			The money I earned is gone, for I have spent it all.
 
---> AND
-Connects two similar ideas.
-      I have to be at work, and the doctor's.
-            I have to be at work
-            I have to be at the doctor's.
-      I'm going to learn how to play the guitar and piano.
-            I'm going to learn how to play the guitar.
-            I'm going to learn how to play the piano.
+	--> AND
+		Connects two similar ideas.
+      			I have to be at work, and the doctor's.
+            			I have to be at work
+            			I have to be at the doctor's.
+      			I'm going to learn how to play the guitar and piano.
+           			I'm going to learn how to play the guitar.
+            			I'm going to learn how to play the piano.
             
---> NOR
-Now can be interchanged with 'neither' and compares a negative, contrasting Idea. 
-Essentially, it is the opposite of 'and'.
-      I cannot go to work, nor the doctor's.
-      I'm not going to learn to play the guitar, nor the piano.
+	--> NOR
+		Now can be interchanged with 'neither' and compares a negative, contrasting Idea. 
+		Essentially, it is the opposite of 'and'.
+      			I cannot go to work, nor the doctor's.
+      			I'm not going to learn to play the guitar, nor the piano.
 
---> BUT
-Compares to contrasting ideas or highlights an exception.
-      I can go to the pool, but I won't swim.
-            Idea:             I can go to the pool
-            Contrasting idea: I won’t swim.
+	--> BUT
+		Compares to contrasting ideas or highlights an exception.
+      			I can go to the pool, but I won't swim.
+            		Idea:             I can go to the pool
+            		Contrasting idea: I won’t swim.
 
-It can also be used in a way that says, ‘not this, but that’.
-      The noise wasn’t coming from a computer, but rather a phone.
-      
-      I know you have had a bad day but you don't have to take it out on me 
+		It can also be used in a way that says, ‘not this, but that’.
+      			The noise wasn’t coming from a computer, but rather a phone.
+       			I know you have had a bad day but you don't have to take it out on me 
 
---> OR
-Or highlights two choices.
-      You can choose a blue jumper or a pink jumper.
-      They were either angry or sad.
-      Do you want vanilla or chocolate cake?
+	--> OR
+		Or highlights two choices.
+      			You can choose a blue jumper or a pink jumper.
+      			They were either angry or sad.
+      			Do you want vanilla or chocolate cake?
 
---> YET
-Yet is used in a way to show an exception or a contrast to an idea.
-      There are five cars, yet none of them are working.
-      I drank a full bottle of water, yet I still felt thirsty.
+	--> YET
+		Yet is used in a way to show an exception or a contrast to an idea.
+   			There are five cars, yet none of them are working.
+    			I drank a full bottle of water, yet I still felt thirsty.
 
---> SO
-So is used to show a reaction or consequence.
-      I ate a lot of cookies, so there are none left.
-      I was feeling anxious, so I went home.
+	--> SO
+		So is used to show a reaction or consequence.
+    			I ate a lot of cookies, so there are none left.
+			I was feeling anxious, so I went home.
 
 
 
@@ -120,17 +120,20 @@ So is used to show a reaction or consequence.
 		- we'll have both the cheesecake and the chocolate cake
 		- he can both sing and play the violin
 		- I am finished with both my English essay and my history essay
+
 	--> EITHER ... OR ...			--> ya ... ya da ...
 		- a man either cheats or he doesn't.
 		- either come in, or go think somewhere else
 		- she either doesn't understand or is pretending
 		- you can have either tea or coffee 
+		
 	--> NEITHER ... NOR ...			--> ne ... ne de ...
 		- by the way, neither Alex nor I drink
 		- he heard neither the clock nor the birds
 		- they knew neither her name nor anything about her
 		- he will neither visit the museum nor attend the conference
 		- neither will he visit the museum nor will he attend the conference
+	
 	--> NOT ONLY ... BUT ALSO / AS WELL	--> sadece ... değil, aynı zamanda ...
       		- not only John but also George is from London
 		- not only did he invite his cousins but also his close friends 
@@ -138,28 +141,39 @@ So is used to show a reaction or consequence.
 
       	--> SO ... AS				--> kadar ... çok
       		- he can’t run so fast as George
+	
 	--> SO ... THAT				--> öyle ... ki
 		- he spoke so quickly that nobody understood what he said
+	
 	--> AS ... AS				--> kadar
 		- the flat that we will buy must be as cheap as possible
 		- he can’t run as fast as George
 		- Jane is as rich as Peter
+	
 	--> SUCH ... THAT			--> öyle ... ki
 		- he is such a good player that many teams are eager to transfer him
+	
 	--> THE MORE ... THE MORE		--> ne kadar ... o kadar ...
 		- the more you work, the more you earn
 		- the longer they play, the more they lose- ne kadar uzun oynarlarsa o kadar kaybederler
+		- the more a man has in himself, the less he will want from other people
+			bir insan kendi içinde ne kadar çok şeye sahipse, diğer insanlardan o kadar az şey isteyecektir 
+	
 	--> NO SOONER ... THAN 			--> daha erken yapmamıştım, demeye kalmadan, yapar yapmaz
 		- he had no sooner opened his eyes than the phone rang
 		- no sooner had he opened his eyes than the phone rang
+	
 	--> WHETHER ... OR			--> ya da sevmesin	
 		- he will have to cooperate with us, whether he likes us or not
 		- Idk whether I will come or not
+	
 	--> RATHER ... THAN
 		- i would rather stay at home than go out tonight
+	
 	--> HARDLY ... WHEN			--> zar zor	
 		- he had hardly found a job when he got ill
 		- hardly had he found a job when he got ill
+	
 	--> SCARCELY ... WHEN			--> ucu ucuna, ancak
 		- he had scarcely gone to bed when the phone rang
 		- scarcely had he gone to bed when the phone rang
@@ -167,77 +181,213 @@ So is used to show a reaction or consequence.
 
 ---> SUBORDINATING CONJUNCTIONS
 --> Time
-	after, before, when, while, as, by the time, since, until, as soon as, so long as, eventually 
-	whenever, every time (that), the first time (that), the last time (that), the next time (that)
-	now that, meanwhile, in the meantime, in the past, currently, presently, at last, immediately, finally
-	
-		until/till	e kadar		I will stay up until midnight tomorrow
+		after			-den sonra
+		before			-den önce
+		when			-dığı zaman
+		while			iken
+		as			iken
+		by the time		zamana kadar
+		since			-den beri
+						since when did we start following the rules?		ne zamandan beri kurallara uyduk?
+		until / till		-a kadar
+						I will stay up until midnight tomorrow
 						I wont say much till it’s time to go to bed
-		since		den beri	since when did we start following the rules?		ne zamandan beri kurallara uyduk?
+		eventually 		er ya da geç
+		whenever		ne zaman olursa
+		every time (that)	ne zaman .. olsa
+						Every time we meet a problem, it always seems to be related to housing
+						Naturally i will come to you for advice whenever i feel in need of some
+		the first time (that)	ilk kez
+		the last time (that)	son kez
+		the next time (that)	bir dahaki sefere
+		now that		mademki, -dığından
+		meanwhile		o esnada
+		in the meantime		bu arada
+		in the past		geçmişte
+		currently		şu anda
+		presently		şu anda
+		immediately		hemen, derhal
+		once			yapar yapmaz
+						once the Soviet Union collapsed, Russia Federation was founded in 1991
+		as soon as		olur olmaz, yapar yapmaz
+						I am going to get out and have a drink as soon as I have finished with the work
+		as long as / so long as	-dığı sürece
+						As long as it is raining, i think i will stay at home
+						You can stay with us as long as you want to
+		at last			sonunda
+		finally			en sonunda 
 
-		Whenever/every time – ne zman ..-se,-sa
-					Every time we meet a problem, it always seems to be related to housing
-					Naturally i will come to you for advice whenever i feel in need of some
-
-		As long as / so long as – dığı sürece
-					As long as it is raining, i think i will stay at home
-					You can stay with us as long as you want to
-
-		as soon as/once – yapar yapmaz
-					I am going to get out and have a drink as soon as i have finished with the work
-					Once the Soviet Union collapsed, Russia Federation was founded in 1991
 
 
 --> Emphasis
-	indeed, obviously, particularly, in particular, especially, clearly, importantly, 
-	absolutely, definitely, without a doubt, undoubtedly, never, it should be noted
+		indeed			aslında
+		obviously		açıkçası
+		particularly		özellikle de
+		in particular		özellikle
+		especially		özellikle
+		clearly			açıkça
+		importantly		daha da önemlisi
+		absolutely		kesinlikle
+		definitely		kesinlikle
+		without a doubt		şüphesiz
+		undoubtedly		şüphesiz
+		never			asla
+		it should be noted	belirtilmelidir ki 
 
 
 --> Addition
-	so that, even so, in spite of, regardless of, due to, by means of, nonetheless, further, furthermore,
-	also, too, besides, finally, last, apart from, along with, additionally, in addition to this, then,
-	moreover, as well as (that), what’s more, not only…but also,
+		so that			böylece
+		even so			olsa bile
+		in spite of		karşın, e rağmen
+		regardless of		gözetilmeksizin, bakılmaksızın
+		due to			nedeniyle
+		by means of		aracılığıyla
+		nonetheless		her şeye rağmen
+		further			daha ötesi
+		furthermore		üstelik
+		also			ayrıca
+		too			hem de
+		besides			dışında, yanı sıra
+		finally			en sonunda
+		last			en son
+		apart from		dışında
+		along with		ile birlikte
+		additionally		bunlara ek olarak
+		in addition to this	buna ek olarak
+		then			ondan sonra
+		moreover		dahası
+		as well as (that)	yanı sıra
+		what’s more		dahası olan şey
+		not only ... but also	sadece ... değil, aynı zamanda
 
 
 --> Summary
-	in short, in the word, anyway, in brief, briefly, it seems, clearly, in sum, to sum up, in summary, 
-	to summarize, after all, in general, in conclusion, altogether, to conclude
+		in short		kısacası
+		in the word		tek kelimeyle
+		anyway			her neyse
+		in brief		kısaca
+		briefly			kısaca
+		it seems		anlaşılan
+		clearly			açıkça
+		in sum			toplamda
+		to sum up		sonuç olarak
+		in summary		özetle
+		to summarize		özetlemek
+		after all		herşeye rağmen, nihayet
+		in general		genel olarak
+		in conclusion		sonuç olarak
+		altogether		tamamen
+		to conclude		sonuçlandırmak 
+
+
 
 
 --> Order
-	firstly, secondly, thirdly, finally, at this time, following, previously, before, 
-	subsequently, above all, last but not least, first and foremost
+		firstly			ilk olarak
+		secondly		ikinci olarak
+		thirdly			üçüncü olarak
+		finally			en sonunda, sonuçta
+		at this time		şu anda
+		following		takip edilen, aşağıdaki
+		previously		önceki
+		before			önceden
+		subsequently		sonradan
+		above all		her şeyden önce
+		last but not least	sonuncu ama bir o kadar önemli
+		first and foremost	ilk ve en önemli 
 
 
 --> Result (Consequence)
-	as a result, as a consequence, therefore = thus, consequently, hence, for this reason, due to, 
-	so, eventually, that’s why 
-
+		as a result		sonuç olarak
+		as a consequence	sonuç olarak
+		therefore = thus	bu nedenle = böylece
+		consequently		sonuç olarak
+		hence			bundan dolayı, bunun sonucu olarak
+		for this reason		bu yüzden
+		due to			nedeniyle
+		so			bu yüzden
+		eventually		er ya da geç
+		that’s why		çünkü, bu yüzden 
 
 --> Illustration
-	like, such as, for one thing, for instance, for example, that is, specifically, illustrated by, 
-	in particular, including, namely, in this case, proof of this, to demonstrate, to clarify, to illustrate
+		like			gibi
+		such as			gibileri
+		for one thing		örneğin bir şey için		
+		for instance		örneğin
+		for example		örneğin
+		that is			yani
+		specifically		özellikle
+		illustrated by		tarafından gösterilen
+		in particular		özellikle
+		including		dahil olmak üzere
+		namely			yani, şöyle ki
+		in this case		yani bu durumda
+		proof of this		bunun kanıtı
+		to demonstrate		göstermek
+		to clarify		açıklığa kavuşturmak
+		to illustrate		açıklamak
 
 
 --> Comparison
-	than, rather than, whether or not, as much as, whereas, similarly, equally, likewise, just as, just like, 
-	similar to, same as, by the same token, in like manner, like, another .. like, in the same way, 
-	as with, comparable
-
+		than			yerine
+		rather than		yerine
+		whether or not		olsun ya da olmasın
+		as much as		olduğu kadar
+		whereas			oysa
+		similarly		benzer şekilde
+		equally			eşit olarak
+		likewise		aynı şekilde
+		just as			tıpkı
+		just like		tıpkı
+		similar to		-a benzer
+		same as			aynı
+		by the same token	aynı şekilde
+		in like manner		benzer şekilde
+		like			benzer
+		another .. like		bir diğer .. gibi
+		in the same way		aynı şekilde
+		as with			olduğu gibi
+		comparable		karşılaştırılabilir 
 
 
 --> Contrast (Concession and Opposition)
-	but, yet, whereas, while, on the one hand, on the other hand
-	as opposed to, on the contrary, otherwise, instead of
-	even if, no matter, whatever, wherever, whenever, but for
-	however + adj/ adv
-	but ... anyway, but ... still, yet ... still
-	nevertheless, nonetheless
-	apart from, admittedly, all the same, up to a point, even so
+		but
+		yet
+		whereas
+		while
+		on the one hand
+		on the other hand
+		as opposed to
+		on the contrary
+		otherwise
+		instead of
+		even if
+		even so
+		no matter
+		whatever
+		wherever
+		whenever
+		but for
+		however + adj/ adv
+		but ... anyway
+		but ... still
+		yet ... still
+		nevertheless
+		nonetheless
+		apart from
+		admittedly
+		all the same
+		up to a point
+		
+		although =  much as
 
-	although -->  much as
-
-	although, though, even though, much as, even if, despite the fact that, in spite of the fact that - ... e rağmen, ... se bile
+		although
+		though
+		even though
+		much as
+		even if
+		despite the fact that
+		in spite of the fact that - ... e rağmen, ... se bile
 	
 		although + clause 	--> ... e rağmen	he can’t speak English although he has been attending a course for two years
 		though + clause 	--> ... e rağmen	though I knew the answer, I didn’t tell it
@@ -250,17 +400,32 @@ So is used to show a reaction or consequence.
 
 --> Condition
 	CÜMLE ALANLAR
-	on condition that, provided that, providing that – şartıyla, koşuluyla
-	so long as, as long as – dığı sürece
-	unless – mezse, mazsa (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
+	on condition that	şartıyla
+	provided that		şartıyla
+	providing that		sağlanması şartıyla, koşuluyla
+	so long as		sürece
+	as long as		sürece
+					as long as it takes - ne kadar gerekirse
+	unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 
-	if, only if, assuming that, in that case, in case (that), even if
-	in the event (that), supposing, if so - eğer öyleyse
-
-	whether or not, in order to, so that, otherwise, or (else)
+	if			eğer
+	only if			yalnızca
+	assuming that		varsayarsak
+	in that case		bu durumda
+	in case (that)		durumunda
+					in case he comes back
+	even if			olsa bile
+	in the event (that)	durumunda
+	supposing		varsayalım
+	if so			eğer öyleyse
+	whether or not		öyle ya da böyle
+	in order to		amacıyla
+	so that			böylece
+	otherwise		aksi halde
+	or (else)		veya (başka) 
 	
-	in case he comes back
-	as long as it takes - ne kadar gerekirse
+	
+	
 	
 
 --> Reason (Purpose / Cause and Effect)
@@ -319,7 +484,11 @@ So is used to show a reaction or consequence.
 
 
 --> Opinion
-	in my opinion, as far as i’m concerned, to my mind, i think, it seems to me that
+	in my opinion
+	as far as i’m concerned
+	to my mind
+	i think
+	it seems to me that
 		- at least, as far as I can see, he'll be fine
 		- there was no other way to look at it as far as she was concerned
 		- the wheels started spinning in my mind
@@ -467,4 +636,6 @@ as though - .. mış gibi
 just as - .. dığı gibi
 as a result - sonuç olarak
 as a result of - .. neticesinde
+
+
 
