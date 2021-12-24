@@ -63,7 +63,7 @@ she is good at English				she is good in English
 to fit		uymak, oturmak, uydurmak	my glasses doesn’t fit
 to match	eşleştirmek, uygun olmak	your blue shirt matches your blue eyes
 to suit		yakışmak, uymak			that dress really suits you
-
+	I think these shoes really 'suit' me! They 'fit' me so well and they even 'match' my top!
 
 
 tough		(adj)	zor, sağlam, kuvvetli
@@ -140,6 +140,25 @@ concerns over		üzerine endişeler
 a growing concern for	için artan endişe
 
 
+about			ilgili, hakkında
+regarding		ilgili, hakkında
+as regards		ilgili, hakkında
+with respect to		ilgili, hakkında
+in relation to		ilgili, hakkında
+concerning		ilgili, hakkında
+
+
+anymore		--> means any longer or nowadays
+			I don't want to talk about it anymore
+			sorry, I forgot. you don't need me anymore
+			I don't have to wait for it anymore
+any more	--> means sth additional or further
+			I don't want to hear any more of your lies
+			we can't get any more people onto this train
+			we can't take any more bookings
+
+
+
 data --> information --> knowledge --> insight      --> wisdom   --> conspiracy theory
 veri --> haber       --> bilgi     --> içgörü/sezgi --> bilgelik --> komplo teorisi
 
@@ -152,6 +171,11 @@ you used to be mad about me - deli olmak, deli gibi sevinmek
 -not to laze about - tembellik etme - i wasnt lazing about. I tripped
 I don't care about your dad. I care about Mona
 dont hang about - oyalanma, aylak aylak dolaşma
+put on # take off
+pick up # drop off
+get on # get off
+run after # run away
+speed up # slow down
 
 
 look for 	a job - iş aramak
@@ -241,6 +265,9 @@ turn	to the left / right
 
 
 PHRASES
+I am from İstanbul, born and bred - doğma büyüme İstanbulluyum
+how so? - nasıl yani
+
 I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
 don't lose momentum
 house always win
@@ -273,6 +300,28 @@ the event did not go well -by any means-
 I am not -in the least- hungry
 I have no sympathy -whatsoever-
 under the circumstances should you travel alone
+
+no matter what you say, I will never believe
+whatever you say, I will never believe
+	ne söylersen söyle; asla inanmayacağım
+you are as old as you feel
+
+speak less, listen more. react less, observe more
+inside every person you know, there is a person you don't know
+you deserve more than a maybe or someday
+change is uncomfortable but necessary
+I am at a point in my life where I just want to be very quiet
+teach your heart to accept disappointments even from people you love
+everything has its own time
+where are you taking me? - beni nereye götürüyorsun?
+everything that was once thought to be impossible is happening now
+	bir zamanlar imkansız olduğu düşünülen her şey şimdi oluyor
+I have nothing to hide
+things happen - olur böyle şeyler
+things happen for a reason - her şeyin bir sebebi var
+yesterday is gone, tomo is a mystery, today is a blessing - dün gitti, yarın bir gizem, bugün bir lütuf
+to some extent what she said is correct - söylediği şey belli bir oranda doğru
+
 what precisely does the job involve?
 roughly how many customers do you get in a day?
 approximately how far is it?
@@ -693,6 +742,24 @@ there we go. Mayday, Mayday, we have been hijacked by pirates
 I thought I raised you better than this
 every day you edge closer to becoming a supervillian - süper kötü olmaya hergün biraz daha yaklaşıyorsun
 you have to wait till I am asleep
+addiction is giving up everything for one thing, Recovery is giving up one thing for everything
+get a life - rahat ver, işine bak
+just in case - ne olur ne olmaz
+don't mind - kafana takma
+make yourself useful - bir işe yara
+
+
+
+---> The 48 Laws of Power
+never put too much trust in friends, learn how to use enemies
+always say less than necessary
+so much depends on reputation - guard it with your life
+win through your actions, never through argument
+use absence to increase respect and honor
+do not build fortresses to protect yourself - isolation is dangerous
+make your accomplishments seem effortless
+master the art of timing
+
 
 
 Problem Example
