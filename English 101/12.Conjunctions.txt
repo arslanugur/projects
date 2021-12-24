@@ -1,7 +1,7 @@
 CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, @arslanuguur
       - Coordinating Conjunctions		düzenleyen bağlaçlar		independent + independent
             - for, and, nor, but, or, yet, so
-      - Correlative Conjunctions		ikili bağlaçlar
+      - Correlative Conjunctions		bağıntılı bağlaçlar (ikili bağlaçlar)
             -- too, also, so, also
       - Subordinating Conjunctions		bağımlı bağlaçlar		dependent/independent + independent
 
