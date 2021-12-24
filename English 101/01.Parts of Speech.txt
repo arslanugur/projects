@@ -1,4 +1,4 @@
----> PARTS OF SPEECH											prepared by Uğur ARSLAN, @arslanuguur
+---> PARTS OF SPEECH												​ prepared by Uğur ARSLAN, @arslanuguur
 
 		Turkish		Function / Job    	                Example
               	--------------------------------------------------------------------------------------------
