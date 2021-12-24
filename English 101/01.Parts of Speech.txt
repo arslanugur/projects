@@ -36,7 +36,7 @@ Determiner	Niteleyici	--> indicate reference			- - -
 be as a main verb (Present Simple)		am		is		are			* he = Jack, he = 25, he = architect, he = single, he = here
 be as a main verb (Past Simple)			was		was		were			* his visit = how / short, it = certain, it = sunny
 be as a main verb (Future Simple)			      will be					* he = at home, he = in Los Angeles, he = from United States
-be as a main verb (Present Perfect)			   has/have been				* this = Jack, that = ship, these = people, those = ships
+be as a main verb (Present Perfect)			   has/have been				* this = Jack, that = ship, these = people, those = ships, this week = good
 be as a main verb (Past Perfect)			      had been					* there = three people, there = a building, there = a car
 
 --------------------------------------------------------------------------------------------------------
