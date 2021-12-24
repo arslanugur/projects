@@ -222,7 +222,8 @@ So is used to show a reaction or consequence.
 --> Comparison
 	than, rather than, whether or not, as much as, whereas, similarly, equally, likewise, just as, just like, 
 	similar to, same as, by the same token, in like manner, like, another .. like, in the same way, 
-	as with, comparable, as much as
+	as with, comparable
+
 
 
 --> Contrast (Concession and Opposition)
@@ -240,10 +241,10 @@ So is used to show a reaction or consequence.
 	
 		although + clause 	--> ... e rağmen	he can’t speak English although he has been attending a course for two years
 		though + clause 	--> ... e rağmen	though I knew the answer, I didn’t tell it
-		even though + clause	--> ... e rağmen	even though there weren’t enough funnds, the government decided to make new investments
+		even though + clause	--> ... e rağmen	even though there weren’t enough funds, the government decided to make new investments
 		despite + noun 		--> ... e rağmen	he went out despite the rain
 								he couldn’t succeed despite his effort
-		in spite of 		--> ... e rağmen	in spite of the rain, they had the party outside
+		in spite of + noun	--> ... e rağmen	in spite of the rain, they had the party outside
 								he decided to go in spite of my objection
 								
 
