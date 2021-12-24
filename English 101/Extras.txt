@@ -348,6 +348,8 @@ yoluma dikenler ekmeyin, dünya halidir, belki yarın bana yalınayak gelirsiniz
 everyone here has the entirety of mankind's knowledge in their pockets - hepimiz insanlığın sahip olduğu bilgileri arka cebimizde taşıyoruz
 fine with me - bence sakınası yok
 we apologize for the delay - gecikme izin özür dileriz
+ad finem fidelis - sonsuza dek sadık, dava yoldaşı, kan kardeşliği
+
 
 court adjourned - mahkeme ertelendi
 just in case you are wondering
@@ -378,12 +380,15 @@ traceable
 we are back in business - tekrar işe koyuluyoruz
 having our own business had always been our greatest dream - kendi işimzi yapmak, her zman en büyük hayalimiz olmuştu
 if you know why you're doing it, then it is almost irrelevant what you are doing - bir şeyi neden yaptığınızı bildiğiniz zaman, ne yaptığınızın önemi yoktur
-
+Since I don't know what your feelings are, I don't know if these feelings have a counterpart in me
+		Duygularının ne olduğunu bilmediğim için, bu duyguların bende karşılığı var mı bilmiyorum
+if you are good, one day you may just catch a glimpse of the Smurfs
 
 "when you make a plan, the possibility that it will fail is about 50 percent.
 either it works or it doesn't. if you dont make a plan, the chances of failure are zero percent.
 life is what happens when you are making other plans. it never happens the way you think.
 maybe sometimes you should just stop planning and "start doing"
+
 I am not buying it honey - yemezler canım
 don't mess with me - bana bulaşma
 where did you get it - nereden aldın
@@ -579,8 +584,7 @@ I need to imagine sth that make you smile - seni gülümseten şeyi hayal etmen 
 you nailed it - tam isabet
 I will squeeze every second, every second till its last drop - kalan hayatımın son damlasına kadar sıkıp içeceğim
 once you have done that, we will have won this war - bunu başardığın an bu savaşı biz kazanacağız
-The Land Property Records - Tapu Sicil Merkezi / Kayıtları
-no matter how tough things get, they still love eaach other - yaşananlar bir yana bunlar halen birbirini seviyor
+no matter how tough things get, they still love each other - yaşananlar bir yana bunlar halen birbirini seviyor
 marvelous
 snap out of it!
 wishful thinking
@@ -657,8 +661,57 @@ keep secrets
 sing in the shower
 compliment the meal when you are a guest in someone's home
 wave at the children on a school bus
+you guys figure it out for yourselves    siz aranızda halledin
+I will get into it somehow  bi şekilde hallederim
+if it is that important, let's share it with the whole class - o kadar önemli bir şey ise bütün sınıfla paylaşalım
+you sometimes have to do the exact opposite of what they expect, if you want someone's attention who isn't interested in you at all
+I am not involving my family - ailemi karıştırmam
+everything you do has a price. what are you willing to pay to do it?
+intruder
+a strong woman can do it all by herself, but a real man won't let her
+I gıt sth here - burda bişey yakaladım
+a devious one - sinsi biri
+these daredevils are about to do the unprecedented - bu babayiğitler emsali görülmemiş bir şeye kalkışacak
+make up the story you want - istediğin hikayeyi uydur
+he lives in the moment - anı yaşar
+what I am saying to all adults with children, if the cheese does come over here, protect those kids
+tüm çocuklu yetişkinlere söylüyorum, peynir buraya gelecek olursa çocuklarınızı koruyun
+traditions are a way of talking to the past - gelenekler geçmişle konuşmanın bir yoludur
+if I could make someone dead with my mind, it would be you - eğer aklımla birini öldürmüş olabilseydim, bu sen olacaktın
+the quicker she gets it, the easier it will be - ne kadar çabuk alışırsa o kadar kolay olur
+you must think me a fool - sen beni aptal mı sanıyorsun
+I will die before I give it up
+It is said that hunger develops intelligence, whereas satiety, on the contrary, dulls it
+	"açlığın zekâyı geliştirdiği, tokluğun ise tam tersine körelttiği söylenir" Lazarillo de Tormes
+Efforts attract me - çabalar beni kendine çeker
+every encounter in life happens at the right time, each one is not a coincidence, but a miracle
+that's life in the NFL - NFLde bu hayatın gerçeği
+you were kind of rough on him - ona biraz sert davrandın
+your major's french
+sometime you dont get what you want because you deserve better
+there we go. Mayday, Mayday, we have been hijacked by pirates
+I thought I raised you better than this
+every day you edge closer to becoming a supervillian - süper kötü olmaya hergün biraz daha yaklaşıyorsun
+you have to wait till I am asleep
 
 
+Problem Example
+-- what is the optimal algorithm? - or the schedule?
+-- there has to be lunch in there, a teacher never teaching four classes in a row, in the same section with this kid
+-- the number of constraints was unbelievable - inanılmaz sayıda kısıt vardı to sort the schedules of more than 400 students - düzenlemek
+-- noone could figure out how to make the class schedules work
+
+"oh well, uh, let's see, the belt's $49,95, minus 15%,
+			the jacket's $589,99.
+			the pants, $285,99, minus %10 on both
+			unfortunately, the shirt's not on sale, but I can knock off 5% from the $69,99.
+			the shoes were just marked down from $155,
+			so you're looking at $1,042.68." B. Campbell
+
+
+hard time require hard measures - zor zamanlar sert önlemler gerektirir
+all hell breaks loose - kızılca kıyamet koptu
+take the bitter with the better - her kötüden bir iyi çıkar
 
 
 
@@ -755,9 +808,7 @@ syringe - şırınga
 emergency - acil servis
 
 
-
-
-
+ 
 d) If clause
 If I had one million dollars now, I would buy a new jeep.
 If he were to invite us again, it would be a big surprise. 
@@ -1052,7 +1103,7 @@ what an as**ole - pu**un *e*i
 	result		-- share the outcome		sonucu paylaş
 	
 	
-🔻 Eisenhower Matrix: To Evaluate each task - herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi 
+🔻 Eisenhower Matrix: How to manage your time - To Evaluate each task - herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi 
 				    important
 				     	|
 		can I do it now?	|	delay / drop / delete 
@@ -1084,3 +1135,5 @@ external origin				opportunities	|	threats
 			
 
 🔻 http://www.tmco.com.tr/ise-alim-testleri/watson-glaser-elestirel-dusunme
+🔻 Gambler's fallacy - Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
