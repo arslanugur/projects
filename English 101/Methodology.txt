@@ -814,240 +814,222 @@
 
 
             TOTAL PHYSICAL RESPONSE METHOD
-James Asher
-- Language-Body Conversation
-- Body Movement (Physical)
-- L1 can be used
-- Teacher is director (Imperative)
-- Teacher commands, Students performs
-- Students stress level low
-- Error Tolerated
-- Sentence based syllabus (a Syllabus type)
-- Left and Right hemisphere of the brain
-- Listening, Speaking
+                James Asher
+                    - Language-Body Conversation
+                    - Body Movement (Physical)
+                    - L1 can be used
+                    - Teacher is director (Imperative)
+                    - Teacher commands, Students performs
+                    - Students stress level low
+                    - Error Tolerated
+                    - Sentence based syllabus (a Syllabus type) 
+                    - Left and Right hemisphere of the brain
+                    - Listening, Speaking
 
-- Öğrenciler ortamdan keyif alır (fun atmosphere) 
-- rahatlık önemli
-- öğrenciler bebekler gibi öğrensin
-- önce dinleme için zaman ver sonra konuşsun
-- öğretmendn emir cümleleri öğrenciler uygulasın
-- emir için karmaşık instructions verilmemeli
-- hata yapıldığında ders ortamı bölünmeden sonrasında düzelt
-- hatalar öğrenmenin parçasıdır
-- dersin çoğunluğunda hedef dil kullanılır
-- öğrenci öğretmen rol değişikliği (role reversal)
-- perfection aranmaz
-- fine tune (hatalar nazikçe düzeltilir)
-- action sequence (emirler ardarda verilir)
-- listening and speaking 
+                    - Öğrenciler ortamdan keyif alır (fun atmosphere) 
+                    - rahatlık önemli
+                    - öğrenciler bebekler gibi öğrensin
+                    - önce dinleme için zaman ver sonra konuşsun
+                    - öğretmendn emir cümleleri öğrenciler uygulasın
+                    - emir için karmaşık instructions verilmemeli
+                    - hata yapıldığında ders ortamı bölünmeden sonrasında düzelt
+                    - hatalar öğrenmenin parçasıdır
+                    - dersin çoğunluğunda hedef dil kullanılır
+                    - öğrenci öğretmen rol değişikliği (role reversal)
+                    - perfection aranmaz
+                    - fine tune (hatalar nazikçe düzeltilir)
+                    - action sequence (emirler ardarda verilir)
+                    - listening and speaking 
 
-- the importance of coordination between the action and speech (şunu biliyorsan koş gibi)
-- it is both humanistic and structural (= grammar)
-- first language acquisition is taken into account
-- comprehension is prioritized
+                    - the importance of coordination between the action and speech (şunu biliyorsan koş gibi)
+                    - it is both humanistic and structural (= grammar)
+                    - first language acquisition is taken into account
+                    - comprehension is prioritized
 
-Goals
-- creating a stress free learning environment to make students enjoy learning
-- making students respond to the commands physically (söylenenleri anlayıp tepki ver anla göster)
+                    Goals
+                    - creating a stress free learning environment to make students enjoy learning
+                    - making students respond to the commands physically (söylenenleri anlayıp tepki ver anla göster)
 
-Mother Tongue
-- rarely used
+                    Mother Tongue
+                    - rarely used
 
-Role of teacher
-- Director (söyle yapsınlar)
-- model for students
+                    Role of teacher
+                    - Director (söyle yapsınlar)
+                    - model for students
 
-Culture
-- Culture is component of the language learnt
-- Daily lives of the community of the target language
+                    Culture
+                    - Culture is component of the language learnt
+                    - Daily lives of the community of the target language
 
-Language Areas ( neler öğretiliyor)
-- grammar rules and vocabulary are paid special attention
-- comprehension is prioritized
-- pronunciation is delayed(suskunluk sonrası seviyeye gelir ondana sonra konuşturulur)
-- L, S, R, W
+                    Language Areas ( neler öğretiliyor)
+                    - grammar rules and vocabulary are paid special attention
+                    - comprehension is prioritized
+                    - pronunciation is delayed(suskunluk sonrası seviyeye gelir ondana sonra konuşturulur)
+                    - L, S, R, W
 
-Grammar
-- Impreratives (comprehension)
-- Producing commands
+                    Grammar
+                    - Impreratives (comprehension)
+                    - Producing commands
 
-Vocabulary
-- verbs have priority (emir verirken fiiler ön planda)
-- adj, nouns, conjunction, adverb are taught together with verbs
-- frequently used objects
-- chunks are used (chunk=sözcük öbekleri)
+                    Vocabulary
+                    - verbs have priority (emir verirken fiiler ön planda)
+                    - adj, nouns, conjunction, adverb are taught together with verbs
+                    - frequently used objects
+                    - chunks are used (chunk=sözcük öbekleri)
 
-Interaction
-- teacher-Student initially
-- Stu-Stu or Stu-Teacher later (öğretmene de emir)
+                    Interaction
+                    - teacher-Student initially
+                    - Stu-Stu or Stu-Teacher later (öğretmene de emir)
 
-Error treatmen
-- Regarding errors as a natural part of language learning process
-- tolerated initially (başlarda tolere edilir)
-- only major errors are corrected
-- Minor ones are also corrected at later stages
+                    Error treatmen
+                    - Regarding errors as a natural part of language learning process
+                    - tolerated initially (başlarda tolere edilir)
+                    - only major errors are corrected
+                    - Minor ones are also corrected at later stages
 
-Syllabus type
-- A sentence-based syllabus focusing on grammar and lexis (cümle kurmaya yönelik)
+                    Syllabus type
+                    - A sentence-based syllabus focusing on grammar and lexis (cümle kurmaya yönelik)
 
-Student’s feeling
-- feelings are paid special attention
-- students are not made to speak initially (çünkü kaygı ve endişeyi söndürüyor)
-- Perfection is not expected
+                    Student’s feeling
+                    - feelings are paid special attention
+                    - students are not made to speak initially (çünkü kaygı ve endişeyi söndürüyor)
+                    - Perfection is not expected
 
-Evaluation
-- formal tests are used to assess students (gözleme dayalı emir testleri)
-- formal tests are based on commands
-- observation is conducted
+                    Evaluation
+                    - formal tests are used to assess students (gözleme dayalı emir testleri)
+                    - formal tests are based on commands
+                    - observation is conducted
 
-KEYWORDS
-Actions/Commands
-Oral communication
-Teacher director
-Students imitator
-Imperatives
-Fun
-Low anxiety and more fun
-Understanding before speaking
+                    KEYWORDS
+                    Actions/Commands
+                    Oral communication
+                    Teacher director
+                    Students imitator
+                    Imperatives
+                    Fun
+                    Low anxiety and more fun
+                    Understanding before speaking
 
-Techniques
-- using commands
-- role reversal (rol değşimi) bazen öğretmene de verilir 
-- Action sequence (bi kaç emir verilir birden fazla)
+                    Techniques
+                    - using commands
+                    - role reversal (rol değşimi) bazen öğretmene de verilir 
+                    - Action sequence (bi kaç emir verilir birden fazla)
 
-Natural order of skills
-LSRW amaa
-Hepsinden önce dinleme bu method için önemli
+                    Natural order of skills
+                    LSRW amaa
+                    Hepsinden önce dinleme bu method için önemli
  
 
-Critisicm
-- not suitable for introverted students (içine kapanık)
-- pronunciation is neglected
-- difficulty of teaching abstract lexical items (soyut kelime öğretiminde güçlük)
+                    Critisicm
+                    - not suitable for introverted students (içine kapanık)
+                    - pronunciation is neglected
+                    - difficulty of teaching abstract lexical items (soyut kelime öğretiminde güçlük)
 
 
 
             COMMUNITY LANGUAGE LEARNING METHOD
-- Öğrenci bütün olarak kabul edilir (whole person)
-- Öğrencinin kendini rahat hissetmesi en önemli amacıdır (non-defensive)
-- Round table and a recorder (herkes tek tek okur, kaydedilir. En son dinleyip hatalar düzeltilir (reflexive listening yapılır))
-- Öğretmen tehdit unsuru değil, danışman, yol gösterici olabilir.
-- öğrenciler iletişim kurup sorumluluk alsınlar
-- daha çok yetişkinler için uygun
+                    - Öğrenci bütün olarak kabul edilir (whole person)
+                    - Öğrencinin kendini rahat hissetmesi en önemli amacıdır (non-defensive)
+                    - Round table and a recorder (herkes tek tek okur, kaydedilir. En son dinleyip hatalar düzeltilir (reflexive listening yapılır))
+                    - Öğretmen tehdit unsuru değil, danışman, yol gösterici olabilir.
+                    - öğrenciler iletişim kurup sorumluluk alsınlar
+                    - daha çok yetişkinler için uygun
 
-Six Elements of Non-Defensive Learning
-- Security (Güvenlik)
-- Attention (ilgili, dikkatli)
-- Aggresion (bilgiye agrsif saldır al)
-- Retention (parça bütün ilişkisi)
-- Reflection (Günlük hayata yansıt)
-- Discrimination (ana dil ile hedef dil arasındaki farkı ayırt e)
+                    ###
+                    Six Elements of Non-Defensive Learning  (Requirements of a good language environment)
+                            - Security              Güvenlik - feeling secure - Non-threating atmosphere
+                            - Attention             ilgili, dikkatli - availablity of activities to attend - ne kadar öğrenci aktif
+                            - Aggresion             bilgiye agresif saldır al - opportunity for someone to show his perfomance - öğrendiğini göstermeli
+                            - Retention             internalizing the new information - parça bütün ilişkisi, içselleştir - benimsemek bilgileri kabul etmek
+                            - Reflection            Günlük hayata yansıt - kendi düşünceleri - thinking on and reviewing their learning
+                            - Discrimination        realizing differences between L1 and L2 - ana dil ile hedef dil arasındaki farkı ayırt et)
 
-Stand Behind (öğretmen öğrenciye tehdit olmaktan ziyade destek olmalı)
+                    Human computer activity
+                        öğrencinin anlamadığı bir yeri anlayana kadar tekrar et
+                        input – duyulan, görülen her bilgi
+                        intake – ..her bilgiyi anlamlandır
+                        uptake – kullanıma dök
+                        output – ağızdan çıkan her şey
 
-Human computer activity
-öğrencinin anlamadığı bir yeri anlayana kadar tekrar et
-input – duyulan, görülen her bilgi
-intake – ..her bilgiyi anlamlandır
-uptake – kullanıma dök
-output – ağızdan çıkan her şey
+                    - Students are secure and relax (enough time to respond)
+                    - Language for Communication
+                    - Group-Pair Work (Teacher Counsellor)
+                    - Chunk used (Firstly L1, Step by step L2)
+                    - Target Language on tape, human computer
+                    - Whole Person
+                    - Listening, Speaking
 
-- Students are secure and relax (enough time to respond)
-- Language for Communication
-- Group-Pair Work (Teacher Counsellor)
-- Chunk used (Firstly L1, Step by step L2)
-- Target Language on tape, human computer
--Whole Person
-- Listening, Speaking
+                    Topluluk birbirinden faydanan
+                    - based on whole person (bir bütün olarak) learning and humanism
+                    - a secure and cooperative classroom is created
 
-Topluluk birbirinden faydanan
-- based on whole person (bir bütün olarak) learning and humanism
-- a secure and cooperative classroom is created
+                    GOALS
+                    - making students use target language communicatively
+                    - creating a classroom where everybody trust eachother and see each other as whole person
+                    - making students take the responsibility for their learning
 
-GOALS
-- making students use target language communicatively
-- creating a classroom where everybody trust eachother and see each other as whole person
-- makking students take the responsibility for their learning
+                    Mother tongue
+                    - mother tongue is used for instructions
+                    - students express their mother tongue
+                    - L1 is used in grammar and vocabulary teaching
 
-Requirements of a good language environment
-- security (feeling secure)
-- aggresion (opportunity for someone to Show his perfomance)
-- attention (availablity of activities to attend)
-- reflection(thinking on and reviewing their learning)
-- retention (internalizing the new information)  içselleştir
-- discrimination (realizing differences)
+                    Role of teacher
+                    - counselor
+                    - structuring activities
+                    - Free students from negative feelings
+                    - Stand Behind (öğretmen öğrenciye tehdit olmaktan ziyade destek olmalı)
 
-Mother tongue
-- mother tongue is used for instructions
-- students express their mother tongue
-- L1 is used in grammar and vocabulary teaching
+                    Role of students
+                    - dependent on the teacher in the beginning
 
-Role of teacher
-- counselor
-- structuring activities
-- Frees students from negative feelings
-- stands behind
+                    Culture
+                    - culture is a part of language
+                    - it should be taught
 
-Role of students
-- dependent on the teacher in the beginning
+                    Language areas
+                    - listening and speaking is prioritized
+                    - pronunciation is valued
+                    - reading and writing are also taught
 
-Culture
-- culture is a part of language
-- it should be taught
+                    GRAMMAR
+                    - Grammar is taught through chunks (kalıplar aracılığıyla)
+                    - students induce rules (kendileri bulur) but deductive teaching from time to time
+                    - chunks are studied through mother tongue
 
-Language areas
-- listening and speaking is prioritized
-- pronunciation is valued
-- reading and writing are also taught
+                    VOCABULARY
+                    - words are presented with their equivalents from mother tongue
 
-GRAMMAR
-- Grammar is taught through chunks (kalıplar aracılığıyla)
-- students induce rules (kendileri bulur) but deductive teaching from time to time
-- chunks are studied through mother tongue
+                    interaction
+                    - stu and stu
+                    - stu and teac
+                    - team work
+                    - pair work
 
-VOCABULARY
-- words are presented with their equivalents from mother tongue
+                    Error treatment
+                    - errors are corrected in a nonthreating way
+                    - the correct form is read to other members of the class
+                    - kimin yaptığını hissettirmeden sınıfa duyurur ve düzeltirir
 
-interaction
-- stu and stu
-- stu and teac
-- team work
-- pair work
+                    Syllabus type
+                    - no specific syllabus
+                    - students’ needs are taken into account
 
-Error treatment
-- errors are corrected in a nonthreating way
-- the correct form is read to other members of the class
-- kimin yaptığını hissettirmeden sınıfa duyurur ve düzeltirir
+                    Students feeling
+                    - students feelings are highly valued
+                    - students are made to talk about their feelings
 
-Syllabus type
--  no specific syllabus
-- students’ needs are taken into accountc
+                    Evaluation
+                    - no specific test type
+                    - students are made to write a paragraph (integrative – beceriler bütün olarak test edilir)
+                    - they are interviewed (integrative – speaking seviye belirleme konuşması gibi)
 
-Students feeling
-- students feelings are highly valued
-- students are made to talk about their feelings
-
-Evaluation
-- no specific test type
-- students are made to write a paragraph (integrative – beceriler bütün olarak test edilir)
-- they are interviewed (integrative – speaking seviye belirleme konuşması gibi)
-
-KEYWORDS
-Whole person learning 
-(bi bütün olarak  birey)
-teacher counselor
-Human computer
-Security – güvende hissettir
-Attention – ne kadar stu aktif
-Agression – öğrendiğini göstermeli
-Reflection – kendi düşünceleri
-Retention – benimsemek bilgileri kabul etmek
-Discrimination -  l1 ile l2 ayrımını yapmak
-Non-defensive learning
-Teacher and students centered
-Non-threating atmosphere
-Students feelings are important
-Humanistic approach
+                    KEYWORDS
+                    Whole person learning (bi bütün olarak birey)
+                    teacher counselor
+                    Human computer
+                    Teacher and students centered
+                    Students feelings are important
+                    Humanistic approach
 
 Techniques
 - Transcription (turn record into writing)
