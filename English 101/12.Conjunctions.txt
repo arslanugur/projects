@@ -1,7 +1,7 @@
 CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, @arslanuguur
       - Coordinating Conjunctions		independent + independent
             - for, and, nor, but, or, yet, so
-      - Coordinating Conjunctions
+      - Correlative Conjunctions
             -- too, also, so, also
       - Subordinating Conjunctions		dependent/independent + independent
 
