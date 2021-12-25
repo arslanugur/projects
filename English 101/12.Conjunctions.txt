@@ -192,8 +192,11 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						when she woke again, the room was dark
 		while			iken, sırada
 						I don't want you to drive while you're so tired
-		as			iken
+		as			iken, sırada
+						as they looked down the street they saw a horseman coming - sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
+						His gaze drifted away as he considered the idea	- Bu fikri düşünürken bakışları başka yöne kaydı
 		by the time		zamana kadar
+						
 		since			-den beri
 						since when did we start following the rules?		ne zamandan beri kurallara uyduk?
 		until / till		-a kadar
@@ -240,6 +243,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		undoubtedly		şüphesiz
 		never			asla
 		it should be noted	belirtilmelidir ki 
+		as a matter of fact	aslına bakarsan
+						As a matter of fact, I did 
 
 
 --> Addition
