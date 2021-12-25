@@ -74,10 +74,12 @@ Health
                   ve 2016'da Batı Afrika'da sıfır Ebola vakası bildirildi. 
 
 
-Human Rights
-              Every person deserves basic rights, regardless of their race, sex or ethnicity. 
-              In 1948, the United Nations created the Universal Declaration of Human Rights, which today is commonly known as the International Human Rights Law. 
-              This declaration promotes and protects human rights civilly, economically, politically and socially.
+Human Rights	-	İnsan hakları
+       Every person deserves basic rights, regardless of their race, gender or ethnicity.
+		Irkına, cinsiyetine veya etnik kökenine bakılmaksızın herkes temel haklara sahiptir.
+       In 1948, the United Nations created the Universal Declaration of Human Rights, which today is commonly known as the International Human Rights Law. 				1948'de Birleşmiş Milletler, bugün yaygın olarak Uluslararası İnsan Hakları Hukuku olarak bilinen İnsan Hakları Evrensel Beyannamesi'ni oluşturdu.
+       This declaration promotes and protects human rights civilly, economically, politically and socially.
+       		Bu bildirge, insan haklarını medeni, ekonomik, politik ve sosyal olarak teşvik eder ve korur. 
 
 Maternal Health
               Maternal health is a global human rights issue, making it one of the key examples of global issues. 
