@@ -182,9 +182,16 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 ---> SUBORDINATING CONJUNCTIONS
 --> Time
 		after			-den sonra
+						after several rings, it went to the message
+						after a few moments, he glanced up at her
 		before			-den önce
+						I worked with him for two years before I discovered who he really was
+						it was some time before I could plan it to suit me
 		when			-dığı zaman
-		while			iken
+						he had climbed many a tree when he was a boy
+						when she woke again, the room was dark
+		while			iken, sırada
+						I don't want you to drive while you're so tired
 		as			iken
 		by the time		zamana kadar
 		since			-den beri
@@ -351,42 +358,44 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 
 
 --> Contrast (Concession and Opposition)
-		but
-		yet
-		whereas
-		while
-		on the one hand
-		on the other hand
-		as opposed to
-		on the contrary
-		otherwise
-		instead of
-		even if
-		even so
-		no matter
-		whatever
-		wherever
-		whenever
-		but for
-		however + adj/ adv
-		but ... anyway
-		but ... still
-		yet ... still
-		nevertheless
-		nonetheless
-		apart from
-		admittedly
-		all the same
-		up to a point
-		
+		but			ama, fakat
+		yet			ama, fakat, henüz
+		whereas			halbuki, oysa
+		while			iken
+		on the one hand		bir taraftan
+		on the other hand	diğer taraftan
+		as opposed to		aksine
+		on the contrary		tam aksine
+		otherwise		aksi halde
+		instead of		onun yerine
+		even if			olsa bile
+		even so			olsa bile		
+		no matter		ne yaparsa yapsın
+		whatever		her ne ise
+		wherever		her neresi ise
+		whenever		he ne zamansa
+		but for			ama için
+		however + adj/ adv	ancak + adj/ adv 
+		but ... anyway		ama ... neyse
+		but ... still		ama ... halen
+		yet ... still		ama ... halen
+		nevertheless		yine de
+		nonetheless		her şeye rağmen
+		apart from		dışında
+		admittedly		kuşkusuz
+		all the same		farketmez, yine de
+		up to a point		bu noktaya kadar
+
+		rağmen = olduğu kadar
+
 		although =  much as
 
-		although
-		though
-		even though
-		much as
-		even if
-		despite the fact that
+		although		olmasına rağmen
+		though			rağmen
+		even though		buna rağmen
+		much as			buna rağmen			
+		even if			olsa bile
+		despite the fact that	bu gerçeğe rağmen
 		in spite of the fact that - ... e rağmen, ... se bile
 	
 		although + clause 	--> ... e rağmen	he can’t speak English although he has been attending a course for two years
@@ -407,7 +416,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 	as long as		sürece
 					as long as it takes - ne kadar gerekirse
 	unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
-
+					
 	if			eğer
 	only if			yalnızca
 	assuming that		varsayarsak
