@@ -85,7 +85,7 @@ Maternal Health	-	Anne sağlığı
 	Maternal health is a global human rights issue, making it one of the key examples of global issues. 
 	      Anne sağlığı küresel bir insan hakları sorunudur ve onu küresel sorunların en önemli örneklerinden biri haline getirir.
 	There are an estimated 830 pregnancy-related deaths each day. This is mainly due to lack of maternal care. 
-              Her gün tahminen 830 hamilelikle ilgili ölüm var. Bunun başlıca nedeni anne bakımının olmamasıdır.
+              Her bir gün tahminen 830 hamilelikle ilgili ölüm var. Bunun başlıca nedeni anne bakımının olmamasıdır.
 	Women die from infections, postpartum bleeding, blood clots and other conditions. 
 	      Kadınlar enfeksiyonlardan, doğum sonrası kanamalardan, kan pıhtılarından ve diğer koşullardan ölmektedir.
 	The United Nations Population Fund develops relationships with governments around the world to train healthcare professionals 
@@ -95,15 +95,15 @@ Maternal Health	-	Anne sağlığı
 
 Girls’ Access to Education
               Girls deserve the right to learn.
-	      		Kızlar öğrenme hakkını hak ediyor
+	      		Kızlar öğrenme hakkını hak ediyor.
               Currently, 98 million girls do not attend school due to barriers like poverty, gender bias, governmental conflict, 
               		Şu anda 98 milyon kız çocuğu yoksulluk, cinsiyet yanlılığı, hükümet çatışması gibi engeller nedeniyle okula katılamıyor
 	      safety concerns and a lack of educators, classrooms and curriculums
 	      		güvenlik endişeleri ve eğitimci, derslik ve müfredat eksikliği		
-              Global Citizen reported that schools are sometimes hours away from where children live, making it unsafe for them to travel alone. 
+              "Global Citizen" reported that schools are sometimes hours away from where children live, making it unsafe for them to travel alone. 
         		Global Citizen, okulların bazen çocukların yaşadığı yerden 
 					saatlerce uzakta olduğunu ve bu nedenle yalnız seyahat etmelerini güvensiz hale getirdiğini bildirdi
-	      Let Girls Learn is a U.S. global strategy targeting an increase in safe access to education for girls and educators. 
+	      "Let Girls Learn" is a U.S. global strategy targeting an increase in safe access to education for girls and educators. 
               		Kızlar Öğrensin, kız çocukları ve eğitimcilerin eğitime güvenli erişimini artırmayı hedefleyen bir ABD küresel stratejisidir
 	      Funds are directed towards curriculums to help girls read and write
 	      		fonlar, kızların okuma ve yazmalarına yardımcı olacak müfredatlara yönlendiriliyor. 
@@ -120,11 +120,16 @@ Digital Access
 	              Çevrimiçi seçeneklerle, ihtiyaç sahipleri insanlar daha hızlı yardım almak için uluslararası yardım programlarıyla iletişime geçebilir. 
 	       
 
-Foreign Aid Budgets
-              The world would like to believe it does enough for the poor, but sadly this is not true. 
-              In the U.S., the International Affairs Budget only makes up 1 percent of the federal budget. 
-              Increasing the foreign aid budget is actually beneficial to the American economy. 
-              It helps create more jobs in the U.S. and builds wealth in developing countries.
+Foreign Aid Budgets	-	Dış Yardım Bütçeleri
+		The world would like to believe it does enough for the poor, but sadly this is not true.
+			Dünya bunun yoksullar için yeterli olduğuna inanmak istiyor ama ne yazık ki bu doğru değil.
+		In the U.S., the International Affairs Budget only makes up 1 percent of the federal budget.
+			ABD'de Uluslararası İlişkiler Bütçesi, federal bütçenin yalnızca yüzde 1'ini oluşturur.
+		Increasing the foreign aid budget is actually beneficial to the American economy.
+			Dış yardım bütçesinin artırılması aslında Amerikan ekonomisine fayda sağlıyor.
+		It helps create more jobs in the U.S. and builds wealth in developing countries.
+			ABD'de daha fazla iş yaratılmasına yardımcı olur ve gelişmekte olan ülkelerde zenginlik oluşturur. 
+
 
 Women’s Rights
               Women’s rights are human rights. Women suffer discrimination in many areas: laws, the workforce and gender-based stereotypes and social practices. 
