@@ -59,7 +59,7 @@ Food Security
       is working to bring relief to developing countries, currently assisting more than 80 countries every year.
               gelişmekte olan ülkelere yardım/hafifletme/rahatlatma getirmek için çalışıyor ve şu anda her yıl 80'den fazla ülkeye yardım ediyor. 
 
-Health
+Health		-	Sağlık
       Universal health is a growing concern. 
                   Evrensel sağlık, büyüyen bir endişedir.
       Unfortunately, diseases like HIV/AIDS, malaria, tuberculosis, smallpox and polio are still claiming the lives of thousands of people worldwide, 
@@ -76,17 +76,22 @@ Health
 
 Human Rights	-	İnsan hakları
        Every person deserves basic rights, regardless of their race, gender or ethnicity.
-		Irkına, cinsiyetine veya etnik kökenine bakılmaksızın herkes temel haklara sahiptir.
-       In 1948, the United Nations created the Universal Declaration of Human Rights, which today is commonly known as the International Human Rights Law. 				1948'de Birleşmiş Milletler, bugün yaygın olarak Uluslararası İnsan Hakları Hukuku olarak bilinen İnsan Hakları Evrensel Beyannamesi'ni oluşturdu.
+		Irkına, cinsiyetine veya etnik kökenine bakılmaksızın herkes temel haklara hak eder.
+       In 1948, the United Nations created the Universal Declaration of Human Rights, which today is commonly known as the International Human Rights Law. 				1948'de Birleşmiş Milletler, bugün yaygın olarak Uluslararası İnsan Hakları Hukuku olarak bilinen İnsan Hakları Evrensel Bildirgesi'ni oluşturdu.
        This declaration promotes and protects human rights civilly, economically, politically and socially.
-       		Bu bildirge, insan haklarını medeni, ekonomik, politik ve sosyal olarak teşvik eder ve korur. 
+       		Bu bildirge, medeni, ekonomik, politik ve sosyal olarak insan haklarını destekler ve korur. 
 
-Maternal Health
-              Maternal health is a global human rights issue, making it one of the key examples of global issues. 
-              There are an estimated 830 pregnancy-related deaths each day. This is mainly due to lack of maternal care. 
-              Women die from infections, postpartum bleeding, blood clots and other conditions. 
-              The United Nations Population Fund develops relationships with governments around the world to train healthcare professionals 
-              to provide expert maternal care to expecting mothers.
+Maternal Health	-	Anne sağlığı
+	Maternal health is a global human rights issue, making it one of the key examples of global issues. 
+	      Anne sağlığı küresel bir insan hakları sorunudur ve onu küresel sorunların en önemli örneklerinden biri haline getirir.
+	There are an estimated 830 pregnancy-related deaths each day. This is mainly due to lack of maternal care. 
+              Her gün tahminen 830 hamilelikle ilgili ölüm var. Bunun başlıca nedeni anne bakımının olmamasıdır.
+	Women die from infections, postpartum bleeding, blood clots and other conditions. 
+	      Kadınlar enfeksiyonlardan, doğum sonrası kanamalardan, kan pıhtılarından ve diğer koşullardan ölmektedir.
+	The United Nations Population Fund develops relationships with governments around the world to train healthcare professionals 
+		Birleşmiş Milletler Nüfus Fonu, sağlık profesyonellerini eğitmek için dünyanın dört bir yanındaki hükümetlerle ilişkiler geliştiriyor
+	to provide expert maternal care to expecting mothers.
+               anne adaylarına uzman anne bakımı sağlamak. 
 
 Girls’ Access to Education
               Girls deserve the right to learn.
