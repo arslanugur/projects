@@ -192,9 +192,12 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						when she woke again, the room was dark
 		while			iken, sırada
 						I don't want you to drive while you're so tired
+						next week today, I will be lying on the beach while you are taking 
 		as			iken, sırada
 						as they looked down the street they saw a horseman coming - sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
 						His gaze drifted away as he considered the idea	- Bu fikri düşünürken bakışları başka yöne kaydı
+		just as			
+		
 		by the time		zamana kadar
 						
 		since			-den beri
@@ -202,6 +205,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		until / till		-a kadar
 						I will stay up until midnight tomorrow
 						I wont say much till it’s time to go to bed
+		not until
+		
 		eventually 		er ya da geç
 		whenever		ne zaman olursa
 		every time (that)	ne zaman .. olsa
@@ -216,17 +221,23 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		in the past		geçmişte
 		currently		şu anda
 		presently		şu anda
-		immediately		hemen, derhal
-		once			yapar yapmaz
-						once the Soviet Union collapsed, Russia Federation was founded in 1991
 		as soon as		olur olmaz, yapar yapmaz
 						I am going to get out and have a drink as soon as I have finished with the work
+						I will call you as soon as I receive your mail
+		immediately (after)	hemen, derhal
+		
+		the moment		-dığı an
+		
+		once			yapar yapmaz
+						once the Soviet Union collapsed, Russia Federation was founded in 1991
 		as long as / so long as	-dığı sürece
 						As long as it is raining, i think i will stay at home
 						You can stay with us as long as you want to
 		at last			sonunda
 		finally			en sonunda 
-
+		hence
+		hardly/barely/scarcely ... when
+		no sooner ... than
 
 
 --> Emphasis
@@ -564,6 +575,12 @@ therefore, so, thus, thereby, hence, that’s why, as a result, as a consequence
 moreover, furthermore, what is more, besides, in addition, additionally, also			dahası, ek olarak
 in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 	... niyetiyle, ... mek için
 
+
+Examples:
+	during the lecture, all the students took notes
+	despite being disabled, she has made great achievements
+	contrary to what most people believe, spinach is not very rich in iron
+	the weather was quite cold. however, he still went jogging
 
 
 
