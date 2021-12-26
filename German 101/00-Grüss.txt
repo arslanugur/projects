@@ -63,12 +63,14 @@ er kommt aus der Türkei
 
 
 
-ich     geh
-du      geh
-er      geh
-wir     geh
-ihr     geh
-sie     geh
+ich     geh     -e      -iyor              ich gehe nach hause
+du      geh     -st     
+er      geh     -t
+wir     geh     -en
+ihr     geh     -t
+sie     geh     -en
+
+
 
 
 
