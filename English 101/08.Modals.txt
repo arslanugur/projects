@@ -3,7 +3,7 @@ can		-ebilir, -abilir	(yetenek)		ability, doubt, astonishment, permission, polit
 could		-ebilirdi, -abilirdi	(geçmiş yetenek)
 may		-ebilir, -abilir	(olasılık)		permission, if not prohibition, supposition with doubt
 might		-ebilirdi, -abilirdi	(geçmiş olasılık)	
-will		-acak, -ecek		(istek)			wish, desire, will, confidence, in the future
+will		-acak, -ecek		(gelecek istek)		wish, desire, will, confidence, in the future
 would		-acaktı, -ecekti	(ihtimal)		wish (with 'to like'), polite request, a habit of the past
 shall		-acak, -ecek		(niyet)			intention, supposition
 should		-malı, meli		(gereklilik)		necessity, advice, blame, recommendation, reproach, regret
@@ -15,8 +15,6 @@ need to		-malı, meli		(ihtiyaç)		necessity, unnecessity
 be to		-malı, meli		(zorundalık)		obligation arising out of arrangement or agreement
 used to		-alışmak		(alışkanlık)		repeated action in the past
 		
-						
-
 
 
 PRESENT			PAST			MODALS IN PAST		Concept				Example			
@@ -100,74 +98,82 @@ Deduction
 	- She would / could / should / had to have called him
 	
 	
-	- if this is your first night at Fight Club, you have to fight.		(Obligation)
-	- she asked me if she could sit at the end of our table.		(Permission)
 	- could you help me with this math problem?				(Request)
-	- you could take a painkiller if your headache gets worse.		(Advice) 
+	- you could take a painkiller, if your headache gets worse.		(Advice) 
 	- Mozart could play the piano at the age of five.			(Ability)
+	- she asked me if she could sit at the end of our table.		(Permission)
 	- I'm going to make him an offer he can't refuse.			(Impossibility)
-	- Things can get crazy around here sometimes.				(Possibility)
+	- sometimes things can get crazy around here				(Possibility)
 	- to be healthy, a plant has to receive a good supply of sunshine.	(Necessity)
 	- would you help me to carry this heavy suitcase?			(Request)
 	- may I ask whether you are using email or not?				(Permission)
 	- May the Force be with you 						(Possibility)
-	
+	- if this is your first night at Fight Club, you have to fight.		(Obligation)
+	- he might be fired from the work 
+
 
 --> CAN
 	- can you help me? 						(request)
 	- I can play football, but I can not speak German. 		(ability)
 	- I know he can’t drive yet, but he can dream. 			(ability)
 	- we can stay home and watch telly tonight. 			(suggestion/giving an option) 
-	- that can’t be her. 						(impossibility)
-	- but she can come back at any time - her an			(possibility)
+	- that can’t be her. 						o, o olamaz						(impossibility)
+	- but she can come back at any time				ama o her an geri gelebilir				(possibility)
 	- how can you bear that on your conscience			nasıl o vicdan yükünü taşıyorsun?
 	- the lift can take four at a time				asansör bir seferde dört kişi alabilir
 	- you can lead a horse to water but you can't make him drink	atı suya götürebilirsin, ama ona suyu içirtemezsin
 
 --> COULD
-	- I could do trigonometry six years ago. 		(past ability)
-	- could i call you? 					(polite question)
-	- she could be here. / She couldn’t be here. 		(possibility / impossibility)
-	- you could try doing this. 				(suggestion)	
-	- it could have gone better				(past suggestion)
+	- I could do trigonometry six years ago. 			altı yıl önce trigonometri yapabilirdim			(past ability)
+	- could i call you? 						seni arayabilir miyim?					(polite question)
+	- she could be here. / She couldn’t be here. 			o burada olabilirdi / o burada olamazdı			(possibility / impossibility)
+	- you could try doing this. 					bunu yapmayı deneyebilirdin				(suggestion)	
+	- it could have gone better					daha iyi gidebilirdi					(past suggestion)
 
 --> BE ABLE TO	
-	- You were able to pass that exam with the help of the notes I gave you.	(temporary ability)
-	- She isn’t able to move her arm. 						(temporary disability/negative situation)
-	- I’m not able to ride a bike, my bike is broken.
-	- I can’t ride a bike, I’ve never learnt how.
+	- You were able to pass that exam with the help of the notes I gave you		(temporary ability)
+		Sana verdiğim notlar sayesinde o sınavı geçebildin 
+	- She isn’t able to move her arm.				Kolunu hareket ettiremiyor 				(temporary disability/negative situation)
+	- I’m not able to ride a bike, my bike is broken		Bisiklete binemem, bisikletim bozuldu 
+	- I can’t ride a bike, I’ve never learnt how			Bisiklete binemem, nasıl olduğunu hiç öğrenmedim
 
 --> MAY	
-	- The teacher may be late tomorrow. 		(possibility)
-	- Be careful! The road may be slippery. 	(possibility)
-	- May i borrow your pen for a moment? 		(Permission - Formal)
+	- The teacher may be late tomorrow 				Öğretmen yarın geç kalabilir				(possibility)
+	- Be careful! The road may be slippery				Dikkat ol! Yol kaygan olabilir  			(possibility)
+	- May i borrow your pen for a moment?				bir an için kalemini ödünç alabilir miyim? 		(Permission - Formal)
 
 --> MIGHT
-	- It might happen. 								(possibility)
-	- She might get a scholarship this year. 					(possibility)
-	- They might be eating lunch. 							(possibility)
+	- It might happen						o olabilirdi, o vuku bulabilirdi			(possibility)
+	- She might get a scholarship this year				o bu yıl burs alabilirdi				(possibility)
+	- They might be eating lunch					öğle yemeği yiyor olabilirler 				(possibility)
 	- life is hard enough already. you never know what someone might be going through. just be kind
-
+						hayat zaten yeterince zor. birinin neler yaşadığını asla bilemezsin. sadece nazik ol 
+						
+						
 --> WILL
-	- I will come back next year. 							(future time)
+	- I will come back next year. 							o gelecek yıl geri gelecek	(future time)
 	- if you only do what you can do, you will never be more than you are now	(future time)
-	  Sadece yapabildiğini yaparsan, asla şimdiki halinden farklı olamazsın
-	- I will give money to charity this new year. 					(promise/willingness)
-	- Will you have a piece of cake?						(polite question)
-	- Will you let him? 								(polite question)
-	- I will use the other office from now on	artık diğer ofisimi kullanacağım
-	- I won’t use this office anymore		artık bu ofisi kullanmayacağım
+	  	sadece yapabildiğini yaparsan, asla şimdiki halinden farklı olamazsın
+	- I will give money to charity this new year 					bu yeni yılda bhayır kurumlarına para vereceğim 	(promise/willingness)
+	- Will you have a piece/slice of cake?						bir parça/dilim kek alır mısın?				(polite question)
+	- Will you let him? 								ona izin verecek misin? 				(polite question)
+	- I will use the other office from now on					artık diğer ofisimi kullanacağım
+	- I won’t use this office anymore						artık bu ofisi kullanmayacağım
 
 
 --> WOULD
 	Invitations / Preferences / Desires
 	- I would like a cup of tea.						* to like - hoşlanmak, hoşuna gitmek
-	- I would like to walk on the street.
-	- (Which) Would you prefer apples or oranges?
-	- What would be the first song you want played at your funeral?
-	- I’m not saying ‘I hate you’ but I would unplug your life support to charge my phone.
- 	- the world could crumble and she wouldn't notice anything
+	- I would like to have a cup of tea
+	- I would like to walk on the street					sokakta yürümek istiyorum / sokakta yürümek hoşuma gidecekti
+	- would you prefer apples or oranges?					elma mı yoksa portakal mı tercih edersin?
+	- which would you prefer?						hangisini tercih edersin?
+	- what would be the first song you want played at your funeral?		cenazenizde çalınmasını istediğiniz ilk şarkı ne olurdu? 
+	- I’m not saying ‘I hate you’ but I would unplug your life support to charge my phone
+			'Senden nefret ediyorum' demiyorum ama telefonumu şarj etmek için yaşam desteğinin fişini çekerdim
+ 	- if the world could crumble and she wouldn't notice anything		dünya yıkılsa o hiçbir şeyin farkına varmaz
 	- if I had guessed the future, I would have taken some precautions against what would happen
+			geleceği tahmin etseydim olacaklara karşı önlem alırdım 
 
 
 	would you mind (if) .. - sakıncası var mı?				* to mind - kafaya takmak, aldırmak, aldırış etmek, karşı çıkmak
