@@ -2,3 +2,38 @@
         - Nominativ
         - Akkusatiiiv
         - Daäativ
+
+
+Nom (Yalın)     Akk (-i hali)           Dat (-e hali)           Gen
+-----------------------------------------------------------------------
+der             den                     dem                     des (+s)
+die             die                     der                     der
+das             das                     dem                     des (+s)
+die             die                     den (+n)                der
+
+N                                                               G
+der Mann                                                        des Mannes
+die Frau                                                        der Frau
+das Mädchen                                                     des Mädchens
+die Männer                                                      der Männer
+
+
+
+A2 - Genitiv
+Genitiv ne zaman kullanılır?
+        - bir präposition ile örn: wegen, aufgrund
+        - isim tamlaması yaparken (sıfat tamlaması değil dikkat!)
+                kapının kolu
+                bebeğin babası        
+
+
+                adamın şapkası          der Hut des Mannes      şapkası adamın
+                kadının çantası         die Tasche der Frau     çantası kadının 
+                çocuğun kitabı          das Buch des Kindes     kitabı çocuğun
+                
+er trägt den Mantel seines Vaters                       babasının paltosunu giyiyor (der olsaydı babasının paltosu olurdu platosunu olmazdı)
+Die Tasche des Lehrers steht auf dem Tisch              öğretmenin çantası masanın üzerinde duruyor (tasche = nom olmuş)
+Am Ende des Monats beginnen die Sommerkurse ***         ayın sonunda yaz kursları başlıyor
+Das Verb steht am Ende des Satzes                       fiil cümlenin sonunda yer alıyor/duruyor
+
+
