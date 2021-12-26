@@ -3,3 +3,26 @@
         - Unregelmässige Verben
         - Modalverben
         - Trennbare Verben (Ayrılabilen)
+
+
+
+                haben
+                ------
+ich             habe                    ich habe ein Auto
+du              hast                    ich habe ein Kind
+er/sie/es       hat                     er hat (keine) Zeit
+wir             haben                   wir haben eine Idee
+ihr             habt
+Sie/sie         haben
+
+
+                
+                sein
+                =====
+ich             bin                     ich bin Arslan
+du              bist                    du bist ein Lehrer
+er/sie/es       ist                     sie ist schön
+wir             sind
+ihr             seid
+Sie/sie         sind
+
