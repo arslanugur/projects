@@ -212,6 +212,7 @@ Deduction
 	- you should be more careful where you loiter.	(recommend)   - Nerelerde takıldığına daha dikkat etmelisin.
 	- we should deal with this right now. 		(the right thing to do)
 	- he should be home soon but i’m not sure. 	(uncertain prediction)
+	- you should push harder than yesterday, if you want a different tomorrow
         - school should teach you how to become rich in your 20's, not how to retire in your 60's
 	- this should not be done --> bu yapılmamalı
 	- this should not have been done --> bu yapılmamalıydı
