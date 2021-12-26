@@ -197,6 +197,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						as they looked down the street they saw a horseman coming - sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
 						His gaze drifted away as he considered the idea	- Bu fikri düşünürken bakışları başka yöne kaydı
 		just as			
+						just as I walked into the room, I noticed a big spider on my bed
 		
 		by the time		zamana kadar
 						
@@ -205,8 +206,9 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		until / till		-a kadar
 						I will stay up until midnight tomorrow
 						I wont say much till it’s time to go to bed
-		not until
-		
+						
+		not until		-den önce değil
+					-meden önce
 		eventually 		er ya da geç
 		whenever		ne zaman olursa
 		every time (that)	ne zaman .. olsa
@@ -235,9 +237,9 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						You can stay with us as long as you want to
 		at last			sonunda
 		finally			en sonunda 
-		hence
-		hardly/barely/scarcely ... when
-		no sooner ... than
+		hence			bundan dolayı
+		hardly/barely/scarcely  ... when
+		no sooner ... than	... dan önce olamaz
 
 
 --> Emphasis
@@ -259,11 +261,11 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 
 
 --> Addition
-		so that			böylece
+		so that			böylece, öyle ki
 		even so			olsa bile
 		in spite of		karşın, e rağmen
 		regardless of		gözetilmeksizin, bakılmaksızın
-		due to			nedeniyle
+		due to			nedeniyle, dolayısıyla, yüzünden
 		by means of		aracılığıyla
 		nonetheless		her şeye rağmen
 		further			daha ötesi
@@ -307,7 +309,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 
 --> Order
 		firstly			ilk olarak
-		secondly		ikinci olarak
+		secondly		ikinci olarak 
 		thirdly			üçüncü olarak
 		finally			en sonunda, sonuçta
 		at this time		şu anda
@@ -555,6 +557,9 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 --> Place
 	where, wherever, here, there, in the back, adjacent to, next to, nearby, beyond, opposite to, at the point
 
+--> Adverb clauses of Place
+	where, wherever, everywhere, anywhere
+	
 --> relative pronouns
 	who, whoever, whom, whomever, whose
 
@@ -581,19 +586,58 @@ Examples:
 	despite being disabled, she has made great achievements
 	contrary to what most people believe, spinach is not very rich in iron
 	the weather was quite cold. however, he still went jogging
-
-
-
+	some students rush out of the classroom as sson as the class ends
+	she will call us immediately after she arrives in Antalya, so stop worrying
+	I will leave the moment I have sent this message
+	I recognized Julia as soon as I saw her even though it had been more than a year since I had last seen her
+	she has made considerable progress since she started attending school more regularly
+	he has been looking for a job since he graduated, but hasn't found one yet
+	it is almost a year since she has been married
+	if you were you, I wouldn't start smoking at all, because once you start, it is very difficult to give up
+	once I start working for this company, all my financial problems will be over
+	once you have read a book by this author, you will want to read more
+	it will be almost midnight by the time we arrive home
+	most of the guests were already there by the time we arrived at the party
+	
 
 			Adverbial Clause words			Transitions		Conjunctions		Prepositions
+			----------------------------------------------------------------------------------------------------
+Time								first						after		+ noun / noun phrase
+								first of all					before		+ noun / noun phrase
+								to begin with					since		+ clause
+								in the first place				until		+ clause
+								next						by		+ noun / noun phrase
+								after that					during		+ noun / noun phrase
+								then						up to		+ noun / noun phrase
+								afterward(s)					within		+ noun / noun phrase
+								later						prior to	+ noun / noun phrase
+								finally
+								soon
+								meanwhile
+								in the meantime
+								henceforth
+								from now on
 			-------------------------------------------------------------------------------------------------------------
-Cause and Effect	because					consequently 		so			because of
-			since					therefore		for			due to – nedeniyle, sayesinde
-			as/so long as				
-			inasmuch as – mademki gibi
-			now that - madem
-			so that - ..sın diye, böylece
-			as
+Cause and Effect	because					consequently 		so			because of		nedeniyle, yüzünden
+(Reason)		since					therefore		for			due to			nedeniyle, sayesinde
+			as/so long as										owing to		nedeniyle, yüzünden
+			inasmuch as – mademki gibi								as a result of		sonucunda
+			now that - madem									as a consequence of	sonucunda
+			so that - ..sın diye, böylece								in view of		göz önüne alarak
+			as											thanks to		sayesinde
+			on the grounds that									
+			in that											+ THE FACT THAT + Clause
+			seeing that
+			-------------------------------------------------------------------------------------------------------------
+Result								therefore		so .. that
+								hence			such .. that
+								thus
+								consequently
+								as a result
+								accordingly
+								thereby
+								that's why
+								for this reason
 			-------------------------------------------------------------------------------------------------------------
 Condition		if					otherwise		or (else)		in case of
 			unless											in the event of
