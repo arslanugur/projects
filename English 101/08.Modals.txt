@@ -1,17 +1,21 @@
 ---> MODALS													     prepared by Uğur ARSLAN, @arslanuguur
-can		-ebilir, -abilir	(yetenek)	ability, doubt, astonishment, permission, polite request
-may		-ebilir, -abilir	(olasılık)	permission, if not prohibition, supposition with doubt
-must		-malı, meli		(zorundalık)	obligation, firm necessity, logical conclusion, probability
-shall		-acak, -ecek		(niyet)		intention, supposition
-will		-acak, -ecek		(istek)		wish, desire, will, confidence, in the future
-ought to	-malı, meli		(görev)		moral duty, insistent advice, strict recommendation
-need		-malı, meli		(ihtiyaç)	necessity, unnecessity
-be to		-malı, meli		(zorundalık)	obligation arising out of arrangement or agreement
-have to		-mak zorunda olmak	(zorundalık)	unwillingness, forced circumstances
-would		-acaktı, -ecekti	(ihtimal)	wish (with 'to like'), polite request, a habit of the past
-should		-malı, meli		(gereklilik)	necessity, advice, blame, recommendation, reproach, regret
-used to		-alışmak		(alışkanlık)	repeated action in the past
-
+can		-ebilir, -abilir	(yetenek)		ability, doubt, astonishment, permission, polite request
+could		-ebilirdi, -abilirdi	(geçmiş yetenek)
+may		-ebilir, -abilir	(olasılık)		permission, if not prohibition, supposition with doubt
+might		-ebilirdi, -abilirdi	(geçmiş olasılık)	
+will		-acak, -ecek		(istek)			wish, desire, will, confidence, in the future
+would		-acaktı, -ecekti	(ihtimal)		wish (with 'to like'), polite request, a habit of the past
+shall		-acak, -ecek		(niyet)			intention, supposition
+should		-malı, meli		(gereklilik)		necessity, advice, blame, recommendation, reproach, regret
+must		-malı, meli		(zorundalık)		obligation, firm necessity, logical conclusion, probability
+have to		-mak zorunda olmak	(zorundalık)		unwillingness, forced circumstances
+had to		- mak zorunda olacaktı	(geçmiş zorundalık)
+ought to	-malı, meli		(görev)			moral duty, insistent advice, strict recommendation
+need to		-malı, meli		(ihtiyaç)		necessity, unnecessity
+be to		-malı, meli		(zorundalık)		obligation arising out of arrangement or agreement
+used to		-alışmak		(alışkanlık)		repeated action in the past
+		
+						
 
 
 
