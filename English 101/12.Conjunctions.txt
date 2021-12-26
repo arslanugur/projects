@@ -179,6 +179,11 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		- scarcely had he gone to bed when the phone rang
 
 
+
+
+
+
+
 ---> SUBORDINATING CONJUNCTIONS
 --> Time
 		after			-den sonra
@@ -196,12 +201,16 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		as			iken, sırada
 						as they looked down the street they saw a horseman coming - sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
 						His gaze drifted away as he considered the idea	- Bu fikri düşünürken bakışları başka yöne kaydı
-		just as			
+		just as			tıpkı, gibi
 						just as I walked into the room, I noticed a big spider on my bed
 		
 		by the time		zamana kadar
-						
+						it will be almost midnight by the time we arrive home
+						most of the guests were already there by the time we arrived at the party						
 		since			-den beri
+						she has made considerable progress since she started attending school more regularly
+						he has been looking for a job since he graduated, but hasn't found one yet
+						it is almost a year since she has been married
 						since when did we start following the rules?		ne zamandan beri kurallara uyduk?
 		until / till		-a kadar
 						I will stay up until midnight tomorrow
@@ -223,23 +232,40 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		in the past		geçmişte
 		currently		şu anda
 		presently		şu anda
-		as soon as		olur olmaz, yapar yapmaz
+		as soon as		yapar yapmaz
 						I am going to get out and have a drink as soon as I have finished with the work
 						I will call you as soon as I receive your mail
-		immediately (after)	hemen, derhal
-		
+						I recognized Julia as soon as I saw her even though it had been more than a year since I had last seen her
+						some students rush out of the classroom as s0on as the class ends
+		immediately after	-dan hemen sonrası
+						she will call us immediately after she arrives in Antalya, so stop worrying		
 		the moment		-dığı an
-		
+						I will leave the moment I have sent this message	
 		once			yapar yapmaz
 						once the Soviet Union collapsed, Russia Federation was founded in 1991
+						if you were you, I wouldn't start smoking at all, because once you start, it is very difficult to give up
+						once I start working for this company, all my financial problems will be over
+						once you have read a book by this author, you will want to read more
 		as long as / so long as	-dığı sürece
 						As long as it is raining, i think i will stay at home
 						You can stay with us as long as you want to
-		at last			sonunda
-		finally			en sonunda 
+		at last			sonunda		(-)
+		finally			en sonunda 	(+)
 		hence			bundan dolayı
 		hardly/barely/scarcely  ... when
 		no sooner ... than	... dan önce olamaz
+		during			sırasında, esnasında	
+						during the lecture, all the students took notes
+
+		NOTE:
+			at last / finally = lastly / in the end / at the end / by the end
+			- After a two-hour delay, Tom's plane has landed at last.
+			- When he arrived at last, I was so angry that I refused to talk to him.
+			- Our economy must increase productivity, reduce unemployment and finally develop competition.
+			- We must buy flour, chocolate, butter, eggs and lastly some baking powder to make a cake for Kym's birthday
+			- Each of us suggested a different plan for our holiday, but in the end we went to the South of France as usual.
+			- Put a full stop at the end of your sentence
+			- Don't worry! She'll be here by the end of the morning.
 
 
 --> Emphasis
@@ -384,6 +410,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		on the other hand	diğer taraftan
 		as opposed to		aksine
 		on the contrary		tam aksine
+		contrary to		aksine
+						contrary to what most people believe, spinach is not very rich in iron
 		otherwise		aksi halde
 		instead of		onun yerine
 		even if			olsa bile
@@ -394,6 +422,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		whenever		he ne zamansa
 		but for			ama için
 		however + adj/ adv	ancak + adj/ adv 
+						the weather was quite cold. however, he still went jogging
 		but ... anyway		ama ... neyse
 		but ... still		ama ... halen
 		yet ... still		ama ... halen
@@ -404,9 +433,6 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		all the same		farketmez, yine de
 		up to a point		bu noktaya kadar
 
-		rağmen = olduğu kadar
-
-		although =  much as
 
 		although		olmasına rağmen
 		though			rağmen
@@ -421,6 +447,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		even though + clause	--> ... e rağmen	even though there weren’t enough funds, the government decided to make new investments
 		despite + noun 		--> ... e rağmen	he went out despite the rain
 								he couldn’t succeed despite his effort
+								despite being disabled, she has made great achievements
 		in spite of + noun	--> ... e rağmen	in spite of the rain, they had the party outside
 								he decided to go in spite of my objection
 								
@@ -440,7 +467,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 	assuming that		varsayarsak
 	in that case		bu durumda
 	in case (that)		durumunda
-					in case he comes back
+					in case he comes back, what are we supposed to do?
 	even if			olsa bile
 	in the event (that)	durumunda
 	supposing		varsayalım
@@ -581,23 +608,6 @@ moreover, furthermore, what is more, besides, in addition, additionally, also			
 in order to, so as to, with a view to, in an attempt to, in a bid to, with the intention of 	... niyetiyle, ... mek için
 
 
-Examples:
-	during the lecture, all the students took notes
-	despite being disabled, she has made great achievements
-	contrary to what most people believe, spinach is not very rich in iron
-	the weather was quite cold. however, he still went jogging
-	some students rush out of the classroom as sson as the class ends
-	she will call us immediately after she arrives in Antalya, so stop worrying
-	I will leave the moment I have sent this message
-	I recognized Julia as soon as I saw her even though it had been more than a year since I had last seen her
-	she has made considerable progress since she started attending school more regularly
-	he has been looking for a job since he graduated, but hasn't found one yet
-	it is almost a year since she has been married
-	if you were you, I wouldn't start smoking at all, because once you start, it is very difficult to give up
-	once I start working for this company, all my financial problems will be over
-	once you have read a book by this author, you will want to read more
-	it will be almost midnight by the time we arrive home
-	most of the guests were already there by the time we arrived at the party
 	
 
 			Adverbial Clause words			Transitions		Conjunctions		Prepositions
