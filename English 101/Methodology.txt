@@ -1508,10 +1508,394 @@
                     
 
 
+            ECLECTIC APPROACH
+                    - Conflicting opinions among theories
+                    - Personalized teaching methods
+                    - Different Learners with different need and abilities
+
+                    - use of techniques and principles of different methods and approaches
+                    - Unique educational contexts
+                    - teacher make decisions about teaching process
+                    (tüm yaklaşımlar/methotlar kullanabilir)
+
+                    - öğretmen bir metoda bağlı kalmaz
+                    - var olan metodların hepsinden işe yarar özellikleri alır kullanır. Yeni hibrit bi metod gibi
+                    - bu metod öğrencinin ihtiyaçlarına, kültürüne ve seviyesine göre seçlir
+
+
+
+
+            NATURAL APPROACH
+                    - Krashen
+                    - Comprehensible input hypothesis
+
+                    Doğal yoldan öğrenme
+
+                    Natural Method = Direct method
+                    Natural approach is different
+                    - similarity between L1 acquisition and L2 learning
+                    - language as a means of communication
+                    - Teaching communication skills
+                    - Indispensability of the lexicon
+                    (bebeğin yeni dil öğrenmesi gibi, input olarak lexicon yapıları alır)
+                    - the focus is on vocabulary teaching rather than grammar
+                    - a silent period
+                    - authentic materials (ana dille ilgili şeyler orijinal materyal)
+                    - discovering rules through comprehensible input (input ver kuralları keşfetsin)
+                    - the importance of reading and listening input (asıl öğretmemiz gereken şey communication skill)
+                    - The teacher provides comprehensible input, content and materials
+                    - Interaction occurs between the teacher and students in the beginning. Then, between students.
+                    - L2 is used
+
+                    Techniques
+                    - Q and A
+                    - communication activities
+                    - realias and pictures
+                    - body language
+                    - listening tasks
+
+
+                    Dil öğrenmede iki kavram vardır
+                    - acquision (unconscious)
+                       ana dil öğrenmek gibi, bilinçsiz bir şekilde gerçekleşir. Doğrudan mahruz olmak
+                    - learning (conscious)
+                       bilinçli olarak yapılan öğrenmedir. Formal bir ortamda ders ortamı. Matematik gibi dersler bu şekilde öğretilir
+                       dil öğreniminde acquisition daha başarılıdır ama
+
+                    Krashen’a göre 5 tane hipotez var: öyle bir ortam olsun ki ana dil edinildiği gibi target dil edinilsin
+
+
+                    1- The Acquision-Learning Hypothesis
+                        Edinim ve öğrenme aynı şeyler değildir.
+                        - Acquisition as unconscious process
+                        - Learning as a conscious process (okul ortam olmalı)
+                        - adults(both of them) vs children(only acquisition)
+
+                    2- The monitör hypothesis
+                        - öğrenme sürecini görüntülemek kontrol etmek
+                        - learning monitoring as a controller
+                        - it corrects the outcome
+                        - acquisition is responsible for fluency (edinim akıcılık için önemli), sonradan öğrenme ise edinimle öğrenileni kontrol edebilme durumu. 
+                            Öğrenme sonucu kafamızda şemalar oluşur. Ve konuşurken kafamızda hep kontrol ederiz bu yüzden akıcılık yavaşlar.
+
+
+                    3- The Natural Order Hypothesis
+                        - An order of acquiring grammar rules (doğal sırayı değiştiremezsin)
+                        - some rules are learned before others!!
+                        - this order doesnt change
+                        - dilin öğretme ve öğrenme sıralaması konularla ing, plural s, possesivve s, past marker ed, third person singular s.
+
+                    4- The Input Hypothesis
+                        - Comprehensible input for acquisition (naturally)
+                        - Comprehensible input slightly beyond their level (i + 1)
+                        - Çocuğun anlamlandırabilecği çocuğun seviyesine uygun bilgilere Comprehensible input. Seviyesinin üzerindeyse o bilgiyi edinmeye çalışır
+
+
+                    5- The Affective Filter Hypothesis
+                        - affective filter is low (kendini iyi hissedersin lowda) when anxiety is low
+                        - Acquisition occurs when affective filter is low
+                        - motivation, self confidence, anxiety
+                        - saygı seviyesi
+                        - çocuklarda azdır.
+                        - Amaç: çocukların kendilerini ifade edebilecek beceri geliştirmelerini sağlamak: 
+                            fluency, çocuğun hemen konuşması beklenmez, comprehension(süreç anlama) > production (sonuç ürün) den daha önemli
+
+
+            WHOLE LANGUAGE APPROACH
+                - Holistic view
+                - Language is a vehicle
+                - Interactional Perspective
+
+                Aim
+                - to make students use L2 in real-life situations
+                - to help them practice language in social contexts
+
+                Tenets (inandıkları)
+                - there is holistic approach to language (dile bütüncül yaklaşıyor, becerileri bölmüyor ayrı ayrı değil bir bütün şeklinde)
+                - the language is taught as a whole rather than being divided into units (LSWR)
+                - students dont learn passively
+                - knowledge is not taken from the teacher
+                - language is socially constructed
+                - students learn through interactions
+                - authentic materials and tasks are used
+                - no artificial materials or tasks
+                - students’ needs are taken into account while chossing material
+                - learner-centered
+                - the teacher is a facilitator, guide, active participanant
+                - errors are tolerated
+                - only major errors are corrected
+                - culture is important and included in real life situations
+
+                Techniques
+                - Authentic reading (dil öğretimi için oluşturulmuş metinler değil)
+                - reading literary texts
+                - Individual or group reading activities
+                - Authentic writing
+                - writing email, cv, letteri story, portfolio
+                - magazine s and journals that are prepared by leaarners
+                - acting out real lfe situations
+                - roleplays
+
+
+                Language is a whole rather than units
+                - Bütüncül dil yaklaşımı da denir
+                - dil bir bütündür(holistic), bütün olarak öğretilmelidir
+                - dildeki beceriler birbirinden ayrılamayacağını savunur
+
+                Facilitator
+                Active participant
+
+                Amaç: 
+                - dört beceriyi kullanarak insanların iletişim kurmasını sağlamak.
+                - Dili sosyal ortamda, gerçek durumlarla kullanabilmeyi sağlamak
+                - Yaparak yaşayarak öğrenmeyi amaçlar
+
+                - hem dil, hem de insanlar bütün olarak kabul edilmelidir
+                - Constructivism’e dayanır. Yani bilgi sosyal ortamdan edinilir (Vygotsky)
+                - Reading- Writing odaklıdır
+                - Günlük yaşamda karşılaşılan problemler kullanılmalıdır (Social Practice)
+                - Öğrenci merkezli bir yaklaşımdır
+                - İş birliği içerisinde çalışmak önemlidir
+                - Öğrencinin partner seçimi, fikirleri, aktiviteleri önemlidir. Seçimleri öğrenci yapar
+
+
+            COMPETENCY BASED LANGUAGE TEACHING APPROACH
+                - öğrencileri belli bir bilgi seviyesine getirmeyi amaçlar. Amaç hedefi gerçekleştirmek
+                - Dil hem functional hem de interactionaldır
+                - değerlendirme yapılırken “norm-referenced” yapılır. Bağıl değerlendirme (diğerleri esas alınarak yapılan değerlendirme) – KPSS
+                - methodlar, araçlar, curriculum, design hepsi hedeflere ulaşmak içindir
+
+
+            COMPUTER ASSISTED LANGUAGE LEARNING (CALL) APPROACH
+                - bilgisayar destekli öğrenme ortamı sağlar
+                - amaç okullarda yapılan yüz yüze eğitimi bilgisayarla, internetle desteklemek
+                1- Behavioristic call
+                    davramışçı yaklaşımın prensipleri
+                    ders oortamında drilleri tekrar ettirir
+                    tek amaç accuracy
+                    habit formation
+                2- Communicative call
+                     temelinde iletişim
+                     gerçek bir ortam
+                     hedef fluency , Cognitive
+                3- Integrative call
+                    hem sosyal hem bilişsel iletişim
+                    hem fluency hem accuracy
+                    authentic
+
+                 Digital literacy – okur yazarlık
+                 Digital native – bu çağda doğanlar
+                 Digital immigrant – doğmamış adapteler
+
+
+                    Computer-Assisted Language Learning 
+                        - Integrate technology, Software programs, Internet
+                        - Web-based exercise
+                        - Applications
+                        - Online lessons, Online chat
+                        - E-mail, E-magazine
+                        - Communicative and Integrative
+
+
+
+            LEXICAL APPROACH
+                    - Building vocabulary knowledge
+                    - Chunks (Phrases, Collocations)
+
+                    - the knowledge of lexicon (kelime ve kelime gruplarını anlamak) as a key term for learning the language
+                    - Acquisition w cumulative examples rather than single words (tek tek yerine cümle içinde bir bütün olarak verilir)
+                    - the importance of the usage of lexical chunks (kelime grupları) and collacations (do homework gibi)
+                    - frequency of lexical items is important (sık sık tekrar)
+                    - grammar has a secondary role
+                    - teaching is done through lexical chunks
+                    - noticing the usages of lexical items
+                    - Inducing the rules through examples
+                    - Lexical syllabus is used
+
+
+                    - kelime bilgisi önemli
+                    - dil bilgisi ikinci planda
+                    - kelime ve kelime kalıpları
+                    - amacı hedef dilin akıcı bir şekilde konuşulması
+                    - öğrenciler öğrendikleri kelimelerle devamlı olarak karşılaşıp unutmamalarını saplamak
+                    - öğrenci kendi öğrenmesinden sorunludur
+                    - karşılaştıkları kelimeleri analiz eder not alırlar
+                    - Collocations (bir arada kullanılan kelimeler)
+                    - lexical syllabus kullanılır (kelimeye dayalı)
+                    - kelime öğrenmek için: voc. notebook, repetition, guessing activity, using dict., listening and reading activity kullanılır
+                    - 4 beceri arkada kalır ama mükemmel bir kelime haznesi gelişir
+                    - Corpus (kelimeleri deftere yazmak ve sürekli tekrar yapmak) oluşturmak ve güçlendirmek
+
+
+
+
+            COOPERATIVE (COLLABORATIVE) LANGUAGE LEARNING APPROACH
+                AIM
+                - to make learners cooperate, interact and share their knowledge
+
+                - learning occurs as a result of socially-structured exchange of information
+                - achieving a common task in pairs or groups
+                - cooperation rather than competition
+                - fostering motivation and reducing stress
+                - members of the groups are chosen by teachers
+                - Learners’ autonomy (bireysel katkı bağımsızlıl)
+                - individual and group work
+                - peer correction
+                - teacher is facililator
+
+                5 tane bileşen var prensibi var
+                Elements of Cooperative Language Learning
+                1- Positive interdependence
+                    Birbirilerine dayanma ihtiyaç
+                    Birbirlerine rakip değil, biri başarısız ise diğerleri onun açığını kapatır
+                2- Individual and Group Accountability 
+                   her bir üye değerlendirme ve grubun çalışması ortak değerlendirme, hem bireyin hem de grubun başarısı önemli
+                3- Interpersonal skills
+                     öğrenciler sosyal beceriler kazanmalı (karar verme, liderlik etc)
+                4- Face to Face Promotive Interaction
+                     Birbirlerine yardım/destek (Tuck Ambulans yapımı aklına gelsin)
+                5- Group processing
+                     Her bir öğrencinin grup çalışmasını gözden geçirmesi gerekiyor. 
+                     Grubun eksikliklerini görebilmek, hataları fark edebilmek ya da çalışmaları değerlendirebilme becerisi kazanabilmeyi amaçlar
+
+
+                Techniques (grupla yapılan herşey olabilir)
+                - debating and discussion
+                - Information gap activities (bilen bilmeyene aktarır)
+                - role plays and conversation
+                - interviews
+                - jigsaw activities (big puzzle, yani aslında herkes ayrı bi modül alıyor)
+                - problem solving activities
+
+                - çocuklar için önemli
+                - amaç çocukların grupla birlikte çalışması, onlara sosyal beceri sağlamak
+                - grup oluşturulmalı. Gruplar seçilerek heterojen olmalı
+
+
+
+            WEB 2.0
+                - HTML
+                - Blog, Wiki, Podcast, Wordle
+                - Fast Internet Connection
+                - Sharing Own Content
+                - Collaborative Environment (Uzaktan Eğitim)
+                - Digital Literacy  
+
+
+
+SYAFA 52
 
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+METHODS EXTRA
+POST-METHOD ERA
+- represents alternative to methods
+- skillful and autonomous teachers
+
+three parameters
+- Parameter of Particularity 
+      Teachers
+      Where, when and for whom the teaching is done
+- Practicality Parameter
+      Practicing
+      Putting a theory in practice (uygulanabilir olmalı)
+- Parameter of Possibility
+      Suitability of teaching method for learners (öğrenciye uygunluk)
+       Social, cultura and political factors are considered
+       Experirnces of learners
+
+
+APPROACH
+Post method
+- öğretmen kendi metodunu kendi oluşturur
+- var olan metodlar değil
+- interaction
+- communiation
+- autonomy
+- effective factor
+- hem fluency hem accuracy
+
+
+
+APPROACH
+Participatory Approach
+- kişileri sosyal yaşama katılımı sağlanır. 
+
+- the aim is to make learners active participants in social life
+- the themes and contents are added to learning process (contentbased ile karıştırma o dil üzerinden content öğretmek bu ise content üzerinden dil öğretmek)
+- topics are based on real life issues
+- collaboration and exchanging experiences are important
+- teacher is guide and facilitator
+- Students previous experience is important while choosing topics
+- Learning is experience centered
+- no pre-planned syllabus (theme and topic based syllabus)
+
+Techniques
+- Dİscussions
+- Role-plays
+- Autobiographies
+- CV writing
+- Dialogues
+
+
+- konu alanı günlük hayata karşılaşılabilecek olaylar olmalı
+- öğrenciler kendilerine uygun bulduklarını seçerler ve tartışırlar
+- öğrenci merkezli öğrencilerin yaşantılarını merkeze alır
+- tartışma ortamı vardır, öğretmen bu tartışma ortamını yöneten kişidir
+- öğrencilerden fikirlere saygı
+- öğrencilere sorular sorulur, birlikte o bilgi edinilir
+- konular önceden belirlenmez dersin akışına göre seçilir
+- deneyime ve tercübeye dayalıdır (for adults)
+- önceden belirlenmiş bi syllabus yok (non-predetermined)
+- ders sonunda öğrenciler edindiği bilgileri yazıya döker
+- speaking v listening var
+
+
+
+
+
+APPROACH
+Tandem learning
+- iki kişi ile gerçekleştirilen dil öğrenme şekli
+- karşılıklı sohbet ederek dil öğrenme
+- internette de yüz yüze de olabilir
+- amaç iki tarafında bilgi becerilerini aktarmasıdır.
+- iki kişi
+- tüm seviyelere uygun
+- önceden belirlenen planlar yoktur
+- grammar çok fazla önemsenmez
+- communicative bir yöntemdir
+
+
+APPROACH
+Portfolio based Learning
+- öğrencilerin bilgi v becerilerini kullanarak oluşturdukları, özgün çalışmarı topladıkları bir değerlendirme türüdür (dosya)
+- öğrenciler oluşturur ama öğretmen kontrolüünde
+- öğrenci autonomous, kendi güçlü v zayıf yönlerini bilir
+- deneyim var
+- öğretmen öğrencilerin ihtiyaçlarını belirler
+- öğrenci merkezlidir
+- a personal assistment
 
