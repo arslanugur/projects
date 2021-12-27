@@ -199,8 +199,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						I don't want you to drive while you're so tired
 						next week today, I will be lying on the beach while you are taking 
 		as			iken, sırada
-						as they looked down the street they saw a horseman coming - sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
-						His gaze drifted away as he considered the idea	- Bu fikri düşünürken bakışları başka yöne kaydı
+						as they looked down the street they saw a horseman coming	sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
+						his gaze drifted away as he considered the idea			bu fikri düşünürken bakışları başka yöne kaydı
 		just as			tıpkı, gibi
 						just as I walked into the room, I noticed a big spider on my bed
 		
@@ -211,14 +211,16 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						she has made considerable progress since she started attending school more regularly
 						he has been looking for a job since he graduated, but hasn't found one yet
 						it is almost a year since she has been married
-						since when did we start following the rules?		ne zamandan beri kurallara uyduk?
+						since when did we start following the rules?			ne zamandan beri kurallara uyduk?
 		until / till		-a kadar
 						I will stay up until midnight tomorrow
 						I wont say much till it’s time to go to bed
 						
-		not until		-den önce değil
-					-meden önce
-		eventually 		er ya da geç
+		not until		-den önce değil, -meden önce, kadar olmaz, kadar değil
+						no, not until you tell me how it went				hayır, nasıl gittiğini anlatana kadar olmaz
+		eventually 		er ya da geç, nihayetinde
+						everything eventually gets easier with practice		uygulama ile her şey sonunda daha kolay olur
+						such secrets are always eventually revealed		bu tür sırlar her zaman sonunda ortaya çıkar
 		whenever		ne zaman olursa
 		every time (that)	ne zaman .. olsa
 						Every time we meet a problem, it always seems to be related to housing
@@ -226,12 +228,21 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		the first time (that)	ilk kez
 		the last time (that)	son kez
 		the next time (that)	bir dahaki sefere
-		now that		mademki, -dığından
+		now that		mademki, artık, -dığından
+						they're popping up everywhere now that schools have gotten rid of all the bullies
+						her yerde bittikleri için okullar artık bütün kabadayılardan kurtuldu
 		meanwhile		o esnada
+						he does, meanwhile, have motive for his wife's murder
+						bu arada, karısını öldürmek için gerekçesi var
 		in the meantime		bu arada
+						they said I could get started in the meantime
+						bu sırada, benim başlayabileceğimi söylediler
 		in the past		geçmişte
 		currently		şu anda
+						applying for an ordinary Palauan passport currently costs USD50
+						şu anda sıradan bir Palau pasaportu için başvuru maliyeti 50 ABD dolarıdır.
 		presently		şu anda
+						one is presently used as an office/study		şu anda bir çalışma alanı/ofis olarak kullanılmaktadır
 		as soon as		yapar yapmaz
 						I am going to get out and have a drink as soon as I have finished with the work
 						I will call you as soon as I receive your mail
