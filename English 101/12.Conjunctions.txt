@@ -191,13 +191,13 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						after a few moments, he glanced up at her
 		before			-den önce
 						I worked with him for two years before I discovered who he really was
-						it was some time before I could plan it to suit me
+						it took some time before I could plan it to suit me	bana uyacak şekilde planlayabilmem biraz zaman aldı 
 		when			-dığı zaman
 						he had climbed many a tree when he was a boy
 						when she woke again, the room was dark
 		while			iken, sırada
 						I don't want you to drive while you're so tired
-						next week today, I will be lying on the beach while you are taking 
+						next week today, I will be lying on the beach while you are working 
 		as			iken, sırada
 						as they looked down the street they saw a horseman coming	sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
 						his gaze drifted away as he considered the idea			bu fikri düşünürken bakışları başka yöne kaydı
@@ -302,6 +302,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		even so			olsa bile
 		in spite of		karşın, e rağmen
 		regardless of		gözetilmeksizin, bakılmaksızın
+						show respect for everyone who works for living, regardless of how trivial their job
+							işleri ne kadar önemsiz olursa olsun, yaşamak için çalışan herkese saygı göster
 		due to			nedeniyle, dolayısıyla, yüzünden
 		by means of		aracılığıyla
 		nonetheless		her şeye rağmen
@@ -356,7 +358,9 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		subsequently		sonradan
 		above all		her şeyden önce
 		last but not least	sonuncu ama bir o kadar önemli
-		first and foremost	ilk ve en önemli 
+		first and foremost	ilk ve en önemli
+						firstly and foremost, they can give up at any point
+							ilk ve en önemlisi, istedikleri anda vazgeçebilirler
 
 
 --> Result (Consequence)
@@ -396,6 +400,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		whether or not		olsun ya da olmasın
 		as much as		olduğu kadar
 		whereas			oysa
+						it is said that hunger develops intelligence, whereas satiety, on the contrary, dulls it
+							açlığın zekâyı geliştirdiği, oysa tokluğun ise tam tersine körelttiği söylenir
 		similarly		benzer şekilde
 		equally			eşit olarak
 		likewise		aynı şekilde
@@ -406,7 +412,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		by the same token	aynı şekilde
 		in like manner		benzer şekilde
 		like			benzer
-		another .. like		bir diğer .. gibi
+		another ... like	bir diğer .. gibi
 		in the same way		aynı şekilde
 		as with			olduğu gibi
 		comparable		karşılaştırılabilir 
@@ -426,6 +432,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		otherwise		aksi halde
 		instead of		onun yerine
 		even if			olsa bile
+						be brave. even if you are not, pretend to be. no one can tell the difference
 		even so			olsa bile		
 		no matter		ne yaparsa yapsın
 		whatever		her ne ise
@@ -446,10 +453,10 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 
 
 		although		olmasına rağmen
+						Although he promised to come, I still didn’t think he would
 		though			rağmen
 		even though		buna rağmen
 		much as			buna rağmen			
-		even if			olsa bile
 		despite the fact that	bu gerçeğe rağmen
 		in spite of the fact that - ... e rağmen, ... se bile
 	
@@ -474,6 +481,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 	unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 					
 	if			eğer
+					we got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
+						dairemizin dışında kaldık. çilingir gelene kadar burada beklememizin bir sakıncası var mı? 
 	only if			yalnızca
 	assuming that		varsayarsak
 	in that case		bu durumda
