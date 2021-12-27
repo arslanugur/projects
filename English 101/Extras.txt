@@ -302,12 +302,15 @@ the event did not go well -by any means-
 I am not -in the least- hungry
 I have no sympathy -whatsoever-
 under the circumstances should you travel alone
-
+People can only forgive what they don't need any more - insanlar sadece artık ihtiyaç duymadığı şeyleri affedebilmy ir
 no matter what you say, I will never believe
 whatever you say, I will never believe
 	ne söylersen söyle; asla inanmayacağım
 you are as old as you feel
+snip, snap, snout, and then the story was out...
 
+
+my philosophy is that worrying means you suffer twice - benim felsefem endişenmek iki kez acı çekmektir
 speak less, listen more. react less, observe more
 inside every person you know, there is a person you don't know
 you deserve more than a maybe or someday
@@ -749,6 +752,12 @@ get a life - rahat ver, işine bak
 just in case - ne olur ne olmaz
 don't mind - kafana takma
 make yourself useful - bir işe yara
+what he said doesn't make sense to me - söylediği şey bana mantıklı gelmiyor
+he must have forgotten - unutmuş olmalı
+he should have called you yesterday - seni dün aramalıydı
+what if the flight is cancelled - ya uçuş iptal edilirse
+he behaved as if nothing had happened - hiçbir şey olmamış gibi davrandı
+that has nothing to do with what we're discussing - tartıştığımız şeyle bunun hiç bir ilgisi yok
 
 
 
@@ -1213,3 +1222,17 @@ external origin				opportunities	|	threats
 🔻 http://www.tmco.com.tr/ise-alim-testleri/watson-glaser-elestirel-dusunme
 🔻 Gambler's fallacy - Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
 🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
+
+
+🔻 How to value a company
+	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
+	
+		Formula:
+		Share price = Expected Dividend Per Share (EDPS) / (Cost of Capital Equity (CCE) - Divident Growth Rate (DGR))
+		
+		Let's look at Coca-Cola (NYSE: KO)
+		
+		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
+		
+		
+
