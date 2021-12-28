@@ -8,71 +8,38 @@
          мне нужно сделать  I need to do
     мне нужно было сделать  I needed to do
 
-            хочешь сделать
-    хочешь, чтобы я сделал
-          бы хотел сделать
-             хотел сделать
-            захочу сделать
-собираюсь захотеть сделать
+            хочешь сделать  you want to do
+    хочешь, чтобы я сделал  you want me to do
+          бы хотел сделать  I would want to do
+             хотел сделать  I wanted to do
+            захочу сделать  I will want to do
+собираюсь захотеть сделать  I am going to want to do
 
-           стараюсь делать
-           пытался сделать
-        предпочитаю делать
-      бы предпочел сделать
-бы лучше сделал, чем пошел
-мне было бы лучше заняться
-       уже давно занимаюсь
-        занимался тем, что
-         собираюсь сделать
-        собираюсь заняться
-      придется это сделать
-                 бы сделал
-                  бы делал
-           бы так и сделал
-      раньше я так и делал
-   раньше я мог это делать
-             привык делать
-  начинаю привыкать делать
-            должен сделать
-    должно быть, занимаюсь
-       должно быть, сделал
-        должно быть, делал
-        должен был сделать
-     должен был бы сделать
- не возражаешь (возражать)
-
-You want to do
-You want me to do
-I would want to do
-I wanted to do
-I will want to do
-I am going to want to do
-
-I try to do
-I tried to do 
-I prefer doing
-I would prefer to do
-I would rather do than go  
-I had better doing
-I have been doing
-I had been doing
-I am going to do
-I am going to be doing
-I will/going to have to do
-I would do
-I would have been doing
-I would have done
-I used to do
-I used to be able to do
-I am used to doing/I was used to doing/I got used to doing
-I am getting used to doing
-I must/have to/supposed to/should do
-I must be doing
-I must have done
-I must have been doing
-I had to/should have been do
-I would have to do
-Would/do you mind?
+           стараюсь делать  I try to do
+           пытался сделать  I tried to do 
+        предпочитаю делать  I prefer doing
+      бы предпочел сделать  I would prefer to do
+бы лучше сделал, чем пошел  I would rather do than go  
+мне было бы лучше заняться  I had better doing
+       уже давно занимаюсь  I have been doing
+        занимался тем, что  I had been doing
+         собираюсь сделать  I am going to do
+        собираюсь заняться  I am going to be doing
+      придется это сделать  I will/going to have to do
+                 бы сделал  I would do
+                  бы делал  I would have been doing
+           бы так и сделал  I would have done
+      раньше я так и делал  I used to do
+   раньше я мог это делать  I used to be able to do
+             привык делать  I am used to doing/I was used to doing/I got used to doing
+  начинаю привыкать делать  I am getting used to doing  
+            должен сделать  I must/have to/supposed to/should do
+    должно быть, занимаюсь  I must be doing  
+       должно быть, сделал  I must have done
+        должно быть, делал  I must have been doing
+        должен был сделать  I had to/should have been do
+     должен был бы сделать  I would have to do
+ не возражаешь (возражать)  would/do you mind?
 
 
 
