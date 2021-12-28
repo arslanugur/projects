@@ -8,8 +8,111 @@ EV3 block kodlama Dili
 
 
 ---> İSTANBUL TİCARET ÜNİVERSİTESİ
+Bilginet Akademi 
+Mekatronik Mühendisleri
+en temelden arduino 7.seviyeye kadar
+6 ay ayda 2 kere canlı ders 8 v 9 arasında  -- 12 tane canlı yayın
+sertifika edevlet ve CPD sertifikalı
+3270tl 
+1870tl ücretsiz arduino seti
+ödeme planı 2den 12 aya kadar
+sınav - 40 soru 60 dk %50 geçme notu 
 
 
+Algoritmaya Giriş:    ‘Algoritma’nın Tanımlaması, Tarihçesi, Algoritma Yapısı ve Algoritma Örnekleri’
+Artırılmış Gerçeklik: ‘Artırılmış Gerçeklik Tanımlama, İçerik ve Artırılmış Gerçeklik Bumble Bee ve Power Rangers gibi Uygulama’
+Joy kart ile Uygulamalar 1
+                      ‘Joy Kart Tanımlama, İçerikleri, Joy Kart ile Hayvan Sesleri, Joy Kart ile Çizim Uygulamaları’
+                      ‘Joy Kart ile Flappy Bird, Joy Kart ile Piyano, Joy Kart ile Pingpong Oyunu ve Joy Kart ile Pacman Oyunu’
+Blockly               ‘Blockly Tanımlama, İçerikleri ve Blockly Bulmaca, Labirent, Kuş, Kaplumbağa, Film, Müzik ve Eğitim Havuzu Uygulama’
 
+Scratch               ‘Scratch Tanımlama, Scratch Arayüzü Tanıma, Hesap Oluşturma, Temel Fonksiyonlar ve Scratch Kedisi Zıplama, Yürüme ve Scratch Kedisi Konuşma Uygulama’
+
+Bulutboard Tanıtım Uygulama I
+        ‘Bulutboard Tanıma ve İçerik’
+Bulutboard Deniz Feneri Sokak Lambası Uygulama II
+        ‘ Bulutboard Deniz Feneri ve Sokak Lambası Uygulama Uygulama’
+Bulutboard - Org ve Mesafe Sensörü Uygulama III
+        ‘ Bulutboard Org ve Mesafe Sensörü Uygulama’
+Bulutboard - Servo Motor Uygulama IV
+       ‘Bulutboard İsim Yazma ve Araç Geçiş Uygulama’
+Bulutboard - Fan & Sıcaklık Sensörü Uygulama V
+       ‘Bulutboard Klima Kontrol, Oda Sıcaklığı ve Uygulama’
+Bulutboard - Joystick Servo ve Çiçek Bulutçuk Uygulama VI
+       ‘Bulutboard Çiçek Bulutçuk ve Joystick Servo Uygulama’
+Bulutboard Akıllı Klima ve Alkış İle Yanan Lamba Uygulama VII
+       ‘Bulutboard Alkış ile Yanan Lamba ve Akıllı Klima Uygulama’
+Bulutboard - Oyun Hamuru Uygulama VIII
+       ‘Bulutboard Oyun Hamuru ve Uygulama’
+
+Temel Elektronik
+       ‘Temel Elektronik Tanımlama, Bread Board Kullanımı, Direnç Hesaplama, Örnekler ve Bağlantılar’
+
+Programlamaya Giriş
+       ‘Veri Türleri, Değişkenler ve Operatörler Tanımlama, Karar Kontrol Yapıları, Döngüler ve C Programlama’
+
+Ardunio'ya Giriş
+       ‘Ardunio Tanımlama, İçerik, Ardunio Çeşitleri ve Ardunio Teknik Özellikleri’
+
+Tinkercard ile Ardunio Uygulamaları
+       ‘ Tinkercad ile Ardunio Tanım, İçerik ve Tinkercad ile Uygulamalar’
+
+Ardunio ile Başlangıç Uygulamaları I Led Yakma
+       ‘Ardunio ile Led Yakma Uygulama’
+Ardunio ile Başlangıç Uygulamaları II - Flip flop & Kara Şimşek
+       ‘ Ardunio ile Flip-Flop ve Kara Şimşek Uygulama’
+Ardunio ile Başlangıç Uygulamaları III Potansiyometre ile servo motor
+       ‘Ardunio-Potansiyometre ile Servo Motor Kullanımı Uygulama’
+Ardunio ile Başlangıç Uygulamaları IV Mesafe Sensörü & Buzzer
+       ‘Ardunio ile Mesafe Sensörü, Mesafe Sensörü ile Buzzer Uygulama’
+Ardunio ile Başlangıç Uygulamaları V LCD Ekran Yazı Yazma
+       ‘Ardunio ile X16 LCD Ekran Kayan Yazı ve Ekranda Karakter Oluşturma Uygulama’
+Ardunio ile Başlangıç Uygulamaları VI Sıcaklık & Nem Ölçer
+       ‘Ardunio ile DHT11 Nem ve Sıcaklık Sensörü Uygulama’
+
+Dnyardunio uygulama I - Tanıtım & Led yakma
+       ‘ dnyArdunio Tanımlama, İçerik ve Trafik Lambası Uygulama’’
+Dnyardunio uygulama II - Butonla led yakma
+       ‘ dnyArdunio Buton ile Led Yakma Uygulam
+DnyArdunio uygulama III - Buzzer ile nota
+       ‘ dnyArdunio Buzzer ile Nota Uygulam
+Dnyardunio uygulama IV - LCD Ekran kayan yazı
+       ‘ dnyArdunio LCD Ekran Kayan Yazı Yazma Uygulam
+Dnyardunio uygulama V - Seven Segment
+       ‘ dnyArdunio Seven Segment Uygulam
+Dnyardunio uygulama VI - Joystick kullanımı
+       ‘ dnyArdunio Joystick Kullanımı Uygulam
+
+Lego WeDo Robotik I
+       ‘Lego İçerik, Tanıtım ve Başlangıç Projeleri Tırtıl, Fan ve Uydu Uygulama’
+Lego WeDo Robotik II
+       ‘Lego Rehberlik Projeleri Tanım, Mini Robot, Keşif Aracı Milo ve Milo Hareket Sensörü Uygulama’
+Logo WeDo Robotik III
+       ‘Lego Rehberlik Projeleri Milo Eğim Sensörü, Çekme ve Sürat Uygulama’
+Lego WeDo Robotik IV
+       ‘Lego Rehberlik Projeleri Dayanıklı Yapılar ve Kurbağanın Başkalaşımı Uygulama’
+Lego WeDo Robotik V
+       ‘Lego Rehberlik Projeleri Bitkiler ve Tozlaşma Uygulama’
+Lego Wedo 2.0 ile Robotik VI
+       ‘Lego Rehberlik Projeleri Kurtarma Helikopteri ve Geri Dönüşüm Uygulama’
+
+Mbot ile robotik uygulamaları I
+       ‘MBOT Tanım ve İçerik, MBOT Modelleri, Kutu İçeriği’
+Mbot ile robotik uygulamaları II
+       ‘MBOT-MBlock Led Yak Söndür, Renk Değiştirme ve Karakter ile Renk Değiştirme Uygulama’
+Mbot ile robotik uygulamaları III
+       ‘MBOT-MBlock ve Karakter ile Led Yer Değişimi Uygulama’
+Mbot ile robotik uygulamaları IV
+       ‘MBOT-MBlock Klavyeden Kontrol Uygulama’
+
+AppInventor
+       ‘AppInventor Tanım, Kullanım Şekli ve Led Uygulama’
+
+3 boyutlu tasarım
+       ‘Boyut Kavram Tanımlama ve Çalışma Düzlemi ve Tasarım Uygulama’
+3 boyutlu Yazıcı I
+       ‘3 Boyutlu Yazıcılar Tanım, Gelişimi ve Tarihçesi’
+3 boyutlu Yazıcı II
+       ‘3 Boyutlu Yazıcı Tasarım Program Tanıtım ve Uygulama’
 
 
