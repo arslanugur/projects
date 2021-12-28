@@ -199,14 +199,15 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						I don't want you to drive while you're so tired
 						next week today, I will be lying on the beach while you are working 
 		as			iken, sırada
-						as they looked down the street they saw a horseman coming	sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
+						as they looked down the street they saw a horseman coming
+							sokağın aşağısına baktıklarında bir atlının geldiğini gördüler
 						his gaze drifted away as he considered the idea			bu fikri düşünürken bakışları başka yöne kaydı
 		just as			tıpkı, gibi
 						just as I walked into the room, I noticed a big spider on my bed
 		
 		by the time		zamana kadar
 						it will be almost midnight by the time we arrive home
-						most of the guests were already there by the time we arrived at the party						
+						most of the guests were already there by the time we arrived at the party
 		since			-den beri
 						she has made considerable progress since she started attending school more regularly
 						he has been looking for a job since he graduated, but hasn't found one yet
@@ -217,7 +218,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						I wont say much till it’s time to go to bed
 						
 		not until		-den önce değil, -meden önce, kadar olmaz, kadar değil
-						no, not until you tell me how it went				hayır, nasıl gittiğini anlatana kadar olmaz
+						no, not until you tell me how it went			hayır, nasıl gittiğini anlatana kadar olmaz
 		eventually 		er ya da geç, nihayetinde
 						everything eventually gets easier with practice		uygulama ile her şey sonunda daha kolay olur
 						such secrets are always eventually revealed		bu tür sırlar her zaman sonunda ortaya çıkar
@@ -239,8 +240,8 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						bu sırada, benim başlayabileceğimi söylediler
 		in the past		geçmişte
 		currently		şu anda
-						applying for an ordinary Palauan passport currently costs USD50
-						şu anda sıradan bir Palau pasaportu için başvuru maliyeti 50 ABD dolarıdır.
+						applying for an ordinary German passport currently costs USD 50
+						şu anda sıradan bir Alman pasaportu için başvuru maliyeti 50 ABD dolarıdır.
 		presently		şu anda
 						one is presently used as an office/study		şu anda bir çalışma alanı/ofis olarak kullanılmaktadır
 		as soon as		yapar yapmaz
@@ -280,35 +281,84 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 
 
 --> Emphasis
-		indeed			aslında
+		indeed			aslında, doğrusu
+		 				His only fault indeed seems Modesty	
+							Tek hatası, doğrusu, alçak gönüllülüğü gibi görünüyor. 
 		obviously		açıkçası
+						Well, obviously, Amazon is able to collect this data as they make sales
+							Eh, belli ki Amazon bu verileri satış yaparken toplayabiliyor
 		particularly		özellikle de
-		in particular		özellikle
+						 Winter months pose particularly difficult conditions for riders
+							Kış ayları özellikle sürücüler için oldukça zor zamanları beraberinde getiriyor
+		in particular		özellikle, bilhassa
+						 Because it seems like she is interested in you in particular
+							Çünkü anlaşılan bu kız seninle özel olarak ilgileniyor
 		especially		özellikle
+						Information is always changing, especially in healthcare
 		clearly			açıkça
-		importantly		daha da önemlisi
+						Three ongoing cases clearly demonstrate these concerns.
+							Halen devam eden üç dava bu kaygıları açıkça göstermektedir 
+		more importantly	daha da önemlisi
+						 More importantly, I want you to feel comfortable being yourself
+							Daha da önemlisi, kendin olma konusunda rahat olmanı istiyorum. 
 		absolutely		kesinlikle
-		definitely		kesinlikle
-		without a doubt		şüphesiz
+						he absolutely must see her, however painful it may be for him
+		definitely		kesinlikle, mutlaka
+						 it definitely needs time to improve.
+							daha iyi gelişmeler için mutlaka zamana ihtiyaç var
+						 This will definitely influence your decision
+							Bu da sizin kararınızı mutlaka etkisi altına alacaktır
+		without a doubt		şüphesiz, kuşkusuz, hiç şüphe etmeden 
+						Hybrids and electric vehicles are without a doubt the future of cleaner motoring.
+							Hibrit ve elektrikli araçlar kuşkusuz daha temiz motor sisteminin geleceğidir 
 		undoubtedly		şüphesiz
+						 You'll undoubtedly perish in this ridiculous scheme.
+							Hiç şüphesiz, saçma bir planın içinde, yok olup gideceksiniz. 
 		never			asla
-		it should be noted	belirtilmelidir ki 
+						 Someone recently told me never to say never.
+							Yakınlarda birisi bana asla, asla dememem gerektiğini öğretti 
+		it should be noted	belirtilmelidir ki
+						However, it should be noted, and some features of this device that must be discussed.
+							Bununla birlikte, bu cihazın ve tartışılması gereken bazı özelliklerinin de belirtilmesi gerekir. 
 		as a matter of fact	aslına bakarsan
-						As a matter of fact, I did 
+						 And as a matter of fact I keep asking myself the same question.
+							Ve aslına bakarsanız, ben de bu soruyu kendime sık sık soruyorum. 
 
 
 --> Addition
 		so that			böylece, öyle ki
-		even so			olsa bile
+						 I took a job up here, so that we could meet.
+							Burada bir iş aldım, böylece görüşebiliriz
+		even so			olsa bile, yine de, buna rağmen
+						 But even so, considering the conditions
+							Ama öyle olsa bile, içinde bulunduğumuz durumu göz önüne alırsak
 		in spite of		karşın, e rağmen
+						 But in spite of our efforts, the doctor started to feel lonely.
+							Ancak tüm çabamıza rağmen doktor kendini yalnız hissetmeye başladı. 
 		regardless of		gözetilmeksizin, bakılmaksızın
 						show respect for everyone who works for living, regardless of how trivial their job
 							işleri ne kadar önemsiz olursa olsun, yaşamak için çalışan herkese saygı göster
 		due to			nedeniyle, dolayısıyla, yüzünden
-		by means of		aracılığıyla
-		nonetheless		her şeye rağmen
-		further			daha ötesi
-		furthermore		üstelik
+						 The Peace Process has unfortunately stalled due to unexpected, unforeseen circumstances.
+							Ne yazık ki barış süreci umulmadık, öngörülemeyen şartlardan ötürü durmuş haldedir. 
+		by means of		aracılığıyla, vasıtasıyla
+						 Each customer pays for the service by means of a subscription
+							Her müşteri, bir abonelik aracılığıyla hizmet için ödeme yapar
+						 We express our thoughts by means of languages.
+							Biz düşüncelerimizi diller vasıtasıyla ifade ederiz. 
+		nonetheless		her şeye rağmen, yine de, bununla birlikte
+						 Nothing particularly remarkable, but useful nonetheless.
+							Özellikle dikkat çekici bir şey değil, ama yine de işe yarar. 
+		further			daha ötesi, daha fazlası
+						For further details, please see 4.
+							Daha fazla bilgi için, lütfen EK 4'e bakın.
+						Some German companies have already announced further investment.
+							Alman şirketleri de nihayet daha fazla yatırım malı almaya başladılar. 
+		furthermore		üstelik, ayrıca
+						 And furthermore, use all means to get this criminal to talk.
+							Üstelik bu suçluyu konuşturmak için her türlü yolu kullanın.
+						 That group, furthermore, disproportionately represents the highest unemployment benefit amounts.
+							Bu grup aynı zamanda orantısız şekilde en yüksek işsizlik ödenekleri miktarını temsil etmektedir. 
 		also			ayrıca
 		too			hem de
 		besides			dışında, yanı sıra
@@ -344,6 +394,20 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		to conclude		sonuçlandırmak 
 
 
+--> Opinion
+	in my opinion
+	as far as i’m concerned
+	to my mind
+	i think
+	it seems to me that
+		- at least, as far as I can see, he'll be fine
+		- there was no other way to look at it as far as she was concerned
+		- the wheels started spinning in my mind
+		- I am quite clear in my mind that this means building on the existing programmes
+			Bunun mevcut programların üzerine inşa etmek anlamına geldiği konusunda oldukça netim
+		- I think, the birth rate will go down in my country in the next few years
+		- it seems to me that the situation really is very confused
+		- the committee adopted too many amendments, in my opinion
 
 
 --> Order
@@ -557,20 +621,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
 
 
---> Opinion
-	in my opinion
-	as far as i’m concerned
-	to my mind
-	i think
-	it seems to me that
-		- at least, as far as I can see, he'll be fine
-		- there was no other way to look at it as far as she was concerned
-		- the wheels started spinning in my mind
-		- I am quite clear in my mind that this means building on the existing programmes
-			Bunun mevcut programların üzerine inşa etmek anlamına geldiği konusunda oldukça netim
-		- I think, the birth rate will go down in my country in the next few years
-		- it seems to me that the situation really is very confused
-		- the committee adopted too many amendments, in my opinion
+
 		
 --> Explaining
 	as, since, in so far as, because, the reason why
