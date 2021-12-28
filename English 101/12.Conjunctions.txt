@@ -360,20 +360,66 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 						 That group, furthermore, disproportionately represents the highest unemployment benefit amounts.
 							Bu grup aynı zamanda orantısız şekilde en yüksek işsizlik ödenekleri miktarını temsil etmektedir. 
 		also			ayrıca
+						Also, Ankara contacted us regarding water for its residents in Çankaya
+							Ayrıca Ankara, Çankaya'da yaşayanlar için su konusunda bizimle iletişime geçti
 		too			hem de
+						She said we have to see it, too - Bizim de görmemiz gerektiğini söyledi
+						Maybe he was going to show her he could be a nice guy too
+						You might want to watch out for him too - Sen de ona göz kulak olmak isteyebilirsin.
 		besides			dışında, yanı sıra
+						She knows four hundred phrases besides numerous words
+						Where else did you go besides the barber shop?
 		finally			en sonunda
+						Finally she put the knife down and started putting the sliced meat in a plastic container
+							Sonunda bıçağı indirdi ve dilimlenmiş eti plastik bir kaba koymaya başladı
 		last			en son
+						It seems like years since I saw you last
+						she might not find the way if she didn't know where they'd been last
+							en son nerede olduklarını bilmeseydi yolu bulamayabilirdi
 		apart from		dışında
+						But you're here now, and apart from the obvious, you look good
+							Ama buradasın ve dış görünüşün dışında iyi görünüyorsun
+						It had become clear that, apart from their scientific aspects, these voyages of discovery were highly profitable
+							 Bilimsel yönlerinin yanı sıra, bu keşif yolculuklarının oldukça karlı olduğu ortaya çıkmıştı
+						Mary has only ever had one other boyfriend, apart from Tom.
+						 	Mary'nin Tom dışında sadece bir erkek arkadaşı oldu
 		along with		ile birlikte
-		additionally		bunlara ek olarak
-		in addition to this	buna ek olarak
+						For depression along with conventional antidepressants, it must be consumed fish oil 9.6 grams/day.
+		additionally		bunlara ek olarak, aynı zamanda
+						Samsung has additionally worked hard to reduce noise in computers, too
+							Samsung aynı zamanda bilgisiyarlarda gürültüyü azaltmak için de çok çalıştı 
+		in addition to this	buna ek olarak, bunun yanı sıra
+						in addition to this the building work continues.
+							bunun yanı sıra inşaat işi de devam ediyor. 
 		then			ondan sonra
-		moreover		dahası
+						Start at low speeds, then accelerate, then slow down again
+							Düşük hızda başla, ondan sonra hızlan, ondan sonra tekrar yavaşla
+		moreover		dahası, üstelik
+						 The house looked good; moreover, the price was right.
+							Ev iyi görünüyordu, üstelik fiyat en uygundu. 
 		as well as (that)	yanı sıra
-		what’s more		dahası olan şey
+						 This lifestyle modification helps treat as well as prevent various diseases.
+							Bu yaşam tarzı değişikliği çeşitli hastalıkları önlemenin yanı sıra tedaviye de yardımcı olur. 
+		what’s more		dahası
+						and what's more, I know who did it
+						my sister can ride a motorcycle, and what's more, a bicycle
+							Kız kardeşim bir motosiklet sürebilir, ve dahası bir bisikleti de. 
 		not only ... but also	sadece ... değil, aynı zamanda
 
+
+--> Opinion
+		in my opinion		benim görüşüme göre
+						the committee adopted too many amendments, in my opinion
+		as far as i’m concerned	ilgilendiğim kadarıyla
+						at least, as far as I can see, he'll be fine
+						there was no other way to look at it as far as she was concerned	
+		to my mind		bana göre
+						because to my mind, viewing the subject as a whole, would be intelligible
+		i think			sanırım, bence
+						I think, the birth rate will go down in my country in the next few years
+		it seems to me that	bana öyle geliyor ki
+						it seems to me that the situation really is very confused
+		
 
 --> Summary
 		in short		kısacası
@@ -392,22 +438,6 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		in conclusion		sonuç olarak
 		altogether		tamamen
 		to conclude		sonuçlandırmak 
-
-
---> Opinion
-	in my opinion
-	as far as i’m concerned
-	to my mind
-	i think
-	it seems to me that
-		- at least, as far as I can see, he'll be fine
-		- there was no other way to look at it as far as she was concerned
-		- the wheels started spinning in my mind
-		- I am quite clear in my mind that this means building on the existing programmes
-			Bunun mevcut programların üzerine inşa etmek anlamına geldiği konusunda oldukça netim
-		- I think, the birth rate will go down in my country in the next few years
-		- it seems to me that the situation really is very confused
-		- the committee adopted too many amendments, in my opinion
 
 
 --> Order
@@ -535,90 +565,93 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 								
 
 --> Condition
-	CÜMLE ALANLAR
-	on condition that	şartıyla
-	provided that		şartıyla
-	providing that		sağlanması şartıyla, koşuluyla
-	so long as		sürece
-	as long as		sürece
-					as long as it takes - ne kadar gerekirse
-	unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
+		CÜMLE ALANLAR
+		on condition that	şartıyla
+		provided that		şartıyla
+		providing that		sağlanması şartıyla, koşuluyla
+		so long as		sürece
+		as long as		sürece
+						as long as it takes - ne kadar gerekirse
+		unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 					
-	if			eğer
-					we got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
+		if			eğer
+						we got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
 						dairemizin dışında kaldık. çilingir gelene kadar burada beklememizin bir sakıncası var mı? 
-	only if			yalnızca
-	assuming that		varsayarsak
-	in that case		bu durumda
-	in case (that)		durumunda
-					in case he comes back, what are we supposed to do?
-	even if			olsa bile
-	in the event (that)	durumunda
-	supposing		varsayalım
-	if so			eğer öyleyse
-	whether or not		öyle ya da böyle
-	in order to		amacıyla
-	so that			böylece
-	otherwise		aksi halde
-	or (else)		veya (başka) 
+		only if			yalnızca
+		assuming that		varsayarsak
+		in that case		bu durumda
+		in case (that)		durumunda
+						in case he comes back, what are we supposed to do?
+		even if			olsa bile
+		in the event (that)	durumunda
+		supposing		varsayalım
+		if so			eğer öyleyse
+		whether or not		öyle ya da böyle
+		in order to		amacıyla
+		so that			böylece
+		otherwise		aksi halde
+		or (else)		veya (başka) 
 	
 	
 	
 	
 
 --> Reason (Purpose / Cause and Effect)
-	CÜMLE ALANLAR
-	since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
+		CÜMLE ALANLAR
+		since, because, for, as long as, so long as, now that, in as much as   -- dığı için, çünkü
 
-	because, since, as
-		because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
-		since all the buses were crowded, i took a taxi yesterday
-	
-	on the grounds that – mesi sebebiyle/gerekçesiyle
+		İSİM ALANLAR
+		because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
+		
+		
+		because, since, as
+			because our transport company is rather small, we sometimes manage to offer a discount on the sea freight
+			since all the buses were crowded, i took a taxi yesterday
+		
+		on the grounds that – mesi sebebiyle/gerekçesiyle
 
-	now that – artık … -dığına göre
-		Now that everybody is here, we can start the conference
-		Now that the work is finished, i am going to rest a few hours
+		now that – artık … -dığına göre
+			Now that everybody is here, we can start the conference
+			Now that the work is finished, i am going to rest a few hours
 	
-	seeing that – madem ki
-		seeing that you have already made your decision, there isn't much I can do
-			madem çoktan kararını verdin, yapabileceğim pek bir şey yok
+		seeing that – madem ki
+			seeing that you have already made your decision, there isn't much I can do
+				madem çoktan kararını verdin, yapabileceğim pek bir şey yok
+		
+		inas much as – çünkü
+			inas much as you couldnt make a decision, you should stop complaining about it
 	
-	inas much as – çünkü
-		inas much as you couldnt make a decision, you should stop complaining about it
-	
-	in that – çünkü
+		in that – çünkü
 
-	so that, in order (to) (that), to, so as to, what this in mind, in fact, for fear that
+		so that, in order (to) (that), to, so as to, what this in mind, in fact, for fear that
 
-	as long as, so long as, inasmuch as, lest, such ... that, so ... that
-		as long as you want to, you can stay in this city
-		so long as you eat a well-branced diet you will be all right
+		as long as, so long as, inasmuch as, lest, such ... that, so ... that
+			as long as you want to, you can stay in this city
+			so long as you eat a well-branced diet you will be all right
 	
-	therefore, consequently, so
-		... mek için			--> in order to, so as to, to + Ving
-		... mek için, … sın diye 	--> in order that, so that + clause
+		therefore, consequently, so
+			... mek için			--> in order to, so as to, to + Ving
+			... mek için, … sın diye 	--> in order that, so that + clause
 
-	So, therefore, as a result, consequently, hence, that's why – bu yüzden, sonuç olarak
-		it was rather cold, so we had to stay at home
-		it hasnt rained for three months. Therefore, the farmers are having hard times
-		they left home late. They, therefore, misssed the bus (therefore)
-		there was a lot of noise in the neighborhood. Consequently, he had to move to another place
+		So, therefore, as a result, consequently, hence, that's why – bu yüzden, sonuç olarak
+			it was rather cold, so we had to stay at home
+			it hasnt rained for three months. Therefore, the farmers are having hard times
+			they left home late. They, therefore, misssed the bus (therefore)
+			there was a lot of noise in the neighborhood. Consequently, he had to move to another place
 		
 
-	BECAUSE
-	as a result of - nın sonucu olarak
-	as things go - bu şekilde geliştiğinden
-	considering - göz önüne alarak
-	due to - sebebiyle
-	by virtue of - sayesinde
-	for the sake of - bu uğurda
-	in view of - bu bakış açısı ile
-	on grounds that - gerekçesiyle
-	whereas - buna karşılık
+		BECAUSE
+			as a result of - nın sonucu olarak
+			as things go - bu şekilde geliştiğinden
+			considering - göz önüne alarak
+			due to - sebebiyle
+			by virtue of - sayesinde
+			for the sake of - bu uğurda
+			in view of - bu bakış açısı ile
+			on grounds that - gerekçesiyle
+			whereas - buna karşılık
 
-	İSİM ALANLAR
-	because of, due to, owing to (the fact that), on account of, in view of, thanks to, by reason of
+		
 
 
 
