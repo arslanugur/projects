@@ -141,7 +141,9 @@ saatlik 25 dolarlık havaalnında otelde supervisor
 	Students have a choice --> he is interested in university
 
 	50$ --> every candidate student --> B1 Achiever --> LanguageCert International ESOL
-	SELT ---> Family Reunion
+	SELT --> Accredit	
+		A1 - Family Reunion -- S L
+		A2 - 			WRSL
 
 	Price List - https://www.scribd.com/document/493941558/PEOPLECERT-2020-2021-Languages-Pricelist-Spain-3
 
@@ -177,6 +179,15 @@ LTE		55		77				148
 		11
 		11
 		11
+
+LanguageCert
+- sell exam codes: to talk with universities
+- in the future, we need to find some branches in various cities
+- as a headquarter
+
+- to join in the exam
+- log in language cert website
+
 
 
 
