@@ -140,10 +140,13 @@ saatlik 25 dolarlık havaalnında otelde supervisor
 	B1 B2 --> he wants to attract students --> CV, LinkedIn etc
 	Students have a choice --> he is interested in university
 
+	valid until two years
+	
 	50$ --> every candidate student --> B1 Achiever --> LanguageCert International ESOL
 	SELT --> Accredit	
 		A1 - Family Reunion -- S L
-		A2 - 			WRSL
+		A2 - Extension to stay in the UK WRSL
+		B1 - Professional
 
 	Price List - https://www.scribd.com/document/493941558/PEOPLECERT-2020-2021-Languages-Pricelist-Spain-3
 
@@ -181,15 +184,29 @@ LTE		55		77				148
 		11
 
 LanguageCert
-- sell exam codes: to talk with universities
+- sell exam codes: to talk with universities as marketing
 - in the future, we need to find some branches in various cities
-- as a headquarter
+- distributor as a headquarter
 
 - to join in the exam
 - log in language cert website
 
 
+SELT	--- Secure English Language Test 		
+ESOL	--- English for Speakers of Other Languages
+		CEFR olarak geçerli -- Üniversitelerin hepsi kabul etmiyor şimdilik
+LTE	--- LanguageCert Test of English		---> More Difficult Test -- A1 to C2
 
+
+
+PACKAGES in the Course -------------------
+250 GBP Set
+	Eğitim + sınav kodu ---> 10 günlük = günlük 3 saat == 30 saat -- bireysel / grup
+	Temeli olan öğrenci faydalanabilir
+	Başarısız olursa ikinci sınavın ücretini kendi verecek
+	Bireysel özellikler farklı olabilir (öğretilemez şansı yok denilmemeli)
+	
+-------------------------------------------
 
 --> Family Reunion Visa Apply:	visa-immigration.service.gov.tr
 	sign up to your uk visa application
