@@ -9,48 +9,39 @@
    
  --– Linguistic View (Language Theories)
       1. Traditional View
-        - focus on written language and its grammar are special attention 
-        - correctly grammatical structure (accuracy)
+        - Focus on Written Language and its grammar are special attention (Kurallı Dil Önemli)
+        - Grammatical structure must be correct (accuracy)
+        - Prescriptive
         - Spoken language is seen erroneous
-        - Language is not for communication, Language is a means of understanding literatüre/philosophy (GTM)
+        - Language is not for communication, Language is a means of understanding literature/philosophy (GTM)
 
-        -Kurallı dil önemli 
-        -Gramer önemsenir prescriptive
-        -Dil iletişim için değil edebiyat için lazım
-        -Yazı dili önemli
 
       2. Communicative/Functional View
-        - focus on functions
+        - focus on Language Functions instead of structure  (dilin yapılarına odaklanmak yerine işlevlerine odaklanılır)
         - Language as a tool to express functional meaning
-        - Semantic and communicative aspect of language
-        - communication (frequency)
+        - Semantic and Communicative Aspect of language (Bir çok işlevi vardır bu işlevler öğretilmeli)
+        - Communication (frequency)
         - Communicative Competence
-        - Appropriate and Effective use of language
         - Communicative approach
-
-        -dilin yapılarına odaklanmak yerine işlevlerine odaklanılır
-        -bir çok işlevi vardır bu işlevler öğretilmelidir
-        -yaş, cinsiyet, fiziksel ortam, yakınlık ilişkisidilin kullanımı açısından büyük öneme sahiptir
+        - Appropriate and Effective use of language (yaş, cinsiyet, fiziksel ortam, yakınlık ilişkisi dilin kullanımı açısından önemlidir)
+                
 
       3. Generative Transformational Theory View
           - Chomsky
-          - Competence (knowledge of the language) (zamanla kazandığımız tüm bilgi ve beceriler)
-          - Performance (the actual use of the language) (öğrendiklerimizi uygulaya dökmek)
-          - Innatism: Inborn ability to acquire language rules and produce utterances
+          - Competence (Knowledge of the Language) (Zamanla kazandığımız tüm bilgi ve beceriler)
+          - Performance (the actual use of the language) (Öğrendiklerimizi uygulaya dökmek)
+          - Innatism: Inborn ability to acquire language rules and produce utterances   (Dil doğuştan gelir)
           - The focus is on the mental activity
-
-          -Dil doğuştan gelir Innatism
+          
 
        4. Structural Linguistic View
           - Ferdinand de Saussure
-          - Language is for communication
+          - Language is for Communication   (Asıl amaç, sözlü iletişimdir)
           - Language analyzed as a formal system
           - Language containing structurally related components: grammatical, phonological, and lexical units. 
-          - The focus is on every day language (Descriptivism) (How the language should be/use) (toplum nasıl kullanıyorsa o şekilde öğrenciler kutlar)
+          - The focus is on Everyday Language (Descriptivism) (How the language should be/use) (toplum nasıl kullanıyorsa o şekilde öğrenciler kullanır)
           - Predescriptive (Everyday Language)
 
-          -dil günlük kulanım için
-          -asıl amaç sözlü iletişimdir
 
         5. Interactional View
           - Dil iletişimsel bir araçtır, iletişim odaklıdır ve öğrenciler de dili iletişim kurmak amacıyla kullanmalıdır
@@ -58,43 +49,43 @@
 
 --- Theories of Learning (öğrenmeyle ilgili teoriler)
          BEHAVIOURISM
-              - against cognitivizm
-              - Stimulus – Response (otomatikleşme) (Habit Formation) (AudioLangMethod)
-              - ***Reinforcement vs Punishment
-              - ***Reinforce - Increasing the probability of a behavior, reinforcing correct responses (ödül)
-              - Punishment – Decreasing the future frequency of sth unwanted (punishing wrong utterances)
+              - Against Cognitivizm
+              - Stimulus – Response (Otomatikleşme) (Habit Formation) (AudioLangMethod)
+              - Reinforcement vs Punishment
+              - ***Reinforce - Increasing the probability of a behavior, reinforcing correct responses (Ödül)
+              - ***Punishment – Decreasing the future frequency of sth unwanted (punishing wrong utterances)
 
-              Positive(presenting), Negative(removing/eliminating) 
-              Reinforcement (+)
-                  Increase the probabilityof a behavior by presenting a motivating stimulus
-                  Eg: Praising learners, Rewarding learners, saying a student welldone.
-              Reinforcement (-)
-                  Increasing the probability of a behaviour by removing sth negative
-                  examples
-                      Eliminating homework
-                      Extending a deadline
+              Positive (Presenting), Negative (Removing/Eliminating) 
+              --> Reinforcement (+)
+                    Increase the probability of a behavior by presenting a motivating stimulus
+                    Eg: Praising learners, Rewarding learners, saying a student welldone.
+              --> Reinforcement (-)
+                    Increasing the probability of a behaviour by removing sth negative
+                    Eg: Eliminating homework, Extending a deadline
               
-              Punishment (+)
-                  Presenting a negative outcome to decrease probability of an unwanted behaviour
-                  Eg; rebuking someone, making students clean the classroom at a boarding school
-              Punishment (-): taking away sth desirable. Eg Cancelling break time, extending deadline for a Project, cancelling cinema time
-                  hataya izin yok yoksa fossilization olur
-                  ve immediate correction
+              Positive Punishment, Negative Punishment
+              --> Punishment (+)
+                    Presenting a negative outcome to decrease probability of an unwanted behaviour
+                    Eg: rebuking someone, making students clean the classroom at a boarding school
+              --> Punishment (-) 
+                    Taking away sth desirable. 
+                    Eg: Cancelling break time, extending deadline for a Project, cancelling cinema time
+                    Hataya izin yok yoksa fossilization olur
+                  - Immediate correction (Hatalar tolerans gösterilmez, hemen düzeltilir)    
     
                   - Individuals Tabula Rasa
                   - Passive Learner
-                  - Imitation the envorenmental stimuli (Uyarıcıyı taklit)
+                  - Imitation the Environmental Stimuli (Uyarıcıyı taklit)
 
-                  - gözlemlenebilen davranışlara odaklanır.
-                  - Learning is habit information (öğrenmek davranış ile olur alışkanlık)
+                  - Gözlemlenebilen davranışlara odaklanır
+                  - Learning is Habit Information (öğrenmek davranış ile olur alışkanlık)
                   - Drills – Tekrarlanan şeyler
-                  - Momorization (Ezberleme)
-                  - Immediate correction (Hatalar tolerans gösterilmez hemen düzeltilir)
+                  - Memorization (Ezberleme)
 
-                    When learners imitate and repeat the language
-                    they hear in their surrounding environment and are
-                    positively reinforced for doing so, habit formation****
-                    (learning) occurs.
+
+                    Habit Formation:
+                        When learners imitate and repeat the language, 
+                            they hear in their surrounding environment and are positively reinforced for doing, so Habit Formation Learning occurs.
 
 
         INNATISM (Chomsky, Krashen)
@@ -107,190 +98,175 @@
                     - Mental capability
                     - Mental Representation
 
-                    Human beings are born with mental structures that are designed specifically for the acquisition of language, 
-                    and therefore they are biologically predisposed to learn language.
+                    Human beings are born with mental structures 
+                    that are designed specifically for the acquisition of language, and therefore they are biologically predisposed to learn language.
     
 
         INTERACTIONISM
-                    - Interplay between innate ability and environment
-                    - Both genetic and environment factors
+                    - Interplay between Innate Ability and Environment
+                    - Both Genetic and Environment factors
                     - Physical, Social and Cognitive factors
-                                (Vygotsky)  (Piaget) 
+                                (Vygotsky) (Piaget) 
                     - Vygotsky Social Interaction
-                    - ZPD
+                    - Zone of Proximal Development (ZPD)
+                        Yakınsal gelişim alanı, bir öğrencinin desteksiz olarak şu anda yapamadıkları ile desteksiz olarak yapabilecekleri arasındaki mesafedir.
+                        Yalnızca daha fazla bilgi veya uzmanlığa sahip birinin desteğiyle yapabilecekleri aralıktır.
                     - Scaffolding (Novice and Expert to assist them)
 
 
         HUMANISM
-                    - learners are human beings
-                    - taking the needs of kearners into account
-                    - spiritual and emotional needs
-                    - emotions, needs, values, beliefs, motivation
-                    - making learners feel comfy
-                    - self-actualization (goals, motivation)
-                    - Intrinsic motivation (kendini motive etmek)
-
-                    - öğrenci herşeyden önce insandır
-                    - duygu düşünce ihtiyaç motivasyon ilgi davranış göz önünde bulundurulmalıdır
-                    - human feelings, emotions and needs are important. relaxing environment
-
-        CONSTRUCTIVISM (vygotsky) YAPILANDIRMACILIK
-                    - knowledge is constructed within social contexts
-                        (insanların birbiriyle iletişimi)
-                    - communication w each other
-                    - sharing knowledge, feelings and experiences
-                    - integration of learners into a community
-                    - building on previous knowledge and experience
-                        (fikir alışverişi)
-                    - bilgi sosyal ortamda, yetişkin yardımıyla öğrenilir
-                    - sosyal ortam göz ardı edilemez
-                    - yeni bilgiler eskilerin üzerine inşa edilir
-
-                    - collabrative learning
-                    - social context
-                    - interacting with community
+                    - Learners are Human beings (Öğrenci, herşeyden önce insan)
+                    - Taking the needs of learners into account
+                    - Spiritual and Emotional needs
+                    - Emotions, Thoughts, Needs, Values, Beliefs, Motivation, Interest, Behaviour
+                    - Making learners feel comfortable (Relaxing Environment)
+                    - Self-Actualization (Goals, Motivation)
+                    - Intrinsic motivation (Kendini motive etmek)
 
 
-        COGNITIVIZM (Piaget)
-            - Against behaviourism
-            - Cognitive Development (öğrenci kendi öğrenme sürecini yapılandırmalıdır)
-            - Schema, Schemata
-            - Maturation
-            - Nature
-            - Nurture
-            - Concrete Operational
+        CONSTRUCTIVISM - YAPILANDIRMACILIK
+                    (Vygotsky)
+                    - Knowledge is constructed within Social Contexts
+                    - Communication w each other (insanların birbiriyle iletişimi)
+                    - Sharing knowledge, feelings and experiences
+                    - Integration of learners into a Community (Interacting with Community)
+                    - Building on previous knowledge and experience (Fikir Alışverişi - Yeniler eskilerin üstüne inşa edilir)
+                    - Bilgi sosyal ortamda, yetişkin yardımıyla öğrenilir. Sosyal ortam göz ardı edilemez
+                    - Collabrative Learning
+                    
 
-                öğrenme içsel  bi süreçtir doğrudan göstermez
-                active student
-                analyzing,planning
-                cognitive process (bilişsel sürece katılan öğrenci)
+        COGNITIVIZM
+                    (Piaget)
+                    - Against Behaviourism -- Language Learning as a Mental Activity
+                    - Cognitive Development (öğrenci kendi öğrenme sürecini yapılandırmalıdır)
+                    - Schema, Schemata
+                    - Maturation
+                    - Nature
+                    - Nurture
+                    - Concrete Operational
 
-            - internal and mental processes of learning
-            - relationship between language and cognition
-            - language learning as a mental activity
+                    - Active Student
+                    - Analyzing, Planning
+                    - Cognitive Process (Bilişsel sürece katılan öğrenci)
 
-            - organization of knowledge and new learning by a mental sctructure
-            - reorganizing existing knowledge
-            - individuals act, construct, plan and analyze their learning
-            - importance of negative and positive feedback
+                    - Internal and Mental processes of learning (Öğrenme içsel bir süreçtir, doğrudan göstermez)
+                    - Relationship between language and cognition
+            
+                    - Organization of knowledge and new learning by a mental structure
+                    - Reorganizing Existing Knowledge
+                    - Individuals act, construct, plan and analyze their learning
+                    - Importance of Negative and Positive feedback
 
-                deneme-yanılma
-                denge-dengesizlik-denge
+                    - Deneme - Yanılma
+                    - Denge --> Dengesizlik --> Tekrar Denge
 
         CONNECTIONISM
-            - Study of SLA (Second Language Acquisition)
-            - Association
-            - Associating Words
-            - Language is a sys of unit
-            - Strictly against Innatism (it challenges innate knowledge)
-            - creating networks that connects words and phrases
-            - language includes linguistic units
-            - these units are connected in mind
-            - the more we see or hear, the more we connect them
-            - repeated input or linguistic stimuli (maruz kalmak)
-            - var olan bilgilerle yeni gelen bağlantı oluşturur
-
-                Language is a system of units that become intertwined in the mind. 
-                Language acquisition is a process of associating words with elements of external reality.
+                    - Study of SLA (Second Language Acquisition)
+                    - Association -- Language acquisition is a process of Associating Words with elements of external reality
+                    - Language is a system of units that become intertwined in the mind
+                    - Strictly against Innatism (Connectionism challenges Innate knowledge)
+                    - Creating Networks that connects words and phrases
+                    - Language includes Linguistic Units
+                    - These units are connected in mind
+                    - The more we see or hear, The more we connect them
+                    - Repeated input or Linguistic stimuli (maruz kalmak)
+                    - Var olan bilgilerle, yeni gelen bağlantı oluşturur
 
 
         INNATISM (Chomsky, Krashen)
-            - Critical Period Hypothesis
-                    It claims there are biological mechanisms specifically designed for language acquisition and these cease to be available at or even before puberty. 
-                    Thus, an older learner has to use general mechanisms that are not effective for language acquisition.
+                    - Critical Period Hypothesis
+                            It claims there are biological mechanisms specifically designed for language acquisition 
+                            and these cease to be available at or even before puberty. 
+                            Thus, an older learner has to use general mechanisms that are not effective for language acquisition.
                     
-                    - First Language Acquision 
-                        > Stages
-                            - Cooing: Motherese Language (Mum talks to child)
-                            - Babbling: ba, ba, pa, pa
-                            - One-Word Stage: holophrastic; milk, cat, cookie
-                            - Two-Words Stage: baby chair, mommy cat
-                            - Telegraphic Stage: daddy go bye, cat drink milk
+                            - First Language Acquision 
+                                > Stages
+                                    - Cooing:               Motherese Language (Mum talks to child)
+                                    - Babbling:             ba, ba, pa, pa
+                                    - One-Word Stage:       milk, cat, cookie   (Holophrastic)
+                                    - Two-Words Stage:      baby chair, mommy cat
+                                    - Telegraphic Stage:    daddy go bye, cat drink milk
             
-            - Comprehensible Input Hypothesis (Krashen) - Study of SLA
-                    1- Natural Order Hypothesis 
-                            Simple to Complex – Predictable Order
-                    2- Input Hypothesis
-                            Input should be comprehensive
-                            L+1 – One step above your current level
-                    3- Monitor Hypothesis
-                            Students need time to think, observe one’s output (check and correct)
-                    4- Acquisition of Learning Hypothesis
-                            Conscious      vs.     Unconscious
-                            (learning sys.)        (acquired sys.)
-                    5. Affective Filter Hypothesis
-                            Emotional
-                            When one learns sth, the other is uncomfy
-                            (High Anxiety Level)
-                            Teacher’s joke or familiar questions makes ss relax
+                    - Comprehensible Input Hypothesis (Krashen) - Study of SLA
+                            1- Natural Order Hypothesis 
+                                Simple to Complex – Predictable Order
+                            2- Input Hypothesis
+                                Input should be comprehensive
+                                L+1 – One step above your current level
+                            3- Monitor Hypothesis
+                                Students need time to think, observe one’s output (check and correct)
+                            4- Acquisition of Learning Hypothesis
+                                Conscious      vs.     Unconscious
+                                (learning sys.)        (acquired sys.)
+                            5. Affective Filter Hypothesis
+                                Emotional
+                                When one learns sth, the other is uncomfy
+                                (High Anxiety Level)
+                                Teacher’s joke or familiar questions makes ss relax
 
-            - Interlanguage Hypothesis (Selinker)
-                    - L1, L2 errors are neutral
-                    - Language Learning is a process
+                    - Interlanguage Hypothesis (Selinker)
+                            - L1, L2 errors are neutral
+                            - Language Learning is a process
 
-                        ERRORS
-                            - Interference** 
-                                    thank you, nothing 
-                                    Language transfer
-                                    Interference error
-                                    Türkçe düşünerek İngilizce
-                                    I library went (why the native speaker of Turkish makes the exemplified grammatical error in english)
+                             ERRORS
+                                - Interference** 
+                                        thank you, nothing 
+                                        Language transfer
+                                        Interference error
+                                        Türkçe düşünerek İngilizce
+                                        I library went (why the native speaker of Turkish makes the exemplified grammatical error in english)
 
-                            - Overgeneralization
-                                    I goed, I walked, I eated
-                                    (Grammatical Structure)
+                                - Overgeneralization
+                                        I goed, I walked, I eated
+                                        (Grammatical Structure)
 
-                            - Fossilization**
-                                    Mistakes exist even though he knows the correct (Hatada kalıcı olmak)
+                                - Fossilization**
+                                        Mistakes exist even though he knows the correct (Hatada kalıcı olmak)
 
-                            - Contrastive Analysis Hypothesis (Robert Lado-57)
-                                    Errors from the interference from the first language
-                                    Errors from the transfer from the first language
-                                    Comparison between foreign language and native lang.
-                                    Comparison with Krashen hypothesis
+                                - Contrastive Analysis Hypothesis (Robert Lado-57)
+                                        Errors from the interference from the first language
+                                        Errors from the transfer from the first language
+                                        Comparison between foreign language and native lang.
+                                        Comparison with Krashen hypothesis
 
-                             hypercorrection, Code-sswitching, Underextension
-
-
-
+                                        Hypercorrection, Code-sswitching, Underextension
 
 
 
 --- Methods and Approaches
-                Approach: 
+               APPROACH: 
                         It is a set of assumption about language learning and teaching. 
                         Theories about the nature of language and language learning. 
                         Statements about how to promote language learning. 
                         It is source of principles and practices of language teaching (yaklaşım bilimsel değildir teori gibi işte). 
                         Approach: HOW LANGUAGE IS LEARNT? ---> SÖYLEM
 
-                Method: 
+                METHOD: 
                         It is a plan of presentation of language material   
                         UYGULANIŞ, the way of teaching language, it is application of principles and findings. 
-                        Her metod bir yaklaşıma dayanır ve kaynağı olur. 
-                        It is based on an approach. 
+                        It is based on an approach. --> Her metod bir yaklaşıma dayanır ve kaynağı olur.
                         It takes student and teacher roles, syllabus type, and techniques into account. 
 
-                Technique: 
+                TECHNIQUE: 
                         Specific activities used during teaching process. 
                         It includes tasks, exercises, activities. 
                         Uygulanış şekli. roleplay, human computer etc
 
                 
                 
-                Methods: 
-                    Grammar Translation Method, Direct Method, Audio Lingual Method, Silent Way, suggestopedia, Community, Totl Physical Response
-                Approaches: Content-Based Approach, 
+      # METHODS: 
+                Grammar Translation Method, Direct Method, Audio Lingual Method, Silent Way, suggestopedia, Community, Totl Physical Response
+      # Approaches: Content-Based Approach, 
 
 
                 GRAMMAR TRANSLATION METHOD
-                    Classical Method / Prussian Method
+                        Classical Method / Prussian Method
                         - Literature (Language is utilized to read, understand and interpret literacy texts)
                         - Based on no specific approach
                         - Paragraph questions
                         - Individuals become sophisticated and intellectual
 
-                    Learning Theory (Öğrenim nasıl yapılıyor) 
+                        Learning Theory (Öğrenim nasıl yapılıyor) 
                         - L1 used translation
                         - Memorize vocabulary
                         - Deductive Grammar (deductive teaching is applied) – Tümden gelim
@@ -301,55 +277,56 @@
                         - Errors aren’t tolerated and instant correction
                         - Reading, Writing
 
-                    Importance of Culture
+                        Importance of Culture
                         - Target Culture is thought to be composed of literature and fine arts
                         - The culture is learnt through texts
 
-                    The role of mother Tongue
+                        The role of mother Tongue
                         - Classroom language is student’s mother tongue
                         - Instructions are given by using student’s mother tongue
 
-                    The role of teacher
+                        The role of teacher
                         - Teacher is strict authority
                         - The class is teacher-centred
                         - students passive
 
-                    Teaching Areas
+                        Teaching Areas
                         - Grammar and Vocabulary are paid special attention
                         - Reading and writing are emphasized
                         - Speaking and Listening areas are neglected
 
-                    Teaching Grammar
-                        - Grammar rules are taught deductively (kurallar açık şekilde verilir, öğrenciler  exercices), burda yok ama inductivede çıkarım yolula okutursun
+                        Teaching Grammar
+                        - Grammar rules are taught deductively 
+                        - Deductive - kurallar açık şekilde verilir, öğrenciler exercices) != inductive - çıkarım yoluyla okutursun
                         - students memorize rules
                         - Rules are practice and antond through exercises
                         - Translation of literary texts
 
-                    Teaching Vocabulary
+                        Teaching Vocabulary
                         - words are presented w their mother tongue equivalents
                         - synonym and antonym
                         - using cognates (trafik-traffic)
 
-                    Interaction
+                        Interaction
                         - little interaction between teacher and students
                         - no interaction between students
 
-                    Error Correction
+                        Error Correction
                         - no tolerance of errors because of accuracy
                         - immediate error correction
                         - the focus is on accuracy rather fluency (akıcılıktan ziyade gramer doğruluğuna odaklı)
 
-                    Syllabus type
+                        Syllabus type
                         - Structural syllabus is used in this method
                         - simple to complex rules
 
-                    Evaluation
+                        Evaluation
                         - students are asked to translate some literary texts
                         - comprehension questions may be asked
                         - questions consisting of cognate, synonyms, antonym may be asked
                         - student’s writing skill is evaluated
 
-                    Techniques
+                        Techniques
                         - Translation of texts
                         - focusing on grammar in literary texts
                         - deductive application of rule
@@ -360,24 +337,24 @@
                         - writing composition
                         - using words in sentences
 
-                        reading and writing –primary skills
-                        speaking and listening are neglected
+                        Reading and writing – Primary skills
+                        Speaking and listening are neglected
 
                         true cognate : cinema, sinema
                         false cognate: 
 
-                    Criticism
+                        Criticism
                         - oral language is neglected (konuşma dilinden uzak kalır)
                         - real life contexts are missing 
                         - dört beceri kullanılmaz
 
 
-                    Etkileşim: t – ss
-                    Traditional view – prescriptive
-                    yazı dili edebi eserler
+                        Etkileşim: t – ss
+                        Traditional view – prescriptive
+                        yazı dili edebi eserler
 
 
-                    KEYWORDS
+                        KEYWORDS
                         classical method
                         prussian method
                         translation
@@ -386,7 +363,7 @@
                         student passive
                         structural syllabus – yapı gramer tabanlı
                         accuracy
-                        literatüre and fine arts
+                        literature and fine arts
                         memorization
 
 
@@ -394,293 +371,291 @@
 
 
                 DIRECT METHOD
-                    Neutral method/Berlitz method
-                    - There is no L1 (No Native Language)
-                    - Grammar inductively
-                    - Vocabulary, Visuals, Realia(resimleri kullan kelime için), Pictures, Demonstrations
-                    - Fine Arts
-                    - Teacher is not Dominant
-                    - Students – Self Correction
-                    - Speaking, Listening, Pronunciation
+                        Neutral method/Berlitz method
+                        - There is no L1 (No Native Language) --- Çeviri translation YOK
+                        - Grammar inductively
+                        - Vocabulary, Visuals, Realia(resimleri kullan kelime için), Pictures, Demonstrations
+                        - Fine Arts
+                        - Teacher is not Dominant
+                        - Students – Self Correction
+                        - Speaking, Listening, Pronunciation
 
-                    -Çeviri translation YOK
-                    -Hedef dili kullanarak iletişim kurmak amaç
-                    -Öğretme gesture(mimik) kullanır
-                    -konuşma ve iletişim için SITUATION yaratılır. (at home, in the cinema)
+                        - Hedef dili kullanarak iletişim kurmak amaç
+                        - Öğretmede, gesture (mimik) kullanır
+                        - konuşma ve iletişim için SITUATION yaratılır. (at home, in the cinema)
 
-                    - rection to GTM
-                    - language is for communication
-                    - similarity between learning target language and acquisition of L1
-                    - significance of demonstration (görsellik önemli)
-                    - taklit, obje gösterme
-                    -bebeğin ana dili öğrenmesi gibi benzer
+                        - Reaction to GTM
+                        - Language is for communication
+                        - similarity between learning target language and acquisition of L1
+                        - significance of demonstration (görsellik önemli)
+                        - Taklit, Obje gösterme
+                        - Bebeğin ana dili öğrenmesi gibi benzer
 
-                    Goals
-                    - to teach students how to communicate in the target language
-                    - to make students think in the target language
+                        Goals
+                        - to teach students how to communicate in the target language
+                        - to make students think in the target language
 
-                    Culture
-                    - maruz bırakıldığı için kültür sunuluyor
-                    - culture is an indispensable part of learning
-                    - real life contexts are based on customs, values, beliefs
+                        Culture
+                        - maruz bırakıldığı için kültür sunuluyor
+                        - culture is an indispensable part of learning
+                        - real life contexts are based on customs, values, beliefs
 
-                    Role of teacher
-                    - directing instructions and activities
-                    - source of input as a model
+                        Role of teacher
+                        - directing instructions and activities
+                        - source of input as a model
 
-                    Role of Students
-                    - Participating activities
-                    - Processing the knowledge presented
-                    - Active learners
+                        Role of Students
+                        - Participating activities
+                        - Processing the knowledge presented
+                        - Active learners
 
-                    Mother Tongue
-                    - no usage of mother tongue
+                        Mother Tongue
+                        - no usage of mother tongue
 
-                    Language and Skills(neler öğretilir)
-                    - L, S, R, W
-                    - Oral skill is important
-                    - Four skills are taught
-                    - Fluency is more important than accuracy
+                        Language and Skills(neler öğretilir)
+                        - L, S, R, W
+                        - Oral skill is important
+                        - Four skills are taught
+                        - Fluency is more important than accuracy
 
-                    Grammar
-                    - Inductive teaching (students discover rules themselves)
-                    - Presenting grammar rules through contexts or example sentences
-                    - students induce rules
-                    Teaching prepositions
-                    Eg: I think, he was born in summer
-                    Eg: She will go to holiday on xmas day
-                    Exercises
-                    Eg: I will invite everybody___my birthday
+                        Grammar
+                        - Inductive teaching (students discover rules themselves)
+                        - Presenting grammar rules through contexts or example sentences
+                        - students induce rules
+                        - Teaching prepositions
+                        Eg: I think, he was born in summer
+                        Eg: She will go to holiday on xmas day
+                        Exercises
+                        Eg: I will invite everybody___my birthday
 
-                    Vocabulary
-                    - Realia (Gerçek objeler kullan)
-                    - Pictures about words
-                    - Example sentences
-                    - Demonstration and miming
-                    - Association of ideas
-                    - Everyday vocabulary (kullanım sıklığı)
+                        Vocabulary
+                        - Realia (Gerçek objeler kullan)
+                        - Pictures about words
+                        - Example sentences
+                        - Demonstration and miming
+                        - Association of ideas
+                        - Everyday vocabulary (kullanım sıklığı)
 
-                    Interaction in the Classroom
-                    - Interaction between teacher and students
-                    - Interaction between students
+                        Interaction in the Classroom
+                        - Interaction between teacher and students
+                        - Interaction between students
 
-                    Error treatment
-                    - Enabling students to discover their errors
-                    - self-correction
+                        Error treatment
+                        - Enabling students to discover their errors
+                        - self-correction
+                                   
+                        - No use of the mother tongue is permitted.
+                        - When the teacher introduces a new target language 
+                            -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
+                        - Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
+                        - Grammar is learned inductively.
+                        - The syllabus is based on situations or topics, not on linguistic structures.
                     
-                    
-                    
-                    - No use of the mother tongue is permitted.
-                    - When the teacher introduces a new target language -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
-                    - Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
-                    - Grammar is learned inductively.
-                    - The syllabus is based on situations or topics, not on linguistic structures.
-                    
-                    - Classroom instruction is conducted exclusively in the target language. The native language shouldnot be used in the classroom.
-                    - Oral communication skills are given priority, 
-                        and they are built up in a carefully graded progression organised 
-                        around question-and-answer exchanges between teachers and students in small, intensive classes.
-                    - Vocabulary is taught through the use of demonstration, realia, and visual aids.
-                    - Grammar is taught inductively. An explicit grammar rule may never be given.
+                        - Classroom instruction is conducted exclusively in the target language. The native language shouldnot be used in the classroom.
+                        - Oral communication skills are given priority, and they are built up in a carefully graded progression organised 
+                            around question-and-answer exchanges between teachers and students in small, intensive classes.
+                        - Vocabulary is taught through the use of demonstration, realia, and visual aids.
+                        - Grammar is taught inductively. An explicit grammar rule may never be given.
 
-                    Syllabus Type
-                    - Situational Syllabus (at rest, at airport, at school)
-                    - Topical Syllabus (Economy, Technology, Education, Social Media)
+                        Syllabus Type
+                        - Situational Syllabus (at rest, at airport, at school)
+                        - Topical Syllabus (Economy, Technology, Education, Social Media)
 
-                    Evaluation
-                    - Students are made to Show their ability to communicate in the target language
-                    - No ealuation cocerning abstract rules or knowledge of the target language
+                        Evaluation
+                        - Students are made to Show their ability to communicate in the target language
+                        - No ealuation cocerning abstract rules or knowledge of the target language
 
-                    Techniques
-                    - Reading aloud (Clarification by teacher)
-                    - Q and A Questions
-                    - Self- Correction
-                    - Conversation practice
-                    - Fill in the blank exercise
-                    - Dictation(ne söylerse anında yazılır),
-                        - Dictocomp(dinler not almaz, akılda kalanlar yazılır) yaratıcı teknik
-                        - Dictoglass(metni dinleyip, key words not edip, metni yeniden yazma)
-                    - Map drawing
-                    - paragraph writing
-                    - self correction
-                    - conversation practices
-                    - meaning-based fill-in-the-blanks exercises
-                    - drawing
+                        Techniques
+                        - Reading aloud (Clarification by teacher)
+                        - Q and A Questions
+                        - Self- Correction
+                        - Conversation practice
+                        - Fill in the blank exercise
+                        - Dictation(ne söylerse anında yazılır),
+                            - Dictocomp(dinler not almaz, akılda kalanlar yazılır) yaratıcı teknik
+                            - Dictoglass(metni dinleyip, key words not edip, metni yeniden yazma)
+                        - Map drawing
+                        - paragraph writing
+                        - self correction
+                        - conversation practices
+                        - meaning-based fill-in-the-blanks exercises
+                        - drawing
 
-                    S L R are importants skills
-                    Vocabulary is over grammar
+                        S L R are importants skills
+                        Vocabulary is over grammar
 
-                    Criticism
-                    - Grammar hataları çok olur
-                    - Accuracy is neglected 
-                    - Anxiety because of the target language
-                    - waste of time because of abstract words
-                    sınıf mevcudu fazlai se yaş yüksekse, hazır bulunuşluk azsa, herkese uygulanmaz
+                        Criticism
+                        - Grammar hataları çok olur
+                        - Accuracy is neglected 
+                        - Anxiety because of the target language
+                        - waste of time because of abstract words
+                            sınıf mevcudu fazla ise yaş yüksekse, hazır bulunuşluk azsa, herkese uygulanmaz
 
-                    • No use of the mother tongue is permitted.
-                    • When the teacher introduces a new target language -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
-                    • Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
-                    • Grammar is learned inductively.
-                    • The syllabus is based on situations or topics, not on linguistic structures.
+                        • No use of the mother tongue is permitted.
+                        • When the teacher introduces a new target language 
+                                -- word or phrase, he or she demonstrates its meaning through the use of realia and pictures.
+                        • Lessons contain some conversational activity – some opportunity for students to use language in real contexts.
+                        • Grammar is learned inductively.
+                        • The syllabus is based on situations or topics, not on linguistic structures.
 
-                    KEYWORDS
-                    demonstration
-                    implicit grammar
-                    Daily speech
-                    realia
-                    **no translation çeviri kullanılmaz
-                    **no L1 ana dil yok
-                    ** inductive (çıkarım yapıyor)
-                    self correction by studens
-                    situations or topics to communicate
-                    map drawing
+                        KEYWORDS
+                        demonstration
+                        implicit grammar
+                        Daily speech
+                        realia
+                        **no translation çeviri kullanılmaz
+                        **no L1 ana dil yok
+                        ** inductive (çıkarım yapıyor)
+                        self correction by studens
+                        situations or topics to communicate
+                        map drawing
 
 
             AUDIO LINGUAL METHOD
-                    Army method
-                    First scientific method
-                    - There is no L1 (not allowed) no translation
-                    - Dialogues, Drills
-                    - Habit Formation (Alışkanlık behaviorist)
-                    - Structural Syllabus
-                    - Listening, Speaking (Limited)
-                    - Teacher is an Orchestra leader
-                    - Students – Imitator
-                    - Errors are corrected by Teacher
-                    - Pronouncation is important
+                        Army method
+                        First scientific method
+                        - There is no L1 (not allowed) no translation
+                        - Dialogues, Drills
+                        - Habit Formation (Alışkanlık behaviorist)
+                        - Structural Syllabus
+                        - Listening, Speaking (Limited)
+                        - Teacher is an Orchestra leader
+                        - Students – Imitator
+                        - Errors are corrected by Teacher
+                        - Pronouncation is important
 
-                    -amaç aktif şekilde hedef dilde konuşmak
-                    -adjecency pair – birbirini bekleyen cevaplar
-                    -phatic expression – otomatikleşme var
-                    -inductive (grammari kendisi çıkarır)
-                    -rol model öğretmeni öğrenci taklit eder
-                    -diyalog ezberleme yapılır
-                    -Drill kullanılır
+                        - amaç aktif şekilde hedef dilde konuşmak
+                        - adjecency pair – birbirini bekleyen cevaplar
+                        - phatic expression – otomatikleşme var
+                        - inductive (grammari kendisi çıkarır)
+                        - rol model öğretmeni öğrenci taklit eder
+                        - diyalog ezberleme yapılır
+                        - Drill kullanılır
 
-                    - Alışkanlık oluşturma
-                    - Based on principles of behaviorism and structuralism (tekrarlar, yapılar oluşturmak)
-                    - Learning without intellectual analysis (Askerlere dil öğretmek gibi)
-                    - Mother tongue is thought to interfere in language learning process (Ana dil istenmez)
-                    - Contrastive analysis is applied (L1 vs L2)
-                    - Language is for communication
+                        - Alışkanlık oluşturma
+                        - Based on principles of behaviorism and structuralism (tekrarlar, yapılar oluşturmak)
+                        - Learning without intellectual analysis (Askerlere dil öğretmek gibi)
+                        - Mother tongue is thought to interfere in language learning process (Ana dil istenmez)
+                        - Contrastive analysis is applied (L1 vs L2)
+                        - Language is for communication
 
-                    Goals
-                    - To make learners communicate in the target language
+                        Goals
+                        - To make learners communicate in the target language
 
-                    Culture
-                    - Everyday Language (Culture is mostly based on everyday behaviour and lifestyle of target language speakers)
+                        Culture
+                        - Everyday Language (Culture is mostly based on everyday behaviour and lifestyle of target language speakers)
 
-                    Role of Teacher
-                    - Teacher as an orchestra leader
-                    - Good models speaking native like with a good pronunciation
+                        Role of Teacher
+                        - Teacher as an orchestra leader
+                        - Good models speaking native like with a good pronunciation
                     
-                    Role of students
-                    -  imitating the teacher
-                    - repeating, momerising and using structures
+                        Role of students
+                        - imitating the teacher
+                        - repeating, momerising and using structures
 
-                    Mother Tongue
-                    - no usage of mother language in the classroom
+                        Mother Tongue
+                        - no usage of mother language in the classroom
                     
-                    Teaching Skills
-                    - listening and speaking are paid special attention
-                    - correct pronunciation is valued
+                        Teaching Skills
+                        - listening and speaking are paid special attention
+                        - correct pronunciation is valued
 
-                    Grammar
-                    - Grammar is taught by examples, drills and dialogues (part of speech: noun, pronoun..)
+                        Grammar
+                        - Grammar is taught by examples, drills and dialogues (part of speech: noun, pronoun..)
 
-                    Vocabulary
-                    - Limited
-                    - Words are learnt through dialogues
+                        Vocabulary
+                        - Limited
+                        - Words are learnt through dialogues
                     
-                    Interaction
-                    - Interaction is between the teacher and students
-                    - Interactions between students
+                        Interaction
+                        - Interaction is between the teacher and students
+                        - Interactions between students
                     
-                    Error Treatment
-                    - Habit Formation
-                    - Errors are prevented
-                    - Errors are corrected immediately
+                       Error Treatment
+                        - Habit Formation
+                        - Errors are prevented
+                        - Errors are corrected immediately
                     
-                    Syllabus
-                    - Structural syllabus (simple to complex)
-                    - Key items are put in order and presented
+                        Syllabus
+                        - Structural syllabus (simple to complex)
+                        - Key items are put in order and presented
 
-                    Evaluation
-                    - Discrete-Point tests (becerileri ayrı ayrı test etmek)
-                    - Audio-Visual Materials
-                    - Course book
+                        Evaluation
+                        - Discrete-Point tests (becerileri ayrı ayrı test etmek)
+                        - Audio-Visual Materials
+                        - Course book
                      
-                    Techniques
-                    - based on behaviorist approach
-                    - Dialogue memorization
-                    - Dialogue completion
-                    - Back-Ward build up (geriden başa doğru)
-                    - mechanical Repetition drill
-                    - minimal pairs
-                    - grammar rules 
-                    - Chain Drill (Zincirleme)
-                    - Substitution drill (bir kelimeyi başka kelime)
-                    - Grammar game
-                    - Transformation drill (olumluyu soru yapma)
-                    - Q and A
-                    - Single-slot Substition drill
+                        Techniques
+                        - based on behaviorist approach
+                        - Dialogue memorization
+                        - Dialogue completion
+                        - Back-Ward build up (geriden başa doğru)
+                        - mechanical Repetition drill
+                        - minimal pairs
+                        - grammar rules 
+                        - Chain Drill (Zincirleme)
+                        - Substitution drill (bir kelimeyi başka kelime)
+                        - Grammar game
+                        - Transformation drill (olumluyu soru yapma)
+                        - Q and A
+                        - Single-slot Substition drill
 
-                    Mechanical drills
-                    - repetition drill
-                    - chain drill
-                    - backward build up (expansion) drill
-                    - Single-slot substitution drill
-                    - multiple-slot substitution drill
-                    - transformational drill
+                        Mechanical drills
+                        - repetition drill
+                        - chain drill
+                        - backward build up (expansion) drill
+                        - Single-slot substitution drill
+                        - multiple-slot substitution drill
+                        - transformational drill
                     
-                    L and S are emphasized
-                    
-                    
-                    Criticism
-                    - Drills and imitation is not effective in language learning (bilişsel süreçleri ihmal ediyor)
+                        L and S are emphasized
                     
                     
+                        Criticism
+                        - Drills and imitation is not effective in language learning (bilişsel süreçleri ihmal ediyor)
                     
-                    Drills
-                    -backward – build up dril (tekrar söz konusu)
-                    -transformation drill (olumlu cümle olumsuz yapılır)
-                    -question-answwer drill
-                    -single-slot substution drill
-                    -multi-slotsubstution drill (çokluboşluklar doldurulur)
-                    -repetition drill
-                    -chain drill
                     
-                    Key words
-                    -stimulus
-                    -response
-                    -drill
-                    -minimal pair
-                    -dialog
-                    -repetition
-                    -punishment
-                    -reinforcement
+                    
+                        Drills
+                        - backward – build up dril (tekrar söz konusu)
+                        - transformation drill (olumlu cümle olumsuz yapılır)
+                        - question-answwer drill
+                        - single-slot substution drill
+                        - multi-slotsubstution drill (çokluboşluklar doldurulur)
+                        - repetition drill
+                        - chain drill
+                    
+                        Key words
+                        - stimulus
+                        - response
+                        - drill
+                        - minimal pair
+                        - dialog
+                        - repetition
+                        - punishment
+                        - reinforcement
 
-                    Advantages 
-                    – pronunciation iyi
-                    - gramer arka planda
-                    - konuşma iyi
+                        Advantages 
+                        – pronunciation iyi
+                        - gramer arka planda
+                        - konuşma iyi
 
-                    ama sıkıcı olabilir
-                    öğrenci birey olarak kabull edilmez (humanistik değil yani)
+                        ama sıkıcı olabilir
+                        öğrenci birey olarak kabul edilmez (humanistik değil yani)
 
-                    Discrete point test – tek bi amaç ölçmek için kullanılan testler
+                        Discrete point test – tek bi amaç ölçmek için kullanılan testler
 
-                    KEYWORDS
-                    army method
-                    students imitator
-                    habit formation
-                    stimulus/response
-                    repetition
-                    teacher orchestra leader
-                    dialogs-drills
-                    expect perfect pronunciation
-                    oral communication
-                    no L1
+                        KEYWORDS
+                        army method
+                        students imitator
+                        habit formation
+                        stimulus/response
+                        repetition
+                        teacher orchestra leader
+                        dialogs-drills
+                        expect perfect pronunciation
+                        oral communication
+                        no L1
 
 
 
