@@ -159,7 +159,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		- the more a man has in himself, the less he will want from other people
 			bir insan kendi içinde ne kadar çok şeye sahipse, diğer insanlardan o kadar az şey isteyecektir 
 	
-	--> NO SOONER ... THAN 			--> daha erken yapmamıştım, demeye kalmadan, yapar yapmaz
+	--> NO SOONER ... THAN 			--> demeye kalmadan, yapar yapmaz
 		- he had no sooner opened his eyes than the phone rang
 		- no sooner had he opened his eyes than the phone rang
 	
