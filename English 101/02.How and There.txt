@@ -1,4 +1,4 @@
-HOW														      prepared by Uğur ARSLAN, @arslanuguur
+HOW												prepared by Uğur ARSLAN, @arslanuguur
 ---------------	
 much            how much did you get paid?						ne kadar maaş aldın?
                 how much money do you need?						kaç paraya ihtiyacın var?
@@ -140,14 +140,14 @@ is there a post office near here?				buralarda bir yerde postane var mı?
 	the post office is next to the bank
 
 
---> RESTAURANT FALLACY
+--> RESTAURANT FALLACY (Restoran Aldatmacası)
 A- how many burgers would you like?
 B- I'm not sure. How much chicken do you have?
 A- I have two pounds. that makes eight burgers. How many people do you need to feed?
 B- there are ten of us. How much are eight chicken burgers and two beef burgers?*
 A- sixty-four dollars.. and how many drinks do you want?*
 B- no drinks, ta. and how many people are ahead of us?
-A- we have twenty burger orders before yours. how much time do you have?
+A- we have twenty burger orders before yours. how much time do you have? how many times do we need to say?
 
 
 
@@ -253,7 +253,7 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
                                         		she doesn’t have anything to eat for lunch			onun öğle yemeğinde yiyecek bir şeyi yok
                                         		I was unable to hear anything last night after the blast	dün gece patlamadan sonra hiçbir şey duyamadım
                                         		is there anything else in this bag?			        bu çantada başka bir şey var mı?
-                anywhere	herhangi bir yer
+                anywhere	herhangi bir yer	I'm not going anywhere
 		------------------------------------------------------------------------------------------------
                 none (no one)	hiç biri        	no one can cope with her in English				ingilizcede kimse onunla baş edemez
 							no one will help you in this situation				hiç birisi bu durumda sana yardım edemez
