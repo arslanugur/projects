@@ -1,4 +1,4 @@
-INTRODUCTION YOURSELF - “Tell me about yourself?!”                                                                   prepared by Uğur ARSLAN, @arslanuguur
+INTRODUCTION YOURSELF - “Tell me about yourself?!”                                                prepared by Uğur ARSLAN, @arslanuguur
 --> STRATEGY ON SELF-INTRODUCTION
 01- Greetings
 02- Your name
@@ -16,116 +16,132 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
 
 
 1 --> GREETINGS
-      Hey!
-      Hello!
-      Good Morning, Good Afternoon, Good Evening
-      how are you doing today  (neler yapıyorsun bugün)     --> I'm doing good (iyidir)
-      How is/was your day (going)? (günün nasıl geçer/geçti)--> (my day is/was) good (benim günüm iyi/iyiydi)      day != night
-                                                            --> my day was so tiring (günüm çok yorucuydu)     
-                                                            --> I studied all day long (tüm gün boyunca ders çalıştım)
-                                                            --> I worked all day long (tüm gün boyunca çalıştım)
-                                                            --> did you rest enough? (yeterince dinlendin mi?)
-                                                                  --> yes, I rested enough (yeterince dinlendim)
-                                                                  --> no, I didnt rest enough (yeterince dinlenmedim)
-                                                            --> it was a busy day (meşgul bir gündü)
-                                                            --> today i was so busy (bugün meşguldüm)
-                                                            --> it was good   (iyiydi)
-                                                            --> it was stressful (stresliydi)
-                                                            --> it was so tiring (çok yorucuydu)
-                                                            --> I had a good day (iyi bir güne sahip oldum)
-                                                            --> I had a very busy day (meşgul bir gün geçirdim)
-                                                            --> I was at work all day (tüm gün işteydim)
-                                                            --> I enjoyed my day (günümün keyfini çıkardım)
+            Hey!
+            Hello!
+            Good Morning, Good Afternoon, Good Evening
+            How are you doing today  (neler yapıyorsun bugün)           --> I'm doing good (iyidir)
+            How is/was your day (going)? (günün nasıl geçer/geçti)      --> (my day is/was) good (benim günüm iyi/iyiydi)      day != night
+                                                                        --> my day was so tiring (günüm çok yorucuydu)     
+                                                                        --> I studied all day long (tüm gün boyunca ders çalıştım)
+                                                                        --> I worked all day long (tüm gün boyunca çalıştım)
+                                                                        --> did you rest enough? (yeterince dinlendin mi?)
+                                                                        --> yes, I rested enough (yeterince dinlendim)
+                                                                        --> no, I didnt rest enough (yeterince dinlenmedim)
+                                                                        --> it was a busy day (meşgul bir gündü)
+                                                                        --> today i was so busy (bugün meşguldüm)
+                                                                        --> it was good   (iyiydi)
+                                                                        --> it was stressful (stresliydi)
+                                                                        --> it was so tiring (çok yorucuydu)
+                                                                        --> I had a good day (iyi bir güne sahip oldum)
+                                                                        --> I had a very busy day (meşgul bir gün geçirdim)
+                                                                        --> I was at work all day (tüm gün işteydim)
+                                                                        --> I enjoyed my day (günümün keyfini çıkardım)
 
 2 --> YOUR NAME
-      What is your name?      --> I’m ..
-                              --> I am ..
-                              --> My name is ..
+            What is your name?      --> I’m ..
+                                    --> I am ..
+                                    --> My name is ..
 
-      Can you spell your name? (ismini harf harf söyleyebilir misin?)
-            A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
-            J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
-            S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
+            Can you spell your name? (ismini harf harf söyleyebilir misin?)
+                  A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
+                  J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
+                  S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
 
 3 --> LOCATION   
-      tell me about the place you live?   (yaşadığın yer hakkında bana anlat)
-                              --> I live in İstanbul
-                              --> I stay in Kadıköy
-                                    --> Being with my friends in the same neighborhood makes me happy
-                                    --> Our house is on third floor
-                                    --> There are some trees, and roses in our garden
+            tell me about the place you live?   (yaşadığın yer hakkında bana anlat)
+                                          --> I live in İstanbul
+                                          --> I stay in Kadıköy
+                                          --> Being with my friends in the same neighborhood makes me happy
+                                          --> Our house is on third floor
+                                          --> There are some trees, and roses in our garden
             
-      tell me about your town?      (senin şehrin hakkında bana anlat)
+            tell me about your town?      (senin şehrin hakkında bana anlat)
+                                          --> my town is ...
+                                          --> It is a big city and crowded enough
+                                          --> there is much fun in the town
             
-      where are you from? --> I’m from Turkey  
-                          --> I live in İstanbul from Turkey
-                          --> I’m originally from Edinburgh but I’m now based in London  
-      where do you live? --> I live in Ankara
+            where are you from?           --> I’m from Turkey  
+                                          --> I live in İstanbul from Turkey
+                                          --> I’m originally from Edinburgh but I’m now based in London  
       
-      what is your nationality
-            --> I’m turkish
-      where do you come from?
-            --> I come from Turkey / Switzerland / Sweden / Russia / Greece / Japan / Mexico / Brazil
-      where did you come from?
-            --> I came from Turkey / Germany / England / Poland / France / China / Spain / Portugal
-      where is your address? --> Street, neighborhood
-           --> My address is behind the Saatçioğlu Mosque
-                          .. near Hazım Kulak Secondary School
-                          .. next to swimming pool in Büyük Bölcek Neighborhood
-      where were you born?  --> I was born in Antalya
-                            --> I was born (in) and raised in Antalya
-      when were you born? --> I was born in 1995
+            where do you live?            --> I live in Ankara
+      
+            what is your nationality      --> I’m turkish
             
-      where did you grow up?  --> I grew up in…
-                              --> I grew up in LA, now live in NY
-      how many years did you live in there? --> I lived in there for two years
-                                            --> I lived in Ankara for seven years 
-      where have you been living for seven years? --> I have been living in Berlin for seven years
-      how many years have you been living in Berlin 
-                 --> I have been living in Berlin for twenty years
-                 --> I have been living in Berlin since my birth
-                 --> I have been living in Berlin since 1995
-      where have you spent the past few years? --> I have spent the past few years in Paris
-                                               --> I have spent two years in İstanbul
+            where do you come from?       --> I come from Turkey / Switzerland / Sweden / Russia / Greece / Japan / Mexico / Brazil
+            where did you come from?      --> I came from Turkey / Germany / England / Poland / France / China / Spain / Portugal
+      
+            where is your address?        --> My address is behind the Saatçioğlu Mosque
+                                                         .. near Hazım Kulak Secondary School
+                                                         .. next to swimming pool in Büyük Bölcek
+            
+                                                            street = sokak, neighborhood = mahalle
+           
+            where were you born?          --> I was born in Antalya
+                                          --> I was born (in) and raised in Antalya
+            
+            when were you born?           --> I was born in 1995
+                                          --> I was born on the 27th of January
+            
+            where did you grow up?        --> I grew up in…
+                                          --> I grew up in LA, now live in NY
+            
+            how many years did you live in there?           --> I lived in there for two years
+                                                            --> I lived in Ankara for seven years 
+            where have you been living for seven years?     --> I have been living in Berlin for seven years
+            
+            how many years have you been living in Berlin   --> I have been living in Berlin for twenty years
+                                                            --> I have been living in Berlin since my birth
+                                                            --> I have been living in Berlin since 1995
+                                                            
+            where have you spent the past few years?        --> I have spent the past few years in Paris
+                                                            --> I have spent two years in İstanbul
                                                       
 4 --> POSITION and COMPANY
-      what's your job / occupation / profession / specialization?
-            --> I am a teacher
-            --> I am an engineer
-            --> I am a technician
-            --> she is a computer operator
-            --> I am an architect, I draw buildings
-            --> I don't work now, I am an unemployed
-            --> I am not working now, I am a student
-            --> I don't work anymore, I am retired
-            --> I worked for several/various jobs, now i am retired
+            what's your job?                                --> I am a teacher
+                   ...  occupation?                         --> I am an architect
+                   ...  profession?                         --> I am an engineer
+                   ...  specialization?                     --> I am a technician
+                                                            --> she is a computer operator
+                                                            --> I am an architect, I draw buildings
+            what do you do for work?                        --> I don't work now, I am an unemployed
+                                                            --> I am not working now, I am a student
+                                                            --> I don't work anymore, I am retired
+                                                            --> I worked for several/various jobs, now i am retired
                       
                       
-      where do you work? --> I work as a teacher at school
-                         --> I work as an engineer in a factory/company
-                         --> I work as an accountant in a hotel
-                         --> I work as a deputy manager
-                         --> I work as a product manager
-                         --> I work as a quality controller in a factory
-      where did you work before?
-                         --> I worked in a hospital before
-                         --> I worked in a bank before
-                         --> I didn't work before, I'm still a student/intern
+            where do you work?                              --> I work as a teacher at school
+                                                            --> I work as an engineer in a factory/company
+                                                            --> I work as an accountant in a hotel
+                                                            --> I work as a deputy manager
+                                                            --> I work as a product manager
+                                                            --> I work as a quality controller in a factory
+            
+            
+            where did you work before?
+                                                            --> I worked in a hospital before
+                                                            --> I worked in a bank before
+                                                            --> I didn't work before, I'm still a student/intern
                   
-                  I work at ‘company’ in the ‘...department’
-                        --> I work at Google in the marketing department
-                  I am a ‘position’ at ‘company’.
-                        --> I’m a manager at Starbucks.
-                  I work in ‘general area’.
-                        --> I work in sales.
-      where did you work last?
-                  I worked in a factory (last)
-                  I worked at a private school
-      why did you leave (from the job)                           ---> why did you leave/resign/quit from your job?
-                  because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
-                  because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
-                  because, I (have) completed my internship                   - çünkü stajımı tamamladım
-                  because, work conditions weren't good/proper to me           - çünkü çalışma şartları bana iyi/uygun değildi 
+                                                            I work at ‘company’ in the ‘...department’
+                                                                  --> I work at Google in the marketing department
+                                                            I am a ‘position’ at ‘company’.
+                                                                  --> I’m a manager at Starbucks.
+                                                            I work in ‘general area’.
+                                                                  --> I work in sales.
+            
+            
+            where did you work last?
+                                                            I worked in a factory (last)
+                                                            I worked at a private school
+            
+            
+            why did you leave (from the job)?               I left from my job, because ...
+            why did you leave/resign/quit from your job?
+                                  because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
+                                  because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
+                                  because, I (have) completed my internship                   - çünkü stajımı tamamladım
+                                  because, work conditions weren't good/proper to me          - çünkü çalışma şartları bana iyi/uygun değildi 
       
 
 5 --> QUALIFICATIONS
@@ -413,12 +429,15 @@ how often do you go out?
 how do you make friends before you go to Poland?
        I 
 how often do you go out with your friends?
+      I go out with my friends every evening 
 what do you do in your free time?
        I listen to music in my free time
        I watch movies
        I like reading a book / a science fictional book
 what do you do on your holiday?
+      I swim, eat and drink on my holiday
 who is your best friend?
+      ABC is my best friend
 when do you have some free time?
 is your house big?
 why are you learning English?
@@ -497,7 +516,6 @@ how do you usually get around?
 what are you doing this weekend?
 what music do you like?
       I like Rock music
-what is your favorite restaurant?
 are you good at English?
       yes, I'm quite good at English
       no, I'm bad at English
@@ -527,27 +545,42 @@ what is your favorite food?
 what is your favorite colour?
             my favorite colour is red and black
 what restaurants do you like?
+      I like fast-food and Italian restaurant
+what is your favorite restaurant?
+      My favorite restaurant is fast food restaurant
 how often do you go out?
+      I go out four times a week
 when do you use a car?
+      I use the car every morning and evening
+      I cannot use a car becuse I have no driving license
 how often do you drive your car?
+      I use my car when I need to get a place, maybe ten times a week
 where do you go shopping?
+      I go shopping to the mall or sometimes online 
 what time does your English lesson start?
+      my English lesson starts at two in the afternoon
 when do you use the internet?
       I use the internet at the weekend
 how often do you use the internet?
       I use the internet every day
+      I don't use internet much
 what is your husband/wife/boyfriend/girlfriend's name?
+      my husband/wife/boyfriend/girlfriend's name is ...
 what town do you live in?
       I live in Antalya 
       I live in Mersin, but I study in Aksaray
 what do you eat for breakfast?
+      I eat egg, cheese, bread for breakfast
 how big is your house or flat?
+      my flat is quite big, there are 3 rooms and one kitchen
 what music do you like?
       I like rap/rock music
 what kind of music do you like?
+      I like rock music
 how old are you?
+      I am nineteen
 what is your favorite day of the week?
-
+      my favorite day is Sunday, because I can rest all day
       
 what time do you get up in the morning?
       I get up at seven in the morning
@@ -560,16 +593,21 @@ where do you go shopping?
 how many brothers and sisters do you have?
       I have one brother
 who is your best friend?
+      my best friend is ABC
+      
 how many people in your family?
       there are five people in my family
 what weather do you like?
+      I like sunny weather, but sometimes rainy
 what languages do you speak?
+      I speak Turkish, English
 what do you do at the weekend?
       I meet with my frinds at the weekend
       
 what subjects do you like at school?
+      I like Maths, English
 how do you go/travel to school/work?
----
+      I go to school by bus
 when do you start the day?
       at half past seven in the morning
       
@@ -602,10 +640,12 @@ STUDENTS' EXTRA NOTES
             On the last day of her holiday, She was so thankful that she ended up going to my manager that day to compliment my kindness
 
 2--How would you deal with an irate customer?
-            I know sometimes customers may be upset or unhappy with their experience with a particular product or service and will contact the company to let them know. 
+            I know sometimes customers may be upset or unhappy with their experience with a particular product or service 
+            and will contact the company to let them know. 
             I would acknowledge their feelings and concerns, and inform them that I would be more than happy to assist them with resolving the problem. 
             After exhausting all available resources, 
-            if I could not rectify the situation, I would let the customer know that I can put them in touch with a supervisor who can help them if necessary.
+            if I could not rectify the situation, 
+            I would let the customer know that I can put them in touch with a supervisor who can help them if necessary.
 
 3--Name 3 qualities about yourself that would make you perfect for the job?
 
@@ -636,20 +676,23 @@ STUDENTS' EXTRA NOTES
 
 7---What would you do if a passenger told you they had paid for private transport to their hotel but you found out they hadn't?
 
-A policy and procedure would be in place for this situation but I would do my best to find if something has gone wrong and assist the customer to have a nice holiday.
+      A policy and procedure would be in place for this situation 
+      but I would do my best to find if something has gone wrong and assist the customer to have a nice holiday.
 
 8---Why did you apply specifically for Jet2?
       I was impressed by the quality of service the tour operator offers and I already know that it has an excellent reputation. 
       Your customer service standards are high and the quality of training given to holiday reps is exceptional. 
       Having spoken to some of your existing employees, all of them were very happy in their work and stated that you are a very good employer. 
-      You are an exciting tour operator that has achieved much to date and I like the fact that you are always looking for innovative ways to improve and develop. 
+      You are an exciting tour operator that has achieved much to date 
+      and I like the fact that you are always looking for innovative ways to improve and develop. 
       I can see your achievements. I would like to work for a tour operator that cares about its customers, which you do. 
       If the customer is happy and their experience of staying with you is a good one, they are likely to come back again. 
       I would love to be a part of this team and believe the qualities. 
       I have will help it to continue to move forward and stay ahead of its competitors.
 
 9---Why did you apply for this job?
-      The Jet2 reputation is certainly a factor. I would be proud to work for a company with such an impressive customer service reputation in the industry. 
+      The Jet2 reputation is certainly a factor. 
+      I would be proud to work for a company with such an impressive customer service reputation in the industry. 
       And I'm also confident that my experience in tourism would be fitting for this role 
       because (examples of how your experience would benefit you in this specific role).
       
