@@ -1758,7 +1758,608 @@
 
 
 
-SYAFA 52
+         EXTRA METHODS
+            POST-METHOD ERA
+                - represents alternative to methods
+                - skillful and autonomous teachers
+
+                Three parameters
+                - Parameter of Particularity 
+                    Teachers
+                    Where, when and for whom the teaching is done
+                - Practicality Parameter
+                    Practicing
+                    Putting a theory in practice (uygulanabilir olmalı)
+                - Parameter of Possibility
+                    Suitability of teaching method for learners (öğrenciye uygunluk)
+                    Social, cultura and political factors are considered
+                    Experirnces of learners
+
+
+            APPROACH
+                Post method
+                    - öğretmen kendi metodunu kendi oluşturur
+                    - var olan metodlar değil
+                    - interaction
+                    - communiation
+                    - autonomy
+                    - effective factor
+                    - hem fluency hem accuracy
+
+
+
+            APPROACH
+                Participatory Approach
+                        - kişileri sosyal yaşama katılımı sağlanır. 
+
+                        - the aim is to make learners active participants in social life
+                        - the themes and contents are added to learning process 
+                                    (contentbased ile karıştırma o dil üzerinden content öğretmek bu ise content üzerinden dil öğretmek)
+                        - topics are based on real life issues
+                        - collaboration and exchanging experiences are important
+                        - teacher is guide and facilitator
+                        - Students previous experience is important while choosing topics
+                        - Learning is experience centered
+                        - no pre-planned syllabus (theme and topic based syllabus)
+
+                        Techniques
+                        - Dİscussions
+                        - Role-plays
+                        - Autobiographies
+                        - CV writing
+                        - Dialogues
+
+
+                        - konu alanı günlük hayata karşılaşılabilecek olaylar olmalı
+                        - öğrenciler kendilerine uygun bulduklarını seçerler ve tartışırlar
+                        - öğrenci merkezli öğrencilerin yaşantılarını merkeze alır
+                        - tartışma ortamı vardır, öğretmen bu tartışma ortamını yöneten kişidir
+                        - öğrencilerden fikirlere saygı
+                        - öğrencilere sorular sorulur, birlikte o bilgi edinilir
+                        - konular önceden belirlenmez dersin akışına göre seçilir
+                        - deneyime ve tercübeye dayalıdır (for adults)
+                        - önceden belirlenmiş bi syllabus yok (non-predetermined)
+                        - ders sonunda öğrenciler edindiği bilgileri yazıya döker
+                        - speaking v listening var
+
+
+
+
+
+            APPROACH
+                Tandem learning
+                        - iki kişi ile gerçekleştirilen dil öğrenme şekli
+                        - karşılıklı sohbet ederek dil öğrenme
+                        - internette de yüz yüze de olabilir
+                        - amaç iki tarafında bilgi becerilerini aktarmasıdır.
+                        - iki kişi
+                        - tüm seviyelere uygun
+                        - önceden belirlenen planlar yoktur
+                        - grammar çok fazla önemsenmez
+                        - communicative bir yöntemdir
+
+
+            APPROACH
+                Portfolio based Learning
+                        - öğrencilerin bilgi v becerilerini kullanarak oluşturdukları, özgün çalışmarı topladıkları bir değerlendirme türüdür (dosya)
+                        - öğrenciler oluşturur ama öğretmen kontrolüünde
+                        - öğrenci autonomous, kendi güçlü v zayıf yönlerini bilir
+                        - deneyim var
+                        - öğretmen öğrencilerin ihtiyaçlarını belirler
+                        - öğrenci merkezlidir
+                        - a personal assistment
+
+
+
+> Teaching Language Skills and Factors in Language Teaching
+                Receptive Skills (Input)	                Productive Skills (Output)	            Sub-Skills
+                ---------------------------------------------------------------------------------------------------------------------------
+                Listening	     Reading                    Speaking	       Writing              Pronunciation   Grammar    	Vocabulary
+
+
+– TEACHING GRAMMAR
+		    Grammar - The system of rules of a languae governing the sounds, words, sentences
+		    Form - structure
+            Use – production of structure
+            Meaning – structure meaning structure
+
+            Approaches to Grammar
+                Deductive Teaching Grammar – Grammar rules/strucuture taught directly explicitly
+	                Top down (Tümden gelim)
+	                        Eg Students are asked to fill in the blanks with appropriate form of verbs presented in brackets according to simple present and future tenses
+	                        Before making students do this activity, 
+                            the teacher enpower students absorb the sentence formation in the relevant tenses by giving instructions axplicitly
+		        Inductive Teaching Grammar – Grammar through examples implicitly
+			                The examples are presented first, learners are expected to infer rules, it based on natural acquisition
+                            Eg Prepositions: During a grammar class, the teacher gives students some sentences as follows: Some sentences. 
+                            After presenting such kinds of activities, 
+                            the teacher asks students to fill in the blanks by the suitable preposition in the exercise below….  
+			                grammar taught through context
+
+                            Focus on forms – Understanding Grammar structures are important, Choosing and teaching some target rules
+                                             Deliberate teaching of Grammar, Primary attention to form 
+                                             Communication arka planda
+                                             Structure odaklı
+                                             Önceden belirlenmiş bir plan dahilindedir
+                                             Kurallar explicit olarak verilir
+                                             Accuracy 
+                                             teaching grammar structures explicitly (deductive)
+			
+                            Focus on meaning – Meaning is important
+					                        Learning through experiencing and communicating 
+                                            No deliberate analysis of grammar structures
+                                            Anlam odaklıdır
+                                            emphasizing the meaning of linguistic forms in a context
+
+			                Focus on form – Communication is important
+					                        Integration of form and meaning
+					                        Attention to forms arising incidentally
+                                            Önceden belirlenmez
+                                            Communication sırasında grammar arka planda iletişim önemli
+                                            İhtiyaç duyulması halinde grammar kuralları kullanılır
+                                            take students attention to a specific structure during communicative activity (değinip geçmek)
+
+                                            Focus on forms ve focus on form birlikte kullanılmalı grammar öğretiminde
+                                            
+                Stages of Teaching Grammar
+				            Presentation
+					                    Introducing/teachinggrammar rules (hangi yaklaşım inductive yoksa deductive)
+					                    Deductive or Inductive Teaching
+					                    Presenting rules in contexts
+					                    Awareness is important
+				            Practice
+					                    Activities to practice newly learnt structures
+					                    Primary focus on accurate use of structures
+					                    Suitable Activities (öğrencinin dili kullanıp kullanamadığına bakılır): 
+                                        Repetitions, Substitution drills, Single Word prompt, Picture prompt, 
+                                        Sentence- completion, Free substitution, T-F,
+                                        Choosing the best sentence/Multiple Choice, Matching, Addition, Q-A, 
+					                    teachers design/choose appropriate activities to practise grammatical structure
+					                    students only focus on structure
+                                        – comprehend the meaning of the sentences and practise linguistic structure
+				            Production
+					                    Using structures fluently to communicate
+					                    Activities: Writing a letter/paragraph/mail, Story Telling, Dialogues, Discussions
+					                    linguistic forms naturally and fluently as possible
+					                    using the language to communicate speaking, writing
+
+
+                    Grammar Types
+	                        -Prescriptive Grammar
+	                                            Not all grammarians, past or present, share the view that all grammars are equal. 
+                                                Language purists of all ages believe that some versions of a language are better than others, 
+                                                that there are certain correct forms that all educated people should use in speaking and writing, 
+                                                and that language change is corruption.
+	                        -Descriptive Grammar
+	                        -Cognitive Grammar
+	                        -Pedagogical Grammar
+	                        -Universal Grammar
+
+                    Grammar nasıl öğretilmeli?
+		                    Form: hedef dilin cümle yapısı, kelime yapısı öğrenmek (structure)
+		                    Usage: Teorik bilgileri kullanıma dökmek, dil bilgisine uygun cümleler kurmak (production of structure)
+		                    Meaning: Zihinde oluşan anlam (structure meaning in sentence)
+                            
+                    Grammar
+		                    - anlamlı bir metin içinde verilmelidir
+		                    - hem fluency, hem accuracy ön planda almalıdır
+		                    - meaning + form birlikte verilmelidir
+		                    - çok fazla terim içermemelidir
+		                    - önce implicit (kural çıkarım), sonra explicit(kural öğretilir) kullanmalı
+		                    - corrective feedback verilmelidir
+		                    - hem input, hem output önemlidir
+
+		                    Deductive ve Inductive Approach in Grammar Teaching
+		                    # Deductive – tümdengelim
+			                        Kurallar öğrencilere doğrudan verilir(explicit). örnekler verilir öğrenci cümleler kurar
+		                    # Inductive – Tümevarım
+			                        Metinler aracılığıyla dolaylı öğretilir(implicit), öğrenciler çıkarım yapar
+
+                     Skills – Activity
+                        listening – gap filling, dictoglass (dictation)
+                        speaking – information gap
+                        reading  - note taking
+                        writing – outlining, dictoglass (dictation)
+
+                        to write an essay its important – punctuation, accuracy, spelling, capitalization 
+
+
+                    – TEACHING LISTENING
+	                    Types of Listening 
+		                    Interactive (Reciprocal) Listening (Karşılıklı konuşma)
+			                            Describing, Discussing with a partner
+			                            A type of listening that occurs in a communicative situation
+			                            The listener takes role as a speaker and responses
+			                            Discussions, Debates, Conversations
+			                            Listener participation, actively both listener and speaker, face to face, phone call, purpose 
+		
+                            Non-Reciprocal(Non-Interactive) Listening
+			                            Passive listener (cevap vermez), can’t give any response (bilgilendirmez), watching tv, listening to radio, lecture
+			                            A type of listening that occurs when a listener or listeners don’t take an active role as a speaker 
+		                    Extensive Listening (Kapsamlı)
+		                    	        Sınıf dışında, eğlenme amaçlı, materyalleri öğrenci seçer, rahat bir ortam, önemli olan anlamak, detaylar değil
+		                    	        For pleasure, outside the class, for fun
+		                                The type of listening done for enjoyment and improving language skills outside the classroom
+		                                No questions or exercises concerning listening	
+		                    Intensive Listening (Yoğun)
+		                    	        Sınıfta, materyaller öğretmen kontrolünde, tekrar yapılan, sonunda comprehension check soruları olduğu tür
+		                    	        A task in the class, checking the knowledge
+		                                Listening that is done in detail with learning aims and tasks in the classroom
+		                                Studying words, sounds, intonation and applying listening techniques
+		                                Questions and Exercises
+
+                        Types of Listening according to its purpose
+	                            Discriminative Listening (Ayırt edici)
+	                                	Sesler arasındaki farkları anlamaya çalışır, minimal pairleri açıklamaya çalışır, ayırt eder
+	                                	Anlamaya değil sese odaklıdır
+	                                	Listening that is based on hearing and differentiating between sounds
+	                                	Focus on sounds, words, distinguish sounds, but not on meaning
+	                            Comprehensive Listening (Yoğun, Dikkatli)
+	                                	Anlama odaklı dinleme türü
+	                                	Sonunda sorular sorulabilir
+	                                	The Listening that contains understanding the message
+	                                	Appropriate vocabulary and language skill are needed for this type of listening
+	                                	Understanding the message with vocabulary knowledge
+	                                	Knowledge of the vocabulary and grammatical structure
+	                            Critical Listening (Eleştirel)
+	                                	Öğrencilerden verilen dinleme metniyle ilgili fikir sahibi olmaları amaçlanır
+	                                	Dinleme metinindeki konuşmalacının söylediklerine katılıp katılmadıklarına karar verirler
+	                                	Bir yandan da metni anlamaya çalışılır
+	                                	Listeners express their opinions about what they listenpp
+	                                	Critically answering
+	                            Evaluative Listening (Judgemental)
+	                                	Öğrencilerin dinledikleri metinleri değerlendirmeleri istenir
+	                                	Listener makes judgments about what the speaker says (Critical Listeninge benzer)
+	                                	Judging the values/beliefs of what he heard
+	                                	- What does this person say? (Truth value)
+	                                	- Does he/she have evidence? (Truth value)
+	                            Appreciative Listening (Beğenilen/Takdir edilen)
+	                                	Listening that is based on seeking certain information to appreciate
+	                                	Listening is based on listeners needs
+	                                	Responding the the harmony of ideas (what he heard)
+	                                	En ileri düzey yapılan dinleme türüdür
+	                                	Estetik kaygıyla ve keyif almak amacıyla ypılan türdür
+	                            Biased Listening
+	                                	Hearing only the information wished to be heard (dinlerken aranılan bilgiyi duymak)
+
+
+                         General Principles in Teaching Listening
+	                            Purpose and instructions should be clear
+	                            Difficulty Level is important (Grade difficulty level as a teacher)
+	                            Simple to Complex
+	                            Combine listening skill with other skills
+	                            Focus on Process (Paying Attention)
+	                            Focus on Comprehending/Understanding Meaning
+
+                         Listening Strategies
+    	                        Teaching key words
+	                            Activating Schema (Background Knowledge)
+	                            Guessing the Meaning of Unknown Words
+	                            Listening for Gist
+
+
+                         Teaching Listening Approaches/Models
+                                Bottom-Up Process 
+                                        (Tümevarım – Parçadan bütüne – aşağıdan yukarıya)
+                                        İlk önce parça bütünü anlaşılmalı, bütün parçadan önce
+                                        - Comprehension start with sounds
+                                        - (Decoding of smallest units syllabus)
+                                        - Task
+                                             - Minimal pair (pronunciation)
+                                             - Teach intonation (suprasegmental-stress(vurgu)-intonation(tonlama))
+                                        - Lexical and grammatical competence
+                                        - Based on discrete units of language
+                                        - why  because
+                                        - Recognizing key words
+
+
+                                        - From Linguistic units to meaning (yapılardan anlama)
+                                        - Sounds, intonation, stress, sentences
+
+                                        - metni anlamak için her cümle, kelime önemlidir
+                                        - anlama odaklıdır
+                                        - metni ayrıntılarıyla anlamaya çalışırlar
+
+                                        Activities:
+                                        - discriminative sounds (sesler arası fark)
+                                        - recognize keywords
+                                        - transition
+                                        - intonation
+
+                                   Top-Down Process (Tümdengelim – Bütünden parçaya – yukardan aşağıya) 
+                                        İlk önce parça bütünü anlaşılmalı
+                                        - Understanding overall meaning (background knowledge schemata)
+                                        - Use key words to construct schema
+                                        - Cause and Effect 
+                                        - Read news headline, guess what happened
+
+
+                                        - from meaning to language
+                                        - listening to understand meaning
+                                        - paying attention to topic
+                                        - predicting and analyzing content
+                                        - usage of individual background
+
+
+                                        - öğrenciler eldeki bilgilerden yola çıkarak metin hakkında tahminde bulunur, metnin ne hakkında olduğu hakkında yorumlar yaparlar
+                                        - metni ayrıntılarıyla anlamaktan ziyade genel hatlarıyla anlamaya çalışırlar (Listening for gist)
+                                        - ön bilgilerden yararlanılır
+                                        - konuyu mekanı niyeti anlamaya çalışırlar
+
+                                        Activities: listening for gist, listening for topic, predictions
+                                        
+                 Stages in Teaching Listening (Aşamalar)
+                                Pre-Listening
+		                                Motivate students for listening, activate schmeta, predicting topic, establishing reasons for listening
+		                                Teaching key words, warm up activities, setting the scene (giving context)
+
+		                                Preparing students for listening
+		                                Social and cultural background
+		                                Questions for predicting the content
+		                                Visual material that are related to the content
+		                                Presenting key words and phrases
+		                                Stating the aim (which purpose of listening)
+		                                Brainstorming related concepts
+		                                Reviewing vocabulary and structures
+
+		                                Öğrencilerin konuya karşı ilgisi çekilir metne karşı merak uyandırılır
+		                                metinde geçen kelimeler önden öğrencilere verilebilir
+		
+		                                Activities
+		                                - activating scheme – hafızada y er alan şemaları harekete geçirmek
+		                                - establishing reason for listening – neden bu metni dinliyoruz
+		                                - generating questions – konuyla ilgili genel soru sorulabilir
+		                                - pre-teaching vocabulary – öğrencinin bilmediği kelimeler verilir
+		                                - brain-storming
+
+		
+
+                                While Listening
+		                                Listening for gist (Top-Down Process)   Skimming
+		                                Listening for specific information(bottom-up process)  Scanning
+		                                Listening for pronunciation, intonation, checking the answers (listen and tick/fill)
+		                                Activities: 
+                                                        Gap-Filling, Note Taking, Listening for details, 
+                                                        Multiple Choice, T-F Questions, Follow the Map, Listen and Tick, Listen and Act, Ordering
+		                                Matching, Drawing, Cloze tests, Dictation
+		                                Understanding gist (ana temayı anlamak)
+		                                Detailed comprehension (Detaylı anlama)
+		                                Checking answers of students
+		                                Dinleme aktivitesi esnasında yapılır
+		                                Metning konusu anlanmaya çalışılır
+		                                Netnin bazı bilgilerini anlamaya çalışmak
+
+		                                Activities
+		                                    Listening for gist
+		                                    Listening for details
+		                                    Inference (çıkarım) var
+		                                    Note-taking
+		                                    Dictation
+		                                    Listen and do
+		                                    Pronunciation
+		                                    Repetition
+		                                    Comprehension
+
+                                Post-Listening
+		                                Listeningi anlayıp anlamama üzerine yapılır
+                                        Speaking and writing activities (Writing an Essay) about the text
+		                                Answering Questions
+		                                Gap filling activities for a Summary
+		                                Discussion, debating, interview, problem solving, retelling, checking and summarizing, reconstruction (tekrar yazmak) 
+                                        dictogloss (Dictation) öğretmen okur öğrenciler not almaz, sadece anahtar sözcükleri not ederle 
+                                        sonrasında keywordsler ile yani bir text yazmaya çalışırlar
+
+		                                Dinleme sonrasında yapılan aktivitedir
+		                                Genelde productive olmalı (bir ürün ortaya koymalı)
+		                                Dinleme metni amaca ulaşmış mı, ulaşmamış mı anlamaya çalışılır
+
+                                        Activities
+                                        Dinlenilen metnin canladırılması
+                                        Dinlenilen metnin özetinin çıkarılması
+                                        Productive aktiviteler
+
+
+– TEACHING PRONUNCIATION
+		                Intelligibility (Kelime Alışılabilirlik önemli – Mesajın ses iletimi) AMAÇ!!
+		                	Intelligibility rather than perfection or native-likeness
+		                	It refers to forming and hearing sounds in spoken language
+		                	to increase it
+		                	- studying how speech sounds are articulated
+		                	- learning common intonation patterns
+		                	- studying sentence stress
+		                	- learning different types of word stress
+                
+		                	Aim is intelligibility and comprehensibility
+		                	öğrenci herşeyi doğru söylemek zorunda değil
+		                	anlaşılır olmak önemli
+
+		                Comprehensibility: 
+                                mesajın açık, net, anlaşılır olması. Mesajın içeriği
+
+		                Requirements for teaching pronounciation
+			                    Segmental features – to pronunce speech sounds correctly (vowels, consonants, syllable, words)
+					                                Phones, phonemes, allophones           to pronounciate speech sounds correctly
+			                    Suprasegmental features – Prosodic features: rhythm, stress(vurgu), intonation(tonlama), pauses(duraksama), pitch(alçalıp yüksel)
+					                                        Tones, listening tasks, songs
+                                                            minimal pairs, homonym, tongue twister, homophones, constant clusters should be taught
+					                                        stress, intonation, pauses
+		                
+                        Pronunciation ne zaman öğretilmeli
+			                    Whole lesson – tüm ders boyunca
+			                    Discrete slots – dersin belli bir kısmında
+			                    Integrated phases – diğer aktivitelerin içine yedirilmiş şekilde, dersin bir parçası
+			                    Opportunitistic Teaching – bulabildiği her fırsatta
+
+		
+                        Approaches to Teaching Pronunciation
+		                        Intuitive(Imitative) Approach (Sezgisel Yaklaşım)
+			                            No explicit instruction
+			                            Being exposed to sounds (maruz bırak)
+                                        Imitation(taklit) of the sounds/rhythms without any explicit instruction (video) – açık yönerge olmadan
+                                        Taklit ile öğrenir 
+
+		                         Analytic(Linguistic) Approach
+			                            Telaffuz detaylı öğretilir. Tablolardan öğrenileblir
+                                        Explicit information on pronunciation
+			                            Articulatory description
+			                            Phonetic alphabet and vowel chart (hangi yolla yaptığı)
+                                        Rules and Structure are important: Explicit and structured teaching of speech features (konuşma özellikleri açık şekilde veriliyor)
+		                                (Current) Integrative Approach – practiced by activities
+			                            Ses bilgisi iletişimin ayrılmaz parçasıdır. Suprasegment özelliklere ağırlık verilir
+			                            Pronunciation is a crucial part of communication
+			                            Practicing through task-based activities
+			                            Suprasegmental features rather than sound and word practicing (kelimelerden ziyade anlamlı tasklarda dili kullanarak telafuz)
+
+		                        Techniques of Pronunciation
+			                            Songs, Minimal pairs(kelime çiftleri bad, sad), homonyms (eş sesliler), 
+                                        tongue twisters, listening tasks, consonant clusters (ünsüzlerin bir araya gelmesi), dictation, suprasegmental exercises 
+
+
+		                        Pronunciation Activities
+			                            Dictation, Intonation exercises, Minimal pairs, Consonant Clusters, Sample Sentence w sounds, Sound charts  
+
+		                        Strategies – Reading
+			                            Comprehension tasks should be not too easy/difficult
+			                            Reading aloud (pronunciation and intonation)
+			                            Silent Reading (Skimming, Scanning, Predicting, Understanding details, and inference)
+			                            Guessing the meaning of vocabulary in the text
+			                            Making predictions and Inferences
+			                            Texts should be authentic and provide purpose for reading
+
+
+           – TEACHING VOCABULARY
+           		Whats voc knowledge?
+           		    - knowing the correct meaning
+           		    - knowing the pragmatic meaning
+           		    - how to spell it?
+           		    - how to use it?
+           		    - how to pronounce it?
+           		    - lexical relations and collocations(hangi kelime hangisiyle, yeri ne) (homework, syn, ant)
+           		    - word structures
+           		    - syntactic structure
+
+		
+                 Conceptual knowledge – bir kelimenin anlamı (meaning)
+                        		- Kelimeler anlamlı materyaller dahilinde öğrencilere sunulmalıdır
+                        		- Öğrenciler öğrendikleri kelimeleri içselleştirirler, ihtiyaç duyduklarında hatırlarlar (internalization)
+                        		- kelimeler hem sözlü hem yazılı öğretilmelidir
+                        		- kelimenin duygusal çağrışımınıyapabilmeli (connatation) – limon örneği ekşi
+                        		- öğrenci nerede, ne konuşacağını bilmeli – pragmatic
+                        		- kültürel öğeleri bilmeli
+                        		- aynı kelimeler farklı zamanda öğrencilerin karşısına çıkmalı
+                        		- sözlük kullanımı öğretilmeli
+                        
+		                        Demonstration – kelime resimle gösterilmeli
+		                        Explanation – tanımını kökünü bilmek gerekir
+
+		                        Contextualization   - words in a context
+		                        Internalization – students use words efficiently
+		
+		                        Important Points: Meaning, Pronunciation, Spelling, Part of Speech(Grammatical class(Kelimenin türü)), Usage, Collacations
+
+
+	               Vocabulary Knowledge (Kelime Öğretimi/Bilgisi)
+			                    - Knowing the correct meaning
+			                    - Knowing the pragmatic meaning
+			                    - How to spell it?
+			                    - How to use it?
+			                    - How to pronunce it?
+			                    - Lexical relations and collacations (do homework, make a cake, synonym, antonym)
+			                    - Word structures
+			                    - Syntactic structure (isim mi, sıfat mı vs) 
+			                    Teach students how to use dictionary for autonomous learning
+			                    Teach lexical relationship (such as superordinate, hyponym, antonym, synonym..)
+			                    Provide context for incidental learning through extensive reading and listening
+			                    Teach vocabulary with demonstration, explanations
+			                    Teach vocabulary in real life
+			                    How to guess the meaning of an unknown vocabulary
+			                    Compora for facilitating vocabulary learning
+			                    Context is necessary for vocabulary teaching
+			                    Guessing the meaning should be taught
+			                    Vocabulary teaching can be implicit and explicit 
+                                
+
+                    Vocabulary Teaching Techniques
+		                        - Demonstration: Visuals, Pictures, Realia, Acting
+		                        - Explanation
+		                            	Definition: lexical and cultural meaning
+		                            	Cognates: TV, Radio (Diğer dillerde aynı/benzer kelimeler)
+		                            	Word-Building (Affixation): Prefix, Suffix (Çekim eki, Yapım eki)
+		                            	Synonym: help = assist
+		                            	Antonym: artificial x natural
+		                            	Superordinate  Hyponym: Flower  rose, Drinks  Water
+		                            	Mind-Map: Classifying the words about the same subject: education  school  class  student
+		                            	Repetition
+		                            	Lead-in – Kelime öğrenimi için context hazırlama
+		                            	Verification – doğrulama genelde teknik İngilizce için kullanılan teknik
+		                            	Model Sentence
+		                            	Use – kelimenin kullanılabileceği aktiviteler
+
+
+		               Principles of Teaching Vocabulary
+			                        Teaching high-frequency words
+			                        Teaching explicitly and implicitly
+			                        Utilizing already known grammar structures
+			                        Utilizing previously learnt words
+			                        Strategies for dictionary use
+			                        Recycling new words for consolidation
+			                        Utilizing previous experiences
+			                        Presenting words within a context
+			                        Guessing the meaning
+			                        Incidental learning (Unplanned)
+
+                                Presentation Stage
+                                        -Setting up a context (Listening, Reading, Dialogue) – kelimeyi sunarken bi kontext oluşturulmalı
+                                        -Elicitation – contexten kelime anlamı çıkarmak
+                                        -Repetition
+                                        -Concept-Checking Questions  öğrenilip öğrenilmediği
+
+                                Practice Stage
+                                        -Fill in the blanks
+                                        -Matching pictures w words
+                                        -Finding synonyms and antonyms
+                                        -Hangman
+                                        -Building new words
+                                        -Using some words to complete task
+
+                                Production Stage
+                                        -Free activities
+                                        -Letters
+                                        -Stories
+                                        -Poems
+                                        -Projects
+                                        -Discussions
+                                        
+– TEACHING READING
+		Techniques/Reading Sub-Skills
+			    Skimming – quickly running one’s eyes across a whole text for gist (ana fikir)
+			    		Reading rapidly in order to get a general overview of the material
+			    		Catching the gist
+			    		Hızlı okunuş
+		    	Scanning – quickly searching for a piece of information (specific information)
+		    			Reading a text quickly in order to find specific information
+		    			Dates, Numbers, Keywords, Names
+                        Tarama yapmak
+			    Inferencing (Çıkarım yapmak) – Imply ideas/emotions by hiding intended message
+			    		Drawing conclusion, understanding the implied message, discovering the hidden points (sonuç çıkar)
+
+
+                    Approach in Teaching Reading
+			             Top down processing – Understanding key words, to find a suitable title for the text
+					                           Tümden gelim
+                                               Firstly, approaching a text w background(previous) knowledge, experiences, context, overall meaning
+					                           Later, lower-level semantic, syntactical and phonological features
+					                           A Whole Language Approach
+			             Bottom up – (Recognizing ‘Key Word’, Sounds), Small units, Teaching Intonation
+					                            Tüme varım
+					                            Approaching a text by recognizing grammatical characteristics of the most basic units of the text
+					                            Letters, Morphemes, Words, Phrases, Sentences
+					                            Vocabulary + Grammar = Meaning
+
+
+                Stages in Teaching Reading and Activities
+                
+                sayfa 59
 
 
 
@@ -1772,105 +2373,4 @@ SYAFA 52
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-METHODS EXTRA
-POST-METHOD ERA
-- represents alternative to methods
-- skillful and autonomous teachers
-
-three parameters
-- Parameter of Particularity 
-      Teachers
-      Where, when and for whom the teaching is done
-- Practicality Parameter
-      Practicing
-      Putting a theory in practice (uygulanabilir olmalı)
-- Parameter of Possibility
-      Suitability of teaching method for learners (öğrenciye uygunluk)
-       Social, cultura and political factors are considered
-       Experirnces of learners
-
-
-APPROACH
-Post method
-- öğretmen kendi metodunu kendi oluşturur
-- var olan metodlar değil
-- interaction
-- communiation
-- autonomy
-- effective factor
-- hem fluency hem accuracy
-
-
-
-APPROACH
-Participatory Approach
-- kişileri sosyal yaşama katılımı sağlanır. 
-
-- the aim is to make learners active participants in social life
-- the themes and contents are added to learning process (contentbased ile karıştırma o dil üzerinden content öğretmek bu ise content üzerinden dil öğretmek)
-- topics are based on real life issues
-- collaboration and exchanging experiences are important
-- teacher is guide and facilitator
-- Students previous experience is important while choosing topics
-- Learning is experience centered
-- no pre-planned syllabus (theme and topic based syllabus)
-
-Techniques
-- Dİscussions
-- Role-plays
-- Autobiographies
-- CV writing
-- Dialogues
-
-
-- konu alanı günlük hayata karşılaşılabilecek olaylar olmalı
-- öğrenciler kendilerine uygun bulduklarını seçerler ve tartışırlar
-- öğrenci merkezli öğrencilerin yaşantılarını merkeze alır
-- tartışma ortamı vardır, öğretmen bu tartışma ortamını yöneten kişidir
-- öğrencilerden fikirlere saygı
-- öğrencilere sorular sorulur, birlikte o bilgi edinilir
-- konular önceden belirlenmez dersin akışına göre seçilir
-- deneyime ve tercübeye dayalıdır (for adults)
-- önceden belirlenmiş bi syllabus yok (non-predetermined)
-- ders sonunda öğrenciler edindiği bilgileri yazıya döker
-- speaking v listening var
-
-
-
-
-
-APPROACH
-Tandem learning
-- iki kişi ile gerçekleştirilen dil öğrenme şekli
-- karşılıklı sohbet ederek dil öğrenme
-- internette de yüz yüze de olabilir
-- amaç iki tarafında bilgi becerilerini aktarmasıdır.
-- iki kişi
-- tüm seviyelere uygun
-- önceden belirlenen planlar yoktur
-- grammar çok fazla önemsenmez
-- communicative bir yöntemdir
-
-
-APPROACH
-Portfolio based Learning
-- öğrencilerin bilgi v becerilerini kullanarak oluşturdukları, özgün çalışmarı topladıkları bir değerlendirme türüdür (dosya)
-- öğrenciler oluşturur ama öğretmen kontrolüünde
-- öğrenci autonomous, kendi güçlü v zayıf yönlerini bilir
-- deneyim var
-- öğretmen öğrencilerin ihtiyaçlarını belirler
-- öğrenci merkezlidir
-- a personal assistment
 
