@@ -198,6 +198,7 @@ http://www.espressoenglish.net/wp-content/uploads/free/500-Real-English-Phrases.
 You are giving me a hard-on - çok pis gaza getiriyorsun beni
 No hard feelings - bozulmak yok, darılmaca yok
 Persistance pays off - kalıcılık karşılığını verir
+I don't want to pull some strings - araya birilerini sokmak, torpil yaptırmak istemiyorum
 Good opportunity/positions don't win games, good moves do - iyi fırsat oyunu kazandırmaz, iyi hamle kazandırır
 How did you manage to access all this information - bu kadar bilgiyi nasıl elde ettin?
 People can only forgive what they don't need any more - insanlar sadece artık ihtiyaç duymadığı şeyleri affedebilir
@@ -205,7 +206,7 @@ Yesterday is gone, tomo is a mystery, today is a blessing - dün gitti, yarın b
 My philosophy is that worrying means you suffer twice - benim felsefem endişenmek iki kez acı çekmektir
 Flattery will get you nowhere - boşuna yağ çekme
 Present company excluded - sözüm meclisten dışarı
-snip, snap, snout, and then the story was out... - onlar ermiş muradına biz çıkalım.
+snip, snap, snout, and then the story was out... - onlar ermiş muradına biz çıkalım
 I am not buying it honey - yemezler canım
 Don't mess with me - bana bulaşma
 Since I don't know what your feelings are, I don't know if these feelings have a counterpart in me
@@ -213,15 +214,46 @@ Since I don't know what your feelings are, I don't know if these feelings have a
 When a blind man begins to see, he first breaks his own walking stick
 		kör bir adam görmeye başladığında, önce kendi bastonunu kırar 
 Keep eyes on the prize - ödüle gözünden ayırma - ödüle gözünü dik
-
+youre a hurdy gurdy man - komik adamsın vesselam
+to some extent what she said is correct - söylediği şey belli bir oranda doğru
+don't talk the talk if you can't walk the walk - yapamayacağın şeyi söyleme, yüksekten atma, iddia etme
+You talk the talk, but you don't walk the walk - konuştukça konuşuyorsun ama icraat yok
+I talk the talk, I walk the walk - Ben konuşmam dediğimi yaparım
+I don't want to take sides - taraf tutmak istemiyorum
+she is a light sleeper - uykusu hafif	# a sound/dee/heavy sleeper
+I didn't oversleep - uyuyakalmadım
+let's just get this over with - hadi şu işi bitirelim/yapalım
+now if you will excuse me - şimdi müsaade edersen, izin verirsen
+I will figure it out - kendim hallederim
+It's not rocket science - o kadar da zor değil, roket bilimi değil sonuçta, atla deve değil
+It doesn't make sense - bu hiç mantıklı değil
+In retrospect - geçmişe bakıldığında
+It seems a bit contrived - biraz yapmacık görünüyor
+If I were in your shoes - senin yerinde olsam
+We have a lot in common - seninle çok ortak noktamız var
 things happen - olur böyle şeyler
 things happen for a reason - her şeyin bir sebebi var
-sh*t happens - başımıza her halt gelir
+sh*t happens - başımıza her halt gelebilir
 things are looking up - işler iyi gidiyor
 things are crazy - ortalık karışık
-
+I am working overtime - fazla mesai yapıyorum
+Now is not the time - şimdi sırası değil
+scoot over, part of your shadow is on my spot- kenara kay, gölgen benim yerime düşüyor
+Don't tempt me - beni kışkırtma
+when it rains, it pours - aksilikler hep üst üste gelir
+it must have slipped my mind - o aklımdan uçup gitmiş olmalı
+It totally slipped my mind - tamamen unutmuşum
+you run a tight ship - disiplinli birisin, sıkı/düzeli yönetiyorsun
+let's get down to 'brass tacks' - artık asıl meseleye gelelim, sadede gelelim, konuya girelim hemen
+I am going on a diet - diyet yapacağım
+I have gained/put on some/a lit weight recently - biraz kilo aldım son zmanlarda 
+It's 'worth a shot' - denemeye değer
+don't rub it in - gözüme sokma, başıma kakma, yüzüme vurma
+actions speak louder than words - lafa değil icraata bak
+to take sth lying down - alttan almak, sineye çekmek, hiç karşı gelmeden bir şeyi kabul etmek
+I can't take this lying down - böylece oturamam, alttan alamam, sineye çekemem, bunu kabullenemem
 weirdly very cerebral, very technical one - tuhaf bir şekilde aşırı zeki, aşırı teknik biri
-this fatty is reading your rival - bu şişko rakibini okuyor
+this fatty is reading your rival - bu şişko senin rakibini okuyor
 no big deal - büyük bir mesele değil
 it is better than nothing  - hiç yoktan iyidir
 it is my turn - benim sıram
@@ -255,6 +287,8 @@ why bother - ne gereği var, ne gerek var
 it doesnt bother me at all - bana göre hava hoş
 makes no difference to me - benim için fark etmez
 why should I care  - bana ne, beni ilgilendirmez
+have a say in sth - söz sahibi olmak, laf düşmesi
+I think, students should have more of a say - öğrencilerin daha fazla söz hakkı olmalı
 
 
 I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
@@ -262,6 +296,9 @@ don't lose momentum
 house always win
 move fast break things
 Every C in Pacific Ocean is pronounced differently
+light (up) a cigar # put out the cigarette
+
+
 
 # MONEY
 can you break a twenty - bir yirmilik bozabilir misin
@@ -310,7 +347,7 @@ where are you taking me? - beni nereye götürüyorsun?
 everything that was once thought to be impossible is happening now
 	bir zamanlar imkansız olduğu düşünülen her şey şimdi oluyor
 I have nothing to hide
-to some extent what she said is correct - söylediği şey belli bir oranda doğru
+
 CASHLESS SOCIETY
 what precisely does the job involve?
 roughly how many customers do you get in a day?
