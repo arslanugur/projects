@@ -2357,20 +2357,732 @@
 					                            Vocabulary + Grammar = Meaning
 
 
-                Stages in Teaching Reading and Activities
-                
-                sayfa 59
+          Stages in Teaching Reading and Activities
+                    Pre-Reading Stage
+		    	Skimming
+				reading quickly for gist
+        			Skimming consists of quickly running one’s eyes across a whole text for its gist. 
+				It gives the reader the advantage of being able to predict the purpose of the passage, 
+				the main topic, and possibly some of the supporting ideas.
+          			metindeki konuyu anlamak için hızlı bir göz gezdirmek
+			
+			Scanning
+				Reading quickly for specific information - Metindeki özel bilgiyi bulmak için hızlı okuma
+        			Scanning refers to quickly searching for a piece of information such as a name, date or place in a text. 
+				The purpose is to extract specific information
+          		
+			Predicting
+				Teaching Key Vocabulary. in the text, activate background k.ledge (Schemata)
+			Guessing
+				Activating schmata – Öğrencinin şeması aktif ediliyor
+			Brain-Storming
+			Key-word Teaching
+			Motivating
+
+				Preparing students for reading text
+				Presenting Social and cultural background
+				Warm-up activities
+				Open-Ended Questions (ana temayı tahmin etmek için sorular)
+				Presenting key words and phrases
+				Skimming and Scanning
+
+				- Tartışma, brain storm, kelimelerin hatırlatılması gibi aktiviteler yapılır
+				- ön bilgiler yoklanır ve harekete geçirilir. şemalar harekete geçirilir 
+
+		While Reading Stage
+			Top down Process
+			Bottom up process
+			Questions for Comprehension
+			Idenifying the main idea
+			Information transfer activities
+			Note taking
+			Making Inference
+			Personal Responses
+
+
+			-Comprehension questions
+			-Inferencing questions (çıkarım)
+			-Understanding references (pronouns etc)
+			-Open ended question-answers
+			-Matching
+			-Guessing vocabulary
+			-Multiple-choice
+			-Display questions: to check students’ language use
+			-Referential Questions: based on information gap(bizden karşıdaki bieşey öğrenir)
+
+			- metnin detaylı bi şekilde okunduğu v metin ile ilgili aktivitelerin yapıldığğı aşama
+			- öğrencilere (comprehension) anlama dayalı sorular sorulur
+			- seeking information
+			- making inference (okuyucuların çıkarım yapması)
+			- guess
+			- think aloud
+			- read aloud
+
+		   Post Reading Stage
+			Discussion questions
+			Summarizing
+			Gap Filling
+			Mind-Mapping
+			Graphic Organizers
+			Role-Play
+
+			- öğrencilerin okuma metni ile ilgili tartışmalar, yazlar, yeniden anlatma vb. aktivitelerle ürün koymaları. 
+			Comment, Role play, Summarize, Production
+
+			Activities: 
+			- Jigsaw Reading***: iki öğrencinin metindeki eksik parçaları birbirine sorarak tamamlamaları
+
+
+	Types of Teaching Reading
+		      Extensive Reading
+		      		for fun/pleasure, in a leisure way, on their own reading, reading magazine
+				Reading for enjoyment and improving reading skills
+				Authentic and Easy texts outside the classroom
+				Overall meaning
+				Teacher still has a role
+				Deducing meaning of words from texts
+				Rapid Reading
+
+				KAPSAMLI
+				Sınıf dışında genelde keyif almak için yapılan okuma türü
+				Materyaller öğrenci tarafından seçilir
+				Anlatılmak isteneni anlamak amaçlıdır
+				
+				Students read large amounts of material which is within their level of comprehension
+				The teacher encourages students to choose what they want to read and to read for pleasure
+				Learners’ overall language profiency (eg spelling, grammar, vocabulary, and text structure) is enhanced 
+				
+		      Intensive Reading – for a task, less relax, for a goal, help of the teacher, instrumental purpose
+				Yoğun  okuma
+				Sınıf içinde öğrenim amaçlıdır
+				Materyaller öğretmen tarafından seçilir
+				Okuma sonunda soru test gibi alıştırmalar yapılır
+				Reading that is done in detail with learning aims and tasks in classroom
+				Word for Word reading (Kelime kelime çalışılır)
+				Slow Reading
+				Difficult texts
+				Question answer activities
+		      Selective Reading
+		      		reading w purpose, instead of non-practical text, reading useful text	
+		      Interactive Reading
+		      		aim at students reading ability, challenging and couraging to use what they already know, guided reading, online reading
+		      Strategic Reading
+		      		three level series, to develop reading, voc. building, critical thinking skills
+		      Perceptive Reading
+		      		focuses on bottom up process (sounds/videos), to know students can read or not. (not to understand/comprehend)
+
+
+– TEACHING SPEAKING
+		Principles in Teaching Speaking
+			-increase students motivation (high motivation)
+			-use authentic language in real context
+			-give feedback to avoid fossilization but dont interrupt
+			-create opportunities for students to speak
+			-plan and design speaking activities
+			-information-gap activities, role play, prob solving activities, using pictures
+			-negotiation for meaning 
+
+		Speaking esnasında öğretmen hem accuracy(hatasız), hem de fluency(açık) odaklı olmalı
+			Öğretmen authentic-meaningful materyaller kullanmalı
+			Speaking and listening ilişkilendirilmelidir
+			Öğrenci konuşmak için motive edilmelidir
+			Öğretmen feedback vermelidir
+			İletişim genellikle yüzyüze olur
+			Mimik jest kullanılmalı
+			Genelde düşünmeden spontane konuşuruz. 
+			Bu yüzden konuşma boşlıklarını doldurmak için I mean, you know gibiifadeler kullanabiliriz
+		
+		Aim
+			To achieve communicative efficiency
+		
+		Speaking Process
+			Absorbing input
+				Bilgi sunulur ve alınır
+			Negotiating meaning (işleme süreci)
+			Production (Output)
+
+
+	Types of Speaking (Purpose of speaking)
+			Interactional Speech (vs noninteractional speech)
+				social function vs focus on message
+				Sosyal ilişkiler ön planda
+				Amaç iletişim kurmak
+			Transactional Speech (vs interpersonal/interactinal speech)
+				focus on message vs social function
+				Bir konu hakkında bilgi aktarmak amaçlanır
+				Önemli olan karşı tarafın anlamasıdır
+				Ders anlatmak, sunum örnek olabilir
+			Planned Speech
+				Önceden planlanmış konuşmalardır
+				Sunumlar
+			Unplanned Speech
+				Plansız, hazırlıksız konuşmalardır
+			Imitative Speech
+				Duyulan şeyi tekrar ettiğimiz konuşmalardır
+			Responsive speech
+				Karşı tarafın cevap verdiği konuşmadır
+
+
+
+		Approaches to Teaching Speaking
+			Input Focused Approaches (dinleyici neye dikkat ediyor)
+				1- Content-oriented input
+					Information
+					Meaning is the central point of the input
+					In the form of Listening and Reading
+					Utilizing different subjects as input
+				2- Form-oriented input
+					Yapıların doğru kullanımı
+					The emphasis on how to the language is used
+					Noticing vocabulary, pronunciation, and forms
+					Dil nasıl kullanılmalı , voc, grammatical structure, 
+
+					Linguistic competence
+					Discourse Competence
+					Sociolinguistic Competence 
+					Strategic Competence
+				Listening activities
+				Reading activities
+				Language that is heard anywhere
+				Teacher talk
+
+			Output Focused Approaches (konuşmacı neye dikkat ediyor)
+				Producing oral language
+				1- Structured Output
+					Using forms accurately – grammatical structure
+					Accuracy is the core point
+				2- Communicative Output
+					Fluency rather than Accuracy (Accuracy fluencye engel olmayacak kadar da olmalı)
+					Completing a task
+					Language communication
+					Target
+
+
+	Stages of Teaching Speaking
+		The Presentation Stage (Pre-Speaking)
+			Teaching new words
+			Teaching structures
+			Listening activities (input)
+			Visuals
+
+			Öğrencilere mutlaka bir context verilmelidir
+			Warm up aktiviteleri yaptırılmalıdır
+			Gerekli kelimeler öğrencilere sunulabilir
+			Öğrencilerin kafasındaki şema harekete geçirilmeli
+
+			-provide information, explaining and teaching key words
+			-language input, then structed output to make students relax
+
+
+			-activities
+			discussions
+			information gap activities
+			drama
+			role play
+			small talk
+			interview
+
+		The Practice Stage (While-Speaking)
+			Controlled (grammar, structures) and guided activities
+			Communication strategy
+			Error Correction (Delayed)
+			Pair, Group and Individual tasks
+			Drills (Tekrarlar)
+			Contexts based on real life situations
+			Reading aloud and working on pronunciation
+
+			Repetitions
+			Read aloud
+			Action
+			Pronunciation
+
+			-to practise speaking, controlled and guided activities
+			-to improve voc. and grammar knowledge, strategic competence (fluency)
+			-students work in pairs, students use language they know, group-work
+
+		The Production/Evaluation Stage (Post-Speaking)
+			Free speaking activities
+			Information gap and jigsaw activities
+			Conversation
+			Presentation
+			Debates and discussions
+			Simulations
+			Picture narrating
+			Drama and Role-Play
+
+			Free-Speaking activities
+			Discussions or Interview
+
+
+			-students should ask and should be asked questions
+			-tasks may be given to students for outside of the class
+			-with real life situation information gap activities
+
+			SPEAKING PROBLEMS						SOLUTIONS
+			----------------------------------------------------------------------------------------------------------------
+			- Fear of mistakes, losing face					- Group work
+			- Low participation						- Support the students
+			- L1 use  (ana dil kullanımına yatkınlık)			- Errors not noticed
+			- Accuracy (hata yaptığında bekle)				- Low inhibition – fear
+			- Fluency (önemli olan akıcılık bozmadan okusun)		- Careful with topic choice
+			- Accuracy vs Fluency						- Clear purpose is important
+											- Encourage students with group works 
+											- High motivation
+											- Instructions should be clear
+
+						
+			Types of questions
+				clarification check          		– I didnt understand, what do you mean?
+				comprehension check   		 	– Do you understand?  yes/no
+				confirmation check (tag questions) 	- The question is easy, isnt it?
+
+
+			Communication Strategy
+				Konuşmacının iletişim esnasında karşılaştığı problemleri çözmek amacıyla kullanılır
+				Strategic Competence’a hizmet eder
+			1- Approximation
+				Kelimenin aslını kullanmak yerine anlam açısından yakın olabilecek başka bir kelimenin kullanılması
+			2- Word Coinage
+				Konuşmacı kelimenin aslı yerine tamamen yeni bir kelime kullanır
+				Regretness gibi..
+			3- Foreignizing
+				Yabancı sözcüklerleboşlukları doldurmak
+			4- Circumlocution
+				Anlatmak istenilen kelimeyi tek kelimeyle ifade edemeyip lafo dolandırarak, birden fazla kelimeyle aktarmaktır
+			5- Topic Avoidance
+				Konuşmacının yetersizlik sebebiyle konuşmaktan kaçması (kelime-dil bigisi eksikliği)
+			6- Message abandonment
+				Konuşmacının konuşmayı devam ettirememesi
+
+			öğrenciler bunu bilmeli hazır olmalı ve beklentimiz bunlar
+			- spoken discourse with back-channels (hmm, well…)
+			- a speech contains errors and slips
+			- speech may be formal or casual
+			- first, input should be given
+			- then, structured output, then communicative output
+			- choose a topic, make small-talk, turn talking, opening and closing conversations
+
+			öğretmen ne yapmalı
+			- back-channels(hmm, well)
+			- errors and slips
+			- encourage students with group work
+			- first input, then structured output, then communicative output
+			- choosing a topic
+			- make small talk
+			- turn talking (create opportunities for students)
+			- give feedback to avoid fossilization
+			  information gap, role play, problem solving
+
+
+
+– TEACHING WRITING
+	Elements of Writing
+		Cohesion (Grammar ile ilgili geçiş uyumu, bağlantı, dil bilgisi kurallarına uygunluğu)
+			The grammatical and lexical linking between structures or sentences
+			grammatical relationship between sentences for ts interpretation
+		Coherence (Anlamsal ve mantıksal açıdan tutarlılık)
+			The organization of the content
+			logical orginazation of a text
+		Register (Kelime kullanımı – yazı türüne ve içeriğine uygun kelimeler seçilmesi)
+			Choosing the appropriate words
+			Using words optimally
+			selection of appropriate words in writing
+
+			punctuation and capitalization – shoul be taught to students
+			word spelling – should be taught
+
+
+	APPROACHES
+		The Product-Oriented Approach (ürün odaklı)
+			Süreçle ilgilenmez ürünle sonuçla ilgilenir		
+			Focusing on the end product (yazılı ürünün son hali önemlidir)
+			Letter, essay, report, story
+			Coherence and cohesion  
+			Accuracy
+			Vocabulary and organization
+			öğretmen kontrolündedir
+			dil bilgisi kuralları önemlidir
+			Prescriptivist – kuralcı yapı önceden tasarlanmış gibi
+			süreçsiz sadece ödev
+			imitating models
+		
+		The Process-Oriented Approach (süreç odaklı)	
+			Sonuç ile ilgili değil, süreç ile ilgili (aşamalar önemli)
+			Focussing on the process rather than the product
+			Producing ideas – brainstorming gibi
+			Generating drafts (taslak hazırlama)
+			Ways to achieve meaning
+			İçerik v anlam bütünlüğü önemli
+			öğrencilere taslak yazma fırsatı verir
+			öğretmen feedback verir – first draft and then second draft 
+			öğrenci işbirliği vardır
+			
+	
+		STAGES OF TEACHING WRITING
+			Pre-Writing Stage
+				Warm-up activities
+				Teaching words
+				Defining objectives(hedefleri belirlemek)
+				Visuals and Realias
+				Making predictions about to write a subject
+				Strategies of finding ideas
+				BRAINSTORMING
+				CLUSTERING (Kategorize etmek, başlıklar altında sunmak)
+		
+				- öğrenciler motive edilir
+				- eğlenceli v işbirlikçi sınıf ortamı
+				- kelime- dilbigisi öğretimi yapılır
+				- resimler kullanılabilir
+
+				Activities:
+				- narrowing down the topic
+				- brainstorming
+				- clustering (gruplandırma) – kavramları
+				- outlining – taslak oluşturma
+				- free writing
+				- tartışma
+
+				-warm up session, setting the scene through visual or questions
+				-teaching unknown words, teaching strategies for gathering information
+				such as brainstorming, interviewing, free writing and outlining, clustering
+
+
+			While-Writing Stage
+				Actual writing
+				Planning
+				Writing drafts
+				Revising (derlemeler)
+				Editing
+				Feedback
+				Organization and cohesion
+
+				Writing Stage Activities
+				- Letters, Reports, E-mails, Essays, Stories, Reviews
+
+				-contrelled writing, rearranging, completingactivies (summarizing and note taking, gap filling, writing an essay)
+				-guided writing: give feedback//topic, producing a paragraphor essay
+				structure, punctuation, dictation
+				-free writing: students select topic – öğrenci konuyu seçer
+
+				1. Controlled Writing
+					-Dilin kullanımı var
+					-Grammar practice
+					-Practicing structures
+					-Punctuation
+					-Word order
+					-Dicto-Comp (öğretmen anlatır öğrenci yazmaz sonrasında akılda kalanlarla yeni bir metin)
+
+					- amaç, öğrencilere dil bilgisi, kelime bilgisi ile yazım v noktalama kurallarının kullanımı öğretir
+					- tamamen öğretmen kontrolünde
+					- söyleyerek yazdırmak(dictating) örnektir
+
+				2. Guided-Composition
+					-Öğretmen rehber, yazan öğrenci
+					-A topic given by the teacher
+					Discussing with students the ideas to be included and how to put them in order with students
+					-Presenting words and structures to be used
+					-Feedback by the teacher (öğretmen geri çeklir öğrenciler yazar)
+
+					- amaç anlam odaklı yazılar yazmaktır
+					- öğretmen yol göstericidir
+					- öğrencilerden özgün yazılar beklenir
+
+				3. Free-Writing
+					-A topic given by the teacher or selected by students
+					-Students find ideas and write on their own ideas
+					
+			Post-Writing Stage
+				Receiving feedback from the teacher or peers
+				Editing
+				Evaluation
+				Discussion
+
+				- yazıların okuyucuya ulaştığı aşama
+				- öğretmen geri dönüt verir
+				- evaluating the composition, using corrective feedback, sharing writings, peer correction
+
+
+> Factor Affecting Language Learning  2 soru
+		# 01. LINGUISTIC FACTORS
+			Teoriler kısmında değinildi
+			01. Contrastive Analysis Hypothesis (CAH)
+				- hedef dil ile ana dil arasındaki benzerlik v farklılıkları inceler
+				- Dil öğrenim sürecinde ortaya çıkabilecek olası hataları engellemeye çalışır
+
+				Alm içinde var
+				A systematic analysis of L1 and L2 to identify their differences and similarities
+				Ana dil ikinci dili öğrenmede zorluk çıkarıyor
+				- öğrenim süresinde yapılan hataların sebebi ana dil ile hedef dil arasındaki farklılıklardır
+				“interlingual error – negative transfer”
+
+			02. Interlingual errors
+				Interlanguage (learner language)
+				- hem hedef dilden hem de ana dilden farklı olarak geliştirilen ikinci dil öğrenen bireylerin öğrenirken kullandıkları dildir. 
+					Hiç birşeye benzemiyor
+				- bireye özgüdür, sürekli gelişim gösterir
+				- a language developed by a single learner during the process of learning a language
+				- a language that is neither L1 nor L2
+				- it is unique to a single learner
+				- it is not thoroughly independent of L1 and the target language
+
+				Interference
+				     The effect of L1 on a learner’s progress in the target language
+				     - negative transfer
+				        Applying the knowledge of L1 to the tagert language and committing error
+				     - positive transfer
+				        Applying the knowledge of L1 to the target language and learning sth that is common for the two languages easily
+ 
+			02. Intra-Linguage Errors (öğrenilen dil dahilindeki hatalar)
+				Simplification
+					-using easy structures instead of complex ones
+					-using simple past tense instead of present perfect tense
+					(yapılan bir eylem eğer geçmiş zaman zarfları belirtmemiş ise present perfect kullanılır)
+				Overgeneralization
+					-applying a rule to other examples to which it cannot be applied
+					-- there are two womans...
+				Overextension
+					-using a word too broadly
+					-using the same word for many things
+				Hypercorrection
+					-a type of error that results from excessive correction
+				Underextension
+					-using a word to narrowly
+					-using the same word for only one thing
+					-baba kelimesinin sadece kendi babasına dendiğini sanıyor
+				Misoerdering
+					-a type of error that occurs when the position of a word or morpheme in an expression arranged wrongly
+				Addition
+					-adding a word or morpheme that is unnecessary
+					He doesnt speaks 
+					Nobody isnt happy
+				Omission/Avoidance (çıkarma, eksiklik)
+					-a type of error that occurs when a necessary word or morpheme is missing
+					He like chocolate
+					Where you from?
+
+			03. MISTAKE vs ERROR
+				MISTAKE
+					SELF_CORRECTION – kuralı bilirsin ama bilmeden yaparsın
+					Dil sürçmelerinden ya da farklı nedenlerden kaynaklanan yanlışlardır
+					Bilgi eksikliğinden kaynaklanmaz
+					Kullanıma dökerken hata vardır
+					Birey aslında yaptığı yanlışın doğrusunu bilir, self correction yapabilir
+
+					An incorrect form of sth that is produced accidentally during the performance
+					Yazadığınızı mutlaka kontrol edin hata olabilir gibi
+					It is also slip of tongue
+					Carelessness of fatigue
+					It can be noticed and self corrected
+				ERROR
+					NO_SELF_CORRECTION – doğru kuralı bilmeden yapılır
+					Bilgi eksikliğinden ya da konu yetersizliğinden kaynaklanır (Competence)
+					Bilgi eksikliği giderilirse hata düzeltilebilir
+					Birey yaptığı yanlışın doğrusunu bilmez, self correction yapamaz
+
+					An incorrect from of sth that depends on the lack of competence or knowledge
+					It is not noticed by someone committing it
+					It cannot be self-corrected
+
+					TYPES of ERRORS
+						Grammatical errors
+						Discourse errors
+						Phonological errors
+						Lexical errors
+						Punctuation errors
+
+
+			04. ERROR ANALYSIS
+				Hatanın analizi türü nasıl bunu analizi
+				The technique of identifying an error, its type or its seriousness
+				ERROR GRAVITY (hatanın seviyesi)
+				Analysis of errors to identify their seriousness and which of them need correction
+
+				-majority of errors didnt come from interference, also come from interlanguage
+				-errors occur due to incorrect application, wrong guessing, due to overgeneralization
+				Dil öğrenen bireylerin yaptığı hataları inceleyip, sebeplerini açıklamaya çalışan sisteme denir
+				Hataların kaynağı interlanguage’dir
+				Hatalar kuralların yanlış kullanımından, aşırı genellemelerden kaynaklanabilir (Overgeneralization)
+
+				ERROR ANALYSIS AŞAMALARI
+					1- Collection of Data: 		Hata tespiti yapılır
+					2- Identification of errors: 	Hatalar mistake mi yoksa error mu?
+					3- Description of Error: 	Yapılan hatanın türü nedir?
+					4- Explanation of Error: 	Hatanın nedeni nedir?
+					5- Error Evaluation: 		Hangi hatayı düzeltmeliyim?
+
+			05. SOURCE OF ERRORS
+				1- Interlingual Errors (interlangual)
+					-mother tongue interference
+					Ana dil ve hedef dil arasındaki farklardan kaynaklanan hatalardır
+					Bir dilin başka bir dili etkilediği hatalardır
+
+				2- Intralingual Errors (intralangual)
+					Hedef dilin yapısının öğrenciye tanıdık gelmemesi nedeniyle gerçekleşen hatalardır
+      					a- Simplification (Basitleştirme)
+          					Öğrencinin kullanımı zor yapılar yerine, hata yapma pahasına kullanımı basitleştirmesidir
+      					b- Overgeneralization (Aşırı genlleme)
+           					grammatical structure          
+           					Bir kuralın aşırı genellenmmesi (dil bilgisi) – eat eated
+      					c- Overextension (Aşırı kurallaştırma)
+      					     vocabulary
+      					     Çocukların benzer nesne ve durumlar için bazı kelimeleri genellemesi (kelime)
+      					     her yuvarlak nesneler için = top  , all animals as dog
+      					d- Underextension (Sınırlandırma)
+      					     Kelimelerin anlamı yalnızca belli nesne ve durumlarla sınırlandırılır
+      					      öğrenci sadece beslediği kediye kedi demesi diğerleri teddy
+      					e- Omission (Çıkarma)
+      					      left-out ‘s’ he eat…
+      					      kullanılması gerekeni cümleden çıkarmak
+      					      I (am) happy
+      					f- Addition (Ekleme)
+      					    Cümleye gereksiz ifade ekleme  more better, he doesn’t eats,…
+      					g- Misordering (Yanlış sıralama)
+      					     Doğru sıralama yapılmaması
+      					h- Substitution (Yer Değiştirme)
+      					     Ses veya dil bilgisi açısından doğru olmayan öğelerin doğru olan öğenin yerine kullanılması
+      					ı- Hypercorrection (Aşırı düzeltme)
+      					    Bir ahtanın sürekli düzeltilmesi sonucu öğrencinin yanlışa gitmesi
+
+			06. Corrective Feedback
+				Her sene kesin bir soru geliyor….
+
+				Delayed correction  frequency   vs.  Immediate correction  accuracy
+
+				Öğrencilerin iletişim sırasında yaptıkları hataları olumlu  veya olumsuz olarak düzeltmeki olumlu veya olumsuz dönüt vervek
+				positive feedback and negative feedback
+
+				Types of Corrective Feedback
+					1- Explicit Correction
+					     doğrudan düzeltilen hatadır. Hata olduğu an düzelt. Açık şekilde
+					     presenting corrective feedback directly
+					      “you must say”, “u cant say lately” “this is not correct”
+					      Hatanın söylendiği tek tür
+
+					2- Recast, Reformulation, Echo Correction (echoing by fixing)
+					     Öğretmen, öğrencinin cümlesini hatalı kısmı doğrusuyla değiştirerek tekrar eder. Dile getirmeden düzelt
+					     Presenting the correct form of student’s error without telling him/her that s/he has committed an error
+     
+					3- Clarification Request
+					    Bu teknikte öğretmen “excuse me?”,  “sorry”, “pardon” vs ifadelerle öğrenciye hatalı olduğunu ima eder
+					     Asking a learner to make his/her statement clear in order to make him/her correct her/his error
+
+					4- Metalinguistic Feedback
+					     Öğretmen öğrenciye doğru cevabı vermeden hataya ilişkin dil bilimsel yorumlar yapar. Soru sorarak
+					     ve “do we say.. it like that?” şeklinde ifade kullanır.
+					     Asking questions about or commenting on the error a learner commits
+     
+					5- Elicitation
+					       Öğretmen hatalı kısmı söylemeden cümleyi tekrar eder. Öğrencilerden doğru cevabı almaya gerekli görür 
+					       kendileri fark etsin..sessiz bırak
+					       Eliciting the correct form from the learner by questions or deliberate pauses 
+					       Do we say “..error..” ama do we say like that? Deseydi metalinguistic olurdu
+					       With pause – he is interested...error..
+
+					6- Repetition/Echoing
+					       Hatalı cümle olduğu gibi öğretmen tarafından tekrar edilir, hatalı kısım öğrenciye hissettirilir
+					       Repeating a learner’s error together with changes in intonation(tonlama) to make her/him notice it     
+       
+					7- Hinting
+					      Öğrenciye hatasını düzeltmesi için ipucu verilir, tercih sunulur
+					      Update: A learner’s response to a corrective feedback presented
+ 
+				
+			# 02. INDIVIDUAL FACTORS (Bireysel Faktörler)
+				1. Age (Critical Period Hypothesis)
+					Children
+					- Çocuklar iin dil öğrenmede en uygun bir yaş aralığı olup olmadığı net değildir, ama 10- 16 yaş ideal kabul edilir
+					- Çocuklar genelde soruları anlmasalar da cevap verirler
+					- yetişkinlere göre ikinci dili daha kolay ve çabuk öğrenirler
+					- sadece dinleme odaklı değil, görüleni ve duyulanı birleştirirler
+					- Soyut “abstract” kavramları çok anlamazlar (Concrete – yaşayarak öğrenmek gibi)
+					- kendileri hakkında konuşmaya bayılırlar
+					- çok çabuk sıkılırlar
+					- öğretmen feedbackleri onlar için önemlidir
+					- fiziksel aktivitelerden hoşlanırlar 
+					- mimikler el hareketleri tonlama çocuklar için önemlidir etkili kullanılmalı
+					- hayal güçleri, yaratıcılıklarını kullanmalarına müsaade edilmelidir
+					- Interaction’a ve Cooperation’a önem verilmelidir
+					- Küçük ödüller onları mutlu edebilir
+					- Sınıf ortamı çocuğa uygun olmalıdır
+					- Dil öğreniminde inductive yöntem kullanılmalıdır
+					- Uzun ve karmaşık ifadeler kullanılmamalıdır
+
+					Adolescent (13- 17)
+					- soyut (abstract) kavramları daha iyi anlamaya başlarlar
+					- bu yaştakilerde memnuniyet zor olur
+					- konunun ilgilerini çekmesi gerekir
+					- cognitive (bilişsel) becerileri gelişir
+					- olumsuz ifadeleri sevmezler
+					- deneyim (experience) kazanmaya başlarlar
+					- öğretmen onlar için rol modeldir
+					- farklı kültürlerden, etkileşimden hoşlanırlar
+ 
+ 					Adult
+					- Soyut kavramları daha iyi anlarlar
+					- risk almaktan hoşlanmazlar
+					- experience (deneyim) var
+					- Fluency önem verilir
+					- daha disiplinlidirler
+					- Communicative aktiviteler ön plandadır
+					- Bilişsel beceleri gelişmiştir (cognitive)
+
+
+				2- Motivation
+					öğrenme için önşartlardan biridir, hedefe ulaştırmak için harekete geçiren, destekleyen kavram
+					1. Kaynaklarına göre Motivasyon türleri
+				     		-Intrinsic Motivation (içsel)
+				        		The willingness to learn the target language for enjoyment and self satisfaction
+				        		No expectancy for any rewards
+				       			bireyin kendi içinden gelerek, herhangi bir karşılık beklemeden öğrenme isteğine sahip olmasıdır
+				       			motivasyonun kaynağı bireyin kendisidir
+				       			öğrenmede daha etkilidir
+				     		-Extrinsic Motivation (dışsal)
+				       			A willingness to learn the target language that is based on an external force
+				       			Approval, grades, applause, praise, reward
+				       			birey dıştan ödüllendirilir
+				       			motivasyonun kaynağı çevre ya da toplumdur
+
+					2. Amacına göre motivasyon türleri
+      						- Integrative motivation (bütünleştirici – entegre olma)
+        						A favourable attitude towards the target language, the people who speak it and the culture of them
+        						A willingness to learn about and be a part of the community speaking the target language
+        						birey topluma uyum amacıyla hareket eder, bu amaçla iletişimde bulunur
+        						kültürel değerler ön plandadır
+      						- Instrumental Motivation (araçsal)
+        						The willingness to learn the target language to acquire sth practical
+        						Learning to benefit from sth such as visa, money, career, marriage
+        						dil araç olarak kullanılır
+        						bireyin ihtiyaçları ön plandadır
+        
+						Global motivation: to motivate learners to learn sth
+						Situational motivation: To motivate learners to learn sth in a specific situation
+						Task motivation: the motivation necessary to complete a task
+
+				3- Intelligence 
+     					Zihinsel becerileri kullanarak bilgi kavrama becerilerine denir
+     					The capacity or ability to learn, reason, think and understand
+
+				4- Aptitude
+					Yatkınlık
+					Bireyin belli bir alana yatkın olması, dil öğrenimine yatkın olması
+					The ability of doing a specific thing (belli bir alandaki beceri)
+
+				5- Anxiety: feeling nervous and worried
+					- Facilitative Anxiety
+					- Debilitative Anxiety
+					
+		Characteristics of Learners / Learning Styles
+     			Learning styles
+     				-Visual (spatial) learner
+     				-Aural-Auditory-Musical learner
+     				-Physical (kinesthetic) learner
+     				-logical(mathematical) learner – inductive reasoning
+     				-social(interpersonal) learner - extroverted
+     				-solitary(intrapersonal) learner – independent
+     
+      			Tactile - ince motor becerileri – fine motor movements, sense of touch, hands on activities
 
 
 
 
-
-
-
-
-
-
-
-
-
-
+ 
