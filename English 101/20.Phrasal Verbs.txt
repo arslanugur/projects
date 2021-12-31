@@ -1,9 +1,8 @@
-PHRASAL VERBS
+PHRASAL VERBS                                                                                                           prepared by Uğur ARSLAN, @arslanuguur
 --> ***
     find out - learn, discover
     figure out - solve
 
-    stumble
     
 --> A
     add up - birbirini eklemek --> calculate
@@ -36,9 +35,10 @@ PHRASAL VERBS
 --> G
     go ahead - start
     get away - escape
-    run away - escape
+               escape - run away # run after
     get across - communicate
     get along with - iyi geçinmek
+    get on # get off
     
 --> H
     hold on - wait
@@ -58,6 +58,10 @@ PHRASAL VERBS
     pass away - vefat etmek --> die
     point out - explain
     put up with - tolerate
+    put on # take off
+             take off # land    (for a plane)
+    pick up # drop off
+
 
 --> R
     run into - rastlamak, karşılaşmak --> encounter
@@ -66,7 +70,9 @@ PHRASAL VERBS
     stand for - temsil etmek --> represent
     see to - ilgilenmek, ayarlamak --> deal with, arrange
     set up - arrange
-
+    stumble intp - tökezlemek, hata yapmak, yanılmak
+    speed up # slow down
+    
 --> T
     take on - işe almak --> employ
     trust on - count on
@@ -81,6 +87,32 @@ PHRASAL VERBS
 --> Z
 
 
+---> EXAMPLES
+we will see about that - onun icabına bakarız, onun hakkında gereğini yaparız, onunla ilgili ilgileniriz
+how can you not even be curious about it? - nasıl onunla ilgili meraklı bile değilsin?
+you used to be mad about me - deli olmak, deli gibi sevinmek
+-not to laze about - tembellik etme - i wasnt lazing about. I tripped
+I don't care about your dad. I care about Mona
+dont hang about - oyalanma, aylak aylak dolaşma
+
+
+
+
+look for 	a job - iş aramak
+		    a remedy - çare
+		    trouble - bela
+		    an answer - cevap
+		    evidence - kanıt
+		    a solution - çözüm
+		    an adventure - macera
+		    happiness - mutluluk
+		    a way out - bir çıkış yolu
+		    a scapegoat - günah keçisi
+		    a place to hide - saklanacak yer
+        
+
+
+
 --> PHRASES IN A CAR
 buckle up - kemerleri bağlamak
 pull over - kenara çekmek, yol kenarında durmak
@@ -89,8 +121,3 @@ back up - geri sürmek
 slow down - hızı azaltmak, yavaşlamak
 
 
-
-
-
-
-prepared by Uğur ARSLAN and His Students
