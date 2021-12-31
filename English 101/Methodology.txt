@@ -3071,18 +3071,920 @@
 					- Facilitative Anxiety
 					- Debilitative Anxiety
 					
-		Characteristics of Learners / Learning Styles
-     			Learning styles
-     				-Visual (spatial) learner
-     				-Aural-Auditory-Musical learner
-     				-Physical (kinesthetic) learner
-     				-logical(mathematical) learner – inductive reasoning
-     				-social(interpersonal) learner - extroverted
-     				-solitary(intrapersonal) learner – independent
+					
+					
+			CHARACTERISTICS OF LEARNERS / LEARNING STYLES
+     				Learning styles
+     					-Visual (spatial) learner
+     					-Aural-Auditory-Musical learner
+     					-Physical (kinesthetic) learner
+     					-logical(mathematical) learner – inductive reasoning
+     					-social(interpersonal) learner - extroverted
+     					-solitary(intrapersonal) learner – independent
      
-      			Tactile - ince motor becerileri – fine motor movements, sense of touch, hands on activities
+      				Tactile - ince motor becerileri – fine motor movements, sense of touch, hands on activities
+
+				A) Analytical / Global Learners
+      					1- Analytical (Field Independent) Learners    Adult
+          					-dil bilgisine ve kurallara önem verirler
+          					-communicative(iletimsel aktivite) aktivitelerden pek hoşlanmazlar (affective filter yüksek)
+          					-detaylara önem verirler
+          					-tümevarım (deductive) öğrenirler
+          					Rule based, grammatical structures
+          
+      					2- Global (Field Dependent) Learners  Children
+           					-communicative aktivitelerden hoşlanırlar
+           					-Meaningful aktiviteler önemlidir
+           					-inductive (tümdengelim) öğrenilir – çıkarım yapırlar
+           					-sosyal yönleri gelişmiştir - sociable
+           					İnteraction and communication dependent  
+
+				B) Reflective / Impulsive Learners
+      					1- Reflective learners
+          					-konuşurken düşünen, sistematik davranan öğrencilerdir
+          					-hata yapmaktan korkarlar
+          					-detaycıdırlar
+       					2- Impulsive learners
+          					-düşünmeden konuşurlar
+          					-söylediklerinin sonuçlarıyla ilgilenmezler
+          					-hata yapmaktan korkmayıp, düşünmeden konuştukları için fazla fazla hata yaparlar
+          					-bütüne odaklanırlar 
+				C) High / Low Tolerance Learners
+      					1- High tolerance learners
+      				    		-değişime, farklı bakış açılarına sahip öğrencilerdir
+      				   		-problem çözme becerileri vardır
+      				   		-kendi kurallarını kendi belirlerler
+      				   		-flexible
+      					2- Low tolerance learners
+      				   		-değişimden ziyade belli bir plan dahilinde ilerlerler
+      				   		-öğretmene bağımlıdırlar
+
+				D) Concrete/Conformist/Converger/Communicative Learners
+      					1- Concrete learners
+      					    	- direct experience, games, group activities, communicative == not analytic (rule based)
+      					    	-yaparak yaşayarak öğrenirler
+      					    	-dilin iletişimsel yönü ağırdır
+      					2- Conformists  
+      				   		-öğretmen merkezli, iletişim az = analytic kurallara önem verilir
+      				   		-uymak: bir başkasına uymak bapımlı olur öğretmene ihtiyaç. Dependent on an authority, others
+      				   		-classroom activities, visual materials
+      					3- Convergers
+      				   		- converge – 1. bir yere doğru gitmek yaklaşmak, 2. Kapalı
+      				   		- independent, solitary, confident, analytic (rule based)
+      				   		-tek başlarına çalışmayı severler
+      				   		-özgüvenleri yüksek
+      				   		-kendi kurallarını belirlerler
+      					4- Communicative learners
+      				    		- active learners, communication and interaction, independent
+      				    		-dilin iletişimsel yönü ağırdır
+      				    		- iletişim kurallara pek uymaz analytic değil
+      				    		-sosyal aktivitelerden, etkileşimden hoşlanırlar
 
 
+					Learning strategies	
+					techniques
+					means
+					thoughts, feelings, actions, attitudes
+					problem solving
+
+					1. Metacognitive strategies
+						Monitoring: öğrendiğinizin farkındasınız
+						Controlling 
+						Planning  
+						Assessment of the Processes
+						Organizing
+
+					2. Cognitive strategies
+						Processing information
+						Storing information
+						Practicing activities
+						Note-taking
+						Analysis
+						Reasoning
+						Reorganizing
+
+					3. Socio-Affective strategies
+						Social strategies: cooperation and interaction, clarification, request, asking for help, cultural awareness
+						Affective strategies: controlling and regulating emotions, lowering anxiety, rewarding
+
+			# 03. SOCIOCULTURAL FACTORS
+				Culture: the relationship between language and culture
+				Acculturation: acquiring a new identity, L2 and Culture Shock, Adopting the culture
+				Intercultural Competence: Communicating with people from different cultures successfully
+				English as Lingua Franca
+				World Englishes: Inner Circle - English as native language, Outer Circle - English as second language, Expanding Circle as foreign language
 
 
+ > Teaching English to Young Learners and Classroom Management
+			Çocuklar, diğer yaş gruplarından farklı olarak öğrenme şekline sahiplerdir
+	
+			Characteristic of Young Learners
+            			Short attention span – kısa dikkat süresi - sıkılmamalılar
+				See, hear, touch and learn
+				Eager to learn
+				Logical reasoning
+				Discovering
+				Keşfederek öğrenirler – Curious, Exploring
+				Oyunlar, şarkılar etkili – Games, singing, puzzle, hands on activities
+				İmaginative and energeticHayal güçleri gelişmiştir
+				Renkli ve canlı materyaller ilgilerini çeker
+				Enerjiktir – Kinesthetic activities
+				Inductive öğrenirler (yani çıkarım yaparlar)
+				Implicit and indirect learning – not deductive teaching
+				Imitating and mimicking - Model alırlar, taklit ederler 
+				Çevrenin, sınıf ortamının uygun olması gerekir
+				Soyut ifadeleri anlayamazlar
+				Interpreting meaning
+				Approval, rewards, praise
+				Responding – tepki verirler mutlaka	
+
+
+			Young Learners
+				very young learners (5-7)
+				cannot differentiate between real and fiction (gerçek dünya ile kurguyu ayırt edemezler)
+				hala ana dil öğrenimi bitmemiştir
+				güvende hissetmek isterler
+				logical reasoning - kurallarının farkındadırlar
+				antonym bilmezler
+				concrete experience - somut yaşantılarla öğrenirler
+				görsellerle öğrenirler
+				discussion
+				describing sth
+				need for feeling safe
+			
+			older young learners (8-12)
+				can differentiate between real and fiction
+				abstract concepts
+				cooperation
+				taking responsibility
+				cultural and pragmatic
+				soyut kavramları anlayabilirler
+				gerçek ile kurguyu ayırt ederler
+				işbirliğiden hoşlanırlar
+				sosyal becerileri gelişir
+
+
+			
+---> Theories of Languages and Cognitive Development
+		Piaget
+			bilişsel kuram
+			-interaction with the environment
+			-experience and cognitive development
+			-development occurs as a result of assimilation and accommodation
+			-çocuklar analiz ederek, kafasındaki şemaları kullanarak öğrenirler
+			-öğrenme somut deneyimlerle gerçekleşir
+			-çocuklar öğrenirken aktif olmalı, problem çözmeli
+			-bilişsel gelişim iki şekilde gerçekleşir
+			1. Assimilation (Özümseme)
+			     çocuğun yeni öğrendiği bilgiyi, kendisinde var olan şemanın içine yerleştirmelidir : köpeği biliyordur kediyi görünce ona da köpek der
+			     sth is learnt or an action takes place without anychange in a child’s existing schema
+			     fitting a new information or idea into what is already known
+			---seeing a lion and calling it cat
+			     bilgi değişir depo değişmez
+			2. Accomadation (Uyumsama)
+			     Yeni karşılaştığı durumu anlayabilmek için yeni şema oluşturmasıdır: köpeği biliyordur kediyi görünce o da kedi olur
+			     bilgi değişmez depo değişir	
+			     Adjusting to the environment to get new information
+			     fitting the schema to new information
+			     understanding that not all four-legged animals are cat
+		
+		
+		Stages of Piaget’s Cognitive Development
+			(Child development stages)
+			1- Sensorimotor Stage (0-2) duyuşsal motor
+			     - çocuğun hareketleri reflexe dayalıdır
+			     - bebek kendini dış dünyadan ayırt edemez
+			     - fiziksel davranış odaklıdır (emme-tutma)
+			    - senses and basic motor activities
+			     - reflexes, habits
+			     - object performance – nesne sürekliliği
+			     - imitation
+			     - trial and error experiments
+			
+			2- Pre-Operational stage (2-7) (işlem öncesi)
+			      - çocuk ben merkezci düşünür (egocentricity)
+			      - dil öğrenmede çok yeteneklidir
+			      - sürekli konuşurlar, ama tek taraflı
+			      - bilişsel olgunluğa ulaşmamışlardır
+			      - deyimleri, soyut kavramları anlayamazlar
+			      - egocentricity
+			      - linguistics abilities
+			      - no logical reasoning
+			
+			3- Concrete Operational Stage (7-11) (somut işlemler)
+			       - okul çağıdır, erken çocukluk dönemi
+			       - çocuklar esnek düşünce yapılarına sahip
+			       - somut öğrenmeler baskındır
+			       - dil, somut ve iletişimsel bir araçtır
+			       - parça-bütün ilişkisini görmeye başlarlar
+			       - logical reasoning
+			       - problem solving but under concrete facts and objects
+			       - no structures of language and metalanguage
+			       - no abstract concepts
+				
+			4- Formal Operational Stage (12 +)(soyut işlemler)
+			      - soyut kavramları anlayıp, kullanabilirler
+			      - ergenliğe yakın çocukluktur
+			      - empati becerisi gelişir
+			      - dil kurallarını anlamaya başlarlar
+			      - abstract concepts
+			      - structures of language to understand
  
+		Vygotsky
+			-sosyal çevrenin bilişsel gelişimde önemi dikkat çekilir
+			-yetişkin rolü önemli olan diğer faktördür
+			-bilgi sosyal ortamda yetişkin yardımıyla öğrenilir (a knowledgable other)
+			-social interaction and development
+			-the support of adults - scaffolding
+			-zone of proximal development
+
+			Scaffolding – yapı iskelesi
+			- öğretmenin ilk aşamalarında öğrenciyi büyük ölçüde destekleyerek, 
+				zaman geçtikçe bu desteği azaltarak, en son çocuğun sorumluluk almasını saplamaktadır
+			- öğretmenin kademeli yardımıdır
+			- support for abilities in ZPD
+
+			Zone of Proximal development (yakınsak gelişim alanı)
+			-a range of abilities for which a child needs an adult’s assistance or guidance
+			-çocuğun kendi yapabileceği beceri ile yetişkin yardımıyla yapabileceği bir üst bilgi beceri seviyesindeki farka denir
+
+
+		Bruner
+			-the importance of language for cognitive development
+			-the way adults use language
+			-repetitions and routines
+			-understanding children’s needs
+			-preparing effective tasks
+			-motherese
+
+			Motherese
+			-a simplified language used by adults to communicate with a child and make input comprehensible
+			-slow, simplified, changed intonation
+
+			kullanılan dil, materyal, ortam çocuğun bilişsel, duyşsal becerilerine uygun olmalı
+			Motherese Speech (Caretaker speech, caregiver speech, child-directed talk)
+			- konuşma hızı oldukça yavaştır
+			- ses tonu fazladır
+			- beden dili kullanılır
+			- karmaşık yapılar kullanmadan daha kısa ve sade cümleler kullanılır
+			- tekrarlar yapılır
+			- telaffuz daha belirgindir
+
+			
+	Teaching Language Skills to Young Learners		
+		Listening  - TPR
+			-listening as the first stage
+			-input before a silent period
+			-phonological awareness
+			-isolated sounds and segment sounds
+			-songs and chants (repetitive, joyful, rhythmic)
+			-listen and do activities (visual, auditory, tactile)
+			-teaching chunks (hazır cümleler) and words
+			-authentic oral texts (riddles, movies, cartoon, tongue twisters)
+			-çocukların ilgisini çeken konular olmalı
+			-şarkılar çok önemli, dikkat çekici
+			-şarkılar kolay v anlaşılır olmalı
+			- çocukların seviyesine uygun olmalı
+			-tekrarlayan ifadeler içermeli
+			motivasyyonu arrttırmalı
+			-Phonological Awareness (sesletimsel farklılık) arttırılmalı
+
+		Speaking
+			-an anxiety free atmosphere
+			-narrative activities such as story telling, dialogues, role-plays, riddles
+			-meaningful tasks
+			-intersting and familiar themes and contexts
+			-question-answer activities
+			-too much exposure to language in the classroom
+			-repetitions
+			-non-threating correction in guided and controlled activities
+			-delayed error correction in free activities
+			-a logical reason for speaking
+
+			Activities
+			-look or listen and say
+			-riddles
+			-story telling
+			-tongue twisters
+			-poems, songs, chants
+			-jingles
+			-role-plays and dialogues
+			-different games
+			-chain work
+			-çocuklar kendini en iyi oyunlarla ifade eder
+			-çocuğa baskı kurulmalı, sınırlama olmamalı, istediği gibi konuşmalı
+			-aşina olduğu konularla ilgili konuşmak
+			-oyunlar, rol oynama, hikayeler önemlidir
+
+
+	
+		Reading
+			1-Phonics: understand relationship between letters and sounds
+			2-whole-words approach: Learning meaning and spelling of words/pictures, flash cards, matching games (high frequency words)
+			3-whole sentence approach: teaching phrases and sentences through meaningful activities such as reading a story
+			4-Language experience: teaching reading by students’ own utterance
+
+			Techniques and materials
+			-reading aloud
+			-silent reading
+			-reading songs
+			-picture boks
+			-stories
+			-poems
+			-songs
+
+		Writing
+			-demanding for young learners
+			-hand-writing skills
+			-word-maps/voc teaching/pictures as pre-writing activities
+			-straight copying, letters, cards, stories, matching, fill in the blanks
+
+		Grammar
+			-no abstract grammatical rules and explicit teaching
+			-using – inductive teaching
+			-teaching in context with meaning
+			-stories, games, cartoons, songs
+			-discovery
+
+		
+		Vocabulary
+			-high frequency words
+			-concrete words
+			-repetition
+			-syn,ant,superordinates
+			-games, songs, acting
+
+			explicit voc teaching
+			-pictures and real objects
+			-drawing pictures and diagrams
+			-miming and acting
+			-presenting context and making students guess
+			-demonstrating
+			-explaining simply
+
+			implicit voc teaching
+			-reading and listening activities
+			-deducing meaning from context
+			-looking up in dictionaries during activities
+
+
+
+	Teaching Literacy Skills
+		- Emergent literacy
+			öğrencinin formal bir ortam olmadan, kendi seviyelerine uygun okuyarak, okuma-yazma becerilerini geliştirmesi
+		- Language experience approach
+			Çocuklar cümle düzeyinde okuma yazma öğrenirler
+		- whole words approach
+			Çocuklar kelime kelime okumayı öğrenirler
+		- Phonics Teaching
+			Çocuklar bottom up anlayışıyla öğrenirler, yani seslerden başlarlar
+		- Vocabulary
+			explicit – kasıtlı ve planlı şekilde yapılan öğretimdir
+			implicit – plansız, programsız, kendiliğinden olan kelime öğretimidir
+			çocukların seviyesine uygun olarak öğretilmelidir
+		- Grammar
+			öğrenciye gramer kuralları inductive olarak öğretilmelidir
+
+			
+CLASSROOM MANAGEMENT
+		-creating an environment to facilitate learning
+		-to facilitate positive student behaviors
+		-to prevent disruptive behaviors
+		-factors from physical arrangement to teacher’s attitude, personality, gestures, body language
+		-sınıfın sorunları en aza indirgenmiş hale gelmesi
+		-öğrenme-öğretme ortamının uygun olması amaçlanır
+		-öğrencilerin ihtiyaçları göz önünde olmalı
+		-sınıf içindeki aktiviteler planlı, programlı olmalı
+		-sınıf kuralları öğrencilerle beraber belirlenmeli
+		-olumlu cümleler kullanılmalı
+		-sınıfta etkili iletişim ortamı oluşturulmalı
+		-ortamın ferahlığı, pencereler, temizlik, aydınlatmaya dikkat edilmeli
+		-sınıfta öğrencinin motivasyonu sağlamak
+		-istenilen davramış oluşmasını sağlamak
+		-öğretmen bir soru sorduğunda, öğrenciye söz hakkı verirken kullanılan bazı yöntemler vardır
+			Dipping – öğrenci gönüllü olarak cevap verir
+			Direct-Nomination – öğretmenin istediği öğrenciye söz hakkı verilir
+			One-by-One – sorulan soruya her öğrencinin tek tek cevap vermesi
+			Personal Solicit – Yine gönüllü öğrenciler ama aşırı istekli olan öğrencilerdir
+
+		Elements of Classroom mangement
+			Physical arrangement
+			-technological devices
+			-visual aids
+			-board usage
+			-seating
+			-heating and light
+	
+			Activities in classroom mangement
+			-prepare and choosing suitable activities for students
+			-clear instructions
+			-using time optimally
+			-observing and monitoring the process
+			-providing help when it is necessary
+
+			Grouping and Seating
+			-forming groups in accordance with students
+			-group work and pair work (interactive activities and peer check)
+			-arranging suitable seating
+			-teacher’s position
+
+			Authority
+			-establising class rules (negotiation)
+			-negotiating with students
+			-turn (sıra) distribution
+			-avoiding punishing inappropriate behaviors
+			-attracting attention
+			-calling student by their names
+
+			Critical moments
+			-starting class by motivating students
+			-setting goals and expectations in the beginning for drive (başarı için)
+			-an air of confidence and respect
+			-approaching unwanted or unexpected problems with a calm manner
+			-eye-contact or avoiding individual warning
+			-using I language
+			-stress management skills (deep breath)
+			-humor (ortam yumuşatma)
+			-finishing classroom appropriately
+			-wrap up (derste anlatılanları bi toparla), summarizing and self-sassessment
+			-extra activities in the end
+			-postponing the discussion
+
+			Tools and Techniques
+			-use of board and other equipments
+			-gestures and body language
+			-speaking style
+			-from simple to complex tasks
+			-keeping silent
+			-addressing to all class
+	
+			
+			Seating: 
+				traditional seating
+ 					-not suitable for interaction
+					-lectures, watching movies and presentations
+				Horseshoe (U-Shape)
+					-suitable for interaction
+					-space for activities
+					-language classrooms
+				Circle seating
+					-not prefered too much
+					-difficulty with the use of board
+				Face-to-face seating
+					-pair activities
+					-group work
+				Separate tables (buzz groups)
+					-group wprks
+					-discussion
+					-tasks
+					-projects
+				Inner outer circle (wheels)
+					-interaction
+					-communication
+				Oppositing teams
+		
+			Classroom interaction
+				-an anxiety free classroom where students trust teacher and each other
+				-making students speak as much as possible
+				-q and a activities
+				-interactive activities
+				-student-student and student-teacher interaction
+				-letting students think and get prepared	
+				-suitable seating
+				-avoiding too much teacher talk
+
+			Teacher Roles
+				controller	öğretmen merkezli, etkileşim tek yönlüdür (TS)
+						teacher-centresd classroom
+						what students say, how they say, or what they do
+						too much teacher talk
+						
+				assessor	Öğrencileri ölçer ve düzenler, değerlendirir. Gözlem yoluyla yapılabilir
+						öğretmen eksiklerini giderir, puanlar, dönüt verir
+						observering whether students perform well or how well they perform
+						correction and feedback
+						grading tasks
+						
+				organiser	sınıf içinde aktiviteleri düzenler, organize ederler, öğrencileri bilgilendirir
+						setting up activties
+						letting students  know what to do next
+						giving instructions
+						setting time
+						
+				prompter	öğrenci ihtiyaç duyduğunda öğretmen bilgi sunar
+						teşvik eden
+						encourage setudents to do activities
+						helping them when they are in need or lost for words
+						supporting students in activities when they dont know how to proceed
+						
+				participant	öğrenme aktivitelerine aktif katılır. Öğrencilere birlikte gerçekleştirir
+						taking part in activities
+						standing back as much as possible in the activities
+						
+				resource	bilgiye ihtiyaç duyuldğunda başvuru yapılan öğretmen
+						kaynak ve gerekmedikçe müdahale etmez
+						a resource walking in the classroom
+						being available for students to consult when they need
+						avoiding intervening activities
+						leading students to use other resources
+						
+				tutor		az sayıda öğrencilerle çalışan ve öğrencilerele yakın ilişki kuran öğretmen
+						teacher as a coach
+						help and guidance
+						clarifying things
+						helping students individually and paying attention to personal needs
+						
+				observer	gözlem yapan öğretmen
+
+			
+> Material Development (Curriculum – Syllabus – Evaluation)
+	Syllabus and Curriculum Design
+		Curriculum (MEB Müfredat – tüm derslerin sistemi)
+			En genel öğretim programı
+			Bir eğitim kurumunda düzenlenen bütün eğitim etkinliklerini kapsar
+			Bütün aktiviteleri, hedefleri, hangi programın nasıl uygulanacağını kapsayan, merkezi sisteme bağlıdır.
+			A general concept that refers to content and lessons to be taught in an institution or educatinal system
+			It includes objectives, strategies and outcomes
+			It is based on philosophical, social and administrative factors in terms of planning educational program
+
+		Lesson Plan
+			Bir derste yapılacak aktiviteler, işlenecek konular planlanır
+			Curriculum ve syllabusa göre daha özel ifadeler taşır
+			Curriculum  Syllabus  Lesson Plan
+
+		Syllabus
+			Bir dersin işlenişine dair yapılan programlardır
+			Öğretmen tarafından hazırlanır
+			Dersin içeriği ve kazanımları planlanır
+			A guideline  that offers the way of teaching in a particular course
+			It includes topics, tasks, activities and objectives.
+			
+			Syllabus Design
+
+			SYLLABUS TYPES
+				Synthetic Syllabus
+					Dili becelerilere böler ve cümleleri öğelere bölerek
+					Teaching parts of language separately
+					Segmenting language into discrete linguistic items
+					Structures
+					Product-Oriented (the focus is on output)
+					The skills gained as a result of instruction
+					Yazılı ve sözlü bir ürün istenir- ürün temelli
+					Synthetic Syllabus/Product Oriented
+						1. Grammatical Structural Syllabus
+							Language as a set of rules
+							Basitten karmaşığa doğru gider.
+							Simplicity and Complexity of Contents (Linear Syllabus)
+							One item at a time for student
+							Deductive learning
+							Dil, dil bilgisi yapılarının bir araya gelmesiyle oluşur
+							Grammar rules, use, forms örnektir
+							GTM kullanılan sınıfa uygulanır
+
+						 2. Situational Syllabus
+							Based on situations
+							At hospital, At the airport, at a restaurant
+							Predicting situations (at the cinema, at school)
+							Teaching vocabularu and structures
+							Dilin kullanımı hangi durumda ve bağlamda kullanıldığına bağlı olarak değişiklik gösterir
+							Gerçek hayatta kullanabilir olmalı, bu duruma özgü yapılar öğretilmelidir
+							DM kullanılan bir sınıfta uygulanır
+						
+						3. Functional-Notional/Communicative Syllabus
+							Based on communicative functions 
+							such as apologizing, requesting, suggesting, inviting
+							Notions such as colour, age, number
+							When is, What time, What size questions 
+							(Tek bi durum odaklı sylllabus)
+							The syllabus is organized around communicative acts such as introducing oneself and other people , 
+								exchanging personal information, giving commands, and apologizing
+							Söylediğimiz, kullandığımız ifadelerin bir işlevi, amacı vardır
+							Hedef dilde yeterlilik kazandırılır
+							Language Functions: greetings, apologizes, permitance, refusal
+							CLT (Communicative Lang. Teaching) sınıfında uygulanabilir
+						4. Lexical Syllabus
+							Lexis as the core point (Kelime bilgisi)
+							Contents to teach target words
+							Frequency of words
+							Lexical Approach uygulanan sınıfa uygundur
+							Idioms, Collacations
+							Kelime odaklıdır
+							Dil için yapılacak en doğru şey kelime kalıpları öğrenmektir
+							Sıkça kullanılan kelimeler seçilir
+							
+					Analytic Syllabus
+						Dili bir bütün olarak öğretir
+						Holistic learning
+						Communicative purposes rather than grammatical system of language
+						Inducing rules from the input (girdiden kuralları kendileri çıkartıyor)
+						Topics, themes, tasks, situations
+						Process-Oriented
+					
+						1. Skills-based Syllabus
+							Four main skills (LSWR)
+							Skils for various purposes
+							Integrated skills
+							Content containing all skills
+							Konular dil becerileri kazandırmak amacıyla düzenlenir
+							
+						2. Task-based Syllabus
+							Classroom processes
+							Tasks and activities that learners attend to achieve a purpose
+							Learners use language communicatively during tasks
+							Hedef dil öğrenirken authentic tasklar kullanılır
+							Dil iletişimsel amaçlı kullanılır
+							Task-beased lang. Learning uygulanır.
+						3. Topic/Theme based Syllabus
+							Language teaching is based on such topics and themes
+							Sports, Technology, Food, Racism, Music
+							Belirli konu başlıkları seçilir (animals, zoo, weather)
+							Young learners için uygundur
+						4. Content-based Syllabus
+							Language is not the main goal
+							Teaching other subject areas (Physics, Biology and so on)
+							Subconscious learning
+							Dil bir araçtır, subject area olarak kullanılır
+							Asıl amaç coğrafya, matematik öğrenmek
+							Content-based approach – sınıfında kullanılır
+						5. Layered-mixed syllabus
+							Bütün syllabuslardan yararlanılır. Genelde kitaplarda bu syllabus
+			
+		Shapes of Syllabus Design and Material Development
+			A Linear Format
+				Separate skills items such as structures
+				Simplicity to complexity
+				Sequencing the content
+				No change in the order
+				Structural syllabus
+				Sıralamanın katı olduğu, konu bitmeden diğerine geçilmeyen, konular atlanmadan yapılan design
+				Öğretmene esneklik sağlanmaz
+				Sıralama kesindir
+			A Cyclical/Spiral Format (Sarmal)
+				Revising earlier Units
+				Working with the same content
+				Complexity increases each time (getting complex) (Önceki konu tekrar işlenebilir, zorluk artar)
+				İşlenecek konular belirli aralıklarla tekrar edecek şekilde sıralanır
+				Bir konu bir öğrencinin her zman karşısına çıkabilir, her çıktığında daha da karmaşık hale gelir
+			A Modular Format (Eğitim bilimleri dersleri gibi)
+				A course containing independent units
+				Non-Linear
+				The order can be changed
+				Units or modules based on skills
+				Units or modules based on themes or topics
+				Situational Syllabus or Theme/Topic based Syllabus
+				Her bir ders kendi içinde bütündür
+				Dersler, birbirinden bağımsız üniteler halindedir
+				Sırası değişebilir
+			A Matrix Format
+				The contents that are related to every skill
+				Very flexible in terms of choosing topic and ordering
+				Contents are cycled and repeated in different contexts (Önceki konu tekrar işlenebilir, çeşitlilik artar)
+				Diversity
+				Bir konu alanı birden fazla karşımıza çıkar ama cyclical’dan farklı olarak, 
+					aynı konu, farklı zamanlarda ve farklı içerikler dahilinde karşılaşırlar
+			
+
+	Material Development
+		Materials
+Dictionary, Grammar Book, Phrasebook, Flash Card, Audio Book, Recording Device, 
+Sound Editor, Electronic Translator, Dialogue, Songs, Radio Program
+
+		Principles of material development
+			Materials should be interesting, attractive, up-to-date and various
+			Materials should be free of errors
+			Materials should motivate students and eliminate anxiety
+			Materials should foster authentic language use
+			Materials should be ordered from simple to complex ones
+			Materials should be related to learners’ such as learning styles, affective filters
+			Materials should be perceived as useful and relevant
+			Materials should foster the use of learner-centered approaches
+			Materials must be related to communicative purposes
+			Materials must make learners notice structures and meaning both consciously and unconsciously
+			Materials must be flexible and source rather than a guideline
+			Materials must be designed to offer feedback
+			Materials must be goal oriented
+			
+		The process of material development
+			1- Identification
+				Identifying a need for material development
+				Identifying a problem to be solved for educational purposes
+				Teacher or learners
+			2- Exploration
+				Exploration of the needs in terms of language areas, functions and skills
+			3- Contextual (bağlam) realization
+				Contexts and texts are prepared for language that are determined
+			4- Pedagogical realization
+				Developing suitable exercises and activities
+			5- Physical Production
+				External factors such as shape, visuals, length, format
+
+		Materials Adaptation
+			Materyallerin uyarlanması, değiştirilmesi
+			What is the reason for materials adaptation?
+			-changes based on needs
+			-these needs are based on internal and external factors
+			External factors: 
+          			learners’ features, age, learning style, proficiency level, 
+         			motivation, intelligence, aptitude, interests, mother tongue
+			Internal factors:  öğrencinin özellikleri dışında kalan bütün faktörler
+           			Content, themes, educational context, time, teachers, communicative purposes
+
+			Objectives of Materials adaptation – amaç neden
+				1- Localization
+					Altering the material according to the region where students live 
+					Making material relevant and appropriate
+					Contextual appropriateness
+				2- Individualization
+					Changing material to relate it to the learners’ learning styles
+				3- Personalization
+                                  	Changing material to relate it to the learners’ personal interests, background and experiences  
+				4- Modernization
+					Updating the content that is outdated
+					Changing the material to make it up-to-date.		
+
+
+		Material adaptation techniques
+			Material according to their purpose
+			1. Authentic Materials
+				Materials that are created, written and published for native speakers
+				Materials that are not created, written and published for educational purpose, but we use
+			2. Instructional Materials
+				Materials that are created for learners
+				Pedagogical purposes
+				Materials used to make learnng easier, quicker and more more enjoyable
+
+ 			Material Types (Materials according to their type)
+			1. Informative Materials
+				The materials that present information to learners
+				Eg, Advertisement, Recipe, Dict, Map, Table, Menu, Brochure, Instruction, Grammar book, Course book 
+				Amacı iletişimi sağlayıp, bilgi vermektir
+				Yazılı veya sözlü olabilir (katalog, menü, broşür..)
+
+			2. Narrative Materials
+				The materials that are based on narrative
+				The materials narrating a fiction or a real story
+				Eg. Story, Novel, Tongue twister, Diary, Fable, Chant, Cartoon, Poem, Song, Play
+				Genellikle yazılı/sözlü eserlerden narrative materials olarak bahsedilir
+				Öğrencinin seviyesinde kalıplar, yapılar içerir
+				Ders ortamında kullanılmak için oluşturulmamış, 
+					dersle alakalı olmayan materyallerin ders ortamında kullanılabilmesine denir (şarkı, şiir, hikaye, roman…)
+
+			3. Interactive Materials
+				The materials that foster interaction and communication between learners, in groups or pairs
+				Eg. Conversation, Dialogue, Letter, Email, Role play cards
+				İletişim odaklı materyallere denir
+				Amacı iletişim kurulmasını sağlamaktır (sohbet, mesaj, mail)
+
+
+		Materyal nasıl geliştirilmeli
+			-İlgi çekici olmalıdır
+			-öğrenciye onun ilgilerine, özelliklerine, seviyesine (hazırbulunuşluk) hitap etmelidir
+			-dili özgün kullandırtmalı, etkileşim kurmaya yöneltmelidir
+			-öğrenciye bir şeyleri başarma duygusu hissettirilmeli
+			-öğrencinin iletişim kurmasına olanak sağlamalıdır
+			-öğrencide kültürel farkındalık oluşturulmalıdır
+			-öğrencilerin kendilerini değerlendirmelerine olanak sağlanmalı
+			-role play, pair work, gibi iletişimsel aktivitelerleiş birliği duygusunu öğrenciye aşılamalıdır
+			-öğrenci materyal kullanırken kendini rahat hissetmelidir
+			-materyal gerçek hayata uygun olmalıdır
+
+		Materyal Geliştirmenin belli başlı adımları
+			Identification
+				-bir konu öğretildiği zaman, o konuyla ilgili ihtiyaçların belirlendiği adımdır
+				-öğrenci yada öğretmen tarafından belirlenir
+			Exploration
+				-öğretilecek konu ile alakalı araştırmaların yapıldığı aşamadır
+			Contextual Realisation
+				-Hazırlanacak olan materyalin kullanılabileceği uygun ortam oluşturulur
+			Pedagogical Realisation
+				-Materyallerin kullanılabileği aktiviteler, etkinlikler, alıştırmalar belirlenir
+			Physical Production
+				-Materyalin fiziksel özelliği, boyutu, rengi, şekli, görünüşü belirlenir
+
+
+		Materials Adaptation
+			Materyali uyarlama haline denir
+			Öğrencinin bireysel beceri, özellikleri, ilgileri, ihtiyaçlarına göre 
+			ya da öğretmenin materyali daha kullanışlı olarak sunmasına olanak sağlamak için 
+			materyali değiştirme ya da yeniden biçimlendirme haline getirmektir
+
+			1. Objectives of Adaptation
+				Localization
+					Materyali yaşanılan yere, topluma, çevreye göre uyarlayarak yeniden düzenlemek
+ 				Personalization
+					Materyali içerik olarak öğrencinin istek, ilgi, ihtiyacına göre uyarlamaya denir
+					Yani her öğrenciye kendi ilgi alanlarına göre materyal hazırlamaktır 
+					(ilköğretim oyunlu, müzikli materyal gibi)
+				Individualization
+					Her öğrenci farklı öğrendiği için, bireysel farklılıklar göz önüne alınarak 
+					onların öğrenme tarzını göre materyal hazırlamak
+					(kinesthetic spatial vs)
+				Modernization
+					Materyalin içerik olarak, dil bilgisi olarak güncellenmesi, zamana uyarlanmasına denir
+
+
+		2. Materials’ Adaptation Techniques
+				Addition
+					Materyal eksik olduğunda öğretmenin materyale ekleme yapmasına denir
+					Aktivite, alıştırma, eksik konu gibi eklemeler yapılabilir
+					Adding more content, activity, exercise etc. to the material when it is not enough
+					- Extending
+						Aynı türden ekleme yapma – var olan içeriğe ekliyor
+						Increasing the quantity of the material
+						Adding the same/similar activities, content, questions
+						Bir konuda 5 dy sorusu varsa eksik diye 5 D-Y daha eklenir
+					- Expanding
+						Farklı türden ekleme yapma  - içerik var ediyor
+						Both qualitative and quantitive – nitelik hem de nicelik ekleme
+						Increasing the quantity and changing the quality of the material
+						Change in the methodology
+						Developing the methodology
+						5 DY sorusu var, öğretmen bir de boşluk doldurma sorusu ekler
+				Deletion / Omiting
+					Öğrencinin ihtiyacından fazlasını silme anlamına gelir
+					Omitting some parts of the materials
+					- Substracting
+						Diminishing the quantity of material without any change in the methodology
+						Omitting the parts that are not necessary or appropriate
+						Sayısal olarak aynısından silme anlamına gelir – miktar olarak
+						25 tane DY varsa fazla bulup 5 DY silmek
+					- Abridging
+						Both qualitative and quantitive
+						Diminishing the quantity of material and changing the methodology
+						Omitting some parts that are seen unnecessary or irrelevant
+						Hem niceliksel, hem niteliksel azalmaya denir
+						10 dil bilgisi boşluk sorusu, 10 konuşma 2şer tanesini fazla görüp çıkartmak
+
+				Simplifying
+					Changing the elements of materials to maket hem less complex
+					Changing instructions, explanations, exercises, activitiesi and content to make em easier 
+					Materyalin, dilinin, özelliklerinin, aktivitelerinin  zorluk düzeylerinin basitleştirilmesi
+					Değişiklik yapılan üç kısım..
+						1. Sentence Structure
+						-Reducing the length of a sentence
+						-Paraphrasing the sentences
+                     				-Changing the conjunctions and simplifiying complex compound sentences
+						2. Lexical Content
+						-Reducing the number of complex and unknown words in the material
+						-changing  the complex words with easier ones
+						3. Grammatical Structures and Content
+						-transforming grammatical structures
+						-from passive to active clauses
+						-changing the difficult contents
+				
+				Modifying
+					Changing the nature of the material
+					Changing the approach
+					Changing the focus of attention
+					Materyalin içeriğinde artma veya azalma söz konusu değildir
+					Mevcut materyalin türü, hedef davranışları gibi özellikleri değiştirilir
+					Re-writing
+					-Materyalin içeriğinin yeniden yazılıp düzenlenmesi
+					-changing the content of the material to relate it to the learners’ personal interests, background, culture and experiences
+					-İngilizce metinin içeriğinin türkçeleştirilmesi
+					Re-structuring
+					-bireyseli gruplama şekillerinde değişiklik yapar – sınıfa göre değiştirmek uzun ise
+					-Changing the structure of activities or tasks for purposes concerning class management
+					-Interactional patterns of the activities and tasks are changed
+					-turning an individual activity into group activity
+				
+				Re-ordering
+					Materyalin konusunda, aktivitelerindei sıralamalarında değişiklik yapmak
+					İlk üniteyi anlatmayıp önce üçüncü üniteyi anlatmak, sıralamayı değiştirmek
+					Changing the order of the certain parts of the material
+					Sequencing the activities and tasks differently
+				
+				Branching
+					Materyaldeki aktiviteye alternatif olarak öğrencilere başka seçenekler hakkı sunmak
+					Şubeleme – bir şeyin alternatifi fazla seçenek
+					Adding more activities to a task or activity
+					Providing more options to students
+				
+				Replacement (Substituting)
+					Materyalde yer alan aktiviteyi aynı amaca hizmet eden başka aktiviteyle değiştirmek
+					Substituting certain tasks, activities or a certain parts of the material with different ones
+
+			Materials Evaluation (Neden değerlendirme yaparız)
+				Materyal güvenilir mi
+				Geçerli mi
+				Amaca hizmet ediyor mu
+				Öğrencinin ihtiyaçlarını karşılıyor mu
+				Öğrencileri motive ediyor mu
+				Öğretim sürecine yardım ediyor mu
+				Esnek mi - 	İlginç mi
+				Assessment of the strength and weakness of materials
+				A systematic collection and analysis of data is necessary
+				
+			The reasons for material evaluation
+				To see the effectiveness and efficiency of materials
+				To see how much materials facilitate the learning
+				To see the weaknesses of materials
+				To identify necessary revisions
+				To identify the strength of materials
+
+		
+		Principles of Material Evaluation
+
+sayfa 80
+
+
