@@ -68,8 +68,9 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             where are you from?      
                                     I’m from Turkey  
                                     I live in İstanbul from Turkey
-                                    I’m originally from Edinburgh but I’m now based in London  
-      
+                                    I’m originally from Edinburgh but I’m now based in London
+                                    I am from İstanbul, born and bred - doğma büyüme İstanbulluyum
+
             where do you live?      
                                     I live in Ankara
       
