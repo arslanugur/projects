@@ -19,84 +19,105 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             Hey!
             Hello!
             Good Morning, Good Afternoon, Good Evening
-            How are you doing today  (neler yapıyorsun bugün)           --> I'm doing good (iyidir)
-            How is/was your day (going)? (günün nasıl geçer/geçti)      --> (my day is/was) good (benim günüm iyi/iyiydi)      day != night
-                                                                        --> my day was so tiring (günüm çok yorucuydu)     
-                                                                        --> I studied all day long (tüm gün boyunca ders çalıştım)
-                                                                        --> I worked all day long (tüm gün boyunca çalıştım)
-                                                                        --> did you rest enough? (yeterince dinlendin mi?)
-                                                                        --> yes, I rested enough (yeterince dinlendim)
-                                                                        --> no, I didnt rest enough (yeterince dinlenmedim)
-                                                                        --> it was a busy day (meşgul bir gündü)
-                                                                        --> today i was so busy (bugün meşguldüm)
-                                                                        --> it was good   (iyiydi)
-                                                                        --> it was stressful (stresliydi)
-                                                                        --> it was so tiring (çok yorucuydu)
-                                                                        --> I had a good day (iyi bir güne sahip oldum)
-                                                                        --> I had a very busy day (meşgul bir gün geçirdim)
-                                                                        --> I was at work all day (tüm gün işteydim)
-                                                                        --> I enjoyed my day (günümün keyfini çıkardım)
+            
+            How are you doing today  (neler yapıyorsun bugün)
+                                    I'm doing good (iyidir)
+            
+            How is/was your day (going)? (günün nasıl geçer/geçti)
+                                    (my day is/was) good (benim günüm iyi/iyiydi)      day != night
+                                    my day was so tiring (günüm çok yorucuydu)     
+                                    I studied all day long (tüm gün boyunca ders çalıştım)
+                                    I worked all day long (tüm gün boyunca çalıştım)
+                                    did you rest enough? (yeterince dinlendin mi?)
+                                                yes, I rested enough (yeterince dinlendim)
+                                                no, I didnt rest enough (yeterince dinlenmedim)
+                                    it was a busy day (meşgul bir gündü)
+                                    today i was so busy (bugün meşguldüm)
+                                    it was good   (iyiydi)
+                                    it was stressful (stresliydi)
+                                    it was so tiring (çok yorucuydu)
+                                    I had a good day (iyi bir güne sahip oldum)
+                                    I had a very busy day (meşgul bir gün geçirdim)
+                                    I was at work all day (tüm gün işteydim)
+                                    I enjoyed my day (günümün keyfini çıkardım)
 
 2 --> YOUR NAME
-            What is your name?      --> I’m ..
-                                    --> I am ..
-                                    --> My name is ..
+            What is your name?      
+                                    I’m ..
+                                    I am ..
+                                    My name is ..
 
             Can you spell your name? (ismini harf harf söyleyebilir misin?)
-                  A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
-                  J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
-                  S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
+                                    A(ey), B(bi), C(si), D(di), E(i), F(ef), G(ci), H(eyc), I(ay) 
+                                    J(cey), K(key), L(el), M(em), N(en), O(o), P(pi), Q(kyu), R(ar)
+                                    S(es), T(ti), U(yu), V(vi), W(dabılyu), X(eks), Y(vay), Z(zet)
 
 3 --> LOCATION   
             tell me about the place you live?   (yaşadığın yer hakkında bana anlat)
-                                          --> I live in İstanbul
-                                          --> I stay in Kadıköy
-                                          --> Being with my friends in the same neighborhood makes me happy
-                                          --> Our house is on third floor
-                                          --> There are some trees, and roses in our garden
+                                    I live in İstanbul
+                                    I stay in Kadıköy
+                                    Being with my friends in the same neighborhood makes me happy
+                                    Our house is on third floor
+                                    There are some trees, and roses in our garden
             
             tell me about your town?      (senin şehrin hakkında bana anlat)
-                                          --> my town is ...
-                                          --> It is a big city and crowded enough
-                                          --> there is much fun in the town
+                                    my town is ...
+                                    It is a big city and crowded enough
+                                    there is much fun in the town
             
-            where are you from?           --> I’m from Turkey  
-                                          --> I live in İstanbul from Turkey
-                                          --> I’m originally from Edinburgh but I’m now based in London  
+            where are you from?      
+                                    I’m from Turkey  
+                                    I live in İstanbul from Turkey
+                                    I’m originally from Edinburgh but I’m now based in London  
       
-            where do you live?            --> I live in Ankara
+            where do you live?      
+                                    I live in Ankara
       
-            what is your nationality      --> I’m turkish
+            what is your nationality
+                                    I’m turkish
             
-            where do you come from?       --> I come from Turkey / Switzerland / Sweden / Russia / Greece / Japan / Mexico / Brazil
-            where did you come from?      --> I came from Turkey / Germany / England / Poland / France / China / Spain / Portugal
+            where do you come from?
+                                    I come from Turkey / Switzerland / Sweden / Russia / Greece / Japan / Mexico / Brazil
+            where did you come from?
+                                    I came from Turkey / Germany / England / Poland / France / China / Spain / Portugal
       
-            where is your address?        --> My address is behind the Saatçioğlu Mosque
-                                                         .. near Hazım Kulak Secondary School
-                                                         .. next to swimming pool in Büyük Bölcek
+            where is your address?  
+                                    My address is behind the Saatçioğlu Mosque
+                                               .. near Hazım Kulak Secondary School
+                                               .. next to swimming pool in Büyük Bölcek
             
-                                                            street = sokak, neighborhood = mahalle
+                                                  street = sokak, neighborhood = mahalle
            
-            where were you born?          --> I was born in Antalya
-                                          --> I was born (in) and raised in Antalya
+            where were you born?    
+                                    I was born in Antalya
+                                    I was born (in) and raised in Antalya
             
-            when were you born?           --> I was born in 1995
-                                          --> I was born on the 27th of January
+            when were you born?     
+                                    I was born in 1995
+                                    I was born on the 27th of January
             
-            where did you grow up?        --> I grew up in…
-                                          --> I grew up in LA, now live in NY
+            where did you grow up?  
+                                    I grew up in…
+                                    I grew up in LA, now live in NY
             
-            how many years did you live in there?           --> I lived in there for two years
-                                                            --> I lived in Ankara for seven years 
-            where have you been living for seven years?     --> I have been living in Berlin for seven years
+            how many years did you live in there?
+                                    I lived in there for two years
+                                    I lived in Ankara for seven years 
             
-            how many years have you been living in Berlin   --> I have been living in Berlin for twenty years
-                                                            --> I have been living in Berlin since my birth
-                                                            --> I have been living in Berlin since 1995
+            where have you been living for seven years?
+                                    I have been living in Berlin for seven years
+            
+            how many years have you been living in Berlin?
+                                    I have been living in Berlin for twenty years
+                                    I have been living in Berlin since my birth
+                                    I have been living in Berlin since 1995
                                                             
-            where have you spent the past few years?        --> I have spent the past few years in Paris
-                                                            --> I have spent two years in İstanbul
-                                                      
+            where have you spent the past few years?
+                                    I have spent the past few years in Paris
+                                    I have spent two years in İstanbul
+                                     
+                                     
+                                     
 4 --> POSITION and COMPANY
             what's your job?                                --> I am a teacher
                    ...  occupation?                         --> I am an architect
@@ -110,506 +131,619 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                                             --> I worked for several/various jobs, now i am retired
                       
                       
-            where do you work?                              --> I work as a teacher at school
-                                                            --> I work as an engineer in a factory/company
-                                                            --> I work as an accountant in a hotel
-                                                            --> I work as a deputy manager
-                                                            --> I work as a product manager
-                                                            --> I work as a quality controller in a factory
+            where do you work?
+                                    I work as a teacher at school
+                                    I work as an engineer in a factory/company
+                                    I work as an accountant in a hotel
+                                    I work as a deputy manager
+                                    I work as a product manager
+                                    I work as a quality controller in a factory
             
             
             where did you work before?
-                                                            --> I worked in a hospital before
-                                                            --> I worked in a bank before
-                                                            --> I didn't work before, I'm still a student/intern
+                                    I worked in a hospital before
+                                    I worked in a bank before
+                                    I didn't work before, I'm still a student/intern
                   
-                                                            I work at ‘company’ in the ‘...department’
-                                                                  --> I work at Google in the marketing department
-                                                            I am a ‘position’ at ‘company’.
-                                                                  --> I’m a manager at Starbucks.
-                                                            I work in ‘general area’.
-                                                                  --> I work in sales.
+                                    I work at ‘company’ in the ‘...department’
+                                                I work at Google in the marketing department
+                                    I am a ‘position’ at ‘company’.
+                                                I’m a manager at Starbucks.
+                                    I work in ‘general area’.
+                                                I work in sales.
             
             
             where did you work last?
-                                                            I worked in a factory (last)
-                                                            I worked at a private school
+                                    I worked in a factory (last)
+                                    I worked at a private school
             
             
-            why did you leave (from the job)?               I left from my job, because ...
+            why did you leave (from the job)?
+                                    I left from my job, because ...
+            
             why did you leave/resign/quit from your job?
-                                  because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
-                                  because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
-                                  because, I (have) completed my internship                   - çünkü stajımı tamamladım
-                                  because, work conditions weren't good/proper to me          - çünkü çalışma şartları bana iyi/uygun değildi 
+                                    because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
+                                    because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
+                                    because, I (have) completed my internship                   - çünkü stajımı tamamladım
+                                    because, work conditions weren't good/proper to me          - çünkü çalışma şartları bana iyi/uygun değildi 
       
 
 5 --> QUALIFICATIONS
-      what do you study?
-            --> I study Civil Engineering
-            --> I study Architecture
-      what did you study?
-            --> I studied Electrical Engineering
-      how many years are you student/teacher/engineer/economist/builder/waiter..?
-            --> I am student for sixteen years
-            --> I am teacher for six months
-            --> I am engineer for eight years
-            --> I am nurse since 2000
-            --> I am nurse for twenty-one years
+            what do you study?
+                                    I study Civil Engineering
+                                    I study Architecture
+                                    
+            what did you study?
+                                    I studied Electrical Engineering
+                                    
+            how many years are you student/teacher/engineer/economist/builder/waiter..?
+                                    I am student for sixteen years
+                                    I am teacher for six months
+                                    I am engineer for eight years
+                                    I am nurse since 2000
+                                    I am nurse for twenty-one years
       
-            --> I have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
-            --> I’m about to graduate - nerdeyse mezunum/mezuna kaldım
-            --> I am a ‘subject’ graduate. --> I am a marketing graduate
-            --> I have a bachelor of arts degree in marketing.
-            --> I am a biology postgrad - lisansüstü biyoloji mezunuyum
-            --> I studied in vocational school/university      - meslek lisesi/mesleki üniversitede okudum
-            --> I graduated from a vocational high school with an associate degree - önlisans derecesiyle meslek yüksek okulundan mezun oldum
-            --> I have a master/PhD degree (Doctor of Philosophy)
-            --> I went to Turkish school in Saudi Arabia
-            --> I am currently taking a course in ‘theorical subject’.
-            --> I’m currently taking a course in maths.
-            --> I am currently taking a course on ‘practical subject’ 
+                                    I have a associate/bachelor degree - Önlisans/Lisans derecesine sahibim
+                                    I’m about to graduate - nerdeyse mezunum/mezuna kaldım
+                                    I am a ‘subject’ graduate. --> I am a marketing graduate
+                                    I have a bachelor of arts degree in marketing.
+                                    I am a biology postgrad - lisansüstü biyoloji mezunuyum
+                                    I studied in vocational school/university
+                                                            meslek lisesi/mesleki üniversitede okudum
+                                    I graduated from a vocational high school with an associate degree
+                                                            önlisans derecesiyle meslek yüksek okulundan mezun oldum
+                                    I have a master/PhD degree (Doctor of Philosophy)
+                                    I went to Turkish school in Saudi Arabia
+                                    I am currently taking a course in ‘theorical subject’.
+                                    I am currently taking a course in maths.
+                                    I am currently taking a course on ‘practical subject’ 
       
       
-            --> ... taking a ‘subject’ course
-            --> I am taking a pottery course
-            --> a course on jewellery/pottery making
+                                    ... taking a ‘subject’ course
+                                    I am taking a pottery course
+                                    a course on jewellery/pottery making
 
-            --> I have completed a ‘time’ course in/on ‘subject’.
-            --> number-unit of time
-            --> A 72-hour ‘subject’ course
-            --> A 3-day ‘subject’ course
+                                    I have completed a ‘time’ course in/on ‘subject’.
+                                    number-unit of time
+                                    A 72-hour ‘subject’ course
+                                    A 3-day ‘subject’ course
 
-            --> I want to get promoted in Nursery
-                                       to my civil service  --> memurluğum için terfi almak istiyorum
+                                    I want to get promoted in Nursery
+                                                           to my civil service  --> memurluğum için terfi almak istiyorum
                                        
 
 6 --> EXPERIENCE
-      When did you graduate from primary/secondary school?
-               --> I graduated from primary/secondary school in 2000
-               --> I have ‘number’ years of experience in the ‘occupation’ field.
-               --> I have 3 years of experience in the neuroscience field
-               --> I have ‘number’ years of ‘occupation’ experience
-               --> I have 10 years of sales experience
-               --> I have worked in ‘occupation’ field for ‘unit of time’
-               --> I have worked in the accounting field for three years
-       What do you think about your future?
-               --> I want to be a dentist in the future
-               --> I want to be a music teacher
+            When did you graduate from primary/secondary school?
+                                    I graduated from primary/secondary school in 2000
+                                    I have ‘number’ years of experience in the ‘occupation’ field.
+                                    I have 3 years of experience in the neuroscience field
+                                    I have ‘number’ years of ‘occupation’ experience
+                                    I have 10 years of sales experience
+                                    I have worked in ‘occupation’ field for ‘unit of time’
+                                    I have worked in the accounting field for three years
+            What do you think about your future?
+                                    I want to be a dentist in the future
+                                    I want to be a music teacher
 
 7 --> FAMILY
-      how many people in your family? 
-            --> there are five people in my family
-            --> I have five people in my family
-            --> I am from a family of four      --> (dört kişilik bir ailedenim)
-            --> we are a family of four         --> (dört kişilik bir aileyiz)
-      how many brothers/sisters (siblings) do you have? --> I have a brother
-                                                        --> I have two sisters
+            how many people in your family? 
+                                    There are five people in my family
+                                    I have five people in my family
+                                    I am from a family of four      --> (dört kişilik bir ailedenim)
+                                    We are a family of four         --> (dört kişilik bir aileyiz)
+            how many brothers/sisters (siblings) do you have? --> I have a brother
+                                                              --> I have two sisters
       
-      --> my family is made up of my father, mother, two brothers and two sisters
-                  (benim ailem babam, annem, iki erkek kardeşim ve iki kız kardeşimden oluşur.)
+            my family is made up of my father, mother, two brothers and two sisters
+                              (benim ailem babam, annem, iki erkek kardeşim ve iki kız kardeşimden oluşur.)
             
-      Tell me about your family? --> My father is ...
-                                 --> My mother is ...
-                                 --> My brother/sister is ...
-                                 --> My elder brother is ...
-                                 --> My younger sister is ...
-      How old is your brother/sister? --> My brother is 'number' years old
-                                      --> My sister is 'number' years old
+            Tell me about your family?     
+                                    My father is ...
+                                    My mother is ...
+                                    My brother/sister is ...
+                                    My elder brother is ...
+                                    My younger sister is ...
+            
+            How old is your brother/sister?
+                                    My brother is 'number' years old
+                                    My sister is 'number' years old
                   
-            --> I am one of ‘number’ siblings
-            --> I am one of four siblings. / I am one of four
-            --> I am an only child
-            --> I want to have a younger brother
-            --> I am/was the first born in my family - ailemde ilk doğan çocuk benim/bendim
-            --> it's tough being a middle child - ortanca çocuk olmak zor
-            --> she is a middle child  - o ortanca çocuk
-            --> i am an only child - ben tek çocuğum
-            --> she is my youngest (daughter) - o benim en küçük/genç kızım
-            --> he is my eldest son - o benim en büyük oğlum
-            --> this is Chris my second child - bu Chris, benim ikinci çocuğum
-            --> he is our third child - o bizim üçüncü oğlumuz
-            --> she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
+                                    I am one of ‘number’ siblings
+                                    I am one of four siblings. / I am one of four
+                                    I am an only child
+                                    I want to have a younger brother
+                                    I am/was the first born in my family - ailemde ilk doğan çocuk benim/bendim
+                                    It's tough being a middle child - ortanca çocuk olmak zor
+                                    She is a middle child  - o ortanca çocuk
+                                    I am an only child - ben tek çocuğum
+                                    She is my youngest (daughter) - o benim en küçük/genç kızım
+                                    He is my eldest son - o benim en büyük oğlum
+                                    This is Chris my second child - bu Chris, benim ikinci çocuğum
+                                    He is our third child - o bizim üçüncü oğlumuz
+                                    she is his fourth child/daughter - o, onun dördüncü çocuğu/kızı
 
-      How many rooms are there in your apartment/flat?
-            --> there are four/five rooms in my flat
+            How many rooms are there in your apartment/flat?
+                                    There are four/five rooms in my flat
       
 
-      Do you live with your parents?      --> Yes, I live with my parents
-                                          --> No, I don't live with my parents, I live alone. 
-      Are you living with your parents?   --> Yes, I am living with my parents
-                                          --> No, I am not living with my parents, I live alone.
+            Do you live with your parents?      
+                                    Yes, I live with my parents
+                                    No, I don't live with my parents, I live alone. 
+            Are you living with your parents?   
+                                    Yes, I am living with my parents
+                                    No, I am not living with my parents, I live alone.
 
 8 --> HOBBIES
-      What are you interested in?
-            --> I am interested in ...
-            --> I am interested in playing piano
-      What is your hobby? ---> My hobby is ...
-                          ---> My hobby is playing piano
-      what do like to do?
-            --> I like to play piano
-            --> I really like running
-            --> I really enjoy tennis
-            --> I am a big fan of ‘hobby’
-            --> I’m a big fan of go karting.
-            --> I am a keen runner
-            --> I am a keen tennis player
+            What are you interested in?
+                                    I am interested in ...
+                                    I am interested in playing piano
+            
+            What is your hobby?              
+                                    My hobby is ...
+                                    My hobby is playing piano
+            
+            what do like to do?
+                                    I like to play piano
+                                    I really like running
+                                    I really enjoy tennis
+                                    I am a big fan of ‘hobby’
+                                    I’m a big fan of go karting.
+                                    I am a keen runner
+                                    I am a keen tennis player
 
 9 --> AGE
-      May I know your age?
-                  --> I am ‘number’.
-                  --> my age is 30 y/o
-                  --> I am ‘number’ years old
-                  --> I’m in my ‘early/mid/late’ + ‘decade’.
-                  --> I’m in my mid-twenties
-                  --> She’s in her early teens
-                  --> He’s in his late-forties
-                  --> He’s a thirty-something accountant
+            May I know your age?
+                                    I am ‘number’.
+                                    my age is 30 y/o
+                                    I am ‘number’ years old
+                                    I’m in my ‘early/mid/late’ + ‘decade’.
+                                    I’m in my mid-twenties
+                                    She’s in her early teens
+                                    He’s in his late-forties
+                                    He’s a thirty-something accountant
 
 10 --> FUN FACT ABOUT YOURSELF
-        - an interesting fear
-        - a weird like or dislike
-        - facts about your pet
-        - strange achievement or extraordinary experience
+                               - an interesting fear
+                               - a weird like or dislike
+                               - facts about your pet
+                               - strange achievement or extraordinary experience
  
 
 
 
 
----> GENERAL QUESTIONS
-tell me about yourself
-      --> I'm ...
-      --> I am a student/teacher
-      --> I am ... years old
-      --> I have a brother/sister
-      --> I have two brothers
-            --> my first brother is thirty-five years old
-            --> my second brother is twenty-two years old
+### GENERAL QUESTIONS
+            tell me about yourself
+                                    I'm ...
+                                    I am a student/teacher
+                                    I am ... years old
+                                    I have a brother/sister
+                                    I have two brothers
+                                                my first brother is thirty-five years old
+                                                my second brother is twenty-two years old
       
-tell me about your best friend
-      --> my best friend is ... 
-      --> his name is ...
-      --> her name is ...
-      --> he is a very good friend
-      --> he is very talkative
-      --> he is ... years old
-      --> he likes playing football/basketball
-      --> he lives in Ankara
-      --> he studies Physics/Architecture
-      --> he works in a factory
-      --> he sells computers
-      --> we are friends with him/her since university
-      --> he has black hair and blue eyes
+            tell me about your best friend
+                                    my best friend is ... 
+                                    his name is ...
+                                    her name is ...
+                                    he is a very good friend
+                                    he is very talkative
+                                    he is ... years old
+                                    he likes playing football/basketball
+                                    he lives in Ankara
+                                    he studies Physics/Architecture
+                                    he works in a factory
+                                    he sells computers
+                                    we are friends with him/her since university
+                                    he has black hair and blue eyes
 
-tell me about your home/house
+            tell me about your home/house
 
 
-tell me about someone in your family
-      --> I have a brother
-      --> he has short brown hair
-      --> he is shorter than me
-      --> he is eleven years old. I am older than him
-      --> his favorite team is Galatasaray 
-      --> he plays football with his friends outside
-      --> he plays games on his phone/computer
-      --> we sometimes do homework together
-      --> he messes with me
+            tell me about someone in your family
+                                    I have a brother
+                                    he has short brown hair
+                                    he is shorter than me
+                                    he is eleven years old. I am older than him
+                                    his favorite team is Galatasaray 
+                                    he plays football with his friends outside
+                                    he plays games on his phone/computer
+                                    we sometimes do homework together
+                                    he messes with me
       
-      --> I have an older/younger brother
-      --> he graduated from secondary school/high school
-      --> he is twenty-eight years old and he is engaged (he has a fiance)
-      --> he is well-built
-                thin
-                fat
-      --> he has black hair
-      --> he works as painter/worker
-      --> sometimes, we don't get along with each other (on some subjects)
-      --> he sometimes says better ideas than me
+                                    I have an older/younger brother
+                                    he graduated from secondary school/high school
+                                    he is twenty-eight years old and he is engaged (he has a fiance)
+                                    he is well-built
+                                          thin
+                                          fat
+                                    he has black hair
+                                    he works as painter/worker
+                                    sometimes, we don't get along with each other (on some subjects)
+                                    he sometimes says better ideas than me
       
-      --> I have a sister
-      --> she has blonde hair
-      --> we are twins (I have a twin)
-      --> she is student in primary school
-      --> she doesn't like doing homework
-      --> she is jealous / envious / shy / hardworking
-      --> she has a dog and looks after the dog 
-      --> sometimes, she goes out with her friends
+                                    I have a sister
+                                    she has blonde hair
+                                    we are twins (I have a twin)
+                                    she is student in primary school
+                                    she doesn't like doing homework
+                                    she is jealous / envious / shy / hardworking
+                                    she has a dog and looks after the dog 
+                                    sometimes, she goes out with her friends
 
-tell me about your job
-      I worked as a receptionist, accountant, customer service officer, bank officer, customs officer, store manager
+            Tell me about your job
+                                    I worked as a receptionist, accountant, customer service officer, bank officer, customs officer, store manager
       
-do you like your job
-            I like my job
+            Do you like your job?
+                                    I like my job
+            
+            What are the good aspects of your job?
+                                    
 
-What do you want to be in your future?
-      I want to be a music teacher in my future or I want to be ... in state symphony orchestra. 
-      I want to be a mechanical engineer in my future
-      I want to be a lawyer or a translator in my future
-      I want to be a pre-school teacher/an academician
+            What do you want to be in your future?
+                                    I want to be a music teacher in my future or I want to be ... in state symphony orchestra. 
+                                    I want to be a mechanical engineer in my future
+                                    I want to be a lawyer or a translator in my future
+                                    I want to be a pre-school teacher/an academician
 
-Where is your favorite country? Why?
-      My favorite country is Scotland, because Scotland is a well-developed and peaceful country
+            Where is your favorite country? Why?
+                                    My favorite country is Scotland, because Scotland is a well-developed and peaceful country
 
-what do you study?
-      - I study   
-      - I don't study
-do you study or work?         (are you student or work?)
-      - No, I don't work, because I am still a student. I study ... at school/university.
-      - No, I don't study, because I work as a teacher/architect/engineer/technician/accountant
-what do you do in the evening?
-      I eat dinner in the evening
-      I watch TV in the evening
-      I meet with friends outside and we hang out together
-      I do my homework on computer
-      I play computer games
-      I do my homework, also I read a book in the evening
-      I eat dinner / I cook dinner  
-      I draw pictures and drink (turkish) coffee in the evening
-      I go to sleep at eleven
-do you watch TV?
-      Yes, I do --> Yes, I sometimes watch TV
-      No, I don't --> No, I don't watch TV much
-when do you go on holiday?
-      I go on holiday once a year           (once = one time)
-                      twice a year          (twice = two times)
-                      three times a year
-what do you do after work?
-      I get home by car
-      I arrive at home by foot
-what do you do after school?
-      I arrive at home by bus service
-      I change my clothes
-      I eat dinner
-      I play online games                       (LOL)
-      I eat some snacks
-      I listen to music       /     I play violoncello/guitar
-      I sometimes watch movie / series
-      I sometimes read a book
-      I sometimes go out and walk around
-      I study lessons / I do my homework
-      I sleep at eleven
-      I sleep late at two/three
+            what do you study?
+                                    I study   
+                                    I don't study
+            
+            do you study or work?         (are you student or work?)
+                                    No, I don't work, because I am still a student. I study ... at school/university.
+                                    No, I don't study, because I work as a teacher/architect/engineer/technician/accountant
+            
+            what do you do in the evening?
+                                    I eat dinner in the evening
+                                    I watch TV in the evening
+                                    I meet with friends outside and we hang out together
+                                    I do my homework on computer
+                                    I play computer games
+                                    I do my homework, also I read a book in the evening
+                                    I eat dinner / I cook dinner  
+                                    I draw pictures and drink (turkish) coffee in the evening
+                                    I go to sleep at eleven
+            
+            do you watch TV?
+                                    Yes, I do --> Yes, I sometimes watch TV
+                                    No, I don't --> No, I don't watch TV much
+            
+            when do you watch TV?
+                                    I watch TV in the evening
+            
+            how often do you watch TV?
+                                    I watch television once or twice a week
+            
+            when do you go on holiday?
+                                    I go on holiday once a year           (once = one time)
+                                                    twice a year          (twice = two times)
+                                                    three times a year
+            
+            what do you do after work?
+                                    I get home by car
+                                    I arrive at home by foot
 
-how do you get to places?
-      I get to places by bus
-                      by car
-                      by walking
-                      by plane
+            what do you do after school?
+                                    I arrive at home by bus service
+                                    I change my clothes
+                                    I eat dinner
+                                    I play online games
+                                    I eat some snacks
+                                    I listen to music       /     I play violin/guitar
+                                    I sometimes watch movie / series
+                                    I sometimes read a book
+                                    I sometimes go out and walk around
+                                    I study lessons / I do my homework
+                                    I sleep at eleven
+                                    I sleep late at two/three
 
-what food do you like?
-      I like orange fruit
-      I like eating salad
-      I like eating chichen wrap
-      I like rice, beans, soup
-      I like pastas/burger/soup
+            how do you get to places?
+                                    I get to places by bus
+                                                    by car
+                                                    by walking
+                                                    by plane
 
-what films do you like?
-      I like action/adventure films
-             thriller films
-             romance and comedy films
+            what food do you like?
+                                    I like orange fruit
+                                    I like eating salad
+                                    I like eating chichen wrap
+                                    I like rice, beans, soup
+                                    I like pastas/burger/soup
+
+            what films do you like?
+                                    I like action/adventure films
+                                           thriller films
+                                           romance and comedy films
              
-what do you do when you wake up?
-      I wash my face and my hands
-      I have breakfast at nine 
-what do you do in the morning?
-      I get up at seven in the morning
-      
-what did you do last night?
-      I watched TV last night
-      I talked with my friend
+            what do you do when you wake up?
+                                    I wash my face and my hands
+                                    I have breakfast at nine 
 
-how often do you do with your friends?
-how often do you have an English lesson?
-how often do you watch TV?
-how often do you go out?
-      I go out twice a day / a week / a month / a year
-      I go out every day
-      I go out every weekend
+            what do you do in the morning?
+                                    I get up at seven in the morning
+      
+            what did you do last night?
+                                    I watched TV last night
+                                    I talked with my friend
 
-how do you make friends before you go to Poland?
-       I 
-how often do you go out with your friends?
-      I go out with my friends every evening 
-what do you do in your free time?
-       I listen to music in my free time
-       I watch movies
-       I like reading a book / a science fictional book
-what do you do on your holiday?
-      I swim, eat and drink on my holiday
-who is your best friend?
-      ABC is my best friend
-when do you have some free time?
-is your house big?
-why are you learning English?
-      because I want to improve myself on English
-do you play sports?
-      Yes, I do sports at the weekend
-      No, I don't do sports. I don't have time
-what is difficult in your job?
-when do you finish work?
-      at four 
-why did you start this job?
+            how often do you do with your friends?
 
-what did you do yesterday?
-      I went to gym
-      I went shopping
-where did you go shopping?
-what time does your English lesson start?
+            how often do you have an English lesson?
+                        
+            how often do you go out?
+                                    I go out twice a day / a week / a month / a year
+                                    I go out every day
+                                    I go out every weekend
 
-do you have any hobby?
-      yes, I have some hobby such as swimming, learning English
-what other hobbies would you like to have?
-when do you have time for your hobby?
-do you have the same hobby as any of your friends?
-do you want to change your jobs?
-how do people think about you?
-how often do you have an English lesson?
-      I have an English lesson twice a week
-what time do you wake up?
-      I wake up at six
-what time do you get up?
-      I wake up at half past seven
-what do you usually do at noon?
-      I usually go out to have lunch at noon
-do you have time to see your friends and family?
-what time do you usually have dinner?
-      I usually have dinner at seven
-who do you spend most of your day with?
-which city do you live?
-      I live in Ankara
-where do you live?
-      I live in Istanbul
-where do you usually go at the weekend?
-do you like your city?
-      I like my city
-why do you like your city?
-      Because, it's a historical and cultural city
-would you like to live in a city or a town?
-what do you like most about your town/city?
+            how do you make friends before you go to Poland?
+                                    I made friends online before I go to Poland
+
+            how often do you go out with your friends?
+                                    I go out with my friends every evening 
+
+            what do you do in your free time?
+                                    I listen to music in my free time
+                                    I watch movies
+                                    I like reading a book / a science fictional book
+
+            what do you do on your holiday?
+                                    I swim, eat and drink on my holiday
+            
+            who is your best friend?
+                                    ABC is my best friend
+
+            when do you have some free time?
+
+            is your house big?
+            
+            why are you learning English?
+                                    because I want to improve myself on English
+            
+            Do you play sports?
+                                    Yes, I do sports at the weekend
+                                    No, I don't do sports. I don't have time
+            
+            what is difficult in your job?
+            
+            when do you finish work?
+                                    at four 
+            
+            why did you start this job?
+
+            what did you do yesterday?
+                                    I went to gym
+                                    I went shopping
+            
+            where did you go shopping?
+            
+            what time does your English lesson start?
+
+            do you have any hobby?
+                                    yes, I have some hobby such as swimming, learning English
+
+            what other hobbies would you like to have?
+            
+            when do you have time for your hobby?
+            
+            do you have the same hobby as any of your friends?
+            
+            do you want to change your jobs?
+            
+            how do people think about you?
+            
+            how often do you have an English lesson?
+                                    I have an English lesson twice a week
+            
+            what time do you wake up?
+                                    I wake up at six
+            
+            what time do you get up?
+                                    I wake up at half past seven
+            
+            what do you usually do at noon?
+                                    I usually go out to have lunch at noon
+            
+            do you have time to see your friends and family?
+            
+            what time do you usually have dinner?
+                                    I usually have dinner at seven
+            
+            who do you spend most of your day with?
+            
+            which city do you live?
+                                    I live in Ankara
+            
+            where do you live?
+                                    I live in Istanbul
+            
+            where do you usually go at the weekend?
+            
+            do you like your city?
+                                    I like my city
+            
+            why do you like your city?
+                                    Because, it's a historical and cultural city
+            
+            would you like to live in a city or a town?
+            
+            what do you like most about your town/city?
       
-would you like to move to another city/town?
-       Yes, i would like to move to another city
-what would you like to change in your city/town?
-how do you usually go/walk/get around?
-do you spend a lot of time at work?
-why do you watch videos/movies/series on Netflix/Youtube?
-what is your brother/sister/husband/wife/boyfriend/girlfriend like?
-what do you do to have fun with your family?
-do you see your family a lot?
-do you live with your parents?
-do you spend a lot of time outside the home with your family?
-do you watch TV?
-where can i buy a mobile phone?
-      you can buy a mobile phone from store
-when do you watch TV?
-      I watch TV in the evening
-how do you travel to places?
-what time do you usually go to bed?
-      I usually go to bed at eleven 
-when is your birthday?
-      my birthday is 25th January
-when do you go on holiday?
-      I go on holiday every summer
-what weather do you like?
-      I like sunny/rainy/cloudy
-how do you usually get around?
-what are you doing this weekend?
-what music do you like?
-      I like Rock music
-are you good at English?
-      yes, I'm quite good at English
-      no, I'm bad at English
-      I'm trying to learn English
-      I can speak English fluently
-what is your job?
-      my job is ... 
-      I am a/an Architect/Teacher/Engineer
-      I am a Boss / I have my own shop/school/factory
+            would you like to move to another city/town?
+                                    Yes, i would like to move to another city
+            
+            what would you like to change in your city/town?
+            
+            how do you usually go/walk/get around?
+            
+            do you spend a lot of time at work?
+            
+            why do you watch videos/movies/series on Netflix/Youtube?
+            
+            what is your brother/sister/husband/wife/boyfriend/girlfriend like?
+            
+            what do you do to have fun with your family?
+            
+            do you see your family a lot?
+            
+            do you live with your parents?
+            
+            do you spend a lot of time outside the home with your family?
+            
+            where can i buy a mobile phone?
+                                    you can buy a mobile phone from store
+
+            how do you travel to places?
+            
+            what time do you usually go to bed?
+                                    I usually go to bed at eleven 
+            
+            when is your birthday?
+                                    my birthday is 25th January
+            
+            when do you go on holiday?
+                                    I go on holiday every summer
+            
+            what weather do you like?
+                                    I like sunny/rainy/cloudy
+            
+            how do you usually get around?
+            
+            what are you doing this weekend?
+            
+            what music do you like?
+                                    I like Rock music
+            
+            are you good at English?
+                                    yes, I'm quite good at English
+                                    no, I'm bad at English
+                                    I'm trying to learn English
+                                    I can speak English fluently
+            what is your job?
+                                    my job is ... 
+                                    I am a/an Architect/Teacher/Engineer
+                                    I am a Boss / I have my own shop/school/factory
       
-what films do you like?                         films = movies
-      I like action, science fiction films
-how do you get to places?
-         I get to places by car
-                         by private jet
-                         by foot, by walking
-where do you go on holiday?
-            I go on holiday to Antalya
-how often do you play sports?
-            I play football once a day, on Sundays, at weekends
-do you often go shopping?
-            yes, I often go shopping as soon as possible - evet, mümkün olduğunca sık alışverişe çıkarım
-            no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
-what have you got in your kitchen/bedroom/bathroom?
-what is your favorite food?
-            my favorite food is pizza, burger, fried potatoes, kebab, 
-what is your favorite colour?
-            my favorite colour is red and black
-what restaurants do you like?
-      I like fast-food and Italian restaurant
-what is your favorite restaurant?
-      My favorite restaurant is fast food restaurant
-how often do you go out?
-      I go out four times a week
-when do you use a car?
-      I use the car every morning and evening
-      I cannot use a car becuse I have no driving license
-how often do you drive your car?
-      I use my car when I need to get a place, maybe ten times a week
-where do you go shopping?
-      I go shopping to the mall or sometimes online 
-what time does your English lesson start?
-      my English lesson starts at two in the afternoon
-when do you use the internet?
-      I use the internet at the weekend
-how often do you use the internet?
-      I use the internet every day
-      I don't use internet much
-what is your husband/wife/boyfriend/girlfriend's name?
-      my husband/wife/boyfriend/girlfriend's name is ...
-what town do you live in?
-      I live in Antalya 
-      I live in Mersin, but I study in Aksaray
-what do you eat for breakfast?
-      I eat egg, cheese, bread for breakfast
-how big is your house or flat?
-      my flat is quite big, there are 3 rooms and one kitchen
-what music do you like?
-      I like rap/rock music
-what kind of music do you like?
-      I like rock music
-how old are you?
-      I am nineteen
-what is your favorite day of the week?
-      my favorite day is Sunday, because I can rest all day
+            what kind of films do you like?
+            what films do you like?                         films = movies
+                                    I like action, science fiction films
+            
+            how do you get to places?
+                                    I get to places by car
+                                                    by private jet
+                                                    by foot, by walking
+            where do you go on holiday?
+                                   I go on holiday to Antalya
+            
+            how often do you play sports?
+                                    I play football once a day, on Sundays, at weekends
+            
+            do you often go shopping?
+                                    yes, I often go shopping as soon as possible - evet, mümkün olduğunca sık alışverişe çıkarım
+                                    no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
+            
+            what have you got in your kitchen/bedroom/bathroom?
+            
+            what is your favorite food?
+                                    my favorite food is pizza, burger, fried potatoes, kebab, 
+            
+            what is your favorite colour?
+                                    my favorite colour is red and black
+            
+            what restaurants do you like?
+                                    I like fast-food and Italian restaurant
+            
+            what is your favorite restaurant?
+                                    My favorite restaurant is fast food restaurant
+            
+            how often do you go out?
+                                    I go out four times a week
+            
+            when do you use a car?
+                                    I use the car every morning and evening
+                                    I cannot use a car becuse I have no driving license
+            
+            how often do you drive your car?
+                                    I use my car when I need to get a place, maybe ten times a week
+            
+            where do you go shopping?
+                                    I go shopping to the mall or sometimes online 
+            
+            what time does your English lesson start?
+                                    my English lesson starts at two in the afternoon
+            
+            when do you use the internet?
+                                    I use the internet at the weekend
+            
+            how often do you use the internet?
+                                    I use the internet every day
+            
+            I don't use internet much
+            
+            what is your husband/wife/boyfriend/girlfriend's name?
+                                    my husband/wife/boyfriend/girlfriend's name is ...
+            
+            what town do you live in?
+                                    I live in Antalya 
+                                    I live in Ankara, but I study in İstanbul
+            
+            what do you eat for breakfast?
+                                    I eat egg, cheese, bread for breakfast
+            
+            how big is your house or flat?
+                                    my flat is quite big, there are 3 rooms and one kitchen
+            
+            what music do you like?
+                                    I like rap/rock music
+            
+            what kind of music do you like?
+                                    I like rock music
+            
+            how old are you?
+                                    I am nineteen
+            
+            what is your favorite day of the week?
+                                    my favorite day is Sunday, because I can rest all day
       
-what time do you get up in the morning?
-      I get up at seven in the morning
-when do you go shopping?
-      I go shopping at the weekend
-      I don't go shopping, because I buy things online
-where do you go shopping?
-      I go shopping at Park City
+            what time do you get up in the morning?
+                                    I get up at seven in the morning
+            
+            when do you go shopping?
+                                    I go shopping at the weekend
+                                    I don't go shopping, because I buy things online
+            
+            where do you go shopping?
+                                    I go shopping at Park City
       
-how many brothers and sisters do you have?
-      I have one brother
-who is your best friend?
-      my best friend is ABC
+            how many brothers and sisters do you have?
+                                    I have one brother
+            
+            who is your best friend?
+                                    my best friend is ABC
       
-how many people in your family?
-      there are five people in my family
-what weather do you like?
-      I like sunny weather, but sometimes rainy
-what languages do you speak?
-      I speak Turkish, English
-what do you do at the weekend?
-      I meet with my frinds at the weekend
+            how many people in your family?
+                                    there are five people in my family
+            
+            what weather do you like?
+                                    I like sunny weather, but sometimes rainy
+            
+            what languages do you speak?
+                                    I speak Turkish, English
+            
+            what do you do at the weekend?
+                                    I meet with my frinds at the weekend
       
-what subjects do you like at school?
-      I like Maths, English
-how do you go/travel to school/work?
-      I go to school by bus
-when do you start the day?
-      at half past seven in the morning
+            what subjects do you like at school?
+                                    I like Maths, English
+            
+            how do you go/travel to school/work?
+                                    I go to school by bus
+            
+            when do you start the day?
+                                    at half past seven in the morning
       
 
 
@@ -631,6 +765,9 @@ STUDENTS' EXTRA NOTES
                            
                            
 
+
+
+Company Questions
 1--How have you gone over and above for a customer?
             I often look for opportunities to go over and above when it comes to customer service. 
             One memorable time was when a senior woman was struggling to get her bags into the resort. 
@@ -648,53 +785,52 @@ STUDENTS' EXTRA NOTES
             I would let the customer know that I can put them in touch with a supervisor who can help them if necessary.
 
 3--Name 3 qualities about yourself that would make you perfect for the job?
-
-      I am passionate about my work.
-      I am ambitious and driven.
-      I am highly organized.
-      I'm a people-person.
-      I'm a natural leader.
-      I am a problem solver and results-oriented
-      I am an excellent communicator.
+            I am passionate about my work.
+            I am ambitious and driven.
+            I am highly organized.
+            I'm a people-person.
+            I'm a natural leader.
+            I am a problem solver and results-oriented
+            I am an excellent communicator.
 
 4---What is going to be the most challenging part of this job?
-      When buyers ask a question i cannot answer. 
-      This is a chance for me as the face of Jet2 to direct the customer down the right path, or, if possible, retrieve the information myself. 
-      Even without a concreate answer, a question should never be met with a shrug of the shoulders.
+            When buyers ask a question i cannot answer. 
+            This is a chance for me as the face of Jet2 to direct the customer down the right path, or, if possible, retrieve the information myself. 
+            Even without a concreate answer, a question should never be met with a shrug of the shoulders.
 
 5---What experience do you have in assisting customers?
-      I never pretend to know an answer. 
-      If I'm unsure how to help a customer, I try to find out for the customer and take steps for a solution. 
-      Honestly, I worked for many years in tourism. 
-      So, I helped many people in resorts for easy or difficult situations 
-      and if I didn't know an answer, I reached out to my co-workers or my supervisors for assistance. 
-      In brief, I have self-confidence and problem-solving skills.
+            I never pretend to know an answer. 
+            If I'm unsure how to help a customer, I try to find out for the customer and take steps for a solution. 
+            Honestly, I worked for many years in tourism. 
+            So, I helped many people in resorts for easy or difficult situations 
+            and if I didn't know an answer, I reached out to my co-workers or my supervisors for assistance. 
+            In brief, I have self-confidence and problem-solving skills.
 
 6--What would you do if a passenger told you they had paid for private transport to their resort and it hadn't shown up?
-      I try to do everything in my power to ensure to find what has happened to the customers transport and assist them in solving the problem. 
-      If I can't solve this, I will find either a senior or other service who can.
+            I try to do everything in my power to ensure to find what has happened to the customers transport and assist them in solving the problem. 
+            If I can't solve this, I will find either a senior or other service who can.
 
 7---What would you do if a passenger told you they had paid for private transport to their hotel but you found out they hadn't?
 
-      A policy and procedure would be in place for this situation 
-      but I would do my best to find if something has gone wrong and assist the customer to have a nice holiday.
+            A policy and procedure would be in place for this situation 
+            but I would do my best to find if something has gone wrong and assist the customer to have a nice holiday.
 
 8---Why did you apply specifically for Jet2?
-      I was impressed by the quality of service the tour operator offers and I already know that it has an excellent reputation. 
-      Your customer service standards are high and the quality of training given to holiday reps is exceptional. 
-      Having spoken to some of your existing employees, all of them were very happy in their work and stated that you are a very good employer. 
-      You are an exciting tour operator that has achieved much to date 
-      and I like the fact that you are always looking for innovative ways to improve and develop. 
-      I can see your achievements. I would like to work for a tour operator that cares about its customers, which you do. 
-      If the customer is happy and their experience of staying with you is a good one, they are likely to come back again. 
-      I would love to be a part of this team and believe the qualities. 
-      I have will help it to continue to move forward and stay ahead of its competitors.
+            I was impressed by the quality of service the tour operator offers and I already know that it has an excellent reputation. 
+            Your customer service standards are high and the quality of training given to holiday reps is exceptional. 
+            Having spoken to some of your existing employees, all of them were very happy in their work and stated that you are a very good employer. 
+            You are an exciting tour operator that has achieved much to date 
+            and I like the fact that you are always looking for innovative ways to improve and develop. 
+            I can see your achievements. I would like to work for a tour operator that cares about its customers, which you do. 
+            If the customer is happy and their experience of staying with you is a good one, they are likely to come back again. 
+            I would love to be a part of this team and believe the qualities. 
+            I have will help it to continue to move forward and stay ahead of its competitors.
 
 9---Why did you apply for this job?
-      The Jet2 reputation is certainly a factor. 
-      I would be proud to work for a company with such an impressive customer service reputation in the industry. 
-      And I'm also confident that my experience in tourism would be fitting for this role 
-      because (examples of how your experience would benefit you in this specific role).
+            The Jet2 reputation is certainly a factor. 
+            I would be proud to work for a company with such an impressive customer service reputation in the industry. 
+            And I'm also confident that my experience in tourism would be fitting for this role 
+            because (examples of how your experience would benefit you in this specific role).
       
       
       
