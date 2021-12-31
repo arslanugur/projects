@@ -3984,7 +3984,218 @@ Sound Editor, Electronic Translator, Dialogue, Songs, Radio Program
 
 		
 		Principles of Material Evaluation
+			Effectiveness principle
+				-does the quality of a material helps to achieve goals and enable learning?
+				-does the material meet the needs of learners?
+				-comparison of learners level before and after using the material
+			Efficiency principle
+				-comparison of the material with other materials
+				-does the material enable learning more than other materials
+		
+		
+		Approaches to Material Evaluation
+		-----------------------------------
+		Impressionistic/ External Evaluation
+			izlenim düşünceler
+			kısa zaman diliminde, öngörülere, izlenimlere dayalı, kitabın dış görünüşüne, kalınlığına bakarak 
+				öğrenci seviyesine uygun mu değil mi dışardan anlayarak yapılan değerlendirme
+			- the assessment of the material by intuitions, impressions and experience of using it
+			- observations
+			- assessment done in a short time
 
-sayfa 80
+		Systematic / Detailed / Internal Evaluation
+			materyali derinlemesine inceleyip, içeriğini, kazanımlarını anlamak
+
+			pre-use evaluation: kullanmaan önce yapılan değerlendirme
+			while-use evaluation: materyali kullandığımız esnada yapılan değerlendirme
+			post-use evaluation: materyali kullandıktan sonraki değerlendirme
+			
+			-a detailed assessment  of materials in terms of the objectives, principles, techniques and needs
+			-questionnaires, surveys, interviews, may be utilized
+			-the results are statistical
+			-pre-while-post use evaluation
+			pre-use evaluation: future/potential performance of the material
+			while-use evaluation: assessment of tasks, activities, contents and texts in terms of learner’s features such as age, interests and needs
+			post-use evaluation: the performance of material after being used
+
+
+> TESTING
+	The terms of testing
+		Test  	- öğretilen konu ile alakalı öğrencilerin bilgi ve becerilerini ölçmeye denir
+			-öğrenme sonunda gerçekleşir
+			-yazılı sınavlar aracılığıyla gerçekleştirilir
+			-yazılı sınavlar aracılığıyla gerçekletirilir
+			-ölçme sonucu sayı veya sembollerle ifade edilir
+			-a way or method of measuring learners’ performances, knowledge, skills in a domain or learning process
+			-it is like a scale for measuring
+			-it mostly contains written exams
+			-conducting at the end of certain learning period
+			-unit tests, mid-term tests, final tests
+
+		Assessment 
+			– Öğretmen bireyin öğrenme sürecini gözlemler
+			-amacı öğrenme eksikliğini gidermek
+			-ölçme sonucunda “geçti-kaldı”gibi ifadeler söz konusu değildir
+			-an ongoing process of collecting info about the performance and level of learners to improve learning
+			-process-oriented
+			-it is positive
+			-it provides feedback
+
+		Evaluation 
+			– ölçme işlemi sonucunda son yapılan yargıya verilen addır
+			-dönem sonunda yapılır
+			-amacı öğrenciye not vermektir
+			Ölçme sonucunda “geçti-kaldı” gibi ifadelerden bahsedilir. notlandırma
+			-the act of making judgments about learners’ final outcome
+			-judgment about performance or level 
+			-judgmental
+			-product-oriented
+
+		Why do we test? – the reasons for testing
+			-öğrencinin genel performansını görmek için	
+			-öğretim programını değerlendirmek
+			-Öğrenme eksiklerini belirleyip, gidermek
+			-öğrenci ilgi ve yetenek belirlenmesi için
+			-başarı değerlendirmesi yapmak
+			-geri dönüt vermek
+			-en önemlisi motive etmek
+			-to monitor learners’ performance, what they know, what they can do
+			-to foster learning by enhancing teachers’ effectiveness
+			-to find learners’ needs
+			-to provide feedback
+			-to inform administrators and families about learning process
+			-to enhance learners’ motivation, confidence and satisfaction
+			-to inform the learners about learning expectations
+
+	Ways of Assessment
+		Diagnosis Assessment  muafiyet, seviye tespit
+			-öğrenme sürecinin başında yapılan, tanılayıcı değerlendirmedir
+			-öğrenciyi tanımak, seçmek yerleştirmek amacıdır
+			-done before instruction
+			-to find learners’ needs and potential performance
+		Formative Assessment  tarama testi, quiz, portfolio…
+			-süreci ,zlemek ve değerlendirmek amacıyla yapılır
+			-öğrencinin eksikliğini gidermek amacındadır
+			-observation, on-going information collection
+			-informal and ungraded
+			-to monitor learning process
+			-feedback and improvement are core points
+		Summative Assessment  vize-final, deneme sınavı…EVALUATION
+			-bir konu bittikten sonra değerlendirmek ve not vermek amacıyla yapılır
+			-amaç öğrenci düzeyinin ilerleyip ilerlemediğini görmektir
+			-süreç sonu**     Portfolio***
+			-exams, papers, projects etc
+			-formal and graded
+			-judgment is the core point
+			-done at the end of a unit, period, semester
+			
+			Portfolio
+			-a purposeful collections of learners’ individual work that are gathered in a file
+			-it displays learners’ progress and improvement
+			-it makes students autonomous and motivates them
+			
+			Self Assessment
+			-learners assess themselves by utilizing portfolios, rubrics, checklists, diaries
+			Peer Assessment
+			-learners assess one another by utilizing portfolios, rubrics, checklists, diaries
+
+
+		Test Types
+			1. Prognostic tests
+			2. Attainment tests
+			3. Criterion and norm referenced assessment
+			4. Discrete point and integrative tests
+			5. Direct and indirect tests 
+
+			Prognostic (yordayıcı) Tests
+				Mevcut bilgi beceri tespit edilip, öğrencinin gelecek başarısı hakkında tahminde bulunmak
+				-tests that are conducted to predict future success
+	
+				1. Selection Test (seçme)
+					süreç öncesi yapılan, belli bir program ya da iş için seçilmeyi amaçlayan testler
+					-tests that are applied to select learners for certain educational program sor a job
+					-scoring higher than other canditates is important
+				2. Diagnostic Test (Tanılayıcı)
+					Sürece döneme başlamadan öğrencinin hazırbulunuşluk düzeyini ve önbilgilerini tespit eden testlerdir
+					-tests that are conducted to discover what learners know or dont know
+					-to discover the weaknesses and strengths in language
+					-what they can or cant do in language
+				3. Placement Test (Yerleştirme)
+					daha önce seçilmiş olan öğrencileri bilgi ve becerilerine göre gruplandıran testlerdir
+					-tests are applied to place learners into groups
+					-learners of the same or similar levels share the same group
+				4. Aptitude Test (Yatkınlık)
+					öğrencilerin hangi alan veya beceriye göre daha yatkın olduğunu tespit eden testlerdir—yatkınlık
+					-tests that are conducted to discover their potential skills and capacities
+					-the areas learners will be good at in future
+					-to discover learners’ general abilities in language
+			
+			Attainment (Kazanım) Tests
+				belli bir öğrenme sürecinden sonra, öğrencinin konuyu öğrenip öğrenmediğini tespit eder – geçmiş bi test
+				-the tests that are applied to assess learners’ previous knowledge
+
+				1. Achievement/ Progress Test (başarı)
+					süreç sonunda, bireyin derste yapılan aktiviteleri, öğrenme eksikliklerini, 
+						dersin amaca ulaşıp ıulaşmadığını, testin etkisini görmek için yapılan testler
+					-the tests that are applied after instruction 
+						to see whether learners have learnt the syllabus content or to what extent they have learnt it
+					-whether the objectives have been reached
+					-conducted after units are completed or at the end of the semester
+				2. Proficiency Test (Yeterlilik)
+					Öğrencilerin sahip old bilgi ve becerileri ölçmek için yapılır
+					-the tests that are applied to see if learners have necessary skills in language
+					-to see whether learners are capable of undertaking a certain task or moving to next level of education
+				3. Knowledge Test
+					bir konuda bilgi ölçmek için yapılır
+
+			
+			Other test types
+				-Criterion and norm-referenced assessment
+				       Kritere dayalı başarı ölçülü – mutlak değerlendirme
+				       A type of assessment that is applied to assess learners according to a criterion or certain criteria
+				       Whether learners produce correct forms can be tested
+				       The criterion or standard is determined in advance
+				       Learners are not compared with one another
+				-Norm-Referenced Assessment
+				       Bağıl değerlendirme – sınıftaki diğer kişilerinde puanlarıyla değerlendirme - ortalama
+				       A type of assessment that is based on norms to assess learners’ performances
+				       Norms are learners’ scores
+				       Performances of learners are compared
+				-Individual-Referenced Assessment
+				        Kişi önceki ile şimdiki performansını karşılaştırıp değerlendirmesi
+				        A type of assessment that compares a learner’s performance with his/her own previous performance
+				        Whether s/he made a progress
+				
+				
+				-Discrete point test
+				        Discrete - ayrı 
+				        Sadece tek bir beceriyi ölçer, yalnızca kelime bilgisi ya da grammar bilgisi
+				        tests that are applied to test a skill or unit of language at a time
+				        assessment of skills separately
+				        phonology, spelling, vocabulary, grammar
+				-Integrative test
+				        bütüncül anlayışla değerlendirlir, birden fazla beceri ölçer
+				        tests that are applied to measure all language skills as a whole
+				        skills are not measured separately
+				
+				- direct and indirect tests
+				        direct testing
+				        -utilizing tests that meausre learners performance directly
+				        -learners show their performance which is measured
+				        -paragraph writing to measure writing skill
+				        -reading aloud to measure pronunciation
+				
+				        indirect testing
+				        -utilizing tests that measure learners performance indirectly
+				        -measuring learners’ skills or abilities that underlie skills to be measured
+				        -paragraph writing to measure grammar skill
+				
+				-Performance test: Performans ölçer
+
+
+
+
+
+
 
 
