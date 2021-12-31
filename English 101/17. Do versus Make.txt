@@ -1,13 +1,117 @@
-DO    + Object --> the dishes, the laundry, your best, housework, homework, nothing, a favour 
+------> DO														prepared by Uğur ARSLAN, @arslanuguur
+	do 30 mph (miles per hour) 		Many people do more than 30 mph through this town. It's very dangerous.
+	do badly 				She did very badly on the exam, so she'll have to retake it.
+	do your best 				Don't worry about getting everything correct. Just do your best.
+	do business 				It's been a pleasure doing business with you.
+	do chores 				I have to go home and do some chores this afternoon.
+	do a course 				John has decided to do a course in computing this autumn.
+	do a crossword 				She sat on the sofa, doing a crossword and drinking tea.
+	do damage 				The storm has done a lot of damage to the house.
+	do the dishes / the washing up 		I really hate doing the dishes. I'm hoping to buy a dishwasher this year.
+	do a drawing 				The little boy spent hours doing a drawing.
+	do your duty 				He has to do his duty and look after his elderly parents.
+	do an exam 				I have to do three exams and write a huge essay this term.
+	do exercise 				Julie likes doing exercise, especially running.
+	do an exercise 				The teacher asked us to do a lot of grammar exercises over the holidays
+	do someone a favour 			My friend did me a huge favour and lent me some money.
+	do the gardening 			David often spends Sunday afternoons doing gardening.
+	do good 				She helps homeless people and tries to do good.
+	do you good 				You should eat your vegetables. They'll do you good!
+	do your hair 				Allie spends ages doing her hair in the morning.
+	do harm 				I spilt coffee on my suit and tried to clean it, but I did more harm than good. It looks even worse now!
+	do homework 				Have you finished doing your homework?
+	do housework 				Let's do the housework quickly this morning, then we can go out for lunch.
+	do the ironing 				My mother listens to the radio while she does the ironing.
+	do a job 				I think the students did a great job with this essay. It's excellent.
+	do the laundry / the washing 		He did the laundry, cleaned the house, and made dinner.
+	do your nails 				Jenny likes to do her nails each week.
+	do a painting 				There was an old man sitting on the bank of the river, doing a painting.
+	do paperwork 				Does everybody hate doing paperwork?
+	do research 				I'm doing some research for my thesis at the moment.
+	do the shopping 			I'll do the shopping tomorrow morning. We need milk, bread, pasta and bananas.
+	do time (= be in prison) 		He broke into a bank, was caught by the police, and now he's doing time.
+	do well 				My sister is doing well in her new job.
+	do work 				Unfortunately, Lucy does a lot of work at the weekends.
+	do your worst 				I've bought all new winter clothes:– boots, a coat and a very warm hat. Weather, do your worst!
+
+
+
+	                 
+------> MAKE
+	make amends 				I'm so sorry that I upset you. How can I make amends?
+	make an appointment 			She had toothache, so she made an appointment with the dentist for the following day.
+	make arrangements 			Okay, so we're gonna go on holiday in June. Let's make some arrangements. I'll find a hotel, and you can look at flights.
+	make an attempt 			I know we might not catch the plane, but let's at least make an attempt to be on time.
+	make believe 				The children's favourite game is to make believe that they are kings and queens from long ago.
+	make certain 				I think the café opens at six, but let's make certain. I don't want to be standing in the street waiting!
+	make a change 				I've made some changes to the document.
+	make a choice 				Which job are you going to take? You need to make a choice.
+	make a claim
+	make a comment 				My mother made a comment about my shoes.
+	make a complaint 			The food took so long to arrive that Julie made a complaint to the manager.
+	make a concession
+	make a confession 			I'd like to make a confession. I was the one who ate the last of the chocolate.
+	make a date 				I'd love to see you soon. How about if we make a date for next week?
+	make a decision 			I've made my decision. I'm going to go back to university.
+	make a difference 			Going to the gym has really made a difference to how I feel.
+	make a discovery 			When John was last in London he made a discovery - a beautiful little café in a quiet street.
+	make an effort 				You're not trying hard enough! Make an effort!
+	make an error 				He made several errors on the report, and the boss told him to rewrite it.
+	make your escape 			The bank robbers took £10,000 from the safe and then made their escape.
+	make an exception 			Usually the children aren't allowed to watch TV but I made an exception today since the weather was so horrible.
+	make an excuse 				Why was Lisa late? Did she make an excuse?
+	make a face 				The child took a bite of the broccoli and made a face.
+	make a fire 				We put up our tent, made a fire, and had a hot drink.
+	make a fool of yourself 		You shouldn't sing in front of everyone! You'll make a fool of yourself.
+	make a fortune 				Lucy made a fortune when she sold her company. Now she doesn't have to work.
+	make friends 				She loved university and made lots of friends.
+	make fun of 				The children love to make fun of the teacher,– but only when she's not looking.
+	make a fuss 				It's okay! I'm fine, it's just a cough. Don't make a fuss!
+	make an impression 			Jenny certainly made an impression last night! All my friends are asking about her.
+	make a joke 				The interview was very tense at the beginning, but then John made a joke, and after that it was much more relaxed.
+	make a journey 				Because of the snow, try not to make any journeys which are not absolutely essential.
+	make a list 				First, I must make a list of all the things I need to do.
+	make love 				The hero and the heroine made love in the film.
+	make a mess 				What a mess you've made! Can't you tidy up a bit?
+	make a mistake 				She made so many mistakes in her essay that the teacher couldn't understand it.                	
+	make money 				John made a lot of money in his twenties and was able to retire at the age of 35.
+	make a move 				Look how late it is! Let's make a move.
+	make a noise 				Please try not to make a noise when you come home, because I'll be asleep.
+	make a note
+	make an observation 			Could I make an observation? I don't think some of our customers like the new adverts.
+	make an offer 				She made an offer on a house. She's nervous because she'll find out today if it has been accepted.
+	make a payment 				Hello? I'd like to make a credit card payment, please.
+	make a phone call 			I'm going to go outside and make a phone call. It's too noisy in here.
+	make plans 				David is making plans to move to Paris.
+	make a point 				The professor used lots of examples to make his point.
+	make a prediction 			The journalist made a prediction about the economy, but in the end it wasn't correct.
+	make a profit 				His business made a profit from the beginning.
+	make a loss 				Their business made a loss the first year, but did much better after that.
+	make progress 				Finally, after being stuck in a traffic jam for an hour, we're making some progress! We'll arrive by 8pm.
+	make a promise 				I must study hard today. I made a promise to my mum that I wouldn't fail any more exams.
+	make a remark 				John was upset because the boss made a negative remark about his work.
+	make a reservation 			Could you call the restaurant and make a reservation for tonight?
+	make a scene 				Susie made a scene in the café when her order was wrong. She shouted at all the staff and demanded to speak to the manager.
+	make a sound 				Don't make a sound! We need to be completely quiet.
+	make a speech 				The bride's father often makes a speech at her wedding.
+	make a start
+	make a statement
+	make a sentence
+	make a suggestion 			Could I make a suggestion? How about going out for dinner?
+	make sure 				I don't think I left the gate open, but I'm just going to go and make sure.
+	make the bed 				Could you please make the bed before you leave the house? Otherwise it looks so messy with the duvet and the pillows everywhere.
+	make time (=find time to do sth) 	Everybody's busy, but you need to make time to study. Otherwise you won't be able to get a better job.
+	make trouble 				That employee is trying to make trouble. He is always telling the boss bad things about his colleagues.
+	make a visit 				I'll call you this afternoon.– I need to make a visit to my granny this morning.
+	make your mind up 			Do you want chocolate or strawberry ice cream? Make your mind up quickly!
+	make your way 				After the film, John made his way to a café, where he had two cups of coffee and some cake.
+	make a wish
+
+
 MAKE  + Object --> a phone call, the bed, a cake, a mistake, a comment, dinner
                 She made some coffee.
                 Did you really make this table?
                    
-                make 
-                a claim, a mess, a speech, a complaint, a mistake, a start, a concession, 
-                a note, a statement, a date, a phone call, a wish, a difference, a point, 
-                an appointment, a fuss, a profit/loss, an effort, a list, a sound
-	                 
                 Make + object (o) + adjective complement (ac)
                 --> Music makes me happy.
 
