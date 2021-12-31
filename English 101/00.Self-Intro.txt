@@ -289,7 +289,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     My hobby is ...
                                     My hobby is playing piano
             
-            what do like to do?
+            what do you like to do?
                                     I like to play piano
                                     I really like running
                                     I really enjoy tennis
