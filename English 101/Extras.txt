@@ -67,8 +67,9 @@ go swimming		go to France		go to a bar		go to the supermarket	go on a journey		g
 go camping		go to India		go to a festival	go to the airport	go on strike		go for a dip
 go dancing		go to Africa								go on stage		go for a ride
 go fishing		go to America
- 
-
+go abroad
+go abroad to study
+go abroad on holiday
 
 
 CONCERN
@@ -196,6 +197,8 @@ right		hak
 
 
 ---> PHRASES
+improvisation - doğaçlama
+the human condition is a straight-up tragedy - insanlık hali, düpedüz bir trajedidir
 You are giving me a hard-on - çok pis gaza getiriyorsun beni
 No hard feelings - bozulmak yok, darılmaca yok
 Persistance pays off - kalıcılık karşılığını verir
@@ -209,14 +212,26 @@ Present company excluded - sözüm meclisten dışarı
 snip, snap, snout, and then the story was out... - onlar ermiş muradına biz çıkalım
 I am not buying it honey - yemezler canım
 Don't mess with me - bana bulaşma
+off duty - görevde değil
+full disclosure – doğrusunu istersen
 
+Don't go down that road just because you can change a person. can i put up with this? just think about it. nobody changes
+		bir insanı değiştirebilirim diye girme o yola. ben bunun huyuna katlanabilir miyim? diye düşün. kimse değişmez
+You are never sure about anything unless there is sth to be sure about - emin olunacak bir sey yoksa hiçbir şeyden emin olmazsın
 "The winds of tomorrow will blow tomorrow" - (will be different tomorrow) Japanese Proverb
+		Yarının rüzgarı yarın eser - hep aynı olunmaz, hep aynı konuşulmaz
 "Sometimes you make the right decision, sometimes you make the decision right" Dr Phil 
 Since I don't know what your feelings are, I don't know if these feelings have a counterpart in me
 		Duygularının ne olduğunu bilmediğim için, bu duyguların bende karşılığı var mı bilmiyorum
 When a blind man begins to see, he first breaks his own walking stick
 		kör bir adam görmeye başladığında, önce kendi bastonunu kırar 
 Good opportunity/positions don't win games, good moves do - iyi fırsat oyunu kazandırmaz, iyi hamle kazandırır
+Never appeal to a man's better nature - Asla birinin iyi yanına hitap edeğini düşünme!
+
+I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
+don't lose momentum
+house always win
+move fast break things
 
 Keep eyes on the prize - ödüle gözünden ayırma - ödüle gözünü dik
 youre a hurdy gurdy man - komik adamsın vesselam
@@ -294,15 +309,10 @@ makes no difference to me - benim için fark etmez
 why should I care  - bana ne, beni ilgilendirmez
 have a say in sth - söz sahibi olmak, laf düşmesi
 I think, students should have more of a say - öğrencilerin daha fazla söz hakkı olmalı
-
-
-I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
-don't lose momentum
-house always win
-move fast break things
 Every C in Pacific Ocean is pronounced differently
 light (up) a cigar # put out the cigarette
-
+he's notwithstanding - alınmasın ama
+we will figure it out - bir yolunu bulacagiz
 
 
 # MONEY
@@ -384,7 +394,6 @@ I am good in my field - alanımda iyiyim
 I call her a vixen - cadaloz, huysuz, tilki
 do me proud - beni gururlandır
 that's exactly the kind of spirit I am talking about!! işte aynen hakkında konuşuyor olduğum ruh bu - işte istediğim ruh bu
-we got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
 your secret is safe with me
 you are making progress - ilerliyorsunuz
 what happened to you - sana ne oldu
@@ -398,8 +407,6 @@ this is our last shot - bu bizim son şansımız/vuruşumuz
 I had no idea you were so much fun - bu kadar fazla eğlenceli olduğunu bilmiyordum
 look at the lives of those who deceived you with the promise of paradise and condemned you to poverty.. you will see that they live in paradise on this earth
 		seni cennet vaadiyle kandırıp fakirliğe mahkum edenlerin hayatlarına bak.. bu dünyada cenneti yaşadıklarını göreceksin
-Don't go down that road just because you can change a person. can i put up with this? just think about it. nobody changes
-		bir insanı değiştirebilirim diye girme o yola. ben bunun huyuna katlanabilir miyim? diye düşün. kimse değişmez
 silence is the resting state of the sentence. 
 When the rest is over, the sentence that comes out as vigorous. Don't talk too much and tire the sentence, otherwise everyone will get tired
 susmak, cümlenin istirahat halidir. istirahat bitince çıkan cümle dinç olur. çok konuşup cümleyi yorma, yoksa cümle alem yorulur
@@ -437,18 +444,13 @@ I dont even know where I am
 This man is chasing me – beni kovaliyor
 Consider it done – olmus bil
 Tenant – mahalle sakini
-
 how much more pain dou you think i can suffer- bu aciya daha ne kadar dayanabilirim
 how many more are going to die - kaç insan daha ölcek
 i spent years earning everyone's respect - herkesin saygisini kazanmak içn yillarimi verdim
 you are not helping at all - hiç yardimci olmuyorsun
 i'm gonna be indicted - beni sorgulayacaklar
 sen oyala onu - stall him
-
-I'm a little nervous - biraz gerginim just get comfy - rahatla sadece
 fesat düsünme be kadin - get your mind out of the gutter, woman
-
-full disclosure – dogrusunu istersen
 overly
 overall
 dont make a hasty decision, take your time - acele etme
@@ -500,8 +502,7 @@ If i pay you now, you will want more and more
 Did you find out what happened?
 I got a girl's number
 the meds u gave me are working
-must i really justify myself any further
-kendimi daha çok açiklamama gerek yok sanirim
+must i really justify myself any further - kendimi daha çok açiklamama gerek yok sanirim
 falling in love - falling out of love
 gadget or idea - new
 anomaly - supernatural re	
@@ -522,8 +523,7 @@ I will be rooting for you - seni koruyacagim
 i think you are encouraging her to leave her husband because you're tired of being dumped - terkedilmekten biktin
 i want a way out of loneliness just like you - yalnizliktan bi çikis yolu istiyorum senin gibi
 the world is filled with stupid people and i am paid a lot to be smart
-well, silver lining, you get to see her
-ama iyi bir yani var, onu görebileceksin
+well, silver lining, you get to see her - ama iyi bir yani var, onu görebileceksin
 keep your chin up, remain cheerful in difficult circumstances
 guess what - tahmin et ne oldu
 my nose is running - burnum akiyor - runny nose
@@ -532,7 +532,7 @@ she is well-built girl - yapili kiz
 keep me posted - beni haberdar et
 i will keep you updated - seni bilgilendirecegim
 i should have never gone behind my dad's back
-if any of them kids give you trouble today, you send them my way - çocuklar canini sikarsa bana gönder
+if any of them kids give you trouble today, you send them my way - çocuklar canını sıkarsa bana gönder
 he is probably on his way to the bank right now
 take as much time as you need
 there are how many billion people in this world?
@@ -540,8 +540,6 @@ somehow you and i landed together - bir sekilde ikimiz ayni yere düstük
 get a cat, see if we can keep that alive first
 and, to top it off, on the way here, waze took me on a toll road
 you always do this, you cant keep running from your problems
-we will figure it out - bir yolunu bulacagiz
-
 i know it inside out - onun içini disini biliyorum
 do you know of any 'hidden gem' around here
 is there anywhere i should know about
@@ -558,17 +556,12 @@ I steal, but I don't get caught - çaliyorum ama yakalanmiyorum
 Her radar needs fixing - seçimleri adam etmesi lazim
 The look of disillusionment - gözüm açildi bakisi
 don't hesitate to reach me when you're ready
-u are never sure about anything unless there is sth to be sure about
-emin olunacak bir sey yoksa hiçbirseyden emin olmazsin
 I still need you to stay on it, now more than ever
-alinmasin ama - he's notwithstanding
 kalan tüm süphelerini öldürmek zorundayim
 I am about to change the world - dünyayi degistirmek üzereyim
 
 INCREASE – UNCREASE(burusuklugu düzeltmek) –DECREASE
 
-money is very powerful, but sometimes it's more powerful to say no to it
-para çok güçlüdür, ama bazen ona hayir demek daha güçlüdür
 the protesters found out who i am and keyed my car
 You are a grown man, u can make your own decisions
 as far as i am concerned, u are no longer welcome on this ranch
@@ -590,21 +583,6 @@ sth’s just changed – biseyler degisti
 Sell sold
 Tell told 	
 
-
-
-
-kitap fikri: charles dickens a göre kendi bulunduğu zamanın iyi kötü vs girişine eleştiri tarzında introsu olan bir bilim kurgu kitabı başlangıcı
-
-Kurallar güven sunar
-
-Kalabalikta artizlik yapanin tenhada affi olmaz
-
-Belediye ihalesini banka kredisiyle fizibilitesini çikarip ortak bularak is kurma fikri
-
-
-
-
-
 desperate
 covert -anlamazliktan gelmek
 the book is flying off the shelves - kitap kapis kapis gidiyor
@@ -622,7 +600,7 @@ maybe it would be a good tine to revisit the idea of me investing in your ranch
 i want to sample them - onlari denemek istiyorum
 he can handle himself - basinin çaresine bakar
 
-its jammed - sikismis oturmamis
+its jammed - sıkışmış oturmamış
 
 skirmisher
 To see the effectiveness işe yARARLILIK and efficiency of materials
@@ -637,12 +615,9 @@ forensics
 sooner or later, you are going to realize just as i did, there is a difference between knowing the path and walking the path
 er ya da geç sen de benim farkina vardigim gibi varcaksin, yolu bilmekle o yolda yürümek farklidir
 my son dropped his ball from the balcony and it fell to the ground
-off duty - görevde değil
 the movie's about to start - film başlamak üzere
 lobotomizing us into their virtual reality horror story
 the truth is im the one to blame - suçlanacak tek benim
-
-never appeal to a man's better nature - asla birinin iyi yanına hitap edeğini düşünme
 they still got to finish the job
 you dont want to admit it - onu kabul etmiyorsun
 i wish i could have been a better father to you
@@ -652,6 +627,7 @@ onu son gördüğümde tam bir çöküş yaşıyordu
 senin için endişenmeye başladım - i am getting worried about you
 consolation prize, at least we get to be miraculously off the hook for everything
 teselli ödülü olarak paçamızı tüm olan bitenlerden kurtardık
+
 bununla başa çıkmak için kendi yolumu bulmalıyım - i need to find my own way to cope with this
 maybe it's sth i should have done a long time ago - belki de bu çok uzun zaman önce yapmam gereken birşeydi
 
@@ -695,8 +671,8 @@ make it mass kütleye dönüstürün
 make it impenetrable geçilmez yapin
 make it yours - sahiplenin
 make it england – ingiltere olsun
-pesky watch
 
+pesky watch
 persecutor - cezalandirici
 
 i cant cake you to the movies. i told you i have sth i gotta do
@@ -718,7 +694,6 @@ once you have weathered a storm like yours, you become the storm
 you just happened to stumble into one of them
 sen sadece içlerinden birine denk geldin
 all this over a little pipsqueak in a hoodie - tüm bunlar kapsonli bir tip neden oldu
-the human condition is a straight-up tragedy - insanlik hali düpedüz trjedi
 a new future is ready to be written
 in the sameness - tek düzelik
 better the devil you know than the devil you dont, right?
@@ -765,7 +740,6 @@ re - set
 that is a matter of debate - tartisma meselesi açik 
 i am really off today - bugün günümde degilim
 you loused it up again - yine çuvalladin
--travel
 
 i would rather see you lose
 sad for sure - üzücü orasi kesin
