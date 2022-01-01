@@ -111,7 +111,7 @@ OFF - kapalı, devredışı, 	let people off before you get on
 				off the charts – inanılmaz iyi, harika, ortalamanın çok üstünde
 				the food here is off the charts – buradaki yemekler inanılmaz iyi/ortalamanın çok üzerinde
 				this concert is going to be off the charts- bu konser çok iyi olacak
-
+                                Are you going to fly over here and sweep me off my feet?
 
 -------------------------------
 TO - -e, -a doğru, 		the bus is going to Ankara
@@ -158,6 +158,7 @@ IN FRONT OF - önünde		The teacher is in front of the desk
 BEHIND - arkasında, gerisinde	The cyclist is behind the motorist
 				The second car left behind the first car
 				UK could be left behind in the electric car race - geride kalabilir
+ 
 
 -------------------------------
 OVER - üstünde			the bridge is over the Bosphorus
