@@ -1,40 +1,6 @@
----> Different Type Speaking Topics for Students
-      what do you want to be in your future
-      what is your dream for your future?
-      what field do you want to improve yourself? 
-      what field in the university do you want to study?                           field = department
-      
-      what do you think about ...
-			           your city
-                                   country
-                                   future
-                                   life
-                                   personality
-                                   friends
-                                   teachers
-                                   school
-                                   work
-                                    
-      do you have any plan about your life?
-      what causes the expansion of big cities?
-      
-      what activities do you like to do in your free time?
-      how much time you spend to study / work?
-      how often do you use smart phone or computer?
-      what do you do on your smartphone or computer?
-      can you drive a car – do you have a driving license
-      what country do you want to travel 
-      have you ever travelled abroad?
-      have you ever travelled another city?
-      which countries/cities have you travelled?            - which one is better
-      do you think that your family expects anything from you about your future?
-      generally, how is your communication with people?      
-      
-      
-      
 ---> Reading - Translation Examples about Global Issues
 
-Clean Water
+Clean Water	-	Temiz Su
       Water is a basic substance required for all living organisms. Without it, human health inevitably fails. 
               Su, tüm canlı organizmalar için gerekli olan temel bir maddedir. Onsuz, insan sağlığı kaçınılmaz olarak başarısız olur.
       According to a report by the United Nations, there is enough fresh water on the planet for everyone. 
@@ -47,7 +13,7 @@ Clean Water
               Hükümetler, ihtiyacı olanlara yardım etmek için çaba sarf ediyor, ancak azalan ekonomi ve düzensiz altyapılar tarafından engelleniyor. 
       
       
-Food Security
+Food Security	-	Gıda Güvenliği
       Like water, food helps people lead healthy lives. Globally, 12.9 percent of the population is undernourished. 
               Su gibi, yemek de insanların sağlıklı yaşam sürmesine yardımcı olur. Küresel olarak, nüfusun yüzde 12,9'u yetersiz besleniyor.
       Developing countries struggle with providing an adequate food supply to their people; 
@@ -93,7 +59,7 @@ Maternal Health	-	Anne sağlığı
 	to provide expert maternal care to expecting mothers.
                anne adaylarına uzman anne bakımı sağlamak. 
 
-Girls’ Access to Education
+Girls’ Access to Education	-	Kızların Eğitime Erişimi
               Girls deserve the right to learn.
 	      		Kızlar öğrenme hakkını hak ediyor.
               Currently, 98 million girls do not attend school due to barriers like poverty, gender bias, governmental conflict, 
@@ -109,7 +75,7 @@ Girls’ Access to Education
 	      		fonlar, kızların okuma ve yazmalarına yardımcı olacak müfredatlara yönlendiriliyor. 
 	       
 	       
-Digital Access
+Digital Access	-	Dijital Erişim
               	We live in a digital age where we can find all the help we need online. 
 			ihtiyacımız olan tüm yardımı çevrimiçi olarak bulabileceğimiz dijital bir çağda yaşıyoruz.
 		This luxury is absent in many countries, as more than four billion people do not have access to the internet. 
@@ -131,12 +97,12 @@ Foreign Aid Budgets	-	Dış Yardım Bütçeleri
 			ABD'de daha fazla iş yaratılmasına yardımcı olur ve gelişmekte olan ülkelerde zenginlik oluşturur. 
 
 
-Women’s Rights
+Women’s Rights	-	Kadın Hakları
               Women’s rights are human rights. Women suffer discrimination in many areas: laws, the workforce and gender-based stereotypes and social practices. 
               The first conference on global feminism was held in Nairobi in 1985 and involved more than 15,000 non-governmental organizations, 
               encouraging 157 governments to adopt strategies geared towards equality, development and peace for women.
 
-Refugees
+Refugees	-	Mülteciler
               Refugees are people who have been forced to flee their homeland due to war, conflict and abuse. 
               Foreign countries have granted them asylum for thousands of years. 
               Refugees are sometimes denied entry into other countries, leaving them without basic human rights such as food, healthcare, education and jobs. 
@@ -144,16 +110,45 @@ Refugees
               The U.N. Refugee Agency currently provides aid and safekeeping to 59 million refugees.
 
 Electric Car
-            Old electric cars are a raw material of the future.
-            Car Sales have, generally speaking, plunged during the coronavirus epidemic. But there has been one bright spot. 
-            Electric vehicles (EVs) continue to grow in popularity. 
-            According to IHs Markit, a research firm, almost 2.5m battery-electric and plug-in-hybrid cars were sold around the world in 2020—and 
-            the company expects that number to grow by 70% this year. 
-            BloombergNEF, another researcher, reckons that by 2030 some 8% of the 1.4bn cars on the road will be electric, rising to more than 30% by 2040. 
-            It is not, moreover, just a matter of cars. There will also be electric lorries, buses, motorbikes, bicycles, scooters, ships and maybe even aircraft. 
-            And, when all of these machines come to the ends of their useful lives, they will need to be recycled.
+		Old electric cars are a raw material of the future.
+		Car Sales have, generally speaking, plunged during the coronavirus epidemic. But there has been one bright spot. 
+		Electric vehicles (EVs) continue to grow in popularity. 
+		According to IHs Markit, a research firm, almost 2.5m battery-electric and plug-in-hybrid cars were sold around the world in 2020—and 
+		the company expects that number to grow by 70% this year. 
+		BloombergNEF, another researcher, reckons that by 2030 some 8% of the 1.4bn cars on the road will be electric, rising to more than 30% by 2040. 
+		It is not, moreover, just a matter of cars. There will also be electric lorries, buses, motorbikes, bicycles, scooters, ships and maybe even aircraft. 
+		And, when all of these machines come to the ends of their useful lives, they will need to be recycled.
 
-Crypocurrency
+
+Robots versus Humans	-	Robotlar, İnsanlara Karşı
+		If you think of the jobs robots could never do, you would probably put doctors and teachers at the top of the list.
+			Robotların asla yapamayacağı işleri düşünürseniz, muhtemelen doktorları ve öğretmenleri listenin başına koyarsınız.
+		It's easy to imagine robot cleaners and factory workers, but some jobs need human connection and creativity. 
+			Robot temizleyicileri ve fabrika çalışanlarını hayal etmek kolaydır, ancak bazı işler insan bağlantısına ve yaratıcılığa ihtiyaç duyar.
+		But are we underestimating what robots can do? In some cases, they already perform better than doctors at diagnosing illness. 
+			Fakat robotların yapabileceklerini hafife mi alıyoruz? Bazı durumlarda, hastalıkları teşhis etmede zaten doktorlardan daha iyi performans gösteriyorlar.
+		Also, some patients might feel more comfortable sharing personal information with a machine than a person. 
+			Ayrıca, bazı hastalar kişisel bilgilerini bir makineyle paylaşmaktan daha rahat hissedebilir.
+		Could there be a place for robots in education after all?
+			Sonuçta eğitimde robotlara yer olabilir mi?
+		British education experts think that intelligent robots will read students' faces, movements and maybe even brain signals. 
+			İngiliz eğitim uzmanları, akıllı robotların öğrencilerin yüzlerini, hareketlerini ve hatta belki de beyin sinyallerini okuyacağını düşünüyor.
+		Then they will adapt the information to each student. 
+			Daha sonra bilgileri her öğrenciye uyarlayacaklar.
+		It's not a popular opinion and it's unlikely robots will ever have empathy and the ability to really connect with humans like another human can.
+			Bu popüler bir görüş değil ve robotların başka bir insan gibi empati kurma ve insanlarla gerçekten bağlantı kurma yeteneğinin olması pek olası değil.
+		One thing is certain, though. A robot teacher is better than no teacher at all. 
+			Yine de kesin olan bir şey var. Bir robot öğretmen, hiç öğretmen olmamasından iyidir.
+		In some parts of the world, there aren't enough teachers and almost 16 per cent of children under the age of 14 don't go to school. 
+			Dünyanın bazı bölgelerinde yeterli öğretmen yok ve 14 yaşın altındaki çocukların neredeyse yüzde 16'sı okula gitmiyor.
+		That problem could be partly solved by robots, because they can teach anywhere 
+			Bu problem robotlar tarafından kısmen çözülebilir, çünkü her yerde öğretebilirler.
+		and won't get stressed, or tired, or move somewhere for an easier and higher-paid job.
+			ve strese girmez, yorulmaz veya daha kolay ve daha yüksek ücretli bir iş için bir yere taşınmaz. 
+
+
+
+Cryptocurrency
 
 Climate Change
 
