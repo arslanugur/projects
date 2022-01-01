@@ -66,17 +66,16 @@ Future Simple		(Gelecek Zaman)		he will watch us	they will see him
 
 	# English versus Turkish way of thinking about making sentence
 
-			kahve  içersin			güneş, kendi etrafında döner			o şehrin üstünde uçuyordu
+			kahve   içersin			güneş, kendi etrafında döner			o şehrin üstünde uçuyordu
 			-----  ----- ---		-----  ----- --------- -----	       		- ------ ------- --------
-Turkish Mentality	nesne   fiil özne		özne   nesne   edat     fiil			Ö    N      e        F
+The Turkish Mind	nesne   fiil  özne		özne   nesne   edat     fiil			Ö    N      e        F
 			  O	 V    S			 S      O       p        V			S    O      p        V
 			coffee  drink you		sun,   itself  around   revolve        		he  city   over   was flying
 ---------------------------------------------------------------------------------------------------------------------------------------
 			you drink coffee		sun   revolves around  itself			he  was flying over  the city
 			--- ----- ------		----  -------- ------  -------			--- ---------- ----- ---------
-English Mentality	özne fiil  nesne		özne    fiil    edat    nesne			özne   fiil     edat   nesne
+The English Mind	özne fiil  nesne		özne    fiil    edat    nesne			özne   fiil     edat   nesne
 			  S    V     O			  S       V      p        O			  S      V        p      O   
-
 
 
 
@@ -97,18 +96,18 @@ plural		you										you		happily 	at the station	on the weekend
 
 
 
-						
+
 
 
 ---> SENTENCE STRUCTURES
 S + V	        	students learn
 			The visitors have arrived. 
                 	The old man died.
-S + V + O		The kids’ve eaten all the chocolate jar.
+S + V + O		The kids have eaten all the chocolate jar.
                 	The shop sells computers.
 S + V + ADJECTIVE	Jack is tall
 			This jacket is nice.					to be, to become fiilleri bu yapı için önemli
-                	The song became a big hit.
+                	The song became popular.
 			I am very hungry, but the fridge is empty
 S + V + ADVERB		The match is tomorrow.
                 	We got on the bus.
