@@ -84,6 +84,20 @@ plural		you										you		happily 	at the station	on the weekend
 
 
 
+
+			Turkish Mentality	Güneş, kendi etrafında döner.
+						-----  ----- --------- -----
+						özne   nesne   edat     fiil
+						  S      O      p         V
+						 sun,  itself  around  revolve
+			-----------------------------------------------------
+			English Mentality	Sun   revolves around itself
+						----  -------- ------ -------
+						özne    fiil    edat   nesne   
+						  S      V       p       O
+						
+
+
 ---> SENTENCE STRUCTURES
 S + V	        	students learn
 			The visitors have arrived. 
