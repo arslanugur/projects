@@ -1148,6 +1148,46 @@ what an as**ole - pu**un *e*i
 	reasoning rules - akıl yürütme kuralları
 	inference rules - çıkarım kuralları
 
+🔻 Gamification - Oyunlaştırma
+	"Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
+	Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
+	
+	Tanım:
+		Oyun mekaniklerini oyun olmayan alanlarda kullanarak 'kişilerin davranışlarını etkilemek'
+		Oyun dinamikleri (motivasyonları) ve mekanikleri kullanılarak katılım ve etkileşim sağlanıyor.
+		Şirketler, Bunun için genellikle bir web site, app, social network ya da kampanya kullanıyor
+	
+	Başlıca Oyun Dinamikleri:	Başlıca Oyun Mekanikleri:	
+		Ödül				Puan Kazanma		
+		Statü				Düzey (Level) atlama
+		Rekabet				Zorluklar
+		Başarı				Sanal Kazanımlar
+		Kendini İfade Etme		Sıralamada yer alma
+		Yardımseverlik			Ödül v Destekler (Yardım)
+	
+			----> OYUN MODELLEME
+			
+											Oyun Mekanikleri		
+			*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
+			----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
+						------------	--------------------	---------	----------------	-------------------	--------------		
+			Ödül			     000				   ###		       ###			
+			Statü			     ###		OOO		   ###		       ###			###		       ###
+			Başarı			     ###		###		   OOO		       ###			###		       ###
+			Kendini İfade Etme								       ###			OOO
+			Rekabet			     ###		###		   ###		       ###			OOO		       ###	
+			Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
+	
+							000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
+						
+						
+			Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
+							2008de uygulamayı iPod ile birleştirerek, 
+							RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
+							İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
+							Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
+
+
 
 🔻 Situational Awareness (Durumsal Farkındalık)
 
