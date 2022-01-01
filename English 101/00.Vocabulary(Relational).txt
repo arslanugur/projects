@@ -12,30 +12,37 @@ be able to        ability in              -able                     beceri, yete
                   capacity                capable of                bir şey yapabilme kapasitesi olmak 
                   talent, skill                                     yetenek 
 abound            abundance               abundant                  bolluk
-access            access                  accessible                erişmek, erişim
+access to         access                  accessible                erişmek, erişim, ulaşılır olmak/ e ulaşmak 
+
 accuse of                                                           suçlamak
 accept to         acceptance              acceptable to             bir şeyi yada bir teklifi kabul etmek
 agree to/on/with  agreement on            agreeable                 kabul etmek, bir konu hakkında anlaşmak, hemfikir olmak, onaylamak
-argue with        argument                                          birisiyle tartışmak 
-accord            accordance              according to              uygun hale getirmek -- uygunluk -- -e göre --> according to me - bana göre
-admit             admission               admitted                  kabul etmek, içeri almak (okul vs)
-refuse            refusal                                           reddetmek, kabul etmemek, izin vermemek, geri çevirmek
-act               action                  active                    davranmak, hareket etmek, rol yapmak, oynamak 
+                                                                    I agree with you
+argue with        argument                                          birisiyle tartışmak, iddialaşmak 
+accord            accordance              according to              uygun hale getirmek -- uygunluk -- -e göre
+                                                                    according to me - bana göre
+admit to          admission               admittedly - kuşkusuz     kabul etmek, içeri almak (okul vs), itiraf etmek 
+admire            admiration              admired                   hayran olmak
+refuse            refusal                 refusable                 reddetmek, kabul etmemek, izin vermemek, geri çevirmek
+act               action                  active                    davranmak, hareket etmek, rol yapmak, oynamak
+                  activity
 react             reaction                reactive / proactive      tepki vermek
 interact          interaction             interactive               etkileşmek, birbirini etkilemek
                   accuracy                accurate-ly               tam olarak
 appreciate        appreciation            appreciating              takdir etmek -- takdir -- takdir eden
 arrange           arrangement             range                     düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak --- dizi, menzil, alan, sıra                   
-attribute         attribute/attribution                             atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
+attribute to      attribute/attribution                             atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
+                                                                    attribute - bir durumun bir şey tarafından sebep olduğuna inanmak 
 contribute        contribution                                      katkıda bulunmak -- katılım, destek, iştirak
 attain            attainment                                        ulaşmak, elde etmek, erişmek
-contain           containment                                       içermek, kapsamak
+contain           containment                                       içermek, kapsamak -- kapsama, önleme, içerme
 detain            detainment                                        gözaltına almak, tutuklamak, alıkoymak
 obtain            obtainment                                        elde etmek, bulmak, sağlamak
 pertain           pertinence              pertinent/pertaining to   ilgili olmak, uygun olmak, uymak -- yerindelik, uygunluk
 retain                                    retainer                  tutmak, alıkoymak, kaybetmemek, elinden kaçırmamak -- tutucu
 maintain          maintenance             maintainable              korumak, savunmak, sürdürmek -- bakım -- bakım yapılabilir
-sustain           sustainability          sustainable               sürdürmek, güçlendirmek, desteklemek 
+sustain           sustainability          sustainable               sürdürmek, güçlendirmek, desteklemek
+                                                                    sustainable energy - sürdürülebilir enerji
 entertain         entertainment           entertaining              ağırlamak, eğlence
 present           presentation            present-able              sunmak - sunum - hediye       
                   presence                present                   varlık
@@ -43,54 +50,52 @@ present           presentation            present-able              sunmak - sun
 represent         representation          representative            temsil etmek
                                           appropriate / proper      uygun
                                           disproportionate          orantısız
-admire            admiration              admired                   hayran olmak
-afford            effort                                            bir şeye sahip olmaya satın almaya gücü yetmek
-affect            effect on = impact on   effective != ineffective  etkilemek -- etki -- etkili  --> birinin yada bir şeyin üzerinde etkisi olmak
+afford            effort = çaba                                     bir şeye sahip olmaya satın almaya gücü yetmek
+affect            effect on = impact on   effective != ineffective  etkilemek -- etki -- etkili  --> birinin/bir şeyin üzerinde etkisi olmak
                   efficacy                efficient in = productive etkililik, verimli olmak
                                           be affected by            -den etkilenmek
                                           (in)evitable              (-)kaçınılabilir
 arrive in/at      arrival                                           bir yere ulaşmak, varış 
-                  departure                                         kalkış
+                  departure                                         kalkış, ayrılış
                   anxiety over            anxious about             bir şey hakkında endişe etmek 
-acquire           acquisition                                       edinmek
-achieve           achievement             achieved                  başarmak
-apply             application             applied                   uygulamak
+acquire           acquisition                                       edinmek -- edinim
+achieve           achievement             achieved                  başarmak, ulaşmak, elde etmek
+apply             application             applied                   uygulamak -- uygulama - uygulamalı
                   altitude                                          yükseklik, rakım, irtifa, yükselti
                   aptitude                                          yetenek, eğilim, yatkınlık
                   attitude                                          tutum, tavır, davranış, yaklaşım
                   availability            available                 mevcut olma, hazır bulunma, müsait olma
-assemble
+assemble          assembly                                          toplanmak, birleştirmek
 resemble          resemblance                                       benzemek, benzetim
 assist            assistance              assistant                 yardım etmek -- yardım -- yardımcı, asistan
-insist            insistence
-consist of                                                          bir şeyden oluşmak 
-resist            resistance                                        direnmek
-persist           persistence
+insist            insistence                                        ısrar etmek, diretmek -- ısrar
+consist of        consistency                                       bir şeyden oluşmak -- tutarlılık, kıvam, yoğunluk
+resist            resistance                                        direnmek -- direnç, karşı koyma
+persist           persistence                                       devam etmek, sürdürmek -- dayanıklılık, sebat, inat
 
 
-aim at              have the intention of achieving sth       bir şeyi hedeflemek 
-attempt at          make an effort to do sth                  e kalkışmak, teşebbüs etmek 
-attack on           take aggresive action against sb                birine saldırmak 
-assault on          make a physical attack on sb                    birine saldırmak 
-access to           be reached                                      ulaşılır olmak/ e ulaşmak 
+aim at            aim                                               bir şeyi hedeflemek 
+attempt at        attempt                                           -e kalkışmak, teşebbüs etmek 
+attack on         attack                                            birine saldırmak, saldırı 
+assault on        assault                                           birine saldırmak 
 alternative to      be available as another choice                  bir şeye alternatif olmak
 answer to           sth said or written in reply                    bir şeye cevap olmak
 appeal to           to ask for sth, usually in an urgent or pleading manner bir şeye başvurmak/istemek 
 appear to           give the impression of being e görünmek/görünür olmak 
 apply to            make a formal application or request e başvurmak 
-adapt to            to modify or adjust sth to fit or work properly with something else / to become familiar or comfortable with sth e uyarlamak / e adapte olmak 
-add to              to make an amount or number greater by adding another amount or numbere eklemek 
+adapt to          adaptation             adapted                   -e uyarlamak / -e adapte olmak 
+add to            addition               added                     -e eklemek
+addict            addiction            
 approach to         come near or nearer to sb or sth in distance or time e yaklaşmak 
 adhere to           to continue to obey a rule or have a belief bir kurala veya inanca bağlı kalmak 
-adjust to           alter or move (something) slightly in order to achieve the desired fit, appearance, or result e uyarlamak / e alışmak 
-admit to            to admit sth / to acknowledge the truth or existence of sth bir şeyi itiraf etmek 
+adjust to         adjustment                                        -e uyarlamak / e alışmak 
 assign to           appoint to a job or duty bir işe veya göreve atamak 
 attachment to       affection, fondness, or sympathy for sb or sth birine veya bir şeye karşı bağlılık 
 alien to            be unfamiliar and disturbing or distasteful to sth e yabancı olmak 
 allege to           to say that sb has done sth illegal or wrong without giving proof iddia etmek 
 attend to           to manage or take care of sb or sth biriyle veya bir şeyle ilgilenmek yada bakmak 
 attentive to        paying careful attention to something bir şeye özenli dikkatli olmak
-attribute to        to believe or say that a situation or event is caused by something atfetmek, bir durumun bir şey tarafından sebep olduğuna inanmak 
+
 approval of         accept sth is good bir şeyin onaylanması durumu 
 ashamed of          be embrassed because of sth bir şeyden utanmak 
 afraid of           feel fear of sth bir şeyden korkmak 
