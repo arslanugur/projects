@@ -29,7 +29,8 @@ big                 bigger                        the biggest       != small - s
 rich                richer                        the richest       != poor - poorer - the poorest
 great               greater                       the greatest
 young               younger                       the youngest
-simple              simpler                       the simplest
+late		    later			  the latest/the last
+early		    earlier			  the earliest
 
 beautiful           more beautiful                the most beautiful
 important           more important                the most important
@@ -187,7 +188,7 @@ I focus too much on the details
 nobody's perfect                                  hiç kimse kusursuz değildir
 take it easy                                      sakin ol, kolay gelsin
 easy-peasy                                        çocuk oyuncağı
-keep your friends close, but your enemies closer. dostlarını yakın tut, ama düşmanlarını daha yakında tut 
+keep your friends close, but your enemies closer. dostlarını yakın tut, ama düşmanlarını daha yakında tut" Godfather
 are you not entertained?                          eğlenmiyor musun?
 the first step is always the hardest              ilk adım her zaman en zorudur
 he is distracted                                  dikkati dağınık
@@ -200,7 +201,7 @@ as usual, you turned up late again                her zamanki gibi, yine geç ge
 I think, we met earlier                           sanırım, daha önce tanışmıştık
 body asleep, mind awake                           vücut uykulu, zihin uyanık
 light is the fastest thing we know                ışık bildiğimiz en hızlı şeydir
-a boy's best friend is his mother.                bir oğlanın en iyi arkadaşı annesidir
+a boy's best friend is his mother		  bir oğlanın en iyi arkadaşı annesidir
 you are the best friend I ever had.               en iyi arkadaşım sensin
 I will try to do my best                          yapacağımın en iyisini yapmayı denerim
 You are the worst person I've ever met            tanıdığım en kötü kişi sensin
@@ -221,6 +222,7 @@ she is broken                                     o kırılmış
 he is broke                                       o meteliksiz
 more important than one man's life is order       bir adamın hayatından daha önemli olan düzendir
 good students becomes good employees, self-learners become employers
+"All animals are equal but some are more equal than others" Animal Farm, G. Orwell
 you can be successful and have enemies or you can be unsuccessful and have friends
 why is this so important to you all of a sudden?  bir anda (ani) neden önemli oldu?       - because I just realized it's really important to me
 I already know all of these, it is not necessary for me. It is necessary for you all
