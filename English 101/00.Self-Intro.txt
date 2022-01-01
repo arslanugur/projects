@@ -653,10 +653,12 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
             
             what have you got in your kitchen/bedroom/bathroom?
-            
+                                    I have got fridge, oven, cupboard, spoon, knife, table in my kitchen
+                                    I have got bed, wardrobe, mirror, table, carpet in my bedroom
+                                    I have got toothbrush, soup, slipper in my bathroom
             what is your favorite food?
-                                    my favorite food is pizza, burger, fried potatoes, kebab, 
-            
+                                    my favorite food is pizza, burger, fried potatoes, kebab, rice
+                                    
             what is your favorite colour?
                                     my favorite colour is red and black
             
@@ -668,27 +670,30 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             
             how often do you go out?
                                     I go out four times a week
-            
+                                    I go out twice a week
             when do you use a car?
                                     I use the car every morning and evening
-                                    I cannot use a car becuse I have no driving license
+                                    I cannot use a car because I have no driving license
             
             how often do you drive your car?
                                     I use my car when I need to get a place, maybe ten times a week
             
             where do you go shopping?
                                     I go shopping to the mall or sometimes online 
-            
+
+            when do you go shopping?
+                                    I go shopping at the weekend
+                                    I don't go shopping, because I buy things online
+
             what time does your English lesson start?
-                                    my English lesson starts at two in the afternoon
+                                    My English lesson starts at two in the afternoon
             
             when do you use the internet?
                                     I use the internet at the weekend
             
             how often do you use the internet?
                                     I use the internet every day
-            
-            I don't use internet much
+                                    I don't use internet much
             
             what is your husband/wife/boyfriend/girlfriend's name?
                                     my husband/wife/boyfriend/girlfriend's name is ...
@@ -717,20 +722,18 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
       
             what time do you get up in the morning?
                                     I get up at seven in the morning
+            when do you start the day?
+                                    at half past seven in the morning
+            how do you start the day?
+                                    I start the day sometimes good and bad  
             
-            when do you go shopping?
-                                    I go shopping at the weekend
-                                    I don't go shopping, because I buy things online
-            
-            where do you go shopping?
-                                    I go shopping at Park City
-      
             how many brothers and sisters do you have?
                                     I have one brother
             
             who is your best friend?
                                     my best friend is ABC
-      
+                                    s/he studies
+                                    I walk around with her/him
             how many people in your family?
                                     there are five people in my family
             
@@ -742,15 +745,14 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             
             what do you do at the weekend?
                                     I meet with my frinds at the weekend
-      
+                                    I go out for English Course, Shopping Mall
             what subjects do you like at school?
                                     I like Maths, English
             
             how do you go/travel to school/work?
                                     I go to school by bus
-            
-            when do you start the day?
-                                    at half past seven in the morning
+                                                   by walking
+                                                   
       
 
 
