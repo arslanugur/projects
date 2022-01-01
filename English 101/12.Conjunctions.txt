@@ -573,23 +573,31 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		providing that		sağlanması şartıyla, koşuluyla
 		so long as		sürece
 		as long as		sürece
-						as long as it takes - ne kadar gerekirse
-		unless			olmazsa		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
-					
+						This should work, as long as they haven't changed the password.
+							Şifreyi değiştirmedikleri müddetçe, bu işe yarayacaktır.
+						As long as it takes - ne kadar gerekirse
+						Everything will be fine as long as we stay outside the bubble.
+							Balondan uzak durduğumuz sürece her şey yolunda gidecektir.
+		unless			olmazsa, olmadıkça, tabi		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
+						Not unless there was something else			Tabi başka bir şey varsa o ayrı
+						That's impossible, unless they're still in town		Bu imkansız, tabii hala kasabada değillerse
 		if			eğer
-						we got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
-						dairemizin dışında kaldık. çilingir gelene kadar burada beklememizin bir sakıncası var mı? 
+						We got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
+						Dairemizin dışında kaldık. çilingir gelene kadar burada beklememizin bir sakıncası var mı? 
 		only if			yalnızca
 		assuming that		varsayarsak
 		in that case		bu durumda
-		in case (that)		durumunda
+		in case (that)		durumunda, halinde
 						in case he comes back, what are we supposed to do?
+						And I just needed you to know that in case.. 	Bu durumda şunu bilmem gerekiyor..
 		even if			olsa bile
 		in the event (that)	durumunda
 		supposing		varsayalım
 		if so			eğer öyleyse
 		whether or not		öyle ya da böyle
-		in order to		amacıyla
+		in order to		amacıyla, -mek için, diye
+						People devised shelters in order to protect themselves.
+							İnsanlar kendilerini korumak için sığınaklar tasarladı.
 		so that			böylece
 		otherwise		aksi halde
 		or (else)		veya (başka) 
