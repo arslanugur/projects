@@ -63,8 +63,21 @@ Future Simple		(Gelecek Zaman)		he will watch us	they will see him
 
 
 ---> S + V + O
-	Turkish: Kahve içerim		English: I drink coffee
-		   O    V   S			 S   V     O
+
+	# English versus Turkish way of thinking about making sentence
+
+			kahve  içersin			güneş, kendi etrafında döner			o şehrin üstünde uçuyordu
+			-----  ----- ---		-----  ----- --------- -----	       		- ------ ------- --------
+Turkish Mentality	nesne   fiil özne		özne   nesne   edat     fiil			Ö    N      e        F
+			  O	 V    S			 S      O       p        V			S    O      p        V
+			coffee  drink you		sun,   itself  around   revolve        		he  city   over   was flying
+---------------------------------------------------------------------------------------------------------------------------------------
+			you drink coffee		sun   revolves around  itself			he  was flying over  the city
+			--- ----- ------		----  -------- ------  -------			--- ---------- ----- ---------
+English Mentality	özne fiil  nesne		özne    fiil    edat    nesne			özne   fiil     edat   nesne
+			  S    V     O			  S       V      p        O			  S      V        p      O   
+
+
 
 
 	SUBJECT					     VERB			    	OBJECT			ADVERB			     	( in , at, on )
@@ -84,17 +97,6 @@ plural		you										you		happily 	at the station	on the weekend
 
 
 
-
-			Turkish Mentality	Güneş, kendi etrafında döner.
-						-----  ----- --------- -----
-						özne   nesne   edat     fiil
-						  S      O      p         V
-						 sun,  itself  around  revolve
-			-----------------------------------------------------
-			English Mentality	Sun   revolves around itself
-						----  -------- ------ -------
-						özne    fiil    edat   nesne   
-						  S      V       p       O
 						
 
 
