@@ -1174,7 +1174,7 @@ what an as**ole - pu**un *e*i
 			Ödül			     000				   ###		       ###			
 			Statü			     ###		OOO		   ###		       ###			###		       ###
 			Başarı			     ###		###		   OOO		       ###			###		       ###
-			Kendini İfade Etme								       ###			OOO
+			Kendini İfade Etme						   ###		       OOO
 			Rekabet			     ###		###		   ###		       ###			OOO		       ###	
 			Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
 	
