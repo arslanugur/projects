@@ -4193,6 +4193,114 @@ Sound Editor, Electronic Translator, Dialogue, Songs, Radio Program
 				-Performance test: Performans ölçer
 
 
+	Öğrenci kime ya da neye göre başarılı anlamak için bazı kavramlar var 
+		1.Criterion-referenced Assesment	 (Mutlak değerlendirme)
+			-değerlendirmeden önce mutlak bir ölçüt belirlenmelidir
+			-kritere göre başarı belirlenir
+			-ölçüt kesindir ve değişmez
+			(yazılı sınavdan 70 alan başarılı gibi)
+
+		2. Norm-referenced Assessment		(Bağıl değerlendirme)
+			-değerlendirmeden sonra belirlenir
+			-öğrenciler birbirinin puanından etkilenir
+			(sınıf ortalmasının üzerinde olan başarılıdır)
+
+		3. Individual-referenced Assessment	(Bireysel değerlendirme)
+			-bireyin kendi gelişimi söz konusudur
+-			öğrenmeden önceki bilgi seviyesi ile öğrendikten sonraki bilgi seviyesi farkı önemlidir
+
+
+	Characteristic of a good test
+		1. Reliability (Güvenilirlik)
+			-ölçme aracının hatasız ölçme yapabilme becerisine denir
+			-tutarlılık esastır
+			-aynı araçla peşpeşe yapılan ölçmede sonuç değişmiyorsa yapılan ölçme güvenilir demektir
+			-ölçmeyi yapan kişi de güvenilir olmalıdır
+			-a test should give coherent results at different times/places
+			-the results of test should be consistent in terms of its scores when applied to the same learners at different times
+			-a test should give similar results when applied to different learners
+
+			 bir test uygulayıp, bir ay sonra tekrar benzer sonuçlar elde ediliyorsa, bu test güvenilirdir
+
+			-test farklı kişiler tarafından uygulanıp, birbirine yakın sonuçlar elde ediliyorsa bu “interrater reliability”
+			Inter-rater reliability
+				-two raters(teachers) apply the test and the scores are similar
+			Intra-rater reliability
+				-a rater applies the test at different times and results are similar
+
+
+		2. Validity (Geçerlilik)
+			-ölçme aracının amaca hizmet etme derecesi
+			-sadece derste ulaşmak istediğimiz hedef davranışlar ölçülmeli, ölçmeye başka özellik karıştırılmamalıdır
+			-aynı zamanda bilenle bilmeyenin ayırt edilmesi anlamına gelir
+			-how well a test measures what it intends to measure
+			-to what extent a test is related to what in intends to measure
+			-a test should measure what intends to measure correctly and effectively
+
+			# Content Validity (kapsam geçerliliği)
+			-testte işlenen konularla ilgili yeterli ve dengeli sayıda soru sorulması kapsam geçerliliğinin yüksek olduğunu gösterir
+			-a test should be representative of and related to what it intends to measure
+			-the test items must be connected with the content taught
+			-işlemediğini sormamak
+
+			# Face Validity (görünüş geçerliliği)
+			-ölçme aracının ölçülmek istenen ne derece ölçüyor göründüğüdür
+			-örneğin fizik testi yazan testin örneklerinde fizik sayılarının olması, soruları içermesi
+			-a test appears to measure what it intends to measure
+			-it is about apperance
+			-how the test seems
+			-clear, readable, well-designed tests
+
+			# Predictive Validity (yordama geçerliliği)
+			-bir ölçme sonucunun gelecekle ilgili tahminidir
+			-önceden bilgi sağlayabilmesidir
+			-bugün yapılan test ile gelecek hakkındaki başarı konusunda tahmin etmek
+			-a test has predictive validity if it predicts learners’ performance in future tests or situational test accurately
+
+
+			# Concurrent Validity (Vardama geçerliliği)
+			-bugün yapılan test sonucuyla geçmişte yapılan test sonucunu karşılaştırmak 
+			-daha önce kullanılmış olan ve geçerli olduğu tespit edilen başka bir testle, hazırlanan test karşılaştırılır
+			-iki test arasındaki uygunluk belirlenir
+			-a test should give similar results compared to an existing test of assessment of performance
+			-it should be compatible with other tests measuring the same skills or performance
+
+			# Construct Validity (Yapı geçerliliği)
+			-ölçme aracının soyut özellikleri (zeka-ilgi-bilgi-tutum) ölçebilme becerisidir
+			-a test should measure what it intends to measure by utilizing learning theories and principles – alanla ilgili
+			-integrating the theories or hypothesis into the construct of a test
+
+	
+		3. Practicality (Kullanışlılık)
+			-ölçme aracının maliyet, zaman, emek açısından ekonomik olmasıdır
+			-a test should be practical to apply
+			-it must be administered easily
+			-it must be time cost effective
+			-it must be interpreted and scored easily 
+
+		4. Discrimination (Ayırt edicilik)
+			-bilenle bilmeyeni ayırt etmeli
+			-a test should differentiate between learners in terms of performing well
+			-differentiating those doing something better from those performing bad
+
+		5. Authenticity
+			-Test items and tasks should be related to real life situations in the target language
+
+
+		Washback/Backwash Effect
+			-kapsam geçerliliğini etkiler
+			-the effect of testing or assessment on teaching, syllabus design, teaching method
+			-formulating the teaching process according to testing
+			-bir sınavın, bir derse olan etkisine verilen isimdir
+			-olumlu veya olumsuz olabilir 
+			Positive washback
+			-sınavın bir derse olumlu etkisidir – sınavın derse göre dizayn edilmesi
+			-the effect of testing fosters learning
+			-focusing on extra skills to get prepared for testing
+			Negative washback
+			-sınavda çıkmadığı için okul ve öğretmenler o dersi önemsemezse olumsuz etki olur
+			-the effect of testing inhibits learning
+			-certain skill or skills are not taught or practiced due to the nature of a test
 
 
 
