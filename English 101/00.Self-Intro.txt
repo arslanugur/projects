@@ -478,11 +478,17 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             what did you do last night?
                                     I watched TV last night
                                     I talked with my friend
+				    I was at school, after that I got back home
+            how often do you meet with your friends?
+			I meet with my friends four times a week
+			
 
-            how often do you do with your friends?
+            how often do you go out with your friends?
+                        I go out with my friends every evening 
 
-            how often do you have an English lesson?
-                        
+	    how often do you have an English lesson?
+          		I have an English Lesson twice a week
+			
             how often do you go out?
                                     I go out twice a day / a week / a month / a year
                                     I go out every day
@@ -490,9 +496,6 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
 
             how do you make friends before you go to Poland?
                                     I made friends online before I go to Poland
-
-            how often do you go out with your friends?
-                                    I go out with my friends every evening 
 
             what do you do in your free time?
                                     I listen to music in my free time
@@ -578,60 +581,82 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     Because, it's a historical and cultural city
             
             would you like to live in a city or a town?
+	    				
             
             what do you like most about your town/city?
-      
+      					My city is very quiet and not overcrowded, therefore I like here
+					
             would you like to move to another city/town?
-                                    Yes, i would like to move to another city
-            
+                                    	Yes, i would like to move to another city
+				    	No, I wouldn't like to move anywhere else
+				    
             what would you like to change in your city/town?
-            
+	    				I would like to see some cultural events in my city
+			
             how do you usually go/walk/get around?
+            				I walk around the city centre by walking everyday
+					I get around the city by a car 
             
-            do you spend a lot of time at work?
-            
+	    do you spend a lot of time at work?
+            				I am at work between eight am and five pm
+					
             why do you watch videos/movies/series on Netflix/Youtube?
-            
+            				
             what is your brother/sister/husband/wife/boyfriend/girlfriend like?
-            
+            				my brother/sister/husband/wife/boyfriend/girlfriend is ...
+					
+					
             what do you do to have fun with your family?
             
             do you see your family a lot?
+					I generally see my family a few times a day
             
             do you live with your parents?
+	    				I live with my parents
+					I don't live with my parents
+					I live alone/single
             
             do you spend a lot of time outside the home with your family?
-            
+            				Not much. only at weekends. Usually we walk around the city centre
+					
             where can i buy a mobile phone?
-                                    you can buy a mobile phone from store
-
+                                    	you can buy a mobile phone from any store
+					
             how do you travel to places?
-            
+            				I travel to places by walking
+							   by car
+							   by bus
+							   
             what time do you usually go to bed?
-                                    I usually go to bed at eleven 
+                                    	I usually go to bed at eleven 
             
             when is your birthday?
-                                    my birthday is 25th January
+					my birthday is 25th January
             
             when do you go on holiday?
-                                    I go on holiday every summer
+                                    	I go on holiday every summer
             
             what weather do you like?
-                                    I like sunny/rainy/cloudy
+                                    	I like sunny/rainy/cloudy
             
             how do you usually get around?
+	    				I usually get around with my parents
+							     with my friends
+							     with my boy friend / girl friend
             
             what are you doing this weekend?
-            
+	    				I should go to another city this weekend
+            				I am going to meet with my friends this weekend
+					
             what music do you like?
                                     I like Rock music
             
-            are you good at English?
+            Are you good at English?
                                     yes, I'm quite good at English
                                     no, I'm bad at English
                                     I'm trying to learn English
                                     I can speak English fluently
-            what is your job?
+            What is your job?
                                     my job is ... 
                                     I am a/an Architect/Teacher/Engineer
                                     I am a Boss / I have my own shop/school/factory
@@ -724,9 +749,11 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
       
             what time do you get up in the morning?
                                     I get up at seven in the morning
-            when do you start the day?
+            
+	    when do you start the day?
                                     at half past seven in the morning
-            how do you start the day?
+            
+	    how do you start the day?
                                     I start the day sometimes good and bad  
             
             how many brothers and sisters do you have?
@@ -736,7 +763,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     my best friend is ABC
                                     s/he studies
                                     I walk around with her/him
-            how many people in your family?
+            
+	    how many people in your family?
                                     there are five people in my family
             
             what weather do you like?
@@ -748,7 +776,8 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             what do you do at the weekend?
                                     I meet with my frinds at the weekend
                                     I go out for English Course, Shopping Mall
-            what subjects do you like at school?
+            
+	    what subjects do you like at school?
                                     I like Maths, English
             
             how do you go/travel to school/work?
@@ -777,21 +806,21 @@ STUDENTS' EXTRA NOTES
 
 
 ---> Different Type Speaking Topics for Students
-      what do you want to be in your future
+      what do you want to be in your future?
       what is your dream for your future?
       what field do you want to improve yourself? 
       what field in the university do you want to study?                           field = department
       
       what do you think about ...
 		           your city
-                                   country
-                                   future
-                                   life
-                                   personality
-                                   friends
-                                   teachers
-                                   school
-                                   work
+                                country
+                                future
+                                life
+                                personality
+                                friends
+                                teachers
+                                school
+                                work
                                     
       do you have any plan about your life?
       what causes the expansion of big cities?
