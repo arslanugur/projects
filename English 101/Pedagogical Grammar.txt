@@ -10,11 +10,11 @@ Pedagogical Grammar (and Profiency) 25 Questions
 > Part of Speech
 ---> NOUNS
 		Singular vs Plural Nouns: 
-                	analysis-analyses           crisis-crises                     thesis-theses
-                	phenomenon-phenomena        criterion-criteria                datum-data
-                	bacterium-bacteria          appendix-appendices/appendixes	  memorandum-memoranda
-                	basis-bases                 hypothesis-hypotheses             medium-media
-                	parenthesis-parantheses     synthesis-syntheses               curriculum-curricula
+                	analysis-analyses           crisis-crises                     	thesis-theses
+                	phenomenon-phenomena        criterion-criteria                	datum-data
+                	bacterium-bacteria          appendix-appendices/appendixes	memorandum-memoranda
+                	basis-bases                 hypothesis-hypotheses             	medium-media
+                	parenthesis-parantheses     synthesis-syntheses               	curriculum-curricula
 
 		Possessive Nouns    ‘s
 			A type of noun added an apostrophe to Show ownership
@@ -76,30 +76,35 @@ Pedagogical Grammar (and Profiency) 25 Questions
 
 
 ---> VERB
-		Transitive Verbs – geçişli -  nesneli  a verb that takes a direct object
-			“he eats sugar and cake” “she like coffee
-		-Mono Transitive Verbs take only one direct object –he plays basketball
-		-Ditransitive Verbs take both a direct and a indirect -  çift geçişli
-			“he have a book to me”
-			“she sends a letter to her best friend”
-			“you need to give him some money”
+		Transitive Verbs
+			Geçişli -  Nesneli - a verb that takes a direct object
+				“he eats sugar and cake” “she like coffee
+			- Mono Transitive Verbs
+				take only one direct object
+				"he plays basketball"
+			- Ditransitive Verbs 
+				take both a direct and a indirect - çift geçişli
+				“he have a book to me”
+				“she sends a letter to her best friend”
+				“you need to give him some money”
 			
-		-Complex Transitive Verbs take a direct object and an object complement
-			“everybody regards him as a good man”
-			“he named her son Michael”
-			“I found the movie boring” nesne tamamlayıcı vardır
+			- Complex Transitive Verbs 
+				take a direct object and an object complement
+				“everybody regards him as a good man”
+				“he named her son Michael”
+				“I found the movie boring” nesne tamamlayıcı vardır
 		
-		- Intransitive – geçişsiz
-			a verb that does not take a direct object
-			“he is coughing too much”
-		  	“lots of people died because of the disease”
-		  	“she lives there”
+		Intransitive Verbs
+			Geçişsiz - a verb that does not take a direct object
+				“he is coughing too much”
+		  		“lots of people died because of the disease”
+		  		“she lives there”
 	
-		- Ergative Verbs
+		Ergative Verbs
 			a verb that can be used both as transitive and intransitive verb
 		  		“break”, “he broke the vase”, “the glass broke”
 		
-		- Copular Verbs (Linking Verb)
+		Copular Verbs (Linking Verb)
       			Kendinden sonra gelen sıfatı fiilleştirir. (2014)
 			Özne ile özneyi niteleyen kelimeyi bağlamak
 			Yüklemi isme ya da sıfat bağlı olan filler
@@ -160,7 +165,6 @@ Pedagogical Grammar (and Profiency) 25 Questions
 		        be, have, do, may, might, will, should, must, can, could, would
 		        using modal verbs
 	        
-		
 		- Action Verbs (Things we do, Things that happen)
         		to do, to have, to walk, to run, to jump,   oto carry, to sit, to stand
 	        
