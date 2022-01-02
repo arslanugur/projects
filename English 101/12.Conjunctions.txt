@@ -581,6 +581,7 @@ CONJUNCTIONS (CONNECTORS, LINKING WORDS)									     prepared by Uğur ARSLAN, 
 		unless			olmazsa, olmadıkça, tabi		 (kendisi olumsuz olduğu için devamındaki cümle olumsuz olmaz)
 						Not unless there was something else			Tabi başka bir şey varsa o ayrı
 						That's impossible, unless they're still in town		Bu imkansız, tabii hala kasabada değillerse
+						Women can't drive you unless you give them your keys 
 		if			eğer
 						We got locked out of our apartment. would you mind if we waited in here until the locksmith comes?
 						Dairemizin dışında kaldık. çilingir gelene kadar burada beklememizin bir sakıncası var mı? 
