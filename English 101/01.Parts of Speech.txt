@@ -10,7 +10,7 @@ Adverb	      	Zarf		--> describe a verb, adjective, adverb	silently, badly, real
 Adjective     	Sıfat		--> describes a noun	                big, silent, bad, good
 Preposition   	Edat		--> links a noun to another word	in, at, on
 Conjunction   	Bağlaç		--> joins clauses or sentences	        but, because, and, while, when
-Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG!	
+Interjection  	Ünlem		--> short exclamation 	                Oh!, Hi!, Ouch!, Wow!, OMG, OMGodness! , My Gosh!, Huh!, Ale!
 Determiner	Niteleyici	--> indicate reference			- - -
 
 
