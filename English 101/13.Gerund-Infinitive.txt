@@ -1,27 +1,60 @@
-GERUND  --> preposition + gerund                                                                                                                        prepared by Uğur ARSLAN
-admit           kabul etmek, itiraf etmek                                                                                                                         @arslanuguur
-anticipate
-appreciate      takdir etmek
-avoid           kaçınmak
-begin           başlamak
-start           başlamak
-continue        devam etmek
-consider        düşünmek
-complete        tamamlamak
-finish          bitirmek
-contemplate
-deny            reddetmek
-delay           ertelenmek
-postpone        ertelemek
-detest
-discuss         tartışmak
-dislike         hoşlanmamak
-escape          kaçmak, kurtulmak, firar etmek
-enjoy           keyfini çıkarmak
-excuse*         
-finish          bitirmek
-involve         kapsamak
+                                                                                                                    prepared by Uğur ARSLAN, @arslanuguur
+
+---> Fillden isim yapma
+INFINITIVE        --- to go
+GERUND            --- going
+
+
+                      GERUND                                                                  INFINITIVE    
+                    
+                    V       Ving                                                           V      TO      V  
+            -------------------------->                                             -------|--------------|----->
+                     action 1                                                           action 1       action 2
+                     action 2
+
+
+GERUND  --> preposition + gerund                                                INFINITIVE --> noun/pronoun + infinitive
+admit           kabul etmek, itiraf etmek                                            appear        gözükmek, görünmek
+anticipate                                                                           agree         katılmak
+appreciate      takdir etmek                                                         advise	       öğüt vermek
+avoid           kaçınmak                                                             ask	          sormak
+begin           başlamak                                                             demand        talep etmek, istemek
+start           başlamak                                                             arrange	      düzenlemek
+continue        devam etmek                                                          can afford 
+consider        düşünmek                                                             beg
+complete        tamamlamak                                                           choose/prefer seçmek
+finish          bitirmek                                                             consent 
+contemplate                                                                          claim
+deny            reddetmek                                                            care
+delay           ertelenmek                                                           dare
+postpone        ertelemek                                                            decide        karar vermek
+detest                                                                               deserve
+discuss         tartışmak                                                            expect        ümit etmek
+dislike         hoşlanmamak                                                          wait
+escape          kaçmak, kurtulmak, firar etmek                                       hope	         ummak
+enjoy           keyfini çıkarmak                                                     endeavor
+excuse*                                                                              fail
+finish          bitirmek                                                             happen	       olmak
+involve         kapsamak                                                             hesitate 
 imagine         hayal etmek
+                                                                                     know	         bilmek
+                                                                                     learn	        öğrenmek
+                                                                                     manage	       yönetmek, idare etmek
+                                                                                     mean
+                                                                                     offer
+                                                                                     plan	         planlamak
+                                                                                     promise       söz vermek
+                                                                                     prove
+                                                                                     proceed
+                                                                                     pretend
+                                                                                     prepare	      hazırlamak
+                                                                                     refuse	       reddetmek
+                                                                                     seem 
+
+
+
+
+
 keep            tutmak, korumak, muhafaza etmek
 look forward to dört gözle beklemek, iple çekmek
 lose            kaybetmek
@@ -87,41 +120,9 @@ profit from
 
 
 INFINITIVE --> noun/pronoun + infinitive
-appear        gözükmek, görünmek
-agree         katılmak
-advise	       öğüt vermek
-ask	          sormak
-demand        talep etmek, istemek
-arrange	      düzenlemek
-can afford 
-beg
-choose/prefer seçmek
-consent 
-claim
-care
-dare
-decide        karar vermek
-deserve
-expect        ümit etmek
-wait
-hope	         ummak
-endeavor
-fail
-happen	       olmak
-hesitate 
-know	         bilmek
-learn	        öğrenmek
-manage	       yönetmek, idare etmek
-mean
-offer
-plan	         planlamak
-promise       söz vermek
-prove
-proceed
-pretend
-prepare	      hazırlamak
-refuse	       reddetmek
-seem 
+
+
+
 struggle
 swear 
 tend
