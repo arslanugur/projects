@@ -88,10 +88,10 @@ ON / AT THE BOTTOM OF - altında	these fish live along the bottom of the ocean
 						son yıllarında huysuz olabilir ama özünde yumuşak bir kalbi vardı
 				the bottom line is, he is family – Sonuçta (alt çizgi), o aileden
 
-turn 	to the left / right
-	from the left / right
-	on your left / right
-	on the left / right
+turn 	to the left / right		sola / sağa dön
+turn 	from the left / right		soldan / sağdan dön
+	on your left / right		solunda / sağında
+	on the left / right		solda / sağda
 
 turn the lights on	switch on the light
 turn the lights off	switch off the light
@@ -235,7 +235,7 @@ REGARDING - hakkında, ilişkin
 
 -------------------------------
 BETWEEN - arasında (2 things)	He is standing between them
-
+				I have been a lawyer for 30 years. All cases were between people who trusted each other.
 AMONG - arasında (3+ things)	The rabbit is hiding among the bushes 
 
 AMONGST - içinde	
