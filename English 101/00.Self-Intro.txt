@@ -12,9 +12,6 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
 10- Fun Fact about yourself
 
 
-
-
-
 1 --> GREETINGS
             Hey!
             Hello!
