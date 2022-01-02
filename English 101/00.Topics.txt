@@ -155,12 +155,13 @@ Robots versus Humans		-	Robotlar, İnsanlara Karşı
 		ve strese girmez, yorulmaz veya daha kolay ve daha yüksek ücretli bir iş için bir yere taşınmaz. 
 
 
-
+---> YAKINDA TAMAMLANANCAK KONULAR
 Climate Change			-	İklim Değişikliği
 
 Artificial Intelligence		-	Yapay Zeka
 
 Social Media			-	Sosyal Medya
+						What do you think of social media sites, like Facebook and Twitter?
 
 Online Education		-	Çevrimiçi Eğitim
 
@@ -180,9 +181,74 @@ Air Pollution			-	Hava Kirliliği
 
 Cryptocurrency			-	Kripto Para
 
+Blockchain			-	Block Zincir
 
 
 
+The Internet
+	What kind of websites do you usually visit?
+	What was the last video you watched about?
+	Which apps do you use most often? (Why?)
+	Do you communicate with friends via the internet?
+
+Fitness
+	How do you keep fit on a daily basis?
+	What do you find most difficult about keeping fit? (Why?)
+	When do you find time to train?
+	What do you enjoy most about training?
+	How much exercise do you do every week?
+	Would you ever join a gym? (Why? / Why not?)
+	
+Family
+	How often do you see your family?
+	When do you get to see family members you don't often see?
+	How do you keep in touch with your family?
+	Why do you think family is important?
+	
+Times of day
+	Which is the best time of day for studying? (Why?)
+	How much of the day do you spend outside the home?
+	When do you usually have some time to relax?
+	Is there any time of day you don't really like? (Why?)
+	How often do you watch the news on telly?
+	
+Food and Drink
+	How often do you eat fast food?
+	Tell me about your favorite restaurant
+	
+Your Home
+	What kind of building do you live in?
+	What sort of area do you live in?
+	
+The Weather
+	What is winter like in your country?
+
+Jobs
+	What would be the perfect job for you? (Why?)
+	How are you getting on with your colleagues?
+	Do you enjoy working on your own or in a team? (Why?)
+	Tell me what you could change about your work if you could
+	What makes a good boss?
+	Which is more important to you, your career or your personal life?
+	
+Shopping
+	Why is shopping online so popular?
+	What do you think it would be like to work in a big department store during the sales?
+	Is it better to go shopping alone or with other people? (Why?)
+	What are the main things to consider when buying a present for someone?
+
+Customs
+	Why is it important to keep traditions and customs?
+	Why do people enjoy celebrating customs?
+	Is it possible to create new customs (Why?)
+	What kind of things do people do to prepare for a speacial occasion?
+	
+	
+	
+
+	
+	
+	
 
 
 
