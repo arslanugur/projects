@@ -4590,6 +4590,15 @@ TASK-BASED LANGUAGE LEARNING
         Opinion Exchange Tasks:
               Learners exchange their ideas, but not to reach an agreement.
 	      
+CONTENT-BASED INSTRUCTION
+	There are a number of description activity types in CBI. 
+		Language skill improvement
+		Vocabulary building
+		Discourse organization
+		Communicative interaction
+		Study skills 
+		Synthesis of content materials and grammar
+
 	      
 	      
 	      
