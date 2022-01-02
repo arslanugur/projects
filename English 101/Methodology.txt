@@ -4305,5 +4305,294 @@ Sound Editor, Electronic Translator, Dialogue, Songs, Radio Program
 
 
 
+--->  TECHNIQUES in ELT
+WHAT IS TECHNIQUE?
+    A technique is implementational which actually takes place in a classroom.
+    According to Edward Anthony’s model, technique is the level at which classroom procedures are described.
+    At the level of procedure, technique explains  how tasks and activities are integrated into lessons.
+    Why do teachers use techniques in the classroom?
+    Teachers use techniques as a tool for teaching. Teachers can achieve the goals of the lesson by the careful  delivery of techniques. 
+    Using techniques that appeal to the interests of students can promote the success of the class.
 
+TYPES OF TECHNIQUES
+    Controlled techniques:      They are mostly teacher centered. Both the teacher and students know what they will do during the activities. 
+    Semi-Controlled techniques: The teacher interferes only when necessary.
+    Free techniques:            The teacher doesn’t direct the students are free in their activities. 
+
+
+
+
+GRAMMAR-TRANSLATION METHOD
+        Translation of a literary passage: 
+              The translation may be written or spoken or both. 
+              The class focuses on vocabulary and grammatical structures. 
+              Students should not translate idioms and like the literary, but rather their understanding of the meaning is important. 
+
+          Reading comprehension questions:
+              There are three kinds of group of questions: 
+              First group of questions, students ask for information contained within the reading passage.
+              Second group of questions, students will have to make inferences from the passage.
+              Third group of questions, students are required to relate the passage to their own experience. 
+
+          Anonyms/Synonyms:
+              Students might be asked to find anonyms or synonyms in the passage. 
+              Students might be asked to define a set of words based on their understanding in the passage.
+              Students might be asked to work with the vocabulary of the passage.
+
+          Cognates: 
+              (similar spelling and sound patterns that correspond in L1/L2.)
+              Students are taught to recognize cognates in the passage.
+              Students are asked to memorize cognate words and their meaning in target language.
+
+          Deductive application of rule: 
+              Grammar rules are presented with examples. 
+              Later students are asked to apply grammar rules to some different examples. 
+
+          Fill-in-the-blanks: 
+              Students are given a serios of sentences with words missing.
+              They fill in the blanks with new vocabulary idioms or with items of a particular grammar type such as prepositions or verbs with different tenses. 
+
+          Memorization: 
+              Students are given lists of target language vocabulary words and their native language equivalents.
+              Students are asked to memorize the given words.
+              Students are also required to memorize grammatical rules and grammatical paradigms such as conjugations. 
+
+          Use words in sentences: 
+              Students make up sentences in which they use new words.
+
+          Composition: 
+              The teacher gives the students a topic to write about in the target language. 
+              The topic is based upon some aspect of the reading passage of the lesson.
+
+
+
+THE DIRECT METHOD
+          Reading aloud:
+              Students take turns reading sections of a passage or dialog out loud.
+              Teachers make the meaning of the section clear with gestures, pictures, realia…
+
+          Question and answer exercise:
+              Students are asked question and answer in full sentences.
+
+          Getting students to  self-correct: 
+              Students make a choice between what they said and an alternative answer.
+              Teachers help students correct themselves. 
+
+          Conversation practice:
+              The teacher asks students a number of questions in the target language.
+              These questions can be individual.
+          Fill-in-the-blank exercise: 
+			
+          Dictation:
+              The teacher read the passage three times.
+              *At first at a normal speed,
+              *Second time phrase by phrase and pausing,
+              *The last time at a normal speed again.
+
+          Map drawing:
+              Students are given a map with geographical features unnamed. 
+              Teacher give directions to students.
+
+          Paragraph writing:
+              Students are asked to write a paragraph in their own words.
+
+
+
+THE ORAL APPROACH AND SLT
+          Listening Practice: 
+              The teacher obtains his student’s attention and repeats. 
+          Choral Imitation: 
+              Students all together or in large groups repeat what the teacher has said.
+          Individual Imitation:
+              The teacher asks several individual students to repeat the model.
+          Isolation:
+              The teacher isolates sounds, words, or groups of words which cause trouble.
+          Building up to a new model:
+              The teacher gets students to ask and answer questions using patterns.
+          Elicitation:
+              The teacher using mime, prompt words, gestures, etc. to ask questions.
+          Substitution Drilling: 
+              The teacher uses cue words (words, pictures, numbers, names, etc.)
+          Question-Answer Drilling:
+              All the students practice asking and answering the new question form.
+          Correction: 
+              If there are mistakes or errors, the teacher invites the students correct them.
+
+
+THE AUDIO-LINGUAL METHOD
+          Dialog memorization: 
+              Dialogs or short conversations between two people are often used in lesson. 
+              In this method, certain sentence patterns and grammar points are included within the dialog.
+
+          Backward build-up (expansion) drill:
+              This drill is used when a long line of a dialog is giving students trouble.
+              The teacher breaks down the line into several parts.
+
+          Repetition drill: 
+              Students repeat the teacher’s model as accurately and as quickly as possible to learn the lines of the dialog.
+
+          Chain drill: 
+              The teacher begins the chain by greeting particular student, or asking him a question.
+              It allows some controlled communication, even though it is limited.
+
+          Single-slot substitution drill:
+              The teacher says a line from the dialog.
+              The students repeat the line, substituting the cue into the line in its proper place. 
+          
+          Multiple-slot substitution drill:
+              The teacher gives cue phrases that fit into different slots in the dialog line.
+              The students must recognize what part of speech each cue is.
+
+          Transformation drill:
+               The teacher gives students a certain kind of sentence pattern.
+               Students are asked to transform a sentence into a negative sentence.
+               
+          Question-and-answer drill:
+                This drill gives students practice with answering questions.
+
+          Use of minimal pairs:
+                The teacher works with pairs of words which differ in only one sound.
+                Students are first asked to difference between the two words and later to be able to say the two words.
+
+          Complete the dialog:
+                Selected words are erases from a dialog.
+                Students complete the dialog by filling the blanks with the missing words.
+
+          Grammar game:
+                The games are designed to get students to practice a grammar point within a context.
+                Students are able to express themselves.
+
+
+TOTAL PHYSICAL RESPONSE
+                Using commands to direct behavior
+                Teacher gives commands to class
+                To clarify meaning, teacher performs the actions with class.
+                Later, teacher let perform the actions alone. 
+
+                Role Rehearsal:
+                Students commands to their teachers or classmates.
+                This encourages students to speak.
+
+                Action Sequence:
+                The more students learn target language, the longer connections can be given.
+                For example:
+                Take out pen
+                Take out a piece of paper
+                Write a letter (imagery)
+                Fold the letter
+                Put it in an envelope
+                Seal the envelop
+                Write address on the envelop.
+                Put stamp on the envelop
+                Mail the letter.
+
+
+
+SILENT WAY
+                Sound-color chart
+                      Each color symbolizes one sound.
+
+                Teacher is silence:
+                Peer correction:
+                      It’s important to be cooperative than competitive.
+                Self-correction:
+
+                Word chart:
+                      Teacher points on the chart.
+                      Colors represent the same sounds.
+
+                Fidel chart:
+
+                Structured feedback:
+                      Students listen each other and learn form each other.
+
+
+
+SUGGESTOPEDIA
+                Classroom set-up:
+                Peripheral learning:
+                      With posters-which contains grammatical structures- on the wall students learn effortlessly.
+                Positive suggestion:
+                      Direct suggestion
+                      Indirect suggestion
+                Choose a new identity:
+                Role-play:
+
+                First concert:
+                      Teacher reads a dialog to call students attention to some particular grammar points
+                Second concert:
+                      Teacher simply reads dialog.
+
+
+WHOLE LANGUAGE
+                Individual and small group reading and writing:
+                      The students read literature and they read from the authentic materials. 
+                      The students create a story, they write letters etc.  
+
+                Ungraded dialogue journals:
+                      The teacher respond regularly to what students write. 
+                Writing portfolios/conferences/ a story:
+                      The students write their own experiences in a story and put them into portfolios. 
+                      While they are writing, they should think through and list what strategies, background knowledge, and special resources are needed to reproduce.  
+
+
+
+MULTIPLE INTELLIGENCES
+                Logical/mathematical:
+                       the ability to use numbers effectively, to see abstract patterns and to reason well.
+                Visual/spatial:
+                       the ability to orient oneself in the environment, to create mental images, and a sensitivity to shape, size, color.
+                Body/kinesthetic:
+                       the ability to use one’s body to express oneself and to solve problems.
+                Musical/rhythmic:
+                       an ability to recognize tonal patterns and a sensitivity to rhythm, pitch, melody.
+                Interpersonal: 
+                       the ability to understand another person’s moods, feelings, motivations, and intensions. 
+                Intrapersonal:
+                       the ability to understand oneself and to practice self-discipline.
+                Verbal/linguistic:
+                       the ability to use language effectively and creatively.
+
+
+
+NEUROLINGUISTIC PROGRAMMING
+        Teacher should work with students not against them.
+
+
+LEXICAL APPROACH
+        The collocation of vocabulary teaching activities.
+
+
+COMPETENCY-BASED LANGUAGE TEACHING
+        Knowledge and learning competencies:
+        Oral competencies:
+        Reading competencies:
+        Writing competencies: 
+
+
+COOPERATIVE LANGUAGE LEARNING
+        Three-step interview
+        Roundtable
+        Think-pair-share
+        Solve-pair-share
+        Numbered heads
+
+
+TASK-BASED LANGUAGE LEARNING
+        Jigsaw Tasks:
+              Learners form a whole from different information parts. 
+        Information Gap Tasks:
+              In order to complete a task, members of the group negotiate and find out each others’ information.
+        Problem Solving Tasks:
+              Students solve a problem with a set of information. 
+        Decision Making Tasks:
+              By means of negotiation and discussion students decide on an outcome given with a problem.
+        Opinion Exchange Tasks:
+              Learners exchange their ideas, but not to reach an agreement.
+	      
+	      
+	      
+	      
+	      
+	      
 
