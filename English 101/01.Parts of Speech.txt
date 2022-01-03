@@ -52,6 +52,8 @@ be as an auxiliary (Passive Voice)
 
 
 
+
+
 ---> COMMON TENSES				Examples
 --------------------------------------------------------------------------------------------
 Present Simple 		(Geniş zaman)		he watches us		they see him
@@ -142,7 +144,8 @@ I read a book         --> geniş zaman basit cümle
 Do I read a book?     --> geniş zaman soru cümlesi
 I give James the book --> nesne kullanımı
 I give it to him      --> nesne kullanımı
-I should/can/will go  --> yardımcı fiil kullanımı
+I should/can/will go  --> yardımcı fiil kullanımı * Modals Her zaman V1
+
 
 
 --> TWO OBJECTS
@@ -152,63 +155,69 @@ I should/can/will go  --> yardımcı fiil kullanımı
 			he bought her a diamond ring
 			I can reserve you a table
 			he lent me his phone
-			
+			you will send Fatih money regularly 
+			S    M      v1     o     o	adv
+
 
 
 ---> QUESTION WORDS - 5 W 1 H
-what         	what are you talking about?			I am talking about information technologies
-             	what do you do (for work)?			I am an engineer
-	     	what foreign languages have you studied?	I have studied English, German and Russian
-	     	what format should I use?			
-             	what colour are your eyes?			my eyes are black
-what kind of 	what kind of music do you like?			I like Rock songs
-             	what kind of cars do you want to drive?		I want to drive self-driving cars
-which        	which one was your car?				the red one (of the cars) was my car/mine	one = car
-             	which one do you prefer?			I prefer coffee americano			one = coffee
-             	which one do you want to try?			I want to try black one				one = dress
-		they went which way?				that way
+		* WH sonrası preposition gelirse cümle sonuna atılır.
+		
+what         	ne 		what are you talking about?			I am talking about information technologies
+             			what do you do (for work)?			I am an engineer
+	     	hangi		what foreign languages have you studied?	I have studied English, German and Russian
+	     			what format should I use?			
+             			what colour are your eyes?			my eyes are black
+what kind of 	ne tür		what kind of music do you like?			I like Rock songs
+             			what kind of cars do you want to drive?		I want to drive self-driving cars
+which        	hangi		which one was your car?				the red one was mine		one = car
+										the red one of the cars was my car
+             			which one do you prefer?			I prefer coffee americano	one = coffee
+             			which one do you want to try?			I want to try black one		one = dress
+				they went which way?				that way
 	    	-----------------------------------------------------------------------
-where       	where do you live (in)?				I live in New York from US
-            	where are you from?				I am from Turkey
-where to    	where are you going (to)?			I am going to Stuttgart
-where from  	where are you coming from?			I am coming from İstanbul
+where       	nerede		where do you live (in)?				I live in New York from US
+            			
+where to    	nereye		where are you going (to)?			I am going to Stuttgart
+where from  	nereden		where are you from?				I am from Turkey
+				where are you coming from?			I am coming from İstanbul
+	    	-----------------------------------------------------------------------
+why         	neden		why will I have to clean up? 			because, there will be guests soon
+										You will have to clean up for guests
+	    			why do you sleep early? 			Because, I have got to get up early
+what for    	niçin		what do you come to the course for? 		I come to the course for English
+	    			noone knows why, what for
+		
+	    	-----------------------------------------------------------------------
+who         	kim		who’s that? 					that is George
+	    			who's this?					this is Albert
+            			who has seen the accident? 			a young man has seen the accident
+				who / whom did you invite?			sen kimi davet ettin?
+who to/with 			who is talking to/with you?     		Arnold is talking to/with me
+	    			who are you talking to/with?			I am talking to/with Arnold
+whom        	kimi, kime	whom did you see yesterday? 			I saw your old roommate yesterday
+            			whom do you meet every day?			I meet with my bf/gf every day
+with whom   	kiminle		with whom did you go?				I went with my bf/gf
+to whom     	kime		to whom did you go?				I went to my friend's house
+whose       	kimin		whose book did you borrow? 			I borrowed his book			borrow != lend
+            			whose is this book? 				It is Charlotte's
+		
+	    	-----------------------------------------------------------------------
+when        	ne zaman	when do you wake up every day?			I wake up at six 	(am/pm)
+            			when do you go to work?				I go to work in the morning
+since when  	ne zmandan beri	since when have you been working there?		I have been working there since 2020	    
+what time   	ne zaman	what time is it?				it's five to seven (it is five minutes to seven o'clock)
+					* it - hava ve saat ifadelerinde kullanılabilir
+				I guess, everybody else knew what time rehearsal was for.
+	    			Sanırım, provanın ne zaman olacağını herkes biliyordu.
 
-	    	-----------------------------------------------------------------------
-why         	why will I have to clean up? 			because, there will be guests soon
-								You will have to clean up for guests
-	    	why do you sleep early? 			Because, I have got to get up early
-what for    	what do you come to the course for? 		I come to the course for English
-	    	noone knows why, what for
-		
-	    	-----------------------------------------------------------------------
-who         	who’s that? 					that is George
-	    	who's this?					this is Albert
-            	who has seen the accident? 			a young man has seen the accident
-		who / whom did you invite?			sen kimi davet ettin?
-who to/with 	who is talking to/with you?     		Arnold is talking to/with me
-	    	who are you talking to/with?			I am talking to/with Arnold
-whom        	whom did you see yesterday? 			I saw your old roommate yesterday
-            	whom do you meet every day?			I meet with my bf/gf every day
-with whom   	with whom did you go?				I went with my bf/gf
-to whom     	to whom did you go?				I went to my friend's house
-whose       	whose book did you borrow? 			I borrowed his book			borrow != lend
-            	whose is this book? 				It is Charlotte's
-		
-	    	-----------------------------------------------------------------------
-when        	when do you wake up every day?			I wake up at six 	(am/pm)
-            	when do you go to work?				I go to work in the morning
-since when  	since when have you been working there?		I have been working there since 2020	    
-what time   	what time is it?				it's five to seven (it is five minutes to seven o'clock)
-	    	I guess, everybody else knew what time rehearsal was for.
-	    	Sanırım, provanın ne zaman olacağını herkes biliyordu.
-	    
 	    	------------------------------------------------------------------------
-how         	how do you get to places?		I get to places by car
-									by private jet
-									by plane
-									by bus
-									by foot
-									by walking
+how         	nasıl		how do you get to places?		I get to places by car
+											by private jet
+											by plane
+											by bus
+											by foot
+											by walking
 
 
 
