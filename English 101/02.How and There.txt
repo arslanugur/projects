@@ -270,7 +270,8 @@ SINGULAR        someone		biri			there is someone at the door					kapıda biri va
 							everyone seems to be happy					herkes mutlu görünüyor				
                   
 		everybody	herkes			I'm not everybody's cup of tea					ben herkesin anlayabileceği biri değilim
-                everything    	her şey		        everything is going as planned					her şey planladığı gibi gidiyor 
+                everything    	her şey		        There are two rules for success. Firstly, Never tell everything you know.
+							Everything is going as planned					her şey planladığı gibi gidiyor 
                 everywhere    	her yer        		I checked everywhere to find my keys				anahtarlarımı bulmak için her yeri kontrol ettim
 		------------------------------------------------------------------------------------------------
                 every         	her        		I heartily congratulate every player on this team
