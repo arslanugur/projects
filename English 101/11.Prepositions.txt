@@ -1,4 +1,16 @@
-PREPOSITION - EDAT												     prepared by Uğur ARSLAN, @arslanuguur
+PREPOSITION (EDAT)			prepared by Uğur ARSLAN, @arslanuguur
+----------------------------------------
+	in/inside # out/outside
+	  in/into # out/ out of
+	       on # off
+	       to # from
+	  forward # backward
+	     with # without
+      in front of # behind
+	     over # under
+	    above # below
+	       up # down
+
 
 IN / INSIDE - içinde		there’s a table in/inside the room
 				she is in the kitchen/phone booth/garden/classroom
@@ -205,6 +217,7 @@ BY - yanında, kenarında         she drinks tea at the cafe by the sea every mo
      tarafından			Brave New World, the book was written by Aldous Huxley
      -arak, -erek               he tries to catch up the work by running every morning
      -e kadar                   there will be a lot of changes in our lives by 2030
+     				Denmark plans to cut carbon emissions by 70% by 2030. The move was announced by Prime Minister
 
 VIA - yolu ile, -den geçerek, üzerinden	
 
