@@ -161,6 +161,12 @@ I should/can/will go  --> yardımcı fiil kullanımı * Modals Her zaman V1
 
 
 ---> QUESTION WORDS - 5 W 1 H
+	what = things		who = people			how many = number
+	which = things		why = reason			how much = quantity
+	where = place		whose = possession		how often = frequency
+	when = time		how = method / manner
+	
+	
 		* WH sonrası preposition gelirse cümle sonuna atılır.
 		
 what         	ne 		what are you talking about?			I am talking about information technologies
@@ -168,7 +174,7 @@ what         	ne 		what are you talking about?			I am talking about information 
 	     	hangi		what foreign languages have you studied?	I have studied English, German and Russian
 	     			what format should I use?			
              			what colour are your eyes?			my eyes are black
-what kind of 	ne tür		what kind of music do you like?			I like Rock songs
+what kind of .. ne tür		what kind of music do you like?			I like Rock songs
              			what kind of cars do you want to drive?		I want to drive self-driving cars
 which        	hangi		which one was your car?				the red one was mine		one = car
 										the red one of the cars was my car
@@ -178,14 +184,14 @@ which        	hangi		which one was your car?				the red one was mine		one = car
 	    	-----------------------------------------------------------------------
 where       	nerede		where do you live (in)?				I live in New York from US
             			
-where to    	nereye		where are you going (to)?			I am going to Stuttgart
-where from  	nereden		where are you from?				I am from Turkey
+where .. to    	nereye		where are you going (to)?			I am going to Stuttgart
+where .. from  	nereden		where are you from?				I am from Turkey
 				where are you coming from?			I am coming from İstanbul
 	    	-----------------------------------------------------------------------
 why         	neden		why will I have to clean up? 			because, there will be guests soon
 										You will have to clean up for guests
 	    			why do you sleep early? 			Because, I have got to get up early
-what for    	niçin		what do you come to the course for? 		I come to the course for English
+what .. for    	niçin		what do you come to the course for? 		I come to the course for English
 	    			noone knows why, what for
 		
 	    	-----------------------------------------------------------------------
@@ -193,7 +199,7 @@ who         	kim		who’s that? 					that is George
 	    			who's this?					this is Albert
             			who has seen the accident? 			a young man has seen the accident
 				who / whom did you invite?			sen kimi davet ettin?
-who to/with 			who is talking to/with you?     		Arnold is talking to/with me
+who .. to/with 			who is talking to/with you?     		Arnold is talking to/with me
 	    			who are you talking to/with?			I am talking to/with Arnold
 whom        	kimi, kime	whom did you see yesterday? 			I saw your old roommate yesterday
             			whom do you meet every day?			I meet with my bf/gf every day
