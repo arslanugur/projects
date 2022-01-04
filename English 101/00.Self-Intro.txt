@@ -1,29 +1,34 @@
-INTRODUCTION YOURSELF - “Tell me about yourself?!”                                                			prepared by Uğur ARSLAN, @arslanuguur
+INTRODUCTION YOURSELF					prepared by Uğur ARSLAN, @arslanuguur
+	“Tell me about yourself?!”
+
+
 --> STRATEGY ON SELF-INTRODUCTION
 01- Greetings
-02- Your name				Who You Are [Name, where you are from, some personal background]
+02- Your name								-- Who You Are [Name, where you are from, some personal background]
 03- Location
-04- Position and Company		Work Life	-- Talk about the internships and workshops you have attended
-05- Qualifications			Education Life	-- What have you studied [educational qualifications]
-06- Experience & Professional Training			-- Talk about the internships and workshops you have attended
+04- Position and Company (Work Life)					-- Talk about the internships and workshops you have attended
+05- Qualifications (Education Life)					-- What have you studied [educational qualifications]
+06- Experience & Professional Training					-- Talk about the internships and workshops you have attended
 07- Family
-08- Hobbies & Interests					-- Do not hesitate to take the conversation to an informal tone
+08- Hobbies & Interests							-- Do not hesitate to take the conversation to an informal tone
 09- Age
 10- Fun Fact about yourself
+
+		WARNING:
 		* do not consume a lot of time giving your self-introduction
 		* the first impression is the last impression - hand shake
-		* when you’re talking, smile and look them in the eyes self-confidently
-		* pesenting yourself as knowledgeable and confident shows your potential employers that you’re the right choice for the opportunity
+		* when you’re talking, smile and look them in the eyes self-confidently..
+		* presenting yourself as knowledgeable and confident shows your potential employers that you’re the right choice for the opportunity
 		* dont ask ‘what do you want to know?’. It shows that you are not prepared.
-	
-    
-    		Hi, I am ...
-		I am a ... with5 years of experience. 
-		In my current job at ABC company, I achieved an average of 12 % sales growth over the three years. 
+		* Using Some High Impact Words include some high-impact words in your answer such as 
+			Adapt		Design		Prepare		Conduct		Implement	Promote
+			Develop		Maintain	Control		Improve		Supervise	Increase
+			
+		* YOU NEED TO INTRODUCE YOURSELF WITHOUT ANY FOREWARNING, THEREFORE YOU NEED TO BE PREPARED
+		* PREWRITING IS A MUST
 
 
-	
-	
+
 1 --> GREETINGS
 		Hey!
 		Hello!
@@ -139,19 +144,19 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                      
                                      
 4 --> POSITION and COMPANY
-            what's your job?                                --> I am a teacher
-                   ...  occupation?                         --> I am an architect
-                   ...  profession?                         --> I am an engineer
-                   ...  specialization?                     --> I am a technician
-                                                            --> she is a computer operator
-                                                            --> I am an architect, I draw buildings
-            what do you do for work?                        --> I don't work now, I am an unemployed
-                                                            --> I am not working now, I am a student
-                                                            --> I don't work anymore, I am retired
-                                                            --> I worked for several/various jobs, now i am retired
+		what's your job?                                --> I am a teacher with 2 years of experience 
+                   ...  occupation?                         	--> I am an architect
+                   ...  profession?                         	--> I am an engineer with 5 years of experience
+                   ...  specialization?                     	--> I am a technician
+                                                            	--> she is a computer operator
+                                                            	--> I am an architect, I draw buildings
+		what do you do for work?                        --> I don't work now, I am an unemployed
+                                                            	--> I am not working now, I am a student
+                                                            	--> I don't work anymore, I am retired
+                                                            	--> I worked for several/various jobs, now i am retired
                       
                       
-            where do you work?
+		where do you work?
                                     I work as a teacher at school
                                     I work as an engineer in a factory/company
                                     I work as an accountant in a hotel
@@ -160,7 +165,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     I work as a quality controller in a factory
             
             
-            where did you work before?
+		where did you work before?
                                     I worked in a hospital before
                                     I worked in a bank before
                                     I didn't work before, I'm still a student/intern
@@ -171,33 +176,34 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                                 I’m a manager at Starbucks.
                                     I work in ‘general area’.
                                                 I work in sales.
-            
-            
-            where did you work last?
+
+					In my current job at ABC company, I achieved an average of 12 % sales growth over the three years. 
+
+
+		where did you work last?
                                     I worked in a factory (last)
                                     I worked at a private school
             
-            
-            why did you leave (from the job)?
+		why did you leave (from the job)?
                                     I left from my job, because ...
             
-            why did you leave/resign/quit from your job?
+		why did you leave/resign/quit from your job?
                                     because, I wanted to change my job                          - çünkü işimi değiştirmek istedim
                                     because, I found a new job / a better job (somewhere else)  - çünkü yeni bir iş / daha iyi bir iş buldum (başka yerde)
                                     because, I (have) completed my internship                   - çünkü stajımı tamamladım
                                     because, work conditions weren't good/proper to me          - çünkü çalışma şartları bana iyi/uygun değildi
                                     
-            what is your career plan for our company?
+		what is your career plan for our company?
                                     To be honest, I want to improve myself with the help of your company.
                                     I'm thinking of working for a long time
                                     I have much willingness about being a part of this culture and values
                                     I believe that there is no better place to acquire this kind of professional work culture.
             
-            how long are you going to work with us?
+		how long are you going to work with us?
             
-            what is your purpose of working with us?
+		what is your purpose of working with us?
 
-
+		Why are you interested in this position right now? 
 
 5 --> QUALIFICATIONS
             what do you study?
@@ -259,6 +265,7 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     I want to be a dentist in the future
                                     I want to be a music teacher
 
+
 7 --> FAMILY
             how many people in your family? 
                                     There are five people in my family
@@ -314,9 +321,13 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
             
             What is your hobby?
 	    What are your hobbies?
-                                    My hobby is ...
-                                    My hobby are playing guitar, swimming, going to gym
-            
+                                    	My hobby is ...
+                                    	My hobbies are playing guitar, swimming, reading book 
+					During weekends, I go to gym
+            				I want to improve myself about foreign languages
+					I'm currently reading a book about financial technology to better familiarize myself with the industry and its ongoing trends.
+					
+					
             what do you like to do?
                                     I like to play piano
                                     I really like running
@@ -338,13 +349,28 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     He’s a thirty-something accountant
 
 10 --> FUN FACT ABOUT YOURSELF
-                               - an interesting fear
-                               - a weird like or dislike
-                               - facts about your pet
-                               - strange achievement or extraordinary experience
- 
-
-
+				- an interesting fear
+				- a weird like or dislike
+				- facts about your pet
+				- strange achievement or extraordinary experience
+					My parents have black eyes but mine are blue. I think I was adopted
+					If I won the lottery, the first thing I would buy share from this company 
+					My dream vacation is going to Cappadocia and riding in a hot air balloon.
+    					I love to cook. My signature dish is homemade spaghetti and meatballs.
+    					I'm currently taking Spanish courses because I hope to visit Spain at the end of the year.
+    					If I could have any superpower, it would be to speak any language so I could connect with anyone in the world.
+					An accomplishment I'm most proud of is teaching myself how to play the guitar in three months.
+    					When I was younger, I wanted to be a pilot, which led me to later earn my pilot's license.
+    					I have a collection of mugs. I get a new mug in every country I go to, so I currently have 24.
+    					In high school and college, I starred as a lead in four different musicals
+    					I have five siblings. Two older brothers and two younger sisters. 
+						We're all close in age, so most of us grew up attending the same schools as each other.
+    					I had two pet hamsters when I was younger.
+    					My favourite meal to cook is salted egg, chicken and rice. 
+						I serve it at holiday gatherings with my family every year.
+					The first car I ever owned was a red sedan.
+    					My favourite animal is a dog because they're so energetic and friendly.
+					
 
 
 ### GENERAL QUESTIONS
@@ -444,26 +470,26 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     I draw pictures and drink (turkish) coffee in the evening
                                     I go to sleep at eleven
             
-            do you watch TV?
+            	do you watch TV?
                                     Yes, I do --> Yes, I sometimes watch TV
                                     No, I don't --> No, I don't watch TV much
             
-            when do you watch TV?
+            	when do you watch TV?
                                     I watch TV in the evening
-            
-            how often do you watch TV?
+            	
+            	how often do you watch TV?
                                     I watch television once or twice a week
             
-            when do you go on holiday?
+            	when do you go on holiday?
                                     I go on holiday once a year           (once = one time)
                                                     twice a year          (twice = two times)
                                                     three times a year
             
-            what do you do after work?
+            	what do you do after work?
                                     I get home by car
                                     I arrive at home by foot
 
-            what do you do after school?
+            	what do you do after school?
                                     I arrive at home by bus service
                                     I change my clothes
                                     I eat dinner
@@ -477,357 +503,349 @@ INTRODUCTION YOURSELF - “Tell me about yourself?!”                          
                                     I sleep at eleven
                                     I sleep late at two/three
 
-            how do you get to places?
+            	how do you get to places?
                                     I get to places by bus
                                                     by car
                                                     by walking
                                                     by plane
 
-            what food do you like?
+            	what food do you like?
                                     I like orange fruit
                                     I like eating salad
                                     I like eating chichen wrap
                                     I like rice, beans, soup
                                     I like pastas/burger/soup
 
-            what films do you like?
+            	what films do you like?
                                     I like action/adventure films
                                            thriller films
                                            romance and comedy films
              
-            what do you do when you wake up?
+            	what do you do when you wake up?
                                     I wash my face and my hands
                                     I have breakfast at nine 
 
-            what do you do in the morning?
+            	what do you do in the morning?
                                     I get up at seven in the morning
       
-            what did you do last night?
+            	what did you do last night?
                                     I watched TV last night
                                     I talked with my friend
 				    I was at school, after that I got back home
-            how often do you meet with your friends?
-			I meet with my friends four times a week
+            	how often do you meet with your friends?
+					I meet with my friends four times a week
 			
 
-            how often do you go out with your friends?
-                        I go out with my friends every evening 
+            	how often do you go out with your friends?
+                        		I go out with my friends every evening 
 
-	    how often do you have an English lesson?
-          		I have an English Lesson twice a week
+	    	how often do you have an English lesson?
+          				I have an English Lesson twice a week
 			
-            how often do you go out?
+            	how often do you go out?
                                     I go out twice a day / a week / a month / a year
                                     I go out every day
                                     I go out every weekend
 
-            how do you make friends before you go to Poland?
+            	how do you make friends before you go to Poland?
                                     I made friends online before I go to Poland
 
-            what do you do in your free time?
+            	what do you do in your free time?
                                     I listen to music in my free time
                                     I watch movies
                                     I like reading a book / a science fictional book
 
-            what do you do on your holiday?
+            	what do you do on your holiday?
                                     I swim, eat and drink on my holiday
             
-            who is your best friend?
+            	who is your best friend?
                                     ABC is my best friend
 
-            when do you have some free time?
+            	when do you have some free time?
 
-            is your house big?
+            	is your house big?
             
-            why are you learning English?
+            	why are you learning English?
                                     because I want to improve myself on English
             
-            Do you play sports?
+            	Do you play sports?
                                     Yes, I do sports at the weekend
                                     No, I don't do sports. I don't have time
             
-            what is difficult in your job?
+            	what is difficult in your job?
             
-            when do you finish work?
+            	when do you finish work?
                                     at four 
             
-            why did you start this job?
+            	why did you start this job?
 
-            what did you do yesterday?
+            	what did you do yesterday?
                                     I went to gym
                                     I went shopping
             
-            where did you go shopping?
+            	where did you go shopping?
             
-            what time does your English lesson start?
+            	what time does your English lesson start?
 
-            do you have any hobby?
+            	do you have any hobby?
                                     yes, I have some hobby such as swimming, learning English
 
-            what other hobbies would you like to have?
+            	what other hobbies would you like to have?
             
-            when do you have time for your hobby?
+            	when do you have time for your hobby?
             
-            do you have the same hobby as any of your friends?
+            	do you have the same hobby as any of your friends?
             
-            do you want to change your jobs?
+            	do you want to change your jobs?
             
-            how do people think about you?
+            	how do people think about you?
             
-            how often do you have an English lesson?
+            	how often do you have an English lesson?
                                     I have an English lesson twice a week
             
-            what time do you wake up?
+            	what time do you wake up?
                                     I wake up at six
             
-            what time do you get up?
+            	what time do you get up?
                                     I wake up at half past seven
             
-            what do you usually do at noon?
+            	what do you usually do at noon?
                                     I usually go out to have lunch at noon
             
-            do you have time to see your friends and family?
+            	do you have time to see your friends and family?
             
-            what time do you usually have dinner?
+            	what time do you usually have dinner?
                                     I usually have dinner at seven
             
-            who do you spend most of your day with?
+            	who do you spend most of your day with?
             
-            which city do you live?
+            	which city do you live?
                                     I live in Ankara
             
-            where do you live?
+            	where do you live?
                                     I live in Istanbul
             
-            where do you usually go at the weekend?
+            	where do you usually go at the weekend?
             
-            do you like your city?
+            	do you like your city?
                                     I like my city
             
-            why do you like your city?
+            	why do you like your city?
                                     Because, it's a historical and cultural city
             
-            would you like to live in a city or a town?
+            	would you like to live in a city or a town?
 	    				
             
-            what do you like most about your town/city?
+            	what do you like most about your town/city?
       					My city is very quiet and not overcrowded, therefore I like here
 					
-            would you like to move to another city/town?
+            	would you like to move to another city/town?
                                     	Yes, i would like to move to another city
 				    	No, I wouldn't like to move anywhere else
 				    
-            what would you like to change in your city/town?
+            	what would you like to change in your city/town?
 	    				I would like to see some cultural events in my city
 			
-            how do you usually go/walk/get around?
+            	how do you usually go/walk/get around?
             				I walk around the city centre by walking everyday
 					I get around the city by a car 
             
-	    do you spend a lot of time at work?
+	    	do you spend a lot of time at work?
             				I am at work between eight am and five pm
 					
-            why do you watch videos/movies/series on Netflix/Youtube?
+            	why do you watch videos/movies/series on Netflix/Youtube?
             				
-            what is your brother/sister/husband/wife/boyfriend/girlfriend like?
+            	what is your brother/sister/husband/wife/boyfriend/girlfriend like?
             				my brother/sister/husband/wife/boyfriend/girlfriend is ...
 					
 					
-            what do you do to have fun with your family?
+            	what do you do to have fun with your family?
             
-            do you see your family a lot?
+            	do you see your family a lot?
 					I generally see my family a few times a day
             
-            do you live with your parents?
+            	do you live with your parents?
 	    				I live with my parents
 					I don't live with my parents
 					I live alone/single
             
-            do you spend a lot of time outside the home with your family?
+            	do you spend a lot of time outside the home with your family?
             				Not much. only at weekends. Usually we walk around the city centre
 					
-            where can i buy a mobile phone?
+            	where can i buy a mobile phone?
                                     	you can buy a mobile phone from any store
 					
-            how do you travel to places?
+            	how do you travel to places?
             				I travel to places by walking
 							   by car
 							   by bus
 							   
-            what time do you usually go to bed?
+            	what time do you usually go to bed?
                                     	I usually go to bed at eleven 
             
-            when is your birthday?
+            	when is your birthday?
 					my birthday is 25th January
             
-            when do you go on holiday?
+            	when do you go on holiday?
                                     	I go on holiday every summer
             
-            what weather do you like?
+            	what weather do you like?
                                     	I like sunny/rainy/cloudy
             
-            how do you usually get around?
+            	how do you usually get around?
 	    				I usually get around with my parents
 							     with my friends
 							     with my boy friend / girl friend
             
-            what are you doing this weekend?
+            	what are you doing this weekend?
 	    				I should go to another city this weekend
             				I am going to meet with my friends this weekend
 					
-            what music do you like?
-                                    I like Rock music
+            	what music do you like?
+                                    	I like Rock music
             
-            Are you good at English?
-                                    yes, I'm quite good at English
-                                    no, I'm bad at English
-                                    I'm trying to learn English
-                                    I can speak English fluently
-            What is your job?
-                                    my job is ... 
-                                    I am a/an Architect/Teacher/Engineer
-                                    I am a Boss / I have my own shop/school/factory
+            	Are you good at English?
+                                    	yes, I'm quite good at English
+                                    	no, I'm bad at English
+                                    	I'm trying to learn English
+                                    	I can speak English fluently
+            	What is your job?
+                                    	my job is ... 
+                                    	I am a/an Architect/Teacher/Engineer
+                                    	I am a Boss / I have my own shop/school/factory
       
-            what kind of films do you like?
-            what films do you like?                         films = movies
-                                    I like action, science fiction films
+            	what kind of films do you like?
+            	what films do you like?                         films = movies
+                                    	I like action, science fiction films
             
-            how do you get to places?
-                                    I get to places by car
-                                                    by private jet
-                                                    by foot, by walking
-            where do you go on holiday?
-                                   I go on holiday to Antalya
+            	how do you get to places?
+                                    	I get to places by car
+                                                    	by private jet
+                                                    	by foot, by walking
+           	where do you go on holiday?
+                                   	I go on holiday to Antalya
             
-            how often do you play sports?
-                                    I play football once a day, on Sundays, at weekends
+            	how often do you play sports?
+                                    	I play football once a day, on Sundays, at weekends
             
-            do you often go shopping?
-                                    yes, I often go shopping as soon as possible - evet, mümkün olduğunca sık alışverişe çıkarım
-                                    no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
+            	do you often go shopping?
+                                    	yes, I often go shopping as soon as possible - evet, mümkün olduğunca sık alışverişe çıkarım
+                                    	no, I go shopping once a month   - hayır, ayda bir kez alışverişe çıkarım
             
-            what have you got in your kitchen/bedroom/bathroom?
-                                    I have got fridge, oven, cupboard, spoon, knife, table in my kitchen
-                                    I have got bed, wardrobe, mirror, table, carpet in my bedroom
-                                    I have got toothbrush, soup, slipper in my bathroom
-            what is your favorite food?
-                                    my favorite food is pizza, burger, fried potatoes, kebab, rice
+            	what have you got in your kitchen/bedroom/bathroom?
+                                    	I have got fridge, oven, cupboard, spoon, knife, table in my kitchen
+                                    	I have got bed, wardrobe, mirror, table, carpet in my bedroom
+                                    	I have got toothbrush, soup, slipper in my bathroom
+            	what is your favorite food?
+                                    	my favorite food is pizza, burger, fried potatoes, kebab, rice
                                     
-            what is your favorite colour?
-                                    my favorite colour is red and black
+            	what is your favorite colour?
+                                    	my favorite colour is red and black
             
-            what restaurants do you like?
-                                    I like fast-food and Italian restaurant
+            	what restaurants do you like?
+                                    	I like fast-food and Italian restaurant
             
-            what is your favorite restaurant?
-                                    My favorite restaurant is fast food restaurant
+            	what is your favorite restaurant?
+                                    	My favorite restaurant is fast food restaurant
             
-            how often do you go out?
-                                    I go out four times a week
-                                    I go out twice a week
-            when do you use a car?
-                                    I use the car every morning and evening
-                                    I cannot use a car because I have no driving license
+            	how often do you go out?
+                                    	I go out four times a week
+                                    	I go out twice a week
+            	when do you use a car?
+                                    	I use the car every morning and evening
+                                    	I cannot use a car because I have no driving license
             
-            how often do you drive your car?
-                                    I use my car when I need to get a place, maybe ten times a week
+            	how often do you drive your car?
+                                    	I use my car when I need to get a place, maybe ten times a week
             
-            where do you go shopping?
-                                    I go shopping to the mall or sometimes online 
+            	where do you go shopping?
+                                    	I go shopping to the mall or sometimes online 
 
-            when do you go shopping?
-                                    I go shopping at the weekend
-                                    I don't go shopping, because I buy things online
+            	when do you go shopping?
+                                    	I go shopping at the weekend
+                                    	I don't go shopping, because I buy things online
 
-            what time does your English lesson start?
-                                    My English lesson starts at two in the afternoon
+            	what time does your English lesson start?
+                                    	My English lesson starts at two in the afternoon
             
-            when do you use the internet?
-                                    I use the internet at the weekend
+            	when do you use the internet?
+                                    	I use the internet at the weekend
             
-            how often do you use the internet?
-                                    I use the internet every day
-                                    I don't use internet much
+            	how often do you use the internet?
+                                    	I use the internet every day
+                                    	I don't use internet much
             
-            what is your husband/wife/boyfriend/girlfriend's name?
-                                    my husband/wife/boyfriend/girlfriend's name is ...
+            	what is your husband/wife/boyfriend/girlfriend's name?
+                                    	my husband/wife/boyfriend/girlfriend's name is ...
             
-            what town do you live in?
-                                    I live in Antalya 
-                                    I live in Ankara, but I study in İstanbul
+            	what town do you live in?
+                                    	I live in Antalya 
+                                    	I live in Ankara, but I study in İstanbul
             
-            what do you eat for breakfast?
-                                    I eat egg, cheese, bread for breakfast
+            	what do you eat for breakfast?
+                                    	I eat egg, cheese, bread for breakfast
             
-            how big is your house or flat?
-                                    my flat is quite big, there are 3 rooms and one kitchen
+            	how big is your house or flat?
+                                    	my flat is quite big, there are 3 rooms and one kitchen
             
-            what music do you like?
-                                    I like rap/rock music
+            	what music do you like?
+                                    	I like rap/rock music
             
-            what kind of music do you like?
-                                    I like rock music
+            	what kind of music do you like?
+                                    	I like rock music
             
-            how old are you?
-                                    I am nineteen
+            	how old are you?
+                                    	I am nineteen
             
-            what is your favorite day of the week?
-                                    my favorite day is Sunday, because I can rest all day
+            	what is your favorite day of the week?
+                                    	my favorite day is Sunday, because I can rest all day
       
-            what time do you get up in the morning?
-                                    I get up at seven in the morning
+            	what time do you get up in the morning?
+                                    	I get up at seven in the morning
             
-	    when do you start the day?
-                                    at half past seven in the morning
+	    	when do you start the day?
+                                    	at half past seven in the morning
             
-	    how do you start the day?
-                                    I start the day sometimes good and bad  
+	   	how do you start the day?
+                                    	I start the day sometimes good and bad  
             
-            how many brothers and sisters do you have?
-                                    I have one brother
+           	how many brothers and sisters do you have?
+                                    	I have one brother
             
-            who is your best friend?
-                                    my best friend is ABC
-                                    s/he studies
-                                    I walk around with her/him
+            	who is your best friend?
+                                    	my best friend is ABC
+                                    	s/he studies
+                                    	I walk around with her/him
             
-	    how many people in your family?
-                                    there are five people in my family
+	    	how many people in your family?
+                                    	there are five people in my family
             
-            what weather do you like?
-                                    I like sunny weather, but sometimes rainy
+            	what weather do you like?
+                                    	I like sunny weather, but sometimes rainy
             
-            what languages do you speak?
-                                    I speak Turkish, English
+            	what languages do you speak?
+                                    	I speak Turkish, English
             
-            what do you do at the weekend?
-                                    I meet with my frinds at the weekend
-                                    I go out for English Course, Shopping Mall
+            	what do you do at the weekend?
+                                    	I meet with my frinds at the weekend
+                                    	I go out for English Course, Shopping Mall
             
-	    what subjects do you like at school?
-                                    I like Maths, English
+	   	what subjects do you like at school?
+                                    	I like Maths, English
             
-            how do you go/travel to school/work?
-                                    I go to school by bus
-                                                   by walking
-                                                   
-      
+            	how do you go/travel to school/work?
+                                    	I go to school by bus
+						       by walking
+                                        	           
+		Who did you look up to as a child?
 
-INTERVIEW SAMPLES
-	Sample 1:
-		Hi, my name is Ashley Harris. 
-		I am a recent graduate from Miranda House, Delhi University where I completed my bachelors in English Literature. 
-		I was the editor of the yearly periodical at Miranda House and also completed two internships at Caravan and The Indian Express. 
-		I was excited to find this position as an Assistant Editor at your organisation and I believe I would be a great fit for this role.
+		What is your favourite hobby?
 
-	Sample 2:
-		Hello, as you already know that my name is Akanksha Sharma, I am from Jaipur, Rajasthan but born and raised in Delhi. 
-		I reside in Kamla Nagar and have a family of 4. To pursue my passion for teaching, I went on to pursue BEl Ed from the University of Delhi. 
-		I began my career by interning as an Assistant Teacher in HPJ Public School, Ashok Vihar, during the final year of my BEl Ed program. 
-		In August 2019, I started working as an Elementary Teacher with Nancy Public School. 
-		Meanwhile, I also completed a diploma in Child Pedagogy that helped me in performing my job proficiently. 
-		Talking about my interests and hobbies, I am keen to dance. 
-		It is therapeutic to me as it helps me in releasing all my stress in seconds! I also like to catch up on reading in my free time. 
+
+---> Links
+https://skillslelo.com/self-introduction-how-to-introduce-yourself/
+
+
 
 
 STUDENTS' EXTRA NOTES
@@ -845,16 +863,56 @@ STUDENTS' EXTRA NOTES
                            --> as a music teacher in my future or I want to study at Conservatory. 
                            --> as a lawyer or a psychologist in my future
                            --> as a military engineer in my future
+			   
+			   
+
+INTERVIEW SAMPLES
+	Sample 1:
+		Hi, my name is A H. 
+		I am a recent graduate from D University where I completed my bachelors in English Literature. 
+		I was the editor of the yearly periodical at A Company and also completed two internships at C and B. 
+		I was excited to find this position as an Assistant Editor at your organisation and I believe I would be a great fit for this role.
+
+	Sample 2:
+		Hello, as you already know that my name is A S, I am from Ankara, but born and raised in Adana. 
+		I reside in Antalya and have a family of 4. To pursue my passion for teaching, I went on to pursue BEl Ed from the University of D. 
+		I began my career by interning as an Assistant Teacher in HPJ Public School, Ashok Vihar, during the final year of my BEl Ed program. 
+		In August 2019, I started working as an Elementary Teacher with Nancy Public School. 
+		Meanwhile, I also completed a diploma in Child Pedagogy that helped me in performing my job proficiently. 
+		Talking about my interests and hobbies, I am keen to dance. 
+		It is therapeutic to me as it helps me in releasing all my stress in seconds! I also like to catch up on reading in my free time. 
+	
+	Sample 3:
+		“Good morning, my name is Nirag Vashi, and I am a secondary education student at Western Michigan University with a focus in science. 
+		I grew up in a family of teachers and know that being a high school science teacher is my calling. 
+		My passion for helping others has been evident in my involvement in Kalamazoo Public Schools 
+		and as a camp counselor for the last three years. 
+		Through those experiences I have learned to interact with a diverse group of people, which has increased my ability to relate to others. 
+		I have also had the opportunity 
+		to create lessons for the campers that focused on life skills like teamwork, communication, and time management.  
+		Having been a teacher yourself, what things should I be doing now to prepare for my internship search?”
+
+	Sample 4:
+		“Hello, I am Alexandra Hill, and I will be completing my bachelor’s degree in finance from Western Michigan University in August.
+		I have worked on a wide variety of projects that have allowed me to put what I’ve learned in the classroom into use in a practical sense.
+		Last year, I was part of a new course where the students managed $500,000 for the Western Annual Fund 
+		and it was really exciting to see the portfolio grow.
+		I pride myself on being detail-oriented, analytical, and driven.
+		I understand that you are searching for a new investment advisor 
+		and I believe these qualities would benefit your company’s goal to increase your client base 
+		while continuing to provide sound investment advice.”
+		
+
 
 
 
 ---> Different Type Speaking Topics for B1 Students
-      what do you want to be in your future?
-      what is your dream for your future?
-      what field do you want to improve yourself? 
-      what field in the university do you want to study?                           field = department
+		what do you want to be in your future?
+		what is your dream for your future?
+		what field do you want to improve yourself? 
+		what field in the university do you want to study?                           field = department = area
       
-      what do you think about ...
+		what do you think about ...
 		           your city
                                 country
                                 future
@@ -865,44 +923,115 @@ STUDENTS' EXTRA NOTES
                                 school
                                 work
                                     
-      do you have any plan about your life?
-      what causes the expansion of big cities?
-      
-      what activities do you like to do in your free time?
-      how much time you spend to study / work?
-      how often do you use smart phone or computer?
-      what do you do on your smartphone or computer?
-      can you drive a car – do you have a driving license
-      what country do you want to travel 
-      have you ever travelled abroad?
-      have you ever travelled another city?
-      which countries/cities have you travelled?            - which one is better
-      do you think that your family expects anything from you about your future?
-      generally, how is your communication with people?      
+		do you have any plan about your life?
+		what causes the expansion of big cities?
+		what activities do you like to do in your free time?
+		how much time you spend to study / work?
+		how often do you use smart phone or computer?
+		what do you do on your smartphone or computer?
+		can you drive a car – do you have a driving license
+		what country do you want to travel 
+		have you ever travelled abroad?
+		have you ever travelled another city?
+		which countries/cities have you travelled?            - which one is better
+		do you think that your family expects anything from you about your future?
+		generally, how is your communication with people?      
+		If you could go anywhere in the world, where would it be?
+		If you could only eat one type of food for the rest of your life, what would it be?
+		Do you have any hidden talents?
+		What is your favourite childhood memory?
+		What is the biggest risk you've taken?
+		What is the bravest thing you've ever done?
+		If you could only watch one movie or television show for the rest of your life, what would it be?
+		Describe your ideal day.
+		What do you want people to remember about you?
+		What is your favourite animal and why?
+		Do you collect anything?
+		Who is your most listened to artist?
+		What is the most unusual pet you've had?
+		What is the first concert you ever attended?
+		What is your favourite type of cuisine?
+		What is your favourite season and why?
+		What movie have you seen the most times?
+		What is your favourite ice cream flavour?
+		If you could go back in time for a day, what day would you go to?
+		What is one thing you've learned that you wish you could tell your younger self?
+		What is your favourite place in the world?
+		What is the next vacation you have planned?
+		How many siblings do you have?
+		What motivates you in your professional life?
+		Do you have any long-term career goals?
+		What was your biggest workplace accomplishment?
+		What is your dream job?
+		Where do you see yourself in five years?
+		What are you most passionate about?
+		What type of industry books, resources or materials are you currently reading?
+		What job did you want as a kid?
+		What extracurricular activities did you participate in as a child?
+		What is one trait you would improve about yourself?
+		Can you play any musical instruments?
+		Can you speak any other languages?
+		If someone paid you to write a blog or book about anything, what would it be about?
+		What was your favourite subject in school?
+		What was your first job?
+			I was 17 when I got my first job at a fast-food restaurant, 
+				which helped me develop leadership, communication and listening skills.
+		Who inspires you the most and why?
+		What is your favourite workplace memory?
+		
+		Do you enjoy being on your own or with others during your free time?
+		Tell me about a hobby you'd like to take up
+		What do you usually do at weekends?
+		Do you enjoy team sports or group activities? (Why?)
+		What is father's job?
+		What did you do this year?
+		Where will you probably go next year?
+		Which is better for a family holiday: a hotel or camping? (Why?)
+		Which is easier: booking a holiday online or through a travel agent? (Why?)
+		Why do people like to travel abroad?
+		What are the main things to consider when you pack your holiday suitcase?
+		What is your favorite season and why?
+		Do you think it is important to earn a lot of money? (Why? / Why not?)
+		How often do you watch a film on telly?
+		How was the first day in your new job?
+		If you had got enough money, What were you going to buy at first?
+		Where do you like to walk in your neighborhood and why?
+		Have you ever had a pet?
+		What do you do (as an activity) to relax?
+		How heavy is the piece of cheese?
+		What do you want to do in the future?
+		What is something you are good at doing?
+		What are your strengths?
 
-	Do you enjoy being on your own or with others during your free time?
-	Tell me about a hobby you'd like to take up
-	What do you usually do at weekends?
-	Do you enjoy team sports or group activities? (Why?)
-	What is father's job?
-	What did you do this year?
-	Where will you probably go next year?
-	Which is better for a family holiday: a hotel or camping? (Why?)
-	Which is easier: booking a holiday online or through a travel agent? (Why?)
-	Why do people like to travel abroad?
-	What are the main things to consider when you pack your holiday suitcase?
-	What is your favorite season and why?
-	Do you think it is important to earn a lot of money? (Why? / Why not?)
-	How often do you watch a film on telly?
-	How was the first day in your new job?
-	If you had got enough money, What were you going to buy at first?
-	Where do you like to walk in your neighborhood and why?
-	Have you ever had a pet?
-	What do you do (as an activity) to relax?
-	How heavy is the piece of cheese?
-	What do you want to do in the future?
-	What is something you are good at doing?
-	What are your strengths?
+	
+
+
+
+---> QUESTIONS
+1. Background and Interest:
+		Where are you from and how has it had an impact on who you are?
+    		What are your hobbies and interests?  Why do you enjoy these things?
+    		What is exciting about your academic career? Focus on last three years.
+
+2. Values and Beliefs:
+		What character traits do your friends, family, and colleagues count on you for? 
+    		What are the top three things you value most? Why?
+    		What core beliefs do you live by? Why are these things important to you?
+
+3. Passions, Dreams, and Aspirations:
+		What is the biggest dream you have for yourself? Why?
+    		What are you currently doing to achieve your dream?
+    		What are your passions and aspirations?
+
+4. Skills and Achievements:
+		What achievements are you most proud of?
+    		How and when did they happen?
+    		What do people count on you for most?
+    		What skills and strengths do you bring to the table when working on teams
+    		What type of work do you do now?
+    
+    
+
 
 ---> MOTIVATION LETTER EXAMPLE FOR JOB APPLICATION
             To whom it may concern;
@@ -925,7 +1054,8 @@ STUDENTS' EXTRA NOTES
             During my internship at A Company, 
             I have gained experience about subjects such as Group Truck Mixer, wet paint application, positive pressurization, storage and mixing; 
             Especially, 
-            I have developed an intense knowledge from my exp about many processes such as paint types, type, flash-off times, drying temperatures etc. drying times.
+            I have developed an intense knowledge from my exp 
+	    			about many processes such as paint types, type, flash-off times, drying temperatures etc. drying times.
 
             In V Company, where I am currently working, our products from manufacturing are sent to A City for Cataphoresis Coating (KTL). 
             During this period, I am charge of quality control and keep being in communication and consultancy.
@@ -935,7 +1065,7 @@ STUDENTS' EXTRA NOTES
 
             Thank you for considering my application
             Yours truly
-            A.B
+            E.G
 
 
 
@@ -972,7 +1102,8 @@ STUDENTS' EXTRA NOTES
                 To help myself improve in this area, I use a project management app
                         Bu alanda kendimi geliştirmek için bir proje yönetimi uygulaması kullanıyorum
                 so I can visualize how much work I have at any given moment and know whether or not I have the bandwidth to take on more.”
-                        böylece herhangi bir anda ne kadar işim olduğunu görselleştirebilir ve daha fazlasını üstlenecek bant genişliğine sahip olup olmadığımı öğrenebilirim.” 
+                        böylece herhangi bir anda ne kadar işim olduğunu görselleştirebilir 
+					ve daha fazlasını üstlenecek bant genişliğine sahip olup olmadığımı öğrenebilirim.” 
 
 
 
