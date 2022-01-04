@@ -161,12 +161,10 @@ I should/can/will go  --> yardımcı fiil kullanımı * Modals Her zaman V1
 
 
 ---> QUESTION WORDS - 5 W 1 H
-	what = things		who = people			how many = number
-	which = things		why = reason			how much = quantity
+	what = thing		who = people			how many = number
+	which = choice		why = reason			how much = quantity
 	where = place		whose = possession		how often = frequency
 	when = time		how = method / manner
-	
-	
 		* WH sonrası preposition gelirse cümle sonuna atılır.
 		
 what         	ne 		what are you talking about?			I am talking about information technologies
