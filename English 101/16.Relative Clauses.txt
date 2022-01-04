@@ -100,19 +100,22 @@
 
 
 ---> EXAMPLES
+          I am like the man who went looking for himself with a rescue team 
+                    Kurtarma ekibi ile kendini arayan adam gibiyim
           The passengers who want to take off at this station should prepare their luggage.
-          (Bu istasyonda inmek isteyen yolcular valizlerini hazırlamalı.)
+                    Bu istasyonda inmek isteyen yolcular valizlerini hazırlamalı.
           The passengers wanting to take off at this station should prepare their luggage.
-          –ing takısı getirilerek yapı oluşturmak.
+                    –ing takısı getirilerek yapı oluşturmak.
 
-          My friend is the only student who plays badminton in our class. (Benim arkadaşım sınıfımızda badminton oynayan tek öğrencidir.)
+          My friend is the only student who plays badminton in our class.
+                    Benim arkadaşım sınıfımızda badminton oynayan tek öğrencidir.
           My friend is the only student to play badminton at our class. 
-          –to eki getirilerek yapı oluşturmak.
+                    –to eki getirilerek yapı oluşturmak.
 
           The project which was improved by our group last year became the winner of the competition. 
-          (Bizim grubumuz tarafından geçen sene geliştirilen proje yarışmanın birincisi oldu.)
+                    Bizim grubumuz tarafından geçen sene geliştirilen proje yarışmanın birincisi oldu.
           The project improved by our group last year became the winner of the competition.
-          Edilgen (passive) yapılı cümlelerde yardımcı fiil ve relative pronoun cümleden atılarak yapı oluşturulabilir.
+                    Edilgen (passive) yapılı cümlelerde yardımcı fiil ve relative pronoun cümleden atılarak yapı oluşturulabilir.
 
 
 
