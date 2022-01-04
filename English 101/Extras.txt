@@ -1572,14 +1572,15 @@ u wank*r - seni *
 
 
 ---> Beynin ve durum yapılarının işleyişi üzerine yöntemler, araştırmalar 
-🔻 Reason/Logic - Mantık
-
+🔻 Reason/Logic
+	Mantık
 	you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
 	axiom - aksiyom
 	reasoning rules - akıl yürütme kuralları
 	inference rules - çıkarım kuralları
 
-🔻 Gamification - Oyunlaştırma
+🔻 Gamification
+	Oyunlaştırma
 	"Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
 	Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
 	
@@ -1595,48 +1596,52 @@ u wank*r - seni *
 		Başarı				Sanal Kazanımlar
 		Kendini İfade Etme		Sıralamada yer alma
 		Yardımseverlik			Ödül v Destekler (Yardım)
+
+
+	----> OYUN MODELLEME
+									Oyun Mekanikleri		
+	*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
+	----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
+				------------	--------------------	---------	----------------	-------------------	--------------	
+	Ödül			     000				   ###		       ###			
+	Statü			     ###		OOO		   ###		       ###			###		       ###
+	Başarı			     ###		###		   OOO		       ###			###		       ###
+	Kendini İfade Etme						   ###		       OOO
+	Rekabet			     ###		###		   ###		       ###			OOO		       ###	
+	Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
 	
-			----> OYUN MODELLEME
-			
-											Oyun Mekanikleri		
-			*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
-			----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
-						------------	--------------------	---------	----------------	-------------------	--------------		
-			Ödül			     000				   ###		       ###			
-			Statü			     ###		OOO		   ###		       ###			###		       ###
-			Başarı			     ###		###		   OOO		       ###			###		       ###
-			Kendini İfade Etme						   ###		       OOO
-			Rekabet			     ###		###		   ###		       ###			OOO		       ###	
-			Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
-	
-							000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
-						
-						
-			Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
-							2008de uygulamayı iPod ile birleştirerek, 
-							RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
-							İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
-							Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
+					000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
+				
+				
+	Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
+					2008de uygulamayı iPod ile birleştirerek, 
+					RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
+					İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
+					Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
 
 
 
-🔻 Situational Awareness (Durumsal Farkındalık)
-
+🔻 Situational Awareness
+	Durumsal Farkındalık
 	be aware of your surroundings, identify specific problems or threats, 
 	and be prepared to execute a tactical plan to deal with each threat as it presents itself
-	arkandaki resmi hatırlıyor musun?
+	Arkandaki resmi hatırlıyor musun?
 	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
 	
 
-🔻 S.T.A.R. Technique - mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
+🔻 S.T.A.R. Technique
+	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
 
-	situation	-- set the scene		sahneyi ayarla / oyunu kur
-	task		-- describe the purpose		amacını tarif et
-	action		-- explain what you did		ne yaptığını açıkla
-	result		-- share the outcome		sonucu paylaş
+	Situation	-- set the scene		sahneyi ayarla / oyunu kur
+	Task		-- describe the purpose		amacını tarif et
+	Action		-- explain what you did		ne yaptığını açıkla
+	Result		-- share the outcome		sonucu paylaş
 	
 	
-🔻 Eisenhower Matrix: How to manage your time - To Evaluate each task - herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi 
+🔻 Eisenhower Matrix
+	How to manage your time - To Evaluate each task
+	Herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi
+	
 				    important
 				     	|
 		can I do it now?	|	delay / drop / delete 
@@ -1651,26 +1656,40 @@ u wank*r - seni *
 				   not important
 	
 
-🔻 S.W.O.T. Business Analysis - bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
+🔻 S.W.O.T. Business Analysis
+	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
 
-			helpful					harmful
-			(to achieving the objective)		(to achieving the objective)
-							|
-internal origin						|
-(attributes of the organization)	strengthes	|	weaknesses 
-		   					|
-							|
-				------------------------|-----------------------
-							|
-external origin				opportunities	|	threats
-(attributes of the environment)				|
-	     						|
+				helpful					harmful
+				(to achieving the objective)		(to achieving the objective)
+								|
+	internal origin						|
+	(attributes of the organization)	strengthes	|	weaknesses 
+			   					|
+								|
+					------------------------|-----------------------
+								|
+	external origin				opportunities	|	threats
+	(attributes of the environment)				|
+		     						|
 			
 
-🔻 http://www.tmco.com.tr/ise-alim-testleri/watson-glaser-elestirel-dusunme
-🔻 Gambler's fallacy - Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+🔻 Gambler's fallacy
+	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+
 🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
 
+
+🔻 Watson-Glaser Critical Thinking Test
+	Eleştirel Düşünme Ölçeği, birisini işe alacak olduğumuzda karar verme ve yargılamayı hem ölçer hem de gelişimini sağlamaktadır.
+	Çalışanların baskı altında soru sorma, analiz etme ve karar verme yöntemlerinden daha önemli bir şey yoktur.
+	Yüksek potansiyelli çalışanlar yaratmak ve öğrencileri iddialı programlara kabul etmek amacıyla kullanıyor. 
+		KEYS:	
+		- Recognize Assumptions		Varsayımları Tanı
+		- Evaluate Arguments		İddiaları/Görüşleri Değerlendir
+		- Draw Conclusions		Sonuca Var 
+
+	https://www.assessmentday.co.uk/
+	
 
 🔻 How to value a company
 	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
@@ -1682,5 +1701,12 @@ external origin				opportunities	|	threats
 		
 		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
 		
-		
+🔻 Politically Correct ...
+	"Bazı kavramları/durumları tabu haline getirerek .. değişmesi gereken şeylerin değişmesini, üstlerini sahte bir şekilde örterek geciktirmek, engellemek."
+	"Aman kimse hakkında yanlış laf etmeyelim, kimseyi laflarımızla zedelemeyelim, 
+	 bir şey hakkında yorum yapacaksak kesin doğru olanını söyleyelim, aynı zamanda kibar davranalım .."
+	"Söylemek mi, yoksa söyleyememek mi?"
+	"Sadece saygını hak eden kişilere, saygını göster .."
+	
+
 
