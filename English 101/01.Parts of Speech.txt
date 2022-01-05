@@ -161,72 +161,78 @@ I should/can/will go  --> yardımcı fiil kullanımı * Modals Her zaman V1
 
 
 ---> QUESTION WORDS - 5 W 1 H
-	what = thing		who = people			how many = number
-	which = choice		why = reason			how much = quantity
-	where = place		whose = possession		how often = frequency
-	when = time		how = method / manner
-		* WH sonrası preposition gelirse cümle sonuna atılır.
+		what = thing		who = people			how many = number
+		which = choice		why = reason			how much = quantity
+		where = place		whose = possession		how often = frequency
+		when = time		how = method / manner
+			* WH sonrası preposition gelirse cümle sonuna atılır.
+			
+		-----------------------------------------------------------------------------------------------------------	
 		
-what         	ne 		what are you talking about?			I am talking about information technologies
-             			what do you do (for work)?			I am an engineer
-	     	hangi		what foreign languages have you studied?	I have studied English, German and Russian
-	     			what format should I use?			
-             			what colour are your eyes?			my eyes are black
-what kind of .. ne tür		what kind of music do you like?			I like Rock songs
-             			what kind of cars do you want to drive?		I want to drive self-driving cars
-which        	hangi		which one was your car?				the red one was mine		one = car
-										the red one of the cars was my car
-             			which one do you prefer?			I prefer coffee americano	one = coffee
-             			which one do you want to try?			I want to try black one		one = dress
-				they went which way?				that way
-	    	-----------------------------------------------------------------------
-where       	nerede		where do you live (in)?				I live in New York from US
+what         	ne 		What are you talking about?			I am talking about information technologies
+             			What do you do (for work)?			I am an engineer
+	     	hangi		What foreign languages have you studied?	I have studied English, German and Russian
+	     			What format should I use?			You should use this one
+             			What colour are your eyes?			My eyes are black
+what kind of .. ne tür		What kind of music do you like?			I like Rock songs
+             			What kind of cars do you want to drive?		I want to drive self-driving cars
+which        	hangi		Which one was your car?				The red one was mine		one = car
+										The red one of the cars was my car
+             			Which one do you prefer?			I prefer coffee americano	one = coffee
+             			Which one do you want to try?			I want to try black one		one = dress
+				They went which way?				They went that way
+				
+	    	------------------------------------------------------------------------------------------------------------
+where       	nerede		Where do you live (in)?				I live in New York from US
             			
-where .. to    	nereye		where are you going (to)?			I am going to Stuttgart
-where .. from  	nereden		where are you from?				I am from Turkey
-				where are you coming from?			I am coming from İstanbul
-	    	-----------------------------------------------------------------------
-why         	neden		why will I have to clean up? 			because, there will be guests soon
+where .. to    	nereye		Where are you going (to)?			I am going to Stuttgart
+where .. from  	nereden		Where are you from?				I am from Turkey
+				Where are you coming from?			I am coming from İstanbul
+				
+	    	------------------------------------------------------------------------------------------------------------
+why         	neden		Why will I have to clean up? 			Because, there will be guests soon
 										You will have to clean up for guests
-	    			why do you sleep early? 			Because, I have got to get up early
-what .. for    	niçin		what do you come to the course for? 		I come to the course for English
-	    			noone knows why, what for
+	    			Why do you sleep early? 			Because, I have got to get up early
+				
+what .. for    	niçin		What do you come to the course for? 		I come to the course for English
+	    			
 		
-	    	-----------------------------------------------------------------------
-who         	kim		who’s that? 					that is George
-	    			who's this?					this is Albert
-            			who has seen the accident? 			a young man has seen the accident
-				who / whom did you invite?			sen kimi davet ettin?
-who .. to/with 			who is talking to/with you?     		Arnold is talking to/with me
-	    			who are you talking to/with?			I am talking to/with Arnold
-whom        	kimi, kime	whom did you see yesterday? 			I saw your old roommate yesterday
-            			whom do you meet every day?			I meet with my bf/gf every day
-with whom   	kiminle		with whom did you go?				I went with my bf/gf
-to whom     	kime		to whom did you go?				I went to my friend's house
-whose       	kimin		whose book did you borrow? 			I borrowed his book			borrow != lend
-            			whose is this book? 				It is Charlotte's
+	    	------------------------------------------------------------------------------------------------------------
+who         	kim		Who’s that? 					That is George
+	    			Who's this?					This is Albert
+            			Who has seen the accident? 			A young man has seen the accident
+				Who / whom did you invite?			I invited him and his wife
+who .. to/with kime/kiminle	Who is talking to/with you?     		Arnold is talking to/with me
+	    			Who are you talking to/with?			I am talking to/with Arnold
+whom        	kimi, kime	Whom did you see yesterday? 			I saw your old roommate yesterday
+            			Whom do you meet every day?			I meet with my bf/gf every day
+with whom   	kiminle		With whom did you go?				I went with my bf/gf
+to whom     	kime		To whom did you go?				I went to my friend's house
+whose       	kimin		Whose book did you borrow? 			I borrowed his book			borrow != lend
+            			Whose is this book? 				It is Charlotte's
 		
-	    	-----------------------------------------------------------------------
-when        	ne zaman	when do you wake up every day?			I wake up at six 	(am/pm)
-            			when do you go to work?				I go to work in the morning
-since when  	ne zmandan beri	since when have you been working there?		I have been working there since 2020	    
-what time   	ne zaman	what time is it?				it's five to seven (it is five minutes to seven o'clock)
+	    	------------------------------------------------------------------------------------------------------------
+when        	ne zaman	When do you wake up every day?			I wake up at six 	(am/pm)
+            			When do you go to work?				I go to work in the morning
+since when  	ne zmandan beri	Since when have you been working there?		I have been working there since 2020	    
+what time   	ne zaman	What time is it?				it's five to seven (it is five minutes to seven o'clock)
 					* it - hava ve saat ifadelerinde kullanılabilir
 				I guess, everybody else knew what time rehearsal was for.
 	    			Sanırım, provanın ne zaman olacağını herkes biliyordu.
 
-	    	------------------------------------------------------------------------
-how         	nasıl		how do you get to places?		I get to places by car
-											by private jet
-											by plane
-											by bus
-											by foot
-											by walking
+	    	------------------------------------------------------------------------------------------------------------
+how         	nasıl		How do you get to places?			I get to places by car
+												by private jet
+												by plane
+												by bus
+												by foot
+												by walking
+
 
 
 
 ---> PRONOUNS and POSSESSIVE ADJECTIVES 
-                     
+
 -----TO BE-----    Subject      OBJECT      			Possessive    	Possessive    	Reflexive
 Present    Past   Pronouns      PRONOUNS    			Adjectives    	Pronouns      	Pronouns
 ---------------------------------------------------------------------------------------------------------
@@ -242,14 +248,14 @@ are        were       they	them	(onları, onlara)    	their ...     	... theirs.
 
 
 ---> EXAMPLES
-he is going to teach him								o, ona öğretecek
-he is going to teach himself								o, kendisine öğretecek
-we steal our money from ourselves because of tax					vergiler yüzünden kendi paramızı kendimizden çalarız
-don't focus your goals instead, focus on the habits. Your habits take you to them	alışkanlıkların yerine, hedeflerine odaklanmayın. alışkanlıkların seni hedeflerine götürür 
-your salary per month is a bribe to forget your dreams and your rights			her ay aldığınız maaş, hayallerinizi ve haklarınızı unutmanız için size verilen bir rüşvettir
+He is going to teach him								o, ona öğretecek
+He is going to teach himself								o, kendisine öğretecek
+We steal our money from ourselves because of tax					vergiler yüzünden kendi paramızı kendimizden çalarız
+Don't focus your goals instead, focus on the habits. Your habits take you to them	alışkanlıkların yerine, hedeflerine odaklanmayın. alışkanlıkların seni hedeflerine götürür 
+Your salary per month is a bribe to forget your dreams and your rights			her ay aldığınız maaş, hayallerinizi ve haklarınızı unutmanız için size verilen bir rüşvettir
 I don't want you to spend time with the likes of him					onun gibilerle zaman harcamanı istemiyorum
-because of the likes of you								senin gibiler yüzünden 
-if I walk by myself, at least I know I'm with somebody I can trust			kendi başıma yürürsem, en azından güvenebileceğim biriyle birlikte olduğumu biliyorum 
+Because of the likes of you								senin gibiler yüzünden 
+If I walk by myself, at least I know I'm with somebody I can trust			kendi başıma yürürsem, en azından güvenebileceğim biriyle birlikte olduğumu biliyorum 
 My car is in front of the school
 This is Jack and this is his wife, Sue
 Put your coats on the back of your seats
