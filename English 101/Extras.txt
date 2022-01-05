@@ -1675,22 +1675,6 @@ u wank*r - seni *
 				   not important
 	
 
-🔻 S.W.O.T. Business Analysis
-	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
-
-				helpful					harmful
-				(to achieving the objective)		(to achieving the objective)
-								|
-	internal origin						|
-	(attributes of the organization)	strengthes	|	weaknesses 
-			   					|
-								|
-					------------------------|-----------------------
-								|
-	external origin				opportunities	|	threats
-	(attributes of the environment)				|
-		     						|
-			
 
 🔻 Gambler's fallacy
 	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
@@ -1709,6 +1693,59 @@ u wank*r - seni *
 
 	https://www.assessmentday.co.uk/
 	
+🔻 S.W.O.T. Business Analysis
+	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
+
+				helpful					harmful
+				(to achieving the objective)		(to achieving the objective)
+								|
+	internal origin						|
+	(attributes of the organization)	strengthes	|	weaknesses 
+			   					|
+								|
+					------------------------|-----------------------
+								|
+	external origin				opportunities	|	threats
+	(attributes of the environment)				|
+		     						|
+			
+🔻 Failure Mode Effects Analysis (FMEA)
+	Hata Türleri Etki Analizi
+	Proaktive Thinking feat. Engineering
+	Bir üründe oluşabilecek design veya process kökenli.. 
+		.. potansiyel tüm hata türlerinin sistematik olarak yapılan bir analiz ile öncesinde önlem almak için kullanılan  metod.
+	
+		1. Design FMEA (DFMEA)		2. System		3. Service		4. Process FMEA (PFMEA) 
+	
+			Failure		- Potential
+			Mode		- Types, Ways, Possibilities 
+			Effect		- Negative Effect on Process under Study
+			Analysis	- Study Risk and Reduce it
+	
+	
+	Formula:
+		Risk Öncelik İndeksi (Risk Öncelik Sayısı) = (hataların ortaya çıkma olasılığı) * (hatanın şiddeti) * (hatanın saptanabilirliği)
+			Genel kabulde;
+			• rös < 40 ise önlem almaya gerek yoktur.
+			• 40 =< rös =< 100 önlem alınmasında fayda vardır.
+			• rös > 100 ise mutlaka önlem alınması gerekir.
+	
+	Failure Modes, Effects, and Diagnostic Analysis (FMEDA)		-- Bu oranın 1'e yaklaşması, sistemin mükemmele yaklaşması anlamında
+	Failure Mode, Effects, and Criticality Analysis (FMECA)
+	
+	IN A LOOP
+		Team of the experts			Uzmanlardan oluşan ekip
+		Data for Analysis			Analiz için Veriler
+		Failures, Effects, Causes		Başarısızlıklar, Etkiler, Nedenler
+		Asset Criticality Assessment		Varlık Kritiklik Değerlendirmesi
+		Risk Mitigation Actions			Risk Azaltma Eylemleri
+		Effectiveness Analysis			Etkinlik Analizi 
+
+
+			İç-Dış Hata Maliyeti -------FMEA------- Hata Önleme Maliyeti
+				+		     O			+
+						Kalite Maliyeti
+
 
 🔻 How to value a company
 	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
@@ -1719,7 +1756,8 @@ u wank*r - seni *
 		Let's look at Coca-Cola (NYSE: KO)
 		
 		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
-		
+
+
 🔻 Politically Correct ...
 	"Bazı kavramları/durumları tabu haline getirerek .. değişmesi gereken şeylerin değişmesini, üstlerini sahte bir şekilde örterek geciktirmek, engellemek."
 	"Aman kimse hakkında yanlış laf etmeyelim, kimseyi laflarımızla zedelemeyelim, 
