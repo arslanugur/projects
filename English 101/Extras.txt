@@ -10,7 +10,6 @@ visualthesaurus
 https://www.visual-thesaurus.com/index.php
 https://graphwords.com/
 
-
 Complimentizer in English
 	1. wh-Constructions:	idk who entered the building
 	2. whether/if-clause:	idk whether he entered the bulding
@@ -201,11 +200,14 @@ right		hak
 
 
 ---> PHRASES
-improvisation - doğaçlama
-the human condition is a straight-up tragedy - insanlık hali, düpedüz bir trajedidir
+Improvisation - doğaçlama
+No offense but - alınma ama, kırılma ama
+Dont be offended - kırılma
+No hard feelings - bozulmak yok, darılmaca yok
+You wont admit it - kabul etmeyeceksin
+The human condition is a straight-up tragedy - insanlık hali, düpedüz bir trajedidir
 You are giving me a hard-on - çok pis gaza getiriyorsun beni
 Bees don't waste their time explaining to flies that honey is better than sh*t
-No hard feelings - bozulmak yok, darılmaca yok
 Persistance pays off - kalıcılık karşılığını verir
 I don't want to pull some strings - araya birilerini sokmak, torpil yaptırmak istemiyorum
 How did you manage to access all this information - bu kadar bilgiyi nasıl elde ettin?
@@ -214,12 +216,14 @@ Yesterday is gone, tomo is a mystery, today is a blessing - dün gitti, yarın b
 My philosophy is that worrying means you suffer twice - benim felsefem endişenmek iki kez acı çekmektir
 Flattery will get you nowhere - boşuna yağ çekme
 Present company excluded - sözüm meclisten dışarı
-snip, snap, snout, and then the story was out... - onlar ermiş muradına biz çıkalım
+Snip, snap, snout, and then the story was out... - onlar ermiş muradına biz çıkalım
 I am not buying it honey - yemezler canım
 Don't mess with me - bana bulaşma
-off duty - görevde değil
-full disclosure – doğrusunu istersen
-
+Off duty - görevde değil
+Full disclosure – doğrusunu istersen
+I'm still root for you - seni tutuyorum
+Dousing fire with gasoline - ateşi benzinle söndürmek
+No idea how you pulled that off - onu nasıl tavladın hiç bi fikrim yok 
 Don't go down that road just because you can change a person. can i put up with this? just think about it. nobody changes
 		bir insanı değiştirebilirim diye girme o yola. ben bunun huyuna katlanabilir miyim? diye düşün. kimse değişmez
 You are never sure about anything unless there is sth to be sure about - emin olunacak bir sey yoksa hiçbir şeyden emin olmazsın
@@ -231,16 +235,14 @@ Since I don't know what your feelings are, I don't know if these feelings have a
 When a blind man begins to see, he first breaks his own walking stick
 		kör bir adam görmeye başladığında, önce kendi bastonunu kırar 
 Good opportunity/positions don't win games, good moves do - iyi fırsat oyunu kazandırmaz, iyi hamle kazandırır
-Never appeal to a man's better nature - Asla birinin iyi yanına hitap edeğini düşünme!
-
+Never appeal to a man's better nature - Asla birinin iyi yanına hitap edeceğini düşünme
 I will hazard I can do more damage on my laptop sitting in my pyjamas before my first cup of Earl Grey than you can do in a year in the field
 don't lose momentum
 house always win
 move fast break things
-
-
-
-Keep eyes on the prize - ödüle gözünden ayırma - ödüle gözünü dik
+three Ds to achieve - desire (arzu), devotion (özveri), discipline, I cant give the first two but the last one I can give to you
+with conviction - inanarak, inanmak ile
+keep eyes on the prize - ödüle gözünden ayırma - ödüle gözünü dik
 youre a hurdy gurdy man - komik adamsın vesselam
 to some extent what she said is correct - söylediği şey belli bir oranda doğru
 don't talk the talk if you can't walk the walk - yapamayacağın şeyi söyleme, yüksekten atma, iddia etme
@@ -300,7 +302,7 @@ let me guess - dur tahmin edeyim
 let's just leave it at that  - bu konuyu kapatalım artık
 I am parched - dilim damağım kurudu
 keep your eyes peeled - gözünü dört aç
-err is human - hatasız kul olmaz
+to err is human - hatasız kul olmaz
 you got ripped off - kazıklanmışsın
 use restraint - kendini tutmayı/sınırlandırmayı lehine kullan
 don't piss me off - beni kızdırma
@@ -365,15 +367,14 @@ let's chew the fat - geyik muhabbeti
 keep your eyes peeled - gözlerini dört aç
 martial arts is not a phase - karate bir heves değildir
 to happy minority - exclusive
-
-
-
 I am on it - o iş bende
 it was not meant to be - kısmet değilmiş
 he told us everything word by word - kelimesi kelimesine her şeyi bize anlattı
 rock, paper, scissors - taş, kağıt, makas
 fancy seeing you here! - kimleri görüyorum!
 sometimes, their behaviour is the answer you need
+internet has been down for days - günlerdir kesik
+
 # MONEY
 can you break a twenty - bir yirmilik bozabilir misin
 I dont have any change on me - üzerimde hiç bozuk yok
@@ -405,6 +406,21 @@ we wont be able to hold them for much longer - onları daha fazla uzak tutamayı
 the event did not go well -by any means-
 I am not -in the least- hungry
 I have no sympathy -whatsoever-
+Strength and reinforce - güç kuvvet
+Quick temper - asabi, çabuk öfkelenen, tav, sinir -- hothead
+you start thinking outside the box - farklı bir açıdan yaklaşmaya başla
+whatever that means - ne demekse o
+
+Want some pointers - tüyo ister misin?
+Embarrassing - utanç verici
+Embracing - kucaklayan
+Reckless - umarsız, pervasız
+Gain confidence - özgüven kazanmak
+Binary bro - ister 1 ister 0 bro
+To break pattern - döngüyü kırmak
+To poach - ayartmak
+For the back up - destek için
+Got any advice? - Tavsiyen var mı? 
 under the circumstances should you travel alone
 no matter what you say, I will never believe	- whatever you say, I will never believe
 	ne söylersen söyle; asla inanmayacağım
@@ -466,8 +482,6 @@ tempt, play tempt, play and she is playing you - she is a wily temptress - o kur
 u can count on it - buna güvenebilirsin
 this is our last shot - bu bizim son şansımız/vuruşumuz
 I had no idea you were so much fun - bu kadar fazla eğlenceli olduğunu bilmiyordum
-look at the lives of those who deceived you with the promise of paradise and condemned you to poverty.. you will see that they live in paradise on this earth
-		seni cennet vaadiyle kandırıp fakirliğe mahkum edenlerin hayatlarına bak.. bu dünyada cenneti yaşadıklarını göreceksin
 silence is the resting state of the sentence. 
 When the rest is over, the sentence that comes out as vigorous. Don't talk too much and tire the sentence, otherwise everyone will get tired
 susmak, cümlenin istirahat halidir. istirahat bitince çıkan cümle dinç olur. çok konuşup cümleyi yorma, yoksa cümle alem yorulur
@@ -592,10 +606,14 @@ I am addicted to you
 she is well-built girl - yapili kiz
 keep me posted - beni haberdar et
 i will keep you updated - seni bilgilendirecegim
+I am tired of being right - haklı çıkmaktan yoruldum
 i should have never gone behind my dad's back
 if any of them kids give you trouble today, you send them my way - çocuklar canını sıkarsa bana gönder
 he is probably on his way to the bank right now
 take as much time as you need
+are you a little rusty - paslandın mı
+get through - üstesinden gelmek, başa çıkmak
+to call tow truck - çekiçi çağırmak
 there are how many billion people in this world?
 somehow you and i landed together - bir sekilde ikimiz ayni yere düstük
 get a cat, see if we can keep that alive first
@@ -643,9 +661,17 @@ You never made a request – hiçbir istekte bulunmadin
 sth’s just changed – biseyler degisti
 Sell sold
 Tell told 	
-
+haunted - perili
+slob - pasaklı
+ji.lf
+judas - hain
+there was an upside - işime de geldi
+discreet - kibar
+I will do whatever it takes to win
+fericious
+dope - baya iyi
 desperate
-covert -anlamazliktan gelmek
+covert - anlamazliktan gelmek
 the book is flying off the shelves - kitap kapis kapis gidiyor
 to cover expenses - giderleri karsilamak
 expenses are gonna be... roughly...double whatever u think they are
@@ -658,19 +684,15 @@ tüm bunlar bitttiginde - when all of this is over
 çiftliginize yatirim yapip yapmamayi tekrar konusmak iyi olacak
 maybe it would be a good tine to revisit the idea of me investing in your ranch
 flunked math - matematikten çaktım
-total makeover - 
+total makeover - tam yenileme 2.0 
 a favor for friend - arkadaş hatrına
 i want to sample them - onlari denemek istiyorum
 he can handle himself - başının çaresine bakar
-
-
 its jammed - sıkışmış oturmamış
-
-skirmisher
+skirmisher - çatışan kimse, avcı er
 To see the effectiveness işe yARARLILIK and efficiency of materials
-u are no longer necessary - artik isimize yaramazsin
-
-dread
+you are no longer necessary - artık işimize yaramazsın
+dread - bekleyen korku
 omit = neglect
 i dont interest myself in the why, i think more often in terms of when,sometimes where, but always how much
 reverse-engineering
@@ -691,10 +713,8 @@ onu son gördüğümde tam bir çöküş yaşıyordu
 senin için endişenmeye başladım - i am getting worried about you
 consolation prize, at least we get to be miraculously off the hook for everything
 teselli ödülü olarak paçamızı tüm olan bitenlerden kurtardık
-
-bununla başa çıkmak için kendi yolumu bulmalıyım - i need to find my own way to cope with this
+bununla başa çıkmak için kendi yolumu bulmalıyım - I need to find my own way to cope with this
 maybe it's sth i should have done a long time ago - belki de bu çok uzun zaman önce yapmam gereken birşeydi
-
 Today started just like yesterday n the day befor that n the day before that and every day for the last month
 kız olsaydı halam olurdu
 to conform
@@ -723,7 +743,6 @@ i figured you would be crafty enough to clean up afterward
 beunknownst to him - haberi yoktu
 capable - muktedir
 his will must be our guide
-internet has been down for days - günlerdir kesik
 
  
 the space between you
