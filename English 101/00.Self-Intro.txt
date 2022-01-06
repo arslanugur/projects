@@ -945,6 +945,7 @@ INTERVIEW SAMPLES
 		Do you have any hidden talents?
 		What is your favourite childhood memory?
 		What is the biggest risk you've taken?
+			the biggest risk I have taken is not to put unbreakable glass onto my phone screen
 		What is the bravest thing you've ever done?
 		If you could only watch one movie or television show for the rest of your life, what would it be?
 		Describe your ideal day.
@@ -968,9 +969,11 @@ INTERVIEW SAMPLES
 		What was your biggest workplace accomplishment?
 		What is your dream job?
 		Where do you see yourself in five years?
+		
 		What are you most passionate about?
 		What type of industry books, resources or materials are you currently reading?
 		What job did you want as a kid?
+				
 		What extracurricular activities did you participate in as a child?
 		What is one trait you would improve about yourself?
 		Can you play any musical instruments?
@@ -989,10 +992,13 @@ INTERVIEW SAMPLES
 		Do you enjoy team sports or group activities? (Why?)
 		What is father's job?
 		What did you do this year?
+				I studied all the year
 		Where will you probably go next year?
+				I will probably go to Russia next year, but It is just a dream 
 		Which is better for a family holiday: a hotel or camping? (Why?)
 		Which is easier: booking a holiday online or through a travel agent? (Why?)
 		Why do people like to travel abroad?
+				
 		What are the main things to consider when you pack your holiday suitcase?
 		What is your favorite season and why?
 		Do you think it is important to earn a lot of money? (Why? / Why not?)
