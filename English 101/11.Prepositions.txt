@@ -1,7 +1,7 @@
 PREPOSITION (EDAT)			prepared by Uğur ARSLAN, @arslanuguur
 ----------------------------------------
 	in/inside # out/outside
-	  in/into # out/ out of
+	  in/into # out/out of
 	       on # off
 	       to # from
 	  forward # backward
