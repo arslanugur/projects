@@ -3,7 +3,7 @@
 													--------------------------------------------
 				S	Freq. Adv. / Modals	V			O		Manner		Place		Time
 			------------------------------------------------------------------------------------------------------------------------------------
-how often     		do    you				go							outside
+how often     		do    	you				go							outside
 				I				go							outside		every day
 how often		do	you				read			book
 				I				read			book						once a week
