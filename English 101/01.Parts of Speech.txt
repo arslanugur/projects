@@ -81,6 +81,11 @@ The English Mind	özne fiil  nesne		özne    fiil    edat    nesne			özne   fii
 
 
 
+
+
+
+
+
 	SUBJECT					     VERB			    	OBJECT			ADVERB			     	( in , at, on )
 	--------------		-----------------------------------------------		--------------		-----------------------------------------------
 	noun / pronoun		regular		    		      irregular		noun / pronoun		manner (how?)	place (where?)	time (when?)
