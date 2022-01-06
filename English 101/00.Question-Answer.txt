@@ -1,36 +1,87 @@
+---> QUESTION WORDS											prepared by Uğur ARSLAN, @arslanuguur
+		
+		what = thing		who = person			how many = number
+		which = choice		why = reason			how much = quantity
+		where = place		whose = possession		how often = frequency
+		when = time		how = method / manner
+			* WH sonrası preposition gelirse cümle sonuna atılır.
+
+
+---> PRESENT SIMPLE QUESTIONS AND ANSWERS (VERB CLAUSE)
 
 																ADVERBS
-													--------------------------------------------
+													----------------------------------------------------
 				S	Freq. Adv. / Modals	V			O		Manner		Place		Time
 			------------------------------------------------------------------------------------------------------------------------------------
-how often     		do    	you				go							outside
-				I				go							outside		every day
-how often		do	you				read			book
-				I				read			book						once a week
-how often		do	you				play			games
-				I				play			games						three times a month
-how			do	you				read			book
-				I				read			book		regularly
-how many		do	you 				read			book						per month
-				I				read			five	books
 what			do	you				do									at weekend
-				I				go to							the library
+				I				go			to the library
 				I				play			games
-				I				go to							a cafe
+				I				go 			to a cafe
 				I 		never		meet			with my friends
+			------------------------------------------------------------------------------------------------------------------------------------
 			do	you				drive			a car
 				I				drive			a car
 				I		used to		drive			a car						before
-what kind of music 	do 	you	 			like?	
+			------------------------------------------------------------------------------------------------------------------------------------
+What			do	you				do			for work?
+				I am an engineer
+			------------------------------------------------------------------------------------------------------------------------------------
+What kind of music 	do 	you	 			like?	
 				I				like			rap music
-when 			do 	you 				start 			the day?
-				I				start			the day						at 8
-what subjects 		do	you 				like 							at university?
-				I				like			heat transfer
-how 			do 	you				go/travel to 		school/work?
-				I		sometimes	go to			school				by bus
-how much time/how often	do	you 				spend to study / work?
+			------------------------------------------------------------------------------------------------------------------------------------
+What subjects 		do	you 				like 							at university?
+				I				like			heat transfer			
+			------------------------------------------------------------------------------------------------------------------------------------	
+Which one 		do	you				prefer?
+				I				prefer			coffee americano
+			------------------------------------------------------------------------------------------------------------------------------------
+Which one 		do	you				want to try?
+				I				want to try		black one
+			------------------------------------------------------------------------------------------------------------------------------------	
+Where			do	you				live?
+				I				live			in New York from US
+			------------------------------------------------------------------------------------------------------------------------------------	
+How			do	you				read			book
+				I				read			book		regularly
+			------------------------------------------------------------------------------------------------------------------------------------
+How			do	you				get			to places?
+				I				get			to places			by car
+			------------------------------------------------------------------------------------------------------------------------------------
+How 			do 	you				go			to school/work?
+				I		sometimes	go			to school			by bus
+			------------------------------------------------------------------------------------------------------------------------------------	
+How many		do	you 				read			book						per month
+				I				read			five books
+			------------------------------------------------------------------------------------------------------------------------------------
+How often     		do    	you				go							outside
+				I				go							outside		every day
+			------------------------------------------------------------------------------------------------------------------------------------
+How often		do	you				read			book
+				I				read			book						once a week
+			------------------------------------------------------------------------------------------------------------------------------------
+How often		do	you				play			games
+				I				play			games						three times a month
+			------------------------------------------------------------------------------------------------------------------------------------
+How much time		do	you 				spend to study / work?
 				I				spend to study								two hours a day
+			------------------------------------------------------------------------------------------------------------------------------------
+When 			do 	you 				start 			the day?
+				I				start			the day						at 8
+			------------------------------------------------------------------------------------------------------------------------------------
+When			do	you				wake up									every day?
+				I				wake up									at six
+			------------------------------------------------------------------------------------------------------------------------------------
+When			do	you				go to work?
+				I				go to work								in the morning
+			------------------------------------------------------------------------------------------------------------------------------------
+Whom			do	you				meet									every day?
+				I				meet			with my bf/gf					every day
+			------------------------------------------------------------------------------------------------------------------------------------
+Why			do	you				sleep									early?
+				Because, I have got to get up early
+			------------------------------------------------------------------------------------------------------------------------------------
+What			do	you				come			to the course for? 		
+				I				come			to the course for English
 
 
 
