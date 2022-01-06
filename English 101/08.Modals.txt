@@ -247,9 +247,28 @@ Deduction
 	- we had to wake up very early this morning because our bus was at seven am.	(past necessity)
 
 
---> MANAGED TO	uğraş sonucu elde edilen başarı
+--> MANAGED TO			uğraş sonucu elde edilen başarı
 	- Somehow she managed to take a few steps, and then a few more - fury driving her on.
 	- he tried to talk, but he only managed to cough.
+
+
+
+
+--> BE ACCUSTOMED TO		alışkın olmak
+	- You will have to be more careful until you are accustomed to your strength
+		Gücünüze alışana kadar daha dikkatli olman gerekecek
+	- She was accustomed always to oppose anything announced in that timid tone and considered it her duty to do so	
+		O ürkek ses tonuyla duyurulan her şeye her zaman karşı çıkmaya alışıktı ve bunu yapmayı bir görev sayıyordu
+	- While kids might be accustomed to accessing the Internet to play games and surf the Web, 
+		they may not realize that there is a world of books just waiting for them to enjoy
+	Çocuklar, oyun oynamak ve Web'de gezinmek için İnternet'e erişmeye alışmış olsalar da, 
+		onları eğlenmek için bekleyen bir kitap dünyası olduğunu fark etmeyebilirler
+	- If you are not accustomed to getting facials, you may notice your skin becoming more blemished.
+		Yüz bakımı yaptırmaya alışkın değilseniz, cildinizin daha fazla lekelendiğini fark edebilirsiniz. 
+	- After I grew accustomed however, I can see just how intuitive it really is.
+		Ancak alıştıktan sonra, bunun gerçekten ne kadar sezgisel olduğunu görebiliyorum. 
+
+
 	
 --> HAD BETTER	
 
