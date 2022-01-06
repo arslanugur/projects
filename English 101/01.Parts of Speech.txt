@@ -210,7 +210,8 @@ with whom   	kiminle		With whom did you go?				I went with my bf/gf
 to whom     	kime		To whom did you go?				I went to my friend's house
 whose       	kimin		Whose book did you borrow? 			I borrowed his book			borrow != lend
             			Whose is this book? 				It is Charlotte's
-		
+				Whose side are you on? 				I am on your side			sen kimin tarafıdasın?
+				
 	    	------------------------------------------------------------------------------------------------------------
 when        	ne zaman	When do you wake up every day?			I wake up at six 	(am/pm)
             			When do you go to work?				I go to work in the morning
