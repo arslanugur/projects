@@ -7,13 +7,56 @@ başkt üniversitesi
 EV3 block kodlama Dili
 
 
+
+---> https://www.akaeskisehir.com/
+https://www.akaeskisehir.com/Egitimler/Yapay%20Zeka%20%28AI%29
+100 saat - 3 ay 20 soruluk %50 ayda bir canlı ders
+discord
+1855 tl - 12 ay taksit   ---  3  aylık taksit
+
+
+1000 tl - robotik kodlama 
+      py robotik kodlama
+      - 100 saat (92 saat uzaktan, 8 saat supervision)
+      - yaklaşık 2-2,5 ay
+      - bitiminde online sınav 20 soru test - 60dk - %50 başarı
+      - 3 sınav hakkı
+      
+      eğitim içeriği
+      - robot nedir
+      - lego mindstorm EV3 Set
+      - EV3 yazılımına giriş        - arduino yazılım dili
+      - ev3 yazılımı genel
+      - ev3 yazılımı araçlar
+      - ev3 yazılımı program blokları
+      - robot düz sürüş
+      - robot dönüşler
+      - robot sensörler
+      - robot sensörler
+      - robot karar verme
+      - microsoft small basic tanıtım
+      - python diline giriş - orta - son
+      - small basic yükleme ve test
+      - small basic motorlar
+      - small basic sensörler
+      - small basic LCD Ekran, Led Işıklar, butonlar ve sesler
+      - small basic ev3 explorer
+      - small basic bluetooth ve wifi
+      - small basic ileri seviye
+      Eğitmenler: Caner Sayan, Umut Can Altın: 31 303 09 73
+      
+
+
+
+
+
 ---> İSTANBUL TİCARET ÜNİVERSİTESİ
 Bilginet Akademi 
 Mekatronik Mühendisleri
 en temelden arduino 7.seviyeye kadar
 6 ay ayda 2 kere canlı ders 8 v 9 arasında  -- 12 tane canlı yayın
-sertifika edevlet ve CPD sertifikalı
-3270tl 
+sertifika e-devlet ve CPD sertifikalı
+3270tl
 1870tl ücretsiz arduino seti
 ödeme planı 2den 12 aya kadar
 sınav - 40 soru 60 dk %50 geçme notu 
