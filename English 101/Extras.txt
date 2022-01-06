@@ -984,6 +984,21 @@ my treat - bu benden
 allow me - müsaadenizle
 it is my turn - benim sıram
 save yourself - kendini kurtar
+i am over it - benden bu kadar
+handful - ele avuca sığmaz
+freaked out - gerildim
+to the victor go the spoils - ganimet kazananlarınındır
+stil stink - halen fiyasko
+wiseass - ukala
+time out - mola
+time up - zaman bitti
+let him cool off - bırak sakinleşsin
+overall - ortalamada
+to tally - açıklamak
+we are just getting started - henüz daha yeni başlıyoruz
+mess with - bulaşmak
+you are acting out - asabisiniz
+party on - partiye devam
 come on, bring it in - gel bakalım buraya
 I am so focused on winning all the time - her zaman kazanmaya o kadar odaklanıyorum ki
 My eyes met many eyes but only got lost in yours
@@ -1082,9 +1097,9 @@ priceless - kıymetli
 I'm awake - uyanığım
 CASHLESS SOCIETY
 be authentic - özgün ol
-accustomed
 nice pull - iyi numara
 cough it up  - öt bakalım
+
 
 
 
@@ -1580,17 +1595,21 @@ Paul, ever the optimist, agreed to try again.
  - aslında diğer insanlar onun için o kadar az olabilir. 
  Bu nedenle yüksek düzeyde bir zeka, bir insanı sosyal olmaktan çıkarır.” A. Schopenhauer, Yaşamın Bilgeliği
 
+
 SLANG - ARGO
-you feel at s***ty as I do - sen de benim gibi **k**n mı hissediyorsun
-***k your ideas - ***mi-*m fikirlerini
-*hit! I'm down - ***t**, öldüm
-what an as**ole - pu**un *e*i
-u wank*r - seni * 
+	you feel at s***ty as I do - sen de benim gibi **k**n mı hissediyorsun
+	***k your ideas - ***mi-*m fikirlerini
+	*hit! I'm down - ***t**, öldüm
+	what an as**ole - pu**un *e*i
+	u w*nk*r - seni * 
+	just busting b*lls - sadece **ş** g**iy*or
+	h**k up - t*k*lmak, y**mak
 
 
 
 
----> Beynin ve durum yapılarının işleyişi üzerine yöntemler, araştırmalar 
+
+---> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER 
 🔻 Reason/Logic
 	Mantık
 	you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
