@@ -1,6 +1,6 @@
 Akıl Zeka Oyun Türleri
       Kare Tangram                  T Tangram               Yumurta Tangram         Hanoi Towers                  Meta Forms
-      Anti Virüs (Red Storm)        Katamino                Eoualibro               Road Block                    Q Bits
+      Red Storm                     Katamino                Equalibro               Road Block                    Q Bits
       Dizios                        Görsel Dikkat           Set                     İlişkilendirme                Bak Ne Değişti Oyunu
       Dixit                         Koridor                 Mangala                 Hedef                         3 Taş Ve 9 Taş Oyunu 
       ABC Bağlama                   ABC Kolay Bağlama       Apartmanlar             Sihirli Piramit               Mutlu Bardaklar Oyunu
