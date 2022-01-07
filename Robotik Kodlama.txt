@@ -1,3 +1,20 @@
+Akıl Zeka Oyun Türleri
+      Kare Tangram                  T Tangram               Yumurta Tangram         Hanoi Towers                  Meta Forms
+      Anti Virüs (Red Storm)        Katamino                Eoualibro               Road Block                    Q Bits
+      Dizios                        Görsel Dikkat           Set                     İlişkilendirme                Bak Ne Değişti Oyunu
+      Dixit                         Koridor                 Mangala                 Hedef                         3 Taş Ve 9 Taş Oyunu 
+      ABC Bağlama                   ABC Kolay Bağlama       Apartmanlar             Sihirli Piramit               Mutlu Bardaklar Oyunu
+      Üçgen Birleştirme             Rondo Vario             Shapy                   Six                           Skippity
+      Domino Birleştirme Oyunu      Çarpmaca                Futosiki                Patika                        Pomela
+      Çadır                         Çit                     Camuflace               Block Buddies                 Jenga
+      Candy                         Keva Colors             Legolino                Look Look                     Qwrikle
+      Reversi                       Yörünge Oyunu           Dönence Oyunu           Frog Oyunu                    Aynısını Bul Oyunu
+      IQ Küpleri                    Öykü Küpleri Oyunu      Renkli Şekiller Oyunu   Scrable Core Oyunu            Kendoku
+      Soma Cube                     Chess                   Go                      Kugler Oyunu                  Sudoku
+      Battleship (Amiral Battı)     Cards Against Humanity
+      
+
+
 ---> BAŞKENT ÜNİVERSİTESİ
 YÜCEL TEKİN
 haftada bir gün 8-9 
@@ -6,6 +23,8 @@ başkt üniversitesi
 1500tl 12 kadar taksit
 EV3 block kodlama Dili
 
+
+https://istanbulbogazicienstitu.com/online-egitimler/yapay-zeka-egitimi
 
 
 ---> https://www.akaeskisehir.com/
