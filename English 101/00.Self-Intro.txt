@@ -591,7 +591,7 @@ INTRODUCTION YOURSELF					prepared by Uğur ARSLAN, @arslanuguur
                                     I went shopping
             
             	where did you go shopping?
-            
+            		
             	what time does your English lesson start?
 
             	do you have any hobby?
@@ -710,7 +710,7 @@ INTRODUCTION YOURSELF					prepared by Uğur ARSLAN, @arslanuguur
 					
             	what music do you like?
                                     	I like Rock music
-            
+            				
             	Are you good at English?
                                     	yes, I'm quite good at English
                                     	no, I'm bad at English
