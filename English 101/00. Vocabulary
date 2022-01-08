@@ -11,11 +11,40 @@ Saturday        setırdey          CUMARTESİ
 Sunday	        sandey            PAZAR (günü)				
 Sun             san               GÜNEŞ				
 Sum             sam               TOPLAM				
-Summer          samır             YAZ				
-Sunshine	      sanşayn           GÜNEŞ IŞIĞI
+Summer          samır             Yaz
+Winter          vintır            Kış
+Sunshine        sanşayn           GÜNEŞ IŞIĞI
+Suntan          santen            BRONZ RENGİ (ciltte)
+Moon            muun              Ay
+Moonlight       muunlayt          Ay Işığı
+
+Week	wiik	HAFTA
+Month	manth	AY (takvim ayı)
+
+They	dey	ONLAR (çoğul üçüncü kişi zamiri)
+Their	theır	ONLARIN
+Them	them	ONLARI
+Then	then	1.ÖYLEYSE 2.O ZAMANDA 3.ONDAN SONRA,DAHA SONRA
+Than	den	...DEN ...DAN EKİ
+There	theer	1.ORADA 2.VAR OLMAK (There is DALLAS on TV today.)
+Therefore	deırfoor	DOLAYISIYLA
+These	diiz	BUNLAR
+Until	antil	KADAR (belli bir zamana kadar)
+Weather	wedır	HAVA;İKLİM
+What	wat	NE
+Whatever	watevır	HERNEYSE
+When	wen	NE ZAMAN
+Whenever	wenevır	1.HERHANGİ BİR ZAMAN  2.NE ZAMAN Kİ ...
+Where	weır	NEREYE, NEREDE
+While	wayl	BU ARADA
+Moment	moumınt	AN
+Morning	morning	SABAH
 
 
 
+
+A
+-----------------------------------------------------------------
 Ability         ebılıti	          yetenek, beceri
 Able            eybıl             muktedir
 Abandon         ebandın	          terk etmek
@@ -1530,13 +1559,9 @@ Model	madl	MODEL (model araba,manken v.b)
 Moderate	madırıt	ILIMLI, ORTADA
 Modern	madn	MODERN, ÇAĞDAŞ
 Modest	modıst	ALÇAKGÖNÜLLÜ, ILIMLI
-Moment	moumınt	AN
 Money	mani	PARA
 Monkey	manki	MAYMUN
-Month	manth	AY (takvim ayı)
-Moon	muun	AY
 More	mor	DAHA FAZLA
-Morning	morning	SABAH
 Mosque	mosk	CAMİ
 Most	moust	EN ÇOK
 Mother	madır	ANNE
@@ -1882,7 +1907,8 @@ Queue	küu	SIRA, KUYRUK
 Quick	kuik	ÇABUK				
 Quiet	kuayıt	SESSİZ, SAKİN, HUZURLU				
 Quite	kuayt	HEMEN HEMEN, YAKLAŞIK OLARAK				
-Quiz	kuiz	KÜÇÜK TEST				
+Quiz	kuiz	KÜÇÜK TEST
+
 Rabbit	rebit	TAVŞAN				
 Race	reys	IRK				
 Race	reys	YARIŞMAK				
@@ -2292,7 +2318,6 @@ Sugar	şugır	ŞEKER
 Suggest	sıcest	ÖNERMEK				
 Suggestion	sıcesşn	ÖNERİ				
 Suit	suut	1.YAKIŞMAK 2.UYGUN GELMEK 3.TAKIM ELBİSE	
-Suntan	santen	BRONZ RENGİ (ciltte)
 Super	suupır	SÜPER
 Superb	supörb	HARİKA, ÇOK GÜZEL				
 Superstition	supıstişn	BATIL İNANÇ				
@@ -2353,17 +2378,9 @@ Terrible	terıbl	KORKUNÇ, KÖTÜ
 Terrific	tırifik	1.KOCAMAN 2.ÇOK GÜZEL
 Terror	terır	1.BÜYÜK KORKU  2.TERÖR
 Test	test	SINAMAK, DENEMEK, TEST
-Than	den	...DEN ...DAN EKİ
 Thank	thenk	TEŞEKKÜR ETMEK
 That	det	O
 Theatre	thiıtır	TİYATRO
-Their	theır	ONLARIN
-Them	them	ONLARI
-Then	then	1.ÖYLEYSE 2.O ZAMANDA 3.ONDAN SONRA,DAHA SONRA
-There	theer	1.ORADA 2.VAR OLMAK (There is DALLAS on TV today.)
-Therefore	deırfoor	DOLAYISIYLA
-These	diiz	BUNLAR
-They	dey	ONLAR (çoğul üçüncü kişi zamiri)
 Thick	thik	1.KALIN 2.SIK
 Thief	thiif	HIRSIZ
 Thin	thin	İNCE
@@ -2480,7 +2497,6 @@ Unless	anles	OLMADIKÇA
 Unlikely	anlaykli	AZ İHTİMALLE				
 Unload	anloud	BOŞALTMAK (yük boşaltmak)				
 Unlock	anlok	KİLİDİ AÇMAK				
-Until	antil	KADAR (belli bir zamana kadar)				
 Up	ap	1.YUKARI  2.DİKİNE  3.TÜMÜYLE				
 Up-To-Date	ap tı deyt	BUGÜNE KADAR				
 Upper	apır	ÜST				
@@ -2554,20 +2570,12 @@ Wealth	welth	SERVET
 Weapon	wepın	SİLAH
 bullet  balıt kurşun, mermi
 Wear	weır	GİYMEK
-Weather	wedır	HAVA;İKLİM
-Week	wiik	HAFTA
 Weigh	weit	AĞARLIK, TARTMAK
 Welcome	welkam	1.AĞIRLAMAK, HOŞ GELDİN
 Well	wel	1.İYİ 2.KUYU
 Well-Known	wel noun	ÜNLÜ, BİLİNEN
 West	west	BATI
 Wet	wet	NEMLİ
-What	wat	NE
-Whatever	watevır	HERNEYSE
-When	wen	NE ZAMAN
-Whenever	wenevır	1.HERHANGİ BİR ZAMAN  2.NE ZAMAN Kİ ...
-Where	weır	NEREYE, NEREDE
-While	wayl	BU ARADA
 Whip	wip	KIRBAÇ
 Whistle	wisl	ISLI, ISLIK ÇALMAK, DÜDÜK
 White	wayt	BEYAZ, AK, BEYAZ TENLİ
@@ -2587,7 +2595,6 @@ Wind	waynd	SARMAK, KURMAK (saat v.b )
 Wind	wind	RÜZGAR				
 Window	windou	PENCERE				
 Wine	wayn	ŞARAP				
-Winter	wintır	KIŞ				
 Wipe	wayp	SİLMEK, KURULAMAK (havluyla vs.)				
 Wire	wayır	1.TEL 2.TELGRAF				
 Wireless	wayılıs	TELSİZ				
