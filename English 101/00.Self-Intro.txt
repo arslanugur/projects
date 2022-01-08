@@ -76,6 +76,7 @@ INTRODUCTION YOURSELF					prepared by Uğur ARSLAN, @arslanuguur
 					Being with my friends in the same neighborhood makes me happy
 					Our house is on third floor
 					There are some trees, and roses in our garden
+					
             
 		tell me about your town?      (senin şehrin hakkında bana anlat)
 					my town is ...
@@ -781,6 +782,7 @@ INTRODUCTION YOURSELF					prepared by Uğur ARSLAN, @arslanuguur
             	how often do you use the internet?
                                     	I use the internet every day
                                     	I don't use internet much
+					Internet is a part of our lives
             
             	what is your husband/wife/boyfriend/girlfriend's name?
                                     	my husband/wife/boyfriend/girlfriend's name is ...
