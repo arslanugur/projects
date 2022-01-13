@@ -18,7 +18,7 @@ accuse of                                                               suçlama
 accept to         acceptance              acceptable to                 bir şeyi yada bir teklifi kabul etmek
 agree to/on/with  agreement on            agreeable                     kabul etmek, bir konu hakkında anlaşmak, hemfikir olmak, onaylamak
                                                                         I agree with you
-argue with        argument                                              birisiyle tartışmak, iddialaşmak 
+argue with        argument                argmentative                  birisiyle tartışmak, iddialaşmak 
 accord            accordance              according to                  uygun hale getirmek -- uygunluk -- -e göre
                                                                         according to me - bana göre
 admit to          admission               admittedly - kuşkusuz         kabul etmek, içeri almak (okul vs), itiraf etmek 
@@ -32,8 +32,8 @@ interact          interaction             interactive                   etkileş
 appreciate        appreciation            appreciating                  takdir etmek -- takdir -- takdir eden
                   appreciation for                                      to be thankful upon sth -- bir şey için takdir etmek 
 arrange           arrangement             range                         düzenlemek, ayarlamak, yerleştirmek, kararlaştırmak --- dizi, menzil, alan, sıra                   
-attribute to      attribute/attribution                                 atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
-                                                                        attribute - bir durumun bir şey tarafından sebep olduğuna inanmak 
+attribute to      attribute/attribution   attributive                   atfetmek, dayandırmak, bağlamak -- özellik, nitelik, vasıf
+                                                                        bir durumun bir şey tarafından sebep olduğuna inanmak 
 contribute        contribution                                          katkıda bulunmak -- katılım, destek, iştirak
 attain            attainment                                            ulaşmak, elde etmek, erişmek
 contain           containment                                           içermek, kapsamak -- kapsama, önleme, içerme
@@ -68,11 +68,6 @@ apply             application             applied                       uygulama
                   availability            available                     mevcut olma, hazır bulunma, müsait olma
 assemble          assembly                                              toplanmak, birleştirmek
 resemble          resemblance                                           benzemek, benzetim
-assist            assistance              assistant                     yardım etmek -- yardım -- yardımcı, asistan
-insist            insistence                                            ısrar etmek, diretmek -- ısrar
-consist of        consistency                                           bir şeyden oluşmak -- tutarlılık, kıvam, yoğunluk
-resist            resistance                                            direnmek -- direnç, karşı koyma
-persist           persistence                                           devam etmek, sürdürmek -- dayanıklılık, sebat, inat
 aim at            aim                                                   bir şeyi hedeflemek 
 attempt at        attempt                                               -e kalkışmak, teşebbüs etmek 
 attack on         attack                                                birine saldırmak, saldırı 
@@ -82,9 +77,9 @@ answer to                                                               bir şey
 appeal to                                                               to ask for sth, usually in an urgent or pleading manner bir şeye başvurmak/istemek 
 appear to         appearance              apparant-ly                   give the impression of being e görünmek/görünür olmak 
 apply to                                                                make a formal application or request e başvurmak 
-adapt to          adaptation             adapted                        -e uyarlamak / -e adapte olmak 
-add to            addition               added                          -e eklemek
-addict            addiction            
+adapt to          adaptation              adapted                        -e uyarlamak / -e adapte olmak 
+add to            addition                added                          -e eklemek
+addict            addiction               addicted
 approach to                                                             come near or nearer to sb or sth in distance or time e yaklaşmak 
 adhere to                                                               to continue to obey a rule or have a belief bir kurala veya inanca bağlı kalmak 
 adjust to         adjustment                                            -e uyarlamak / e alışmak 
@@ -92,7 +87,7 @@ assign to         assignment                                            appoint 
                   attachment to                                         affection, fondness, or sympathy for sb or sth birine veya bir şeye karşı bağlılık  
 allege to                                                               to say that sb has done sth illegal or wrong without giving proof iddia etmek 
 attend to         attention to            attentive to                  biriyle veya bir şeyle ilgilenmek yada bakmak 
-approve           approval of                                           accept sth is good bir şeyin onaylanması durumu 
+approve           approval of             approved                      accept sth is good bir şeyin onaylanması durumu 
                                           ashamed of                    be embrassed because of sth bir şeyden utanmak 
                                           afraid of                     feel fear of sth bir şeyden korkmak 
 assure of                                                               tell someone something positively to dispel any doubts birine güvence vermek 
@@ -123,11 +118,11 @@ advantage over                                                          birisiyl
 
 
 ---> B
-                                          bad at                    be unsuccessfull in sth bir şeyde kötü olmak 
-                  brevity = courageous    brave of                  cesaretli olmak 
+-                 -                       bad at                    be unsuccessfull in sth bir şeyde kötü olmak 
+-                 brevity = courageous    brave of                  cesaretli olmak 
 behave            behaviour                                         davranmak, -e göre davranmak -- davranış
 believe in        belief in               believer                  inanmak -- inanç
-                  faith                   faithful                  inanç
+-                 faith                   faithful                  inanç
 convince                                                            birini inandırmak 
 belong to         belonging = property                              ait olmak -- özel eşya
 benefit from      beneficence             beneficial to             yararlanmak, -e yararlı olmak, faydalanmak -- yarar, hayır, fayda -- faydalı --> helpful, useful
@@ -157,41 +152,50 @@ cause of          cause                   because of                bir şeye se
 care              care                    careful about             bir şey hakkında dikkatli olmak
                                           careless of               not concerned or worried about sth bir şeye dikkatsiz/ilgisiz olmak  
 cure for          cure                    curative                  relieve of the symptoms of a disease or condition bir şeyin tedavisi olmak 
-collaborate       collaboration           collaborative             iş birliği yapmak, el ele vermek, birlik olmak
+cure for          curation                curative                  tedavi etmek -- tedavi -- tedavi edici
+-----------------
 coordinate        coordination            coordinator               koordine etmek, düzenlemek, uyum sağlamak
-cooperate         cooperation             cooperative
+cooperate with    cooperation             cooperative               işbirliği yapmak
+collaborate with  collaboration           collaborative             iş birliği yapmak, el ele vermek, birlik olmak
+-----------------
 comprehend        comprehension           comprehensive             kapsamlı
 reprehend         reprehension                                      azarlamak, kınamak
-consider          consideration           considerable              iyice düşünmek -- önemli
-concern           concernment             concerning with           ilgilendirmek, kaygılandırmak, endişe-lendirmek
-commence          commencement                                      başlamak, başlatmak
-                  commerce                commercial                ticaret, alım satım  -- ticari, reklam
-consist           consistence             consistent                oluşmak, meydana gelmek
-insist            insistence              insistent                 ısrar etmek, tutturmak, diretmek
-resist            resistence              resistant                 direnmek, karşı koymak, dayanmak 
-persist           persistence             persistent                sebat etmek, azmetmek, devam etmek, inat etmek         
-assist            assistance              assistant                 yardım etmek, desteklemek
-contain           containment                                       içermek
-contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
-infect            infection               infected / infectious     bulaşmak, enfeksiyon, bulaşıcı
-concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
-convince of       conviction*             convincing                doğruluğuna ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
-convict of                                                          birini bir şeyden dolayı mahkum etmek 
+-----------------
+consist of        consistence             consistent                meydana gelmek, bir şeyden oluşmak -- tutarlılık, kıvam, yoğunluk
+insist            insistence              insistent                 ısrar etmek, tutturmak, diretmek -- ısrar -- ısrarlı
+assist            assistance              assistant                 yardım etmek, desteklemek -- yardım -- yardımcı, asistan
+resist            resistance              resistant                 direnmek, karşı koymak, dayanmak -- direnç, karşı koyma
+persist           persistence             persistent                sebat etmek, azmetmek, devam etmek -- dayanıklılık, sebat, inat
+-----------------
+corrupt           corruption
+erupt             eruption
+interrupt         interruption
+-----------------
+count             counting                (un)countable             saymak -- sayım -- sayılabilir
+discount          discount                                          saymamak, indirim
+account           account, accounting     accountant                hesaplamak, muhasebesini yapmak, açıklamasını yapmak
+-----------------
+refine
+confine to                                                              to only exist in a particular area or group of people sınırlamak 
 confide           confidence              self confident            güvenmek -- güven -- kendine güvenen
                   fidelity                                          sadakat
                   loyalty                 loyal                     sadakat -- sadık
                   faith                   faithful                  inanç -- inançlı
                   convenience             convenient                kolaylık, kullanışlılık
-corrupt           corruption
-erupt             eruption
-interrupt         interruption
-cure              curation                curative                  tedavi etmek -- tedavi -- tedavi edici
-conclude          conclusion              conclusive                sonuçlandırmak
 compare           comparision             comparative               kıyaslamak
+prepare           preparation             preparative
+consider          consideration           considerable              iyice düşünmek -- önemli
+concern           concernment             concerning with           ilgilendirmek, kaygılandırmak, endişe-lendirmek
+commence          commencement                                      başlamak, başlatmak
+                  commerce                commercial                ticaret, alım satım  -- ticari, reklam
+contain           containment                                       içermek
+contamine         contamination           contagious                kirletmek, bulaştırmak -- bulaşıcı
+infect            infection               infected / infectious     bulaşmak, enfeksiyon, bulaşıcı
+concur            concurrence             concurrent                eş zamanlılık -- eş zamanlı
+convince of       conviction*             convincing                doğruluğuna ikna etmek, inandırmak -- inanma, mahkumiyet, inanç, suçlu bulma
+convict of                                                          birini bir şeyden dolayı mahkum etmek
+conclude          conclusion              conclusive                sonuçlandırmak
 continue          continuity/continuum    continuous                devam etmek -- süreklilik
-count             counting                (un)countable             saymak -- sayım -- sayılabilir
-discount          discount                                          saymamak, indirim
-account           account, accounting     accountant                hesaplamak, muhasebesini yapmak, açıklamasını yapmak
 connect           connection              connector/connected       başlantı kurmak, bağlanmak
                   condition               conditional               şart, koşul          
 concede           concession                                        kabullenmek, ödün vermek -- imtiyaz, taviz
@@ -212,7 +216,6 @@ sacrifice         sacrifice                                         kurban etmek
 compete in                                                              to make an effort to be more succesful rekabet etmek
 confide in                                                              trust güvenmek 
 change to                                                               to convert sth to a different form or method bir şeyin farklı bir forma dönüşmesi / e değişmek 
-confine to                                                              to only exist in a particular area or group of people sınırlamak 
 contribute to                                                           give sth, especially money in order to help achieve or provide something bir şeye katkı sağlamak 
 close to                                                                very near to sb or sth e yakın olmak 
 compare to                                                              in relation to sth else : measured or judged against sth bir şeyle karşılaştırmak 
@@ -226,9 +229,7 @@ charge with                                                             to offic
 consistent with                                                         not containing any logical contradictions ile tutarlı olmak 
 content with                                                            be satisfied with what one have ile yetinmek / ile memnun olmak 
 coincide with                                                           occur at the same time ile rastlaşmak / ile denk gelmek 
-collaborate with                                                        work jointly on an activity or project with sb biriyle iş birliği yapmak 
-combine with      combination             combined                      join or merge to form a single unit with sth ile birleştirmek 
-cooperate with                                                          to work with sb in a positive manner for a common purpose ile işbirliği yapmak 
+combine with      combination             combined                      join or merge to form a single unit with sth ile birleştirmek  
 cope with                                                               deal effectively with something difficult ile başa çıkmak 
 correspond with                                                         communicate by exchanging letters /to match or be similar / biriyle yazışmak / ile uymak 
 communicate with  communication           communicated                  share or exchange information with sb biriyle iletişim kurmak 
