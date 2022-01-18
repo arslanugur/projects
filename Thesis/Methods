@@ -1,0 +1,190 @@
+---> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER 
+🔻 Reason/Logic
+          Mantık
+          you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
+          axiom - aksiyom
+          reasoning rules - akıl yürütme kuralları
+          inference rules - çıkarım kuralları
+
+🔻 Gamification
+          Oyunlaştırma
+          "Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
+          Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
+	
+          Tanım:
+          Oyun mekaniklerini oyun olmayan alanlarda kullanarak 'kişilerin davranışlarını etkilemek'
+          Oyun dinamikleri (motivasyonları) ve mekanikleri kullanılarak katılım ve etkileşim sağlanıyor.
+          Şirketler, Bunun için genellikle bir web site, app, social network ya da kampanya kullanıyor
+	
+          Başlıca Oyun Dinamikleri:	Başlıca Oyun Mekanikleri:	
+            Ödül				        Puan Kazanma
+            Statü				        Düzey (Level) atlama
+            Rekabet				      Zorluklar
+            Başarı				      Sanal Kazanımlar
+            Kendini İfade Etme	Sıralamada yer alma
+            Yardımseverlik			Ödül v Destekler (Yardım)
+
+
+	          ----> OYUN MODELLEME
+									Oyun Mekanikleri		
+	                *** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
+	                ----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
+				                                  ------------	--------------------	---------	----------------	-------------------	--------------	
+	                Ödül			                  000                                 ###           ###
+                  Statü			                  ###               OOO               ###           ###               ###               ###
+                  Başarı                      ###               ###               OOO           ###               ###               ###
+                  Kendini İfade Etme                                              ###           OOO
+                  Rekabet                     ###               ###               ###           ###               OOO               ###	
+                  Yardımseverlik (Takım Oyunu)###                                 ###                             ###               OOO
+	
+					                                000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
+				
+				
+	                Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
+					                                        2008de uygulamayı iPod ile birleştirerek, 
+					                                        RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
+					                                        İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
+					                                        Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
+
+
+
+🔻 Situational Awareness
+                 Durumsal Farkındalık
+                 b aware of your surroundings, identify specific problems or threats,
+                 and be prepared to execute a tactical plan to deal with each threat as it presents itself
+                 Arkandaki resmi hatırlıyor musun?
+                 2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
+	
+
+🔻 S.T.A.R. Technique
+                 Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
+
+                 Situation    -- set the scene          sahneyi ayarla / oyunu kur
+                 Task         -- describe the purpose		amacını tarif et
+                 Action       -- explain what you did		ne yaptığını açıkla
+                 Result       -- share the outcome      sonucu paylaş
+	
+	
+🔻 Eisenhower Matrix
+                How to manage your time - To Evaluate each task
+                Herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi
+	
+				                                            important
+                                                        |
+                                      can I do it now?	|	delay / drop / delete 
+                                                        |		(can I decide when to do it?)
+                                                        |		(schedule a time to do it)
+                                                        |
+                        urgent	<-----------------------|------------------------> not urgent
+                                                        |
+                                            delegate it	|	delete (should I dump it?)
+                               (who can do it for you?)	|	       (eliminate it)
+                                                        |
+                                                  not important
+	
+
+
+🔻 Gambler's fallacy
+                Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+
+🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
+
+
+🔻 Watson-Glaser Critical Thinking Test
+                Eleştirel Düşünme Ölçeği, birisini işe alacak olduğumuzda karar verme ve yargılamayı hem ölçer hem de gelişimini sağlamaktadır.
+                Çalışanların baskı altında soru sorma, analiz etme ve karar verme yöntemlerinden daha önemli bir şey yoktur.
+                Yüksek potansiyelli çalışanlar yaratmak ve öğrencileri iddialı programlara kabul etmek amacıyla kullanıyor. 
+                KEYS:	
+                - Recognize Assumptions   Varsayımları Tanı
+                - Evaluate Arguments      İddiaları/Görüşleri Değerlendir
+                - Draw Conclusions        Sonuca Var
+
+                https://www.assessmentday.co.uk/
+	
+🔻 S.W.O.T. Business Analysis
+	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
+
+				helpful					harmful
+				(to achieving the objective)		(to achieving the objective)
+								|
+	internal origin						|
+	(attributes of the organization)	strengthes	|	weaknesses 
+			   					|
+								|
+					------------------------|-----------------------
+								|
+	external origin				opportunities	|	threats
+	(attributes of the environment)				|
+		     						|
+			
+🔻 Failure Mode Effects Analysis (FMEA)
+	Hata Türleri Etki Analizi
+	Proaktive Thinking feat. Engineering
+	Bir üründe oluşabilecek design veya process kökenli.. 
+		.. potansiyel tüm hata türlerinin sistematik olarak yapılan bir analiz ile öncesinde önlem almak için kullanılan  metod.
+	
+		1. Design FMEA (DFMEA)		2. System		3. Service		4. Process FMEA (PFMEA) 
+	
+			Failure		- Potential
+			Mode		- Types, Ways, Possibilities 
+			Effect		- Negative Effect on Process under Study
+			Analysis	- Study Risk and Reduce it
+	
+	
+	Formula:
+		Risk Öncelik İndeksi (Risk Öncelik Sayısı) = (hataların ortaya çıkma olasılığı) * (hatanın şiddeti) * (hatanın saptanabilirliği)
+			Genel kabulde;
+			• rös < 40 ise önlem almaya gerek yoktur.
+			• 40 =< rös =< 100 önlem alınmasında fayda vardır.
+			• rös > 100 ise mutlaka önlem alınması gerekir.
+	
+	Failure Modes, Effects, and Diagnostic Analysis (FMEDA)		-- Bu oranın 1'e yaklaşması, sistemin mükemmele yaklaşması anlamında
+	Failure Mode, Effects, and Criticality Analysis (FMECA)
+	
+	IN A LOOP
+		Team of the experts			Uzmanlardan oluşan ekip
+		Data for Analysis			Analiz için Veriler
+		Failures, Effects, Causes		Başarısızlıklar, Etkiler, Nedenler
+		Asset Criticality Assessment		Varlık Kritiklik Değerlendirmesi
+		Risk Mitigation Actions			Risk Azaltma Eylemleri
+		Effectiveness Analysis			Etkinlik Analizi 
+
+
+			İç-Dış Hata Maliyeti -------FMEA------- Hata Önleme Maliyeti
+				                    +		     O			+
+						Kalite Maliyeti
+
+
+🔻 How to value a company
+	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
+	
+		Formula:
+		Share price = Expected Dividend Per Share (EDPS) / (Cost of Capital Equity (CCE) - Divident Growth Rate (DGR))
+		
+		Let's look at Coca-Cola (NYSE: KO)
+		
+		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
+
+
+🔻 Politically Correct ...
+	"Bazı kavramları/durumları tabu haline getirerek .. değişmesi gereken şeylerin değişmesini, üstlerini sahte bir şekilde örterek geciktirmek, engellemek."
+	"Aman kimse hakkında yanlış laf etmeyelim, kimseyi laflarımızla zedelemeyelim, 
+	 bir şey hakkında yorum yapacaksak kesin doğru olanını söyleyelim, aynı zamanda kibar davranalım .."
+	"Söylemek mi, yoksa söyleyememek mi?"
+	"Sadece saygını hak eden kişilere, saygını göster .."
+	
+
+🔻  AIDA Modeli
+	Pazarlama ve reklamcılıkta kullanılan bir modeldir.
+	Tüketicilerin dört aşamadan geçerek ürün satın almaya karar verdikleri bir teoridir.
+	Farkına Varmak / İlgi Göstermek / İstemek / Harekete Geçmek eylemlerini kapsar.
+	
+	AIDA modeli aşamaları nelerdir?
+		SATIŞTA AIDA MODELİ
+		    - Attention (Dikkat)
+		    - # Search
+		    - Interest (İlgi)
+		    - Desire (Arzu)
+		    - Action (Aksiyon)
+		    - # Share
+
