@@ -1,3 +1,21 @@
+een             elf
+twee            twaaf
+drie            dertien
+vier            veertien
+vijf            vijftien
+zes             zestien
+zeven           zeventien
+acht            achtien
+negen           negentien
+tien            twintis
+
+tien over elf - kwart over elf
+
+
+
+
+
+
 
 ---> bist du schon einmal?
 bist du schon einmal 100 Kilometer Fahrrad gefahren?
