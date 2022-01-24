@@ -74,9 +74,12 @@ efficient - verimli, tasarruflu != inefficient
 sensitive - duyarlı, hassas
 
 
-		tion	tive
-attract
-subtract
+verb		noun		adjective	adjective
+----------------------------------------------------------
+		-tion		-tive		-ed
+----------------------------------------------------------
+attract		attraction	attractive	attracted
+subtract	subtraction	subtractive	subtracted
 		distraction	distractive	distracted
 		investigation
 conclude	conclusion	conclusive
@@ -88,24 +91,22 @@ persuade	persuasion	persuasive
 
 
 -ABLE
-sensible - mantıklı, makul, duyarlı , trustable, reliable, agreeable, adorable, comfortable, available, sustainable - sürdürülebilir
-discernible, unbreakable, invisible, gullible, horrible, renewable - yenilenebilir
+sensible - mantıklı, makul, duyarlı, available, sustainable - sürdürülebilir
+discernible, unbreakable, gullible, renewable - yenilenebilir
 unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, observable - gözlemlenebilir
 
 VERB		NOUN		NOUN		ADJECTIVE	ADVERB
+----------------------------------------------------------------------------
 separate	separation	separator	inseparable	inseparably
-teach				teacher
-observe		observation			
-  serve		service
-reserve		reservation			reserved
-deserve		
+		vision				in-visible
+response	responsibility			responsible
+		horror				horrible
+trust		trust				trustable	trustably
+rely		reliability			reliable
+agree		agreement			agreeable
+adore						adorable
+		comfort				comfortable
 
-vision	invisible
-horror
-renewable
-replay
-restart
-remove
 
 
 
@@ -114,7 +115,7 @@ noun			adjective
 ---------------------------------
 patience		patient != impatient, 
 fluency			fluent
-confidence		self-confident
+confidence		confident		self-confident
 arrogance		arrogant
 appearance		apparent
 decency			decent
@@ -122,6 +123,7 @@ violence		violent
 brilliance		brilliant
 defiance		defiant
 please			pleasant
+intelligence		intelligent
 
 
 -OUS	
@@ -147,15 +149,16 @@ atricuous - acımasız, treacherous = untrustable, tremendous, unambiguous
 noun			adjective
 ---------------------------------
 taste			tasty
-business		business
+business		busy
 laziness		lazy
-witty			witty
-brain			brainy
+ugliness		ugly - muppet -- puppet
 craziness		crazy
+wit			witty
+brain			brainy
 dirt			dirty
 rust			rusty
-fairy, fancy, dizzy, cloudy, rainy, snowy, foggy, hazy, merry, cherry, ugly, gritty, quirky
-jolly, lousy, clumsy, goofy, easy, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary, steamy, soapy 
+merry, cloudy, rainy, snowy, foggy, hazy, steamy, soapy, fairy, fancy, dizzy, cherry, gritty, quirky
+jolly, lousy, clumsy, goofy, easy, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary 
 pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, sloppy - ihtiyatsız, snobby, naughty, sassy, nasty, raunchy, gory 
 
 
@@ -174,10 +177,10 @@ monarchy		monarchic
 democracy		democratic
 bureaucracy		bureaucratic 
 diplomacy		diplomatic 
-
 lunatic, fanatic, barbaric, gigantic 
 pragmatic, didactic, pacific, terrific
 			      terrify
+
 
 -AL
 noun			adjective
@@ -189,7 +192,8 @@ nation			national
 economy			economical
 education		educational
 relation		relational
-eternal, ethical, political, brutal, sentimental, cynical = mocking
+eternity		eternal
+ethical, political, brutal, sentimental, cynical = mocking
 hospital, capital, recital
 
 
@@ -201,9 +205,9 @@ passion			passionate
 separate		separate
 accuracy		accurate
 lemon			lemonade
-			appropriate
+appropriateness		appropriate		appropriation
 intimacy		intimate
-			moderate	ölçülü, ılıman
+moderation		moderate		ölçülü, ılıman
 
 
 -SOME
@@ -218,26 +222,42 @@ swoonworthy, trustworthy
 -ISH
 selfish, english, turkish, childish, reddish, sluggish, mopish
 
+
 --> Other Adjectives
-frank, stubborn, cruel, rude, cute, distinct, bright, fragile, rough - hard, muppet - ugly	puppet
-valid != invalid - geçerli
+noun			adjective
+---------------------------------
+honesty			honest
+cruelty			cruel
+validity		valid # invalid - geçerli # geçersiz
+fragility		fragile
+calmness		calm
+stubbornness		stubborn
+frankness		frank
+rudeness		rude
+brightness		bright
+darkness		dark
+cuteness		cute
+distinctness		distinct
+roughness		rough
+
 
 
 
 ---> -ED / -ING	
--> less/much interested = interesting
-interested = interesting      caressed = caressing – sevecen          glittering - göz alıcı          
-amused = amusing              annoyed = annoying                      bewildered - sersemlemiş, şaşırmış
-tired = tiring                bored = boring                          ashamed                
-concerned = concerning        excited = exciting                      defeated = defeating
-impressed = impressing        disturbed = disturbing                  unrequited
-confused = confusing          charmed = charming                      condemned
-depressed = depressing        entertained = entertaining              determined
-disgusted = disgusting        convinced = convincing – ikna edici     riveting
-involved = involving          captivated = captivating                blushing
-fascinated = fascinating      frightened = frightening                ongoing  - devam eden
-bloomed = blooming            coordinated = coordinating              incoming - gelen 
-embrassed = embrassing
+		less/much 	
+		interested # interesting		caressed # caressing – sevecen          	glittering - göz alıcı          
+		amused # amusing			annoyed # annoying                      	blushing
+		tired # tiring				bored # boring                          	ashamed                
+		concerned # concerning			excited # exciting                      	defeated # defeating
+    to be	impressed # impressing			disturbed # disturbing                  	unrequited
+    to get	confused # confusing			charmed # charming                      	condemned
+		depressed # depressing			entertained # entertaining              	determined
+		disgusted # disgusting			convinced # convincing – ikna edici     	riveting
+		involved # involving			captivated # captivating                	incoming - gelen 
+		fascinated # fascinating		frightened # frightening                	ongoing  - devam eden
+		bloomed # blooming			coordinated # coordinating              	
+		embrassed # embrassing - utanç verici	bewildered # bewildering - sersemleten, şaşırtan
+		embraced # embracing - kucaklayan
 
 
 --->  GET + ADJECTIVE = VERB (SIFAT FİİL)
@@ -268,7 +288,6 @@ we were shocked to see what the storm had done to the house
 I have been uncomfortable working with ambiguity
 I get impatient when projects run beyond the deadline
 I focus too much on the details 
-
 
 
 --> ADJECTIVE PHRASAL EXAMPLES
