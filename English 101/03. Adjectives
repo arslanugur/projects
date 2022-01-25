@@ -44,6 +44,7 @@ than - den, dan     --> sadece karşılaştırmada kullanılır             İst
 from - den, dan     --> ayrılma hali                                  I left from Los Angeles
 
 
+---> MAKING NEGATIVE
 Pre		Adjective
 ------------------------------------
 ir	- 	rational
@@ -51,89 +52,115 @@ im	- 	possible
 un	- 	comfortable, spoiled
 il	- 	legal
 in	- 	formal
-dis	-
-non	-
+dis	-	satisfied 
+non	-	sense
 trustful, convenient, prrecise, existent
 
 
 ---> ADJECTIVE SUFFIXES
--FUL / -LESS	
-wonderful, beautiful, awful, useful, meaningful, cheerful, helpful, forgetful 
-delightful, doubtful, powerful, peaceful, grateful, blissful, worthless
-faithful != faithless, careful != careless, hopeful != hopeless
-spotless, reckless, relentless at - amansız, ruthless - acımasız, graceful – zarif
-
-
--TIVE	
-protective, attractive, aggressive, progressive, inquisitive = curious, combative
-cooperative, investigative, primitive, explosive, incentive - teşvik edici
-successive - ardışık, comprehensive - kapsamlı, conclusive - kesin, persuasive - ikna edici
-positive != negative
-effective - etkili
-efficient - verimli, tasarruflu != inefficient
-sensitive - duyarlı, hassas
-
-
-verb		noun		adjective	adjective
-----------------------------------------------------------
-		-tion		-tive		-ed
-----------------------------------------------------------
-attract		attraction	attractive	attracted
-subtract	subtraction	subtractive	subtracted
-		distraction	distractive	distracted
-		investigation
-conclude	conclusion	conclusive
-		certainty	certain
-persuade	persuasion	persuasive
-		sense		sensitive
-				sensible
+-FUL / -LESS
+verb		noun		adjective
+---------------------------------------------------------
+wonder		wonder		wonderful
+beautify	beauty		beautiful
+use		usage		useful
+mean		meaning		meaningful
+doubt		doubt		doubtful
+help		help		helpful
+care		care		careful != careless
+hope		hope		hopeful != hopeless
+cheer		cheer		cheerful
+		awe		awful
+				awesome
+		faith		faithful != faithless
+forget				forgetful
+		gratitude	grateful
+		grace		graceful – zarif
+		delight		delightful
+		power		powerful
+		peace		peaceful
+		bliss		blissful
+worthless, spotless, reckless, relentless at - amansız, ruthless - acımasız
 
 
 
--ABLE
-sensible - mantıklı, makul, duyarlı, available, sustainable - sürdürülebilir
-discernible, unbreakable, gullible, renewable - yenilenebilir
-unbearable - çekilmez, inevitable - kaçınılmaz, inseparable - ayrılmaz, observable - gözlemlenebilir
-
-VERB		NOUN		NOUN		ADJECTIVE	ADVERB
-----------------------------------------------------------------------------
-separate	separation	separator	inseparable	inseparably
-		vision				in-visible
-response	responsibility			responsible
-		horror				horrible
-trust		trust				trustable	trustably
-rely		reliability			reliable
-agree		agreement			agreeable
-adore						adorable
-		comfort				comfortable
-
+-TIVE
+verb		noun			adjective				adjective
+------------------------------------------------------------------------------------------
+		-tion			-tive					-ed
+------------------------------------------------------------------------------------------
+attract		attraction		attractive				attracted
+subtract	subtraction		subtractive				subtracted
+distract	distraction		distractive				distracted
+comprehend	comprehension		comprehensive - kapsamlı
+investigate	investigation		investigative
+conclude	conclusion		conclusive - kesin
+include		inclusion		inclusive
+persuade	persuasion		persuasive - ikna edici
+protect		protection		protective
+explode		explosion		explosive
+cooperate	cooperation		cooperative
+inquire		inquiry			inquisitive = curious
+affect		effect			effective - etkili
+		effect			efficient - verimli, tasarruflu != inefficient
+		sense			sensitive - duyarlı, hassas
+		sense			sensible - mantıklı, makul, duyarlı
+aggressive, progressive, combative
+primitive, incentive - teşvik edici, successive - ardışık, positive != negative
 
 
 
 -ANT / -ENT
 noun			adjective
----------------------------------
-patience		patient != impatient, 
-fluency			fluent
-confidence		confident		self-confident
-arrogance		arrogant
-appearance		apparent
-decency			decent
-violence		violent
-brilliance		brilliant
-defiance		defiant
+---------------------------------------------------
+patience		patient != impatient, 		sabır
+fluency			fluent				akıcılık
+vibrancy		vibrant				canlılık
+confidence		confident			self-confident
+arrogance		arrogant			kibir
+appearance		apparent			görünüş
+decency			decent				terbiye
+violence		violent				şiddet
+brilliance		brilliant			parlaklık 
+defiance		defiant				muhalefet
 please			pleasant
 intelligence		intelligent
+relevance		relevant != irrelevant		ilgili, uyumlu != alakasız 
+effect			efficient != inefficient	verim, etki, tasarruf
+
+
+
+-ABLE
+VERB		NOUN		NOUN			ADJECTIVE			ADVERB
+----------------------------------------------------------------------------------------------------
+response	reponse		responsibility		ir-responsible
+rely		reliance	reliability		reliable
+renew		renewal		renewability		renewable - yenilenebilir
+bear							unbearable - çekilmez
+sustain				sustainability		sustainable - sürdürülebilir
+observe		observation	observability		observable - gözlemlenebilir	observably
+break		break		break up		un-breakable
+separate	separation				in-separable - ayrılmaz		inseparably		separator
+discern		discernment	discernibility		discernible						fark edilebilirlik 
+		vision		visibility		in-visible
+		horror					horrible
+trust		trust					un-trustable			trustably
+agree		agreement				agreeable
+adore							adorable
+		comfort					comfortable			comfortably
+
+sensible - mantıklı, makul, duyarlı, available, gullible, inevitable - kaçınılmaz
+
 
 
 -OUS	
 noun			adjective
 ---------------------------------
-generity		generous
-ambition		ambitious
-mystery			mysterious
-danger			dangerous = perilous
-adventure		adventurous
+generity		generous			cömert
+ambition		ambitious			hırslı
+mystery			mysterious			gizemli
+danger			dangerous = perilous		tehlikeli
+adventure		adventurous			maceralı
 caution			cautious			ihtiyatlı
 curiosity		curious cat			meraklı kedi
 anxiety			anxious demeanor		endişeli tavır
@@ -145,7 +172,7 @@ pretentious, hideous, serious, enormous, luminous, meticulous - titiz, fabulous 
 atricuous - acımasız, treacherous = untrustable, tremendous, unambiguous
 
 
--Y
+-Y / -LY
 noun			adjective
 ---------------------------------
 taste			tasty
@@ -157,6 +184,8 @@ wit			witty
 brain			brainy
 dirt			dirty
 rust			rusty
+friend			friendly	cana yakın
+alliance		ally		ittifak, müteffik
 merry, cloudy, rainy, snowy, foggy, hazy, steamy, soapy, fairy, fancy, dizzy, cherry, gritty, quirky
 jolly, lousy, clumsy, goofy, easy, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty, scary 
 pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, sloppy - ihtiyatsız, snobby, naughty, sassy, nasty, raunchy, gory 
@@ -227,6 +256,7 @@ selfish, english, turkish, childish, reddish, sluggish, mopish
 noun			adjective
 ---------------------------------
 honesty			honest
+certainty		certain
 cruelty			cruel
 validity		valid # invalid - geçerli # geçersiz
 fragility		fragile
