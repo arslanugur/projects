@@ -16,7 +16,8 @@ beat            beat                beaten                  (dövmek, yenmek)
 become          became              become                  (olmak, haline gelmek)
 come            came                come                    (gelmek)
 overcome        overcame            overcome                (üstesinden gelmek)
-get             got                 gotten / got            (almak, elde etmek, anlamak)
+run             ran                 run                     (koşmak)
+get             got                 got                     (almak, elde etmek, anlamak)
 forget          forgot              forgotten / forgot      (unutmak)
 beget           begat / begot       begotten                (yaratmak, yol açmak, neden olmak)
 begin           began               begun                   (başlamak)                                    start Ving
@@ -56,7 +57,6 @@ lie             lay                 lain                    (uzanmak, yatmak) la
 lay             laid                laid                    (yerleştirmek, koymak,uzanmak)
 relay           relaid              relaid                  (yerini almak, yerine koymak, el değiştirmek)
 prove           proved              proven / proved         (kanıtlamak)
-run             ran                 run                     (koşmak)
 show            showed              shown                   (göstermek)
 slay            slew                slain                   (öldürmek, katletmek)
 speak           spoke               spoken                  (konuşmak - dil vs)
@@ -77,8 +77,9 @@ write           wrote               written                 (yazmak)
 
 
 
+
 ---> İkinci (V2) ve Üçüncü (V3) halleri aynı olan fiiler
-have            had                 had                     (sahip olmak)
+have            had                 had had                     (sahip olmak)
 abide           abode               abode                   (kalmak, katlanmak, çekmek)
 bend            bent                bent                    (bükmek, eğmek, katlamak)
 bleed           bled                bled                    (kanamak)                                     blood - kan
