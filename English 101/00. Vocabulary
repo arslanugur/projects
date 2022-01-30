@@ -525,75 +525,74 @@ Buy             bay               satın almak
 Sell            sel               satmak				
 
 
-
-Cab             keb	TAKSİ				
-Cable           keybl	1.KABLO 2.TELGRAF				
-Cage            keyc	KAFES				
-Cake            keyk	KEK				
-Calculate       kalkuleyt	HESAPLAMAK				
-Calendar        kelindır	TAKVİM				
-Call            kol	1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET				
-Calm            kaam	SAKİN	
-Camera          kemıra	KAMERA				
-Camouflage      kamuflaaj	SAKLAMAK				
-Camp            kemp	KAMP				
-Campaign        kempein	KAMPANYA				
-Campus          kempıs	KAMPÜS				
-Can             ken	TENEKE KUTU				
-Canal           knal	KANAL				
-Cancel          kensıl	İPTAL ETMEK				
-Cancer          kensır	KANSER				
-Candidate       kendidıt	ADAY				
-Candle          kendl	MUM				
-Canteen         kantiin	KANTİN				
-Capacity        kpasiti	KAPASİTE				
-Capital         kepıtl	1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL				
-Captain         keptın	1.KAPTAN  2.YÜZBAŞI				
-Capture         kepçır	1.ELE GEÇİRMEK  2.HAPSE ATMAK				
-Car             kaar	ARABA				
-Caravan         karavan	KARAVAN				
-Card            kaad	KART				
-Cardigan        kardigın	HIRKA				
-Care            keyr	DİKKAT, ÖZEN				
-Career          kariır	MESLEK				
-Carnival        karnivıl	KARNAVAL				
-Carpenter       karpıntır	MARANGOZ				
-Carpet          kaarpıt	HALI				
-Carriage        keriıc	1.FAYTON 2.VAGON				
-Carry           keri	TAŞIMAK				
-Case            keys	1.KUTU,KAP 2.DAVA				
-Cash            keş	NAKİT				
-Castle          kesl	KALE				
-Cat             ket	KEDİ				
-Catch           keç	YAKALAMAK				
-Cattle          ketl	BÜYÜKBAŞ HAYVAN				
-Cause           koz	1.NEDEN  2.NEDEN OLMAK				
-Ceiling         silign	TAVAN				
-Cell            sel	HÜCRE (hapis,beyin v.b)				
-Cellar          selır	KİLER, BODRUM				
-Century         sençri	YÜZYIL				
-Ceremony        serımıni	SEREMONİ
-Certain         sörtın	KESİN,BELİRLİ,  EMİN OLMAK
-Certainly       sörtınli	KUŞKUSUZ
-Certificate     sertıfıkeyt	SERTİFİKA
-Chain           çeyn	ZİNCİR
-Chair           çeır	İSKEMLE
-Chairman        çeırmen	YÖNETİM KURULU BAŞKANI
-Chalk           çolk	TEBEŞİR
-Challenge       çalınc	MEYDAN OKUMA
-Champion        çempiın	ŞAMPİYON
-Championship    çempiınşip	ŞAMPİYONA
-Chance          çens	ŞANS, FIRSAT
-Change          çeync	1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA
-Character       kerıktır	KİŞİLİK
-Charge          çarc	1.DOLDURMAK 2.MASRAFA YAZMAK
-Charm           çarm	ÇEKİCİLİK
-Charming        çarming	ÇEKİCİ
-Chatter         çetır	GEVEZELİK YAPMAK
-Cheap           çiip	UCUZ
-Cheat           çiit	1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK
-Check           çek	KONTROL ETMEK
-Cheer           çiır	1.NEŞE 2.COŞTURMAK
+Cab             keb               TAKSİ				
+Cable           keybl             1.KABLO 2.TELGRAF				
+Cage            keyc              KAFES				
+Cake            keyk              KEK				
+Calculate       kalkuleyt         HESAPLAMAK				
+Calendar        kelindır          TAKVİM				
+Call            kol               1.ÇAĞIRMAK 2.TELEFON ETMEK 3.KISA ZİYARET				
+Calm            kaam              SAKİN	
+Camera          kemıra            KAMERA				
+Camouflage      kamuflaaj         SAKLAMAK				
+Camp            kemp              KAMP				
+Campaign        kempein           KAMPANYA				
+Campus          kempıs            KAMPÜS				
+Can             ken               TENEKE KUTU				
+Canal           knal              KANAL				
+Cancel          kensıl            İPTAL ETMEK				
+Cancer          kensır            KANSER				
+Candidate       kendidıt          ADAY				
+Candle          kendl             MUM				
+Canteen         kantiin           KANTİN				
+Capacity        kpasiti           KAPASİTE				
+Capital         kepıtl            1.BAŞKENT 2.BÜYÜK HARF 3.SERMAYE, ANAMAL				
+Captain         keptın            1.KAPTAN  2.YÜZBAŞI				
+Capture         kepçır            1.ELE GEÇİRMEK  2.HAPSE ATMAK				
+Car             kaar              ARABA				
+Caravan         karavan           KARAVAN				
+Card            kaad              KART				
+Cardigan        kardigın          HIRKA				
+Care            keyr              DİKKAT, ÖZEN				
+Career          kariır            MESLEK				
+Carnival        karnivıl          KARNAVAL				
+Carpenter       karpıntır         MARANGOZ				
+Carpet          kaarpıt           HALI				
+Carriage        keriıc            1.FAYTON 2.VAGON				
+Carry           keri              TAŞIMAK				
+Case            keys              1.KUTU,KAP 2.DAVA				
+Cash            keş               NAKİT				
+Castle          kesl              KALE				
+Cat             ket               KEDİ				
+Catch           keç               YAKALAMAK				
+Cattle          ketl              BÜYÜKBAŞ HAYVAN				
+Cause           koz               1.NEDEN  2.NEDEN OLMAK				
+Ceiling         silign            TAVAN				
+Cell            sel               HÜCRE (hapis,beyin v.b)				
+Cellar          selır             KİLER, BODRUM				
+Century         sençri            YÜZYIL				
+Ceremony        serımıni          SEREMONİ
+Certain         sörtın            KESİN,BELİRLİ,  EMİN OLMAK
+Certainly       sörtınli          KUŞKUSUZ
+Certificate     sertıfıkeyt       SERTİFİKA
+Chain           çeyn              ZİNCİR
+Chair           çeır              İSKEMLE
+Chairman        çeırmen           YÖNETİM KURULU BAŞKANI
+Chalk           çolk              TEBEŞİR
+Challenge       çalınc            MEYDAN OKUMA
+Champion        çempiın           ŞAMPİYON
+Championship    çempiınşip        ŞAMPİYONA
+Chance          çens              ŞANS, FIRSAT
+Change          çeync             1.DEĞİŞMEK  2.DEĞİŞİM 3.BOZUK PARA
+Character       kerıktır          KİŞİLİK
+Charge          çarc              1.DOLDURMAK 2.MASRAFA YAZMAK
+Charm           çarm              ÇEKİCİLİK
+Charming        çarming           ÇEKİCİ
+Chatter         çetır             GEVEZELİK YAPMAK
+Cheap           çiip              UCUZ
+Cheat           çiit              1.HİLECİ 2.HİLE YAPMAK, KOPYA ÇEKMEK
+Check           çek               KONTROL ETMEK
+Cheer           çiır              1.NEŞE 2.COŞTURMAK
 Cheese          çiiz	PEYNİR
 Chemical        kemıkl	KİMYASAL
 Cherry          çeri	KİRAZ
