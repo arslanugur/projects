@@ -68,74 +68,101 @@ EXAMPLES:
 
                    GERUND                                                                       INFINITIVE
             --------------------                                                        -------------------------
-admit           kabul etmek, itiraf etmek                                            appear         gözükmek, görünmek
-anticipate      ummak, tahmin etmek, beklemek                                        agree          katılmak
-appreciate      takdir etmek                                                         advise         öğüt vermek
-avoid           kaçınmak                                                             ask            sormak
-begin           başlamak                                                             demand         talep etmek, istemek
-start           başlamak                                                             arrange        düzenlemek
-continue        devam etmek                                                          can afford     karşılayabilmek, gücü yetmek
-consider        düşünmek                                                             beg            yalvarmak
-complete        tamamlamak                                                           choose/prefer  seçmek
-finish          bitirmek                                                             consent        razı olmak 
-contemplate     düşünmek, tasarlamak, niyet etmek                                    claim          iddia etmek
-deny            reddetmek                                                            care           umursamak, bakmak
-delay           ertelenmek                                                           dare           cüret etmek
-postpone        ertelemek                                                            decide         karar vermek
-detest          iğrenmek, nefret etmek                                               deserve        hak etmek
-discuss         tartışmak                                                            expect         ümit etmek
-dislike         hoşlanmamak                                                          wait           beklemek
-escape          kaçmak, kurtulmak, firar etmek                                       hope           ummak
-enjoy           keyfini çıkarmak                                                     endeavor       çabalamak, gayret etmek
-excuse*         maruz görmek                                                         fail           başarısız olmak
-finish          bitirmek                                                             happen         olmak
-involve         kapsamak                                                             hesitate       terreddüt etmek 
-imagine         hayal etmek                                                          imagine         hayal etmek
-keep            tutmak, korumak, muhafaza etmek                                      know           bilmek
-look forward to dört gözle beklemek, iple çekmek                                     learn	        öğrenmek
-lose            kaybetmek                                                            manage         yönetmek, idare etmek
-mean            anlamına gelmek, kasdetmek                                           mean           anlamına gelmek, kast etmek
-mind            kulak vermek, kafaya takmak                                          offer          teklif etmek
-miss            ıskalamak, özlemek                                                   plan           planlamak
-mention         bahsetmek, ima etmek                                                 promise        söz vermek
-practise        pratik yapmak                                                        prove          kanıtlamak
-risk            riske atmak                                                          proceed        devam etmek, ilerlemek
-report          bildirmek, rapor etmek                                               pretend        gibi davranmak
-quit            bırakmak, kesmek, ayrılmak                                           seem           gibi gözükmek
-recommend       önermek                                                              refuse         reddetmek
-suggest         önermek                                                              prepare        hazırlamak
-resent          gücenmek, alınmak                                                    struggle       çabalamak, mücadele etmek
-resist          direnmek                                                             swear          yemin etmek, küfretmek
-recollect (remember) hatırlamak                                                      remind         hatırlatmak
-stop            durmak, bırakmak                                                     threaten       tehdit etmek
-suffer          katlanmak                                                            teach          öğretmek
-spend           harcamak                                                             volunteer      istekli olmak
-try             denemek, çabalamak                                                   need           ihtiyacı olmak
-understand*     anlamak                                                              want           istemek
-can't help      -madan edememek                                                      would like     istemek
-can't stand     -maya dayanamamak                                                    wish           dilemek
-talk about                                                                           intend         niyet etmek
-be excited about                                                                     learn          öğrenmek
-complain about                                                                       cause          neden olmak
-insist on                                                                            convince       ikna etmek
-think about                                                                          persuade       ikna etmek
-worry about                                                                          invite         davet etmek
-apologize for                                                                        order          emretmek, sipariş etmek
-blame for                                                                            force          zorlamak
-famous for                                                                           tend           eğiliminde olmak
-believe in                                                                           tell           anlatmak
-interested in                                                                        trust          güvenmek
-succeed in                                                                           warn           uyarmak
-take care of                                                                         encourage      cesaretlendirmek, teşvik etmek 
+(dis)approve of onaylamak                                                           can afford     karşılayabilmek, gücü yetmek
+aim at          amaçlamak                                                           arrange        düzenlemek
+apologise for   özür dilemek                                                        encourage      cesaretlendirmek, teşvik etmek 
+admit to        kabul etmek, itiraf etmek                                           appear         gözükmek, görünmek
+anticipate      ummak, tahmin etmek, beklemek                                       warn           uyarmak
+dis-agree with/to   katılmak                                                        wish           dilemek
+appreciate      takdir etmek                                                        advise         öğüt vermek
+avoid           kaçınmak                                                            ask            sormak
+begin           başlamak                                                            demand         talep etmek, istemek
+start           başlamak                                                            intend         niyet etmek 
+believe in      inanmak                                                             tend           eğiliminde olmak
+benefit from 	  yararlanmak                                                         convince       ikna etmek
+boast about     övünmek                                                             persuade       ikna etmek
+continue        devam etmek                                                         need           ihtiyacı olmak
+consider        düşünmek                                                            beg            yalvarmak
+complete        tamamlamak                                                          choose/prefer  seçmek
+care for                                                                            cause          neden olmak
+complain about                                                                      consent        razı olmak 
+concentrate on                                                                      claim          iddia etmek
+confess to                                                                          care           umursamak, bakmak
+cope with       baş etmek, başa çıkmak                                              dare           cüret etmek
+finish          bitirmek                                                            want           istemek 
+contemplate     düşünmek, tasarlamak, niyet etmek                                   would like     istemek 
+deny            reddetmek                                                           
+delay           ertelenmek                                                          tell           anlatmak 
+postpone        ertelemek                                                           decide         karar vermek
+detest          iğrenmek, nefret etmek                                              deserve        hak etmek
+discuss         tartışmak                                                           expect         ümit etmek
+dislike         hoşlanmamak                                                         wait           beklemek
+escape          kaçmak, kurtulmak, firar etmek                                      hope           ummak
+enjoy           keyfini çıkarmak                                                    endeavor       çabalamak, gayret etmek
+excuse*         maruz görmek                                                        fail           başarısız olmak
+finish          bitirmek                                                            happen         olmak
+involve         kapsamak                                                            hesitate       terreddüt etmek 
+imagine         hayal etmek                                                         imagine         hayal etmek
+keep from       tutmak, korumak, muhafaza etmek                                     know           bilmek
+look forward to dört gözle beklemek, iple çekmek                                    learn	        öğrenmek
+lose            kaybetmek                                                           manage         yönetmek, idare etmek
+mean            anlamına gelmek, kasdetmek                                          mean           anlamına gelmek, kast etmek
+mind            kulak vermek, kafaya takmak                                         offer          teklif etmek
+miss            ıskalamak, özlemek                                                  plan           planlamak
+mention         bahsetmek, ima etmek                                                promise        söz vermek
+practise        pratik yapmak                                                       prove          kanıtlamak
+risk            riske atmak                                                         proceed        devam etmek, ilerlemek
+report          bildirmek, rapor etmek                                              pretend        gibi davranmak
+quit            bırakmak, kesmek, ayrılmak                                          seem           gibi gözükmek
+recommend       önermek                                                             refuse         reddetmek
+suggest         önermek                                                             prepare        hazırlamak
+resent          gücenmek, alınmak                                                   struggle       çabalamak, mücadele etmek
+resist          direnmek                                                            swear          yemin etmek, küfretmek
+recollect (remember) hatırlamak                                                     remind         hatırlatmak
+stop            durmak, bırakmak                                                    threaten       tehdit etmek
+suffer          katlanmak                                                           teach          öğretmek
+spend           harcamak                                                            volunteer      istekli olmak
+try             denemek, çabalamak                                                  force          zorlamak
+understand*     anlamak                                                             order          emretmek, sipariş etmek
+can't help      -madan edememek                                                     invite         davet etmek 
+can't stand     -maya dayanamamak                                                    
+put up with     katlanmak, dayanmak, tahammül etmek
+get on with     devam etmek, biriyle çıkmak
+get used to     alışmak
+give up         vazgeçmek
+rely on         güvenmek, bel bağlamak     
+count on        güvenmek, saymak
+trust on        güvenmek
+talk about/of                                                                           
+be excited about                                                                     
+complain about                                                                       
+insist on                                                                            
+think about/of                                                                       
+worry about                                                                          
+apologize for                                                                        
+blame for                                                                            
+famous for                                                                           
+believe in                                                                           
+interested in                                                                        
+succeed in                                                                           
+take care of                                                                         
 instead of
 be accused of
-count on
-concentrate on
-keep from
 prevent from
 profit from
-
-
+decide against 	
+depend on
+dream about/of
+feel like
+insist on
+laugh about
+object to
+pay for
+put off
+resort to
+specialize in 	
+succeed in
+vote for
 
 
 
@@ -193,6 +220,21 @@ My niece requested me to help her with her English assignment.
 Her job requires her to travel a lot. 
 He told me to be there on time. 
 His bad companions tempted him to drink heavily. 
+
+
+After being stopped by the police, George admitted to having drunk two pints of beer.
+She apologised for not introducing herself sooner.
+He is always boasting about having met the president.
+The students complained about being made to wear a uniform to school.
+The suspect never confessed to killing his wife.
+Could you give up smoking?
+Nick insisted on calling an ambulance.
+We laughed about having to do such silly things.
+I objected to him calling me a liar.
+Do you put off going to the dentist?
+My sister is always talking about having her hair dyed.
+Do you ever think about getting married and having children?
+
 
 
 EXTRAS
