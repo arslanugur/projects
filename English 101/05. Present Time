@@ -129,7 +129,7 @@ realize           like                 have *                smell *            
 understand        dislike              own                   hear                    be *
 suppose           loathe               belong to             feel *                  seem *
 forget            hate                                       taste *                 cost
-notice            detest                                                             owe
+notice            detest                                                             sound
 prefer            appreciate                                                         exist
 feel *            fear                                                               appear *
 believe           forgive                                                            weigh *
@@ -139,7 +139,7 @@ doubt             wish                                                          
 imagine           care                                                               refuse
 know              desire                                                             include
 remember                                                                             contain
-want                                                                                 sound
+want                                                                                 
 need
 
 
@@ -158,7 +158,8 @@ need
 -> smell
           kokmak    		---> This perfume smells very nice.
                     		---> These flowers smell awful.
-          koklamak  		---> Mother is smelling the flowers. 
+				---> My mom smells like flowers
+          koklamak  		---> My mom is smelling the flowers.	 
 				---> Why are you smelling the milk?
 -> taste
           tadından söz etmek 	---> This soup tastes awful. I can't eat it. 
@@ -177,7 +178,7 @@ need
                             	---> She appears to be bored with the film.
           (ortaya) çıkmak   	---> The comedian is appearing nightly at the Broken Door club.
 -> weigh
-          ağırlık söylerken 	---> The baby weighs six kilograms.
+          ağırlık söylerken 	---> The baby weighs three kilograms.
           tartmak           	---> The butcher is weighing the meat now.
 -> be
           genel bir durum	---> You are very rude				Kabasın
@@ -239,7 +240,7 @@ whom		   |   are		    THEY (Lessons)	|    eating	|
 whose + NOUN	   |		         			|    making	|
 -------------------|   		         			|    doing	|
 why		   |			 			|    starting	|
-what for	   |		         			|    solving	|
+what 	  ... for  |		         			|    solving	|
 -------------------|		         			|    listening	|
 how		   |		         			|    hear	|
 how many + NOUN	   |		         			|    wearing	|
