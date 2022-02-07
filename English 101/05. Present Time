@@ -241,8 +241,8 @@ what kind of + NOUN|		         			|    looking	|
 where              |		         			|    running	|
 where  ... to/from |   is	            HE			|    want	|
 -------------------|   is	            SHE			|    reading	|
-when               |   is	            IT (Lesson)		|    writing	|
-what time	   |   		            			|    spending	|
+when X             |   is	            IT (Lesson)		|    writing	|
+what time X	   |   		            			|    spending	|
 -------------------|   are		    WE			|    watching	|
 who    ... to/with |   are		    YOU			|    drinking	|
 whom		   |   are		    THEY (Lessons)	|    eating	|
@@ -261,7 +261,7 @@ how far            |			 			|    saying	|
 how well           |			 			|    telling	|
 
 
-
+	
 ---> PRESENT PERFECT TENSE
 HAS
 Q --> has he/she (ever) been in Madrid?
