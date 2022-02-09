@@ -1,4 +1,4 @@
----> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER 
+---> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER
 🔻 Psychology Hacks you should know to control any situation
 	01- when someone answers your questions partially. wait and dont interrupt. Chances are high that they will complete the answer when you say nothing
 		01- Birisi sorularınızı kısmen yanıtladığında. bekle ve kesme. Hiçbir şey söylemediğinizde cevabı tamamlama ihtimalleri yüksek.
@@ -149,7 +149,34 @@
 		- Draw Conclusions		Sonuca Var 
 
 	https://www.assessmentday.co.uk/
-	
+
+
+🔻 Proactive ile Reactive insan arasındaki fark;
+		Özellikle İşe alımda anlaşılan durumlar.
+		Reactive olduğunu belli eden hareketler: Geçmişte başına gelen olumsuz durumlardan söylenen insan. Çözümü sonradan bulan ya da bulamayan.
+		Proactive olduğunu belli eden hareketler: Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
+
+
+
+🔻 False Positive vs. False Negative (Steve Yegge's Rule)
+		Boolean Algebra
+		
+			Expected:
+				System:       Input		 Output   Result
+				Computer <--- Image: Fish   ---> True     True  
+				Computer <--- Image: Sea    ---> False    True
+
+			Computer Vision Error: Verilen cevap pozitif/negatif ama yanlış
+				System:       Input		 Output   Result
+				Computer <--- Image: Fish   ---> False    False   #if the computer outputs no fish ---> False Negative
+				Computer <--- Image: Flower ---> True     False   #if the computer outputs fish    ---> False Positive
+
+		İşe Alım(Recruitment): 
+			Kötü bir aday işe alınırsa ve kötü bir çalışan çıkarsa ---> False Positive   (avoid this in Tech Recruitment!)
+			İyi bir adayı işe alınmazsa yani kaçırılırsa           ---> False Negative
+			http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1
+
+
 🔻 S.W.O.T. Business Analysis
 	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
 
@@ -223,7 +250,7 @@
 	"Sadece saygını hak eden kişilere, saygını göster .."
 	
 
-🔻  AIDA Modeli
+🔻 AIDA Modeli
 	Pazarlama ve reklamcılıkta kullanılan bir modeldir.
 	Tüketicilerin dört aşamadan geçerek ürün satın almaya karar verdikleri bir teoridir.
 	Farkına Varmak / İlgi Göstermek / İstemek / Harekete Geçmek eylemlerini kapsar.
@@ -236,4 +263,22 @@
 		    - Desire (Arzu)
 		    - Action (Aksiyon)
 		    - # Share
+
+
+🔻 FIVE TOP IDEAS IN THE WORLD
+	1. Murphy's Law:	The more you fear sth, the more it will happen
+	2. Kidlin's Law:	If you can write the problem down clearly, then the matter is half solved
+	3. Gilbert's Law:	The biggest Problem at work is that noone tells what you do
+	4. Flip Walson's Law:	If you put information and intelligence first at all times, then the money keeps coming in
+				You can't expect to hit the jackpot, if you don't put a few nickles in the machine
+	5. Falkland's Law:	When it is not necessary to make a decision, it is necessary not to make a decision
+	
+	
+
+
+
+
+
+
+
 
