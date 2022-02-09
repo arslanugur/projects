@@ -581,21 +581,5 @@ MANTIK SADELEŞTİRME SORULARI (Intermediate)
 
 
 
-False Positive vs. False Negative (Steve Yegge's Rule)
-
-Expected:
-System:       Input		 Output   Result
-Computer <--- Image: Fish   ---> True     True  
-Computer <--- Image: Sea    ---> False    True
-
-Computer Vision Error: Verilen cevap pozitif/negatif ama yanlış
-System:       Input		 Output   Result
-Computer <--- Image: Fish   ---> False    False   #if the computer outputs no fish ---> False Negative
-Computer <--- Image: Flower ---> True     False   #if the computer outputs fish    ---> False Positive
-
-İşe Alım(Recruitment): 
-	Kötü bir aday işe alınırsa ve kötü bir çalışan çıkarsa ---> False Positive   (avoid this in Tech Recruitment!)
-	İyi bir adayı işe alınmazsa yani kaçırılırsa           ---> False Negative
-	http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1
 
 
