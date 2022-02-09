@@ -272,10 +272,18 @@
 	4. Flip Walson's Law:	If you put information and intelligence first at all times, then the money keeps coming in
 				You can't expect to hit the jackpot, if you don't put a few nickles in the machine
 	5. Falkland's Law:	When it is not necessary to make a decision, it is necessary not to make a decision
-	
-	
 
 
+
+🔻 Bilgisayar Biliminin Temel Yasaları
+	Moore Yasası:	Bu yasa, İşlemci hızlarının ve bilgisayar için toplam işlem gücününher iki yılda bir ikiye katlanacağını belirtir.
+	Amdahl Yasası:	Bu yasa, Bir sistemin belirli bir bölümünün geliştirerek mümkün olan maksimum iyileştirmeyi bulmak için kullanılan bir formüldür.
+	Brooks Yasası:	Bu yasa, Gecikmiş bir yazılım projesine insan gücü eklemenin onu daha da geciktireceğini belirtir.
+	Linus Yasası:	Bu yasa, Bir projeye yeterince büyük bir test takımı ve geliştirici sağlandığında, 
+			hemen hemen her sorunun hızlı bir şekilde tanımlanacağını ve çözümün kolayca bulunabileceğini söyler. 
+	Groosch Yasası:	Bu yasa, Bilgisayar performansının maliyetin karesi kadar arttığı belirtir.
+			A bilgisayarı B bilgisayarından iki kat daha pahalıysa, A bilgisayarının B bilgisayarından 4 kat daha hızlı olması beklenir.
+	Wirth Yasası:	BU yasa, Yazılımın donanımın hızlanmasından daha hızlı yavaşladığını belirtir.
 
 
 
