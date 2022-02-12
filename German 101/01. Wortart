@@ -1,10 +1,29 @@
-6) Nomen und Artikel
-        Nom             Akk -i          Dat -e          Prä -de, -den (+ Dat, Akk, Gen)
-        der Stuhl       den Stuhl       dem Stuhl       auf den Stuhl - sandalyenin üzerine
-        die Lampe       die Lampe       der Lampe       auf dem Stuhl - sandalyenin üzerinde
-        das Buch        das Buch        dem Buch
-        die Bücher      die Bücher      den Büchern
-        Ich habe gestern eine Lampe gekauft. Die ist so schön!
+
+---> QUESTION WORDS
+	was		what			nom, akk
+	was für		what kind of
+	------------------------------------------------
+	wo		where			dat
+	wohin		where to		akk
+	woher		where from
+	------------------------------------------------
+	wann		when			dat
+	------------------------------------------------
+	wer		who			nom
+	mit wem		who with
+	wessen		whose			gen
+	wem		whom			dat
+	wen		who			akk	
+	------------------------------------------------
+	warum		why
+	------------------------------------------------
+	wie		how
+	wieviel		how much
+	wie viele	how many
+	wie lange	how long
+	wie oft		how often
+	
+
 
 
 DAS NOMEN
@@ -31,7 +50,7 @@ DAS NOMEN
                 - Plural
         
  # Nomen können ersetzt oder begleitet werden von:
- --> Pronomen
+--> Pronomen
         - Personal      Personliche
                         	--> Person + Numerus
 		                Singular	ich, du, er, sie, es
@@ -43,12 +62,32 @@ DAS NOMEN
         - Demonstrativ  Hinweisend
                                 dieser, jener
         
- ---> Artikel
+				ich	du	er	sie	es	wir	ihr	Sie	sie
+				------------------------------------	-----------------------------
+				mich	dich	ihn	sie	es	uns	euch	Sie	sie
+				mir	dir	ihm	ihr	ihm	uns	euch	ihnen	ihnen
+	
+	--> Personalpronomen
+		a) Personalpronomen im Akkusativ
+		b) Personalpronomen im Dativ
+
+--> Artikel
                         M       F       N       P
+			----------------------------
         Bestimmter      der     die     das     die
         Unbestimmter    eine, einer, eine
         
+	
+       	--> Nomen und Artikel
+        	Nom             Akk -i          Dat -e          Prä -de, -den (+ Dat, Akk, Gen)
+		-------------------------------------------------------------------------------------
+        	der Stuhl       den Stuhl       dem Stuhl       auf den Stuhl - sandalyenin üzerine
+        	die Lampe       die Lampe       der Lampe       auf dem Stuhl - sandalyenin üzerinde
+        	das Buch        das Buch        dem Buch
+        	die Bücher      die Bücher      den Büchern
         
+		Ich habe gestern eine Lampe gekauft. Die ist so schön!
+
 
 
 
@@ -66,7 +105,14 @@ DAS ADJEKTIV
         ---> Steigerung
                 Positiv         Komparativ      Superlativ
                 -------------------------------------------
-                gross           grosser         am grossten
+                gross           grosser         am grossten		big		bigger		biggest
+		gern		lieber		am liebsten		with pleasure	rather		preferably
+		gut		besser		am besten		good		better		best
+		viel		mehr		am meisten		a lot		more		most
+		hoch		höher		am höchsten		high		higher		highest
+		nah		näher		am nächsten		close		closer		closest/next
+		
+		
                 
         ---> Bildung
                 Die Endungen des Adjektivs werden bestimmt vom Artikel, der vor ihm steht und vor ihm steht und vom Substantiv, das nach ihm steht
@@ -76,8 +122,9 @@ DAS ADJEKTIV
                         Der     starke          Mann
                         Das     kleine          Kind
                         Die     hübsche         Frau
-                        
-                        
+
+
+
 DAS VERB
         --> Infinitiv
 	... ist die Grundfrom eines Verbs z.B. gehen, sehen, lieben
@@ -103,13 +150,44 @@ DAS VERB
                 Passiv	--> Ich werde gefahren
         
         --> Tempus
-                Plusquamperfekt         Perfekt                 Präterium       Präsens         Futur 1                 Futur 2
-                ----------------------------------------------------------------------------------------------------------------
-                ich hatte gesagt        ich habe gesagt         ich sagte       ich sage        ich werde sagen         ich werde gesagt haben
+                Plusquamperfekt		ich hatte gesagt
+		Perfekt			ich habe gesagt
+		Präterium		ich sagte
+		Präsens			ich sage
+		Futur 1			ich werde sagen
+		Futur 2			ich werde gesagt haben
 
 
 
 
+--> Verben
+		Präsens - Present
+		Vergangenheit - Past
+											*******
+		ich	du		er/sie/es	wir		ihr		sie/Sie
+		--------------------------------------------------------------------------------------------
+	P	bin	bist		ist		sind		seid		sind		sein - to be
+	V	was	warst		war		waren		wart		waren
+
+	P	habe	hast				haben				haben		to have
+	V	hatte	hattest		hatte		hatten		hattet		hatten
+
+	P	gehe	gehst		geht		gehen		geht		gehen		to go
+	V	ging	gingst		ging		gingen		gingt		gingen
+	
+	P	spreche	sprichst	spricht		sprechen	sprecht		sprechen	to speak
+	V	sprach	sprachst	sprach		sprachen	spracht		sprachen
+		
+	P	lese	liest		liest		lesen		lest		lesen		to read	
+	V	las	lasest		las		lasen		last		lasen
+		
+		--------------------------------------------------------------------------------------------
+	P	muss	musst		muss		müssen		müsst		müssen
+		
+	P	kann	kannst		kann		können		könnt		können		can
+		
+		
+		
 DAS ADVERB
         Eigenschaften von Adverbien
 	- Adverbien bestimmen andere Wortarten naaaher
@@ -159,7 +237,7 @@ DAS ADVERB
                  schnell	fast, quickly, rapidly
                  fast		almost
                  nie		never
-                 nächsten	next
+                 nächsten	next		# closest
                  jetzt		now
                  gelegentlich	occasionally
                  oft		often
@@ -170,9 +248,16 @@ DAS ADVERB
                  dringend	urgently
                  sehr		very
 
+		
+	die Zeit
+		das Jahr	year		der Morgen	morning		gestern		yesterday
+		der Monat	month		der Nachmittag	afternoon	heute		today
+		die Woche	week		der Abend	evening		morgen		tomorrow
+		der Tag		day		die Nacht	night
 
 
-
-
-
-
+		geradeaus	#	zurück
+		links		#	rechts
+		
+		
+		
