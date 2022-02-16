@@ -34,6 +34,7 @@ I have a car stolen
 
 ---> have + something + V3 
 --Bir işi başkasına yaptırtmak.
+S V O V3 O
 We are having our house painted this week                Bu hafta evimizi boyatıyoruz
 We have our house painted every year                     Her yıl evimizi boyatırız
 I had my hair done last week                             Geçen hafta saçımı yaptırdım
@@ -51,11 +52,13 @@ John had his leg broken by a footballer                  John bir fulbolcu taraf
 
 ---> get + something + V3
 --Bir işi yaptırtmak. Have something done kalıbıyla aynı anlamda.
+S V O V3 O
 John got his bike fixed yesterday                        John dün bisikletini tamir ettirdi
 My father gets his car serviced every six months         Babam her altı ayda arabasını kontrol ettirir
 
 ---> have + someone + V1 
 --Birisine görevini yaptırtmak.
+S V O V O
 I had the plumber fix the taps yesterday                 Muslukçuya musluğu tamir ettirdim.
 We had the officer find the file                         Memura dosyayı buldurttuk
 The teacher usually has his pupils do a lot of homework  Öğretmen genellikle öğrencilerine çok ödev yaptırtır
@@ -63,6 +66,7 @@ Can you have your secretary send me the details?         Sekreterine detayları 
 
 ---> make + someone + V1  
 --(to force someone to do something) Maddi/Manevi baskıyla bir işi yaptırtmak.
+S V O V O
 My father often makes me clean his car                   Babam çoğu zaman bana  arabasını temizlettirir.
 I made the shark run away                                Köpekbalığını kaçırttım
 We should make the man put out his cigar                 Adama purosunu söndürtmeliyiz
@@ -77,13 +81,15 @@ You made me very tired yesterday
 
 ---> get + someone + to + V1  
 --(to persuade s.one to do sth) Sözle/Ücretle ikna ederek bir şey yaptırtmak.
+S V O to V O
 They got the singer to sing one more song                Onlar şarkıcıya bir şarkı daha söylettirdiler
 We got Helen to order all of us pizza                    Helen’e hepimize pizza ısmarlattık
 I got my father to buy me a mobile phone                 Babama bana bir cep telefonu aldırttım
 I got my little son to take the bitter medicine          Küçük oğluma acı ilacı içirttim
 
----> let + someone + V1 
+---> let + someone + V1
 (allow someone to do something) Birine bir şey için izin vermek. 
+S V O V O
 Mother lets her daughter wear a make-up                  Anne, kızının makyaj yapmasına izin verir/makyaj yaptırtır
 They won’t let me eat all the cake                       Tüm keki bana yedirtmezler/yememe izin vermezler
 The sheriff didn’t let the robber go away                Şerif soyguncunun gitmesine izin vermedi
