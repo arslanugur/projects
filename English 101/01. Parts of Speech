@@ -399,10 +399,53 @@ We, You, They  were     are        will be
 
 
 
----> OPTIMIZATION
-     Saying "have a nice day" to someone sounds friendly
-     Saying "enjoy your next twenty-four hours" to someone sounds threatening
-
+---> PERMUTATION OF ENGLISH
+	Permütasyon, her sembolün bir veya birden fazla kullanıldığı bir sıralı dizi yöntemi
+	
+	A = {1, 2, 3, 4, 5, 6, 7}		English = {Noun, Pronoun, Verb, Adverb, Adjective, Preposition, Conjunction}
+						
+							Subject = Noun, Pronoun		Object = Noun, Pronoun
+							
+	ORIGINS:
+	---------------------------------------------------------
+	Subject		Verb	 
+	Subject		Verb    (prep)	Object
+	Subject		Verb		Object		Object
+	Subject		Frequency	Verb		Object
+	Subject		Modal		Verb		Object
+	Subject		Verb		Adjective
+	Subject		Verb		Adverb
+	Subject		Verb		Object		Adjective
+	Subject		Verb		Object		Adverb
+	
+	
+	
+	EXTRAS:
+	---------------------------------------------------------
+	S V, S V O			---> Reported Speech
+	S V O = S ----> (S) V O		---> Relative Clause
+	S V O V3 O			---> Causative: have/get + something + V3
+	S V O V O			---> Causative: have/make + someone + V3
+	S V O to V O			---> Causative: get + someone + to + V1 
+	S V O V O			---> Causative: let + someone + V1
+	
+	
+	
+	TIME COMBINATION
+	---------------------------------------------------------
+	1. sentence,	2. sentence
+	----------------------------
+	S V O,		S V O
+	----------------------------
+	present time,	present time / future time
+	past time,	past time
+	
+	
+	
+	OPTIMIZATION
+		--> Bilmediğin bir kelimeyi düşünmek yerine, onun yerine geçebilecek muadil basit düzey kelime kullanarak cümleyi söylemek
+		--> Simplify the Expression - İfadeyi Basitleştir 
+	
 
 
 
@@ -413,10 +456,10 @@ Noun + Noun			computer class		phone number
 Noun + Noun			John’s pen		Alex's phone
 Noun + (Prep) + Noun		leg of table		six of clock
 Noun + (Prep) + Noun		child of sister’s	car from Alex
-Noun + Verb			parents like		
+Noun + Verb			parents like		cat walks
 Pronoun + Verb			we play			you need
-(the) + Adjective + Verb	the poor need				
-(the) + Part II (V3) + Verb	the abandoned regret	
+(the) + Adjective + Verb	the poor need		the fast want		
+(the) + Part II (V3) + Verb	the abandoned regret	the drunk work
 Gerund + Verb			singing helps		
 Numeral + Verb			the first wins		
 Verb + Noun			play chess		send message
@@ -426,14 +469,14 @@ Verb + (Prep) + Pronoun		work for him		ask for it
 Verb + Gerund			enjoy reading		stop doing
 Verb + (Prep) + Gerund		vote against raising
 Verb + Verb			want to buy
-Verb + Numeral			have three
+Verb + Numeral			have three		make four
 Adjective + Noun		nice film		red car
-Adjective + Gerund		beautiful singing	
+Adjective + Gerund		beautiful singing	fast running
 Pronoun + Noun			our table		their dresses
-Pronoun + Gerund		her studying		
+Pronoun + Gerund		her studying		his learning
 Noun + Gerund			Mike’s learning
-Part I + Noun			playing children
-Part I + Pronoun		cheering us
+Part I + Noun			playing children	seeing people
+Part I + Pronoun		cheering us		seeing them
 Part II (V3) + Noun		forgotten story
 Part II (V3) + Pronoun		tired me
 Part II (V3) + Gerund		excited speaking
