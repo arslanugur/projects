@@ -683,31 +683,40 @@ I work in a restaurant. I start.-- what would you like to have today?
 					+ I would like to eat a piece of cake
 					- okay. I will be right back
 we are friends. I start.	-- I need to go to the train station tomorrow but my car doesnt work
-					+ 
+					+ what time do you need to go tomorrow?
+					- at seven
+					+ okay, I can take you to the train station
+					- thank you
+					
 we are in the street. I start.	-- excuse me. where is the bank, pls?
-					+ 
+					+ go straight, turn left. Do you know the bakery shop?
+					- yes I know
+					+ turn from the bakery shop, you will see the bank next to the bakery shop
+					- thank you.
 
 
 	B				
 I am your boss. you are late for work. you start.
-					+ I was ill, so I was late. and today I have an appointment for hospital
+					+ I was ill, so I was late. and today I have an appointment in the hospital
 					+ sorry, my car didnt work. I had to get on the bus in the morning
 					
+					
 we are neighbours. you are new in my town. you want to eat in a restaurant. you start
-					+ I want to eat in a restaurant around the town
-					+ 
+					+ I want to eat in a restaurant. Where is the nearest restaurant?
+					- go straight ...
+					+ okay, I know there. Thank you
+					
 I work in a shop. you want to buy a pair of shoes. you start
 					+ I want to buy blue shoes. can you help me?
 					- ok I can help you. what size do you wear?
 					+ thirty-four
 					- ok you can try this one
+					
 we are in the same english class. you want me to help you study for a test. you start
-					+ I need to study for my test. It is very difficult to me.
+					+ I need to study for my English test. can you help me?.
 					- okay I can help you
-					+ where do you want to study?
-					+ when do you want to study?
-					- I want to study at school
-					- I want to study at seven
+					+ what time can you study with me?
+					- I can study at seven
 
 
 ################################ PART 3
@@ -737,7 +746,7 @@ we are in the same english class. you want me to help you study for a test. you 
 
 what is Paolo's job?
 	he is a waiter
-when does Angela meet Paola?
+when does Angela meet Paolo?
 	Angela meet Paolo every monday/Mondays
 Where do they go for a walk?
 	they go for a walk in the park
@@ -746,8 +755,8 @@ Where do they go for a walk?
 
 your best friend
 	"My best friend is Ayşe. Ayşe is twenty-five years old
-	 she is a teacher in a school. She has short black hair.
-	 we cant meet at the weekend, because she always work.
+	 she is a student in a school. She has short black hair.
+	 we cant meet at the weekend, because she always study.
 	 we meet every Monday.
 	 we talk a lot.
 	 she is very talkative and funny.
