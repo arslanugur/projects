@@ -819,36 +819,50 @@ can you tell me something about your friends?
 	
 ################################ PART 2
 
-I work in a bookshop. I start				- can I help you?
-							+ I would like to buy educational books
-							-you can find there
-I am a doctor. you dont feel well. I start		- what's wrong?
-							+ I am ill. I have headache.
-we are friends. It is your birthday today. I start	- happy birthday! are you having a party?
-							+ no I dont want to have a party
-							- why dont you want to have a party
-							+ because 
+I work in a bookshop. I start				-- Can I help you?
+							1. I would like to buy romantic books. How much is this book?
+							-- the book is 5 dollars
+							2. It is very expensive. Thank you
+							
+I am a doctor. you dont feel well. I start		-- what's wrong?
+							1. I am ill. I have headache.
+							
+we are friends. It is your birthday today. I start	-- happy birthday! Are you having a party?
+							1. Yes, I will have a party. Do you want to come  
+							-- why dont you want to have a party
+							+ because
+							
 I am in your town we meet in the street. I start	- excuse me, where is the cinema?
 							+
 
 we are friends. you want me to help you with your bags. you start
-							+ can you help me with my bags
-							- yes of course. I can carry this one
-							+ that one is heavy one.
-							- it is okay
+							1. Can you help me with my bags?
+							-- yes of course. I can carry this black bag
+							2. That one is heavy one. Thank you
+							-- it is okay
+							
 we are new students. you want to know where the teacher's office is. you start.
-							- I started to study today. I am new at university. 
-							  I dont know where is the teacher's office?
+							1. Hello, My name is ---. I am new at university.
+							-- Hello, My name is --.
+							2. Can you help me? Where is teacher's office?
+							-- go ahead. you will see on your right
 							  
 we meet at a party. you don't know my name. you start
+							1. hello, What do yo think about the party?
+							-- It is very funny
+							2. My name is --. What is your name?
+							-- My name is --
+							3. Nice to meet you
+							-- Nice to meet you too
+
+							
 							
 I work in a clothes shop. you want to know the price of a shirt. you start.
-							+ hello, can you help, pls?
-							- of course, how can I help you?
-							+ I like this shirt for my husband. 
-							  Can I know the price of this shirt?
-							- the price is 30 dollars
-							+ it is very expensive. thank you
+							1. hello, can you help me, please?
+							-- of course, how can I help you?
+							2. I like this shirt. How much is this shirt? 
+							-- the price is 30 dollars
+							3. it is very expensive. thank you
 							
 							
 ################################ PART 3
@@ -977,15 +991,16 @@ why are you learning English?
 
 
 	------------------------------------------------------------------------------------------------------------------------------
-	I see,		there is	|	a		|	man		|	in		my picture
-					|	one		|	woman		|	in		the kitchen
+	I see,		there is	|	a		|	man		|	IN		MY PICTURE
+					|	one		|	woman		|	
 					|			|	child		|	in		her hands
 					|			|	bag		|	in 		the bank
 					|			|	cat		|	in		the mirror
-					|			|	window		|			
-					|			|	bird		|			
-					|			|	duck		|	 			
-			----------------------------------------|-----------------------|	on		his head
+					|			|	window		|	in		the kitchen		
+					|			|	bird		|	in		the post office		
+					|			|	duck		|
+					|			|	cupcake		|	 			
+			----------------------------------------|-----------------------|	
 			there are	|	two		|	people		|	on		the sea
 					|	three		|	men		|	on		the chair
 					|	four		|	women		|	on		the table
@@ -993,10 +1008,10 @@ why are you learning English?
 					|	white		|	birds		|	on		the oven
 					|	blue		|	boats		|	on 		the desk
 					|	some		|	cups		|	on		the wall
-					|			|	clouds		|	on		the desk	
-					|			|	rooms		|	under		the table
-					|			|	ducks		|	behind		the horse
-					|			|	cupcake		|	next to		the man
-					|			|	houses		|	next to		the sandwich
-					|			|	flowers		|	around		the fire
+					|			|	clouds		|	on		his head	
+					|			|	rooms		|	next to		the man
+					|			|	ducks		|	next to		the sandwich
+					|			|	flowers		|	under		the table
+					|			|	houses		|	behind		the horse
+					|			|			|	around		the fire
 					
