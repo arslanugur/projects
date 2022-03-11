@@ -78,17 +78,26 @@ DAS NOMEN
 				ich	du	er	sie	es	wir	ihr	Sie	sie
 				------------------------------------	-----------------------------
 				mich	dich	ihn	sie	es	uns	euch	Sie	sie
-				mir	dir	ihm	ihr	ihm	uns	euch	ihnen	ihnen
+				mir	dir	ihm	ihr	ihm	uns	euch	Ihnen	ihnen
 	
 	--> Personalpronomen
 		a) Personalpronomen im Akkusativ
 		b) Personalpronomen im Dativ
 
 --> Artikel
-                        M       F       N       P
-			----------------------------
-        Bestimmter      der     die     das     die
-        Unbestimmter    eine, einer, eine
+                        Kasus	M       F       N       P
+			------------------------------------
+        Bestimmter      Nom	der     die     das     die
+        		Gen	des	der	des	der
+			Dat	dem	der	dem	den + n
+			Akk	den	die	das	die
+			
+                        Kasus	M       F       N			
+			------------------------------
+	Unbestimmter    Nom	ein	eine	ein
+			Gen	eines	einer	eines
+			Dat	einem	einer	einem
+			Akk	einen	eine	ein
         
 	
        	--> Nomen und Artikel
