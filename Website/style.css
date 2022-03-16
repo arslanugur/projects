@@ -1,0 +1,48 @@
+# Sayfada kullanılan renkler yorum satırı olarak yazıldı  11:19
+/*welcome color: #745b37;
+buy color: #5b2a02;
+
+p:#2c2727; */
+
+# ilk olarak etiketler resetlencek, çünkü containerdan gelen margin ve padding köşe boşluklar var
+# sonuç olarak fazladan margin gelebilir. bu yüzden resetlemek daha iyi şimdilik
+# reset kodları internetten bulabilirsin
+# yıldız demek, tüm etiketleri etkiliyor
+*,
+*::before,
+*::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  border: 0;
+}
+
+  # a etiketlerine gelirsek
+a,
+a:link,
+a:visited{
+  text-decoration: none;      # altı çizili istemiyorum
+  outline: none;              # üstüne basıldığı zaman etiketten gelen kenarlıkları istemiyorum
+  border: none;              # belki yukarıyı okumaz diye 
+}
+
+# liste elemanlarına gelirsek
+ul,
+li{
+  list-style: none;         # listeleri belirtmek için başında yuvarlak şeyle roluyor bunlara gerek yok
+  margin: 0;                # belki yukarıyı okumaz diye nolur nolmaz
+  padding: 0;
+}
+
+# section etiketleri için verirsek
+section, 
+span,                       # welcome yazısında kullanmıştık
+p{
+  margin: 0;
+  padding: 0;
+  outline: none;
+  border: none;
+}
+
+
+
