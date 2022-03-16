@@ -26,7 +26,7 @@ a:visited{
   border: none;              /*belki yukarıyı okumaz diye */
 }
 
-# liste elemanlarına gelirsek
+/* liste elemanlarına gelirsek*/
 ul,
 li{
   list-style: none;         /*listeleri belirtmek için başında yuvarlak şeyle roluyor bunlara gerek yok*/
@@ -34,7 +34,7 @@ li{
   padding: 0;
 }
 
-# section etiketleri için verirsek
+/* section etiketleri için verirsek */
 section, 
 span,                       /* welcome yazısında kullanmıştık*/
 p{
