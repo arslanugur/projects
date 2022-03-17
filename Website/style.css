@@ -76,25 +76,28 @@ p{
 }
 
 
+
 # logo tasarımına geçersek
 .header-logo{
   font-size: 16px;
   letter-spacing: 2px;                  # harflerin ayırma aralığı
-  border-bottom: 5px solid #000;        # altçizgi verildi logoya
+  border-bottom: 5px solid #000;        # altçizgi verildi logoya -- siyah renk -- böylece borderla logo tasarlandı
   border-radius: 35px;
+  padding-bottom: 5px;                  # çok iç içe girmemesi için aralık verelim
 }
 
   # liste etiketlerini flex yapalım
 ul{
   display: flex;
 }
-  # listeyi tamamlayalım
+
+  # listeyi tamamlayalım -- # home, about vs birbirinden ayrılcaklar
 li{
-  margin-left: 27px;       # home, about vs birbirinden ayrılcaklar
+  margin-left: 27px;       
 }
 
 li:first-child{                    # arkaplana uyması açısından home buttonunu biraz kaydırdık
-
+  margin-right: 70px;
 }  
 
 # bir taraftan da fontları ayarla: sayfada poppins fontunu kullandım
@@ -107,9 +110,13 @@ a{          # a etiketinin renk ve fontlarını değiştirelim
   font-size: 15px;
 }
 
-
-
-
+# hash etiketleri: merkezi yazı ve slogan kullanıp satın alma butonunu koyalım
+# htmle geri dön sonra css dönerim
+# döndükk
+.header-text{
+  position: absolute; # sayfa ortasına hizala. sütun şeklinde olacak, yanyana durmayacak yani. absolute sayesinde sayfaya top ve left değerleri verilecek bu sayede top bottom left right  
+}
+26:39
 
   
   
