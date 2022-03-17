@@ -4,6 +4,10 @@ buy color: #5b2a02;
 
 p:#2c2727; */
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Herr+Von+Muellerhoff&family=Poppins:wght@600;700&display=swap');          # welcome yazısında kullanılacaka olan font import et
+                                        # font-family: 'Poppins', sans-serif;  ---- tüm sayfa için bu font ama bunu tüm etiketlere verilcek
+
 /* ilk olarak etiketler resetlencek, çünkü containerdan gelen margin ve padding köşe boşluklar var
 sonuç olarak fazladan margin gelebilir. bu yüzden resetlemek daha iyi şimdilik
 reset kodları internetten bulabilirsin
@@ -15,6 +19,7 @@ yıldız demek, tüm etiketleri etkiliyor*/
   padding: 0;
   box-sizing: border-box;
   border: 0;
+  font-family: 'Poppins', sans-serif;           # bu font tüm etiketlere verildi
 }
 
   /* a etiketlerine gelirsek */
@@ -44,5 +49,68 @@ p{
   border: none;
 }
 
+# bunları dosya şeklinde yap hep kullan
+
+.container{
+  max-width: 1170px;
+  margin: 0 auto;
+  padding: 0 15pc;      #alttan üstten sıfır kenarlardan 15pc   
+}
+# yukarı çok yapışmış olacak. bunları tab değeri vererek ayıracağız
+# flex yapısını kullanarak bunları yan yana getireceğiz home about discove contact kısmı yani
+
+.header{           # headerı seç ilk etapta resmi koyalım
+  background-image: url(menu-stutt.jpg);
+  background-position: center;            # merkezle
+  background-size: cover;                 # kapla
+  background-attachment: fixed;           # buraya kadar header kadar yer kaplar ama  bize komple arka plan lazım bu yüzden height değeri verilmeli
+  height: 100vh;                          # tüm ekran boyunu kaplar: phone, tablet fark etmez
+}
+
+# flex yapısının kullanımı menu yanyana olacak
+.header-navbar{
+  display: flex;
+  align-items: center;        # dikey ve yatayda ortala
+  justify-content: space-between;       # birbirinden ayır
+  padding: 40px 0;                      # yukarıdan biraz ayrılıyor
+}
 
 
+# logo tasarımına geçersek
+.header-logo{
+  font-size: 16px;
+  letter-spacing: 2px;                  # harflerin ayırma aralığı
+  border-bottom: 5px solid #000;        # altçizgi verildi logoya
+  border-radius: 35px;
+}
+
+  # liste etiketlerini flex yapalım
+ul{
+  display: flex;
+}
+  # listeyi tamamlayalım
+li{
+  margin-left: 27px;       # home, about vs birbirinden ayrılcaklar
+}
+
+li:first-child{                    # arkaplana uyması açısından home buttonunu biraz kaydırdık
+
+}  
+
+# bir taraftan da fontları ayarla: sayfada poppins fontunu kullandım
+# https://fonts.google.com/ SEMI-BOLD 600 + SELECT THIS STYLE  en yukarıda css dosyasına dahil ettim
+
+
+a{          # a etiketinin renk ve fontlarını değiştirelim
+  color: #000;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+
+
+
+  
+  
+  
