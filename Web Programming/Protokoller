@@ -1,31 +1,52 @@
-Donanım Katmanındaki Protokoller:
+PROTOKOLLER:
 
-ARP (Address Resolution Protocol): IP adreslerinin donanım adreslerine çevrimini sağlar.
-RARP (Reverse ARP, yani Ters ARP) protokolü ARPʼın ters işlemi yapar. Yani hangi MAC adresinin hangi IP adresinde kullandığını bulur. 
-                                  Bir TCP/IP ağında RARPʼın çalışacağı garanti değildir, zira RARP bir RARP sunucusuna ihtiyaç duyar.
+---> Donanım Katmanındaki Protokoller:
+ARP (Address Resolution Protocol):
+        IP adreslerinin donanım adreslerine çevrimini sağlar.
+RARP (Reverse ARP, yani Ters ARP) protokolü ARPʼın ters işlemi yapar. 
+        Yani hangi MAC adresinin hangi IP adresinde kullandığını bulur. 
+        Bir TCP/IP ağında RARPʼın çalışacağı garanti değildir, zira RARP bir RARP sunucusuna ihtiyaç duyar.
 
-IP Katmanındaki Protokoller:
-ICMP (Internet Control Message Protocol – Internet Yönetim Mesajlaşması Protokolü): Hata ve türlü bilgi mesajlarını ileten protokoldür. Örneğin, ping programı ICMPʼyi kullanır.
-RIP (Router Information Protocol – Router Bilgi Protokolü): Routerʼların yönlendirme tablolarını otomatik olarak üretebilmesini sağlayan protokoldür.
-OSPF (Open Shortest Path F􀀁rst – İlk Açık Yöne Öncel􀀁k): Aynı RIP g􀀁b􀀁 routerʼların yönlend􀀁rme tablolarını otomat􀀁k olarak üreteb􀀁lmes􀀁ne sağlar. OSPF, RIPʼten daha gel􀀁şm􀀁ş b􀀁r protokoldür.
-IGMP (Internet Group Messag􀀁ng Protocol – Internet Grup Mesajlaşma Protokolü): B􀀁r s􀀁stem􀀁n 􀀁nternet yayınlarına (mult􀀁cast) abone olmasına ve abonel􀀁ğ􀀁 durdurmasına yarar. Bu yayınlar, UDP üzer􀀁nden
-yapılır ve genelde çoklu ortam (radyo veya v􀀁deo) 􀀁çer􀀁kl􀀁 olurlar.
-DHCP (Dynam􀀁c Host Conf􀀁gurat􀀁on Protocol – D􀀁nam􀀁k C􀀁haz Ayar Protokolü): B􀀁r TCP/IP ağına bağlanan b􀀁r c􀀁haza otomat􀀁k olarak IP adres􀀁, ağ maskes􀀁, ağ geç􀀁d􀀁 ve DNS sunucusu atanmasına yarar.
+---> IP Katmanındaki Protokoller:
+ICMP (Internet Control Message Protocol – Internet Yönetim Mesajlaşması Protokolü): 
+        Hata ve türlü bilgi mesajlarını ileten protokoldür. Örneğin, ping programı ICMPʼyi kullanır.
+RIP (Router Information Protocol – Router Bilgi Protokolü): 
+        Routerʼların yönlendirme tablolarını otomatik olarak üretebilmesini sağlayan protokoldür.
+OSPF (Open Shortest Path First – İlk Açık Yöne Öncelik): 
+        Aynı RIP gibi routerʼların yönlendirme tablolarını otomatik olarak üretebilmesine sağlar. OSPF, RIPʼten daha gelişmiş bir protokoldür.
+IGMP (Internet Group Messaging Protocol – Internet Grup Mesajlaşma Protokolü): 
+        Bir sistemin internet yayınlarına (multicast) abone olmasına ve aboneliği durdurmasına yarar. 
+        Bu yayınlar, UDP üzerinden yapılır ve genelde çoklu ortam (radyo veya video) içerikli olurlar.
+DHCP (Dynamic Host Configuration Protocol – Dinamik Cihaz Ayar Protokolü): 
+        Bir TCP/IP ağına bağlanan bir cihaza otomatik olarak IP adresi, ağ maskesi, ağ geçidi ve DNS sunucusu atanmasına yarar.
 
-Tartışma katmanındak􀀁 protokoller:
-UDP (User Datagram Protocol – Kullanıcı Ver􀀁 Protokolü): IP üzer􀀁nden ver􀀁 yollamaya yarar. Ver􀀁ler􀀁n ulaşacağını garant􀀁 etmez. UDP paketler􀀁n􀀁n büyüklükler􀀁 sınırlıdır. UDP son derece bas􀀁t ve bağlantı
-gerekt􀀁rmeyen (connect􀀁onless) b􀀁r protokoldür.
-TCP (Transm􀀁ss􀀁on Control Protocol – Gönder􀀁m Kontrol Protokolü): IP üzer􀀁nden ulaşma garant􀀁l􀀁 ve herhang􀀁 b􀀁r büyüklükte ver􀀁 gönder􀀁lmes􀀁ne 􀀁mkan tanıyan b􀀁r protokoldür. UDPʼden farklı olarak, TCPʼde
-􀀁k􀀁 c􀀁hazın 􀀁let􀀁ş􀀁m kurab􀀁lmes􀀁 􀀁ç􀀁n önce b􀀁rb􀀁rler􀀁ne bağlanmaları gerekmekted􀀁r.
+---> Tartışma katmanındaki protokoller:
+UDP (User Datagram Protocol – Kullanıcı Veri Protokolü): 
+        IP üzerinden veri yollamaya yarar. Verilerin ulaşacağını garanti etmez. UDP paketlerinin büyüklükleri sınırlıdır. 
+        UDP son derece basit ve bağlantı gerektirmeyen (connectionless) bir protokoldür.
+TCP (Transmission Control Protocol – Gönderim Kontrol Protokolü): 
+        IP üzerinden ulaşma garantili ve herhangi bir büyüklükte veri gönderilmesine imkan tanıyan bir protokoldür. 
+        UDPʼden farklı olarak, TCPʼde iki cihazın iletişim kurabilmesi için önce birbirlerine bağlanmaları gerekmektedir.
 
-Uygulama katmanındak􀀁 protokoller:
-DNS (Doma􀀁n Name System – Alan Adı S􀀁stem􀀁): Alan adı ver􀀁len 􀀁s􀀁mler (örneğ􀀁n www.w􀀁k􀀁ped􀀁a.org) 􀀁le IP adresler􀀁n􀀁 b􀀁rb􀀁r􀀁ne bağlayan s􀀁stemd􀀁r. Paylaştırılmış b􀀁r ver􀀁tabanı olarak çalışır. UDP veya TCP
-üzer􀀁nden çalışab􀀁l􀀁r.
-HTTP (HyperText Transfer Protocol – H􀀁perMet􀀁n Yollama Protokolü): İlk başta HTML sayfaları yollamak 􀀁ç􀀁n yaratılmış olan bir protokol olup günümüzde her türlü ver􀀁n􀀁n gönder􀀁m􀀁 􀀁ç􀀁n kullanılır. TCP üzerinden çalışır.
-HTTPS (Secure HTTP – Güvenl􀀁 HTTP): HTTPʼnin RSA (Açık anahtarlı şifreleme) şifrelemesi ile güçlendirilmiş halidir. TCP üzerinden çalışır.
-POP3 (Post Office Protocol 3 – Postahane Protokolü 3): e-posta almak için kullanılan bir protokoldür. TCP üzerinden çalışır.
-SMTP (Simple Mail Transfer Protocol – Basit Mektup Gönderme Protokolü): e-posta göndermek için kullanılır. TCP üzerinden çalışır.
-FTP (File Transfer Protocol – Dosya Gönderme Protokolü): Dosya göndermek ve almak için kullanılır.
-HTTPʼden değişik olarak kullanıcının zorunluı olarak sisteme giriş yapmasını gerektirir. Veri ve komut alış
-verişi için iki ayrı port kullanır. TCP üzerinden çalışır.
-SFTP veya FTPS (Secure FTP – Güvenli FTP): FTPʼnin RSA ile güçlendirilmiş halidir. TCP üzerinden çalışır.
+---> Uygulama katmanındaki protokoller:
+DNS (Domain Name System – Alan Adı Sistemi):
+        Alan adı verilen isimler (örneğin www.wikipedia.org) ile IP adreslerini birbirine bağlayan sistemdir. 
+        Paylaştırılmış bir veritabanı olarak çalışır. UDP veya TCP üzerinden çalışabilir.
+HTTP (HyperText Transfer Protocol – HiperMetin Yollama Protokolü): 
+        İlk başta HTML sayfaları yollamak için yaratılmış olan bir protokol olup günümüzde her türlü verinin gönderimi için kullanılır. 
+        TCP üzerinden çalışır.
+HTTPS (Secure HTTP – Güvenli HTTP): 
+        HTTPʼnin RSA (Açık anahtarlı şifreleme) şifrelemesi ile güçlendirilmiş halidir. TCP üzerinden çalışır.
+POP3 (Post Office Protocol 3 – Postahane Protokolü 3): 
+        e-posta almak için kullanılan bir protokoldür. TCP üzerinden çalışır.
+SMTP (Simple Mail Transfer Protocol – Basit Mektup Gönderme Protokolü): 
+        e-posta göndermek için kullanılır. TCP üzerinden çalışır.
+FTP (File Transfer Protocol – Dosya Gönderme Protokolü): 
+        Dosya göndermek ve almak için kullanılır.
+        HTTPʼden değişik olarak kullanıcının zorunlu olarak sisteme giriş yapmasını gerektirir. 
+        Veri ve komut alış verişi için iki ayrı port kullanır. TCP üzerinden çalışır.
+SFTP veya FTPS (Secure FTP – Güvenli FTP): 
+        FTPʼnin RSA ile güçlendirilmiş halidir. TCP üzerinden çalışır.
+
+
+
