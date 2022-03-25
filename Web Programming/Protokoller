@@ -1,0 +1,39 @@
+Donanım Katmanındaki Protokoller:
+
+ARP (Address Resolution Protocol): IP adresler􀀁n􀀁n donanım adresler􀀁ne çevr􀀁m􀀁n􀀁 sağlar.
+RARP (Reverse ARP, yan􀀁 Ters ARP) protokolü ARPʼın ters 􀀁şlem􀀁 yapar. Yan􀀁 hang􀀁 MAC adres􀀁n􀀁n hang􀀁 IP
+adres􀀁n􀀁 kullandığını bulur. B􀀁r TCP/IP ağında RARPʼın çalışacağı garant􀀁 değ􀀁ld􀀁r, z􀀁ra RARP b􀀁r RARP
+sunucusuna 􀀁ht􀀁yaç duyar.
+IP Katmanındak􀀁 Protokoller:
+ICMP (Internet Control Message Protocol – Internet Yönet􀀁m Mesajlaşması Protokolü): Hata ve türlü b􀀁lg􀀁
+mesajlarını 􀀁leten protokoldür. Örneğ􀀁n, p􀀁ng programı ICMPʼy􀀁 kullanır.
+RIP (Router Informat􀀁on Protocol – Router B􀀁lg􀀁 Protokolü): Routerʼların yönlend􀀁rme tablolarını otomat􀀁k
+olarak üreteb􀀁lmes􀀁n􀀁 sağlayan protokoldür.
+OSPF (Open Shortest Path F􀀁rst – İlk Açık Yöne Öncel􀀁k): Aynı RIP g􀀁b􀀁 routerʼların yönlend􀀁rme tablolarını
+otomat􀀁k olarak üreteb􀀁lmes􀀁ne sağlar. OSPF, RIPʼten daha gel􀀁şm􀀁ş b􀀁r protokoldür.
+IGMP (Internet Group Messag􀀁ng Protocol – Internet Grup Mesajlaşma Protokolü): B􀀁r s􀀁stem􀀁n 􀀁nternet
+yayınlarına (mult􀀁cast) abone olmasına ve abonel􀀁ğ􀀁 durdurmasına yarar. Bu yayınlar, UDP üzer􀀁nden
+yapılır ve genelde çoklu ortam (radyo veya v􀀁deo) 􀀁çer􀀁kl􀀁 olurlar.
+DHCP (Dynam􀀁c Host Conf􀀁gurat􀀁on Protocol – D􀀁nam􀀁k C􀀁haz Ayar Protokolü): B􀀁r TCP/IP ağına bağlanan
+b􀀁r c􀀁haza otomat􀀁k olarak IP adres􀀁, ağ maskes􀀁, ağ geç􀀁d􀀁 ve DNS sunucusu atanmasına yarar.
+Tartışma katmanındak􀀁 protokoller:
+UDP (User Datagram Protocol – Kullanıcı Ver􀀁 Protokolü): IP üzer􀀁nden ver􀀁 yollamaya yarar. Ver􀀁ler􀀁n
+ulaşacağını garant􀀁 etmez. UDP paketler􀀁n􀀁n büyüklükler􀀁 sınırlıdır. UDP son derece bas􀀁t ve bağlantı
+gerekt􀀁rmeyen (connect􀀁onless) b􀀁r protokoldür.
+TCP (Transm􀀁ss􀀁on Control Protocol – Gönder􀀁m Kontrol Protokolü): IP üzer􀀁nden ulaşma garant􀀁l􀀁 ve
+herhang􀀁 b􀀁r büyüklükte ver􀀁 gönder􀀁lmes􀀁ne 􀀁mkan tanıyan b􀀁r protokoldür. UDPʼden farklı olarak, TCPʼde
+􀀁k􀀁 c􀀁hazın 􀀁let􀀁ş􀀁m kurab􀀁lmes􀀁 􀀁ç􀀁n önce b􀀁rb􀀁rler􀀁ne bağlanmaları gerekmekted􀀁r.
+Uygulama katmanındak􀀁 protokoller:
+DNS (Doma􀀁n Name System – Alan Adı S􀀁stem􀀁): Alan adı ver􀀁len 􀀁s􀀁mler (örneğ􀀁n www.w􀀁k􀀁ped􀀁a.org) 􀀁le IP
+adresler􀀁n􀀁 b􀀁rb􀀁r􀀁ne bağlayan s􀀁stemd􀀁r. Paylaştırılmış b􀀁r ver􀀁tabanı olarak çalışır. UDP veya TCP
+üzer􀀁nden çalışab􀀁l􀀁r.
+HTTP (HyperText Transfer Protocol – H􀀁perMet􀀁n Yollama Protokolü): İlk başta HTML sayfaları yollamak
+􀀁ç􀀁n yaratılmış olan bir protokol olup günümüzde her türlü ver􀀁n􀀁n gönder􀀁m􀀁 􀀁ç􀀁n kullanılır. TCP üzerinden çalışır.
+HTTPS (Secure HTTP – Güvenl􀀁 HTTP): HTTPʼnin RSA (Açık anahtarlı şifreleme) şifrelemesi ile güçlendirilmiş halidir. TCP üzerinden çalışır.
+POP3 (Post Office Protocol 3 – Postahane Protokolü 3): e-posta almak 􀀁ç􀀁n kullanılan bir protokoldür. TCP üzerinden çalışır.
+SMTP (S􀀁mple Ma􀀁l Transfer Protocol – Bas􀀁t Mektup Gönderme Protokolü): e-posta göndermek 􀀁ç􀀁n
+kullanılır. TCP üzer􀀁nden çalışır.
+FTP (F􀀁le Transfer Protocol – Dosya Gönderme Protokolü): Dosya göndermek ve almak 􀀁ç􀀁n kullanılır.
+HTTPʼden değ􀀁ş􀀁k olarak kullanıcının zorunluı olarak s􀀁steme g􀀁r􀀁ş yapmasını gerekt􀀁r􀀁r. Ver􀀁 ve komut alış
+ver􀀁ş􀀁 􀀁ç􀀁n 􀀁k􀀁 ayrı port kullanır. TCP üzer􀀁nden çalışır.
+SFTP veya FTPS (Secure FTP – Güvenl􀀁 FTP): FTPʼn􀀁n RSA 􀀁le güçlend􀀁r􀀁lm􀀁ş hal􀀁d􀀁r. TCP üzer􀀁nden çalışır.
