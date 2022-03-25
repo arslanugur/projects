@@ -1,1 +1,10 @@
 A2.17. Konjuktiv II
+
+Können
+Präsens                   ich kann dir helfen           i can help you
+Prateritum                ich konnte dir helfen         
+Perfekt                   ich habe dir helfen können
+Plusquamperfekt           ich hatte dir helfen können
+Konjunktiv II             ich könnte dir helfen         i could help you
+Konjunktiv II Perfekt     ich hätte dir helfen können   i could have helped you
+
