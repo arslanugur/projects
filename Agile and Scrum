@@ -1,0 +1,29 @@
+Mühendislik: sistemeatik, ölçülebilir ve tanımlı süreçlere dayalı olarak ürün geliştirmeyi hedefler.
+
+Çeviklik: Değişime hızlı tepki verme yeteneği olarak tanımlanır.
+
+Çevik Metodlar:
+- Time Boxing Çalışma şekli (Zaman dilimleri). Ürünün bir parçası her zaman kutucuğunun sonunda çalışan bir ürün parçası olmalı. İteration - yineleme (küçük buz küpleri)
+- Extreme Programming (XP)
+- Scrum
+- Feature Driven Dev (İşlevsel)
+- Lean Software Dev (Modüler)
+- Kanban
+
+
+Bir ürün, bir sürü kısıt ve kritere göre yapılır.
+
+Yöntemler:
+- Code and Fix
+- Heavyweight, Disciplined Process
+- Adaptive, Lightweight (Agile) Process (Planlanan sonuçtan, istenilen sonucu gitmeye çalışmak)
+
+
+- Quick Reaction
+- Embrace changes
+- Changable Requirements and Analysis (Flexibility, Refactoring - Kodu Düzenlemek)
+- System Developments (Moduler Decomposition and Iterations, Lego)
+- Tests and Complete Quality (Grupla birlikte hareket edecek bir yapıda olunmalı)
+- Elinde bir model yok, lego gibi tek tek tasarlayıp ürünü ortaya çıkarmak. No Blueprint
+- Impostor: Ürün görmek. 
+- Bütün yetenekleri gösteremeye gerek yok belki şarkıya uygun değil
