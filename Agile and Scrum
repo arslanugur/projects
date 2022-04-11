@@ -27,3 +27,17 @@ Yöntemler:
 - Elinde bir model yok, lego gibi tek tek tasarlayıp ürünü ortaya çıkarmak. No Blueprint
 - Impostor: Ürün görmek. 
 - Bütün yetenekleri gösteremeye gerek yok belki şarkıya uygun değil
+
+
+
+Uç Programlama (Extreme Programming) - Kısıtlar ile birlikte bir tasarım yapılması
+- Dökümantasyon önemli
+- Çalışan kaynak kod üretmek önemli
+- kodlama tasarım, derleme sürüm olur
+- tasarım maliyeti, üretim maliyeti
+- Gereksinimler çok sık değişir
+
+- İletişim, FeedBack, Yalınlık (Lean), Cesaret
+
+- Test Driven Development - Üretim kodunu yazmadan önce test kodunu yazma ve tüm testleri sürekli çalıştırmak. Yani Test case'leri yapmak iyi
+cross-functional olmak
