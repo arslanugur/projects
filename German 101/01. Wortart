@@ -83,10 +83,31 @@ DAS NOMEN
 	wen?, was?	im Akk		mich	dich	ihn	sie	es	uns	euch	Sie	sie
 	wem?		im Dat		mir	dir	ihm	ihr	ihm	uns	euch	Ihnen	ihnen
 	
+	# Possesivpronomen
+					mein	dein	sein	ihr	sein	unser	euer	Ihr	ihr
 
+	# Demonstrativpronomen
+					m		f		n
+					dieser		diese		dieses		this
+					der		die		das		that
+					jener		jene		jenes		that (used to indicate specific people/objects)
+					solcher		solche		solches		such
+					derselbe	dieselbe	dasselbe	the same
+	# Interrogativepronomen
+		wer - who
+		was - what
+		welcher - which
+		wessen - whose
+		wem - whom (dat)
+		wen - whom (akk)
 
-
-
+	# Negativpronomen
+		miemand - nobody
+		nichts - nothing
+		kein - none
+		keiner - nobody
+		
+		
 --> Artikel
                         Kasus	M       F       N       P
 			------------------------------------
@@ -343,6 +364,7 @@ wie oft?	oft / öfters	often
     		zweiwöchentlich – biweekly (“zwei Wochen” = two weeks)
     		Halbjährlich – half-yearly, biannually, semiannually (“das Halbjahr” = the half year)
     
+
 
 ---> ADVERB ORDER - TMP	
 
