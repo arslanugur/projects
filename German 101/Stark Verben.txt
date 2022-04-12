@@ -8,11 +8,11 @@ werden          werde         wird            wurde (bin etc.)  ist geworden/wor
 
 
 MODALE VERBEN
-dürfen                        darf            durfte            hat gedurft               dürfte            to be allowed to	
+dürfen                        darf            durfte            hat gedurft               dürfte            to be allowed to, may	
 können                        kann            konnte            hat gekonnt               könnte            to be able to, can, may
-mögen                         mag             mochte            hat gemocht               möchte            to like, can, may	
+mögen                         mag             mochte            hat gemocht               möchte            to like, to enjoy, can, may, would like to 
 müssen                        muss            musste            hat gemusst               müsste            to have to, must
-sollen                        soll            sollte            hat gesollt               sollte            shall, to be supposed, be obliged to -  to	following a norm
+sollen                        soll            sollte            hat gesollt               sollte            shall, should, to be supposed, be obliged to -  to	following a norm
 wollen                        will            wollte            hat gewollt               wollte            to want, to be supposed
 
 
