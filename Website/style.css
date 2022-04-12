@@ -63,8 +63,8 @@ p{
   background-image: url(menu-stutt.jpg);
   background-position: center;            /* merkezle*/
   background-size: cover;                 /* kapla*/
-  background-attachment: fixed;           /* buraya kadar header kadar yer kaplar ama  bize komple arka plan lazım bu yüzden height değeri verilmeli*/
-  height: 100vh;                          /* tüm ekran boyunu kaplar: phone, tablet fark etmez*/
+  background-attachment: fixed;           /* sabit kalır: buraya kadar header kadar yer kaplar ama  bize komple arka plan lazım bu yüzden height değeri verilmeli*/
+  height: 100vh;                          /* tüm ekran boyunu kaplar, sadece yazılan kadar değil: phone, tablet fark etmez*/
 }
 
 /* flex yapısının kullanımı menu yanyana olacak*/
@@ -115,7 +115,11 @@ a{          /* a etiketinin renk ve fontlarını değiştirelim*/
 /* döndükk*/
 .header-text{
   position: absolute; /* sayfa ortasına hizala. sütun şeklinde olacak, yanyana durmayacak yani. absolute sayesinde sayfaya top ve left değerleri verilecek bu sayede top bottom left right  */
+  top
+  left
 }
+
+
 /* 26:39*/
 
   
