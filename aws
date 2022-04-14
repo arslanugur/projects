@@ -1,0 +1,26 @@
+                                            Amazon        made by Amazon
+User --> https                  API --->    Web           https
+     --> AWS Managment Console  API         Services    storage, servers, cloud9
+     --> AWS CLI                API
+            |
+     --> AWS SDK                API
+     
+
+                                 'parameter'
+aws -- region ca-central-1 s3 mb s3://building_modern_webapp
+    '       option       ' 'command' 'subcommand'
+
+
+# AWS CLI Intro (Command Line Interface)
+command: aws configure
+Test Account -- Production Account
+
+
+# AWS SDK Exploration (Python)
+Boto3 installation
+client tab and resource tab
+import boto3
+
+
+
+
