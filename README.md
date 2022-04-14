@@ -1,4 +1,9 @@
 # Project List
+
+ - Analyzing Netflix Data on DataCamp
+ 
+ 
+ 
  - Calculator (JS, Py)
  - Advanced Calculator (Java)
    The mother of all projects: How to create Graphical User Interface App
