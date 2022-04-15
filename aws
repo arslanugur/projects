@@ -24,3 +24,85 @@ import boto3
 
 
 
+1.
+Question 1
+When you access AWS programmatically, you use an access key to verify your identity and the identity of your applications.. 
+When programming using the AWS SDK locally on your personal computer, which method should you use for supplying AWS credentials?
++ Configure the AWS Credentials file to contain an access key id and secret access associated with an IAM User
+- Use Temporary Role Based Access using IAM Roles
+- Configure the AWS Credentials file to contain a username and password associated with an IAM User
+- Hard coding the credentials into the code
+
+
+2.
+Question 2
+What are the three common ways you can interact with the APIs of AWS?
+- Access Key and Secret Key, HTTP and Cloud9      
+- HTTPS, IAM Role, Telnet
++ AWS Management Console, CLI and SDK
+- DNS, HTTP, Username and Password
+
+
+3.
+Question 3
+In Cloud9, how often are the AWS managed temporary credentials automatically rotated?
+- Every 5 days
+- Every 5 seconds
++ Every 5 minutes
+- Every 5 hours
+
+
+4.
+Question 4
+Which file contains your credentials that the CLI uses to make calls AWS on Cloud9 or from your laptop?
++ .aws/credentials
+- .aws/creds
+- .aws/config
+- .aws/keys
+
+
+5.
+Question 5
+What command can you use to have more information about the S3 list bucket CLI command?
+- help aws ls
+- aws ls help
+- help aws s3 ls
++ aws s3 ls help
+
+
+6.
+Question 6
+AWS Cloud9 operates as what kind of cloud-based environment?
+- Irreplaceable Development Environment
+- Infrastructure Deployment Environment
++ Integrated Development Environment
+- Independent Deployment Environment 
+
+7.
+Question 7
+What does the AWS Serverless Application Model template specification provide to help deploy your serverless application on AWS?
+- A drag-and-drop console for developing serverless applications
++ Shorthand syntax to express functions, APIs, databases, and more in a declarative way
+- A prebuilt application template for all application types
+- An Amazon EC2 instance to deploy your application code
+
+
+8.
+Question 8
+Which of the following is NOT one of the steps to use an IAM Role instead of using the AWS managed temporary credentials in Cloud9?
+- Create an IAM Role with an IAM Policy
+- Disable AWS managed temporary credentials
+- Attach IAM Role to the Cloud9 EC2 instance
++ Add access key and secret key to credentials file
+
+9.
+Question 9
+What is considered a best practice for providing AWS credentials to your code using the AWS SDK running?
+- Hard-coding credentials
+- Using environment variables
+- Storing the credentials in a file
++ Using IAM Roles
+
+
+
+
