@@ -1,8 +1,19 @@
 [data-theme="light"] {
   --bg-color: #fff;
   --color: #333;
-  --tooglebg: #d4e7d5;
+  --togglebg: #d4e7d5;
   --roundcolor: #fff;
   --svgcolor: #111;
 }
+
+[data-theme="dark"] {
+  --bg-color: #333333;
+  --color: #e9dcdc;
+  --togglebg: #333;
+  --togglelider: #e9dcdc;
+  --roundcolor: #333;
+  --svgcolor: #fff;
+}
+
+
 
