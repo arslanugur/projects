@@ -1,0 +1,25 @@
+# SORT
+    In sort algorithms, idea is to arrange the items of a list in a specific order.
+    - Merge Sort
+    - Quick Sort
+    - Bucket Sort
+    - Heap Sort
+
+# SEARCH
+    Find a element in a data set. There are 2 types of search algorithms
+    - Binary Search
+                for Linear Data Structures
+    - Depth / Breath First Search
+                for Graph Data Structures
+
+# HASHING
+    Hashing lookup is currently the most widely used technique to find appropriate data by key or ID. We access data by its index.
+
+# DYNAMIC PROGRAMMING
+    DP is a method for solving a complex problem by breaking it down into simpler subproblems
+
+# DIVIDE and CONQUER
+    A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
+
+# GREEDY
+    We find a locally optimum solution and hope to find the optimal solution at the global level.
