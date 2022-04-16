@@ -54,7 +54,7 @@ int main()
     - Boyer-More Majority Vote Algorithm
     
 
-# SORT
+# SORTING ALGORITHMS
     In sort algorithms, idea is to arrange the items of a list in a specific order.
     - Insertion Sort
     - Selection Sort
@@ -64,17 +64,37 @@ int main()
     - Heap Sort
     - Counting Sort
 
-# SEARCH
+# SEARCHING ALGORITHMS
     Find a element in a data set. There are 2 types of search algorithms
     - Linear Search
-    - Binary Search
+    - Binary Search           # Method: Divide and Conquer
                 for Linear Data Structures
+----------------------------
+def BinarySearch(lys, val):
+    first = 0
+    last = len(lys)-1
+    index = -1
+    while (first <= last) and (index == -1):
+        mid = (first+last)//2
+        if lys[mid] == val:
+            index = mid
+        else:
+            if val<lys[mid]:
+                last = mid -1
+            else:
+                first = mid +1
+    return index
+
+index = BinarySearch([1,2,3,4,5,6,7,8,9,10], 7)
+print(index)
+
+----------------------------
     - Depth First Search
                 for Graph Data Structures
     - Breath First Search
                 for Graph Data Structures
 
-# GRAPH
+# GRAPH ALGORITHMS
     - Kruskal's Algorithm
     - Dijkstra's Algorithm
     - Bellman Ford Algorithm
@@ -84,16 +104,16 @@ int main()
     - Lee Algorithm
     
     
-# HASHING
+# HASHING ALGORITHMS
     Hashing lookup is currently the most widely used technique to find appropriate data by key or ID. We access data by its index.
 
-# DYNAMIC PROGRAMMING
+# DYNAMIC PROGRAMMING ALGORITHMS
     DP is a method for solving a complex problem by breaking it down into simpler subproblems
 
-# DIVIDE and CONQUER
+# DIVIDE and CONQUER METHODOLOGY
     A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
 
-# GREEDY
+# GREEDY ALGORITHMS
     We find a locally optimum solution and hope to find the optimal solution at the global level.
 
 # BASIC ALGORITHMS
