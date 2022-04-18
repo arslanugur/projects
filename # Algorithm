@@ -281,3 +281,73 @@ def subsets_k(arr, k, i = 0)
 
 
 
+What is an Algorithm?
+  An algorithm is a set of step-by-step procedures, or a set of rules to follow, for completing a specific task or solving a particular problem.
+  The word algorithm was first coined in the 9th century
+  
+  Algorithmic programming is all about writing a set of rules with a finite number of steps that instruct the computer how to perform a task
+  A computer program is essentially an algorithm that tells the computer what specific steps to execute, in what specific order, in order to carry out a specific task
+  
+  Types of Algorithms
+    - Divide and Conquer Algorithms
+    - Brute Fore Algorithms
+    - Randomized Algorithms
+    - Greedy Algorithms
+    - Recursive Algorithms
+    - Backtracking Algorithms
+    - Dynamic Programming Algorithms
+    
+    Why are Algorithms Important to Understand?
+      Algorithmic thinking allows students to break down problems and conceptualize solutions in terms of discrete steps
+      
+
+ARRAYS
+Arrays are defined as the collection of elements of same data type
+Array is the simpliest data structure where each data element can be randonly accessed by using its index number
+
+--Array declaration in C language
+Data_type array_name[size]
+eg: int arr[10]
+
+Array Memory representation
+      0  1  2  3  --> index
+      5 10 15 20  --> value
+      
+--Properties of Array
+1. Each element is of same data type and carries a same size i.e. int = 4 bytes.
+2. Elements of the array are stored at contiguous memory locations.
+3. Elements of the array can be randomly accessed.
+
+--Array Use Case
+If we want to store price of 4 different pens
+we use variables to store price like this
+    price1 = 10
+    price2 = 14
+    price3 = 5
+    price4 = 3
+    
+we could simply use an array to store these values
+    int pen_price[10, 14, 5, 3]
+If we want to access an element from this array, we could use its index number.
+
+For example we can access the value "5" by using its index number "2" like this
+    print(pen_price[2]) 
+
+Example: to find out the output
+    int mark1[10]
+    int mark2[14]
+    mark2 = [8, 25, 789, 4, 2, 7, 8, 9, 45, 78]
+    mark1 = [1, 0, 2, 45, 85, 5, 8, 0]
+    print(mark2[5])   # 7
+    
+TWO DIMENSIONAL ARRAY
+Array of Arrays are called 2D array
+The 2D array is organized as matrices which can be represented as the collection of rows amnd columns
+
+2D Array declaration in C language
+Data_type array_name[rows][columns]
+eg: int arr[3][3]
+
+2D Array representation(a[3][3])
+
+      a[0][0]   a[0][1]   a[0][2]
