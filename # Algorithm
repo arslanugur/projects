@@ -1,8 +1,18 @@
 # Operations with Data Structures
-    1. Insert
-    2. Delete
-    3. Search
-    4. Access
+    1. Traversing
+        Visiting each elements of the data structure only once is called traversing.
+    2. Searching
+        Finding an element in a data structure that satisfies one or more conditions
+    3. Access
+    
+    4. Inserting
+        Adding elements of the same type in a data structure is called inserting
+    5. Deleting
+        Removing an element from a data structure is called deletion
+    6. Sorting
+        Sorting the elements in a data structure in ascending and descending order is called sorting
+    7. Merging
+        Merging is the storage of elements located in two different files by combining them into one data file
 
 
 # Topic Wise Importance
