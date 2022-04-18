@@ -46,13 +46,22 @@ int main()
         Graph Traversal
         Arrays
 
+
+
+
 # ARRAYS ALGORITHMS
     - Kadane's Algorithm
     - Floyd's Cycle Detection Algorithm
     - KMP Algorithm
     - Quick Select Algorithm
     - Boyer-More Majority Vote Algorithm
-    
+
+
+
+
+
+
+
 
 # SORTING ALGORITHMS
     In sort algorithms, idea is to arrange the items of a list in a specific order.
@@ -63,6 +72,13 @@ int main()
     - Bucket Sort
     - Heap Sort
     - Counting Sort
+
+
+
+
+
+
+
 
 # SEARCHING ALGORITHMS
     Find a element in a data set. There are 2 types of search algorithms
@@ -87,12 +103,18 @@ def BinarySearch(lys, val):
 
 index = BinarySearch([1,2,3,4,5,6,7,8,9,10], 7)
 print(index)
-
 ----------------------------
     - Depth First Search
                 for Graph Data Structures
     - Breath First Search
                 for Graph Data Structures
+
+
+
+
+
+
+
 
 # GRAPH ALGORITHMS
     - Kruskal's Algorithm
@@ -102,23 +124,160 @@ print(index)
     - Topological Sort Algorithm
     - Flood Fill Algorithm
     - Lee Algorithm
-    
-    
+
+
+
+
+
+
+
+   
 # HASHING ALGORITHMS
     Hashing lookup is currently the most widely used technique to find appropriate data by key or ID. We access data by its index.
 
+
+
+
+
+
+
+
 # DYNAMIC PROGRAMMING ALGORITHMS
     DP is a method for solving a complex problem by breaking it down into simpler subproblems
+    Dynamic programming is an optimization techniques for recursive solutions that have overlapping sub-problem, 
+    we use dp to solve a sub-problem, we use dp to solve a sub-problem only sequence
+Example: nth term of Fibonacci sequence
+----------------------------
+def fibonacci(n):
+  dp = [0]*(n+1)
+  dp[0] = 0
+  dp[1] = 1
+  for i in range(2, len(dp)):
+    dp[i] = dp[i-1] + dp[i-2]
+  return dp[n]
+----------------------------
+
+
+
+
+
+
+
 
 # DIVIDE and CONQUER METHODOLOGY
     A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
+    An algorithm that first divides the problem into smaller parts and solve them, then combine to get final solution
+Example: Merge Sort
+----------------------------
+def merge_sort(arr):
+  if len(arr) < 2:
+    return arr
+  else:
+    mid = len(arr) // 2
+    left_part = merge_sort(arr[:mid])
+    right_part = merge_sort(arr[mid:])
+    return join_sorted(left_part, right_part)
+----------------------------    
+
+
+
+
+
+
+
 
 # GREEDY ALGORITHMS
     We find a locally optimum solution and hope to find the optimal solution at the global level.
+    An algorithm that chooses the most optional move at each step
+Example: Activity selection problem (Maximum number of activities infinite amount of time)
+----------------------------
+def max_nb_activities(activities, time_limit):
+  activities.sort()
+  count = 0
+  time = 0
+  for activity in activities:
+    if (time + activity) > time_limit:
+      break
+    else:
+      count += 1
+      time += activity
+    return
+----------------------------
+
+
+
+
+
+
+
 
 # BASIC ALGORITHMS
     - Huffman Coding Compression Algorithm
     - Euclid's Algorithm
     - Union Find Algorithm
+
+
+
+
+
+
+
+
+# RECURSIVE ALGORITHM
+    An algorithm that calls itself repeatedly until the problem is solved
+Example in CPP : To determine the sum of first n natural numbers
+----------------------------
+int fact(int n)
+{
+  if (n <= 1) // base case
+    return 1;
+  else
+    return n * fact(n-1);
+}
+----------------------------
+
+
+
+
+
+
+
+
+# BRUTE-FORCE ALGORITHM
+    An algorithm that tries every possibilities
+Example: Native Algorithm to find a pair sums up to k (tries every possible layer)
+----------------------------
+def find_pair(arr, k):
+  for i in range(len(arr)):
+    for j in range(i+1, len(arr)):
+      if (arr[i]+arr[j]) == k:
+        return (i, j)
+  return(-1, -1)
+----------------------------
+
+
+
+
+
+
+
+
+# BACKTRACKING ALGORITHM
+    An algorithm that tries all the possible candidates and goes back as soon as it's defects that the actual candidate can't be valid
+Example: Count subsets that sum up to k
+----------------------------
+def subsets_k(arr, k, i = 0)
+  if k == 0:
+    return 1 # valid candidate
+  elif k < 0 or i == len(arr):
+    return 0 # invalid candidate
+  else:
+    return subsets_k(arr[i], i+1) + subsets_k(arr, k, i+1)
+----------------------------
+
+
+
+
+
 
 
