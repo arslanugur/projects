@@ -1,0 +1,26 @@
+/* ON */
+/* 1. Background */
+container-width: 51px
+container-height: 31px
+color: #34c759
+
+/* 2. Circle */
+height/width: 27px
+color: #ffffff
+shadow: #000000, 15%
+opacity, X-O, y-3, blur-8
+
+
+/* OFF */
+/* 3. Background */
+container-width: 51px
+container-height: 31px
+color: #e9e9ea
+
+/* 4. Circle */
+height/width: 27px
+color: #ffffff
+shadow: #000000, 15%
+opacity, X-O, y-3, blur-8
+
+
