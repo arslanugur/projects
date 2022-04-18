@@ -86,9 +86,11 @@ int main()
 
 
 
+# Searching & Sorting: order statistics, KMP algo, Rabin Karp, Z's Algo, Aho Corasick String Matching, Manacher's algo
 
 
 
+    
 
 # SEARCHING ALGORITHMS
     Find a element in a data set. There are 2 types of search algorithms
@@ -127,14 +129,19 @@ print(index)
 
 
 # GRAPH ALGORITHMS
-    - Kruskal's Algorithm
-    - Dijkstra's Algorithm
+    - Minimum Spanning Tree (Prim's Algorithm)
+    - Minimum Spanning Tree (Kruskal's Algorithm)
+    - Shortest Path from every vertex to every other vertex (Dijkstra's Algorithm)
+    - Shortest Path from source to all vertices (Floyd Warshall Algorithm)
     - Bellman Ford Algorithm
-    - Floyd Warshall Algorithm
     - Topological Sort Algorithm
     - Flood Fill Algorithm
     - Lee Algorithm
-
+    - Breadth First Search
+    - Depth First Search
+    - Johnson's Algo
+    - Bridges in a graph
+    - Articulation Points (or Cut Verticals) in a graph
 
 
 
@@ -166,7 +173,17 @@ def fibonacci(n):
     dp[i] = dp[i-1] + dp[i-2]
   return dp[n]
 ----------------------------
-
+    - Longest Common Subsequence
+    - Longest Increasing Subsequence
+    - Edit Distance
+    - Minimum Partition
+    - Ways to Cover a Distance
+    - Longest Path in Matrix
+    - Subset Sum Problem
+    - Optimal Strategy for a Game
+    - 0-1 Knapsack Problem
+    - Assembly Line Scheduling
+    
 
 
 
@@ -286,6 +303,49 @@ def subsets_k(arr, k, i = 0)
 ----------------------------
 
 
+
+
+# DATA STRUCTURES ALGORITHMS
+    - Binary Indexed Tree or Fenwick Tree
+    - Tries
+    - Suffix Array
+    - Sparse Table
+    - Suffix Automata
+    - LCA and RMQ
+    - Segment Tree (RMQ, Range Sum and Lazy Propagation)
+    - K-D Tree (See Insert, Mınimum and Delete)
+    - Union Find Disjoint Set
+
+
+
+-- Number Theory and Other Mathematical Algorithms
+# PRIME NUMBERS and PRIME FACTORIZATION ALGORITHMS
+    - Sieve of Eratosthenes
+    - Segmented Sieve
+    - Wilson's Theorem
+    - Prime Factorization
+    - Pollard's Rho Algorithm
+    
+# MODULO ARITHMETIC ALGORITHMS
+    - Basic and Extended Euclidean Algorithms
+    - Euler's Totient Function
+    - Modular Exponentiation
+    - Modular Multiplicative Inverse
+    - Chinese Remainder Theorem Introduction
+    - Chinese Remainder Theorem
+    - Modulo Inverse Implementation
+
+# GEOMETRICAL and NETWORK FLOW ALGORITHMS
+    - Convex Hull
+    - Graham Scan
+    - Line Intersection
+    - Interval Tree
+    - Matrix Exponentiation 
+    - Maxflow Ford Furkerson Algorithm
+    - Edmond Karp Implementation
+    - Stable Marriage Problem
+    - Hopcropt-Karp Algorithm for Maximum Matching
+    - Dinic's Algorithm and E-Maxx
 
 
 
