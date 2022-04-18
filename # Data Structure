@@ -1,0 +1,635 @@
+> DATA STRUCTURES
+             Primitive Data Structures (Build-in, System or Compiler Defined)
+                  -->  int, char, float, pointer.. 
+                  
+                  -->  boolean: boolean
+                  -->  numeric: character: char
+                                integral: integer: byte, short, int, long
+                                          floating-point: float, double 
+
+         Non-Primitive Data Structures (User Defined)
+                  -->  Array, List, Files, String, Structure, Classes
+                               |
+1. Linear Data Structures      |  2. Non-Linear Data Structures
+   - Arrays                    |     - Trees
+                               |          - Binary Tree
+   - Linked Lists              |     - Graphs
+   - Stacks                    |     - (Hash) Tables
+   - Queues                    |     - Sets
+   - Files                     |     - Tries
+                                     - Matrix
+                                     - Sparse Matrix
+                                     - Heap
+                                      
+
+> OPERATIONS in DS
+- Traversing: Visiting each element of the data structure only once is called traversing.
+- Searching:  Finding an element in a data structure that satisfies one or more conditions.
+- Inserting:  Adding elements of the same type in a DS is called insertion.
+              Elements can be added anywhere in the data structure.
+- Deleting:   Removing an element from a data structure is called deletion.
+              Elements can be removed from anywhere in the Data Structure.
+- Sorting:    Sorting the elements in the data structure in ascending and descending order is called sorting.
+- Merging:    Merging is the storage of elements located in two different data files by combining them into one data file.
+
+
+> NOTATIONS - Asymptotic Analysis
+Big-Oh:    f(x) = O(g(x))  --> a problem will not be not bigger/upper than this (shows up limit to solve a problem)
+                           --> in the worst situation, it equals O(g(x))
+                           --> Asymptotic Notation
+                           --> tüm x > k için eşitliği sağlayan bir C, k var.
+                           --> |f(x)| equal< C.|g(x)|
+           Example:
+           f(x) = x^2       g(x) = x^2 + 2x + 1
+                   f(x) = O(g(x))
+                    x^2 = O(x^2+2x+1)
+           x>0 -->  x^2 equal< x^2+2x+1
+                   f(x) equal< g(x)
+           Parameters: C=1, k=0
+           
+Big-Omega: f(x) = Ω(g(x))  --> not smaller
+Big-Theta: f(x) = Θ(g(x))  --> the same degree
+Small-Oh
+
+
+> INCREMENT FUNCTIONS
+f: R -> R        g: R -> R
+
+"Ölçebildiğiniz güç sizindir. Gelecekte ispatını gösteren şey makuldur."
+
+> GROWTH RATE
+f ve g tamsayı/reel sayı kümesinden "reel sayılara" tanımlanmış olan fonksiyonlar olsun
+eğer x > k olduğunda |f(x)| equal< C|g(x)| oluyorsa 
+ve bu eşitsizliği sağlayan C ve k gibi sabit sayılar (koşulu sağlayan şahitler) varsa 
+bu durumda f(x) = O(g(x)) olmaktadır.
+
+Input         Algorithm 1    Algorithm 2
+n             5000n          [1.1^n]
+10            50000          3
+100           500000         13781
+1000          5000000        2.5*10^41
+1000000       5*10^9         4.8*10^41392
+
+
+> FUNCTIONS TIME COMPLEXITY GROWTH (by sorting to fast/bad from slow/good)
+Cost:  1 --> log n --> n --> n log n --> n^2 --> n^3 --> 2^n --> n!
+       
+       Classification of Complexity
+Most Efficient
+       1: Eğer yapılacak iş sadece basit bir yapıdaysa, sabit bir zamanı var.
+   log n: Eğer her bir yapacağım iş, problemi belli bir alt parçaya bölmek/parçalamak* ise bu log n sürede yapılır.
+       n: Eğer her bir işi ayrı ayrı konumlarsak, n tane iş varsa bunu n zamanda yapacağımızı gösterir.
+ n log n: Eğer n işini her bir aşamada n parçaya bölüp, her bir parçanın içinde de n sürede işi yapacağımızı gösterir. 
+     n^2: Eğer n tane işi birlikte yapacaksam n^2 sürede yapılır.
+     n^3: Eğer n tane işi birlikte yapacaksam n^3 sürede yapılır.
+     2^n: Eğer bunlar birbirleriyle bağlantılı olarak kümülatif şekilde (üst üste gidiyorsa) artıyorsa 2^n sürede yapılır.
+      n!: Eğer her bir adımda n tane işi gerçekleştireceksek n! sürede yapılır.          
+Least Efficient      
+        *Logaritma, bir ayrım/parçalama işlemidir.           
+
+> ALGORITHMS with DS
+# Data Structures
+Arrays
+- Kadane's Algorithm (Max Subarray Problem)
+- Floyd's Cycle Detection Algorithm (Floyd's Tortoise and Hare)
+- KMP(Knuth-Morris-Pratt) Algorithm - Class: String Search Algorithms, DS: String
+- Quickselect Algorithm
+- Boyer-Moore Majority Vote (BMMV) Algorithm
+- Sorting Algorithms Class
+
+Graphs
+  Applications:
+    - To define flow of computation
+    - In WWW, web pages are considered to be the vertices
+  Common Interview Questions:
+    - Find shortest path between two vertices
+    - Check if a path exists between two vertices
+    - Find "Mother Vertex" in a graph
+    - Check if a graph is a tree or not
+  Algorithms:
+    - Kruskal's Algorithm
+    - Dijkstra's Algorithm
+    - Bellman Ford Algorithm
+    - Floyd-Warshall Algorithm (to find shortest paths), All-Pairs Shortest Path Problem for weighted graphs
+    - Topological Sort Algorithm
+    - Flood Fill Algorithm
+    - Lee Algorithm
+
+
+Linked Lists
+  Applications:
+    - Implement stacks, queues, and hash tables
+    - Create directories
+    - Dynamic memory allocation
+  Common Interview Questions:
+    - Reverse a linked list 
+    - Detect loop in a linked list
+    - Find the middle value in a linked list
+    - Remove loop in a linked list
+
+Stacks
+  Applications:
+    - Backtracking to a previous state
+    - Expression evalution and conversion
+    - Used for Memory Management
+  Common Interview Questions:
+    - Use stack to check for balanced parenthesis
+    - iInplement two stacks in an array
+    - Next greater element using a stack
+    - Convert infix to postfix using stack
+    
+Queues
+  Applications:
+    - To reverse strings
+    - To traverse the nodes of a binary tree
+    - To search the vertices of a graph
+  Common Interview Questions:
+    - Reverse first kth elements of a queue 
+    - Generate binary numbers from 1 to n using a queue
+    - Implement stack using a queue
+    
+Hash Tables
+  Applications:
+    - When a resource is shared by multiple customers
+    - Password verification
+    - Linking file name and path
+  Common Interview Questions:
+    - Find symmetric pairs in an array 
+    - Union and Intersection of lists using Hashing
+    - Find a pair with given sum
+    - Find the largest subarray with 0 sum
+    
+    
+    
+ALGORITHM TECHNIQUES
+##### Divide and Conquer Approach (An Algorithm Design Paradigm)
+      An Algorithm that divides the problems in two/smaller parts 
+      and then combined/added together to produce the problem's final solution
+- Example: Merge Sort Code
+def merge_sort(arr):
+  if len(arr) < 2
+    return arr
+    
+  else:
+    mid = len(arr)//2
+    left_part = merge_sort(arr[:mid])
+    right_part = merge_sort(arr[mid:])
+    return join_sorted(left_part, right_part)
+
+
+##### Brute Force Search (Problem-Solving Technique, An Algorithm Paradigm )
+      - Definition
+      A brute force algorithm simply tries all possibities 
+      until a satisfactory solution is found
+      
+      It is method of solving problem, In this method every possibility is examined, trying all possible answers and picking the best one.
+      
+      - Performance
+      The time complexity of Brute Force is O(n*m) which is sometimes written as O(n*m)
+      So, if we were to search for a string of n characters in a string of m characters using brute force, it would take us n * m tries.
+      
+- Example: Naive Algorithm to find a pair sums up to k (tries every possible layer)
+def find_pair(arr, k):
+  for i in range(len(arr)):
+    for j in range(i+1, len(arr)):
+      if (arr[i]+arr[j]) == k:
+        return (i, j)
+  return(-1, -1)
+
+
+
+##### Randomized Algorithm
+      A randomized algorithm uses a random number at least once 
+      during the computation to make a decision
+
+##### Dynamic Programming   
+      - it loses Space but earns Time  (by Bellman)
+      It solves complex problems by breaking'em into multiple simple subproblems
+      and then it solves each of them once and then stores them for future use.
+      DP is an optimization techniques for recursive solutions 
+      that have overlapping subproblems, we use dp to solve a subproblem only sequence.
+      The components of a dynamic programming algorithmic solution?
+
+      - Implement the Longest Common Subsequence algorithm to solve DNA
+      - Decompose large problems using Dynamic Programming techniques
+      - Apply Dynamic Programming techniques in the Longest Common Subsequence algorithm
+
+- Fibonacci Number Series
+- Sequence Alignment
+- Knapsack Problem
+- Tower of Hanoi Puzzle
+- Shortest Path by Dijkastra
+- Matrix Chain Multiplication
+- A type of Balanced 0-1 Matrix
+- CheckerBoard
+- Egg Dropping Puzzle
+
+- Example: nth term of Fibonacci Seuence
+def fibonacci(n):
+  dp = [0]*(n+1)
+  dp[0] = 0
+  dp[1] = 1
+  for i in range(2, len(dp)):
+    dp[i] = dp[i-1] + dp[i-2]
+  return dp[n]
+
+
+
+##### Greedy Algorithms
+      In this approach, decisions are taken 
+      on the basis of the information currently available without worrying about the future
+      The approach doesn't relook at the previous chosen solution.
+      The method tries to find/chooses the best/most (optimal) solution/move at each step.
+      The first step is chosen in such a way that it gives immediate benefit.
+      This Approach/These Algorithms are mainly used for solving optimization problems
+      The method doesn't guarantee/provide that we will be able to find a optimal solution in many problems.
+      However, the method gives near optimal solution in a reasonable time 
+      and it is efficient in many cases and easy to implement
+      Hence, Greedy Algorithm is an algorithmic paradigm which is based on inference
+Components of Greedy Algorithms
+- Candidate State: The solution is created by this set
+- Selection Function: It's used to add the best candidate to the solution
+- Feasibility Function: It's used to determine whether the candidate can be used to contribute to the solution.
+- Objective Function: It's used to assign a value to a solution.
+- Solution Function: It's used to indicate whether a complete solution has been obtained
+
+Greedy Algorithms
+- Huffman Coding (for a Huffman Tree)
+- Fractional Knapsack Problem
+- Activity Selection
+- Job Sequencing Problem
+- Travelling Salesman Problem
+- Decision Tree
+- Dijkstra's Algorithm (for Graph Search and Short Path Finding)
+- Kruskal's Algorithm (to construct a Minimum Spanning Tree)
+- Prim's Algorithm (to construct a Minimum Spanning Tree)
+
+- Example: Activity Selection Problem (Maximum Number of Activities in finite amount of time)
+def max_nb_activities(activities, time_limit):
+  activities.sort()
+  count = 0
+  time = 0
+  for activity in activities:
+    if (time + activity) > time_limit:
+      break
+    else:
+      count += 1
+      time += activity
+return count    
+
+
+###### Recursive Programming 
+      An Algorithm that calls itself repeatedly until the problem is solved. 
+- Factorial
+- Exponential
+- Tower of Hanoi
+- Tree Traversal
+- DFS of Graph
+
+- Example: To determine the sum of first n natural numbers
+int fact(int n)
+{
+  if (n <= 1) //base case
+    return 1;
+  else
+    return n * fact(n-1);
+}
+
+
+##### Backtracking Algorithm
+      A backtracking algorithm solves a subproblem,
+      and if it fails to solve the problem,
+      it undoes the last step
+      and starts again to find the solution to the problem.
+      Another Definiton: 
+      An algorithm that tries all the possible candidates
+      and goes back as soon as it defects that the actual candidate can't be valid
+      
+- Example: Count subsets that sum up to k
+def subsets_k(arr, k, i=0):
+  if k == 0:
+    return 1 #valid candidate
+  elif k < 0 or i == len(arr):
+    return 0 #unvalid candidate
+  else:
+    return subsets_k(arr[i], i+1) + subsets_k(arr, k, i+1)
+
+
+
+
+
+
+
+
+> ALGORITHMS' CLASSES
+
+# SORTING ALGORITHMS
+        Sort Algorithms: This is used to rearrange arrays or a given list of elements according to a comparison operator function.
+                         The Comparison operator is used to decide the new order of elements.                    
+        n: Eleman Sayısı
+        k: değer aralığı uzunluğu
+        d: bir elemanın basamak sayısı
+        b: sayı tabanı
+
+
+                                  SPACE and TIME COMPLEXITY
+        Sorting Algorithms:   Best          Average       Worst
+                              ---------------------------------------------
+                                            Ortalama      Sort Algorithms'
+                                            Durum         Time Complexity
+                              ---------------------------------------------              
+        - Selection Sort      Ω(n²)         Θ(n²)         O(n²)                          2
+        - Bubble Sort         Ω(n)          Θ(n²)         O(n²)                          3
+        - Insertion Sort      Ω(n)          Θ(n²)         O(n²)
+        - Heap Sort           Ω(n log(n))   Θ(n log(n))   O(n log(n))
+        - Quick Sort          Ω(n log(n))   Θ(n log(n))   O(n²)
+        - Merge Sort          Ω(n log(n))   Θ(n log(n))   O(n log(n))                    1
+        - Bucket/Bin Sort     Ω(n+k)        Θ(n+k)        O(n²)                          DS: Array
+        - Radix Sort          Ω(nk)         Θ(nk)         O(nk), O(d(n + b))             DS: Array
+        - Counting Sort                                   O(n + k)
+        - Tim Sort
+        - Shell Sort                                      O(n(logn)²)
+
+       
+
+
+
+
+                          SPACE and TIME COMPLEXITY
+Searching Algorithms: Best          Average       Worst
+- Linear Search       Ω(1)                        O(n)               DS: Array
+- Binary Search       Ω(1)                        O(n log(n))        DS: Array
+- Depth First Search                                                 DS: Graph
+- Bread First Search                                                 DS: Graph
+- Jump/Block Search
+
+Binary Tree
+      In a DS, a BT is a tree in which each node has only at most two children 
+      which are called "left child" and "right child".
+
+Searching (Graph Based) Algorithms
+- Graph Traversal Algorithm (BFS)
+- Graph Traversal Algorithm (DFS)
+- Shortest Path Algorithm (Dijkstra's Algorithm)
+- Shortest Path Algorithm (Bellman Ford Algorithm)
+- Shortest Path Algorithm (All Pair Shortest Path)
+
+String Algorithms
+- String Matching Algorithm
+- Rabin-Karp Algorithm
+- Finite Automaton Algorithm
+- Knuth-Morris-Pratt Algorithm
+
+Geometric Algorithms
+- Properties of Line Segment
+- Convex Hull
+
+Spanning Trees and Numeric Algorithms
+- Spanning Tree Algorithm (Prim's Algorithm)
+- Spanning Tree Algorithm (Kruskal's Algorithm)
+- Bisection Method
+- Newton-Raphson Method
+
+
+
+
+
+
+
+
+
+
+
+
+Basic Algorithm
+-Huffman Coding Compression Algorithm
+-Euclid's Algorithm
+-Union-Find Algorithm
+
+
+Prime Numbers
+- Sieve of Eratosthenes
+- Primality test
+
+
+
+Strings
+- String Searching
+- LCS
+- Palindrome detection
+
+
+
+domain driven design
+maliyeti düşürmek, complexityi azaltmak önemli olan
+
+Researchs
+Develop mature Java programming skills with the use of generics, references and interfaces
+Understand the principles of data storage in Node objects
+Program various low-level data structures like Singly, Doubly and Circular LinkedLists
+Design and implement ADTs like Lists (backed by Arrays), Stacks and Queues
+Examine the edge cases that occur in these linear data structures
+Analyze the time complexity of linear data structures and their algorithms
+Compute amortized analysis for Arrays, ArrayLists, Stacks and Queues
+Implement recursive methods that operate on linear data structures
+
+Module 1: Arrays, ArrayLists and Recursion
+    The array class, access vs. search of an array, static allocation and efficiency
+    The List abstract data type (ADT) which is backed by an array and uses dynamic resizing and amortized analysis
+    Recursive methods that are applied to the array and ArrayList data structures
+
+Module 2: LinkedLists
+    The Singly LinkedList data structure, its implementation, methods and time complexity
+    The use of the iterable interface and recursive methods in LinkedLists
+    Creating variations of LinkedLists such as Doubly-Linked and Circularly-Linked
+
+Module 3: Stacks, Queues, and Deques
+    The Stack ADT based on the last-in, first-out principle, and its implementations using Arrays and LinkedLists
+    The Queue ADT based on the first-in, first-out principle, and its implementations using Arrays and LinkedLists
+    Creating variations of Stacks and Queues such as Priority Queues and Deques
+
+Module 4: Binary Search Tree (BST) Introduction
+
+    Learn about the non-linear, linked data structure, Trees, and the important submodels: Binary Trees and Binary Search Trees (BST)
+    Acquire a working knowledge of the tree structure, including principles, properties and numerical concepts
+    Examine traversal algorithms for BSTs, the resulting order and the information obtained by each
+
+Module 5: BST Operations & SkipLists
+    Extend understanding of tree structures and their impact on search operations
+    Study and implement efficient procedures for the search, add and remove operations in BSTs
+    Apply the concept of pointer reinforcement restructuring recursion technique to the add and remove operations
+    Investigate the probabilistic data structure, SkipLists, and the implications of randomization on data structures
+
+Module 6: Binary Heaps
+    Explore the Binary Heap tree data structure and its additional property constraints that differentiate it from BSTs
+    Delve into the add and remove operations that require the up-heap and down-heap procedures
+    Explore the efficient bottom-up build heap algorithm
+
+Module 7: HashMaps
+    Study HashMaps designed for efficient storage and retrieval based on the concept of unique keys paired with values
+    Learn about hash functions, hash codes and compression functions while implementing a basic HashMap
+    Investigate data collisions and the strategies to resolve data collisions from external chaining to linear and quadratic probing to double hashing
+
+Data Structures & Algorithms II: Binary Trees, Heaps, SkipLists and HashMaps
+Become familiar with nonlinear and hierarchical data structures. Study various tree structures: Binary Trees, BSTs and Heaps. Understand tree operations and algorithms. Learn and implement HashMaps that utilize key-value pairs to store data. Explore probabilistic data structures like SkipLists. 
+
+Time complexity is threaded throughout the course within all the nonlinear data structures and algorithms.
+
+You will explore the hierarchical data structure of trees. Trees have important properties such as shape and order which are used to categorize trees into different groups and define their functionality. The course begins by explaining Binary Trees and two subgroups: Binary Search Trees (BSTs) and Binary Heaps. You will program BSTs, their operations and traversal algorithms. BSTs are an important structure when wanting to access information quickly. Heaps approach access differently and prioritize what data is accessed. Heaps also employ the concept of up-heap and down-heap operations not found in other structures.
+
+HashMaps and SkipLists are the last data structures discussed in the course. The HashMap ADT is a collection of key-value pairs. The key-value pairs are stored in an unordered manner based on hash codes and compression functions that translate keys into integers. You will investigate different collision strategies and implement one. SkipLists are a probabilistic data structures where data is placed in the structure based on a randomization procedure.
+
+using recursion in Tree ADTs
+Investigate different nonlinear, linked data structures: Trees, Heaps, SkipLists and HashMaps
+Study the significant uses and applications of hierarchical tree structures
+Explore tree properties, and categorizing based on shape and order
+Design and implement the binary trees: BSTs and Heaps
+Examine edge cases and efficiencies in BST and Heap operations
+Understand the up-heap, down-heap and build-heap procedures
+Consider the probabilistic data structure, SkipLists, and randomization
+Implement a HashMap ADT with its key-value pairs
+Analyze the different collision strategies with HashMaps
+Compute amortized analysis for Heaps and HashMaps
+
+--------
+Data Structures & Algorithms III: AVL and 2-4 Trees, Divide and Conquer Algorithms
+
+Learn more complex tree data structures, AVL and (2-4) trees. Investigate the balancing techniques found in both tree types. Implement these techniques in AVL operations. Explore sorting algorithms with simple iterative sorts, followed by Divide and Conquer algorithms.
+
+his Data Structures & Algorithms course completes the data structures portion presented in the sequence of courses with self-balancing AVL and (2-4) trees. It also begins the algorithm portion in the sequence of courses. A short Java review is presented on topics relevant to new data structures covered in this course. The course does require prior knowledge of Java, object-oriented programming, and linear and nonlinear data structures. Time complexity is threaded throughout the course within all the data structures and algorithms.
+
+You will investigate and explore the two more complex data structures: AVL and (2-4) trees. Both of these data structures focus on self-balancing techniques that will ensure all operations are O(log n). AVL trees are a subgroup of BSTs and thus inherit all the properties and constraints from BSTs. Additionally, AVLs incorporate rotations that are triggered when the tree is mutated and becomes out of balance. (2-4) trees are a subgroup of B-Trees and are non-binary trees with more than 2 children. 2-4 defines the range of children that exists in the trees. However, these trees are extremely flexible and allow the nodes to shrink and grow as needed to store more data. With this flexibility comes more issues to handle, like overflow and underflow which require more intense techniques to resolve the issues.
+
+As you enter the algorithm portion of the course, you begin with a couple of familiar iterative sorting algorithms: Bubble and Selection. There are optimizations that can be included in the standard Bubble sort to make it more adaptive in sorting. There is also a derivation of bubble sort, called Cocktail Shaker sort, that puts new a spin on the basic algorithm. Insertion sort is the last iterative sort that is investigated in this group of sort algorithms. Divide & Conquer sorting algorithms are examined and are broken into two groups: comparison sorts and non-comparison sorts. The two comparison sorts are Merge and In-place Quick sort. Both are recursive and focus on subdividing the array into smaller portions. LSD Radix sort is the non-comparison sort that deconstructs an integer number and examines the digits. All algorithms are analyzed for stability, memory storage, adaptiveness, and time complexity.
+
+Improve Java programming skills by implementing AVLs and sorting algorithms
+Study techniques for restoring balance in AVL and (2-4) trees
+Distinguish when to apply single and double rotations in AVLs
+Investigate complex (2-4) trees that exhibit underflow and overflow problems
+Demonstrate the appropriate use of promotion, transfer and fusion in (2-4) trees
+Implement basic iterative sorting algorithms: Bubble, Insertion and Selection
+Explore optimizations to improve efficiency, including Cocktail Shaker Sort
+Contemplate two Divide & Conquer comparison sorting algorithms: Merge and Quick Sort
+Consider one non-comparison Divide & Conquer algorithm: LSD Radix Sort
+Analyze the stability, memory usage and adaptations of all sorting algorithms presented
+Study the time complexity for the AVLs, (2-4) Trees and sorting algorithms
+
+Module 8: AVL Trees
+
+    Explore the AVL tree subgroup from Binary Search Trees (BST) and their distinguishing properties
+    Discover the self-balancing of AVL trees, and which rotations are used to balance
+    Implement the entire AVL tree data structure, and examine its performance
+
+Module 9: (2-4) Trees
+
+    Extend understanding of tree structures beyond binary trees to a more complex model
+    Study the properties of (2-4) trees, and how operations maintain those properties
+    Recognize when overflow and underflow situations arise within the (2-4) tree, and how to resolve those situations with promotion, fusion and transfer
+
+Module 10: Iterative Sorting Algorithms
+
+    Understand and implement four basic iterative, comparison sorting algorithms: Bubble Sort, Insertion Sort, Selection Sort and Cocktail Shaker Sort
+    Examine the characteristics of sorting algorithms: Stability, Adaptation and Memory
+    Implement optimizations of these algorithms to yield better performance
+    Analyze the time complexity of each of the algorithms
+
+Module 11: Divide & Conquer Sorting Algorithms
+
+    Introduction to the Divide & Conquer approach to sorting algorithms
+    Implement and comprehend each of the divide & conquer algorithms presented: Merge Sort, In-Place Quick Sort and LSD Radix sort
+    Examine the stability and memory usage of these sorting algorithms
+    Explore the novel approach that LSD Radix sort uses to solve the sorting dilemma
+
+-----
+Data Structures & Algorithms IV: Pattern Matching, Dijkstra’s, MST, and Dynamic Programming Algorithms
+
+Delve into Pattern Matching algorithms from KMP to Rabin-Karp. Tackle essential algorithms that traverse the graph data structure like Dijkstra’s Shortest Path. Study algorithms that construct a Minimum Spanning Tree (MST) from a graph. Explore Dynamic Programming algorithms. 
+
+You will delve into the Graph ADT and all of its auxiliary data structures that are used to represent graphs. Understanding these representations is key to developing algorithms that traverse the entire graph. Two traversal algorithms are studied: Depth-First Search and Breadth-First Search. Once a graph is traversed then it follows that you want to find the shortest path from a single vertex to all other vertices. Dijkstra’s algorithm allows you to have a deeper understanding of the Graph ADT. You will investigate the Minimum Spanning Tree (MST) problem. Two important, greedy algorithms create an MST: Prim’s and Kruskal’s.
+
+Prim’s focuses on connected graphs and uses the concept of growing a cloud of vertices. Kruskal’s approaches the MST differently and creates clusters of vertices that then form a forest.
+
+The other half of this course examines text processing algorithms. Pattern Matching algorithms are crucial in everyday technology. You begin with the simplest of the algorithms, Brute Force, which is the easiest to implement and understand. Boyer-Moore and Knuth-Morris-Pratt (KMP) improve efficiency by using preprocessing techniques to find the pattern. However, KMP does an exceptional job of not repeating comparisons once the pattern is shifted. The last pattern matching algorithm is Rabin-Karp which is an “out of the box” approach to the problem. Rabin-Karp uses hash codes and a “rolling hash” to find the pattern in the text. A different text processing problem is locating DNA subsequences which leads us directly to Dynamic Programming techniques. You will break down large problems into simple subproblems that may overlap, but can be solved. Longest Common Subsequence is such an algorithm that locates the subsequence through dynamic programming techniques.You will delve into the Graph ADT and all of its auxiliary data structures that are used to represent graphs. Understanding these representations is key to developing algorithms that traverse the entire graph. Two traversal algorithms are studied: Depth-First Search and Breadth-First Search. Once a graph is traversed then it follows that you want to find the shortest path from a single vertex to all other vertices. Dijkstra’s algorithm allows you to have a deeper understanding of the Graph ADT. You will investigate the Minimum Spanning Tree (MST) problem. Two important, greedy algorithms create an MST: Prim’s and Kruskal’s.
+
+Prim’s focuses on connected graphs and uses the concept of growing a cloud of vertices. Kruskal’s approaches the MST differently and creates clusters of vertices that then form a forest.
+
+The other half of this course examines text processing algorithms. Pattern Matching algorithms are crucial in everyday technology. You begin with the simplest of the algorithms, Brute Force, which is the easiest to implement and understand. Boyer-Moore and Knuth-Morris-Pratt (KMP) improve efficiency by using preprocessing techniques to find the pattern. However, KMP does an exceptional job of not repeating comparisons once the pattern is shifted. The last pattern matching algorithm is Rabin-Karp which is an “out of the box” approach to the problem. Rabin-Karp uses hash codes and a “rolling hash” to find the pattern in the text. A different text processing problem is locating DNA subsequences which leads us directly to Dynamic Programming techniques. You will break down large problems into simple subproblems that may overlap, but can be solved. Longest Common Subsequence is such an algorithm that locates the subsequence through dynamic programming techniques.
+
+
+    Improve Java programming skills by implementing graph and Dynamic Programming algorithms
+    Study algorithm techniques for finding patterns in text processing
+    Use preprocessing in the Boyer-Moore and KMP algorithms
+    Explore the problem with hash codes in the Rabin-Karp algorithm
+    Understand the Graph ADT and its representations within auxiliary structures
+    Traverse graphs using the Depth-First and Breadth-First Search algorithms
+    Investigate Dijkstra’s Shortest Path algorithm which operates on weighted graphs
+    Study the Minimum Spanning Tree (MST) problem and its characteristics
+    Utilize Greedy algorithms, like Prim’s and Kruskal’s, to find the MST
+
+
+Module 12: Pattern Matching Algorithms
+
+    Examine algorithms for text processing, the simplest being Brute Force
+    Apply preprocessing techniques in Boyer-Moore to improve performance
+    Knuth-Morris-Pratt (KMP) avoids waste in prefixes of the pattern to achieve the best runtime
+    Approach the pattern matching problem from the perspective of hash codes in Rabin-Karp
+    Consider the time complexity of each of the algorithms
+
+Module 13: Introduction to Graph Algorithms
+
+    Explore the Graph ADT and its representation in auxiliary data structures
+    Implement the Depth-First Search and Breadth-First Search graph traversal algorithms
+    Examine weighted graphs and Dijkstra’s shortest path algorithm which uses edge relaxation
+
+Module 14: Minimum Spanning Trees
+
+    Study weighted, undirected graphs to find Minimum Spanning Trees (MST)
+    Apply greedy algorithms to solve the MST problem
+    Prim’s algorithm operates on connected graphs and employs the concept of cloud
+    Approach the MST problem with Kruskal’s algorithm using cluster and forest concepts
+
+
+---------------
+https://www.edx.org/professional-certificate/gtx-data-structures-and-algorithms?index=product&queryID=af8b1ab5c2d855d779ee4000f4e34d94&position=2
+https://www.edx.org/micromasters/ucsandiegox-algorithms-and-data-structures?index=product&queryID=af8b1ab5c2d855d779ee4000f4e34d94&position=3
+https://www.edx.org/microbachelors/nyux-programming-data-structures?index=product&queryID=af8b1ab5c2d855d779ee4000f4e34d94&position=1
+https://www.edx.org/course/algorithms-design-and-analysis?index=product&queryID=c9762e549656f33299c923975f1d4b2a&position=1
+https://www.edx.org/course/data-structures-and-algorithms-part-2?index=product&queryID=a41a9940b031918f800fb406b36d2ff7&position=31
+https://www.edx.org/course/data-structures-an-active-learning-approach?index=product&queryID=42554fa8a1249e157feda3975d324d26&position=60
+
+AI
+https://www.edx.org/course/artificial-intelligence-ai?index=product&queryID=b1f3b104ff8e1e954290993eea126fe2&position=105
+https://www.edx.org/course/artificial-intelligence-algorithmic-information-aiai?index=product&queryID=a41a9940b031918f800fb406b36d2ff7&position=26
+
+
+
+Module 0: Introduction. 
+      Review of important Java principles involved in object-oriented design; 
+      Iterator/Iterable design patterns, Comparable/Comparator interfaces, basic “Big-Oh” notation,   and asymptotic analysis.
+Module 1: Arrays & ArrayLists and Recursion.
+      The Array class, access vs. search of an Array; static allocation and efficiency; 
+      ArrayList Abstract Data Type (ADT) which uses dynamic resizing and amortized analysis; 
+      recursive methods that are applied to the Array and ArrayList data structures.
+Module 2: LinkedLists. 
+      The Singly-Linked List data structure, its implementation, methods, and time complexity; 
+      use of the Iterable interface and recursive methods in LinkedLists; 
+      creating variations of LinkedLists such as Doubly-Linked Lists and Circularly-Linked Lists.
+      
+      There are three varieties we will explore:
+       -Singly-Linked Lists
+       -Doubly-Linked Lists
+       -Circularly-Linked Lists
+
+Module 3: Stacks, Queues, & Deques. 
+      The Stack ADT based on the last-in, first-out principle, and its implementations using Arrays and LinkedLists; 
+      Queue ADT based on the first-in, first-out principle, and its implementations using Arrays and LinkedLists; 
+      and creating variations of Stacks and Queues such as PriorityQueues and Deques.
+      
+      
+      
+      
+PAy attention bombay algo errantum
+
+
+
+
