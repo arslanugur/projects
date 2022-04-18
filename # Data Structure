@@ -633,3 +633,125 @@ PAy attention bombay algo errantum
 
 
 
+
+
+
+DATA
+        data is a collection of raw facts
+        these raw facts represents a particular value or a set of values
+        eg: price of books, name of students
+
+DATA STRUCTURE
+        DS is the way of organizing and storing set of data in computer memory
+        so that these data can be accesed and manipulated easily and efficiently
+        eg: array, linke list..
+        
+        Data Structures Classification
+                Primitive       ---> int, double, char, float
+                Non Primitive   ---> Linear: linked list, queue, array, stack
+                                ---> Non Linear: tree, graph
+                                
+ALGORITHM
+        An algorithm is a step by step procedure to solve a problem
+        eg: Sorting, Searching 
+
+
+
+
+
+---> Array
+        An array is a collection of items that are stored sequentially.
+        Each item in an array is indexed starting with 0
+        
+---> Linked Lists
+        A linked list is a sequence of items arranged in a linear order all connected to each other
+        
+        A linked list is a linear data structure where each element is a separate object, known as a node.
+        Each node contains some data and points to the next node in the structure, forming a sequence.
+        The nodes may be at different memory locations, unlike arrays where all the elements are stored continuously
+        
+        -- Creating a linked list
+                for the linked list to be created a linked list, we need define a node first depending on the type of linked list we want to create.
+                each type of list has specific properties and its own merits regarding the list operations
+                
+        -- Types of Linked Lists
+                a linked list is designed depending on its use.
+                - Singly Linked List
+                - Doubly Linked List
+                - Circular Linked List
+                
+        -- Pros over Arrays
+                two advantages of a linked list over an array
+                - a linked list is not fixed in size
+                        The memory locations to store the nodes are allocated dynamically when each node is created.
+                        There is no wastage of memory for unused locations.
+                        In comparison, an array can only be defined once of a specific size, and then further cannot be extended or shrunk down accordingly
+                
+                - efficient insertion and deletion
+                        a quick manipulation of the links between the nodes allows for a constant time taken for insertion and deletion.
+                        in contrast, one has to move over all the memory locations while dealing with arrays so that they are in order
+                        
+                        
+         -- Cons over Arrays
+                - only sequential access
+                        as the data is linked together through nodes, any node can only be accessed by the node linking to it, 
+                        hence it is not possible to randomly access any node.
+                        one has to go through the links searching for the element required
+                
+                - memory usage of each node
+                        the nodes that hold the data need extra memory to hold the pointer to the next node.
+                        each element hence takes slightly more memory than an array
+        
+        
+---> Stacks
+        A stack works almost exactly as it sounds.
+        It is like stacking elements with a tall container
+        Stacks are known as LIFO
+        (Last In First Out)
+
+---> Queues
+        A queue functions similarly to a stack, but instead of being a LIFO structure, it is a FIFO sctructure
+        (First In First Out)
+        
+---> Hash Tables
+        A hash table structure associates each value with a key and then stores them.
+        Hash tables are commonly used to create database indexes
+        
+---> Trees
+        A tree is a structure similar to a linked list because each item is linked.
+        But in a tree items are linked in a hierarchal fashion, just like you might see in a visual representation of someone's family tree
+
+---> Heaps
+        A heap is a type of binary tree in which the parent nodes are compared to their children
+        Heaps can be represented as trees, but they can also be represented as binary arrays
+        
+---> Graphs
+        A graph is an abstract, non-linear data structure that is made of a finite set of nodes that are connected by edges
+
+
+
+
+Advanced Data Structures
+        Segment Tree
+        BIT
+        Trie
+        Suffix Array
+        Advance Graph Theory
+        
+
+
+
+
+
+Interview Questions
+- what is ds?
+- describe the types of ds?
+- list the area of applications of ds?
+- what is the difference between file structure and storage structure?
+- list the data structures which are used in RDBMS, Network Data Model, and Hierarchical Data Model.
+- which ds is used to perform recursion?
+- what is stack?
+- list the area of applications where stack data structure can be used?
+
+
+
