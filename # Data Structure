@@ -1,34 +1,5 @@
 Py Data Structures
 
-Primitive     --->              : Integer, Boolean, String, Float
-Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
-              ---> User-Defined : Stack, Queue, Tree, Linked List, Graph
-
-
-
-> DATA STRUCTURES
-             Primitive Data Structures (Build-in, System or Compiler Defined)
-                  -->  int, char, float, pointer.. 
-                  
-                  -->  boolean: boolean
-                  -->  numeric: character: char
-                                integral: integer: byte, short, int, long
-                                          floating-point: float, double 
-
-         Non-Primitive Data Structures (User Defined)
-                  -->  Array, List, Files, String, Structure, Classes
-                               |
-1. Linear Data Structures      |  2. Non-Linear Data Structures
-   - Arrays                    |     - Trees
-                               |          - Binary Tree
-   - Linked Lists              |     - Graphs
-   - Stacks                    |     - (Hash) Tables
-   - Queues                    |     - Sets
-   - Files                     |     - Tries
-                                     - Matrix
-                                     - Sparse Matrix
-                                     - Heap
-                                      
 
 
 
