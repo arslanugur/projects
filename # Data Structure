@@ -30,15 +30,7 @@ Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
                                      - Heap
                                       
 
-> OPERATIONS in DS
-- Traversing: Visiting each element of the data structure only once is called traversing.
-- Searching:  Finding an element in a data structure that satisfies one or more conditions.
-- Inserting:  Adding elements of the same type in a DS is called insertion.
-              Elements can be added anywhere in the data structure.
-- Deleting:   Removing an element from a data structure is called deletion.
-              Elements can be removed from anywhere in the Data Structure.
-- Sorting:    Sorting the elements in the data structure in ascending and descending order is called sorting.
-- Merging:    Merging is the storage of elements located in two different data files by combining them into one data file.
+
 
 
 > NOTATIONS - Asymptotic Analysis
@@ -95,236 +87,13 @@ Most Efficient
 Least Efficient      
         *Logaritma, bir ayrım/parçalama işlemidir.           
 
-> ALGORITHMS with DS
-# Data Structures
-Arrays
-- Kadane's Algorithm (Max Subarray Problem)
-- Floyd's Cycle Detection Algorithm (Floyd's Tortoise and Hare)
-- KMP(Knuth-Morris-Pratt) Algorithm - Class: String Search Algorithms, DS: String
-- Quickselect Algorithm
-- Boyer-Moore Majority Vote (BMMV) Algorithm
-- Sorting Algorithms Class
 
-Graphs
-  Applications:
-    - To define flow of computation
-    - In WWW, web pages are considered to be the vertices
-  Common Interview Questions:
-    - Find shortest path between two vertices
-    - Check if a path exists between two vertices
-    - Find "Mother Vertex" in a graph
-    - Check if a graph is a tree or not
-  Algorithms:
-    - Kruskal's Algorithm
-    - Dijkstra's Algorithm
-    - Bellman Ford Algorithm
-    - Floyd-Warshall Algorithm (to find shortest paths), All-Pairs Shortest Path Problem for weighted graphs
-    - Topological Sort Algorithm
-    - Flood Fill Algorithm
-    - Lee Algorithm
-
-
-Linked Lists
-  Applications:
-    - Implement stacks, queues, and hash tables
-    - Create directories
-    - Dynamic memory allocation
-  Common Interview Questions:
-    - Reverse a linked list 
-    - Detect loop in a linked list
-    - Find the middle value in a linked list
-    - Remove loop in a linked list
-
-Stacks
-  Applications:
-    - Backtracking to a previous state
-    - Expression evalution and conversion
-    - Used for Memory Management
-  Common Interview Questions:
-    - Use stack to check for balanced parenthesis
-    - iInplement two stacks in an array
-    - Next greater element using a stack
-    - Convert infix to postfix using stack
-    
-Queues
-  Applications:
-    - To reverse strings
-    - To traverse the nodes of a binary tree
-    - To search the vertices of a graph
-  Common Interview Questions:
-    - Reverse first kth elements of a queue 
-    - Generate binary numbers from 1 to n using a queue
-    - Implement stack using a queue
-    
-Hash Tables
-  Applications:
-    - When a resource is shared by multiple customers
-    - Password verification
-    - Linking file name and path
-  Common Interview Questions:
-    - Find symmetric pairs in an array 
-    - Union and Intersection of lists using Hashing
-    - Find a pair with given sum
-    - Find the largest subarray with 0 sum
     
     
     
-ALGORITHM TECHNIQUES
-##### Divide and Conquer Approach (An Algorithm Design Paradigm)
-      An Algorithm that divides the problems in two/smaller parts 
-      and then combined/added together to produce the problem's final solution
-- Example: Merge Sort Code
-def merge_sort(arr):
-  if len(arr) < 2
-    return arr
-    
-  else:
-    mid = len(arr)//2
-    left_part = merge_sort(arr[:mid])
-    right_part = merge_sort(arr[mid:])
-    return join_sorted(left_part, right_part)
 
 
-##### Brute Force Search (Problem-Solving Technique, An Algorithm Paradigm )
-      - Definition
-      A brute force algorithm simply tries all possibities 
-      until a satisfactory solution is found
       
-      It is method of solving problem, In this method every possibility is examined, trying all possible answers and picking the best one.
-      
-      - Performance
-      The time complexity of Brute Force is O(n*m) which is sometimes written as O(n*m)
-      So, if we were to search for a string of n characters in a string of m characters using brute force, it would take us n * m tries.
-      
-- Example: Naive Algorithm to find a pair sums up to k (tries every possible layer)
-def find_pair(arr, k):
-  for i in range(len(arr)):
-    for j in range(i+1, len(arr)):
-      if (arr[i]+arr[j]) == k:
-        return (i, j)
-  return(-1, -1)
-
-
-
-##### Randomized Algorithm
-      A randomized algorithm uses a random number at least once 
-      during the computation to make a decision
-
-##### Dynamic Programming   
-      - it loses Space but earns Time  (by Bellman)
-      It solves complex problems by breaking'em into multiple simple subproblems
-      and then it solves each of them once and then stores them for future use.
-      DP is an optimization techniques for recursive solutions 
-      that have overlapping subproblems, we use dp to solve a subproblem only sequence.
-      The components of a dynamic programming algorithmic solution?
-
-      - Implement the Longest Common Subsequence algorithm to solve DNA
-      - Decompose large problems using Dynamic Programming techniques
-      - Apply Dynamic Programming techniques in the Longest Common Subsequence algorithm
-
-- Fibonacci Number Series
-- Sequence Alignment
-- Knapsack Problem
-- Tower of Hanoi Puzzle
-- Shortest Path by Dijkastra
-- Matrix Chain Multiplication
-- A type of Balanced 0-1 Matrix
-- CheckerBoard
-- Egg Dropping Puzzle
-
-- Example: nth term of Fibonacci Seuence
-def fibonacci(n):
-  dp = [0]*(n+1)
-  dp[0] = 0
-  dp[1] = 1
-  for i in range(2, len(dp)):
-    dp[i] = dp[i-1] + dp[i-2]
-  return dp[n]
-
-
-
-##### Greedy Algorithms
-      In this approach, decisions are taken 
-      on the basis of the information currently available without worrying about the future
-      The approach doesn't relook at the previous chosen solution.
-      The method tries to find/chooses the best/most (optimal) solution/move at each step.
-      The first step is chosen in such a way that it gives immediate benefit.
-      This Approach/These Algorithms are mainly used for solving optimization problems
-      The method doesn't guarantee/provide that we will be able to find a optimal solution in many problems.
-      However, the method gives near optimal solution in a reasonable time 
-      and it is efficient in many cases and easy to implement
-      Hence, Greedy Algorithm is an algorithmic paradigm which is based on inference
-Components of Greedy Algorithms
-- Candidate State: The solution is created by this set
-- Selection Function: It's used to add the best candidate to the solution
-- Feasibility Function: It's used to determine whether the candidate can be used to contribute to the solution.
-- Objective Function: It's used to assign a value to a solution.
-- Solution Function: It's used to indicate whether a complete solution has been obtained
-
-Greedy Algorithms
-- Huffman Coding (for a Huffman Tree)
-- Fractional Knapsack Problem
-- Activity Selection
-- Job Sequencing Problem
-- Travelling Salesman Problem
-- Decision Tree
-- Dijkstra's Algorithm (for Graph Search and Short Path Finding)
-- Kruskal's Algorithm (to construct a Minimum Spanning Tree)
-- Prim's Algorithm (to construct a Minimum Spanning Tree)
-
-- Example: Activity Selection Problem (Maximum Number of Activities in finite amount of time)
-def max_nb_activities(activities, time_limit):
-  activities.sort()
-  count = 0
-  time = 0
-  for activity in activities:
-    if (time + activity) > time_limit:
-      break
-    else:
-      count += 1
-      time += activity
-return count    
-
-
-###### Recursive Programming 
-      An Algorithm that calls itself repeatedly until the problem is solved. 
-- Factorial
-- Exponential
-- Tower of Hanoi
-- Tree Traversal
-- DFS of Graph
-
-- Example: To determine the sum of first n natural numbers
-int fact(int n)
-{
-  if (n <= 1) //base case
-    return 1;
-  else
-    return n * fact(n-1);
-}
-
-
-##### Backtracking Algorithm
-      A backtracking algorithm solves a subproblem,
-      and if it fails to solve the problem,
-      it undoes the last step
-      and starts again to find the solution to the problem.
-      Another Definiton: 
-      An algorithm that tries all the possible candidates
-      and goes back as soon as it defects that the actual candidate can't be valid
-      
-- Example: Count subsets that sum up to k
-def subsets_k(arr, k, i=0):
-  if k == 0:
-    return 1 #valid candidate
-  elif k < 0 or i == len(arr):
-    return 0 #unvalid candidate
-  else:
-    return subsets_k(arr[i], i+1) + subsets_k(arr, k, i+1)
-
-
-
-
 
 
 
@@ -399,25 +168,6 @@ Spanning Trees and Numeric Algorithms
 - Newton-Raphson Method
 
 
-
-
-
-
-
-
-
-
-
-
-Basic Algorithm
--Huffman Coding Compression Algorithm
--Euclid's Algorithm
--Union-Find Algorithm
-
-
-Prime Numbers
-- Sieve of Eratosthenes
-- Primality test
 
 
 
@@ -636,7 +386,7 @@ Module 3: Stacks, Queues, & Deques.
       
       
       
-PAy attention bombay algo errantum
+Pay attention bombay algo errantum
 
 
 
@@ -687,30 +437,30 @@ ALGORITHM
                 - Singly Linked List
                 - Doubly Linked List
                 - Circular Linked List
-                
+
         -- Pros over Arrays
                 two advantages of a linked list over an array
                 - a linked list is not fixed in size
                         The memory locations to store the nodes are allocated dynamically when each node is created.
                         There is no wastage of memory for unused locations.
                         In comparison, an array can only be defined once of a specific size, and then further cannot be extended or shrunk down accordingly
-                
+
                 - efficient insertion and deletion
                         a quick manipulation of the links between the nodes allows for a constant time taken for insertion and deletion.
                         in contrast, one has to move over all the memory locations while dealing with arrays so that they are in order
-                        
-                        
+
+
          -- Cons over Arrays
                 - only sequential access
                         as the data is linked together through nodes, any node can only be accessed by the node linking to it, 
                         hence it is not possible to randomly access any node.
                         one has to go through the links searching for the element required
-                
+
                 - memory usage of each node
                         the nodes that hold the data need extra memory to hold the pointer to the next node.
                         each element hence takes slightly more memory than an array
-        
-        
+
+
 ---> Stacks
         A stack works almost exactly as it sounds.
         It is like stacking elements with a tall container
@@ -724,7 +474,7 @@ ALGORITHM
 ---> Hash Tables
         A hash table structure associates each value with a key and then stores them.
         Hash tables are commonly used to create database indexes
-        
+
 ---> Trees
         A tree is a structure similar to a linked list because each item is linked.
         But in a tree items are linked in a hierarchal fashion, just like you might see in a visual representation of someone's family tree
@@ -732,7 +482,7 @@ ALGORITHM
 ---> Heaps
         A heap is a type of binary tree in which the parent nodes are compared to their children
         Heaps can be represented as trees, but they can also be represented as binary arrays
-        
+
 ---> Graphs
         A graph is an abstract, non-linear data structure that is made of a finite set of nodes that are connected by edges
 
@@ -745,7 +495,9 @@ Advanced Data Structures
         Trie
         Suffix Array
         Advance Graph Theory
-        
+
+
+
 
 
 
