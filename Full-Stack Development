@@ -8,6 +8,7 @@ Front-End
   Vue.js - Framework
   Angular - Framework
   Bootstrap - Framework
+  Sass
   
 Back-End
   Py  - Django, pyunit, pip
@@ -33,6 +34,12 @@ Cloud
   Google Cloud
   Digital Ocean
   Haroku
+
+
+Devops
+  dockers
+  ansible
+  jenkins
 
 UI/UX & TOOLS
   Figma
