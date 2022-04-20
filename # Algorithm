@@ -1,29 +1,42 @@
+Primitive     --->              : Integer, Boolean, String, Float
+Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
+              ---> User-Defined : Stack, Queue, Tree, Linked List, Graph
+
+
+
+> DATA STRUCTURES
+             Primitive Data Structures (Build-in, System or Compiler Defined)
+                  -->  int, char, float, pointer.. 
+                  
+                  -->  boolean: boolean
+                  -->  numeric: character: char
+                                integral: integer: byte, short, int, long
+                                          floating-point: float, double 
+
+         Non-Primitive Data Structures (User Defined)
+                  -->  Array, List, Files, String, Structure, Classes
+                               |
+1. Linear Data Structures      |  2. Non-Linear Data Structures
+   - Arrays                    |     - Trees
+                               |          - Binary Tree
+   - Linked Lists              |     - Graphs
+   - Stacks                    |     - (Hash) Tables
+   - Queues                    |     - Sets
+   - Files                     |     - Tries
+                                     - Matrix
+                                     - Sparse Matrix
+                                     - Heap
+                                      
+
+
 # Operations with Data Structures
-    1. Traversing
-        Visiting each elements of the data structure only once is called traversing.
-    2. Searching
-        Finding an element in a data structure that satisfies one or more conditions
-    3. Access
-    
-    4. Inserting
-        Adding elements of the same type in a data structure is called inserting
-    5. Deleting
-        Removing an element from a data structure is called deletion
-    6. Sorting
-        Sorting the elements in a data structure in ascending and descending order is called sorting
-    7. Merging
-        Merging is the storage of elements located in two different files by combining them into one data file
-
-> OPERATIONS in DS
-- Traversing: Visiting each element of the data structure only once is called traversing.
-- Searching:  Finding an element in a data structure that satisfies one or more conditions.
-- Inserting:  Adding elements of the same type in a DS is called insertion.
-              Elements can be added anywhere in the data structure.
-- Deleting:   Removing an element from a data structure is called deletion.
-              Elements can be removed from anywhere in the Data Structure.
-- Sorting:    Sorting the elements in the data structure in ascending and descending order is called sorting.
-- Merging:    Merging is the storage of elements located in two different data files by combining them into one data file.
-
+    1. Traversing:  Visiting each elements of the data structure only once is called traversing
+    2. Searching:   Finding an element in a data structure that satisfies one or more conditions
+    3. Access:
+    4. Inserting:   Adding elements of the same type in a data structure is called inserting. Elements can be added anywhere in the DS
+    5. Deleting:    Removing an element from a data structure is called deletion. Elements can be removed from anywhere in the DS
+    6. Sorting:     Sorting the elements in a data structure in ascending and descending order is called sorting
+    7. Merging:     Merging is the storage of elements located in two different files by combining them into one data file
 
 
 
@@ -111,7 +124,8 @@ Hash Tables
         Recursion
     
     2. Data Structures
-            A DS is way of organizing and holding data in some manner in an efficient way so that it can be accessed, queried or even updated easily and quickly.
+            A DS is way of organizing and holding data in some manner in an efficient way 
+            so that it can be accessed, queried or even updated easily and quickly.
         Array
         Linked List
         Stack
@@ -301,7 +315,8 @@ def fibonacci(n):                       int fibonacci(int n){               // f
 
 # ALGORITHM TECHNIQUES
 # DIVIDE and CONQUER METHODOLOGY    (An Algorithm Design Paradigm)
-    A Divide-and-Conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
+    A Divide-and-Conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, 
+    until these become simple enough to be solved directly
     An algorithm that first divides the problem into smaller parts and solve them, then combine to get final solution
     In this algo, a bigger problem is divided into subproblems of same type and solve independently.
     Finally the outputs from those subproblems are combined/conquered to give the actual output.
@@ -478,7 +493,8 @@ int findNum(int arr[], int n, int key){
 
 # ALGORITHM TECHNIQUES
 # BACKTRACKING ALGORITHM
-    An algorithm that tries all the possible candidate solutions using recursive method and goes back as soon as it's defects that the actual candidate can't be valid
+    An algorithm that tries all the possible candidate solutions using recursive method and goes back 
+    as soon as it's defects that the actual candidate can't be valid
     and if solutions fails to satisfy its constraints then it returns to previous step and tries to explore other solutions.
     This algo prunes the recursion tree as per the need and strongly relies upon DO and UNDO transformation of the states. 
     A backtracking algorithm solves a subproblem, and if it fails to solve the problem,
@@ -566,7 +582,7 @@ What is an Algorithm?
   The word algorithm was first coined in the 9th century
   
   Algorithmic programming is all about writing a set of rules with a finite number of steps that instruct the computer how to perform a task
-  A computer program is essentially an algorithm that tells the computer what specific steps to execute, in what specific order, in order to carry out a specific task
+  A prog is essentially an algo that tells the computer what specific steps to execute, in what specific order, in order to carry out a specific task
   
   Types of Algorithms
     - Divide and Conquer Algorithms
