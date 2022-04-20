@@ -14,6 +14,94 @@
     7. Merging
         Merging is the storage of elements located in two different files by combining them into one data file
 
+> OPERATIONS in DS
+- Traversing: Visiting each element of the data structure only once is called traversing.
+- Searching:  Finding an element in a data structure that satisfies one or more conditions.
+- Inserting:  Adding elements of the same type in a DS is called insertion.
+              Elements can be added anywhere in the data structure.
+- Deleting:   Removing an element from a data structure is called deletion.
+              Elements can be removed from anywhere in the Data Structure.
+- Sorting:    Sorting the elements in the data structure in ascending and descending order is called sorting.
+- Merging:    Merging is the storage of elements located in two different data files by combining them into one data file.
+
+
+
+
+> ALGORITHMS with DS
+# Data Structures
+Arrays
+    - Kadane's Algorithm (Max Subarray Problem)
+    - Floyd's Cycle Detection Algorithm (Floyd's Tortoise and Hare)
+    - KMP(Knuth-Morris-Pratt) Algorithm - Class: String Search Algorithms, DS: String
+    - Quickselect Algorithm
+    - Boyer-Moore Majority Vote (BMMV) Algorithm
+    - Sorting Algorithms Class
+
+Graphs
+  Applications:
+    - To define flow of computation
+    - In WWW, web pages are considered to be the vertices
+  Common Interview Questions:
+    - Find shortest path between two vertices
+    - Check if a path exists between two vertices
+    - Find "Mother Vertex" in a graph
+    - Check if a graph is a tree or not
+  Algorithms:
+    - Kruskal's Algorithm
+    - Dijkstra's Algorithm
+    - Bellman Ford Algorithm
+    - Floyd-Warshall Algorithm (to find shortest paths), All-Pairs Shortest Path Problem for weighted graphs
+    - Topological Sort Algorithm
+    - Flood Fill Algorithm
+    - Lee Algorithm
+
+
+Linked Lists
+  Applications:
+    - Implement stacks, queues, and hash tables
+    - Create directories
+    - Dynamic memory allocation
+  Common Interview Questions:
+    - Reverse a linked list 
+    - Detect loop in a linked list
+    - Find the middle value in a linked list
+    - Remove loop in a linked list
+
+Stacks
+  Applications:
+    - Backtracking to a previous state
+    - Expression evalution and conversion
+    - Used for Memory Management
+  Common Interview Questions:
+    - Use stack to check for balanced parenthesis
+    - iInplement two stacks in an array
+    - Next greater element using a stack
+    - Convert infix to postfix using stack
+    
+Queues
+  Applications:
+    - To reverse strings
+    - To traverse the nodes of a binary tree
+    - To search the vertices of a graph
+  Common Interview Questions:
+    - Reverse first kth elements of a queue 
+    - Generate binary numbers from 1 to n using a queue
+    - Implement stack using a queue
+    
+Hash Tables
+  Applications:
+    - When a resource is shared by multiple customers
+    - Password verification
+    - Linking file name and path
+  Common Interview Questions:
+    - Find symmetric pairs in an array 
+    - Union and Intersection of lists using Hashing
+    - Find a pair with given sum
+    - Find the largest subarray with 0 sum
+    
+    
+    
+
 
 # Topic Wise Importance
     1. Concepts
@@ -158,7 +246,7 @@ print(index)
 
 
 
-
+# ALGORITHM TECHNIQUES
 # DYNAMIC PROGRAMMING ALGORITHMS
     DP is a method for solving a complex problem by breaking it down into simpler subproblems
     Dynamic programming is an optimization techniques for recursive solutions that have overlapping sub-problem, 
@@ -186,18 +274,40 @@ def fibonacci(n):                       int fibonacci(int n){               // f
     - 0-1 Knapsack Problem
     - Assembly Line Scheduling
     
+      - it loses Space but earns Time  (by Bellman)
+      It solves complex problems by breaking'em into multiple simple subproblems
+      and then it solves each of them once and then stores them for future use.
+      DP is an optimization techniques for recursive solutions 
+      that have overlapping subproblems, we use dp to solve a subproblem only sequence.
+      The components of a dynamic programming algorithmic solution?
+
+      - Implement the Longest Common Subsequence algorithm to solve DNA
+      - Decompose large problems using Dynamic Programming techniques
+      - Apply Dynamic Programming techniques in the Longest Common Subsequence algorithm
+      
+      - Fibonacci Number Series
+      - Sequence Alignment
+      - Knapsack Problem
+      - Tower of Hanoi Puzzle
+      - Shortest Path by Dijkastra
+      - Matrix Chain Multiplication
+      - A type of Balanced 0-1 Matrix
+      - CheckerBoard
+      - Egg Dropping Puzzle
 
 
 
 
 
-
-
-# DIVIDE and CONQUER METHODOLOGY
-    A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
+# ALGORITHM TECHNIQUES
+# DIVIDE and CONQUER METHODOLOGY    (An Algorithm Design Paradigm)
+    A Divide-and-Conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
     An algorithm that first divides the problem into smaller parts and solve them, then combine to get final solution
     In this algo, a bigger problem is divided into subproblems of same type and solve independently.
-    Fİnally the outputs from those subproblems are combined/conquered to give the actual output.
+    Finally the outputs from those subproblems are combined/conquered to give the actual output.
+    An Algorithm that divides the problems in two/smaller parts 
+    and then combined/added together to produce the problem's final solution
+
 Example: Merge Sort
 ----------------------------
 def merge_sort(arr):
@@ -230,12 +340,38 @@ int findNum(int arr[], int key, int 5, int e){
 
 
 
-
+# ALGORITHM TECHNIQUES
 # GREEDY ALGORITHMS
     We find a locally optimum solution and hope to find the optimal solution at the global level.
     An algorithm that chooses the most optional move at each step (part by part)
     It always makes the choice that seems to be the best at that moment
-    Example: Huffman Coding, Prim's Algorithm
+
+    In this approach, decisions are taken on the basis of the information currently available without worrying about the future
+    The approach doesn't relook at the previous chosen solution.
+    The method tries to find/chooses the best/most (optimal) solution/move at each step.
+    The first step is chosen in such a way that it gives immediate benefit.
+    This Approach/These Algorithms are mainly used for solving optimization problems
+    The method doesn't guarantee/provide that we will be able to find a optimal solution in many problems.
+    However, the method gives near optimal solution in a reasonable time and it is efficient in many cases and easy to implement.
+    Hence, Greedy Algorithm is an algorithmic paradigm which is based on inference
+    Components of Greedy Algorithms:
+    - Candidate State: The solution is created by this set
+    - Selection Function: It's used to add the best candidate to the solution
+    - Feasibility Function: It's used to determine whether the candidate can be used to contribute to the solution.
+    - Objective Function: It's used to assign a value to a solution.
+    - Solution Function: It's used to indicate whether a complete solution has been obtained
+
+
+    - Huffman Coding (for a Huffman Tree)
+    - Fractional Knapsack Problem
+    - Activity Selection
+    - Job Sequencing Problem
+    - Travelling Salesman Problem
+    - Decision Tree
+    - Dijkstra's Algorithm (for Graph Search and Short Path Finding)
+    - Kruskal's Algorithm (to construct a Minimum Spanning Tree)
+    - Prim's Algorithm (to construct a Minimum Spanning Tree)
+
 Example: Activity selection problem (Maximum number of activities infinite amount of time)
 ----------------------------
 def max_nb_activities(activities, time_limit):
@@ -269,10 +405,17 @@ def max_nb_activities(activities, time_limit):
 
 
 
-
+# ALGORITHM TECHNIQUES
 # RECURSIVE ALGORITHM
     An algorithm that calls itself repeatedly until the problem is solved
     In this algo, a problem is broken into subproblems of the same type and called again and again until the termination condition is reached. 
+
+    - Factorial
+    - Exponential
+    - Tower of Hanoi
+    - Tree Traversal
+    - DFS of Graph
+
 Example in CPP : To determine the sum of first n natural numbers
 ----------------------------                    Example: find factorial of given number num
 int fact(int n)                                 int factorial(int num){             // find factorial of given number num
@@ -290,10 +433,17 @@ int fact(int n)                                 int factorial(int num){         
 
 
 
-
-# BRUTE-FORCE ALGORITHM
-    An algorithm that tries every possibilities available to solve a problem
+# ALGORITHM TECHNIQUES
+# BRUTE-FORCE SEARCH ALGORITHM          (Problem-Solving Technique, An Algo Paradigm)
+    An algorithm that tries every/all possibilities available to solve a problem until a satisfactory solution is found
     This is the basic and most simplest type of algo.
+    It is method of solving problem, 
+    In this method every possibility is examined, trying all possible answers and picking the best one.
+      
+    Performance
+    The time complexity of Brute Force is O(n*m) which is sometimes written as O(n*m)
+    So, if we were to search for a string of n characters in a string of m characters using brute force, it would take us n * m tries.
+
 Example: Native Algorithm to find a pair sums up to k (tries every possible layer)
 ----------------------------
 def find_pair(arr, k):
@@ -316,19 +466,26 @@ int findNum(int arr[], int n, int key){
     return -1;
 }        
 ----------------------------
+      
+
+  
+  
 
 
 
 
 
 
-
-
+# ALGORITHM TECHNIQUES
 # BACKTRACKING ALGORITHM
     An algorithm that tries all the possible candidate solutions using recursive method and goes back as soon as it's defects that the actual candidate can't be valid
     and if solutions fails to satisfy its constraints then it returns to previous step and tries to explore other solutions.
     This algo prunes the recursion tree as per the need and strongly relies upon DO and UNDO transformation of the states. 
+    A backtracking algorithm solves a subproblem, and if it fails to solve the problem,
+    it undoes the last step and starts again to find the solution to the problem.
+    
     Example: Rat in a maze, N queen problem
+
 Example: Count subsets that sum up to k
 ----------------------------
 def subsets_k(arr, k, i = 0)
@@ -339,6 +496,14 @@ def subsets_k(arr, k, i = 0)
   else:
     return subsets_k(arr[i], i+1) + subsets_k(arr, k, i+1)
 ----------------------------
+
+
+
+
+# ALGORITHM TECHNIQUES
+# Randomized Algorithm
+      A randomized algorithm uses a random number at least once 
+      during the computation to make a decision
 
 
 
@@ -363,7 +528,8 @@ def subsets_k(arr, k, i = 0)
     - Wilson's Theorem
     - Prime Factorization
     - Pollard's Rho Algorithm
-    
+    - Primality test
+
 # MODULO ARITHMETIC ALGORITHMS
     - Basic and Extended Euclidean Algorithms
     - Euler's Totient Function
@@ -384,6 +550,12 @@ def subsets_k(arr, k, i = 0)
     - Stable Marriage Problem
     - Hopcropt-Karp Algorithm for Maximum Matching
     - Dinic's Algorithm and E-Maxx
+
+
+
+
+
+
 
 
 
@@ -433,7 +605,7 @@ we use variables to store price like this
     price2 = 14
     price3 = 5
     price4 = 3
-    
+
 we could simply use an array to store these values
     int pen_price[10, 14, 5, 3]
 If we want to access an element from this array, we could use its index number.
@@ -447,7 +619,7 @@ Example: to find out the output
     mark2 = [8, 25, 789, 4, 2, 7, 8, 9, 45, 78]
     mark1 = [1, 0, 2, 45, 85, 5, 8, 0]
     print(mark2[5])   # 7
-    
+
 TWO DIMENSIONAL ARRAY
 Array of Arrays are called 2D array
 The 2D array is organized as matrices which can be represented as the collection of rows amnd columns
