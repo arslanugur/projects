@@ -163,15 +163,17 @@ print(index)
     DP is a method for solving a complex problem by breaking it down into simpler subproblems
     Dynamic programming is an optimization techniques for recursive solutions that have overlapping sub-problem, 
     we use dp to solve a sub-problem, we use dp to solve a sub-problem only sequence
-Example: nth term of Fibonacci sequence
+    This type of algo uses memorization technique, it stores the previously calculated result to avoid calculating it again and again
+Example: find n-th term of Fibonacci sequence
 ----------------------------
-def fibonacci(n):
-  dp = [0]*(n+1)
-  dp[0] = 0
-  dp[1] = 1
-  for i in range(2, len(dp)):
-    dp[i] = dp[i-1] + dp[i-2]
-  return dp[n]
+def fibonacci(n):                       int fibonacci(int n){               // find n-th term of a fibonacci sequence
+  dp = [0]*(n+1)                            int dp[n+1] = {0};
+  dp[0] = 0                                 dp[0]=0; dp[1]=1;
+  dp[1] = 1                                 for(int i = 2; i<n; i++){
+  for i in range(2, len(dp)):                   dp[i] = dp[i-1] + dp[i-2];
+    dp[i] = dp[i-1] + dp[i-2]               }
+  return dp[n]                              return dp[n];
+                                        }
 ----------------------------
     - Longest Common Subsequence
     - Longest Increasing Subsequence
@@ -194,6 +196,8 @@ def fibonacci(n):
 # DIVIDE and CONQUER METHODOLOGY
     A divide-and-conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, until these become simple enough to be solved directly
     An algorithm that first divides the problem into smaller parts and solve them, then combine to get final solution
+    In this algo, a bigger problem is divided into subproblems of same type and solve independently.
+    Fİnally the outputs from those subproblems are combined/conquered to give the actual output.
 Example: Merge Sort
 ----------------------------
 def merge_sort(arr):
@@ -206,7 +210,21 @@ def merge_sort(arr):
     return join_sorted(left_part, right_part)
 ----------------------------    
 
-
+Example: Binary Search
+----------------------------
+int findNum(int arr[], int key, int 5, int e){
+    while(s <= e){
+        int mid = (s+e)/2;
+        if(arr[mid] == key)
+            return mid;
+        else if(arr[mid] < key)
+            s = mid + 1;
+        else
+            e = mid - 1;
+        }
+        return -1;
+    }    
+----------------------------
 
 
 
@@ -215,7 +233,9 @@ def merge_sort(arr):
 
 # GREEDY ALGORITHMS
     We find a locally optimum solution and hope to find the optimal solution at the global level.
-    An algorithm that chooses the most optional move at each step
+    An algorithm that chooses the most optional move at each step (part by part)
+    It always makes the choice that seems to be the best at that moment
+    Example: Huffman Coding, Prim's Algorithm
 Example: Activity selection problem (Maximum number of activities infinite amount of time)
 ----------------------------
 def max_nb_activities(activities, time_limit):
@@ -252,14 +272,15 @@ def max_nb_activities(activities, time_limit):
 
 # RECURSIVE ALGORITHM
     An algorithm that calls itself repeatedly until the problem is solved
+    In this algo, a problem is broken into subproblems of the same type and called again and again until the termination condition is reached. 
 Example in CPP : To determine the sum of first n natural numbers
-----------------------------
-int fact(int n)
-{
-  if (n <= 1) // base case
-    return 1;
-  else
-    return n * fact(n-1);
+----------------------------                    Example: find factorial of given number num
+int fact(int n)                                 int factorial(int num){             // find factorial of given number num
+{                                                   if(n==0){
+  if (n <= 1) // base case                              return 1;
+    return 1;                                       }
+  else                                              return n * factorial(n-1);
+    return n * fact(n-1);                       }
 }
 ----------------------------
 
@@ -271,7 +292,8 @@ int fact(int n)
 
 
 # BRUTE-FORCE ALGORITHM
-    An algorithm that tries every possibilities
+    An algorithm that tries every possibilities available to solve a problem
+    This is the basic and most simplest type of algo.
 Example: Native Algorithm to find a pair sums up to k (tries every possible layer)
 ----------------------------
 def find_pair(arr, k):
@@ -282,6 +304,19 @@ def find_pair(arr, k):
   return(-1, -1)
 ----------------------------
 
+Example: Linear Search in C++
+----------------------------
+// return the index given key in the array of size n
+int findNum(int arr[], int n, int key){
+    for(int i = 0; i<n; i++){
+        if(arr[i] == key){
+            return i;
+        }
+    }    
+    return -1;
+}        
+----------------------------
+
 
 
 
@@ -290,7 +325,10 @@ def find_pair(arr, k):
 
 
 # BACKTRACKING ALGORITHM
-    An algorithm that tries all the possible candidates and goes back as soon as it's defects that the actual candidate can't be valid
+    An algorithm that tries all the possible candidate solutions using recursive method and goes back as soon as it's defects that the actual candidate can't be valid
+    and if solutions fails to satisfy its constraints then it returns to previous step and tries to explore other solutions.
+    This algo prunes the recursion tree as per the need and strongly relies upon DO and UNDO transformation of the states. 
+    Example: Rat in a maze, N queen problem
 Example: Count subsets that sum up to k
 ----------------------------
 def subsets_k(arr, k, i = 0)
