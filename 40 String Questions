@@ -1,0 +1,41 @@
+# 40 String Questions
+  - string Char-Case Change
+  - a string is palindrome or not
+  - a string is an anagram or not
+  - find the length of a string
+  - copy one string to another string
+  - concatenate two strings
+  - compare two strings
+  - convert lowercase string to uppercase
+  - convert uppercase string to lowercase
+  - toggle case of each character of a string
+  - find a total number of alphabets, digits or special character in a string
+  - count the total number of vowels and consonants in a string
+  - count the total number of words in a string
+  - find the reverse of a string
+  - check whether a string is a palindrome or not
+  - reverse order of words in a given string
+  
+  - find the first occurrence of a character
+  - find the last occurrence of a character in a string
+  - search all occurrence of a character in a string
+  - count occurrences of a character in a string
+  - find the highest frequency character in a string
+  - find the lowest frequency character in a string
+  - count frequency of each character from a list
+  - remove the first occurrence of a character from a string
+  - remove the last occurrence of a character from a string
+  - delete all occurrences of a character from a string
+  - remove all repeated characters from a string
+  - replace the first occurrence of a character with another in a string
+  - replace the last occurrence of a character with another in a string
+  - find the first occurrence of a word in a given string
+  - search all occurrences of a word in a given string
+  - count occurrences of a word in a given string
+  - count occurrences of a word in a string
+  - remove the last occurrence of a word in a given string
+  - delete all occurrence of a word in a string
+  - a trim leading white space characters from a given string (without predefined method)
+  - trim trailing white space characters from a given string
+  - remove all extra blank spaces from the given string
+  
