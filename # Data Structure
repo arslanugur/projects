@@ -1,7 +1,27 @@
 Py Data Structures
 
 
-
+---------------------------------------------------------------
+# Döngülerde neden "i" ve "j" değişkenleri kullanılır?
+for (int i=0; i<10; i++){
+  for (int j=0; j<10; j++){
+    print("C++");
+  }
+}  
+# Döngülerde, döngü değişkeninin ismini genellikle "i" veya "j" olarak atarız
+# Nedeni, döngülerde bilinmeyen değişkenleri temsil etmek için oldukça sık kullanılan "x" ve "y" harflerini kullanmamız daha mantıklı olmaz mıydı?
+# Matematikte, toplama gösterimi geleneksel olarak ilk index için "i", ikinci index için "j" harfini kullanır.
+                     3     4
+                     ∑     ∑  (i+j)
+                    i=1   j=2
+# Aynı zamanda elimizde, sonunu henüz bilmediğimiz bir değişken grubu varsa onu şöyle gösterebiliriz.
+x_1, x_2, x_3 ... x_n
+# Bu değişken grubunda herhangi bir x değerini göstermek istersek büyük ihtimalle şu notasyonu kullanırız. 
+x_i
+# Tabi ki değişkenlere istediğimiz ismi verebiliriz. 
+# Fakat genelde kullanılan yöntemleri devam ettirmek daha akılda kalıcı ve adapte olması daha kolay olacağından, 
+# "i","j" geleneği bu şekilde devam etmiştir.
+---------------------------------------------------------------
 
 
 > NOTATIONS - Asymptotic Analysis
