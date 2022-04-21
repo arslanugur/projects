@@ -218,12 +218,14 @@ def BinarySearch(lys, val):
 index = BinarySearch([1,2,3,4,5,6,7,8,9,10], 7)
 print(index)
 ----------------------------
-    - Depth First Search
-                for Graph Data Structures
-    - Breath First Search
-                for Graph Data Structures
-
-
+    - Depth First Search  (for Graph Data Structures)
+    - Breath First Search (for Graph Data Structures)
+    - Rabin Karp
+    - KMP Algo
+    - Z's Algo
+    - Aho Corasick String Matching
+    - Manacher's Algo
+    
 
 
 
@@ -239,8 +241,8 @@ print(index)
     - Topological Sort Algorithm
     - Flood Fill Algorithm
     - Lee Algorithm
-    - Breadth First Search
-    - Depth First Search
+    - Breadth First Search (BFS)
+    - Depth First Search (DFS)
     - Johnson's Algo
     - Bridges in a graph
     - Articulation Points (or Cut Verticals) in a graph
@@ -528,8 +530,9 @@ def subsets_k(arr, k, i = 0)
     - Binary Indexed Tree or Fenwick Tree
     - Tries
     - Suffix Array
-    - Sparse Table
     - Suffix Automata
+    - Suffix Automata II
+    - Sparse Table
     - LCA and RMQ
     - Segment Tree (RMQ, Range Sum and Lazy Propagation)
     - K-D Tree (See Insert, Mınimum and Delete)
