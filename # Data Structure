@@ -82,8 +82,21 @@ Least Efficient
     
     
     
+# Learn the core concepts of data structures cause they are fundamentally almost the same from one lang to another
+# 1. Basic Data-Structure
+    array
+    string
+    boolean
+    linked list
+    stack
+    queue
+    two dimensional array
+    binary trees
+# 2. Conditional logic (if)
+# 3. Control flow statement (for, while, do loops, etc..)
 
-
+# These ones help to write efficient algorithms
+    big O notation, runtime complexity, space complexity
       
 
 
@@ -166,6 +179,15 @@ Strings
 - String Searching
 - LCS
 - Palindrome detection
+
+
+Heap, hashtable, variations of tree, graph
+recursion
+dynamic programming
+backtracking
+bit manipulation
+oop
+system design
 
 
 
