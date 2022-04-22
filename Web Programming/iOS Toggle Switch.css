@@ -1,8 +1,16 @@
+1       2     
+green   ON
+
+4     3
+OFF   gray
+
+
 /* ON */
 /* 1. Background */
 container-width: 51px
-container-height: 31px
+container-height: 31px            
 color: #34c759
+
 
 /* 2. Circle */
 height/width: 27px
