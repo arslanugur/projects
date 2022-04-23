@@ -40,6 +40,18 @@ Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
 
 
 
+# Common Data Structures Time Complexity
+        Array   Stack   Queue   Linked List   Hash
+        ------------------------------------------
+Access  O(1)    O(n)    O(n)    O(n)          N/A
+Insert  O(n)    O(1)    O(1)    O(1)          O(1)
+Delete  O(n)    O(1)    O(1)    O(1)          O(1)
+Search  O(n)    O(n)    O(n)    O(n)          O(1)
+
+O(1) - Green    O(n) - Red
+
+
+
 > ALGORITHMS with DS
 # Data Structures
 Arrays
