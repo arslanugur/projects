@@ -1,0 +1,727 @@
+# 01. Programlar ve Kurulumlar
+IDE Nedir?
+Notepad++ Kurulumu ve Bilgilendirme
+Adobe Creative Cloud Kurulumu ve Bilgilendirme
+Adobe Creative Cloud Temizleme ve Bilgilendirme
+Adobe Dreamweaver CC Bilgilendirme
+CuteFTP Kurulumu ve Bilgilendirme
+FileZilla Kurulumu ve Bilgilendirme
+
+# 02. HTML ile ilgili Bilgilendirmeler
+HTML Nedir?
+HTML’in Tarihçesi
+HTML’in Dosya Yapısı ve Geliştiricileri
+HTML’in Faydaları
+HTML ile Neler Yapılabilir?
+HTML ile XHTML Arasındaki Farklar
+HTML’de ISO Ülke Kodları
+HTML’de ISO Dil Kodları
+HTML URL Encoding
+HTML’de Ana Renk Tanımları
+HTML’de Get ve Post İstek Yöntemleri
+HTML’in Mutlak Şartı ve Ana Etiketleri
+HTML'de Blok Düzeyli Elementler
+HTML'de Satır Düzeyli Elementler
+HTML Global Attributes
+HTML Global Attributes Tarayıcı Uyumlulukları
+
+
+# 03. JavaScript ile ilgili Bilgilendirmeler
+Javascript Nedir?
+Javascript’in Tarihçesi
+Javascript’in Dosya Yapısı ve Geliştiricileri
+Javascript’in Faydaları
+Javascript ile Neler Yapılabilir?
+Javascript Kütüphanesi Ne Demektir?
+
+
+# 04. CSS ile ilgili Bilgilendirmeler
+31_CSS Nedir?
+13 dk
+
+C8Video
+32_CSS’in Tarihçesi
+4 dk
+
+C8Video
+33_CSS’in Dosya Yapısı ve Geliştiricileri
+3 dk
+
+C8Video
+34_CSS’in Faydaları
+5 dk
+
+C8Video
+35_CSS ile Neler Yapılabilir?
+4 dk
+
+# 05. Genel Bilgilendirmeler
+MIME Type Nedir?
+Domain, Server, Hosting, FTP ve SSL Hakkında Bilgilendirme
+Web Yazılımlarının Çalışma Sistemi
+En Önemli ve En Sık Görülen Http Durum Kodları
+Tarayıcılarda Javascript’in Aktif ve Pasif Edilmesi
+Tarayıcılar ve Tarayıcı Görüntüleme Motorları
+Tarayıcılara Göre Accesskey Tuş Kombinasyonları
+Tarayıcılarda Klavye Kısa Yolları
+
+# 06. CSS Intro
+HTML Dosyalarının Oluşturulması ve Çalıştırılması
+Hızlı Kod Yazmak için Dreamweaver Template’lerinin Oluşturulması
+Javascript Kodlarının HTML Dosyası İçerisine Dahil Edilmesi
+Javascript Dosyalarının Oluşturulması ve HTML İçerisine Dahil Edilmesi
+CSS kodlarının HTML dosyası içerisine dahil edilmesi
+CSS dosyalarını oluşturulması ve HTML içerisine dahil edilmesi
+CSS dosyalarının HTML dosyaları içerisine veya farklı CSS dosyalarına dahil edilmesi
+CSS söz dizimi ve kuralları
+CSS dosyalarında karakter seti tanımı
+CSS kodları içerisinde yorum veya gizli açıklama satırları eklemek
+CSS'de browser'lar (tarayıcılar) için prefix (önek) tanımları
+Sayfa düzeyinde stil tanımlamaları
+Element düzeyinde stil tanımlamaları
+
+
+
+
+# 07. CSS'de Seçiciler (*HTML'e Ulaşılan yollar*)
+CSS seçicileri
+Element (Tür) seçicileri
+Genel (Evrensel) seçici
+ID (Benzersiz kimlik) seçicileri
+Class (Sınıf) Seçicileri
+CSS'de bir class'ı (sınıfı) birden fazla elementte kullanmak
+CSS'de bir elemente birden fazla class (sınıf) eklemek
+Child (Çocuk) seçiciler
+Descendant (Torun - soy) seçiciler
+Genel sibling (kardeş) seçiciler
+Bitişik sibling (kardeş) seçiciler
+Multiple (Çoklu) seçici
+Attribute (Özellik) seçiciler
+Attribute (Özellik) seçicilerde tam değer filtresi
+Attribute (Özellik) seçicilerde içeren tam değer filtresi
+Attribute (Özellik) seçicilerde içeren değer filtresi
+Attribute (Özellik) seçicilerde başlayan değer filtresi
+Attribute (Özellik) seçicilerde tireli veya tiresiz başlayan değer filtresi
+Attribute (Özellik) seçicilerde biten değer filtresi
+Attribute (Özellik) seçicilerde birden fazla aynı veya farklı filtrelerin bir arada kullanımı
+
+
+
+# 08. CSS seçicilerinde pseudo classes (sahte sınıflar)
+CSS seçicilerinde pseudo classes (sahte sınıflar)
+link pseudo class (sahte sınıfı)
+hover pseudo class (sahte sınıfı)
+active pseudo class (sahte sınıfı)
+visited pseudo class (sahte sınıfı)
+link, hover, active ve visited pseudo classes'in (sahte sınıflarının) bir arada kullanımı
+any-link pseudo class (sahte sınıfı)
+focus pseudo class (sahte sınıfı)
+lang() pseudo class (sahte sınıfı)
+target pseudo class (sahte sınıfı)
+root pseudo class (sahte sınıfı)
+empty pseudo class (sahte sınıfı)
+not() pseudo class (sahte sınıfı)
+checked pseudo class (sahte sınıfı)
+disabled pseudo class (sahte sınıfı)
+enabled pseudo class (sahte sınıfı)
+read-only pseudo class (sahte sınıfı)
+read-write pseudo class (sahte sınıfı)
+required pseudo class (sahte sınıfı)
+optional pseudo class (sahte sınıfı)
+valid pseudo class (sahte sınıfı)
+invalid pseudo class (sahte sınıfı)
+in-range pseudo class (sahte sınıfı)
+out-of-range pseudo class (sahte sınıfı)
+first-child pseudo class (sahte sınıfı)
+last-child pseudo class (sahte sınıfı)
+first-of-type pseudo class (sahte sınıfı)
+last-of-type pseudo class (sahte sınıfı)
+only-child pseudo class (sahte sınıfı)
+only-of-type pseudo class (sahte sınıfı)
+nth-child() pseudo class (sahte sınıfı)
+nth-last-child() pseudo class (sahte sınıfı)
+nth-of-type() pseudo class (sahte sınıfı)
+nth-last-of-type() pseudo class (sahte sınıfı)
+
+
+
+
+
+
+# 09. CSS seçicilerinde pseudo elements (sahte elementler)
+CSS seçicilerinde pseudo elements (sahte elementler)
+first-letter pseudo element (sahte elementi)
+first-line pseudo element (sahte elementi)
+before pseudo element (sahte elementi)
+after pseudo element (sahte elementi)
+selection pseudo element (sahte elementi)
+
+# 10. CSS'i anlamak
+CSS kurallarında seviye basamaklandırma yapısı
+CSS kuralları seviye basamaklandırma yapısında önceliği değiştirme
+CSS'de kutu modeli
+CSS'de ölçülendirme birimleri
+CSS'de renk tanımlamaları
+
+
+# 11. CSS'de Renk İşlemleri
+CSS'de ana renk tanımlamalarının kullanımı
+CSS'de rgb renk tanımlamalarının kullanımı
+CSS'de rgba renk tanımlamalarının kullanımı
+CSS'de hsl renk tanımlamalarının kullanımı
+CSS'de hsla renk tanımlamalarının kullanımı
+CSS'de hexadecimal (onaltılık) renk tanımlamalarının kullanımı
+
+
+# 12. CSS'de Boyutlandırma işlemleri
+width özelliğinin kullanımı
+max-width özelliğinin kullanımı
+min-width özelliğinin kullanımı
+height özelliğinin kullanımı
+max-height özelliğinin kullanımı
+min-height özelliğinin kullanımı
+Tüm width ve height özelliklerinin birlikte kullanımı
+Boyutlandırma işlemlerinde tüm ölçülendirme birimlerinin kullanımı
+calc() fonksiyonunun kullanımı
+
+
+# 13. CSS'de Border (Kenarlık/Çerçeve) İşlemleri
+border özelliğinin kullanımı
+border-width özelliğinin kullanımı
+border-color özelliğinin kullanımı
+border-style özelliğinin kullanımı
+border-radius özelliğinin kullanımı
+border-top özelliğinin kullanımı
+border-top-width özelliğinin kullanımı
+border-top-color özelliğinin kullanımı
+border-top-style özelliğinin kullanımı
+border-top-right-radius özelliğinin kullanımı
+border-top-left-radius özelliğinin kullanımı
+Tüm border-top özelliklerinin birlikte kullanımı
+border-right özelliğinin kullanımı
+border-right-width özelliğinin kullanımı
+border-right-color özelliğinin kullanımı
+border-right-style özelliğinin kullanımı
+Tüm border-right özelliklerinin birlikte kullanımı
+border-bottom özelliğinin kullanımı
+border-bottom-width özelliğinin kullanımı
+border-bottom-color özelliğinin kullanımı
+border-bottom-style özelliğinin kullanımı
+border-bottom-right-radius özelliğinin kullanımı
+border-bottom-left-radius özelliğinin kullanımı
+Tüm border-bottom özelliklerinin birlikte kullanımı
+border-left özelliğinin kullanımı
+border-left-width özelliğinin kullanımı
+border-left-color özelliğinin kullanımı
+border-left-style özelliğinin kullanımı
+Tüm border-left özelliklerinin birlikte kullanımı
+Tüm border özelliklerinin birlikte kullanımı
+border-image özelliğinin kullanımı
+border-image-source özelliğinin kullanımı
+border-image-slice özelliğinin kullanımı
+border-image-width özelliğinin kullanımı
+border-image-repeat özelliğinin kullanımı
+border-image-outset özelliğinin kullanımı
+border-image özelliğinde linear-gradient özelliğinin kullanımı
+
+
+
+# 14. CSS'de Outline (Anahat) İşlemleri
+outline özelliğinin kullanımı
+175_outline-width özelliğinin kullanımı
+176_outline-color özelliğinin kullanımı
+177_outline-style özelliğinin kullanımı
+178_outline-offset özelliğinin kullanımı
+179_Tüm outline özelliklerinin birlikte kullanımı
+
+# 15. CSS'de Padding (Dolgu/İç Boşluk) İşlemleri
+padding özelliğinin kullanımı
+padding-top özelliğinin kullanımı
+padding-right özelliğinin kullanımı
+padding-bottom özelliğinin kullanımı
+padding-left özelliğinin kullanımı
+Tüm padding özelliklerinin birlikte kullanımı
+
+# 16. CSS'de Margin (Kenar boşluğu/Dış Boşluk) İşlemleri
+margin özelliğinin kullanımı
+margin-top özelliğinin kullanımı
+margin-right özelliğinin kullanımı
+margin-bottom özelliğinin kullanımı
+margin-left özelliğinin kullanımı
+Tüm margin özelliklerinin birlikte kullanımı
+
+# 16. CSS'de Arkaplan İşlemleri
+background-color özelliğinin kullanımı
+background-image özelliğinin kullanımı
+background-repeat özelliğinin kullanımı
+background-size özelliğinin kullanımı
+background-position özelliğinin kullanımı
+background-attachment özelliğinin kullanımı
+Arkaplan işlemlerinde arkaplana birden fazla resim ve renk ekleme
+background-origin özelliğinin kullanımı
+background-clip özelliğinin kullanımı
+background-blend-mode özelliğinin kullanımı
+background özelliğinin kullanımı
+Arkaplan işlemlerinde tek bir arkaplan resminden farklı arkaplan resimleri üretme
+linear-gradient() fonksiyonunun kullanımı
+repeating-linear-gradient() fonksiyonunun kullanımı
+radial-gradient() fonksiyonunun kullanımı
+repeating-radial-gradient() fonksiyonunun kullanımı
+
+
+# 18. CSS'de Metin ve Font İşlemleri 
+C8Video
+208_color özelliğinin kullanımı
+13 dk
+
+C8Video
+209_direction özelliğinin kullanımı
+13 dk
+
+C8Video
+210_unicode-bidi özelliğinin kullanımı
+17 dk
+
+C8Video
+211_writing-mode özelliğinin kullanımı
+20 dk
+
+C8Video
+212_text-orientation özelliğinin kullanımı
+18 dk
+
+C8Video
+213_line-height özelliğinin kullanımı
+20 dk
+
+C8Video
+214_text-indent özelliğinin kullanımı
+14 dk
+
+C8Video
+215_letter-spacing özelliğinin kullanımı
+13 dk
+
+C8Video
+216_word-spacing özelliğinin kullanımı
+12 dk
+
+C8Video
+217_white-space özelliğinin kullanımı
+25 dk
+
+C8Video
+218_tab-size özelliğinin kullanımı
+23 dk
+
+C8Video
+219_text-align özelliğinin kullanımı
+23 dk
+
+C8Video
+220_text-align-last özelliğinin kullanımı
+28 dk
+
+C8Video
+221_vertical-align özelliğinin kullanımı
+39 dk
+
+C8Video
+222_user-select özelliğinin kullanımı
+18 dk
+
+C8Video
+223_text-transform özelliğinin kullanımı
+21 dk
+
+C8Video
+224_text-decoration özelliğinin kullanımı
+28 dk
+
+C8Video
+225_text-decoration-line özelliğinin kullanımı
+20 dk
+
+C8Video
+226_text-decoration-style özelliğinin kullanımı
+21 dk
+
+C8Video
+227_text-decoration-color özelliğinin kullanımı
+18 dk
+
+C8Video
+228_text-stroke özelliğinin kullanımı
+14 dk
+
+C8Video
+229_text-stroke-width özelliğinin kullanımı
+13 dk
+
+C8Video
+230_text-stroke-color özelliğinin kullanımı
+13 dk
+
+C8Video
+231_text-shadow özelliğinin kullanımı
+35 dk
+
+C8Video
+232_text-overflow özelliğinin kullanımı
+14 dk
+
+C8Video
+233_word-wrap özelliğinin kullanımı
+11 dk
+
+C8Video
+234_word-break özelliğinin kullanımı
+13 dk
+
+C8Video
+235_content özelliğinin kullanımı
+37 dk
+
+C8Video
+236_attr() fonksiyonunun kullanımı
+15 dk
+
+C8Video
+237_quotes özelliğinin kullanımı
+21 dk
+
+C8Video
+238_font-size özelliğinin kullanımı
+21 dk
+
+C8Video
+239_font-family özelliğinin kullanımı
+34 dk
+
+C8Video
+240_font-style özelliğinin kullanımı
+11 dk
+
+C8Video
+241_font-weight özelliğinin kullanımı
+17 dk
+
+C8Video
+242_font-variant özelliğinin kullanımı
+11 dk
+
+C8Video
+243_font-variant-caps özelliğinin kullanımı
+21 dk
+
+C8Video
+244_font özelliğinin kullanımı
+25 dk
+
+C8Video
+245_@font-face özelliğinin kullanımı
+40 dk
+
+C8Video
+246_Google font servisinin kullanımı
+
+
+
+
+# 19. Liste ve Listeleme İşlemleri
+list-style-type özelliğinin kullanımı
+list-style-position özelliğinin kullanımı.mp4
+list-style-image özelliğinin kullanımı
+list-style özelliğinin kullanımı
+
+
+
+# 20. Counter (Sayaç) İşlemleri
+251_counter özellikleri ile birlikte counter() fonksiyonunun kullanımı
+29 dk
+
+C8Video
+252_counter özellikleri ile birlikte counters() fonksiyonunun kullanımı
+
+
+
+# 21. Overflow (Taşma) İşlemleri
+overflow özelliğinin kullanımı
+overflow-x özelliğinin kullanımı
+overflow-y özelliğinin kullanımı
+overflow-wrap özelliğinin kullanımı
+Tüm overflow özelliklerinin birlikte kullanımı
+
+
+
+
+
+22. Tablo İşlemleri
+258_border-collapse özelliğinin kullanımı
+20 dk
+
+C8Video
+259_border-spacing özelliğinin kullanımı
+14 dk
+
+C8Video
+260_empty-cells özelliğinin kullanımı
+17 dk
+
+C8Video
+261_table-layout özelliğinin kullanımı
+15 dk
+
+C8Video
+262_caption-side özelliğinin kullanımı
+13 dk
+
+C8Video
+263_Responsive (Duyarlı) tablolar oluşturma
+13 dk
+
+23. konumlandırma ve Görünüm İşlemleri
+float özelliğinin kullanımı
+clear özelliğinin kullanımı
+display özelliğinin kullanımı
+visibility özelliğinin kullanımı
+position, top, right, bottom ve left özelliklerinin kullanımı
+z-index özelliğinin kullanımı
+box-sizing özelliğinin kullanımı
+box-decoration-break özelliğinin kullanımı
+box-shadow özelliğinin kullanımı
+resize özelliğinin kullanımı
+opacity özelliğinin kullanımı
+filter özelliğinin kullanımı
+clip özelliğinin kullanımı
+clip-path özelliğinin kullanımı
+object-fit özelliğinin kullanımı
+object-position özelliğinin kullanımı
+
+
+
+# 24. Columns (Sütun Ayırma) İşlemleri
+column-count özelliğinin kullanımı
+column-width özelliğinin kullanımı
+columns özelliğinin kullanımı
+column-fill özelliğinin kullanımı
+column-span özelliğinin kullanımı
+column-gap özelliğinin kullanımı
+column-rule-style özelliğinin kullanımı
+column-rule-width özelliğinin kullanımı
+column-rule-color özelliğinin kullanımı
+column-rule özelliğinin kullanımı
+break-before özelliğinin kullanımı
+break-after özelliğinin kullanımı
+
+
+# 25. Flex (Esnek Kutu) İşlemleri
+292_CSS'de flex (esnek kutu) tanımlamalar
+
+C8Video
+293_flex-direction özelliğinin kullanımı
+
+C8Video
+294_flex-wrap özelliğinin kullanım
+
+C8Video
+295_flex-flow özelliğinin kullanımı
+
+C8Video
+296_flex-basis özelliğinin kullanımı
+
+C8Video
+297_flex-grow özelliğinin kullanımı
+
+C8Video
+298_flex-shrink özelliğinin kullanımı
+
+C8Video
+299_flex özelliğinin kullanımı
+
+C8Video
+300_align-items özelliğinin kullanımı
+
+C8Video
+301_align-self özelliğinin kullanımı
+
+C8Video
+302_align-content özelliğinin kullanımı
+
+C8Video
+303_justify-content özelliğinin kullanımı
+
+C8Video
+304_order özelliğinin kullanımı
+
+
+
+
+# Grid İşlemleri
+305_CSS'de grid (ızgara) tanımlamalar
+
+C8Video
+306_grid-template-columns özelliğinin kullanımı
+
+C8Video
+307_grid-template-rows özelliğinin kullanımı
+
+C8Video
+308_grid-column-gap özelliğinin kullanım
+
+C8Video
+309_grid-row-gap özelliğinin kullanım
+
+C8Video
+310_grid-gap özelliğinin kullanımı
+
+C8Video
+311_grid-auto-flow özelliğinin kullanımı
+
+C8Video
+312_grid-auto-columns özelliğinin kullanımı
+
+C8Video
+313_grid-auto-rows özelliğinin kullanımı
+
+C8Video
+314_grid-column-start özelliğinin kullanımı
+
+C8Video
+315_grid-column-end özelliğinin kullanımı
+
+C8Video
+316_grid-column özelliğinin kullanımı
+
+C8Video
+317_grid-row-start özelliğinin kullanımı
+
+C8Video
+318_grid-row-end özelliğinin kullanımı
+
+C8Video
+319_grid-row özelliğinin kullanımı
+
+C8Video
+320_grid-area özelliğinin kullanımı
+
+C8Video
+321_grid-template-areas özelliğinin kullanımı
+
+C8Video
+322_grid-template özelliğinin kullanımı
+
+C8Video
+323_grid özelliğinin kullanımı
+
+C8Video
+324_align-items özelliğinin kullanımı
+
+C8Video
+325_align-self özelliğinin kullanımı
+
+C8Video
+326_align-content özelliğinin kullanımı
+
+C8Video
+327_justify-items özelliğinin kullanımı
+
+C8Video
+328_justify-self özelliğinin kullanımı
+
+C8Video
+329_justify-content özelliğinin kullanımı
+
+C8Video
+330_order özelliğinin kullanımı
+
+# Transform (Dönüştürme) İşlemleri
+331_transform özelliğinin kullanımı
+332_transform-origin özelliğinin kullanımı
+333_transform-style özelliğinin kullanımı
+334_perspective özelliğinin kullanımı
+335_perspective-origin özelliğinin kullanımı
+336_backface-visibility özelliğinin kullanımı
+
+# Transition (Geçiş) ve Animation İşlemleri
+transition özelliğinin kullanımı
+transition-property özelliğinin kullanımı
+339_transition-duration özelliğinin kullanımı
+340_transition-delay özelliğinin kullanımı
+341_transition-timing-function özelliğinin kullanımı
+342_animation özelliğinin kullanımı
+343_@keyframes özelliğinin kullanımı
+344_animation-name özelliğinin kullanımı
+345_animation-duration özelliğinin kullanımı
+346_animation-delay özelliğinin kullanımı
+347_animation-timing-function özelliğinin kullanımı
+348_animation-iteration-count özelliğinin kullanımı
+349_animation-direction özelliğinin kullanımı
+350_animation-fill-mode özelliğinin kullanımı
+351_animation-play-state özelliğinin kullanımı
+
+# 29. Responsive (Duyarlı) Yapı Kullanımı 
+352_HTML'in meta tag'ı (etiketi) içerisinde viewport (görünür alan) kullanımı
+353_CSS'de media (medya) sorguları kullanımı
+354_HTML'in link tag'ı (etiketi) içerisinde media (medya) kullanımı
+355_HTML'in style tag'ı (etiketi) içerisinde media (medya) kullanımı
+356_CSS'de import işlemi için media (medya) özelliklerinin ve değerlerinin kullanımı
+
+# Print (Yazdırma) İşlemleri
+357_page-break-before özelliğinin kullanımı
+358_page-break-after özelliğinin kullanımı
+359_page-break-inside özelliğinin kullanımı
+
+
+# Mouse ve İmleç İşlemleri
+360_cursor özelliğinin kullanımı
+361_caret-color özelliğinin kullanımı
+
+
+# 32. Sıfırlama, Devralma ve Değişken Tanımlama İşlemleri
+362_all özelliğinin kullanımı
+363_var() fonksiyonunun kullanımı
+
+# 33. Kılavuzlar
+364_CSS'de HTML elemanları için varsayılan değerler
+365_Terimler kılavuzu
+366_Hızlı açıklama kılavuzu
+
+# 34. Sıfırdan Full Reponsive E-Ticaret Web Sitesi tasarımı
+367_Tasarımının planlanması
+368_Tasarım için genel hazırlıkların yapılması
+369_Ana şablon için responsive header alanının ve ana menülerin oluşturulması
+370_Ana şablon için responsive footer alanının oluşturulması
+371_İşlem sonuç sayfaları tasarımlarının hazırlanması
+372_Hakkımızda sayfası tasarımının hazırlanması
+373_Banka hesaplarımız sayfası tasarımının hazırlanması
+374_Havale bildirim formu sayfası tasarımının hazırlanması
+375_Bayilerimiz sayfası tasarımının hazırlanması
+376_Bayilik başvurusu sayfası tasarımının hazırlanması
+377_Kargom nerede sayfası tasarımının hazırlanması
+378_İletişim sayfası tasarımının hazırlanması
+379_Sık sorulan sorular sayfası tasarımının hazırlanması
+380_Tüm sözleşme sayfaları tasarımlarının hazırlanması.
+381_Üye ol sayfası tasarımının hazırlanması
+382_Üye giriş sayfası tasarımının hazırlanması
+383_Şifre hatırlatma sayfası tasarımının hazırlanması
+384_Alışveriş sepeti sayfası tasarımının hazırlanması
+385_Alışveriş sepeti fatura ve teslimat işlemleri sayfası tasarımının hazırlanması
+386_Alışveriş sepeti ödeme seçimi ve işlem sayfası tasarımının hazırlanması
+387_Hesabım sayfası tasarımının hazırlanması
+388_Sipariş detay sayfası tasarımının hazırlanması
+389_Yorum yap sayfası tasarımının hazırlanması
+390_Yorumlarım sayfası tasarımının hazırlanması
+391_Üyelik bilgilerim sayfası tasarımının hazırlanması
+392_Üyelik bilgileri güncelleme sayfası tasarımının hazırlanması
+393_Adreslerim sayfası tasarımının hazırlanması
+394_Yeni adres ekleme sayfası tasarımının hazırlanması
+395_Adres düzenleme sayfası tasarımının hazırlanması
+396_Favorilerim sayfası tasarımının hazırlanması
+397_Ürünler sayfası tasarımının hazırlanması
+398_Ürün detay sayfası tasarımının hazırlanması
+399_Ana sayfa slayt alanı tasarımının hazırlanması
+400_Ana sayfa yeni ürünler alanı tasarımının hazırlanması
+401_Ana sayfa çok satan ürünler alanı tasarımının hazırlanması
+402_Ana sayfa dörtlü banner alanı tasarımının hazırlanması
+403_Web tasarımının internet üzerine (hosting&#39;e) yüklenmesi
