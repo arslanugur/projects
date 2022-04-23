@@ -189,13 +189,17 @@ int main()
     In sort algorithms, idea is to arrange the items of a list in a specific order.
     It refers to a way of arranging the data in a particular order.
     Mostly in numerical or lexicographical order.
-    - Insertion Sort
-    - Selection Sort
-    - Merge Sort
-    - Quick Sort
+                      Space Complexity    Best Case   Average Case    Worst Case    Stable    Method
+    - Bubble Sort     O(1)                O(n*logn)   O(n*logn)       O(n^2)        Yes       Exchanging
+    - Selection Sort  O(1)                O(n*logn)   O(n*logn)       O(n*n)        No        Selection  
+    - Insertion Sort  O(1)                O(n*logn)   O(n*logn)       O(n*n)        Yes       Insertion
+    - Quick Sort      O(1)                O(n*logn)   O(n*logn)       O(n*n)        No        Partioning      
+    - Merge Sort      O(1)                O(n*logn)   O(n*logn)       O(n*logn)     Yes       Merging        
+    - Counting Sort   O(k)                O(n+k)      O(n+k)          O(n+k)        Yes       Hashing
+    - Radix Sort      O(n+k)              O(nk)       O(nk)           O(nk)         Yes       Non-Comparitive
     - Bucket Sort
     - Heap Sort
-    - Counting Sort
+
 
 
 
