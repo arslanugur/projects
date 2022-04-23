@@ -160,23 +160,35 @@ int main()
 
 
 
+# THE BASICS
+    Basic operation algos on abstract data types (linked lists, stack, queue, trees and so on)
+    - Basic Implementation
+    - Adding or Deleting an element
+    - Traversal algorithms
+    - Use-case based algorithms
+
+
+# STRING ALGORITHMS
+    These algorithms are used for patterns matching or searching, to solve real world problems.
+    - Brute Force
+    - Rabin Karp
+    - KMP
+    - Boyer Moore
 
 # ARRAYS ALGORITHMS
     - Kadane's Algorithm
     - Floyd's Cycle Detection Algorithm
-    - KMP Algorithm
+    - KMP Algorithm (String Algo)
     - Quick Select Algorithm
-    - Boyer-More Majority Vote Algorithm
-
-
-
-
+    - Boyer-Moore Majority Vote Algorithm (String Algo)
 
 
 
 
 # SORTING ALGORITHMS
     In sort algorithms, idea is to arrange the items of a list in a specific order.
+    It refers to a way of arranging the data in a particular order.
+    Mostly in numerical or lexicographical order.
     - Insertion Sort
     - Selection Sort
     - Merge Sort
@@ -195,6 +207,16 @@ int main()
     
 
 # SEARCHING ALGORITHMS
+    These algorithms checks for an element or retrieve it from any data structure.
+    
+    For Linear Data Structures
+      - Unordered Linear Search
+      - Sorted/Ordered Linear Search
+      - Binary or Interpolation Search
+    
+    For Non-Linear Data Structures
+      - Depth/Breadth First Search
+    
     Find a element in a data set. There are 2 types of search algorithms
     - Linear Search
     - Binary Search           # Method: Divide and Conquer
@@ -220,8 +242,8 @@ print(index)
 ----------------------------
     - Depth First Search  (for Graph Data Structures)
     - Breath First Search (for Graph Data Structures)
-    - Rabin Karp
-    - KMP Algo
+    - Rabin Karp (String Algo)
+    - KMP Algo (String Algo)
     - Z's Algo
     - Aho Corasick String Matching
     - Manacher's Algo
@@ -252,13 +274,10 @@ print(index)
 
 
 
-   
+# ALGORITHM TECHNIQUES   
 # HASHING ALGORITHMS
     Hashing lookup is currently the most widely used technique to find appropriate data by key or ID. We access data by its index.
-
-
-
-
+    Hashing is a technique used for storing and retrieving info as quickly as possible using a key.
 
 
 
@@ -268,6 +287,7 @@ print(index)
     Dynamic programming is an optimization techniques for recursive solutions that have overlapping sub-problem, 
     we use dp to solve a sub-problem, we use dp to solve a sub-problem only sequence
     This type of algo uses memorization technique, it stores the previously calculated result to avoid calculating it again and again
+    DP is a mathematical optimization method used to solve complex problem by breaking it down into simpler subproblems.
 Example: find n-th term of Fibonacci sequence
 ----------------------------
 def fibonacci(n):                       int fibonacci(int n){               // find n-th term of a fibonacci sequence
@@ -319,6 +339,8 @@ def fibonacci(n):                       int fibonacci(int n){               // f
 # DIVIDE and CONQUER METHODOLOGY    (An Algorithm Design Paradigm)
     A Divide-and-Conquer algorithm recursively breaks down a problem into two or more sub-problems of the related type, 
     until these become simple enough to be solved directly
+    Divide and Conquer Algo works by recursively breaking down a problem into two or more subproblems of the same type, until they become simple enough to solve directly
+    
     An algorithm that first divides the problem into smaller parts and solve them, then combine to get final solution
     In this algo, a bigger problem is divided into subproblems of same type and solve independently.
     Finally the outputs from those subproblems are combined/conquered to give the actual output.
@@ -363,6 +385,8 @@ int findNum(int arr[], int key, int 5, int e){
     An algorithm that chooses the most optional move at each step (part by part)
     It always makes the choice that seems to be the best at that moment
 
+    These algorithms work by finding locally optimum solution to get the best optimum global solution.
+    
     In this approach, decisions are taken on the basis of the information currently available without worrying about the future
     The approach doesn't relook at the previous chosen solution.
     The method tries to find/chooses the best/most (optimal) solution/move at each step.
