@@ -46,15 +46,134 @@ Değiştirilemez  tamamen                         kısmen
     - Directed Acyclic Graph (DAG)
 
 2.2_Kriptopara Ve Blokzincir Kavramları Hangi Alanlarda Kesişir? Hangi Alanlarda Ayrışır?
+# Blockzincire ihtiyacınınz var mı?
+1. Kayıtlarınızı başkalarıyla ortak kullanma ihtiyacınız var mı?
+2. İş sürecinde çok sayıda partinin dahli söz konusu mu?
+3. İş sürecinize dahil olan partilerin aralarında çıkar çatışması ve güven sorunu var mı?
+4. İş yaptığınız kişi ve kurumların iş ilkeleri farklı farklı mı?
+5. İş süreciniz için nesnel ve değişrilemeyecek kayıtlara ihtiyacınız var mı?
+6. İşlem kurallarınızı sık sık değiştirme ihtiyacınız yok, değil mi?
+-- Cevapların hepsi evetse blockzincir size uygun
+7. İşlemleriniz herkese açık mı olcak?  -evetse açık, hayırsa kapalı
+Üniversite Diploması Uygulamasıyla soruları cevapla
 
 
-2.3_İşimi Blockzincire Nasıl Taşırım?
+2.3_İşimi Blockzincire Neden ve Nasıl Taşırım?
+- İş süreçleri sadeleştirmek - Merkezsizleştirmek
+- İş kayıtlarını şeffaflaştırmak ve güncelleştirmek - fiyat, çalışan, performans, hak ediş, stok miktarı vb
+- Yönetişimi hakkaniyetli ve katılımcı hale getirmek - iş ortakları, paydaşlar, çalışamlar
+- İşleyişi daha güvenilir hale getirmek - mahremiyet ile şeffaflık dengesi, kripto güvenlik
+
+# Nasıl Taşınır
+-Oyuncuları belirlemek
+Müşteri - hizmet alan
+Tedarikçi - hizmet veren
+Aracı/Arabulucu - hizmete aracılık eden
+# Aracıyı ortadan kaldır: belli bir tasarım ile bunu işleyişe çevirmemiz gerekli yani blockzincire çevrilmeli
+
+# PROJE: Aracısız Burs Projesi
+Müşteri: Burs alan öğrenciler
+Tedarikçi: Hayırsever kişiler/kurumlar
+Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockzincirde yeniden ele alınmalı
+# Bu arabulubu oyuncusu olmazsa ne olur? - çıkabilecek aksaklıklar
+  - desteğe ihtiyacı olan öğrencilerin hakkıyla belirlenmesi zorlaşır
+  - yardımsever yardımları doğru kişiye ulaştıracak muhattap bulamayacak
+  - yardımlar uzun ve güç bir süreç sonunda olacak
+  - insanların yardım heyecanı suistimal edecek kişi ve kurumlar ortaya çıkabilecek
+# Güven unsuru çıktıktan sonra yani aracılar nasıl olacak
+  - öğrenciler sisteme: transkript, aile maaş bordrosu, ikametgah gibi belgeleri yüklesin
+  - sistem öğrencilerin taleplerini (ismi gizli şekilde) belgelere göre yaaptığı şeffaf bir skorlama üzerinden yardımseverlere gösterecek
+  - hayırseverlerde o listeden hangi öğrenciyyi seçerse onunla arasında bir akıllı sözleşme oluşturacak. hayırseverin belirttiği süre boyunca bilmem kaç paraya endeksli bir miktar para gönderecek
+  - üniversitelerle anlaşmalar yapılması halinde öğrencinin bursu harcayacağı yerde kısıtlanabilir (yemekhane, kırtasiye)
+  - sistemin sürdürülebilirliği için her burs miktarının binde biri fona aktarılcak ve sitemde işlem onayı yapanlara algoritmik olarak dağıtılacak.
+  - ucurtmaprojesi.com
+  
+  - Akıllı kontrat sayesinde çok daha şeffaf bir yapı
+  - Aracılara ihtiyaç duyulmaması sayesinde maliyetlerin düşmesi
+  - işlemler blokzincire kaydedildiğinden kağıt evrek ihtiyacı olmaması
+  - otonom ve kendi kendine çalışan bir yapı
+  - ama akıllı kontratlara müdahale edilemediği için anlık çözüm üretilememesi
+  
 2.4_Örnek Blockzincir Tasarımları
+    Örnek 1: Online yemek siparişi
+    - Müşteri: yemek siparişi veren
+    - Tedarikçi: restoran
+    - Arabulucu: online sipariş şirketi - iş modelini kuran da bu arabulucu
+                  en önemli güven unsuru konumunda olan oyuncu
+                  komisyonunu da alıyor, şikayet memnuniyet, rates
+           Bu oyuncu olmazsa sistemde hangi unsurlar aksar
+           - tek bir sistem üzerinden bir çok seçeneğe erişme imkanı ortadan kalkıyor
+           - müşteriyle restoran arasındaki denetleyici unsurlardan biri ve başlıcası ortadan kalkıyor
+           - müşteri sadece iletişim bilgisi olduğu restoranlara erişebiliyor
+           - restoranların da erişebileceği müşteri kitlesi azalıyor
+           - yorum-puan mekanizmasıı ortadan kalktığı için müşteri restoranların kalitesine ilişkin ön bilgiye sahip olamıyor.
+
+          FUNION - online yemek siparişi vermek - blockchain teknolojisi ile
+                   - VoIP teknoloji ile kişisel mahremiyet
+                   - QR kod ile ödeme
+                   - yorum yaptıkça YET kazanmak - YET utility token - etherium zinciri üzerinden
+                   - restoranlar için adil listeleme
+                   - oylandıkça ünvan kazanma, YET kazanma hakkını arttırma
+                   - İş modeli. Akıllı kontrat, token üzerinden ödeme
+                   - pros and conslarını değerlendir
+     
+     Örnek 2: Merkezsiz tedarik zinciri
+        müşteri: market
+        tedarikçi: fabrika, depo, dağıtımcı vb
+        arabulucu: devlet/belediye
+           aksayan unsurlar
+           - market: istediği gibi fiyat belirler, ödemeleri keyfine göre yapar, istediği tedarikçiyi cezalandırır, sistemden atar
+           - tedarikçi: malı istediği zaman teslim etmez, hileli mal üretir, rakip market daha avantajlı fiyat verdiğinde çekip gider.
+
+
 
 # 3. Blokzincir Geleceği
 3.1_Blokzincir Ve Merkezsiz Ağ Mimarilerinin Geleceği
-3.2_Blokzincir Kriptopara Ekosisteminde Blokzincirler Arası ÇalışAbilirlik Ve Devlet Dijital Paraları
+    Blockchain'in Sistemsel Sorunları
+      1.Genel Riskler
+      - Zincirlerarası standardizasyon
+      - Protokollerin entegrasyon - her bir kriptoparanın ayrı bir protokolü var
+      - Kriptoparaların olumsuz imajı
+      2. Teknik Riskler
+      - Veri mahremiyetine uygun olmayan ağ mimarisi
+      - Yüksek enerji talepli eski nesil blockzincirler
+      - Standart olmayan geliştirmeler
+      3. Hukuksal Riskler
+      - Düzenleme olmaması
+      - Kullanıcı şikayetlerinin çözüm yolu sıkıntısı
+      - Mahremiyet/Anonimlik Dengesi
+      4. Güvenlik riskleri
+      - İnsan kaynaklı sorunlar
+      - Genel/Özel anahtarlar riski (Kullanım zorlukları şifreler)
+      - Test edilmeyen zincirler
+    
+    Merkezsiz Finans (DeFi)
+      Herkese açık blokzincir temelli dağınık ağlar üzerinde çalışan finansal uygulmalar ekosistemi
+      Her bireyin finansal hizmetlere kolay erişimini sağlar
+      
+3.2_Blokzincir Kriptopara Ekosisteminde Blokzincirler Arası Çalışabilirlik Ve Devlet Dijital Paraları
+    Banknotlar                      KriptoParalar
+      - Devlet Destekli               - P2P Güvenilirlik
+      - Bankacılık Ağı üzerinde       - Blokzincir Ağı üzerinde
+      - Fiat İstikrarı                - Yüksek Oynaklık
+      - Senyoraj                      - Değer Koruma
+      Sentez Model: Banknot olmamalı, Bankacılık Ağı üzerinden olmamalı, Yüksek Oynaklık olmamalı
+        Devlet destekli Kripto Paralar
+          - Mevcut banknot para birimine entegre
+          - Ülke dahilinde kullanılan KriptoParalarla arasında Açık Defter geçişleri olan
+          - Vergi, stopaj, vs devlet gelirlerinin doğrudan ve anında toplanabildiği
+        
+
 3.3_Gelecekte Blokzincir Kriptopara Ekosistemi Nasıl Şekillenecek?
+      Çinli şirketlerin blockchain patentleri anlaması
+      Çin, Yuan üzerinden dolların dominansını bitirmeye çalışıyor - Küresel Rezerve
+      Facebook, Libra buna karşı bir ataktı ama Amerika katı sınırlar koydu
+      ABD ve Çin Blockzincir Rekabeti
+      
+
+
+
+
 
 # 4.Modern Paranın Kısa Tarihi ve Kripto Paraların Felsefi Temelleri
 4.1_İtibari Paradan Önce Variyet Ve Değer Temsili
