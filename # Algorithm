@@ -425,9 +425,13 @@ int findNum(int arr[], int key, int 5, int e){
     - Job Sequencing Problem
     - Travelling Salesman Problem
     - Decision Tree
-    - Dijkstra's Algorithm (for Graph Search and Short Path Finding)
-    - Kruskal's Algorithm (to construct a Minimum Spanning Tree)
-    - Prim's Algorithm (to construct a Minimum Spanning Tree)
+    - Minimal Spanning Tree Algo - Dijkstra's Algorithm (for Graph Search and Short Path Finding)
+    - Minimal Spanning Tree Algo - Kruskal's Algorithm (to construct a Minimum Spanning Tree)
+    - Minimal Spanning Tree Algo - Prim's Algorithm (to construct a Minimum Spanning Tree)
+    - Graph - Map Coloring
+    - Graph - Vertex Cover
+    - Knapsack Problem
+    
 
 Example: Activity selection problem (Maximum number of activities infinite amount of time)
 ----------------------------
