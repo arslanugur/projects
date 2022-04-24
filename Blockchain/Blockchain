@@ -1,29 +1,72 @@
 Blokzincir ve Kripto Paralar
 
-1.Blokzincir Temel Kavramlar
+# 1.Blokzincir Temel Kavramlar
 1.1_Bitcoinden Blokzincire; Merkezsiz Ağ Mimarilerine Giriş
 1.2_Blokzincir Nedir? Nasıl Çalışır?
 
-2. Blokzincir Kullanımı
+
+
+# 2. Blokzincir Kullanımı
 2.1_Blokzincir Ekosistemi Ve Kullanım Modelleri
+                      Bitcoin         Ripple        Monero
+                      -------------------------------------------
+İşleyiş               Merkezsiz       Merkezi       Merkezsiz
+Mahremiyet            Kullanıcı       Sistem        Kullanıcı
+İşlem Kayıtları       Herkese Açık    Kuruma açık   Herkese Kapalı
+Güvenlik              Kripto          Kripto        Kripto
+
+# Blockzincir Güven Uygulamaları
+Açık Blockzincir:
+  Merkezsiz İşleyiş, Şeffaf Kayıtlar, Mahrem/Açık Kullanıcı, Kripto Güvenlik
+      Tapu, Telif/Patent, Merkezi Sınavlar
+Kapalı Blockzincir:
+  Merkezi/Merkezsiz İşleyiş, Kapalı/İzinli Kayıtlar, Mahrem Kullanıcı, Kripto Güvenlik    
+      Kimlik Bilgileri, Adli Sicil, Sağlık Kayıtları
+
+# QR Kodu sayesinde diploma ya da sertifikanın blockzincir'de olup olmadığına bakılır. Tabi Accredition Kurumları vasıtayla da olabilir.
+
+
+# Blockzincir Mimarileri
+                Açık Blockzincir                Kapalı Blockzincir
+                --------------------------------------------------
+Erişim          izin gerektirmez                izinli
+Kullanıcı       mahrem/yarı mahrem              kimliği bilinen
+İşleyiş         merkezsiz                       kısmen merkezsiz
+İşlem Güvenliği konsensüs/kayıt algoritmaları   yetkili onayı
+İşlem Hızı      yavaş                           hızlı
+İş Verimi       düşük                           yüksek  
+Yetkilendirme   gönüllülük                      organizasyon
+Değiştirilemez  tamamen                         kısmen
+
+  ** DLT: Distributed Ledger Technology (Dağınık Defter Teknolojisi)
+
+# Blockzincirsiz Finans Uygulamaları - Distributed Ledger Technology
+  # Blockzincirin ötesindeyeni nesil kriptopara mimarileri
+    - Hashgraph
+    - Directed Acyclic Graph (DAG)
+
 2.2_Kriptopara Ve Blokzincir Kavramları Hangi Alanlarda Kesişir? Hangi Alanlarda Ayrışır?
+
+
 2.3_İşimi Blockzincire Nasıl Taşırım?
 2.4_Örnek Blockzincir Tasarımları
 
-3. Blokzincir Geleceği
+# 3. Blokzincir Geleceği
 3.1_Blokzincir Ve Merkezsiz Ağ Mimarilerinin Geleceği
 3.2_Blokzincir Kriptopara Ekosisteminde Blokzincirler Arası ÇalışAbilirlik Ve Devlet Dijital Paraları
 3.3_Gelecekte Blokzincir Kriptopara Ekosistemi Nasıl Şekillenecek?
 
-4.Modern Paranın Kısa Tarihi ve Kripto Paraların Felsefi Temelleri
+# 4.Modern Paranın Kısa Tarihi ve Kripto Paraların Felsefi Temelleri
 4.1_İtibari Paradan Önce Variyet Ve Değer Temsili
 4.2_Kripto Değerlerin Felsefi Temelleri
 4.3_Blokzincir
 4.4_Akıllı Kontratların Temel Özellikleri
 
-5. Blokzincir Temel Proje Unsurları
+# 5. Blokzincir Temel Proje Unsurları
 5.1_Blokzincir Temel Proje Unsurları
-6.Sağlık Sektörü Blokzincir Uygulamaları
+
+
+# 6.Sağlık Sektörü Blokzincir Uygulamaları
 6.1_Sektörel Yaklaşım: Sağlıkta Blokzincir
 6.2_Sektörel Yaklaşım: Sağlıkta Blokzincir 2
 6.3_Sağlık Ve İlaç Sektörü Blokzincir Uygulamaları
@@ -31,7 +74,7 @@ Blokzincir ve Kripto Paralar
 6.5_Sağlık Sektörüne Uygulama Geliştirme 1
 6.6_Sağlık Sektörüe Uygulama Geliştirme 2
 
-7.Blokzincir Platformlarının Teknik Altyapısı
+# 7.Blokzincir Platformlarının Teknik Altyapısı
 7.1_Bitcoin’İn Teknik Temelleri
 7.2_Merkeziyetsiz Uygulama Geliştirme 1
 7.3_Merkeziyetsiz Uygulama Geliştirme 2
@@ -41,7 +84,7 @@ Blokzincir ve Kripto Paralar
 7.7_Blokzincirler İçin Kriptografi 3
 7.8_Blokzincirler İçin Kriptografi 4
 
-8.Akıllı Kontrat Programcılığı
+# 8.Akıllı Kontrat Programcılığı
 8.1_Akıllı Kontratlara Giriş
 8.2_Akıllı Kontrat Programcılığı 1
 8.3_Akıllı Kontrat Programcılığı 2
@@ -70,12 +113,12 @@ Blokzincir ve Kripto Paralar
 8.26_Örnek Uygulama 4
 8.27_Örnek Uygulama 5
 
-9.Bir Fon Sağlama Metodu Olarak ICO'lar
+# 9.Bir Fon Sağlama Metodu Olarak ICO'lar
 9.1_Ico Kavramı Ve Gerçekleştirilme Yöntemleri
 9.2_Ico’Lara İlişkin Çeşitli Ülke Hukuklarında Yapılan Değerlendirmeler
 9.3_ Ico'Ların Türk Hukuk Sistemi İçerisindeki Yeri Ve Türk Hukuku Kapsamındaki Değerlendirmeler
 
-10.Blokzincir Projelerinde Dikkat Edilmesi Gereken Hukuki Konular
+# 10.Blokzincir Projelerinde Dikkat Edilmesi Gereken Hukuki Konular
 10.1_Blokzincir Projelerinde Dikkat Edilmesi Gereken Hukuki Konular
 10.2_Kvkk Kapsamında Blokzincir Projelerinde Dikkat Edilmesi Gereken Hususlar
 10.3_Blokzincir Projelerinde Kvkk'Ya Uyum Sağlanabilmesi İçin Yapılan Öneriler
