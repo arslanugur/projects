@@ -14,7 +14,11 @@ Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
                                           floating-point: float, double 
 
          Non-Primitive Data Structures (User Defined)
-                  -->  Array, List, Files, String, Structure, Classes
+                  Linear  --> Static: Array, List, Files, String, Structure, Classes
+                          --> Dynamic: Linked List, Stack, Queue
+                          
+                  Non-Linear  --> Tree, Graph
+                  
                                |
 1. Linear Data Structures      |  2. Non-Linear Data Structures
    - Arrays                    |     - Trees
@@ -22,7 +26,7 @@ Non-Primitive ---> Built-In     : List, Set, Dictionary, Tuple
    - Linked Lists              |     - Graphs
    - Stacks                    |     - (Hash) Tables
    - Queues                    |     - Sets
-   - Files                     |     - Tries
+                               |     - Tries
                                      - Matrix
                                      - Sparse Matrix
                                      - Heap
@@ -55,6 +59,11 @@ O(1) - Green    O(n) - Red
 > ALGORITHMS with DS
 # Data Structures
 Arrays
+    Arrays are the collection of similar types of data stored at contiguous memory locations.
+    It is the simplest data structure where the data element can be accessed randomly just by using its index number.
+    arr 012345
+    arr --> array variable
+    [0] --> index of element to be accessed
     - Kadane's Algorithm (Max Subarray Problem)
     - Floyd's Cycle Detection Algorithm (Floyd's Tortoise and Hare)
     - KMP(Knuth-Morris-Pratt) Algorithm - Class: String Search Algorithms, DS: String
@@ -82,6 +91,17 @@ Graphs
 
 
 Linked Lists
+  A linked list is a data structure that has sequence of nodes where every node is connected to the next node by means of a reference pointer.
+  The elements are not stored in adjacent memory locations.
+  They are linked using pointers to form a chain.
+  This forms a chain-like link for data storage.
+  Each node element has two parts:
+    a data field
+    a reference (or pointer) to the next node.
+    
+      Data | Next ---> Data | Next ---> Data | Next ---> NULL
+     (Head)
+       
   Applications:
     - Implement stacks, queues, and hash tables
     - Create directories
@@ -93,13 +113,25 @@ Linked Lists
     - Remove loop in a linked list
 
 Stacks
+  How is a stack different from a queue?
+    1. In a stack, the item that is most recently added is removed first whereas in queue, the item least recently added is removed first.
+          push # pop ---> "Stack"
+          push --> "Queue" ---> pop
+  What is a stack?
+    1. Stack is a linear data structure that follows LIFO(Last In First Out)
+    2. Push, Pop, and Top (or Peek) are the basic operations of a stack 
+  What are the applications of stack?
+    - check for balanced parentheses in an expression
+    - evaluation of a postfix expression
+    - problem of infix to postfix conversion
+    - reverse a string
   Applications:
     - Backtracking to a previous state
     - Expression evalution and conversion
     - Used for Memory Management
   Common Interview Questions:
     - Use stack to check for balanced parenthesis
-    - iInplement two stacks in an array
+    - Implement two stacks in an array
     - Next greater element using a stack
     - Convert infix to postfix using stack
     
@@ -194,7 +226,10 @@ int main()
     - Quick Select Algorithm
     - Boyer-Moore Majority Vote Algorithm (String Algo)
 
-
+    1. What is a multidimensional array?
+      Multi-dimensional arrays are those data structures that span across more than one dimension.
+      This indicates that there will be more than one index variable for every point of storage. This type
+      ....
 
 
 # SORTING ALGORITHMS
@@ -224,6 +259,10 @@ int main()
 
 # SEARCHING ALGORITHMS
     These algorithms checks for an element or retrieve it from any data structure.
+      - Linear Search
+      - Binary Search
+      - Depth First Search
+      - Breadth First Search
     
     For Linear Data Structures
       - Unordered Linear Search
