@@ -340,7 +340,53 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
     
 # 5. Blokzincir Temel Proje Unsurları
 5.1 Blokzincir Temel Proje geliştirme unsurları
-
+    Fikir
+        Blockchain gerçekten gerekli mi projen için?
+        İhtiyaç brir DLT mi yoksa blockchain mi?
+        Fikrin hikayesi olmalı
+    Platform Seçimi
+        Ürünün evrimiyle platform seçimi önemli
+        seçtiğim platform ürünün gelecekteki özelliklerini destekleyecek bir dönüşüm kapasitesine sahip mi?
+        benzer hizmet ve ürnlere sahip diğer projeler hangi platformları kullanıyor?
+        direk ve indirek rakiplerim, mevcut çözümleri için hangi platformları neden tercih ettiler?
+    İş Planı
+        Kime neyi ne zman ne kadar satıyorsun, hizmet
+        hangi marketler hedefli, potansiyel market planı, coğrafya/market analizi, rakip analizi, oyuncu analizi
+        - İş geliştirme planı: Kime neyi ne zman ve ne kadar satacağım?
+        - Servisler ve potansiyel market planı: verdiğim hizmetler neler ve hangi marketleri hedefliyorum?
+        - Market Analizi: Sunduğum çözüm hangi marketlerde bir ihtiyaç?
+        - Rakip Analizi: Rakiplerim kimler ve potansiyel kullanıcılar neden benim projemi tercih etmeliler?
+    Ekip Kurma
+        İhtiyaçların belirlenmesi - yazılım dilleri, senyoraj
+        İşe alım - kişisel ağ, çözüm ortakları
+        Kullanılacak teknolojiye dair spesifik konular - akıllı kontratlar, platforma özel konular ve gelişmeler
+        çalışma sistemi - uzaktan, ofisten, hybrid
+    Token/Coin
+        gereklilik testleri: konuya özel geliştirilmiş asit testleri. token ya da coine gerçekten ihtiyaç var mı?
+        token ekonomisi ve Planlama: fonksiyonlar ve amaçlar gereği ekonomik planlamanın tasarlanması (fiyatlandırma ve değerlendirme)
+        departmanlar ile senkronizasyon: finans, hukuk, iş geliştirme, iletişim ve reklam vs departmanlar ile çapraz değerlendirme ve kontrol
+        
+    Finans
+        gelir-gider modeli
+        finansal planlama
+        kaynak yönetimi
+    Dökümantasyon
+        dökümantasyon çeşitleri
+          White paper
+          One paper
+          Tech paper
+          Projeye özel dökümanlar
+        dökümanın amacı nedir?, dili ne olmalıdır?, bu döküman hangi ookuyucu için?
+        dökümanların dili ve hedefleri
+          hedef okuyucu
+          zamanlama
+          şeffaflık
+    Yasal Konular
+    Yatırım/Yatırımcılar
+    İletişim Pazarlama
+    Lisans/Sertifikasyon/Patent
+    Testler
+    Danışman Seçimi
 
 
 
