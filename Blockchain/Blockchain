@@ -270,9 +270,78 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
           "para, en basit tabirle alacak kayıtlarını tutmaya yarayan bir hesap defteridir. ve bitcoin, şimdiy kadar gördüğümüz en iyi hesap defteri". john reed
           
 4.4 Akıllı Kontratların Temel Özellikleri
+    Akıllı kontratlar yiyecek içecek standlarından pek de farklı çalışmaz aslında.
+    Önceden belirlenmiş standartlar dahilinde işler.
+    Tarafların karşılıklı anlaştığı şartların bir bilgisayar kodu olarak sisteme işlenmesi ile başlar
+    Katılımcı taraflar anonim olabilir ancak sürecin gözlemlenmesi ve kayıt altına alınması kesinlikle ağ içindeki bilgisayarlar tarafından rahatlıkla gözlemlenecek şekilde açıktır.
+    Karşılıklı olarak anlaşmaya varılan ve akıllı sözleşmeye dahil edilmiş şartların sağlanmasıyla sözleşme otomatik olarak kendi kendine işlenmiş olur.
+    Akıllı şözleşmelerin 5 karakteristik özelliği
+    - ekonomik
+    - otonom  - bi kere kodlanması yeter
+    - güvenli - taraflar sorumluluğunu yerine getirir
+    - yedekli
+    - isabetli
+    
+    Ethereum platform - 2014de tanıtılmış ve akıllı kontratların en yaygın olarak kullanıldığı platform
 
+    Akıllı kontratların karşılaştığı güncel zorluklarlar sorunlar neler?
+    - Veri ayrıştırma modelleri
+    - fonksiyonlar aracılığıyla güncelleme/modifikasyon
+    - farklı zincirler arası iletişim/operasyon gereken süreçler
+    - merkeziyetsizlik (kısmen çözümü var OpenZeppelin - yapılandırılmamış d)
+
+    Token kavramı
+    - her hangi bir değerin yükümlülüğün dağıtık defter teknolojileri üzerinde dijital ortamdaki temsil edilmesi iiçin araçtır.
+    - token aslında sadece bir temsilcildir. coin ise ödeme aracı olur.
+    - blockchain teknolojisinin kullanılıyor olması token ya da coin kullanımını zorunlu kılmaz.
+    
+    Token sınıflandırılması (Taxonomy)
+    - mevcut tasarım modellerinde token/dijital temsilciler genellikle dört farkllı temel sınıfta değerlendirilebilir.
+      kullanım amacı, teknik fonksiyonu/ağ içerisinde rolü, temsil ettiği değer, hukuki statü
+    Kullanım amacı
+    - token'ı aktif olarak hareket ettirmek, herhangi bir servis/hizmete hak kazandırırç
+    - token'a sahip olmak herhangi bir servis/hizmete dahil olmak için önkoşul olarak belirlenebilir.
+    - token bir özendirici olarak tasarlanıp, ödüllendirme mekanizması içerisinde kullanılabilir.
+    
+    teknik fonksiyonu ağğ içindeki rolü
+    - blockchain temel bileşenlerinin operasyonlarında rolü olabilir
+    - üzerine kurulduğu protokol ile ürün arasında bir ulak olarak çalışabilir
+    - teknik kapasiteye katkı için ödüllendirme mekanizması olarak kullanılabilir
+    
+    Temsil ettiği değer
+    - fiziksel bir varlık veya bir değeri ağ içerisinde temsil edebilir.
+    - herhangi bir şekilde oy hakkını temsil edebilir    
+    - klasik bir hissenin hakları tanımlanarak, tüzel kişilik paydaşlığı temsil edebilir.
+    
+    Hukuki statü
+    - reddedilemez bir fonksiyonu olan aktif bir aracıdır
+    - senet, tahvil, bono vb klasik sınıf bir dğeri temsil eden bir aracıdır.
+    - Tamamen bir ödeme aracıdır.
+    
+    bir sistemde token'a ihtiyaç olup olmadığını anlamak için 2 soru yeterlidir.
+    - sisteme ekleyeceğiniz bu token sistemden çıkarsa ne olur
+    - bu tokeni mantık, değer, ekonomik planlama ve tasarım (70) testlerinden geçebiliyor mu? 
+    
+    potansiyel ve gerçek kullanım alanları
+    - veri manipülasyonunu önlemek
+    -  hizmet sağlayıcılara ihtiyaç olmadan maliyetleri ve işlem sürelerini düşürmek
+    - süreç şeffaflığı sağlamak amacıyla
+    - bağış - değişmez defterler 
+    - çevrimiçi müzik ve video: anlık olarak emekleri karşılığı verebilmek
+    - bankacılık: büyük meblağların kolayca ve masrafsızca transfer edilebilmesi
+    - seçimler: oyum sayıldı mı? oyum değiştirildi mi?
+    - Danışmanlık sektörü: ücreti hemen alınır, işte mağdur olmamak için
+    - emlak yönetimi: tapu arsa belgeleri tüm geçmişi gözlemlenir
+    - sanat: nft ve monalisanın bir parçasının sahibi olduğun
+    - DAO: decentralized autonomous organizations: yönetimsiz organizasyon. kendi kendini yöneten sistem
+            karar alma mekanizmasını blokzincir üzerine taşıyan organizasyonlardor.
+            belirli merkezi yönetim olmadan kendi kendine karar alabilen ve bu karkarların şeffaf bir süreç ile katılımcılar tarafından gözlemlenebildiği bir organizma oluşturabiliyorlar.
+    
+    
 # 5. Blokzincir Temel Proje Unsurları
-5.1 Blokzincir Temel Proje Unsurları
+5.1 Blokzincir Temel Proje geliştirme unsurları
+
+
 
 
 # 6.Sağlık Sektörü Blokzincir Uygulamaları
