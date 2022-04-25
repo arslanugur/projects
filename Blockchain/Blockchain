@@ -380,17 +380,67 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
         dökümanların dili ve hedefleri
           hedef okuyucu
           zamanlama
-          şeffaflık
+          şeffaflık - anlaşılabilirlik
     Yasal Konular
+          coğrafi yükümlülükler: hedef marketlerde resmi otorite kim, sorumluluklarım neler?
+                                FINMA, SEC, CAC-BISMR ve diğerleri
+          şirket kurulumu: şirket kurulumu için karar verirken nelere dikkat etmek gerekir?
+          hukuk ekibi: ekip üyeleri, danışmanlar, uzmanlıklar
+          
     Yatırım/Yatırımcılar
+          yatırımcı seçimi
+          yatırımcılardan beklentiler
+          yatırım zamanlaması
     İletişim Pazarlama
+          iş planlama: orta ve uzun vadede plan belirlenen hedefler
+          pro destek: akışa bırakmak yerine tecrübeli kişilerle çalışmak
     Lisans/Sertifikasyon/Patent
+        Patent gerektiren konular: geliştirdiğim ürünün çalışma prensipleri arasında patent başvurusu ile korumak istediğim bir yer var mı?
+        Gizli olmayan konular: açıklanması projeye ve şirkete zarar vermeyecek, topluluğun ürün ve hizmetleri anlamasına yardımcı olacak konular
+        Patenr başvurusu yapılmayan konular: ters mühendislik riski olmayan konular? Hukuki görüş almak
+        Lisans ve uygunluk belgeleri: proje özelinde, alınması gereken lisans, sertifka ve uygunluk belgelri 
     Testler
+        teknik testler
+        kullanıcı testleri
+        ürüne özel testler
+        vb testler
+        her versiyon sonrası test şart
     Danışman Seçimi
+        ihtiyaçların belirlenmesi
+        seçim metodolojisi
 
 
+
+3. KISIM
 
 # 6.Sağlık Sektörü Blokzincir Uygulamaları
+    ders konuları
+      problem tanımı: blokzincir teknolojilerinin sağlık sektörüne potansiyel faydaları
+      sağlık sektörü mevcut blokzincir uygulamalarına bakış
+      sağlık veri pazarına bakış ve sağlık verilerinin akçelendirilmesi
+      sağlık blokzincir uygulmaları geliştirme
+      
+      Problem tanımı:
+          problem kümelerinin sınıflandırılması
+              sosyal içerikli problemler:
+                            işsizlik, yaşlılık, ekonomik batış, fonlama              
+              sağlık ve yaşam bilimlerine has sektörel problemler:
+                            sağlık maliyetleri hızla artmaktadır
+                            sağlık verilerine erişim mahremiyet ve güvenlik kaygılarından ötürü zor
+                            sağlık hizmet veya ürün fiyatlarında en ufak bir şeffaflık yok
+                            ilaçta sahtecilik ve tedarik zinciri takibi elzemdir
+                            -peeling away health care's sticker shock - andrew s. grove
+                            hastaneden hastaneye fiyat değişimi
+              teknolojik engeller ve kısıtlamalar
+                            Internet:
+                              protokol katmanı: interneti yapanlar: tim barners-lee, linus torvalds, vint cerf, robert e.kahn
+                              uygulama katmanı: internette uygulama yapanlar: jeff bezos, zuckerberg, dorsey, alibaba
+                            Block zincir:
+                              protokol katmanı: vitalik buterin, dan larimar, charlie lee, brock pierce
+                              internet uygulama katmanları: brian armstrong, changpeng zhao (binance), arthur hayes, jesse powell
+                              blockchain dağınık uygulamalar katmanı: milyarderler yok burda
+                              
+                              hastanın doctorun sağlık personelinin işine yarıyor mu?
 6.1_Sektörel Yaklaşım: Sağlıkta Blokzincir
 6.2_Sektörel Yaklaşım: Sağlıkta Blokzincir 2
 6.3_Sağlık Ve İlaç Sektörü Blokzincir Uygulamaları
