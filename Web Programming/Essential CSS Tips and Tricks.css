@@ -1,0 +1,100 @@
+# 01. Resize images to fit a div container
+  # you can resize an image to fit a div container using the height, width, and object-fit properties.
+
+# style.css
+.random-image {
+  height: 100%;
+  width: 100%;
+  object-fit: contain;
+}
+
+# 02. Hover Effects
+  # you can add a hover effect to an HTML element using the :hover selector.
+  # Example: Adding hover effect to a button element
+  # you can play around with this code and add effects like fade-in, grow-in, skew, and so on.
+# style.css
+button: hover {
+  color: #0062FF;
+  border: #0062FF solid 1px;
+  background: #FFFF99;
+}
+
+
+# 03. Overriding all the sytles
+  # in CSS, the !important means that "this is important", 
+  # ignore all the subsequent rules, and apply !important rule 
+  # and the !important keyword must be placed at the end of the line, immediately before the semicolon.
+# style.css
+element {
+  color: blue !important;
+  font-size: 14px !important;
+  ...
+}
+  # using !important in your css usually means you are narcissistic and selfish or lazy.
+  # do not use it until and unless it is important
+  # You can override all other style declarations of an attribute (including inline styles) using the !important directive at the end of a value.
+
+
+# 04. Truncate text with ellipsis
+  # you can truncate overflowing text with an ellipsis (...) using the text-overflow CSS property.
+# style.css
+.text {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 200px;
+}
+
+
+# 05. Using text-transform
+  # you can force text to be uppercased, lowercased, or capitalized using the text-transform CSS property.
+# style.css
+.uppercase {
+  text-transform: uppercase;
+}
+
+.lowercase {
+  text-transform: lowercase;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+
+# 06. Using Single-Line Property Declaration
+  # you can use the shorthand properties in CSS to make your code concise and easily readable.
+  # for example, background is a shorthand property that allows to define the values of background-color, background-image, back ground-repeat, and background-position.
+div {
+  background: black url(images/xyz.png) no-repeat left top;
+}
+  # Similarly, you can define properties for font, border, margin, and padding.
+
+
+# 07. CSS Text Shadow
+  # The text-shadow CSS property adds shadows and layers to the text.
+  # The text-shadow property accepts a comma-separated list of shadows to be applied to the text.
+
+  # Syntax of the text-shadow CSS Property
+/* you can use 4 arguments with the text-shadow CSS property: offset-x, offset-y, blur-radius, and color */
+
+/* offset-x | offset-y | blur-radius | color */
+text-shadow: 2px 2px 4px red;
+
+/* color | offset-x | offset-y | blur-radius */
+text-shadow: #18fa3e 1px 2px 10px;
+  # Note: the color and blur-radius arguments are optional.
+
+
+# 08. CSS Box Shadow
+  # The box-shadow property is used to apply a shadow to HTML elements.
+  # Syntax of the box-shadow CSS property
+box-shadow: none | h-offset v-offset blur spread color | inset | initial | inherit;
+
+div {
+  box-shadow: 10px 10px 5px 12px #fff;
+}
+  # Note: To attach more than one shadow to an element, add a comma-separated list of shadows. 
+
+
+
