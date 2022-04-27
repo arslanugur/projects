@@ -445,7 +445,61 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
 6.2_Sektörel Yaklaşım: Sağlıkta Blokzincir 2
 6.3_Sağlık Ve İlaç Sektörü Blokzincir Uygulamaları
 6.4_Sağlık Veri Piyasası Ve Sağlık Verilerinin Akçelendirilmesi
+        Tokenler, akçalendirme yöntemi
+        Big Data, büyük veriden ziyade, sağlıkta uzun veri önemli - sağlık geçmişi
+        Our bodies, our data.pdf - Adam Tanner
+        Şirketler
+        - IQVia - IMS Health & Quintiles are now
+        - GE Healthcare
+        - IBM Watson Care - explorys - sağlık tedarik zincirinin e sağlık kaydı veri tabanı - US'de
+                          Phytel -
+                          Merge - tıbbi görüntüleme verisi
+                          Truven - pharmocoemphormatic - ilaç verisi ve sağlık sigorta kurumlarından alınmış geri ödemeler verisi var
+                          şirketlerini satın aldı
+        - Roche - flatiron - kanser verisi toplayan şirket
+        
+        Global gerçek yaşam bulgusu verisi - bir ilaç kullanan hasta başka bir ilaca başlar ve etkilenir. piyasaya çıkan ilaç deneylerinde bu anlaşılmaz yalnızca bireysel kullanımda anlaşılır: bu yüzden ilaç uyumu önemli
+        Sağlık blokzincir pazarı hneüz bakirdir ve ticari fırsatlar gözüküyor
+        Sağlık veri kaynakları: medical claims, mobile data and wearables, non retail outlets, hospital EHR's, provider software, Opt-in Genome registries, patient registries, private payers and plan claims, government health plan claims, pharmacy claims ---> bunların hepsi big dataya gider
+        Tamamlayıcı veri kaynakları: mastercard, fb, visa, twitter, ig, linkedin, whatsapp
+        
+        blockchain örneği: hasta odaklı veri mülkiyeti --> veri akçelendirmesi --> veri satışı ---> gelir paylaşım hasta ile olmalı
+        
+        blockchain/Smart contracts ile uzun sağlık verisinin zenginletirilmesi
+          hasta kabul (1.hastane ElektronikSağlıkKaydı)
+          hasta kimlik doğrulama
+          1.hastane dahili doktor doğrulaması
+          hasta ikinci görüş doğrulaması harici doctor
+          heyet raporu tasdiki (1.hastane)
+          sigorta geri ödeme doğrulaması
+          ilaç rejimeni ödeme sorgulaması
+          Co-morbid hasta çoklu ilaç tedavi teyidleri
+          exome sekanslanmış tümör verisi
+          cihaz bazlı redavi süreci takip doğrulaması
 6.5_Sağlık Sektörüne Uygulama Geliştirme 1
+    Blokzincir teknolojileir ile sağlık sektörüne uygulama geliştirme
+    
+    Sağlık blockchain Road Map
+    kısa vade: kapalı konsorsiyumlar kurarak pilot projeler ile başlamak ve ilk etapta hasta verisine hiç dokunmamak 
+    orta vade: esk doğrulanması - sağlık verisini ilave ederek akdi izne tabi protokol bazlı sistemler geliştirerek ölçeklemek
+    uzun vade: hasta odaklı ve onların sürücü koltuğunda olduğu kişisel sağlık verilerinin ticari amaçlı kullanımı
+
+    Blockchain ve Artificial Intelligence teknolojilerinin yakınsaması - birbirlerini tamamlarlarla
+    projeler zenginleştirmek
+    
+    blockchain ve crypto varlık araçları erken evre giriimlerin fon bulma imkanı sağlıyor
+      İmtiyazsız para arzı
+      imtiyazlı para arzı  - security token
+    Akıllı sözleşmeler - programlanabilir ekonomi kavramının omurgası "akıllı sözleşmeler" olarak adlandırılan yazılımlar sağlamaktadır
+    
+    az para -- çok insan -- kitlesel fonlama
+    
+    blokzincir mimarilerinin sağlı sektörüne uygunluğu
+    
+    
+    
+    
+    
 6.6_Sağlık Sektörüe Uygulama Geliştirme 2
 
 # 7.Blokzincir Platformlarının Teknik Altyapısı
