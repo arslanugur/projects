@@ -1,0 +1,67 @@
+body{
+  background-color: #000;
+}
+
+.portfolio-work{
+  position: relative;
+  display: flex;
+  justify-content: center;
+  width: 277px;
+  height: 277px;
+  float: right;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.portfolio-work img{
+  transition: all ease-in-out .3s;
+}
+
+.portfolio-work:hover img{
+  transform: scale(1.5);
+}
+
+.portfolio.work h5{
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 100px;
+  border: 2px solid #ffd369;
+  border-radius: 50%;
+  font-size: 1em;
+  padding-left: 5px;
+  color: #ffd369;
+  background: #222831;
+  z-index: 11;
+  transform: scale(.1);
+  transition: all ease-in-out .3s;
+  cursor: pointer;
+  opacity: 0;
+}
+
+.portfolio-work:hover h5{
+  transform: scale(1);
+  opacity: 1;
+}
+
+.portfolio-work::before{
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  color: #222831;
+  background: rgba(57, 62, 70, .4);
+  z-index: 1;
+  transition: all ease-in-out .3s;
+  opacity: 1;
+}
+
+.portfolio-work:hover::before{
+  opacity: 0;
+}
+
+
