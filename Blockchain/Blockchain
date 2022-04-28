@@ -535,12 +535,167 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
 
 
 # 7.Blokzincir Platformlarının Teknik Altyapısı
-7.1_Bitcoin’İn Teknik Temelleri
+7.1_Bitcoin’İn Teknik Temelleri (watch again)
+  bitcoin = açık kaynaklı, p2p e-nakit sistemi
+  merkezi sunucu veya güvenilir taraflar olmadan tamamen merkezsiz.
+  her şey güven yerine kriptografik kanıtlara dayanıyor.
+  ekran görüntülerine ve tasarım dökümanı www.bitcoin.org
+  sansürlenemiyor internet gibi, aslında bir bilgisayar programı
+  bitcoin aslından buzdan kaleler gibi yani temel bileşenleri aynı su - yani kayıt sistemi ve alım satımdan oluşan trafik 
+  Bitcoin mimarisi
+  - temel bileşenler: Blockchain, Wallet, Network, Mining   ***
+  
+  belli sunucular ve alan adları var sunuculara gidilir
+  bu sunuculara gidilir
+  peer list alınır. seed server - başlangıç sunucusu
+  peer discovery - connection - güncel blok zamanına geldiğinde işlem yapabiliyoruz
+  merkeziyetsiz yapı için merkezi sistemlerine saldırmak
+  internet gibi bir merkzi yok internetin de servis sağlayıcı var
+  
+  wallet - özel anahtarlar ve hesaplar barındırır açar kullanırsın
+  özel bir arayüz kullanılır buna json rpc denir
+  json veri formatı kullanılır, işlemesi ve algılaması kolay bir format
+  cüzdan ile konuşma şeklmiz bu
+  cüzdanla belli bir formatta konuşmamızı sağlar
+  para gönderimi formatı vesaire
+  
+  blockchain - her bir bloğumuz var içerisinde outstanding transaction output bir muhasebe kaydı denilebilir
+    638594.blok diyelim vesaire
+    her bir bloğun bir ödülü var - 21milyon adet
+    her bloğu üretene azar azar inen bir ödülü var
+      blok 23445 --> zamandamgası-veri-hash0(kriptografiközet)-hash1
+                        linked list yapısıyla diğer bloğa referans verir
+      blok 23446 --> zamandamgası-veri-hash1(kriptografiközet)-hash2
+      blok 23446 --> zamandamgası-veri-hash2(kriptografiközet)-hash3
+      
+      hashlist - mining ve muhasebe kayıtları
+      10413 blok var - bitcoin ağı şuan itibariyle
+      global bitcoin düğümleri dağıtımını incele
+      
+  storage engine
+    headers, blocks, coins --> peer connection olduktan sonra işle gerçekleştirmek
+  
+  miner - ağda bulunan bir düğüm olarak işlem görebiliyor
+  
+  madencilik
+      işlemler - sayaç
+               -
+             SHA-256        birinci kere bu fonksiyondan geçirmek
+               -
+             SHA-256        ikinci kere bu fonksiyondan geçirmek
+                - 
+        10101011111001010    
+                < >
+        00001011011110111
+
+      farm'lar bu hesabı yapıp duruyor
+      bitcoin 10 dakikada bir kod oluşturuyor
+      30 yerine 60 0 bulunması gerekiyor. daha uzun sürüyor. bu zorluğu madenciliği düşürüp arttırıyor madecilerin sayısına bağlı olarak
+      İşlem Havuzunu incele
 
 
-7.2_Merkeziyetsiz Uygulama Geliştirme 1
+7.2_Geleneksel ve Merkeziyetsiz Uygulama Geliştirme 1
+    Geleneksel Uygulama geliştirme:
+      teknolojiler:
+      ön yüz(frontend): react, angular, js..
+      arkayüz(backend): php, java, c#..
+      veri tabanı(database): mysql, oracle..
+      
+      bitcoin: backend ve veri tabanı arasındadır
+      
+      geleneksel uygulamalar 
+      - genellikle kapalı kaynaktır
+      - açık kaynak olduğunda dahi içinde ne olduğu tam bilinmez
+      - aynı servisler tekrar tejrar yazılır
+      - başkasının koduna güven problemi
+      - interne giden şey sonsuza kadar oradadır
+      - güven - bir kaç tane sunucuya gittiğini bilmiyoruz bu yüzden silindiğine emin olamayız
+      - bulut bilişim problemleri "there is no cloud, it's just someone else's computer"
+      
+      blockchain bloğu indirip derlememizi sağlıyor ve sonuç dönüyor
+      yazdığın şeyin hep blockzincirde kalır dağınık defter ile herkese gidiyor ve ordan hash özeti alınıyor.
+      
 7.3_Merkeziyetsiz Uygulama Geliştirme 2
+    Merkeziyetsiz uygulamalar
+      DLT     Dağıtık defter teknolojisi
+      De-Fi   Decentralized finance
+      Dapp    Decentralized application
+
+      teknolojiler:
+      ön yüz(frontend): react, angular, js..
+      arkayüz(backend): solidity, java, go
+      veri tabanı(database): blockchain
+        akıllı kontrat geliştirip blockchain ağına atılır. arkayüze değil bllockchainin kendisiyle konuşur
+        backend blockchaine taşınır
+        solidity - js ve c karışımı dil
+          yazımı kolay ama deploy sonrası değiştirilmesi zor bu yüzden test aşaması iyi yapılmalı
+        
+      Hacker gibi düşünelim
+        - Merkezi uygulamalara siber saldırı nasıl olur
+        - Merkeziyetsiz uygulamalara siber saldırı nasıl olur
+        
+          Fidye Yazılımlar (Ransomware)
+            Merkezi: yedekleme yok ise algonun kırılıp kırılmadığı araştırılır., genellikle yapacak pek bir şey yoktur.
+            Merkeziyetsiz: işlevsizdir, sistem yeniden kurularak çözülebilir.
+                            a kişisini hacklemen bir şeyi değiştirmez, b, c ... binlerce kişilerinde dağıtık defterin bir kopyası var zaten.
+          Dağıtık Hizmet Engelleme (DDos Attack)
+            sunucuya çok fazla talep göndermek
+            Merkezi: güvenlik cihazlarına göre belli bir seviyede engellenebilir, çok büyük saldırılarda ise en büyük büyük şirketler dahi devre dışı bırakılabilir.
+            Merkeziyetsiz: serviste yavaşlama olabilir ancak trafik akışı durmaz
+            
+            Sistemler:
+              - centralized - tek merkezli
+              - decentralized - merkezsiz aslında çok merkezli gibi
+              - distributed - hasar almaz
+            
+          Gelişmiş Kalıcı Tehditler (APT)
+             Yeni Saldırı
+                uygulamanın kendisine saldırı
+                kütüphanelere saldırı
+                ** zero day - hiç kimsenin bilmediği hastalık.
+            
+          Sayıların gücü: Vires in numeris
+            - kriptoloji 1.ders özeti - kendi algoritmanızı oluşturmayın!
+            - SHA256
+            - eski kırılan şifreler
+            - kalıcılık (persistency)
+          
+          Bug Bounty Kavramı (Hata ayıklama) 
+            - yasal sızma testleri
+          
+          
+          BLOCKCHAIN PROBLEMLERİ
+            - ileride hashler kırılırsa ne olacak            -  Algorithm: MD5 Hash
+            - hız/ölçülebilirlik, güvenlik, merkeziyetsizlik
+            - özel blok zincirler
+            - açık ve özel anahtarların emanet edilmesi: kripto borsaların hacklenmesi. anahtarlar daha güvenli olmalı
+            - quantum bilgisayarlar?        - henüz genel bir quantum OS olmadı
+            - kullanıcıların eğitimi
+            
+            Blockchain Trilemma --> Scalability(Speed), Security, Decentralization
+                  
 7.4_Merkeziyetsiz Uygulama Geliştirme 3
+      Quantum Computers
+        Şifreleme mesafesi: bir line olarak düşünürsek kırılma belli bir noktadaysa standartda ayrı bir noktadadır.
+                            bir kırılma olduğunda standart noktada yer değiştirir.
+                            kırılma ilerlerse standart da ilerler 
+                            bu mesafeye güven mesafesi denir ara da baya bir bit olur
+                          
+      Blockchain ne zaman kullanılır?
+          do you need to store state/block/durum?   no --> dont use blockchain    - eski bloklara ihtiyacın yoksa kullanma
+          yes
+          are there multiple writers?   no --> dont use blockchain - bilgisayarda bir kişi varsa gerek yok, merkez oluyor işte
+          yes
+          can u use an always online TTP? no --> dont use blockchain  --> üçüncü partiler varsa gerek yok - bir otorite olmamalı
+          yes
+          are all writers known?        no --> permissionless blockchain
+          yes
+          are all writers trusted?      no --> is public verifiability required? --> no --> Private Permissioned Blockchain ** halka açık olan belli kişler varsa gerek yok - uzman olmamalı
+          yes                                   yes
+          dont use blockchain                   Public Permissioned blockchain
+          
+          
+          
 7.5_Blokzincirler İçin Kriptografi 1
 7.6_Blokzincirler İçin Kriptografi 2
 7.7_Blokzincirler İçin Kriptografi 3
