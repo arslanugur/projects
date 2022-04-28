@@ -1,1 +1,233 @@
+CRYPTOLOGY, PART 1
+Şifreleme: normalden farklı şekilde algılamamızı sağlayıp anlamamamızı sağlayan olgu.
+
+Kelimeler ve Rakamlar önemlidir.
+
+Kriptoloji nedir ve nasıl işler?
+  - anlaşılabileni anlaşılamayana dönüştürmek --> Kriptografi
+  - anlaşılamayanı anlaşılana dönüştürmek --> Kripto Analiz
+  
+  kryptos = gizli
+  graphien = yazmak
+  
+  kryptos + logos = gizlilik bilimi
+  sender = gönderici
+  receiver = alıcı
+  encoder = şifreleyici
+  decoder = şifre çözücü
+  
+  İlk dönemler: Scytale, Atbash, Caesar, Vigenere
+  Mekanik dönem: Japon Kırmızı ve mor makineleri, Alman Enigma # Turing
+  Modern dönem: Bilgisayar: 
+                Şifreleme Metotları:  Lucifer, Rijndael, RSA, EIGamal, MD
+                                      
+                Mors Alphabet
+                Braille Alphabet
+                Barcode Alphabet
+                Pigpen Şifreleme
+                Skytale - Sparta Batonu
+                Rail Fence - Demiryolu Çifti
+                Francis Bacon Block Şifreleme
+                Vigenere Şifreleme
+                Stenography alphabet
+                Enigma --> 26x26x26 = 17576 Şifreleme
+                
+      - 60 tabanlı sayı sistemi
+      1'den 30'a kadar farklı rakamlara bölünebilen bir yapıya sahip sistemdir.
+      güneşin gölgesi sopa yardımıyla toprağa yansıması
+      60 sec - 60 min - 24 hours - 30 days - 360 days
+      Tavla oyunu, Satrança karşıdır. - Hint vs Pers
+      Tavla
+        4 sides = 4 seasons
+        6 lines = 12 months
+        black = night
+        white = day
+        12 lines = 24 hours
+        dice = almost infinity 
+        
+        
+
+
+NUMBER SYSTEMS:
+  - 2, 10, 16 sistemler
+    Binary      ikili 
+    Decimal     onlu
+    Hexadecimal onaltılı
+  
+  - 2'lik sayı sistemi
+  
+                byte
+          ---------------
+          0 1 0 1 0 0 1 0         --> 0 ve 1lerden oluşan sayılar
+           \     \
+           bit    bit             
+           
+           
+      8 bits = 1 byte     
+           
+           
+      1     2     4     8     16    32    64    128
+      ---------------------------------------------
+      2^0   2^1   2^2   2^3   2^4   2^5   2^6   2^7   --> indexes
+
+
+    name    abbv  size
+    -------------------
+    kilo    k     2^10 = 1,024
+    mega    m     2^20
+    giga    g     2^30
+    tera    t     2^40
+    peta    p     2^50
+    exa     e     2^60
+    zetta   z     2^70
+    yotta   y     2^80
+
+
+
+    # İkili sayı sistemini decimal'e dönüştürme
+    1001100101
+    ----------
+    1     0     0     1     1     0     0     1     0     1
+    *     x     *     *     *     *     *     *     *     *
+    2^9   2^8   2^7   2^6   2^5   2^4   2^3   2^2   2^1   2^0
+    ------------------------------------------------------------
+    512   0     0     64    32    0     0     4     0     1     = 613
+
+
+    # İkili sayı sistemine dönüştürme
+      1316  : 2 = 658   --> 0
+      658   : 2 = 329   --> 0
+      329   : 2 = 164   --> 1
+      164   : 2 = 82    --> 0
+      82    : 2 = 41    --> 0
+      41    : 2 = 20    --> 1
+      20    : 2 = 10    --> 0
+      10    : 2 = 5     --> 0
+      5     : 2 = 2     --> 1
+      2     : 2 = 1     --> 0
+      1     : 2 = 0     --> 1
+                              -------------> 10100100100
+
+
+  - 10'luk sayı sistemi
+      111
+         1 * 10^0 = 1
+         1 * 10^1 = 10
+         1 * 10^2 = 100
+                    111 = total
+
+
+
+    - 16'lık sayı sistemi
+      0 1 2 3 4 5 6 7 8 9 A  B  C  D  E  F
+      -------------------------------------
+      0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 ---> indexes
+      
+    
+    A <---  10 * 16^3 = 40960
+    5 <---  5 * 16^2 = 1280
+    9 <---  9 * 16^1 = 144
+    C <---  12 * 16^0 = 12
+                        ---> 42396   = A59C
+                        ---> decimal = hexadecimal
+    
+    TRANSLATIONS
+    10          2           16
+    Decimal     Binary      Hexidecimal
+    -----------------------------------
+    0           0000000     00
+    1           0000001     01
+    2           0000010     02
+    3           0000011     03
+    4           0000100     04
+    5           0000101     05
+    6           0000110     06
+    7           0000111     07
+    8           0001000     08
+    9           0001001     09
+    10          0001010     0A
+    11          0001011     0B
+    12          0001100     0C
+    13          0001101     0D
+    14          0001110     0E
+    15          0001111     0F
+    16          0010000     10
+    
+    
+    
+    ASCII KARAKTER TABLOSU
+    American Standard Code for Information Interchange
+    Bizim bastığımız tuştaki bilgisayardaki elektrik sinyallerine denk gelen yapıyı oluşturur.
+    Decimal   Hexidecimal   Binary    Octal   Char
+    -----------------------------------------------
+    65        41            1000001   101     A
+    ...
+    97        61            1100001   141     a
+    
+    
+    Asal sayılar: 1'e ve kendine tam bölünebilen sayılar
+
+
+
+CRYPTOLOGY, PART 2
+Blockchain ve Cryptology Relation
+  - Crypto Hash Functions: Kriptolojik özet fonksiyonları
+  - Private & Public Key Cryptography: Açık anahtarlı şifreleme
+  - RSA Key & Digital Sign: RSA ile verileri dijital imzalamak
+
+Crypto Hash Functions
+  ister 1 ister trilyonlarca karakteri her zaman sabit sayıda karakter olarak tanımlamak
+    a = 2948394839j3829yf39f20e03id023u4fi3di23ldd23u58d44i23ldd23u58d44
+  SHA256 özet fonksiyonu algoritması 64 karakterlidir.
+    2^256, yani 77 adet sıfır hanesinden oluşan imkan sunuyor
+                toplamında da her bir bit karşılığında 64 karakterlik bir çıktı sunuyor.
+  
+  * SHA1, SHA3, BASE4, MD5 benzer algoritmalardır.
+  
+  
+  Pratikte nasıl kullanılır?
+  Blockchain Demo: andersbrownworth.com/blockchain/hash
+  # Bu site bizim için hash özet fonksiyonu oluşturmuş olur.
+
+
+Simetrik ve Asimetrik Şifreleme
+  Simetrik: Aynı anahtarla şifrelediğimiz hem de açmak için aynı anahtarı kullandığımız şifreleme yöntemi 
+            Daha hızlıdır, ama güvenliği azdır.
+            
+            A kişisi B kişisine mektup gönderir ama açmak için B kişinin anahtara ihtiyacı vardır.
+            A anahtarı da gönderir. ama aradaki gönderim güvenli değil.
+
+
+  Asimetrik: 
+            Kişiler posta kutusuna mektupları atar ama buna erişemezler sadece postacı erişir. 
+            Anahtar sadece postacıda vardır yani
+            
+            Burda Private ve Public Key'i RSA algoritmasıyla kullanmamız gerekir.
+            
+            RSA Algoritması:
+            
+                  person A              person B
+                  🟡 A private key      🟡 B private key
+                  🟢 A public key       🟢 B public key
+                  ---------------- SWAP ----------------
+                  🟢 A public key       🟢 B public key
+                  🟢 B public key       🟢 A public key
+
+            Private ve Public Key ne işe yarar?
+                A yollayacağı mesajı public key ile kilitleyip, B alıcısına yollar.
+                  🟢 B public key ile mesaj yollanır -------------> 🟡 B private key ile mesaj açılır
+                
+            Digital Sign nedir? (Dijital İmza)
+                A'nın public key = anahtar
+                A'nın private key = kilit
+                    A mesajı hem public hem de private key ile gönderir, karşı taraftaki kişi/kişiler A'nın public ve private key ile mesajı açarlar.
+                      yine araya kötü niyetli kim girerse girsin mesajı açamıyor.
+            
+
+CRYPTOLOGY, PART 3
+Online RSA Key Generator: travistidwell.com/jsensrypt/demo/
+
+
+
+
 
