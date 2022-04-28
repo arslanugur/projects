@@ -1,1 +1,35 @@
+body{
+  background-color: #000;
+}
+
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  perspective: 500px;
+}
+
+.card {
+  position: relative;
+  width: 250px;
+  height: 350px;
+  margin: 10%;
+  background: url('./card.jpg') center no-repeat;
+  background-size: cover;
+  border: 2px solid violet;
+  border-radius: 10px;
+  transform-style: preserve-3d;
+  will-change: transform;
+  transition: all .5s ease-out;
+}
+
+.title{
+  color: violet;
+  position: absolute;
+  top: 40%;
+  right: 10px;
+  transform: translatey(-50%);
+  transition: transform .5s ease-in;
+}
+
 
