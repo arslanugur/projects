@@ -495,15 +495,49 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
     az para -- çok insan -- kitlesel fonlama
     
     blokzincir mimarilerinin sağlı sektörüne uygunluğu
+
+          ----------------- kullanıcılara verilen veriye erişim ve değişiklik yapabilme yetkisine göre mimari
+          izne        izne
+          tabi        tabi
+          olmayan
+          -------   --------
+    kamu  xxx       xvv       # veri mülkiyetine ve muhafaza edildiği ağyapısına göre mimari
+    özel  xxv       vvv
     
-    
-    
-    
+    A blockchain based cognitive framework for oncology
+    - data governance - veri yönetişimi
+    - hastaa odaklı veri mülkiyeti
+    - doğal dil işlemcisiyle hızlı klinik veri toplama
+    - kitle zekası ile tedavi yöntem oylaması (tüm doktorların kararı)
+
+    kripto akçeli kullanım modelleri
+    - sanal tümor heyeti
+    - klinik deneyler
+    - nadir hastalıklarda görüş odaklı tıptan bulguya dayalı tıp (EBM) doktorlar oy atıyor
     
 6.6_Sağlık Sektörüe Uygulama Geliştirme 2
+    Kripto-Ekonomik Model - sağlık uygulması
+      Yaşlı bakımı - evde bakım gerontolog, fizyoterapi - hizmet alım teyidi (insan) - hizmet alım teyidi (makina/IoT) -- hizmet doğrulama -- kriptoparasal ödeme 
+    Kullanıcı adaptasyonu zaman alacak - protokole olan inanç yüksek ancak kripto para kullanıcı adaptasyonu az
+      emekliler, esnaf, borsalar, sağlık çalışanları, işsizler, yatırımcılar
+    
+    Programlanabilir Para döneminin yönetişim esasları
+        - permissionless - akdi izne gerek olmadan (hukuksal yapıda)
+        - trustless - güven tesisine gerek olmadan
+        - p2p - aracısız
+        # merkezi regülasyondan protokol tabanlı öz-regülasyona evriliyoruz
+        
+    Paradigmasal (düşünsistem) kayma
+        merkezi devlet demokratik sistemlerine güven azalırken protokol tabanlı dağınık ve otonomiye dayalı demokratik sistemlere olan güven gittikçe artıyot... in DAO we trust
+        -devletler para basma işini kötüye kullanıyor. bu da enflasyona sebep
+        
+
+
 
 # 7.Blokzincir Platformlarının Teknik Altyapısı
 7.1_Bitcoin’İn Teknik Temelleri
+
+
 7.2_Merkeziyetsiz Uygulama Geliştirme 1
 7.3_Merkeziyetsiz Uygulama Geliştirme 2
 7.4_Merkeziyetsiz Uygulama Geliştirme 3
