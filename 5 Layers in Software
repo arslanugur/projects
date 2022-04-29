@@ -1,0 +1,6 @@
+5 Layers in Software
+1. UI           - How Data Is Represented.
+2. API          - How Data Is Fetched.
+3. DATABASE     - How Data Is Stored.
+4. LOGIC        - How Data Is Processed.
+5. HOSTING      - How Data Is Hosted.
