@@ -1,0 +1,27 @@
+/* NOTE: This effect only works with certain color combinations. */
+/* If using white, use a mix-blend-mode of screen instead. */
+
+.showcase {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+}
+
+.showcase video {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.title {
+  width: 100%;
+  height: 100%;
+  background-color: #000;
+  font-size: 100px;
+  color: #fff;
+  mix-blend-mode: multiply;
+}
+
