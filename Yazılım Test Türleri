@@ -1,0 +1,23 @@
+KARA KUTU TESTİ
+Kara kutu testi girdiler ve çıktıların analizidir. 
+Sisteme hangi girdileri verdiniz ve bu girdiler karşısında istediğiniz çıktıları alıyor musunuz bu kontrol edilir.
+Bu test metodolojisinin altındaki test türleri şunlardır:
+• Fonksiyonelite Testi
+• Performans Testi
+• Kullanılabilirlik Testi
+• Güvenlik Testi
+• Stres Testi
+• Regresyon Testleri nupa
+• Kabul Testleri
+
+
+BEYAZ KUTU TESTİ
+Beyaz kutu testinde testi yapacak kişi koda hakimdir, test koşulları hakim olunan kodlarla geliştirilir.
+Bu metodolojinin altında bulunan test türleri şunlardır:
+• Birim Test
+• Integration Test
+• Performans Testi
+• Stres Testi
+• Recovery Test
+• Conformance Test
+
