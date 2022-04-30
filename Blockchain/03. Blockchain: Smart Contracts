@@ -1,0 +1,189 @@
+Geleneksel Sözleşmeler
+    Kişiler ve Nesneler Hakkında
+    Yazılı Tanım (Dil)
+    Yorumlanabilir Tanım
+    Ceza ve Yaptırım Mekanizması
+
+Akıllı Sözleşmeler
+    Aslında bilgisayar programları
+    Otonom Programlar
+    Şeffaf
+    İz Bırakır ve değiştirilemez (versiyon değişimi başka bir durum)
+    Geri döndürülemez, işlem bir kere olur
+    İnternete diğer sözleşmelere bağlı
+    Para gönderir, alır ve depolar
+
+    "Akıllı kontratların ilk örneklerinden biri yiyecek otomatlarıdır."
+    1997, Kamusal Ağlarda İlişkileri Tanımlama ve Güvence altına alma. Nick Szabo
+    Kurallar baştan belli, bakkal market aracılığı yok
+
+
+# Akıllı Kontrat Platformları
+Açık (Permissionless/İzinsiz)
+      ETHERIUM      QTUM        EOS                 BITSHARES
+      LISK          NXT         RADIX               WAVES
+      UBIQ          DFINITY     ETHERIUM CLASSIC    BITCOIN
+      NEO           TEZOS       URBIT               CALYSTO
+      COUNTERPARTY  ROOTSTOCK
+      
+Kapalı (Permissioned/İzinli)
+      APLA          CARDANO     CORDA               HYPERLEDGER
+      NEM           CIPHER
+      
+Etherium üzerinde kurulmuş bir akıllı kontrattan söz edersek; Imogen Heap albümü
+Müzisyen aracıları ortadan kaldırarak dinleyicileriyle buluşabiliyor, aynı yiyecek otomatında olduğu gibi
+
+Geleneksel Kiralama Sözleşmesini göz önüne alırsak
+    Adres, Kiracı adı, Kiralayan adı vs
+    Yükümlülükler: bu kiracı başkasına kiraya veremez gibi
+    Akıllı formatta bu formatta
+    Akıllı kontratta kiranın 5 btc olduğu yazar ama kontrat btc güncel kurunu bilmez bunun için oracle ihtiyaç vardır.
+    Deterministic sonuçla çalışırlar: girdisi aynı olduğu sürece çıktısı da aynıdır.
+    havanın kaç derece olduğu deterministic bir bilgi değildir. sana göre sıcak bana göre soğuk ya da şehre coğrafyaya göre farklılık gösterir
+    
+# Kira Sözleşmesi Solidity programlama dili sayesinde nasıl akıllı kontrata dönüşür
+Code:
+pragma solidity ^0.4.0;
+contract RentalAgreement {
+  /* This declares a new complex type which will hold the rents */
+  struct PaidRent {
+  uint id; /* The paid rent id*/
+  uint value; /* The amount of rent that is paid */
+  }
+
+  PaidRent[] public paidrents;
+
+  uint public createdTimestamp;
+
+  uint public rent;
+  /* Combination of zip code and house number */
+  string public house;
+  
+  address public landlord;
+  address public tenant;
+  enum State {Created, Started, Terminated}
+  State public state;
+  
+  function RentalAgreement{uint _rent, string _house) {
+    rent = _rent;
+    house = _house;
+    landlord = msg.sender;
+    createdTimestamp = block.timestamp;
+  }
+
+  modifier require(bool _condition) {
+     if (!_condition) throw;
+     _;
+  }
+  modifier onlyLandlord() {
+     if (msg.sender != landlord) throw;
+     _;
+  }
+  modifier onlyTenant() {
+     if (msg.sender != tenant) throw;
+     _;
+  }
+  modifier inState(State _state) {
+    if (state != _state) throw;
+    _;
+    
+/* We also have some getters so that we can read the values from the blockchain at any time */
+  
+  function getPaidRents() internal returns (PaidRent []) {
+    return paidrents;
+  }
+  
+Bu kodda bazı değişkenler ve veri türleri var.
+Öncelikle biz kiracıyı, ev sahibini ve mülkü belirlememiz lazım
+Ayrıca bu süre içerisinde ödenmiş olan bazı yapıları tutacağız
+Etherium sisteminde kişiler yoktur her zman adresler vardır
+hem evsahibi hem de kiracı için bir adres kullanacağız
+zaman blockchainde bloklar üzerinden ölçülüyor takribi 15 saniye üzerinden her blok ölçülüyor.
+ilk bloğun ne zaman üretildiğini biliyoruz. buna göre hangi zamanda olduğumuzu ölçme imkanımız var.
+buna göre bir ödeme alırken kullanırken zamanı bu şekilde kullanarak kayıt altına alcaz
+Sistemde her değişkene belli bir erişim var. herkes her zman bu değişkenlere erişemeyecek
+bazılarının sadece evsahibinin erişmesine
+bazılarının sadece kiracının erişmesine izin vreceğiz
+bazılarına da sadece kontrat erişebilecek
+herkesin okuyabileceği ve değerlendirebileceği verileri de dışarı açacağız
+bir çok şeyi işlevler/fonksiyonlar aracılığıyla yapacağız
+değişkenleri veri yapılarının içindeki verileri sıfırlayıp kurcaz ardından da fonksiyonlar yardımıyla bunları değiştircez
+
+
+event: bir durum gerçekleştiğinde değiştiğinde bunları takip eden kullanıcılara yazılımlara bunu bildirmek istiyoruz
+Code:
+function getTenant() constant returns (address) {
+    return tenant;
+}
+
+function getRent() constant returns (uint) {
+    return rent;
+}
+
+function getContractCreated() constant returns (uint) {
+    return createdTimestamp;
+}
+
+function getContractAddress() constant returns (address) {
+    return this;
+}
+
+function getState() returns (State) {
+    return state;
+}
+
+
+/* Events for DApps to listen to */
+event agreementConfirmed();
+event paidRent();
+
+event contractTerminated();
+
+/* Confirm the lease agreement as tenant */
+function confirmAgreement()
+inState(State.Created)
+
+event contractTerminated ();
+
+/* Confirm the lease agreement as tenant E
+function confirmAgreement()
+inState(State.Created)
+require(msg.sender != landlord)
+{
+    agreementConfirmed();
+    tenant = msg.sender;
+    state = State.Started;
+}
+function payRent ()
+onlyTenant
+inState(State.Started)
+require(msg.value == rent)
+{
+    paidRent();
+    landlord.send(msg.value);
+    paidrents.push(PaidRent ({
+    id: paidrents.length + 1,
+    value: msg.value
+    }));
+}
+
+kira ödenip ödenmediği, kontratın sonlandırıldığı gibi durumlarda hepsini kontratta göstermek mümkün 
+hacize dair şeyleri de bunlarla başlatmak mümkün - burdaki kayıtlar esas alınabilir. hukuki düzlemde
+bakiye varsa bakiye tutulur
+kontrat boyunca tüm kiraların ödenmesi
+kira ether cinsinden ya da etherium adı üzerinde tanınmış tokenlar usdt
+geri dönük olarak izlenebilir yani geçmişini görebiliriz
+
+yani yaptığımız veri yapıları ve değişkenler kullanarak birşeyi modelleme.
+bunlar bir durumdan diğerine geçen işlevlere fonksiyonlara sahip modelleme.
+herkesin mutabık olduğu şekilde bu değişikliklerin yapılması
+burdaki mevzu güvenilir 3.kuruma gerek kalmadan banka gibi kontrat sahipleri arasındaki güveni kontratın kendisi sağlıyor
+
+
+
+
+
+
+
+
+
