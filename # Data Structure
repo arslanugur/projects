@@ -529,4 +529,59 @@ Interview Questions
 - list the area of applications where stack data structure can be used?
 
 
+Stack (LIFO) Example:
+-----------------------------------------------------------------------------
+Java Code:
+import java.util.Stack;
+public class Wecodeinpython{
+  public static void main(String []args){
+    Stack<Integer> stack= new Stack<>();
+
+    for(int i=0; i<5; i++)
+    {
+        stack.push(t);
+    }
+    System.out.println("Stack => " + stack);
+    System.out.println();
+    Integer numAtTop = stack.pop();
+    // Throws EmptyStackException if the stack is empty
+    System.out.println("Stack.pop() => " + numAtTop);
+    System.out.println("Current Stack => " + stack);
+    System.out.println();
+    // Get the item at the top of the stack without removing it
+    numAtTop = stack.peek();
+    System.out.println("Stack.peek() => " + numAtTop);
+    System.out.println("Current Stack => + stack);
+  }
+}  
+
+Python Code:
+stack = []
+for i in range(5):
+  stack.append(1)
+
+print("Stack => ", stack)
+nunAtTop = stack.pop()
+print("stack.pop() => ", nunAtTop)
+
+print("Current Stack => ", stack)
+# get number at the top without removing it
+print("stack.peep() => ", stack[-1])
+# Current stack
+print("Current Stack => ", stack)
+
+# Output:
+Stack => [0, 1, 2, 3, 4]
+
+Stack.pop() => 4
+Current Stack => [0, 1, 2, 3]
+
+Stack.peek() => 3
+Current Stack => [0, 1, 2, 3]
+-----------------------------------------------------------------------------
+
+
+
+
+
 
