@@ -226,8 +226,37 @@ Simetrik ve Asimetrik Şifreleme
 
 CRYPTOLOGY, PART 3
 Online RSA Key Generator: travistidwell.com/jsensrypt/demo/
+        private ve public key yaratır
+        
+        -> RSA Encryption Test --> ne hale geldiği bilinmez şifreli hale gelir
+        -> Digital Sign haline getirmek
 
+# andersbrownworth.com/blockchain/hash
+bir kripto para nasıl oluşur
+  SHA256 Hash
+        Data:
+        Hash:
+  
+  Block
+        Block: # 1
+        Nonce:
+        Data:
+        Hash: 
+        
+        İlk dört rakam 0 olmalı, Nonce - Mine (bulmacayı bulmak için yaptığı denemeler)
 
+# andersbrownworth.com/blockchain/blockchain
+Block: #1
+Nonce: 50361 --> nonce değeri arar bulunur
+Data: hello world
+Prev: önceki bloğun özeti yer alır. genesis bloğu hariç
+Hash: 0000
+      Mine
+      Olay zorlaştıkça npncee uzadıkça bulmak zorlaşır.
+      blocktaki değişiklik bloğu komple bozar
+      distributed Blockchain - Peer A, Peer B - dağıtık yapı bozulmaz
 
-
-
+Token: tx: para aktarmaları da aynı şekilde
+Coinbase Transactions: herhangi bir blockchain ağı kripto paraya nasıl dönüşüyor
+                       kendimize gönderiririz genesis blockda
+                       sonrası token tx kısmı tabloda/blockda yerini alır transferler  
