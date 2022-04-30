@@ -22,6 +22,24 @@ Inheritance:
 Inheritance is the process of adopting the features of Parent(Base) class. 
 Inheritance allows the child class to acquire properties and functionality of Parent class. 
 If a child class inherits from a parent class then child class will have it own as well as parent class members and functions.
+Code:
+class Person:
+  def __init__(self, fname, 1name):
+    self.firstname = fname
+    self.lastname = lname
+
+  def printname (self):
+    print (self.firstname, self.lastname)
+
+class Student (Person):
+  pass
+
+x = Student("Mike", "Olsen")
+x.printname()
+
+
+
+
 
 Polymorphism:
 We can divide the word Polymorphism in two pieces "Poly" which means "multiple" and "morphism" which means "forms".
