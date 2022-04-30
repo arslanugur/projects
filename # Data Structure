@@ -510,7 +510,9 @@ Advanced Data Structures
         Advance Graph Theory
 
 
-
+scalar    vector    matrix      tensor    
+  1         1       1   2     1 2    3 2
+            2       3   4     1 7    5 4
 
 
 
