@@ -1,0 +1,8 @@
+git init                        Lokal bir git repository'si oluşturur.
+git clone repo_url              Herkese açık github reposunu klonlar
+git status                      Son durumu görüntüler
+git add [dosya-ismi]            İsmi girilen dosyayı staging kısmına ekler
+git commit -m "commit mesajı"   Değişiklikleri commit'ler
+git branch                      Branch'leri listeler
+git merge [branch name]         Aktif olan branch'e birleştirme işlemi yapar.
+git push origin [branch-name]   İsmi yazılan branch'e dosyaları push'lar.
