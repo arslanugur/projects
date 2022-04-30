@@ -1,0 +1,26 @@
+React Nedir?
+  Kullanıcı Arayüzleri oluşturmak için Facebook tarafından geliştirilen bir Javascript kütüphanesidir.
+  View Katmanı (Model - View - Controller)
+  Virtual Dom ve Performans
+  Component Tabanlı
+  ES6 Syntaxi
+  JSX Formati
+
+Jquery ve JS ile arayüz geliştirirken Real Domda değişiklik olmayan yerler bir tekrardan taranır ve render edilir. 
+Ancak React Virtual Dom mimarisini kullanarak sadece değişikliğin olduğu veri tekrar render eder
+
+
+
+Virtual Dom Nedir ?
+  Gerçek Dom'un (Real Dom) Bellekteki kopyasıdır.
+  Document Objeleri Key-Value olarak bulunur.
+  Güncellenme anında bellekte 2 adet Virtual Dom (Snapshot) bulunur.
+  Sayfada sadece değişikliğin olduğu yer güncellenir. (State değiştiğinde)
+  Performans Artırır.
+  diff algoritması
+  
+  Virtual DOM             \
+                            Diff  ---> DOM
+  updated Virtual DOM      /
+
+
