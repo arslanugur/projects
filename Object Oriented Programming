@@ -1,0 +1,44 @@
+The four pillars of object-oriented programming are:
+  Abstraction
+  Encapsulation
+  Inheritance
+  Polymorphism
+
+
+Abstraction:
+Abstraction is the process of hiding implementation details and showing only the necessary part to the outside world.
+Example:
+Sending an email is one of the best example of Abstraction.
+While sending email, we write the email body, subject and provide recipient address and simple send email but we don't know the implementation details of backend functionality.
+
+
+Encapsulation:
+Encapsulation is the process of putting data and functions in a single entity i.e. encapsulate data and methods in a cell which we called class in object oriented programming.
+In class we hide/protect data with the help of access modifiers.
+In simple words "Encapsulation" is the mechanism of access control i.e data hiding.
+
+
+Inheritance:
+Inheritance is the process of adopting the features of Parent(Base) class. 
+Inheritance allows the child class to acquire properties and functionality of Parent class. 
+If a child class inherits from a parent class then child class will have it own as well as parent class members and functions.
+
+Polymorphism:
+We can divide the word Polymorphism in two pieces "Poly" which means "multiple" and "morphism" which means "forms".
+In OOP the word Polymorphism refers to multiple forms of an object.
+There are two types of Polymorphism in OOP:
+  • Method Overloading
+  • Method Overriding
+
+Polymorphism - Method Overloading:
+Method Overloading is also called Compile time Polymorphism.
+Method Overloading is the concept of having different functions/methods with same name but with different number of parameters or different types of parameters. 
+Note that Overloading is never done by method return type.
+
+Polymorphism - Method Overriding:
+Method Overriding is also called Runtime Polymorphism.
+Method overriding is the process of overriding the base class methods in to the child classes.
+
+
+
+
