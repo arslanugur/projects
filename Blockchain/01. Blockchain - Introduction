@@ -173,7 +173,7 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
       - Test edilmeyen zincirler
     
     Merkezsiz Finans (DeFi)
-      Herkese açık blokzincir temelli dağınık ağlar üzerinde çalışan finansal uygulmalar ekosistemi
+      Herkese açık blokzincir temelli dağınık ağlar üzerinde çalışan finansal uygulamalar ekosistemi
       Her bireyin finansal hizmetlere kolay erişimini sağlar
       
 3.2 Blokzincir Kriptopara Ekosisteminde Blokzincirler Arası Çalışabilirlik Ve Devlet Dijital Paraları
@@ -212,7 +212,7 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
       1963 yılında 5 dolar
       1957 - In God we trust
       1944 - 1971 Bretton Woods Anlaşması - Dolar karşılığı altın veriliyor
-      1973 - Petro Dolar - Çıkarılan petrol Dolarla al sat yapımı
+      1973 - Petro Dolar - Çıkarılan petrol Dolarla al sat yapımı - Amerikanın arap ülkelerini ikna etmesi
       
 4.2 Kripto Değerlerin Felsefi Temelleri
       Friedrich Hayek
@@ -243,17 +243,30 @@ Arabulucu: Dernek/Vakıf/Belediyeler     --> Aradan çıkması gerekli ve blockz
       Bir programlama dili değil
       Bir yapay zeka veya makine öğrenme teknoloji değil
       Bir kodlama çerçevesi veya bir kod kütüphanesi değil
-      Blockchain - Zincirlenmiş bir şekilde çalışan, ağa katılan tüm bilgisayarlar tarafından gözlemlenebilen ve dağınık bir şekilde depolanan bilgi blokları bütünüdür.
+      
+      Blockchain:
+        Zincirlenmiş bir şekilde çalışan, ağa katılan tüm bilgisayarlar tarafından gözlemlenebilen ve dağınık bir şekilde depolanan bilgi blokları bütünü.
       
       Temel Bileşenler
-        - Eşler arası ağ (P2P): Blockchain ağı bir otoriteye ihtiyaç duymaz. Ağa katılan her bir bilgisayar karar mekanizmasının bir parçası olmuş olur.
+        - Eşler arası ağ (P2P): Blockchain ağı bir otoriteye ihtiyaç duymaz. 
+                                Ağa katılan her bir bilgisayar karar mekanizmasının bir parçası olmuş olur.
         - Fikir Birliği / Consensus: Proof of Work-Efor Kanıtı, Proof of Stake-Paydaşlık Kanıtı
-                                      BFT: Bizans Generalleri Yaklaşımı: Blockzincirde ağdaki bilgisayarların karar birliğine varılması 
-                                      Diğer yöntemler: Sistemin İhtiyacına, zincirin çalışma prensibine göre hali hazırda bulunan metotlarda kullanılabilir, yeni bir geliştirme de yapılabilir.
-                                      POA (proof of authority), POC (proof of contribution), POV (proof of vote)
-        - Değişmez defterler: Klasik bir muhasebe defterinden farksızdır. Ama belirli kişi ve kişilerce kontrol altında tutulmaz. Kilit altında değildir. Ağa katılan tüm bilgisayarlar açıktır. Geri dönük olarak değiştirilemez.
-        - Madencilik kavramı/süreci: katılımcılar, madenciler olarak isimlendirilir. asıl olarak işlemlerin gerçekleşmesi, kaydedilmesi ve blokların onaylanması görevlerini üstlenen defter tutuculardır. Ödüllerini de alırlar
-        - Hash Algorithmaları (Özetleme fonksiyonları): Değişken uzunluktaki verileri, değişken olmayan uzunlukta sayı-harf dizisine haritalamak için kullanılan kriptografik fonksiyonlardır.
+                                     BFT: Bizans Hata Toleransı (Byzantine Fault Tolerance – BFT) 
+                                     Bizans Generallerinin Yaklaşımı: 
+                                            Birbirlerine sadece ulak yoluyla haber yollayabilen generallerin, 
+                                            saldırı ya da geri çekilme hamlesinde fikir birliğine varmaları konusundaki açmazı ele alır.
+                                     Blockzincirde ağdaki bilgisayarların karar birliğine varılması. 
+                                     Diğer yöntemler: Sistemin İhtiyacına, zincirin çalışma prensibine göre hali hazırda bulunan metotlarda kullanılabilir, yeni bir geliştirme de yapılabilir.
+                                     POA (proof of authority), POC (proof of contribution), POV (proof of vote)
+        - Değişmez defterler: Klasik bir muhasebe defterinden farksızdır. 
+                              Ama belirli kişi ve kişilerce kontrol altında tutulmaz. Kilit altında değildir. 
+                              Ağa katılan tüm bilgisayarlar açıktır. Geri dönük olarak değiştirilemez.
+        - Hash Algorithmaları (Özetleme fonksiyonları):
+                              Değişken uzunluktaki verileri, değişken olmayan uzunlukta sayı-harf dizisine haritalamak için kullanılan kriptografik fonksiyonlardır.
+        - Madencilik kavramı/süreci: Katılımcılar, madenciler olarak isimlendirilir. 
+                                     # Asıl olarak işlemlerin gerçekleşmesi, kaydedilmesi ve blokların onaylanması görevlerini üstlenen defter tutuculardır. 
+                                     Nonce bularak, ödüllerini de alırlar. 
+                                     Bitcoin madenciliği için üst seviye bilgisayarlar gerekli olduğu için bu yüzden zor biraz
         - Cüzdanlar: ağ içerisinde size ait değerlere ulaşmanızı sağlar ve sizin siz olduğunuzu kanıtlamanızı sağlayacakveri parçalarını tutar.
                       (özel anahtarlar) İlgili blockchain ile direkk olarak etkileşmenizin tek yoludur.
         - Bir Node (ağa katılan bilgisayar) nasıl bir yol izler?
