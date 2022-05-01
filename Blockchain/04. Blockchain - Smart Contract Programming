@@ -11,51 +11,51 @@ ERC721, rozet gibi bir tane üretiliyor - nonfundable, harcanamaz, tekilliği va
 # standart yapılan işlerde değişim yapmamak en iyisidir. kodu baştan yazmaya kalkma yanlış bir yaklaşım olur
 Libraries: SafeMath
 
-// Code:
+// Code: Solidity
 // Original Code: https://docs.openzeppelin.com/contracts/4.x/erc20
 // This code was changed from the original
-pragma solidity >-0.4.0 <0.7.0;
+pragma solidity >=0.4.0 <0.7.0;
 
-contract MyToken {      // Token adını girebilirsiniz
+contract ArslanToken {      // Token adını girebilirsiniz
 
-    string public constant name = "sToken";     // uzun adının ne olcağını giriyorsunuz
-    string public constant symbol = "STK";      // ATC - kısaltması
+    string public constant name = "ArslanToken";     // uzun adının ne olcağını giriyorsunuz
+    string public constant symbol = "ATC";      // ATC - kısaltması
     uint8 public constant decimals = 18;        // 0'dan sonra kaç haneli olacak
 
-    event Approval(address indexed tokenOwner, address indexed Spender, uint tokens);
+    event Approval(address indexed tokenOwner, address indexed spender, uint tokens);
     event Transfer(address indexed from, address indexed to, uint tokens);
 
-    mapping(address -> uint256) balances;
+    mapping(address => uint256) balances;                       // Bir cüzdan adresi karşılığında rakam tutmasını istiyorum (hash map - haritalandırma)
     
-    mapping(address -> mapping (address -> uint256)) allowed;
+    mapping(address => mapping (address => uint256)) allowed;
     
-    uint256 totalSupply_;
+    uint256 totalSupply_ ;
 
     using SafeMath for uint256;
 
-    constructor(uint256 _totalsupply) public{
-        totalSupply_ = _totalsSupply;
-        balances[msg.sender] = totalsupply_;
+    constructor( uint256 _totalSupply) public{                  // contract sahibi yapıcıyı atar.
+        totalSupply_ = _totalSupply;                            // bütün parayı bu adresin bakiyesine aktar
+        balances[msg.sender] = totalSupply_ ;
     }
 
     function totalSupply() public view returns (uint256) {
-    return totalsupply__;
+    return totalSupply_;
     }
 
-    function balanceof(address tokenowner) public view returns (uint) {
-        return balances [tokenOwner];
+    function balanceof(address tokenOwner) public view returns (uint) {
+        return balances[tokenOwner];
     }
 
     function transfer(address receiver, uint numTokens) public returns (bool) {
-        require(numTokens <- balances[msg. sender]);
-        balances[msg, sender] - balances[msg.sender].sub(numTokens);
+        require(numTokens <= balances[msg. sender]);
+        balances[msg.sender] = balances[msg.sender].sub(numTokens);
         balances[receiver] = balances[receiver].add(numTokens);
         emit Transfer (msg.sender, receiver, numTokens);
         return true;
     }
 
     function approve(address delegate, uint numTokens) public returns (bool) {
-        allowed[msg.sender ][delegate] = numTokens;
+        allowed[msg.sender][delegate] = numTokens;
         emit Approval(msg.sender, delegate, numTokens);
         return true;
     }
@@ -65,11 +65,11 @@ contract MyToken {      // Token adını girebilirsiniz
     }
 
     function transferFrom(address owner, address buyer, uint numTokens) public returns (bool) {
-        require(numTokens <- balances [owner]);
-        require(numTokens <- allowed[owner][msg.sender]);
+        require(numTokens <= balances [owner]);
+        require(numTokens <= allowed[owner][msg.sender]);
 
         balances[owner] = balances[owner].sub (numTokens);
-        allowed[owner][msg.sender] - allowed[owner][msg.sender].sub(numTokens);
+        allowed[owner][msg.sender] = allowed[owner][msg.sender].sub(numTokens);
         balances[buyer] = balances[buyer].add(numTokens);
         emit Transfer(owner, buyer, numTokens);
         return true;
@@ -78,18 +78,23 @@ contract MyToken {      // Token adını girebilirsiniz
 
 library SafeMath {
     function sub(uint256 a, uint256 b) internal pure returns (uint256) {
-        assert (b <- a);
-        return a b;
+        assert (b <= a);
+        return a - b;
     }
 
     function add(uint256 a, uint256 b) internal pure returns (uint256) {
-        uint 256 c - a + b;
+        uint256 c = a + b;
         assert (c >= a);
         return c;
     }    
 }
 
+etherium'un kendi kullanılan ERC20si
+https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/ERC20.sol
 
+
+
+https://faucet.rinkeby.io/      test için 3 günde bir 18 etherium verir yeni token için
 
 
 
