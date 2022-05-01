@@ -92,7 +92,8 @@ contract RentalAgreement {
   function getPaidRents() internal returns (PaidRent []) {
     return paidrents;
   }
-  
+
+
 Bu kodda bazı değişkenler ve veri türleri var.
 Öncelikle biz kiracıyı, ev sahibini ve mülkü belirlememiz lazım
 Ayrıca bu süre içerisinde ödenmiş olan bazı yapıları tutacağız
@@ -178,9 +179,6 @@ yani yaptığımız veri yapıları ve değişkenler kullanarak birşeyi modelle
 bunlar bir durumdan diğerine geçen işlevlere fonksiyonlara sahip modelleme.
 herkesin mutabık olduğu şekilde bu değişikliklerin yapılması
 burdaki mevzu güvenilir 3.kuruma gerek kalmadan banka gibi kontrat sahipleri arasındaki güveni kontratın kendisi sağlıyor
-
-
-
 
 
 
