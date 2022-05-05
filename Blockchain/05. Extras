@@ -1,0 +1,100 @@
+BLOCKCHAIN FEATURES
+  DISTRIBUTED LEDGER
+  PEER TO PEER
+  TRANSPARENCY
+  CONSENSUS
+  ENCRYPTION
+  IMMUTABILITY
+  PROGRAMABLE
+
+
+
+
+DISTRIBUTED LEDGER
+A ledger is a collection of transactions. It is not a collection of assets. Assets are part of a transaction, but the ledger records the transaction. 
+With a digitally distributed ledger or a blockchain, no one owns the ledger. 
+The ledger is distributed among participants in the network, all running the same blockchain protocols. 
+It is decentralized in that an identical copy of the ledger exists on every node/computer on the network. 
+In 2009 with the publishing of Satoshi Nakamoto’s whitepaper “Bitcoin: A Peer-to-Peer Electronic Cash System”, 
+Bitcoin became the first application to leverage blockchain technology by recording the first asset transfer on a public blockchain ledger.
+
+
+PEER TO PEER
+The ledger is stored, updated, and maintained by a peer network. Nodes form the infrastructure of a blockchain network. 
+They store, spread and preserve the blockchain data, so a blockchain exists on nodes. 
+All nodes on a network follow the same rules of operation or protocols, but nodes have different roles. 
+A full node contains a copy of the blockchain protocol, transaction history of the blockchain and aids in the maintenance of the blockchain. 
+User node interacts with the ledger. With blockchain technology, a lack of a centralized authority is replaced with a peer-to-peer network.
+
+Blockchain networks can be public or private. 
+A public blockchain is open to anyone with an internet connection and the appropriate application. 
+A private blockchain grants access and rights to its users before they can interact.
+
+
+TRANSPARENCY
+In a blockchain, we can see all the transactions that have occurred on the shared or distributed ledger. 
+A blockchain stores details of every transaction that occurred since the first transfer. 
+This first transfer, along with some system information that we will discuss later, becomes the first block in our chain and is referred to as the genesis block. 
+Since every node shares a copy of the agreed-upon ledger, there is no friction about the transactions, everyone has the same agreed-upon copy. 
+Centralized systems are not transparent, the information about the ledger is controlled by one authority.
+
+
+CONSENSUS
+Blockchain ledgers are different from centralized ledgers because network participants have an agreement upon what is in the identical ledger. 
+In order for the blocks to be added, all the nodes in the system come to agree as to what transactions are accurate and should be added to the chain of blocks. 
+Since there is no central authority telling the nodes which transactions are valid, a new way to reach agreement or come to consensus is needed.
+
+The way in which each blockchain comes to consensus is built into the protocol, 
+they are the rules built into the code that determine how the nodes will add ledger transactions. 
+The Bitcoin network uses a proof of work consensus model. 
+This process of building agreement among a group of mutually distrusting participants is a benefit of blockchain consensus.
+
+ENCRYPTION
+Encryption and cryptography are combined with blockchain technology to assure the information on the blockchain is authentic.
+In our previous real-world example, the music sharing companies not only had legal issues from copyright infringement, 
+they also could not solve the data integrity problem. 
+Music downloaded from these platforms was only as reliable as the anonymous person storing and sending it. 
+The data had no integrity. Cryptography and blockchain offer a secure way to prove something is authentic. 
+Instead of relying on third-party, trust is put into cryptographic algorithms that prove the provenance and authenticity of an attestation.
+
+
+
+IMMUTABILITY
+Cryptography also plays a part in another powerful feature of blockchain technology, immutability. 
+What makes blockchain incredibly powerful is that all the blocks are linked together. 
+With the use of a cryptographic technique called hashing, 
+the linked information is forged so that if you go back and try to change any data on any block anywhere in the shared ledger, 
+the link with the other copies is broken in a very obvious and easy-to-determine way. 
+With blockchain, there is no possibility of changing the data or altering the data inside the blockchain, it is permanent. 
+In a traditional database, a system administrator oversees the ledger and can make changes.
+
+
+
+
+PROGRAMABLE
+Some blockchains offer an additional feature, smart contracts, that impose logic into the system. 
+If you think of the Bitcoin blockchain as a calculator recording financial transactions, you can think of these blockchains as computers. 
+The first of these blockchains is Ethereum, created by Vitalik Buterin, Joe Lubin and team. 
+Ethereum runs the EVM, Ethereum Virtual Machine, which has the ability to impose digital agreements or smart contracts. 
+A smart contract is a program that runs on a blockchain that can impose contractual agreements. 
+Typically, they work as digital agreements that enforce a specific set of rules. 
+These rules are predefined by computer code, which is replicated and executed by all network nodes. 
+Blockchain smart contracts allow for the creation of trustless protocols. 
+This means that two parties can make commitments via blockchain, without having to know or trust each other. 
+They can be sure that if the conditions aren't fulfilled, the contract won't be executed. 
+Other than that, the use of smart contracts can remove the need for intermediaries, reducing operational costs significantly.
+
+
+
+
+
+
+Blockchain Developer
+Developers design, write and upload smart contracts to the blockchain. 
+Developer design workflows that operate with blockchains and smart contracts. 
+Responsibilities can include project design, smart contract development and implementation, front end applications design and application deployment. 
+Skills a developer needs can include Microsoft SQL Server, VS, .NET, MVC, AJAX, SQL, C, Py, Solidity, C++, C#, JS, Node.js, JQuery, SOAP, REST, FTP, HTML, XML, XSLT, XCOD, Neural-networks, Regression, Agile Scrum, MYSQL. 
+Solutions are developed for Hyperledger Fabric, Ethereum, Quorum Ripple, Corda and other distributed ledger solutions.
+
+
+
