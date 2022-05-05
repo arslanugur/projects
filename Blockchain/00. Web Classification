@@ -1,6 +1,6 @@
 Web 1.0 - Internet of Connection
 Web 2.0 - Internet of Information
-Web 3.0 - Internet of Value
+Web 3.0 - Internet of Value         Electronically Transferring Value: Cryptocurrencies
 
 Web 1.0 (1990-2005)
 • Basic Web Pages
@@ -9,7 +9,7 @@ Web 1.0 (1990-2005)
 • Java & JavaScript
 
 
-Web 2.0 (2006-present day)
+Web 2.0 (2006 - present day)
 • Social Media
 • User Generated Content
 • Mobile Access
@@ -28,3 +28,13 @@ Web 3.0 (Imminent)
 • Permissionless Blockchains
 • Artificial Intelligence
 • Interoperability
+
+Any data can be stored on the same block. Examples of stored data include:
+     • Person's Medical records
+     • Property Sale agreements
+     • Voting Result
+     
+If the data is tampered with anywhere in the chain, the links will break in a very obvious way. This provides immutability and security.
+Blockchain Is Immutable
+
+
