@@ -97,4 +97,100 @@ Skills a developer needs can include Microsoft SQL Server, VS, .NET, MVC, AJAX, 
 Solutions are developed for Hyperledger Fabric, Ethereum, Quorum Ripple, Corda and other distributed ledger solutions.
 
 
+CONSUMER BENEFITS FROM BLOCKCHAIN
+  LOGISTICS
+  FOOD SUPPLY
+  PROCUREMENT
+  TRACEABILITY
+  FAIR LABOR & COMPLIANCE
+  RESOURCE MANAGEMENT
+
+BUSINESS BENEFITS FROM BLOCKCHAIN
+  PAYMENTS
+  REDUCE PAPER DEPENDENCIES
+  INCREASED DOCUMENT SECURITY
+  TRANSPARENCY & TRUST
+  COMPLIANCE
+  RESOURCE MANAGEMENT
+
+  Approach: 
+  DLT Labs along with Walmart Canada initiated a tracking program tackling the enormous problem in the freight and shipping industry of dispute resolution in disparate invoicing systems. 
+  The solution connects all points on the supply chain with a shared trusted ledger. 
+  This eliminates the root problems that cause invoice disputes. 
+  The carriers are a vital link in Walmart's supply chain backbone, and the DLT solution ensures invoicing systems run smoothly.
+  Result: 
+  Demonstrable transformation of freight management and carrier relationships by implementing a shared DLT invoicing system with trust and transparency build-in, 
+  reduces disputes among organization by 95%.
+
+
+GOVERNMENT BENEFITS FROM BLOCKCHAIN
+  REDUCES SILOED DATA
+  INTERNAL PAYMENT SYSTEMS
+  REDUCE PAPER WASTE
+  TRANSPARENCY&TRUST
+  INCREASES SECURITY OF DOCS
+  RESOURCE MANAGEMENT
+
+  Approach: 
+  To make Dubai the happiest city on Earth by recreating everyday experiences for residents and visitors of Dubai, 
+  making them more personalized seamless, efficient and impactful. 
+  The Smart Dubai strategy will be using three essential pillars: government efficiency, industry creation and international leadership
+  Result: 
+  By the end of 2021, Dubai government will go completely paper-free, 
+  eliminating more than one billion pieces of paper used for government transactions every day. 
+  When successful, Dubai will be the first blockchain-powered government driving the future economy.
+
+
+
+Chapter 2. Blockchain Mechanics / Understanding Ledgers
+Basic Terms
+  Ethereum
+  Ethereum, like Bitcoin, is a decentralized open-source blockchain. 
+  Unlike the Bitcoin Network, the Ethereum Protocol has the ability to run smart contracts. 
+  The cryptocurrency running on the Ethereum network is called Ether.
+
+  Smart Contracts
+  A smart contract is computer code that can be run on a blockchain that executes the conditions of an agreement.
+
+  Public Blockchains
+  Public blockchain has no barrier to entry. Anyone with a cell phone and a digital wallet can transact on the blockchain.
+  
+  Private Blockchains
+  Private blockchains or permissioned blockchains have a Membership Services piece that grants access to users before they can interact with the blockchain.
+
+  Digital Wallet
+  A digital wallet is a computer application that represents a traditional wallet. 
+  It gives the user the ability to store and transact cryptocurrencies through the Internet.
+
+  Public Key Infrastructure (PKI)
+  Public Key Infrastructure is the identity management system for instilling trust into the electronic transfers of information or value. 
+  It is the technology used to authenticate users and information by issuing a set of key pairs (public and private).
+  
+
+
+
+
+SINGLE-ENTRY LEDGER: ONE SIDED ENTRY IN EITHER THE CREDIT COLUMN OR THE DEBIT COLUMN
+  • Ledgers first appeared around 3,000 B.C.
+  • Single-entry only.
+  • Chanakya, an Indian leader, creates the first documented accounting standards.
+
+DOUBLE-ENTRY LEDGER: TRACKS DEBITS AND CREDITS, TELLS THE STORY OF A TRANSACTION FROM BOTH/ALL SIDES
+  COMPANY A PRIVATE LEDGER  <--> COMPANY B PRIVATE LEDGER
+  • Double-entry ledger appears in 1340 A.D.
+  • Tracks debits and credits.
+  • Tells the story ofatransaction from both/all sides.
+  • The Italian Luca Pacioli, recognized as the father of accounting and bookkeeping, was the first person to publishawork on double-entry bookkeeping and introduced the field in Italy.
+
+TRIPLE-ENTRY LEDGER: TRACKS DEBITS AND CREDITS, TELLS THE STORY OF A TRANSACTION FROM BOTH/ALL SIDES, DISTRIBUTED LEDGER RECORD
+  • Triple-entry accounting is an enhancement to the traditional double-entry system, in which all accounting entries involving outside parties are cryptographically sealed byathird entry.
+  • Debits, credits, and an immutable link to all past debits and credits. Triple-entry ledger appears in 2008 inawhite paper by Satoshi Nakamoto (a.k.a., Blockchain).
+  • Some features include: tamper-proof records, distributed ledgers, double-entry+cryptography, validated, secure, and private, digitally signed receipts.
+
+
+....
+
+
+
+
 
