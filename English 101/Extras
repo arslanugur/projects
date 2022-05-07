@@ -574,16 +574,7 @@ they have an accident -- collocation
 
 
 
-exception: istisna
-distribution: dağıtım
-implication : sonuç
-transmission: bulaşma
-excuses: bahaneler
-objectives: amaçlar
-diversity: çeşitlilik
-maintenance : sürdürme
-threat: tehdit
-conclusion: sonuç
+
 efficacy: etkililik
 remnant: kalıntı
 jeopardy: tehlike
@@ -1407,6 +1398,16 @@ prospect - olasılık
 evidence - kanıt
 shifts - değişiklikler
 utilization - kullanma
+exception: istisna
+distribution: dağıtım
+implication : sonuç
+transmission: bulaşma
+excuses: bahaneler
+objectives: amaçlar
+diversity: çeşitlilik
+maintenance : sürdürme
+threat: tehdit
+conclusion: sonuç
 
 
 sustainable: sürdürülebilir
