@@ -188,7 +188,26 @@ TRIPLE-ENTRY LEDGER: TRACKS DEBITS AND CREDITS, TELLS THE STORY OF A TRANSACTION
   • Some features include: tamper-proof records, distributed ledgers, double-entry+cryptography, validated, secure, and private, digitally signed receipts.
 
 
-....
+https://medium.com/tokenring/ancient-uses-of-cryptography-four-examples-that-pre-date-the-internet-14679ae4f509
+
+
+The KEY TERMS in cryptography:
+  Cryptography:
+  Cryptography is a technique used to secure the communication between two parties from a third. 
+  The term cryptography is derived from two ancient greek terms, “kryptos” which means “hidden” and “graphein” which means “to write”.
+  Secret:
+  The data which we are trying to protect.
+  Key:
+  A piece of data used for encrypting and decrypting the secret.
+  Function:
+  The process or function used to encrypt the secret.
+  Cipher:
+  The encrypted secret data, the digital secret, the output of the mathematical function or a cryptographic algorithm.
+  Encryption:
+  This is the process from plain text (ordinary text) to cipher text (random sequence of bits).
+  Decryption:
+  Encryption is the reverse process of converting ciphertext into plain text.
+
 
 
 
