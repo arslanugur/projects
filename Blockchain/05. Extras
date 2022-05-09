@@ -323,13 +323,82 @@ There are four main ways blockchain leverages cryptography:
     08F28                                   OSW32                           OTR67
     
     
-    
+    Cryptographic Hashing Demo - SHA256 Hash 
+
     
   04. Merkle Trees
     A data storage technique that compresses or packs data 
     for storing blockchains with a tamper-free component built in. 
     Merkle trees are built upon hashing principles in that each hash becomes a part of the next hash to build a tamper resistant data storage model.
 
+    Aspecial type of data storage structure based on hash functions is calledaMerkle tree:
+    • It is structured asabinary tree; the leaves contain the values to be stored and each internal node is the hash of its two children.
+    • It provides efficient lookups and protection against forgery since verifyingatransaction is included in the tree. 
+      Can be accomplished by sending only the transaction, the hash contained in each node between the transaction leaf node and the root, and the hash values used to create each hash sent.
+    • Looking upatransaction in a Merkle tree with three levels includes sending two transactions 
+      (the desired one and the other child of its parent) and three hashes (the transaction's parent, the root, and the root's other child).
+
+      Merkle Tree, Validation of Data: Root, Child Nodes, Leaf Nodes, Data
+
+      BLOCK 'O' HEADER          BLOCK '1' HEADER                BLOCK '2' HEADER
+    PREVIOUS HEADER HASH      PREVIOUS HEADER HASH            PREVIOUS HEADER HASH
+        MERKLE ROOT               MERKLE ROOT                      MERKLE ROOT
+                                 
+                                 HASH_ABCDEFGH
+          HASH_ABCD                                               HASH_EFGH
+       HASH_AB HASH_CD                                          HASH_EF HASH_GH
+       H_A H_B H_C H_D                                           H_E H_F H_G H_H
+       T_A T_B T_C T_D                                           T_E T_F T_G T_H    
+                           DATA BLOCKS/BLOCK '1' TRANSACTIONS
+      Merkle trees are a data structure that allows authenticated storage with efficient data retrieval.
+
+
+Ethereum vs. Hyperledger Fabric
+      The use of public keys for identity management is a logical choice since knowledge of a public key is necessary for verification of digital signatures. 
+      Both Ethereum and Hyperledger Fabric use digital signatures on transactions 
+      and blocks to verify the identity of the creator and that the signed data has not been modified since signing. 
+      Public key cryptography is used in the blockchain as a method for managing users’ identities without revealing real world identities.
+      In Ethereum, users are identified by an address that is directly related to the user's public key. 
+      This provides identity verification while preserving anonymity.
+      
+      Hash functions are at the core of all blockchain technology. 
+      One of the primary uses for hash functions is chaining blocks together. 
+      In both Ethereum and Hyperledger Fabric, blocks include the hash of the previous block to tie the blockchain into a cohesive whole.
+
+      Zero-knowledge proofs are to increase the privacy of users. 
+      Currently, Ethereum is working on a layer 2 solution, where a second layer blockchain would store large amounts of data and only prove the batch of information is valid to layer 1 (mainnet). 
+      Hyperledger Fabric has a pluggable cryptographic library that supports ZKP techniques for enhanced privacy measures.
+
+      Merkle trees are a data structure that allows authenticated storage with efficient data retrieval. 
+      Both Ethereum and Hyperledger Fabric are smart contract platforms that use a particular type of Merkle tree called the Patricia tree to store the current state of their virtual machine.
+
+
+CRYPTOGRAPHY                           HYPERLEDGER                               ETHEREUM
+Public Key Cryptography
+Hash Functions
+Zero-Knowledge Proofs
+Merkle Tree Structure 
+
+Public Key Cryptography
+HYPERLEDGER
+Membership Service Providers define and issue certificate authority to entities to issue X.509 digital certificates that contain public keys and defines the users' rights.
+ETHEREUM
+Based on ECDSA (Elliptic Curve Digital Signature Algorithm) any user can generate a public key fromaprivate key.
+
+
+Hash Functions
+HYPERLEDGER/ETHEREUM: Hyperledger Fabric and Ethereum link blocks together by including the hash of the previous block into the hash of the current block creatingacohesive unbreakable chain.
+
+Zero-Knowledge Proofs
+HYPERLEDGER
+Hyperledger offers ZKP cryptographic functions in the Ursa Library to prove the existence ofatransaction without revealing the details.
+ETHEREUM
+Ethereum uses ZKP technology to reduce computing and storage resources needed to validate blocks. 
+It accomplishes this by reducing the data stored by only proving block is valid without sharing all the data.
+
+Merkle Tree Structure 
+HYPERLEDGER/ETHEREUM: 
+Ethereum and Hyperledger Fabric are smart contract platforms that useaparticular type of Merkle tree called the Patricia tree to store the current state of their virtual machine.
 
 
 
