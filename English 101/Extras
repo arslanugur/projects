@@ -66,17 +66,7 @@ Enlargement - genişletme
 Settlement - yerleşim
 
 
-FiiL YAΡAΝ "ΑΤΕ
-necessitate:gerektirmek
-facilitate:kolaylaştırmak
-deteriorate:kötüleştirmek
-eradicate:kökünü kazımak
-alleviate:yatıştırmak
-fluctuate:dalgalanmak
-compensate:telafi etmek
-disseminate:yaymak
-eliminate:çıkarmak
-mitigate:azaltmak
+
 
 FİİL YAPAN "IFY"
 clarify:açıklamak
@@ -2483,6 +2473,19 @@ convince - ikna etmek
 identify - tanımlamak
 stretch - uzanmak
 
+
+FiiL YAΡAΝ "ΑΤΕ
+necessitate:gerektirmek
+facilitate:kolaylaştırmak
+deteriorate:kötüleştirmek
+eradicate:kökünü kazımak
+alleviate:yatıştırmak
+fluctuate:dalgalanmak
+compensate:telafi etmek
+disseminate:yaymak
+eliminate:çıkarmak
+mitigate:azaltmak
+
 make up - oluşturmak
 inhabit - yaşamak
 impair - bozmak
@@ -2601,3 +2604,7 @@ ambiguity/obscurity belirsizlik
 property/trait özellik
 alleviation/mitigation yatıştırma, azaltma
 association/correlation ilişki 
+
+
+
+Fibonacci tavşan üremesi - algoritması
