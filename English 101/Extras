@@ -84,18 +84,18 @@ identify:tanımlamak
 
 
 "AGE" İSİMLERİ
-Courage - cesaret
-Coverage - yayın alanı
-Camouflage - kamuflaj
-Wreckage - enkaz
-Shortage - kıtlık
-Percentage - yüzdelik
-Espionage - casusluk
-Heritage - miras
-Lineage - nesil, köken
-Blockage - tıkanma
-Homage - saygı, hürmet
-Damage:hasar
+courage - cesaret
+coverage - yayın alanı
+camouflage - kamuflaj
+wreckage - enkaz
+shortage - kıtlık
+percentage - yüzdelik
+espionage - casusluk
+heritage - miras
+lineage - nesil, köken
+blockage - tıkanma
+homage - saygı, hürmet
+damage - hasar
 
 
 
@@ -338,17 +338,6 @@ know for certain - kesin olarak bilmek
 to a certain extent - bir ölçüde
 
 Nouns
-Exploitation - sömürme
-Tendency - eğilim
-Contribution - katkı
-Negotiation - müzakere
-Recognition - tanınma
-Progress - ilerleme
-Elimination - çıkarma
-Breakthrough - buluş
-Commitment - bağlılık
-Contradiction - çelişki
-
 Precaution - önlem
 Utilization - kullanma
 Fluctuation - dalgalanma
@@ -2607,6 +2596,18 @@ increasing - artan
 flourishing - gelişen
 misleading - yanıltıcı, yanıltan
 fascinating - etkileyici, etkileyen
+
+
+exploitation - sömürme
+tendency - eğilim
+contribution - katkı
+negotiation - müzakere
+recognition - tanınma
+progress - ilerleme
+elimination - çıkarma
+breakthrough - buluş
+commitment - bağlılık
+contradiction - çelişki
 
 
 Fibonacci tavşan üremesi - algoritması
