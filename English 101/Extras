@@ -379,16 +379,16 @@ Ambiguous:belirsiz
 Unprecedented:essiz
 
 Verbs
-Enhance geliştirmek
-Deteriorate:kötüleştirmek
-Facilitate:kolaylaştırmak
-Utilize:kullanmak
-Determine:belirlemek
-Accelerate: hızlandırmak
-Encompass içermek
-Undermine:sabote etmek
-Inhibit:engellemek
-Mitigate:hafifletmek
+Enhance - geliştirmek
+Deteriorate - kötüleştirmek
+Facilitate - kolaylaştırmak
+Utilize - kullanmak
+Determine - belirlemek
+Accelerate - hızlandırmak
+Encompass - içermek
+Undermine - sabote etmek
+Inhibit - engellemek
+Mitigate - hafifletmek
 
 
 
@@ -657,16 +657,7 @@ Substantially:epeyce
 
 
 
-determine - belirlemek
-enhance - arttırmak, geliştirmek
-undermine - zayıflatmak
-exploit - sömürmek, faydalanmak
-undergo - maruz kalmak
-encompass - içermek
-utilize - kullanmak, faydalanmak
-harbor - barındırmak
-originate - ortaya çıkmak
-constitute - oluşturmak
+
 affect - etkilemek
 harness - faydalanmak
 implement - uygulamak
@@ -2388,6 +2379,17 @@ modify - değiştirmek
 justify - gerekçelendirmek
 identify - tanımlamak
 exemplify - örneklendirmek
+
+determine - belirlemek
+enhance - arttırmak, geliştirmek
+undermine - zayıflatmak
+exploit - sömürmek, faydalanmak
+undergo - maruz kalmak
+encompass - içermek
+utilize - kullanmak, faydalanmak
+harbor - barındırmak
+originate - ortaya çıkmak
+constitute - oluşturmak
 
 
 
