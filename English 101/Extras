@@ -347,17 +347,7 @@ Opportunity - firsat
 
 
 
-Adjectives
-Conclusive:kesin
-Successive: ardışık
-Noteworthy:dikkate değer
-Apparent:belirgin
-Promising:umut vadeden
-Meticulous:titiz
-Prevalent:yaygın
-Indispensable zaruri
-Ambiguous:belirsiz
-Unprecedented:essiz
+
 
 Verbs
 Enhance - geliştirmek
@@ -2497,17 +2487,43 @@ familiarity - aşinalık
 
 
 
-ADJECTIVES
+ADJECTIVES 1 
 successive - ardışık
 comprehensive - kapsamlı
 conclusive - kesin
+inconclusive - kesin olmayan
 persuasive - ikna edici
 incentive - teşvik edici
+excessive - aşırı
+primitive - ilkel, eski
+massive - devasa
+pervasive - her yere yayılan
+
+
 sustainable - sürdürülebilir
 renewable - yenilenebilir
 inevitable - kaçınılmaz
 inseparable - ayrılmaz
 observable - gözlemlenebilir
+indispensable - zaruri, olmazsa olmaz, elzem
+intangible - somut olmayan
+plausible - mantıklı
+irreversible - tersine çevrilemez
+inevitable - kaçınılmaz
+insurmountable - başa çıkılamaz
+considerable - kayda değer, önemli
+
+
+
+
+noteworthy:dikkate değer
+worthwhile - dikkate değer
+apparent:belirgin
+promising:umut vadeden
+meticulous:titiz
+prevalent:yaygın
+ambiguous:belirsiz
+unprecedented:essiz
 
 SIFAT YAPAN "ING"
 promising - umut vadeden
@@ -2521,25 +2537,17 @@ flourishing - gelişen
 misleading - yanıltıcı, yanıltan
 fascinating - etkileyici, etkileyen
 
-sustainable - sürdürülebilir
 eager - istekli, hevesli
-massive - devasa
-inseparable - ayrılmaz
-worthwhile - dikkate değer
 main - ana, temel
-observable gözlemlenebilir
 immense - devasa
 dramatic - çarpıcı, belirgin
 vulnerable - zayıf, dirençsiz
 
 tremendous: devasa
-indispensable: zaruri, elzem
-excessive: aşırı
 compelling: ikna edici
 viable: uygulanabilir
-inconclusive: kesin olmayan
-pervasive: her yere yayılan
-considerable - kayda değer, önemli
+
+
 unprecedented - benzersiz
 reciprocal - karşılıklı
 ubiquitous - yaygın
@@ -2552,14 +2560,8 @@ meticulous - titiz
 
 miscellaneous - çok yönlü, muhtelif
 disproportionate - orantısız
-intangible - somut olmayan
-plausible - mantıklı
-irreversible - tersine çevrilemez
-indispensable - olmazsa olmaz
 paramount - çok mühim, önemli
-inevitable - kaçınılmaz
-primitive - ilkel, eski
-insurmountable - başa çıkılamaz
+
 
 
 birthday present - doğum günü hediyesi
