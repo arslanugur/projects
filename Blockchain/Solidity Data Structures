@@ -1,0 +1,221 @@
+A ds is a way to store and organize data for effective usage and optimization in any prog lang.
+
+The primitive data structures in Solidity are: uint, int, address
+
+Other complex data structures in Solidity includes: Arrays, Mapping, Struct, Enum
+
+# ARRAYS
+Arrays in Solidity can be of dynamic length where we can add infinite amount of items in our shopping list and we also have arrays of fixed length.
+Code:
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.4;
+
+contract ArrayDataStructure {
+ uint[] public myNumber; //dynamic array
+ //initialize an array
+uint[] public arr = [1,3,4,9];
+//arrays with a fixed length
+string[2] public names = [ "Jamie", "Jason"];
+
+} 
+
+
+# Arrays Methods
+push and pop
+We can add items to an array by using the push method of the array. 
+The push method only works for dynamic length arrays. 
+To add an item to a fixed length array, we have to specific the index we are adding the item.
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.4;
+
+contract ArrayDataStructure {
+//initialize an array
+uint[] public arr = [1,3,4,9];
+//arrays with a fixed length
+string[3] public names = [ "Jamie", "Jason"];
+ //push is used to add an element to the back of the array
+function addToArray(uint _number) public {
+   //adding the value of _number into the array named arr in 
+   //storage
+   arr.push(_number);
+  //we can not push items into a fixed element array. Fixed 
+  //element array don't have the push method
+  //names.push("Nnena"); this won't work
+  names[2] = "Nnena";
+ }
+//pop removes the last element from an array. This reduces //the length of the array by 1.
+ function popItem() public {
+    arr.pop();
+  }
+} 
+
+
+
+Remove item at an index
+You can use the index of an array to remove the item at that index. 
+Doing this though only initialises the item at that index to the default value of the array. 
+It does not reduce the length of the array.
+To remove an item and also reduced the length of the array, we could:
+
+- move the items from the right to the left stopping at the index we want to remove. 
+  The last item is then pop out from the array thereby reducing the array length.
+
+- we can move the last item of the array to the index of the item we want removed from the array.
+  We can then pop out the last item. (if the order of the items don't matter. 
+  This is the right way to remove an item ).
+Code:
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.4;
+
+contract ArrayDataStructure {
+//initialize an array
+uint[] public arr = [1,3,4,9, 67,78 ];
+
+ //push is used to add an element to the back of the array
+function removeItemByMovingRightToLeft(uint _index) public {
+  //check if the array is not out of bound before continuing
+//require in solidity is used to check for true or false //conditions.more like a concise if statement.
+  require(_index < arr.length - 1, "Array index out of bound");
+   //loop over the array
+   //for loops in solidity are almost the same in Javascript
+   for(uint i=_index; i < arr.length; i++){
+      //moving from the right to the left 
+      arr[i] = arr[i + 1];
+   }
+  //pop out the last item
+  arr.pop();
+}
+
+function removeBySwappingLastWithIndexToRemove(uint _index) public {
+   require(_index < arr.length,  "Array index out of bound");
+   //replace the index with the last item
+   arr[_index] = arr[arr.length-1];
+   //remove the last item
+   arr.pop();
+}
+
+function getArray() public view returns (uint[] memory) {
+   return arr;
+}
+
+
+} 
+
+
+
+
+# MAPPING
+A map is Solidity is a data structure with a key:value pair store of data.
+
+Maps are created with the syntax mapping(keyType => keyValue)
+KeyType could be value type of uint, address, bytes. (the keys of mapping ).
+
+ValueType can be any type including another mapping. 
+Mapping are not iterable meaning you cannot loop over them as you would an array.
+Code:
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.4;
+
+contract MappingDataStructure {
+mapping(address => uint) public myMap;
+//this creates a mapping on the blockchain called with a 
+//key of address and value of uint
+
+function get(address _address) public view returns (uint) {
+  return myMap[_address];
+  //it returns the value at that address but if the value has //not been set, it returns the default value which in this //case is 0;
+}
+
+function set(address _address, uint _value ) public {
+  myMap[_address] = _value;
+}
+} 
+
+
+Nested Mapping
+Code:
+//SPDX-License-Identifier:MIT
+pragma solidity ^0.8.4;
+
+contract NestedMappingDataStructure {
+mapping(uint => mapping(address => uint )) public nestedMap;
+
+
+function get(uint _index, address _address ) public view returns (uint) {
+  return nestedMap[_index][_address];
+}
+
+function set(uint _index, address _address, uint _value ) public {
+  nestedMap[_index][_address] = _value;
+}
+} 
+
+
+
+# STRUCTS
+Structs are your own defined types. 
+A structs can be defined outside a contract and then imported into the contract. 
+They can contain any value type.
+Code:
+pragma solidity ^0.8.4;
+
+contract Todos {
+    struct Todo {
+        string text;
+        bool completed;
+    }
+    // An array of 'Todo' structs
+    Todo[] public todos;
+
+    function create(string memory _text) public {
+        // 3 ways to initialize a struct
+        // - calling it like a function
+        todos.push(Todo(_text, false));
+
+        // key value mapping
+        todos.push(Todo({text: _text, completed: false}));
+
+        // initialize an empty struct and then update it
+        Todo memory todo;
+        todo.text = _text;
+        // todo.completed initialized to false
+
+        todos.push(todo);
+    }
+
+    // update text
+    function update(uint _index, string memory _text) public {
+        Todo storage todo = todos[_index];
+        todo.text = _text;
+    }
+
+    // update completed
+    function toggleCompleted(uint _index) public {
+        Todo storage todo = todos[_index];
+        todo.completed = !todo.completed;
+    }
+}
+//Example copied from https://solidity-by-example.org/structs/
+
+
+
+
+
+One optimisation technique to save gas when using the struct data structure is to save the same type close together.
+Code:
+pragma solidity ^0.8.4;
+
+
+    struct GiftItems {
+        string giftItems;
+        string ownerName;
+        uint price;
+        uint number;
+        uint total;
+        bool paid;
+    }
+    
+
+
+
+
