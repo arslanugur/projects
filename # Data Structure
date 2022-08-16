@@ -585,3 +585,152 @@ Current Stack => [0, 1, 2, 3]
 
 
 
+
+
+
+
+
+
+
+
+BTK ALGORİTMA VE VERİ YAPILARI İLERİ SEVİYE ---> C# Programlama dili
+01 Intro
+02 Algorithm Analysis and Asymptotic Notations
+03 Array and Collections
+04 Linked List
+05 Stack
+06 Queue
+07 Trees
+08 Priority Queue and Heap
+09 Disjoint Sets
+10 Graph
+11 Graph-based Algorithms
+12 Sorting Algorithms
+
+Kazanımlar
+- Verinin bellek üzerinde organizasyonu kavramak
+- Doğrusal ve Doğrusal olmayan veri yapılarını açıklamak
+- Doğrusal ve Doğrusal olmayan veri yapılarını kodlayabilmek
+- Recursive ve Generic kodlama becerisi geliştirmek
+- Veri yapılarını ile ilişkili algoritmalar hakkında bilgi sahibi olur
+- Algoritma tasarım stratejileri hakkında bilgi sahibi olmak
+- Özgün veri türleri tasarlayıp, kodlamak
+
+C# Components: Delegate, Event, Generic, Dynamic, LINQ
+  Lambda Expression, expression-bodied members,getters,and setter
+
+
+Veri Yapısı (Data Structure)
+  Veri yapısı, veriye erişimi, verinin depolanmasını ve verinin organizasyonunu temsil eden bir kavramdır.
+  Bir veri yapısı, veri değerleri, veriler arasındaki ilişkiler ve verilere uygulanabilecek işlevler veya işlemlerin bir koleksiyonudur.
+  Probleme uygun bir veri kullanıp verileri organize etmek
+
+
+Veri Yapısı, Veriyi işlemek manipüle etmek için kullanılması gereken mekanizmalara ihtiyaç var
+
+# Veri Yapıları (Data Structures)
+Linear                            
+  Array
+    single dimension array
+    multi dimension array
+  List
+    array list
+    generic list
+    sorted list
+    linked list
+  Stack
+  Queue
+  
+Non-Linear
+  Graph
+    Tree
+      Binary Tree
+        Binary Search Tree
+          Self Balancing Tree
+            AVL Tree
+            Red-Black Tree
+    
+    Heap
+      Binary heap
+      Binominal heap
+      Fibonacci heap
+      
+      
+
+# Veri Türleri (Data Types)
+Data Types: Value Types, Reference Types
+            Value Types: struct, enum
+            Reference Types: class, interface, delegate
+            
+Built-in data type (value): short, int, double, char, decimal            
+Built-in data type (reference): object, string, dynamic         
+
+Custom/user defined data type (value): struct
+Custom/user defined data type (reference): class      (OOP)
+
+
+
+
+
+# VERİNİN BELLEK ÜZERİNDEKİ ORGANİZASYONU
+
+Değişken (Valuable)
+Hafızada ayrılan yere bir değer yer ayırmak atamak, gerekli durumlarda ayrılan yere değer atamak, değeri değiştirmek ve okumak için kullanılan programlama bileşeni değişken olarak adlandırılır.
+• Bir başka ifadeyle değişken, bir değeri tutan depolama konumudur.
+• Değişken, üç temel boyutu ile düşünülmelidir.
+  - Name
+  - Type
+  - Value
+
+* Constant, Sabitler program boyunca değeri değişmeyen özel bir değişken türü olarak düşünülebilir
+1.5 - Veri Organizasyonu videosunu tekrar izle: sbyte ile byte organisazyonu tamamen farklı. türlerin farklılıkları ve ilgilendikleri değerler önemli bellek üzerinde hesaplanması ve organizasyonu
+
+
+
+
+# Soyut Veri Türü (Abstract Data Type)
+Stack (Yığın) Ana işlevler
+  push(T item)
+  pop()
+  peek()
+  
+Queue (Kuyruk) Ana İşlevler
+  enQueue(T item)
+  deQueue()
+  peek()
+
+        * Angry Birds - Oyunda, Kuşların sıralı şekilde atılması
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+    
+  
+  
+    
+  
+  
+  
+
+
+
+
+
+
+
+
+
