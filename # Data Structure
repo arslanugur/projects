@@ -705,22 +705,169 @@ Queue (Kuyruk) Ana İşlevler
 
 
 
+02. Algorithms Analysis and Asymptotic Notations
+Algoritma için 5 tane temel özellik
+- Girişi olmalı
+- Çıkışı olmalı
+- Her adımdı tanımlı olmalı
+- Sınırlı sayıda adımda olmalı
+- Etkililik (Zamansal/Uzaysal Analiz)
+
+
+Time Complexity (Zaman Karmaşıklığı) --> T(n)
+  n = algoritmanın girdisi
+        • Dizi (boyutu doğrudan etki eder)
+        • Polinom (polinom derecesi etki eder)
+        • Matris (eleman sayısı etki eder) --> 1 elemanlı bir veriyle 100 elemanlı bir veri farklı zamanlarda çalışır.
+        • İkilik veri (bit sayısı etki eder)
+        • Graf (kenar ve düğüm sayısı etki eder)
+
+      • Algoritmanın dayandığı paradigma/yaklaşım (Çözüm kümesi)
+            Backtracking
+            Branch and bound
+            Brute-force search
+            Divide and conquer
+            Dynamic programming
+            Greedy algorithm
+            Prune and search
+
+* Bir problemi çözmenin farklı yolları olabilir burda söz konusu kullanılan strateji
+      Örneğin rasgele bir sayı dizisini Binary Search ile çözümlemek
+                                  ya da Sequential Search ile çözümlemek
+                                  
+                                  Çalışma Süresi: Hangisinin daha iyi olduğu önemli çözüm için buradaki durum zaman karmaşıklığında bize çözüme en hızlı yola gitmek için önemli
+                                  Süre zamanı değil, işlem sayısını ifade eder
+                                  
+* Giriş boyutunun büyümesi: Growing Problem: Her zaman sonsuza giderken nasıl büyüdüğünü düşünmeliyiz
+      Asimptotik Natasyonlar
+        - Time Complexity (n)
+        - Space Cost (n)
+        - Space Complexity (n)
+        
+        
+
+
+# Running Time Analysis - Çalışma/Yürütme Zamanı Analizi
+
+Bir Algoritmanın Yürütme Zamanı Analizi (Running time analysis)
+
+SORTED ARRAY | UNSORTED ARRAY
+           7 | 8 | 2 | 4 | 6 | 3        unsorted arrayden bir eleman alınıp sorted arraye uygun olan pozisyona yerleştirmek
+            <- 5
+Insertion Sort Algorithm Steps
+01. SELECT THE FIRST UNSORTED ELEMENT
+02. SWAP OTHER ELEMENTS TO THE RIGHT TO CREATE THE CORRECT POSITION AND SHIFT THE UNSORTED ELEMENT.
+03. ADVANCE THE MARKER TO THE RIGHT ONE ELEMENT
+
+Solution:
+           2 | 3 | 4 | 5 | 6 | 7 | 8 
+
+Pseudo Code: 8 Satırlık Kod                               Calculation
+INSERTION-SORT(A)                   Cost  Times           (Her bir satırın maliyetini ve kaç kez çalışacağını hesaplamak)
+for j <- 2 to length[A]             C_1   n               c_1 * n
+  do key <- A[j]                    C_2   n-1             c_2 * n-1
+    ▷ Insert A[j] into the sorted
+             sequence A[1..j-1].    0     n-1             no cost
+    i <- j - 1                      C_4   n-1             c_4 * n-1
+    while i > 0 and A[i] > key      C_5   Σn_j=2t_j
+      do A[i+1] <- A[i]             C_6   Σn_j=2(t_j-1)
+        i <- i-1                    C_7   Σn_j=2(t_j-1)
+    A[i+1] <- key                   C_8   n-1
+                                                         + Hepsi toplamı bize yürütme zamanının analizini verir.
+                                                         T(n) elde edilir.
+
+Kod üzerinden yürütme zaman analizine geçersek C#
+Bir döngünün çalışma zamanı analizi
+Döngü (Loop)                        Cost  Times
+i = 1;                              c1    1
+sum = 0;                            c2    1
+while (i <= n) {                    c3    n+1
+  i= i+ 1;                          c4    n
+  sum = sum + i;                    c5    n
+}
+                                    Total Cost = c1 + c2 + (n+1) * c3 + n * c4 + n * c5
+                                    Bu algoritmanın büyüme hızı n değeri ile orantılıdır.
+
+Code Example 01: Her bir satırın sabit maliyeti olduğunu düşünelim ve C = 1 diyelim
+int kareToplami(int N)
+{
+  int i, toplam = 0;              # İki tane değişken tanımlanmış, tek bir tane ; var. Yani tek bir komutla bu işi yapıyoruz bu sabit maliyetli ve 1 maliyete sahip
+  for (i = 0; i < N; i++)         # i = 0 atama yapılmış 1 birimlik işlem. i, 0dan başlar parametre olarak gelen n'e bağlı olarak çalışıyor, dolayısıyla n kez döner, 1 kez de döngünün kırılma durumundaki karşılaştırma var n+1 oluyor. i++ ise n kez arttırım yapılacağını gösterir n olur.  yani 2n+2 lik bir maliyete sahip 
+  {
+    toplam += i * i;              # for döngüsü n kez çalışacağı için maliyeti de n olacak
+  }
+  return toplam;                  # return ifadesi de 1 kez çalışacak
+}
+
+İlgili kod bloğunu incelediğimiz zaman: T(n) = 1 + 2n+2 + n + 1
+                                        T(n) = 3n+5 olarak hesaplanır
+                                        
+                                        
+
+Code Example 02: 
+double OrtalamaHesapla(double[] A)
+{
+  double ortalama = 0, toplam = 0;
+  for (int i = 0; i < A.Length; i++)
+  {
+    toplam + A[i];
+  }
+  ortalama = toplam /A.Length;
+  return ortalama;
+
+}
+
+
+Code Example 03: Koşul ifadesi içeren bir döngünün çalışma zamanı analizi
+Eğer koşul ifadesi içeren bir kod parçacığı var ise
+                      Cost  Times
+if (n < 0)            c1    1
+  absval = -n         c2    1
+else
+  absval = n;         c3    1
+
+Toplam Maliyet <= c1 + max(c2,c3)
+
+# If bloklarında, Koşulun doğru olması durumunda bir blok çalışır, olmazsa başka bir ifade çalışıp yoluna devam eder. Yani her ikisi de çalışmaz.
+  Doğru olursa C2 diyelim, yanlış ise C3 diyelim
+  Koşul ifadesi görüldüğü yerde maximum karmaşıklık ifade edilir. max(c2,c3)
+  İşlem nerdeyse o dikkate alınır c2de ise c2 dikkate alınır değilse diğeri dikkate alınır.
 
 
 
 
 
+Code Example 04: Ardışık programların çalışma zamanı analizi
+void kosulBloklari(int n)
+{
+  int toplam = 0;                     # 1
+  if (n % 2 == 0)                     # Her hülakarda 1 kez çalışacak. 
+    for (int i= 1; i <= n; i ++)      # 2n+2
+      toplam += i * i;                # n
+  else                                # doğru olmaması durumuna bakarsak
+      for (int i= 0; i< n; i ++)      # 2n+2
+        for (int j = 0; j< n; j ++)   # j için de 2n+2lik bir ifade var. içiçe bir döngü var. ilk for döngüsü n kez döndüğü için çarpan etkisi var. bu da (2n+2).n
+          toplam += i;                # for yüzünden n kez bir n de dışardaki ilk fordan gelir n2 (n kare) olur
+  Console.WriteLine(toplam);          # 1
+}
 
-
-
-
-
-
-
-      
-    
+          T(n) = 1 + 1 + (2n+2) + 2nkare + 2n + nkare + 1
+          T(n) = 3nkare + 4n + 5
   
   
+  
+  
+Code Example 05: Koşul ifadesi içeren bir döngünün çalışma zamanı analizi
+double EnKucukBul(double[] A)
+{
+  double enKucuk = A[0];
+  for (int i = 1; i < A.Length; i++)
+  {
+    if (A[i] < enKucuk)
+      enKucuk = A[i];
+  }
+  return enkucuk;
+}  
     
   
   
