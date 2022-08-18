@@ -868,7 +868,100 @@ double EnKucukBul(double[] A)
   }
   return enkucuk;
 }  
-    
+
+
+
+
+Code Example 06: İç içe döngünün çalışma zamanı analizi
+İçiçe döngüler
+                                Maliyet   Defa
+i=1;                            c1        1
+sum = 0;                        c2        1
+while (i <= n) {                c3        n+1         # Dıştaki döngü içteki satırlar üzerinde çarpan etkisine sahip, dolayısıyla 
+  j=1;                          c4        n           # j=1 aslında tek 1 maliyete sahip ama dıştaki döngü n kez döndüğü için n olarak ifade edilir yani n*1=n
+  while (j <= n) {              c5        n*(n+1)     # yukardaki yorumun devamı olarak bu tarz bir ifadeyse karşılaşılırsa ilk önce içteki döngü çözümlenir. Dıştaki döngü kaç kez dönüyorsa onu çarpan olarak dağıtırız.
+    sum = sum + i;              c6        n*n 
+    j = j+ 1;                   c7        n*n         # buraya kadarki yani süslü paranteze kadarki tüm n ifadesi dıştaki döngüden geliyor.
+  }
+  i = i+1;                      c8        n           # normalde 1 kez çalışır ama en yukardaki döngüden dolayı n kez çalışıyor
+}
+
+Toplam Maliyet = c1 + c2 + (n+1)*c3 + n*c4 + n*(n+1)*c5 + n*n*c6 + n*n*c7 + n*c8
+Bu algoritmanın çalışma zamanı n² orantılıdır.
+
+
+Code Example 07: İç içe döngünün çalışma zamanı analizi
+int matrisElemanlarininToplami(int[,] A)
+{
+  int toplam = 0;                 1
+  int n = A.GetLength(0);         1
+  int m = A.GetLength(1);         1
+  for (int i = 0; i < n; i++)     1 + n+1 + 1 = 2n+2    yani süslü parantezin içindekiler hesaba katılarak oraya kadar n kez 
+  {
+    for (int j=0; j<m; j++)       1 + m+1 + m = 2m+2    burada dikkat edilmesi gereken ikinci bir değişken var m
+    {                                          (2m+2)*n dıştaki for düngüsü çarpan etkisi yapıldı
+      toplam += A[i, j];          m*n                   bu satır da for döngüsüne göre m kez dönmüş olcak
+    }
+    return toplam;                1
+}
+
+
+T(n,m) = 3 + 2n+2 + n*(2m+2) + n*m + 1 = ?
+T ifademiz sadece n'e değil m'e de bağlı T(n,m)
+
+
+
+
+
+Code Example 08: Ardışık programların çalışma zamanı analizi
+void ardisikProgramlama(int n)
+{
+  int toplam = 0;
+  for (int i=1; i<=n; i++)
+    toplam ++;
+
+  for (int i=1; i<=n; i++)
+    for (int j=1; j<n; j++)
+      toplam ++;
+  Console.WriteLine(toplam);
+}
+
+
+Code Example 09: Döngü sayısının ardışık artmadığı durumları değerlendirme
+# Logaritmalı örnek
+void hesapla(int k)
+{
+  int sayac = 0;
+  while (k>1)
+  {
+    saya++;
+    k /= 2;
+  }
+  Console.WriteLine(sayac);
+}
+
+
+
+Code Example 10: Özyinelemeli (rekürsif) bir metodun çalışma zamanı analizi
+int faktoriyel(int n)
+{
+  if(n <= 1)
+    return 1;
+  else
+    return n * faktoriyel(n - 1);
+}
+
+
+
+2.5 Big O Natasyon
+
+
+
+
+
+
+
+
   
   
   
