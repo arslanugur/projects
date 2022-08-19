@@ -953,22 +953,92 @@ int faktoriyel(int n)
 
 
 
-2.5 Big O Natasyon
+2.5 Big-Oh Notasyon
+Örnek:
+A şehrinden B şehrine nasıl gidilir?
+1. Uçak       maliyeti 2 saat 1000lira
+2. Tren       maliyeti 8 saat 500lira
+3. Araba      maliyeti 4 saat 400lira
+  Seçenekler(Algoritmalar) çoğaltılabilir - Karşılaştırma yapmak için analiz etmemiz gerek
+
+Sıralama Algoritmaları
+- Insertion
+- Selection
+- Quicksort
+- Binary
+- Bubble
+
+Big Oh amacı: sabit faktörleri ve düşük dereceli terimleri bastırarak büyük ölçekli girişler için algoritmanın davranışını kodlayabilmek
+Algoritmalrı çalışma zamanına göre sınıflayabilmek.
+
+Big-Oh
+|f(n)| ≤ c * |g(n)|, tüm n ≥ n。
+"Pozitif tam sayılardan pozitif tam sayılara kadar 
+      f(n) ve g(n) monotonik(sürekli artan) fonksiyonlar için 
+        c > 0 (sabit değer 0dan büyük olacak) ve n。> 0 (giriş değeri 0dan büyük olacak) sabitleri olduğunda f(n) = 0(g(n)) şekliden temsil ifade edilir."
+          ve n ≥ n。(n, n。'dan büyük olacak)
+
+"Sezgisel olarak, bu f(n) fonksiyonunun g(n)'den daha hızlı büyümediği
+  veya g(n) fonksiyonunun f(n) için, yeterince büyük olan n →→ ∞ için bir üst sınır olduğu anlamına gelir."
 
 
-
-
-
-
-
-
+İki tane fonksiyon ver.
+f(n) = 50.n
+g(n) = n²
   
-  
-  
+|f(n)| ≤ c * |g(n)|  
+ f(n) ≤ c * g(n)      --> mutlak değerden kurtardık
+
+
+n       f(n)=50.n       g(n)=n²
+------------------------------
+1       50              1
+10      500             100       500 adımda çözüyor halen g(n), f(n)den verimli
+100     5000            10000     işler değişti, g(n) daha maliyetli hale geldi, daha hızlı büyüdü. n>n。
+1000
+....
+....
+ ∞ 
+
+Big oh ile en kötü durum analizi yapılır
+
+Çalışma Zamanı Analizi
+- Çalışma zamanı giriş boyutunun boyutuna bağlı olarak artar.
+- Giriş boyutu n'e bağlı olarak varsayım yapılmamalıdır.
+- n her zaman küçük olmayabilir. g(n) belli bir yerden sonra f(n)i geçti
+
+
+
+Çalışma Zamanı Analizi
+- Büyüme Hızı (Rate of Growth): Girdinin bir fonksiyonu olarak çalışma süresinin artma hızı. Büyüme hızını dikkate al
+- Alt Sıradan Terimler (Lower Order Terms): Bir fonksiyonun büyüme oranına ilişkin bir tahmin verildiğinde, 
+    daha yüksek dereceli şartlar için daha az önemli olduklarından, 
+      düşük dereceden terimleri düşürme eğilimindeyiz.
+          f(n) = n³ + 5n + 3    --->   O(n³).      ---> 5n ve 3 değerini dikkate almamak/düşürmek daha iyi
+      Daha düşük değere sahip terimleri dikkate almamak gerek.
+      n küp büyümeye etsiki olan en baskın değer
+      
+
+
+
+Big oh Notasyonu uygulamaları
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+ xⁿ²³。
 
 
 
