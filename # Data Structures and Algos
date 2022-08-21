@@ -1,0 +1,484 @@
+BTK ALGORİTMA VE VERİ YAPILARI İLERİ SEVİYE ---> C# Programlama dili
+01 Intro
+02 Algorithm Analysis and Asymptotic Notations
+03 Array and Collections
+04 Linked List
+05 Stack
+06 Queue
+07 Trees
+08 Priority Queue and Heap
+09 Disjoint Sets
+10 Graph
+11 Graph-based Algorithms
+12 Sorting Algorithms
+
+Kazanımlar
+- Verinin bellek üzerinde organizasyonu kavramak
+- Doğrusal ve Doğrusal olmayan veri yapılarını açıklamak
+- Doğrusal ve Doğrusal olmayan veri yapılarını kodlayabilmek
+- Recursive ve Generic kodlama becerisi geliştirmek
+- Veri yapılarını ile ilişkili algoritmalar hakkında bilgi sahibi olur
+- Algoritma tasarım stratejileri hakkında bilgi sahibi olmak
+- Özgün veri türleri tasarlayıp, kodlamak
+
+C# Components: Delegate, Event, Generic, Dynamic, LINQ
+  Lambda Expression, expression-bodied members,getters,and setter
+
+
+Veri Yapısı (Data Structure)
+  Veri yapısı, veriye erişimi, verinin depolanmasını ve verinin organizasyonunu temsil eden bir kavramdır.
+  Bir veri yapısı, veri değerleri, veriler arasındaki ilişkiler ve verilere uygulanabilecek işlevler veya işlemlerin bir koleksiyonudur.
+  Probleme uygun bir veri kullanıp verileri organize etmek
+
+
+Veri Yapısı, Veriyi işlemek manipüle etmek için kullanılması gereken mekanizmalara ihtiyaç var
+
+# Veri Yapıları (Data Structures)
+Linear                            
+  Array
+    single dimension array
+    multi dimension array
+  List
+    array list
+    generic list
+    sorted list
+    linked list
+  Stack
+  Queue
+  
+Non-Linear
+  Graph
+    Tree
+      Binary Tree
+        Binary Search Tree
+          Self Balancing Tree
+            AVL Tree
+            Red-Black Tree
+    
+    Heap
+      Binary heap
+      Binominal heap
+      Fibonacci heap
+      
+      
+
+# Veri Türleri (Data Types)
+Data Types: Value Types, Reference Types
+            Value Types: struct, enum
+            Reference Types: class, interface, delegate
+            
+Built-in data type (value): short, int, double, char, decimal            
+Built-in data type (reference): object, string, dynamic         
+
+Custom/user defined data type (value): struct
+Custom/user defined data type (reference): class      (OOP)
+
+
+
+
+
+# VERİNİN BELLEK ÜZERİNDEKİ ORGANİZASYONU
+
+Değişken (Valuable)
+Hafızada ayrılan yere bir değer yer ayırmak atamak, gerekli durumlarda ayrılan yere değer atamak, değeri değiştirmek ve okumak için kullanılan programlama bileşeni değişken olarak adlandırılır.
+• Bir başka ifadeyle değişken, bir değeri tutan depolama konumudur.
+• Değişken, üç temel boyutu ile düşünülmelidir.
+  - Name
+  - Type
+  - Value
+
+* Constant, Sabitler program boyunca değeri değişmeyen özel bir değişken türü olarak düşünülebilir
+1.5 - Veri Organizasyonu videosunu tekrar izle: sbyte ile byte organisazyonu tamamen farklı. türlerin farklılıkları ve ilgilendikleri değerler önemli bellek üzerinde hesaplanması ve organizasyonu
+
+
+
+
+# Soyut Veri Türü (Abstract Data Type)
+Stack (Yığın) Ana işlevler
+  push(T item)
+  pop()
+  peek()
+  
+Queue (Kuyruk) Ana İşlevler
+  enQueue(T item)
+  deQueue()
+  peek()
+
+        * Angry Birds - Oyunda, Kuşların sıralı şekilde atılması
+
+
+
+
+
+02. Algorithms Analysis and Asymptotic Notations
+Algoritma için 5 tane temel özellik
+- Girişi olmalı
+- Çıkışı olmalı
+- Her adımdı tanımlı olmalı
+- Sınırlı sayıda adımda olmalı
+- Etkililik (Zamansal/Uzaysal Analiz)
+
+
+Time Complexity (Zaman Karmaşıklığı) --> T(n)
+  n = algoritmanın girdisi
+        • Dizi (boyutu doğrudan etki eder)
+        • Polinom (polinom derecesi etki eder)
+        • Matris (eleman sayısı etki eder) --> 1 elemanlı bir veriyle 100 elemanlı bir veri farklı zamanlarda çalışır.
+        • İkilik veri (bit sayısı etki eder)
+        • Graf (kenar ve düğüm sayısı etki eder)
+
+      • Algoritmanın dayandığı paradigma/yaklaşım (Çözüm kümesi)
+            Backtracking
+            Branch and bound
+            Brute-force search
+            Divide and conquer
+            Dynamic programming
+            Greedy algorithm
+            Prune and search
+
+* Bir problemi çözmenin farklı yolları olabilir burda söz konusu kullanılan strateji
+      Örneğin rasgele bir sayı dizisini Binary Search ile çözümlemek
+                                  ya da Sequential Search ile çözümlemek
+                                  
+                                  Çalışma Süresi: Hangisinin daha iyi olduğu önemli çözüm için buradaki durum zaman karmaşıklığında bize çözüme en hızlı yola gitmek için önemli
+                                  Süre zamanı değil, işlem sayısını ifade eder
+                                  
+* Giriş boyutunun büyümesi: Growing Problem: Her zaman sonsuza giderken nasıl büyüdüğünü düşünmeliyiz
+      Asimptotik Natasyonlar
+        - Time Complexity (n)
+        - Space Cost (n)
+        - Space Complexity (n)
+        
+        
+
+
+# Running Time Analysis - Çalışma/Yürütme Zamanı Analizi
+
+Bir Algoritmanın Yürütme Zamanı Analizi (Running time analysis)
+
+SORTED ARRAY | UNSORTED ARRAY
+           7 | 8 | 2 | 4 | 6 | 3        unsorted arrayden bir eleman alınıp sorted arraye uygun olan pozisyona yerleştirmek
+            <- 5
+Insertion Sort Algorithm Steps
+01. SELECT THE FIRST UNSORTED ELEMENT
+02. SWAP OTHER ELEMENTS TO THE RIGHT TO CREATE THE CORRECT POSITION AND SHIFT THE UNSORTED ELEMENT.
+03. ADVANCE THE MARKER TO THE RIGHT ONE ELEMENT
+
+Solution:
+           2 | 3 | 4 | 5 | 6 | 7 | 8 
+
+Pseudo Code: 8 Satırlık Kod                               Calculation
+INSERTION-SORT(A)                   Cost  Times           (Her bir satırın maliyetini ve kaç kez çalışacağını hesaplamak)
+for j <- 2 to length[A]             C_1   n               c_1 * n
+  do key <- A[j]                    C_2   n-1             c_2 * n-1
+    ▷ Insert A[j] into the sorted
+             sequence A[1..j-1].    0     n-1             no cost
+    i <- j - 1                      C_4   n-1             c_4 * n-1
+    while i > 0 and A[i] > key      C_5   Σn_j=2t_j
+      do A[i+1] <- A[i]             C_6   Σn_j=2(t_j-1)
+        i <- i-1                    C_7   Σn_j=2(t_j-1)
+    A[i+1] <- key                   C_8   n-1
+                                                         + Hepsi toplamı bize yürütme zamanının analizini verir.
+                                                         T(n) elde edilir.
+
+Kod üzerinden yürütme zaman analizine geçersek C#
+Bir döngünün çalışma zamanı analizi
+Döngü (Loop)                        Cost  Times
+i = 1;                              c1    1
+sum = 0;                            c2    1
+while (i <= n) {                    c3    n+1
+  i= i+ 1;                          c4    n
+  sum = sum + i;                    c5    n
+}
+                                    Total Cost = c1 + c2 + (n+1) * c3 + n * c4 + n * c5
+                                    Bu algoritmanın büyüme hızı n değeri ile orantılıdır.
+
+Code Example 01: Her bir satırın sabit maliyeti olduğunu düşünelim ve C = 1 diyelim
+int kareToplami(int N)
+{
+  int i, toplam = 0;              # İki tane değişken tanımlanmış, tek bir tane ; var. Yani tek bir komutla bu işi yapıyoruz bu sabit maliyetli ve 1 maliyete sahip
+  for (i = 0; i < N; i++)         # i = 0 atama yapılmış 1 birimlik işlem. i, 0dan başlar parametre olarak gelen n'e bağlı olarak çalışıyor, dolayısıyla n kez döner, 1 kez de döngünün kırılma durumundaki karşılaştırma var n+1 oluyor. i++ ise n kez arttırım yapılacağını gösterir n olur.  yani 2n+2 lik bir maliyete sahip 
+  {
+    toplam += i * i;              # for döngüsü n kez çalışacağı için maliyeti de n olacak
+  }
+  return toplam;                  # return ifadesi de 1 kez çalışacak
+}
+
+İlgili kod bloğunu incelediğimiz zaman: T(n) = 1 + 2n+2 + n + 1
+                                        T(n) = 3n+5 olarak hesaplanır
+                                        
+                                        
+
+Code Example 02: 
+double OrtalamaHesapla(double[] A)
+{
+  double ortalama = 0, toplam = 0;
+  for (int i = 0; i < A.Length; i++)
+  {
+    toplam + A[i];
+  }
+  ortalama = toplam /A.Length;
+  return ortalama;
+
+}
+
+
+Code Example 03: Koşul ifadesi içeren bir döngünün çalışma zamanı analizi
+Eğer koşul ifadesi içeren bir kod parçacığı var ise
+                      Cost  Times
+if (n < 0)            c1    1
+  absval = -n         c2    1
+else
+  absval = n;         c3    1
+
+Toplam Maliyet <= c1 + max(c2,c3)
+
+# If bloklarında, Koşulun doğru olması durumunda bir blok çalışır, olmazsa başka bir ifade çalışıp yoluna devam eder. Yani her ikisi de çalışmaz.
+  Doğru olursa C2 diyelim, yanlış ise C3 diyelim
+  Koşul ifadesi görüldüğü yerde maximum karmaşıklık ifade edilir. max(c2,c3)
+  İşlem nerdeyse o dikkate alınır c2de ise c2 dikkate alınır değilse diğeri dikkate alınır.
+
+
+
+
+
+Code Example 04: Ardışık programların çalışma zamanı analizi
+void kosulBloklari(int n)
+{
+  int toplam = 0;                     # 1
+  if (n % 2 == 0)                     # Her hülakarda 1 kez çalışacak. 
+    for (int i= 1; i <= n; i ++)      # 2n+2
+      toplam += i * i;                # n
+  else                                # doğru olmaması durumuna bakarsak
+      for (int i= 0; i< n; i ++)      # 2n+2
+        for (int j = 0; j< n; j ++)   # j için de 2n+2lik bir ifade var. içiçe bir döngü var. ilk for döngüsü n kez döndüğü için çarpan etkisi var. bu da (2n+2).n
+          toplam += i;                # for yüzünden n kez bir n de dışardaki ilk fordan gelir n2 (n kare) olur
+  Console.WriteLine(toplam);          # 1
+}
+
+          T(n) = 1 + 1 + (2n+2) + 2nkare + 2n + nkare + 1
+          T(n) = 3nkare + 4n + 5
+  
+  
+  
+  
+Code Example 05: Koşul ifadesi içeren bir döngünün çalışma zamanı analizi
+double EnKucukBul(double[] A)
+{
+  double enKucuk = A[0];
+  for (int i = 1; i < A.Length; i++)
+  {
+    if (A[i] < enKucuk)
+      enKucuk = A[i];
+  }
+  return enkucuk;
+}  
+
+
+
+
+Code Example 06: İç içe döngünün çalışma zamanı analizi
+İçiçe döngüler
+                                Maliyet   Defa
+i=1;                            c1        1
+sum = 0;                        c2        1
+while (i <= n) {                c3        n+1         # Dıştaki döngü içteki satırlar üzerinde çarpan etkisine sahip, dolayısıyla 
+  j=1;                          c4        n           # j=1 aslında tek 1 maliyete sahip ama dıştaki döngü n kez döndüğü için n olarak ifade edilir yani n*1=n
+  while (j <= n) {              c5        n*(n+1)     # yukardaki yorumun devamı olarak bu tarz bir ifadeyse karşılaşılırsa ilk önce içteki döngü çözümlenir. Dıştaki döngü kaç kez dönüyorsa onu çarpan olarak dağıtırız.
+    sum = sum + i;              c6        n*n 
+    j = j+ 1;                   c7        n*n         # buraya kadarki yani süslü paranteze kadarki tüm n ifadesi dıştaki döngüden geliyor.
+  }
+  i = i+1;                      c8        n           # normalde 1 kez çalışır ama en yukardaki döngüden dolayı n kez çalışıyor
+}
+
+Toplam Maliyet = c1 + c2 + (n+1)*c3 + n*c4 + n*(n+1)*c5 + n*n*c6 + n*n*c7 + n*c8
+Bu algoritmanın çalışma zamanı n² orantılıdır.
+
+
+Code Example 07: İç içe döngünün çalışma zamanı analizi
+int matrisElemanlarininToplami(int[,] A)
+{
+  int toplam = 0;                 1
+  int n = A.GetLength(0);         1
+  int m = A.GetLength(1);         1
+  for (int i = 0; i < n; i++)     1 + n+1 + 1 = 2n+2    yani süslü parantezin içindekiler hesaba katılarak oraya kadar n kez 
+  {
+    for (int j=0; j<m; j++)       1 + m+1 + m = 2m+2    burada dikkat edilmesi gereken ikinci bir değişken var m
+    {                                          (2m+2)*n dıştaki for düngüsü çarpan etkisi yapıldı
+      toplam += A[i, j];          m*n                   bu satır da for döngüsüne göre m kez dönmüş olcak
+    }
+    return toplam;                1
+}
+
+
+T(n,m) = 3 + 2n+2 + n*(2m+2) + n*m + 1 = ?
+T ifademiz sadece n'e değil m'e de bağlı T(n,m)
+
+
+
+
+
+Code Example 08: Ardışık programların çalışma zamanı analizi
+void ardisikProgramlama(int n)
+{
+  int toplam = 0;
+  for (int i=1; i<=n; i++)
+    toplam ++;
+
+  for (int i=1; i<=n; i++)
+    for (int j=1; j<n; j++)
+      toplam ++;
+  Console.WriteLine(toplam);
+}
+
+
+Code Example 09: Döngü sayısının ardışık artmadığı durumları değerlendirme
+# Logaritmalı örnek
+void hesapla(int k)
+{
+  int sayac = 0;
+  while (k>1)
+  {
+    saya++;
+    k /= 2;
+  }
+  Console.WriteLine(sayac);
+}
+
+
+
+Code Example 10: Özyinelemeli (rekürsif) bir metodun çalışma zamanı analizi
+int faktoriyel(int n)
+{
+  if(n <= 1)
+    return 1;
+  else
+    return n * faktoriyel(n - 1);
+}
+
+
+
+2.5 Big-Oh Notasyon
+Örnek:
+A şehrinden B şehrine nasıl gidilir?
+1. Uçak       maliyeti 2 saat 1000lira
+2. Tren       maliyeti 8 saat 500lira
+3. Araba      maliyeti 4 saat 400lira
+  Seçenekler(Algoritmalar) çoğaltılabilir - Karşılaştırma yapmak için analiz etmemiz gerek
+
+Sıralama Algoritmaları
+- Insertion
+- Selection
+- Quicksort
+- Binary
+- Bubble
+
+Big Oh amacı: sabit faktörleri ve düşük dereceli terimleri bastırarak büyük ölçekli girişler için algoritmanın davranışını kodlayabilmek
+Algoritmalrı çalışma zamanına göre sınıflayabilmek.
+
+Big-Oh
+|f(n)| ≤ c * |g(n)|, tüm n ≥ n。
+"Pozitif tam sayılardan pozitif tam sayılara kadar 
+      f(n) ve g(n) monotonik(sürekli artan) fonksiyonlar için 
+        c > 0 (sabit değer 0dan büyük olacak) ve n。> 0 (giriş değeri 0dan büyük olacak) sabitleri olduğunda f(n) = 0(g(n)) şekliden temsil ifade edilir."
+          ve n ≥ n。(n, n。'dan büyük olacak)
+
+"Sezgisel olarak, bu f(n) fonksiyonunun g(n)'den daha hızlı büyümediği
+  veya g(n) fonksiyonunun f(n) için, yeterince büyük olan n →→ ∞ için bir üst sınır olduğu anlamına gelir."
+
+
+İki tane fonksiyon ver.
+f(n) = 50.n
+g(n) = n²
+  
+|f(n)| ≤ c * |g(n)|  
+ f(n) ≤ c * g(n)      --> mutlak değerden kurtardık
+
+
+n       f(n)=50.n       g(n)=n²
+------------------------------
+1       50              1
+10      500             100       500 adımda çözüyor halen g(n), f(n)den verimli
+100     5000            10000     işler değişti, g(n) daha maliyetli hale geldi, daha hızlı büyüdü. n>n。
+1000
+....
+....
+ ∞ 
+
+Big oh ile en kötü durum analizi yapılır
+
+Çalışma Zamanı Analizi
+- Çalışma zamanı giriş boyutunun boyutuna bağlı olarak artar.
+- Giriş boyutu n'e bağlı olarak varsayım yapılmamalıdır.
+- n her zaman küçük olmayabilir. g(n) belli bir yerden sonra f(n)i geçti
+
+
+
+Çalışma Zamanı Analizi
+- Büyüme Hızı (Rate of Growth): Girdinin bir fonksiyonu olarak çalışma süresinin artma hızı. Büyüme hızını dikkate al
+- Alt Sıradan Terimler (Lower Order Terms): Bir fonksiyonun büyüme oranına ilişkin bir tahmin verildiğinde, 
+    daha yüksek dereceli şartlar için daha az önemli olduklarından, 
+      düşük dereceden terimleri düşürme eğilimindeyiz.
+          f(n) = n³ + 5n + 3    --->   O(n³).      ---> 5n ve 3 değerini dikkate almamak/düşürmek daha iyi
+      Daha düşük değere sahip terimleri dikkate almamak gerek.
+      n küp büyümeye etsiki olan en baskın değer
+      
+
+
+
+Big oh Notasyonu uygulamaları
+
+
+Ölçüm Türleri
+- Worst Case (En kötü durum)    big-oh
+- Best Case (en iyi durum)      omega
+- Average Case (ortalama durum) tetha
+
+Big-Oh Genel Kurallar
+1. Sabitler ihmal edilir (constant factor). Daha düşük terimler atılabilir.
+    T(n) = 5n + 3     => O(n)
+    T(n) = 10n + 99   => O(n)
+    T(n) = 1000n      => O(n)
+2. Baskın terim dikkate alınır.
+    O(1) < 0(logn) < O(n)         O(1) --> sabit zamanlı bir ifade, 0(logn) --> logaritmik zamanlı bir ifade, O(n) --> doğrusal zamanlı bir ifade
+    O(n²+5n+100) => 0(n²)
+
+      n² --> sanki iki tane içiçe for döngüsü var gibi düşün
+      5n --> sadece bir for döngüsü var gibi düşün
+      100 --> sabit işlemler var gibi düşün
+
+Examples:
+Fonksiyon                   Big O (En baskın karakterleri yaz)
+----------------------------------
+n^4 + 100n² + 10n + 50      O(n^4)
+10n³ + 2n²                  O(n³)
+n³-n²                       O(n³)
+10                          0(1)        Sabit zamanlıysa her zaman 1 olur
+1273                        0(1)
+
+
+
+
+Example:
+f(x) = x² + 2x+1 is O(x²)
+  İstediğimiz şey --> f(x) <= cg(n)
+Çözüm: 
+  x² + 2x+1 ≤ x² + 2x² + x²
+  x² + 2x+1 ≤ 4.x²
+  c = 4 olur
+  
+  Bu ise big-Oh notasyonu kapsamında --> f(x) = O(g(n))
+                                              = O(x²)
+                                              
+  
+Examples:  
+f(x) = x² + 2x+1 is 0(x²)
+x² + 2x+1 ≤ Cx² when x > k
+0 ≤ x² + 2x+1 ≤ x² + 2x² + x² = 4x²
+  
+  
+  
+
+
+
+≤ xⁿ²³。
