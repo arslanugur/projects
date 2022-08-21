@@ -1024,21 +1024,59 @@ Big oh ile en kötü durum analizi yapılır
 Big oh Notasyonu uygulamaları
 
 
+Ölçüm Türleri
+- Worst Case (En kötü durum)    big-oh
+- Best Case (en iyi durum)      omega
+- Average Case (ortalama durum) tetha
+
+Big-Oh Genel Kurallar
+1. Sabitler ihmal edilir (constant factor). Daha düşük terimler atılabilir.
+    T(n) = 5n + 3     => O(n)
+    T(n) = 10n + 99   => O(n)
+    T(n) = 1000n      => O(n)
+2. Baskın terim dikkate alınır.
+    O(1) < 0(logn) < O(n)         O(1) --> sabit zamanlı bir ifade, 0(logn) --> logaritmik zamanlı bir ifade, O(n) --> doğrusal zamanlı bir ifade
+    O(n²+5n+100) => 0(n²)
+
+      n² --> sanki iki tane içiçe for döngüsü var gibi düşün
+      5n --> sadece bir for döngüsü var gibi düşün
+      100 --> sabit işlemler var gibi düşün
+
+Examples:
+Fonksiyon                   Big O (En baskın karakterleri yaz)
+----------------------------------
+n^4 + 100n² + 10n + 50      O(n^4)
+10n³ + 2n²                  O(n³)
+n³-n²                       O(n³)
+10                          0(1)        Sabit zamanlıysa her zaman 1 olur
+1273                        0(1)
 
 
 
 
+Example:
+f(x) = x² + 2x+1 is O(x²)
+  İstediğimiz şey --> f(x) <= cg(n)
+Çözüm: 
+  x² + 2x+1 ≤ x² + 2x² + x²
+  x² + 2x+1 ≤ 4.x²
+  c = 4 olur
+  
+  Bu ise big-Oh notasyonu kapsamında --> f(x) = O(g(n))
+                                              = O(x²)
+                                              
+  
+Examples:  
+f(x) = x² + 2x+1 is 0(x²)
+x² + 2x+1 ≤ Cx² when x > k
+0 ≤ x² + 2x+1 ≤ x² + 2x² + x² = 4x²
+  
+  
+  
 
 
 
-
-
-
-
-
-
-
- xⁿ²³。
+≤ xⁿ²³。
 
 
 
