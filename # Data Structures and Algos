@@ -471,14 +471,39 @@ f(x) = x² + 2x+1 is O(x²)
                                               = O(x²)
                                               
   
-Examples:  
+Example:  
 f(x) = x² + 2x+1 is 0(x²)
 x² + 2x+1 ≤ Cx² when x > k
+Solution:
 0 ≤ x² + 2x+1 ≤ x² + 2x² + x² = 4x²
   
+Example:
+  ilk versiyon:   f(x) = x² + 2x+1 is 0(x²)
+  ikinci version: x² + 2x+1 is 0(x³)        Maliyeti daha fazla olur küp yüzünden.
+  Bu yüzden ilk versiyonu tercih ederiz.
   
-  
+Example:
+n! ifadesinin O(n") olduğunu gösterelim. (n üzeri n)
+:. n! ≤ C.n" bazı n>k                         n! - n'e kadar gider
+:. 1.2.3. ... .n ≤ n.n.n. ... .n  = f(x) = O(g(n)) = O(n üzeri n)
+C=1 ve k=1 olduğunda n!= O(n")
+
+
+Example:
+f(n) = n² , O(n) olmaz!!!
+
+:. n² ≤ C.n for some n>k
+:. n² / n ≤ C.n / n
+:. n ≤ C
+  Burada n değişkendir ve C ise bu sabittir.
+  Doğrusal değildir.
+
+
+Example:
+Eğer f₁(n) -> O(g₁(n)) and f₂(n)-> O(g₂(n)) ise
+f(n) * f₂(n) is O(g₁(n) * g₂(n))
 
 
 
-≤ xⁿ²³。
+
+≤ xⁿ²³。₁₂
