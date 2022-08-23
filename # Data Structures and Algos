@@ -504,6 +504,118 @@ Eğer f₁(n) -> O(g₁(n)) and f₂(n)-> O(g₂(n)) ise
 f(n) * f₂(n) is O(g₁(n) * g₂(n))
 
 
+Example: (3n+1)*(2n+log n) ilgili örneğin derecesi nedir?
+          3n+1              -> O(n)
+                 2n+log n   -> O(n)
+         (3n+1)*(2n+log n)  -> O(n*n)=O(n²)
 
 
-≤ xⁿ²³。₁₂
+
+n-Giriş boyutu: Karmaşıklığını küçükten büyüğe doğru sıralanması. (Sık kullanılan fonksiyonlar)
+    Sabit Zaman: 0(1)                     En iyi durum (Girdi ne kadar büyürse büyüsün değişmediği için)
+    Logaritmik Zaman: O(log(n))
+    Doğrusal Zaman: O(n)
+    Doğrusal-logaritmik Zaman: O(n log(n))
+    İkinci Dereceden Zaman: O(n²)         Karesel ifadelerde büyüme artar.
+    Kubik Zaman: O(n³)
+    Üstel Zaman: 0(b üssü n)        b>1
+    Faktorivel Zaman: O(n!)               En kötü durum
+
+    Operations and Elements Graph
+
+
+
+Algoritmanın Zaman Karmaşıklığı
+
+                                        n
+         ------------------------------------------------------------------
+Function  10  100       1,000     10,000        100,000       1,000,000
+---------------------------------------------------------------------------
+1         1   1         1         1             1             1
+log₂n     3   6         9         13            16            19
+n         10  10²       10³       10üssü4       10üssü5       10üssü6
+n *log₂n  30  664       9,965     10üssü5       10üssü6       10üssü7
+n²        10² 10üssü4   10üssü6   10üssü8       10üssü10      10üssü12
+n³        10³ 10üssü6   10⁹       10üssü12      10üssü15      10üssü18
+2 üssü n  10³ 10üssü30  10üssü301 10üssü3,010   10üssü30,103  10üssü301,030
+
+
+Farklı veri yapılarını ve işlemlerini/fonksiyonlarını karşılaştırmak için big-oh notasyonunu kullandık.
+İlgi ifadeyi f(n)'i big-oh ile ifade edebilmek için bir C sabitine, bir de g(n) fonksiyonuna ihtiyacımız olur.
+Öyle bir nokta aradık ki bu noktadan sonra f(n) fonksiyonu, cg(n) fonksiyonuyla sınırlamasını sağlamak gerekli grafikte de gösterildiği gibi. o nokta ise n。noktası.
+  Bu durumda da en kötü durumu konuşmuş oluyoruz. bunu da O notasyonunda gösteriyoruzç
+
+
+# OH notasyonu O             f(n) = O(g(n))
+O(g(n))=
+{
+  f(n):
+  Ǝ pozitif sabitler c and n。,
+  ∀ n ≥ n。,
+  0 ≤ f(n) ≤ cg(n)
+}
+
+
+Diğer Notasyonlara gelirsek;
+
+# THETA notasyonu θ             f(n) = θ(g(n))
+θ(g(n))=
+{
+  f(n):
+  Ǝ pozitif sabitler C₁,C₂,ve n。,
+  ∀ n ≥ n。,
+  0 ≤ c₁g(n) ≤ f(n) ≤ c₂g(n)
+}
+
+
+# OMEGA notasyonu Ω             f(n) = Ω(g(n))    (Grafikte O notasyonun tersi olarak gözükür.)
+Ω(g(n))=
+{
+  f(n):
+  Ǝ pozitif sabitler c and n。,
+  ∀ n ≥ n。,
+  0 ≤ cg(n) ≤ f(n)
+}
+
+
+
+# Small oh - o notasyonu
+o(g(n))=
+{
+  f(n): ∀ c>0, Ǝ n。>0
+  ∀ n ≥ n。,
+  0 ≤ f(n) < cg(n)
+}
+
+      g(n) üst sınırı f(n) için asimptotik olarak sıkı değildir.
+
+
+
+# Small Omega - w notasyonu               (to represent whole numbers. Whole numbers are counting numbers from 0 to infinity)
+o(g(n))=
+{
+  f(n): ∀ c>0, Ǝ n。>0
+  ∀ n ≥ n。,
+  0 ≤ f(n) < cg(n)
+}
+
+      g(n) alt sınırı f(n) için asimptotik olarak sıkı değildir.
+      
+      
+      
+      
+
+
+
+
+
+≤ xⁿ²³。₁₂ ≥
+
+
+
+
+
+
+
+
+
