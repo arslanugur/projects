@@ -600,16 +600,149 @@ o(g(n))=
 }
 
       g(n) alt sınırı f(n) için asimptotik olarak sıkı değildir.
-      
-      
-      
-      
+
+
+
+
+Fonksiyonların Karşılaştırılması
+f <-> g = a <-> b
+
+f(n) = O (g(n)) ≈ a ≤ b       worst case
+f(n) = Ω (g(n)) ≈ a ≥ b       best case
+f(n) = θ (g(n)) ≈ a = b       average case
+f(n) = o (g(n)) ≈ a < b
+f(n) = w (g(n)) ≈ a > b
+
+
+
+Monotonluk (Bir fonksiyon ne zman artar/azalır)
+• f(n)fonksiyonu:
+  • Monoton artandır:     eğer m ≤ n ⇒ f(m)≤f(n)
+  • Monoton azalandır:    eğer m ≥ n ⇒ f(m)≥f(n)
+  • Kesinlikle artandır:  eğer m < n ⇒ f(m)<f(n)
+  • Kesinlikle azalandır: eğer m > n ⇒ f(m)>f(n)
+
+  Bu işlemler LİMİT konusuna bağlı olarak gerçekleştirilir
 
 
 
 
 
-≤ xⁿ²³。₁₂ ≥
+
+
+YENİ KONU
+Asymptotic Analysis (Kod üzerinde analiz)
+# loops (döngüler)
+n = 10                                        Sabit 1 maliyeti var
+for i in range(0,n):                          Bu satırda çevrim var, çevrim n'e göre çalışıyor
+  print('Current number: + str(i))
+
+   Total_time = a constant cx n = cn = 0(n)
+
+    Bu algonun büyümesindeki faktör doğrudan n'dir. O(c.n) = O(n) olarak ifade edilebilir.
+    
+
+
+# nested loops (içiçe döngüler)
+# outloop executed n times
+n = 10
+for i in range(0,n):                          dıştaki döngü n'e bağlı olarak çalışıyor
+  print('Current number: ' + str(i))
+  for j in range(0,n):                        içteki döngü de n'e bağlı olarak çalışıyor
+    print('Current number: ' + str(i) + ',' + str(j))
+                                              dıştaki döngünün içteki döngü üzerinde çarpan etki olduğundan dolayı baskın terim O(n²) olduğunu söyleriz.
+    Total_time = cx n x n = 0(n²)             yani karesel bir çalışma zamanına sahip olduğunu söyleyebiliriz.
+
+
+
+# Consecutive statements (Ardışıl bir ifade üzerinde analiz)  
+for i in range(0,n):
+  print('Current number: ' + str(i))          dıştaki n'e bağlı çalışıyor
+
+for i in range(0,n):
+  print('Current number: ' + str(i))
+  
+  for j in range(0,n):                        dıştaki döngünün içteki döngü üzerinde çarpan etki olduğundan dolayı baskın terim O(n²)
+    print('Current number: ' + str(i) + ',' + str(j))
+
+  Total_time = c。+ c₁n + c₂n² = 0(n²)         O(n²+n) ama baskın olan ifade alınır bu yüzden O(n²)
+
+
+
+# Logarithmic complexity
+def Logarithms(n):              log(2üzerik) = logn
+  i=1
+  while i<=n:                   klog2 = logn
+    i= i*2
+    print(i)                    k=n
+
+Logarithms(100)                 Total_time = 0(logn)
+
+
+
+Bir fonksiyon tanımı yapılıp n'i parametre olarak almış
+While döngüsüyle n'e bağlı olarak bir çevrim gerçekleşiyor. O(n) denilebilirdi ama farklılık şu ki 
+i (sayaç değeri) için her defasında 2 ile çarpılıyor yani 2 katı şeklinde ilerliyor (birer birer artmıyor)
+her defasında 2 kat büyüyor. 1 iken 2, 2 iken 4 böyle sürüp gidecek
+böyle bir döngüyle karşılaştığımızda bu döngüye K deriz. bunun anlamı döngü logaritmik bir çalışma zamanına sahip
+mesela n değerini 16 olarak verdiğimizi düşünürsek 1den 16ya kadar 2 katı ile sayar. 32ye geldiğinde 32<=16 hayır değil, döngü burda durur.
+yani n 16 olduğunda 5 adımda bunu bitirmiş oldu.
+Bir problem ikiye bölünebiliyorsa bu durumda logaritmik ifadelerle karşılaşılır.
+
+
+
+
+
+YENİ KONU
+RECURSION (ÖZYİNELEMELİ İFADELER)
+  - Kendini çağıran herhangi bir fonksiyon rekürsif (recursive) olarak adlandırılır.
+  - Özyinelemeli bir yöntem, daha küçük bir sorun üzerinde çalışmak için kendisinin bir kopyasını çağırarak bir sorunu çözer. 
+    Bu rekürsif adım (recursion step) olarak tanımlanır.
+  - Rekürsif adım çok daha fazla rekürsif çağrı ile sonuçlanır.
+  - Base Case (Temel Durum) ulaştığı an durur.
+  
+  - Durma koşulu olmalıdır.
+  - Küçük problemlerin daha küçük dizileri temel duruma(base case) yakınsamalıdır.
+  - Çoğu zaman iteratif kod yazmaktan daha kısa ve kolaydır.
+  - Benzer alt görevlerin kullanımında daha kullanışlı olurlar. 
+    Sıralama, arama ve gezinme problemleri bu duruma örnek olarak gösterilebilir.
+
+
+Özyinelemeli Fonksiyonların Formatı (Format of Recursive Function)
+Pseudo Code:
+if(test for the base case)
+  return some base case value
+else if(test for another base case)
+  return some another base case value
+else
+  return (some work and then a recursive call)
+#
+Koşul ifadesi temel durumu ifade ediyor. Bu temel durumlar birden fazla olabilir.
+Faktöriyel hesaplaması, recursive function'u anlamak için ideal bir örnek
+5! = 5*4*3*2*1
+Burda bir yakınsama söz konusu, n değeri 1 değerine doğru gitmek istiyor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+≤ xⁿ²³。₁₂ ≥ ≈ 
 
 
 
