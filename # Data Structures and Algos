@@ -723,7 +723,111 @@ Faktöriyel hesaplaması, recursive function'u anlamak için ideal bir örnek
 Burda bir yakınsama söz konusu, n değeri 1 değerine doğru gitmek istiyor.
 
 
+n! = (1         n ≤ 1)
+     (n.(n-1)!  n > 1)
 
+            5!                                Her defasında n-1 olarak çağırılıyor
+Start   ->  5*4!             4!
+  120   <-  First Step   ->  4*3!              3!
+                    24   <-  Second Step   ->  3*2!             2!
+                                       6   <-  Third Step   ->  2*1!
+                                                        2   <-  Fourth Step   ->  1
+                                                                          1   <-  Sixth Step
+
+
+
+
+Diğer bir örneğini Fibonacci Serisinde Görebiliriz.
+Fibonacci Series 
+f_n = f(n) = (0               n = 0)
+             (1               n = 1)
+             (f(n-1)+f(n-2)   n > 1)
+
+Formüldeki n değeri indexleri temsil ediyor.
+           n değeri 2 ise = f(1) + f(0) toplamı şeklinde düşünmeliyiz
+
+Index       0   1   2   3   4   5   6   7     ...
+-------------------------------------------------
+Value       0   1   1   2   3   5   8   13    ...
+
+                            f(1) + f(2)       next value
+                              1  +   1    =   2
+                          
+                          Main Solution:  
+                          f(2-1) + f(3-2) =   1 + 1 = 2 is 3th index value
+
+
+
+Diğer bir örneğini Permütasyonda Görebiliriz.
+P(n,r) = (n  )  = n! / (n-r)!
+         (n-r) 
+
+Permütasyon({a,b,c}) ise;
+          1.   a Permütasyon({b,c})
+          1.1. b Permütasyon({c})→ abc
+          1.2. c Permütasyon({b})→ acb
+          
+          2.   b Permütasyon({a,c})
+          2.1. a Permütasyon({c})→ bac
+          2.2. c Permütasyon({a})→ bca
+          
+          3.   c Permutasyon({a,b})
+          3.1. a Permütasyon({b})→ cab
+          3.2. b Permütasyon({a})→ cha
+
+
+İki yaklaşım arasındaki farklar
+Özyineleme  vs  İterasyon
+- Temel durum (base case) ulaşınca durur.
+                - Bir koşulun yanlış olması durumunda durur.
+- Her rekürsif çağrı ekstra bellek alanı kullanır.
+                - Her bir iterasyon ekstra bellek gerektirmez.
+- Eğer sonsuz rekürsif çağrı yapılırsa; bellek taşma hatası alınır  (stack overflow).
+                - Ekstra bellek alanı gerektirmediğinden sonsuz döngüler sonsuza kadar devam eder.
+- Bazı problemlerin çözümü rekürsif olarak daha kolay ifade edilebilir.
+                - Iteratif çözümler rekürsif çözümler kadar açık olmayabilir.
+
+
+
+Özyineleme için Notlar
+- Rekürsif algoritmalar iki durum içermelidir.
+  • Rekürsif durumlar ve temel durum. (temel durum da birden fazla olabilir, fibonacci serisi gibi)
+- Her rekürsif fonksiyon durumu temel durumda durmalıdır, aksi durumda devam etmeli ama sonsuz olmamalı.
+- Genellikle iteratif çözümler rekürsif çözümlerden daha verimlidir.
+  • Çünkü ekstra bellek alanı kullanmazlar. Verim düşük olur. Ek olarak kuyruk oluşur bu da bellek alanı için iyi değil.
+- Bazı problemler en iyi rekürsif çözümler ile çözülebilirken bazıları için durum tam tersi olabilir.
+
+
+
+YENİ KONU
+Özyinelemeli Çağrılar (Example Algorithms of Recursion)
+• Fibonacci series
+• Factorial finding
+• Merge sort,quick sort
+• Binary search
+• Tree traversals and many tree problems:InOrder, PreOrder, PostOrder dolaşımlar
+• Graph Traversals:DFS,BFS. (Derinlik ve Genişlik odaklı aramalar)
+• Dynamic Programming Examples
+• Divide and Conquer Algorithms
+• Towers of Hanoi
+• Backtracking algorithms (Geriye doğru izleme)
+
+
+
+YENİ KONU
+ÖZYİNELEMELİ ALGORİTMALARIN ANALİZİ NASIL YAPILIR?
+Example: T(n) = T(n/2)+c,
+         T(1) = 1 ve n => 2 koşuluna uygun olarak ilgili yinelemenin çözümünü yerine koyma metodu (substition) ile çözünüz.
+
+
+
+Üç tane temel yaklaşım vardır;
+    - Substition yaklaşımı
+    - Iteration yaklaşımı
+    - Master teorem yaklaşımı
+    
+    
+    
 
 
 
