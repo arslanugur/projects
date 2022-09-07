@@ -816,11 +816,47 @@ YENİ KONU
 
 YENİ KONU
 ÖZYİNELEMELİ ALGORİTMALARIN ANALİZİ NASIL YAPILIR?
+YERİNE KOYMA METODU
 Example: T(n) = T(n/2)+c,
          T(1) = 1 ve n => 2 koşuluna uygun olarak ilgili yinelemenin çözümünü yerine koyma metodu (substition) ile çözünüz.
 
 
+          T(n) = T(n/2)+c
+                 Problem bu kısımda iki parçaya bölündü.
+                 Bu ifadeyi T(2) için yazarsak:
+          T(2) = T(1)+c
+                   1 +c     (T(1) ifadesinin 1'e karşılık geldiğini bilindiğinden 1+c olarak yazılabilir)    
+   
+                  Her defasında problemin ikiye bölünebildiğini biliyoruz. Bu yüzden;
+          T(4) = T(2)+c
+                 (1+c)+c    T(2) ifadesinin ne olduğunu biliyoruz
+                  1+2c
+                  
+          Bir adım daha ilerleyelim.
+          T(8) = T(4)+c
+                 (1+2c)+c
+                  1+3c
+          Bu şekilde artık problem kaç adım devam ediyorsa devam edilir. yani 2 üzeri k'ya kadar gitmiş olacak.
+          
+          Aslında T(2) = 2üzeri1, T(4) = 2², T(4) = 2³
+          
 
+                      Bu k aslında yukardaki işlemlere bağlı olarak çarpan olarak geliyor.
+          T(2üzerik) = 1+k.c olarak yazabiliriz.
+          
+                      Burdaki k ifadesini n cinsinden yazmak durumunda kalırız, amacımız T(n) şeklinde bir ifade.
+                      2üzerik = n tanımı yaparız.
+                      İkilik tabanlı bir işlem olduğu için logaritmaya giriş yapılır
+                      log_2 2üzerik ifadesi ortaya çıkar bu da aynı şekilde log_2 n şeklinde ifadeye eşittir.
+                      bunun sonucu olarak k başa çekilir bu da k = log_2 n şeklinde yazılır.
+                      
+                      
+          T(n) = 1 + logn.c           sabitler 1 ve katsayılar c gider, bu ifade sadece O(logn) şeklinde ifade edilebilir. 
+                                      bunun anlamı problemin logn zamanında çözülebilineceği anlamına gelir.
+                      
+          
+          
+          
 Üç tane temel yaklaşım vardır;
     - Substition yaklaşımı
     - Iteration yaklaşımı
@@ -828,6 +864,18 @@ Example: T(n) = T(n/2)+c,
     
     
     
+YENİ KONU
+ITERASYON YÖNTEMİ
+Example: T(n) = 2T(n/2)+n, n>1, T(1)=1 için iterasyon yöntemiyle çözünüz. 
+
+
+
+
+
+
+
+
+
 
 
 
