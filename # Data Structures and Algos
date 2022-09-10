@@ -868,26 +868,111 @@ YENİ KONU
 ITERASYON YÖNTEMİ
 Example: T(n) = 2T(n/2)+n, n>1, T(1)=1 için iterasyon yöntemiyle çözünüz. 
 
+Temel iterasyon
+      T(n) = 2T(n/2)+n
 
 
+Birinci iterasyonda
+      T(n/2) = 2T(n/4)+n/2
+      
+      Böylece:
+      T(n) = 2(2T(n/4)+(n/2))+n
+      T(n) = 2²T(n/4)+2n
 
+Bir iterasyon daha ilerletirsek
+      T(n/4) = 2T(n/8)+n/4
+      
+      Her bir iterasyonda bir öncekinin T(n/..) kullanılır
+      Böylece:
+      T(n) = 2²(2T(n/8)+(n/4))+2n
+      T(n) = 2³.T(n/8)+3n      
 
+      Her defasında T(n) hesaplanıyor yani.
 
+      Bu ifade k adımda ilerlediğini düşündüğümüzde;
+      T(n) = 2üzerik.T(n/2üzerik)+k.n
+      
+      k ifadesini n cinsinden yazmamız gerekli
+        uygun sonucun bizi 1'e götürdüğünü biliyoruz (T(1)=1)
+      n/2üzerik = 1       --> n = 2üzerik
+      
+      log_2 n = log_2 2üzerik
+      
+      logn = k
+      
+      T(n) = 2üzerik.T(n/2üzerik)+kn
+      
+             2üzerik n'e eşit olacak
+           = n.T(1)+logn.n
+           = n + nlogn
+           = nlogn          ortalama durum. bu problem çalıştırıldığı zaman nlogn gibi bir zman karmaşıklığında çözümlenmiş olacak
+           
+           
+YENİ KONU
+ANA TEOREM (MASTER TEOREM)
+Böl ve Yönet yaklaşımı için ana teorem konusu
+bu yaklaşımı merge sort, binary sort, quick sort gibi algolarda görebiliriz
 
+Örnek olarak elimizde bir dizi olduğunu varsayarsak,
+# A dizinin başlangıç indexi i, bitiş indexi j ve n tane elemandan oluşuyor
+Dizi üzerinde rasgele elemanlar var ve bunlar için sıralama işlemi yapalım
+quick sort kullanalım, algo parametre olarak bizden bir dizi isteyecek, başlangıç ve bitiş indexi isteyeck
+qs(A,i, j)
+    partitiion index olacak (bölütleme - diziyi iki parçaya ayırıcaz)
+          pi = partition(A, i, j) --> yine parametreleri bizden isteyecek
+    dizi içinde de bi pivot elemanımız olacak.
+    pivot ile diğer elemanları kıyaslayacak - pivottan küçük elemanları sola, büyük elemanları sağa alacak    
+    pivota bir nevi partition index'i diyebiliriz.
+    quick sortu tekrar çalıştırırız.
+      QS(A, i, pi-1)   ---> sol tarafı dikkat ederiz yani daha küçük bir parça üzerinde aynı algoyu tekrar çalıştırırız   
+      QS(A, pi+1, j)      ---> bu sefer sağ tarafı dikkate alırız. ve j'ye kadar çalıştırırız
 
+      Peki ya analizi
+          pi = partition(a, i ,j) ---> n adındaki arrayin tüm elemanlarını içerdiği için n kadar maliyetlidir.
+                                  ---> tetha(n)
+          QS(A, i, pi-1)          ---> T(n/b)   --> her bir ifade b olarak kabul edilir. yani b parçaya ayırdığını düşünürsek. uzunluk olarak
+          QS(A, pi+1, j)          ---> T(n/b) 
 
+          T(n) = T(n/b)+ T(n/b) + tetha(n)
+          T(n) = 2.T(n/b) + tetha(n)
 
+          Bu ifadenin söylediği ben 2.T(n/b) zamanında çalışırım. ve ek bir yüke sahibim bunu da f(n) ya da tetha(n) ile ifade ederim.
+          burda iki b var bunun anlamı dizi iki parçaya bölünmüş demek
+          Şimdi master teorem burda ne işimize yarayacak.
+          genel bir formülle yazarsak
+          T(n) = a.T(n/b)+tetha(n)
+          big oh notasyonu ne isterdi? - Baskın olan ifadeyi bulun.
+                 a.T(n/b) + tetha(n)
+                 --------   --------
+                     a          b
+                     
+                 bakılacak durumlar baskın ifadeyi bulmak için, çünkü big oh'da o terim dikkate alınacak.
+                 1. durum -> a>b       a büyük mü?
+                 2. durum -> a==b      a ile b arasında eşitlik var mı?
+                 3. durum -> a<b       a küçük mü?
+                 
+                 
+                a kısmı nüzerilogb tabanında a şeklinde yazarız
+                b kısmı da f(n) ile ifade edeceğiz
+                bu iki ifade karşılaştırılarak master teorem üzerinden çözüme gidilecek.
+                
+                eğer ilk durumdaki gibi a bden büyük ise baskın terim t(n/b) karmaşıklık buna göre hesaplanır.
+          T(n) =     tetha(n üzeri logb tabanında a) + f(n) = tetha(n üzeri log b tabanında a - epsilon)
+                eğer ikinci durum yani eşitlik söz konusu olduğunda
+          T(n) =     tetha(n üzeri log b tabanında a  logn) + f(n) = tetha(n üzeri log b tabanında a)
+                eğer üçüncü durum söz konusu olduğunda
+          T(n) =     tetha(f(n)) + f(n) = omega(n üzeri log b tabaında a + epsilon) --> yani ikinci kısım daha baskın
+                        bu durumda T(n) ifadesinin karmaşıklığı f(n) ifadesine eşit olacak
+                        doğrudan b parçasını dikkate alırız yani
+                tabi buralarda master teoremi uygulayabilmemiz için;
+                        a ≥ 1 olmalı
+                        b > 1 olmalı
+                        f(n) ifadesi asimptotic pozitif olmasını isteriz
+                
 
-
-
-
-
-
-
-
-
-
-
+YENİ KONU
+MASTER TEOREM ÖRNEKLERİ
+- Master Theorem for Divide and Conquer
 
 
 
