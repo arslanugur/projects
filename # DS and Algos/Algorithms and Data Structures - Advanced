@@ -483,9 +483,9 @@ Example:
   Bu yüzden ilk versiyonu tercih ederiz.
   
 Example:
-n! ifadesinin O(n") olduğunu gösterelim. (n üzeri n)
+n! ifadesinin O(n") olduğunu gösterelim. (n^n)
 :. n! ≤ C.n" bazı n>k                         n! - n'e kadar gider
-:. 1.2.3. ... .n ≤ n.n.n. ... .n  = f(x) = O(g(n)) = O(n üzeri n)
+:. 1.2.3. ... .n ≤ n.n.n. ... .n  = f(x) = O(g(n)) = O(n^n)
 C=1 ve k=1 olduğunda n!= O(n")
 
 
@@ -518,7 +518,7 @@ n-Giriş boyutu: Karmaşıklığını küçükten büyüğe doğru sıralanması
     Doğrusal-logaritmik Zaman: O(n log(n))
     İkinci Dereceden Zaman: O(n²)         Karesel ifadelerde büyüme artar.
     Kubik Zaman: O(n³)
-    Üstel Zaman: 0(b üssü n)        b>1
+    Üstel Zaman: 0(b^n)                   b>1
     Faktorivel Zaman: O(n!)               En kötü durum
 
     Operations and Elements Graph
@@ -529,21 +529,21 @@ Algoritmanın Zaman Karmaşıklığı
 
                                         n
          ------------------------------------------------------------------
-Function  10  100       1,000     10,000        100,000       1,000,000
+Function  10    100       1,000     10,000     100,000      1,000,000
 ---------------------------------------------------------------------------
-1         1   1         1         1             1             1
-log₂n     3   6         9         13            16            19
-n         10  10²       10³       10üssü4       10üssü5       10üssü6
-n *log₂n  30  664       9,965     10üssü5       10üssü6       10üssü7
-n²        10² 10üssü4   10üssü6   10üssü8       10üssü10      10üssü12
-n³        10³ 10üssü6   10⁹       10üssü12      10üssü15      10üssü18
-2 üssü n  10³ 10üssü30  10üssü301 10üssü3,010   10üssü30,103  10üssü301,030
+1         1     1         1         1          1            1
+log₂n     3     6         9         13         16           19
+n         10    10²       10³       10^4       10^5         10^6
+n *log₂n  30    664       9,965     10^5       10^6         10^7
+n²        10²   10^4      10^6      10^8       10^10        10^12
+n³        10³   10^6      10⁹       10^12      10^15        10^18
+2^n       10³   10^30     10^301    10^3,010   10^30,103    10^301,030
 
 
 Farklı veri yapılarını ve işlemlerini/fonksiyonlarını karşılaştırmak için big-oh notasyonunu kullandık.
 İlgi ifadeyi f(n)'i big-oh ile ifade edebilmek için bir C sabitine, bir de g(n) fonksiyonuna ihtiyacımız olur.
 Öyle bir nokta aradık ki bu noktadan sonra f(n) fonksiyonu, cg(n) fonksiyonuyla sınırlamasını sağlamak gerekli grafikte de gösterildiği gibi. o nokta ise n。noktası.
-  Bu durumda da en kötü durumu konuşmuş oluyoruz. bunu da O notasyonunda gösteriyoruzç
+  Bu durumda da en kötü durumu konuşmuş oluyoruz. bunu da O notasyonunda gösteriyoruz
 
 
 # OH notasyonu O             f(n) = O(g(n))
@@ -670,7 +670,7 @@ for i in range(0,n):
 
 
 # Logarithmic complexity
-def Logarithms(n):              log(2üzerik) = logn
+def Logarithms(n):              log(2^k) = logn
   i=1
   while i<=n:                   klog2 = logn
     i= i*2
@@ -836,18 +836,18 @@ Example: T(n) = T(n/2)+c,
           T(8) = T(4)+c
                  (1+2c)+c
                   1+3c
-          Bu şekilde artık problem kaç adım devam ediyorsa devam edilir. yani 2 üzeri k'ya kadar gitmiş olacak.
+          Bu şekilde artık problem kaç adım devam ediyorsa devam edilir. yani 2^k'ya kadar gitmiş olacak.
           
-          Aslında T(2) = 2üzeri1, T(4) = 2², T(4) = 2³
+          Aslında T(2) = 2^1, T(4) = 2², T(4) = 2³
           
 
                       Bu k aslında yukardaki işlemlere bağlı olarak çarpan olarak geliyor.
-          T(2üzerik) = 1+k.c olarak yazabiliriz.
+          T(2^k) = 1+k.c olarak yazabiliriz.
           
                       Burdaki k ifadesini n cinsinden yazmak durumunda kalırız, amacımız T(n) şeklinde bir ifade.
-                      2üzerik = n tanımı yaparız.
+                      2^k = n tanımı yaparız.
                       İkilik tabanlı bir işlem olduğu için logaritmaya giriş yapılır
-                      log_2 2üzerik ifadesi ortaya çıkar bu da aynı şekilde log_2 n şeklinde ifadeye eşittir.
+                      log_2 2^k ifadesi ortaya çıkar bu da aynı şekilde log_2 n şeklinde ifadeye eşittir.
                       bunun sonucu olarak k başa çekilir bu da k = log_2 n şeklinde yazılır.
                       
                       
@@ -890,19 +890,19 @@ Bir iterasyon daha ilerletirsek
       Her defasında T(n) hesaplanıyor yani.
 
       Bu ifade k adımda ilerlediğini düşündüğümüzde;
-      T(n) = 2üzerik.T(n/2üzerik)+k.n
+      T(n) = 2^k.T(n/2^k)+k.n
       
       k ifadesini n cinsinden yazmamız gerekli
         uygun sonucun bizi 1'e götürdüğünü biliyoruz (T(1)=1)
-      n/2üzerik = 1       --> n = 2üzerik
+      n/2^k = 1       --> n = 2^k
       
-      log_2 n = log_2 2üzerik
+      log_2 n = log_2 2^k
       
       logn = k
       
-      T(n) = 2üzerik.T(n/2üzerik)+kn
+      T(n) = 2^k.T(n/2^k)+kn
       
-             2üzerik n'e eşit olacak
+             2^k n'e eşit olacak
            = n.T(1)+logn.n
            = n + nlogn
            = nlogn          ortalama durum. bu problem çalıştırıldığı zaman nlogn gibi bir zman karmaşıklığında çözümlenmiş olacak
@@ -952,16 +952,16 @@ qs(A,i, j)
                  3. durum -> a<b       a küçük mü?
                  
                  
-                a kısmı nüzerilogb tabanında a şeklinde yazarız
+                a kısmı n^logb tabanında a şeklinde yazarız
                 b kısmı da f(n) ile ifade edeceğiz
                 bu iki ifade karşılaştırılarak master teorem üzerinden çözüme gidilecek.
                 
                 eğer ilk durumdaki gibi a bden büyük ise baskın terim t(n/b) karmaşıklık buna göre hesaplanır.
-          T(n) =     tetha(n üzeri logb tabanında a) + f(n) = tetha(n üzeri log b tabanında a - epsilon)
+          T(n) =     tetha(n^logb tabanında a) + f(n) = tetha(n^log b tabanında a - epsilon)
                 eğer ikinci durum yani eşitlik söz konusu olduğunda
-          T(n) =     tetha(n üzeri log b tabanında a  logn) + f(n) = tetha(n üzeri log b tabanında a)
+          T(n) =     tetha(n^log b tabanında a  logn) + f(n) = tetha(n^log b tabanında a)
                 eğer üçüncü durum söz konusu olduğunda
-          T(n) =     tetha(f(n)) + f(n) = omega(n üzeri log b tabaında a + epsilon) --> yani ikinci kısım daha baskın
+          T(n) =     tetha(f(n)) + f(n) = omega(n^log b tabaında a + epsilon) --> yani ikinci kısım daha baskın
                         bu durumda T(n) ifadesinin karmaşıklığı f(n) ifadesine eşit olacak
                         doğrudan b parçasını dikkate alırız yani
                 tabi buralarda master teoremi uygulayabilmemiz için;
@@ -973,15 +973,78 @@ qs(A,i, j)
 YENİ KONU
 MASTER TEOREM ÖRNEKLERİ
 - Master Theorem for Divide and Conquer
+      T(n) = 2T(n/2)+o(n)
+               ----   ---
+                 a     b
+                        
+               a -> half-size of problem
+               b -> work for merging
+               
+               
+        T(n) = a.T(n/b)+tetha(n^k log^p n)
+        where a≥1, b>1, k≥o
+              p --> is a real number
+        
+        1. if a>b^k then;
+              T(n)=tetha(n^logb^a . log^p+1 . n)
+        2. if a=b^k      
+              a. if p>-1    T(n)=tetha(n^logb^a log^p+1 n)
+              b. if p=-1    T(n)=tetha(n^logb^a loglogn)
+              c. if p<-1    T(n)=tetha(n.logb^a)
+        3. if a<b^k
+              a. if p≥0     T(n)=tetha(n^k log^p n)
+              b. if p<0     T(n)=omega(n^k)
 
 
 
+Example 1:
+        T(n) = 9T(n/3)+n
+        
+        T(n) = 9T(n/3)+n
+               ------  --
+                  a     b       hangisi baskın olduğuna bakacağız
+                  
+              ilk olarak kat sayılara bakılır.
+              
+              -   a=9   olarak verilmiş --> a≥1   koşul tamam
+              -   b=3                   --> b>1
+              -   f(n)=n olarak tanımlanmış, bu da asimptotic pozitif bir ifade doğrusal olarak artan
+              
+              Bu üç kuralda yerine gelmiş master teorem uygulnabilir.
+        
+              Master teorem formülü
+              T(n) = a.T(n/b)+tetha(n)
+        
+              
+              n^logb^a    <-->  n           a ve b kısmının karşılaştırmasını yapacağız.
+              n^log3^3^2  <-->  n
+                     ---
+                      9
+              n^2         <-->  n          n^2 ile n karşılaştırılır, sonuç..
+              
+                      a   >     b          a>b olur. ilk terim daha baskın olduğunu gösterir.
+
+              Bu sonuç bizi durum 1'e götürür.
+              T(n) = tetha(n^logb^a)    f(n)=tetha(n^logb^a-epsilon)
+                   = tetha(n^log3^3^2)
+                   = tetha(n^2)         ----> ilgili ifadenin karmaşıklığını bu şekilde hesapladık.
 
 
 
-≤ xⁿ²³。₁₂ ≥ ≈ 
+Example 2:
+        2T(n/2)+n
+                  Cevabı sunum dosyasında
+              
 
 
+Bu konuya kadar görülen matematik konuları: üslü sayılar, polinomlar, logaritma (özellikle 2 tabanında)
+𝜔 ≤ xⁿ²³。₁₂ ≥ ≈ 
+
+
+ 
+ 
+ 
+ 
 
 
 
