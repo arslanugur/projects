@@ -1036,15 +1036,119 @@ Example 2:
                   Cevabı sunum dosyasında
               
 
+Example 3:
+   T(n)=4T(n/2)+n^2
+   
+        4T(n/2)+n^2
+        ------- ---
+            a    b
+                                                                            Master teorem koşulları uygun
+            a = 4     --> problem 4 parçaya ayrılmış                    --> a≥1
+            b = 2     --> her bir parçanın uzunluğu 2 olarak verilmiş   --> b>1
+            f(n) = n^2  --> yani pozitif bir ifade var burda            --> pozitif
+            
+            Karşılaştırma
+                n^logb^a    <-->  n^2
+                
+                n^log2^2^2  <-->  n^2
+                n^2         <-->  n^2       --> bu noktada bir eşitlik söz konusu
+                
+                Dolayısıyla:
+                a = b   bu eşitlik sonucunda master teoremde 2.durumundan ilerleyeceğiz
+
+                Second Case:
+                    T(n)= tetha(n^logb^a logn)    f(n)= tetha(n^logb^a)
+                          --------------------
+                              baskın ifade
+                              
+                           tetha(n^2logn)     --> sonuç bu şekilde çıkar
+
+
+Example 4:
+        T(n)=6T(n/3)+n^2logn
+             
+             6T(n/3) + n^2logn
+             -------   -------
+                a         b
+                
+            Çözümü, sunum üzerinde var
+            
+Example 5:
+        T(n)=16T(n/4)+n!
+             -------- --
+                 a    b
+          
+              a=16    ---> a≥1
+              b=4     ---> b>1
+              f(n)=n! ---> asimptotic pozitif
+              
+              n^logb^a   <--> n!
+              n^log4^4^2 <--> n!
+                    n^2  <--> n!
+                    
+                         a < b    master teoremde üçüncü durumu uygulayacağız
+                         
+                         Case 3:
+                              T(n)=tetha(f(n))    f(n)=omega(n^logb^a+epsilon)      epsilon-düzeltme koşulu. epsilon>1 olmalı
+                              
+                              bu problem aslında bizi yormayacak. doğrudan f(n) karmaşıklığı problemin karmaşıklığı olacak.
+                                  =tetha(n!)
+
 
 Bu konuya kadar görülen matematik konuları: üslü sayılar, polinomlar, logaritma (özellikle 2 tabanında)
 𝜔 ≤ xⁿ²³。₁₂ ≥ ≈ 
 
 
- 
- 
- 
- 
+
+
+YENİ ÜNİTE
+YENİ KONU
+DİZİLERE GENEL BAKIŞ
+
+
+Single Variable:      1
+
+Array: Indexes        0   1  2   3   4
+       Values         1   3  8   23  99
+
+      Dizi tanımı yaparken hafızada belli bir alana allocate edeyoruz yani yerini ayırıyoruz
+      Sonrasında, bu alanların her birine erişebilmek için bir indexleme mekanizması kuruyoruz. 
+      Bazı prog dilleri zero based index yani sıfır tabanlı indexleme kullanır. genelde öyle oluyor ama bazıları 1 tabanlı indisleme mekanizması kullanır.
+      Dizileri incelediğimiz de bu tek boyutlu diziler üzerinde sıralama vardır.
+      Diziler tek ya da çok boyutlu olabilir tabi ki. Graf, çizge gibi yapılar çok boyutlu olur. 
+      
+      • En temel veri yapılarından biridir.
+      • Dizi elemanlarına erişmek üzere genellikle sıfır-tabanlı indisleme (zero-based indexing) kullanılır.
+      • Tek boyutlu (single-dimension) ya da çok-boyutlu (multi dimension)olabilir.
+      • Düzenli (regular) ya da düzensiz (jagged) olarak tanımlanabilir.
+      • En büyük dezavantajı sabit boyutlu olmasıdır. Mutable-immutable durumu gibi. 
+      • Dizinin sabit boyutlu olmasından dolayı ekleme ve silme gibi işlemlerin maliyeti artar.
+      • En büyük avantajı ise bellek gözlerine doğrudan erişimin olmasıdır.
+
+      Dizilerin kullanıldığı yerler:
+        Obilet vs sistemlerde otobüs ya da uçak içindeki dolu ve boş koltukları görebilmek
+        Alışveriş sitesinde sepetini görebilmek
+        Veri tabanında bir grup kayıt üzerinde işlem yaparken
+        
+
+    Dizinin sabit boyutlu olması bizi kısıtlar bunu yönetmek için koleksiyon yapılarına ihtiyacımız var.
+    add(arr[],item)
+    
+    <-------N-------->
+    -    -    -     -
+    arr
+    
+    add(arr[], item)
+    
+            N+1
+    -   -   -   -   - <--- new item        
+    arr
+    
+            0(N)
+
+
+YENİ KONU
+PROJE ŞABLONU OLUŞTURMAK VSCODE'da mevcut
 
 
 
