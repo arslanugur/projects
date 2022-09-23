@@ -1153,6 +1153,36 @@ PROJE ŞABLONU OLUŞTURMAK VSCODE'da mevcut
 
 
 
+C# dilinde dizi tanımlamak
+Example:
+namespace Apps
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // Array 
+      char[] arrChar = new char[3];         // açık değişken tanımı, örtülü olsaydı var derdik
+                                            // üç elemanlı bir char dizisi oluşturduk (doğrudan ilgili elemanların değerlerini tanımlarsak char[] arrChar = new char[3]; {'a','b','c'})
+      
+      var arrInt = Array.CreateInstance(typeof(int),5)   // Beş elemanlı bir integer dizisi oluşturmak istediğimizi belli eder
+                                                         // var arrInt =  bu şekilde tanım yapılabilir
+      // ArrayList
+    
+      // List<T>
+
+      Console.ReadKey();
+    }
+  }
+}
+
+
+
+
+
+
+
+
 
 
 
