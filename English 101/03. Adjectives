@@ -100,6 +100,7 @@ attract		attraction		attractive				attracted
 subtract	subtraction		subtractive				subtracted
 distract	distraction		distractive				distracted
 comprehend	comprehension		comprehensive - kapsamlı
+		distinctiveness		distinctive - ayırt edici, belirgin
 investigate	investigation		investigative
 conclude	conclusion		conclusive - kesin
 include		inclusion		inclusive
@@ -136,7 +137,9 @@ permanence		permanent			it is not always permanent - hep kalıcı/sürekli deği
 relevance		relevant != irrelevant		ilgili, uyumlu != alakasız 
 effect			efficient != inefficient	verim, etki, tasarruf
 consistency		consistent			tutarlılık, uyum, istikrar
-
+distance		distant
+appearance		apparent
+urgency			urgent				aciliyet, zorunluluk
 
 
 
@@ -302,6 +305,10 @@ coarseness		coarse		kaba, hoyrat, yontulmamış
 
 
 
+to vacate		vacancy
+			empty
+			free
+			vain
 
 
 ---> -ED / -ING	
@@ -315,7 +322,7 @@ coarseness		coarse		kaba, hoyrat, yontulmamış
 		depressed # depressing			entertained # entertaining              	determined
 		disgusted # disgusting			convinced # convincing – ikna edici     	riveting
 		involved # involving			captivated # captivating                	incoming - gelen 
-		fascinated # fascinating		frightened # frightening                	ongoing  - devam eden
+		fascinated # fascinating		frightened # frightening - korkmuş              ongoing  - devam eden
 		bloomed # blooming			coordinated # coordinating              	
 		embrassed # embrassing - utanç verici	bewildered # bewildering - sersemleten, şaşırtan
 		embraced # embracing - kucaklayan
