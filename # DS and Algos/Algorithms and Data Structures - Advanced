@@ -1165,8 +1165,15 @@ namespace Apps
       char[] arrChar = new char[3];         // açık değişken tanımı, örtülü olsaydı var derdik
                                             // üç elemanlı bir char dizisi oluşturduk (doğrudan ilgili elemanların değerlerini tanımlarsak char[] arrChar = new char[3]; {'a','b','c'})
       
-      var arrInt = Array.CreateInstance(typeof(int),5)   // Beş elemanlı bir integer dizisi oluşturmak istediğimizi belli eder
+      var arrInt = Array.CreateInstance(typeof(int),5)   // Beş elemanlı bir integer dizisi oluşturmak istediğimizi belli eder.bu da bize bir dizi verir
                                                          // var arrInt =  bu şekilde tanım yapılabilir
+      arrInt.SetValue(10, 0);               // ilk değere 10 değerini verebilliriz
+      arrInt.SetValue(5, 2);                // ikinci göze de 5 değerini verebiliriz
+        // Kaç eleman varsa burda 0dan başlayıp4e kadar gider index anlamında
+      // eğer bir dizinin mevcut değerini getirmek istersek get metodunu kullanabiliriz
+      arrInt.GetValue(0)                    // Sıfırıncı indexi verir
+        // bu aslında arrInt[0] = 10        // bu yapı 10 değerini koyduğunu görürüz, çıktısı 10dur
+        
       // ArrayList
     
       // List<T>
@@ -1175,6 +1182,71 @@ namespace Apps
     }
   }
 }
+
+
+// Second Situation
+using System;
+
+namespace Apps
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // Array 
+      var arrChar = new char[]; {'b','t','k'}
+      //arrChar.add/remove/delete bu işlemler yapılamaz çünkü sabit boyutlu bir dizi 
+      
+      // Ama bizim genişleyecek bir ifadeye ihtiyacımız var, o zman dinamik boyutlu bir dizi tanımı yaparız
+      // ArrayList                  // ama burda da Type-safe (tip güvenliği) kaybedilir. hem integer hem de char şeklinde bir değer saklayabildik.
+      var arrObj = new ArrayList();   
+      arrObj.Add(10);
+      arrObj.Add('b');              // ama bizim aynı tipten verileri organize etmemiz gerekiyor.
+      arrObj.Insert
+      arrObj.Remove
+      
+      // yukardaki 10 değeri kutulanır(boxing) sonrasında object haline getirilir
+      // b değerine de boxing yapılıp object haline getirilir.
+      // eğer geri almak istersek
+      var c = (arrObj[0] + 20);             // örneğin sıfırıncı index ile 20 değerini toplayalım 
+                                            // bunu da var c gibi bir değişkene atarsak
+                                            // integerlı objeyi toplayamadığını söyler
+                                            // bu şunu gerektirir
+                                            // objectyi integere geri döndürmemiz gerekir.
+                                            // bu dönüşün olayını da unboxing deriz.
+      var c = ((int)arrObj[0] + 20);        // başına int yazarsak bu ifadenin int olduğunu anlayıp işlemi gerçekleştirir.
+
+      // Array list yapısında objeye göre çalışırız tip güvenliğini kaybederiz. 
+      // bu da bizi unboxing yapmaya götürür. sonuç olarak performans kaybına neden olur
+      
+
+Third Situation
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Apps
+{
+  ...
+  
+      // type-safe'i sağlamak için generic ifadelere geçiş yaparız
+      // List<T>
+      // int sayılar üzerinde işlem yapan bir dizi tanımlanır
+      var arrInt = new List<int>();            // bir liste oluşturduk bunu da int bağlı olarak oluştuğunu söyledim
+      arrInt.Add(10);
+      // ama char gibi string gibi ifadeler ekleyemeyiz. çünkü bu yapı tip güvenliğini garanti eder
+      
+      Console.ReadKey();
+    }
+  }
+}
+
+
+
+
+
+
+
 
 
 
