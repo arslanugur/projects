@@ -1153,17 +1153,20 @@ PROJE ŞABLONU OLUŞTURMAK VSCODE'da mevcut
 
 
 
-C# dilinde dizi tanımlamak
+C# dilinde dizi tanımlamanın alternatif yolları
 Example:
+// First Situation
 namespace Apps
 {
   class Program
   {
     static void Main(string[] args)
     {
-      // Array 
+      // 01.  Array 
       char[] arrChar = new char[3];         // açık değişken tanımı, örtülü olsaydı var derdik
                                             // üç elemanlı bir char dizisi oluşturduk (doğrudan ilgili elemanların değerlerini tanımlarsak char[] arrChar = new char[3]; {'a','b','c'})
+      // koleksiyonlardaki gibi count methodu yoktur ama length vardır
+      Console.WriteLine(arrChar.Length);    // dizinin uzunluğu bu şekilde yakalanır
       
       var arrInt = Array.CreateInstance(typeof(int),5)   // Beş elemanlı bir integer dizisi oluşturmak istediğimizi belli eder.bu da bize bir dizi verir
                                                          // var arrInt =  bu şekilde tanım yapılabilir
@@ -1174,9 +1177,9 @@ namespace Apps
       arrInt.GetValue(0)                    // Sıfırıncı indexi verir
         // bu aslında arrInt[0] = 10        // bu yapı 10 değerini koyduğunu görürüz, çıktısı 10dur
         
-      // ArrayList
+      // 02. ArrayList
     
-      // List<T>
+      // 03. List<T>
 
       Console.ReadKey();
     }
@@ -1198,13 +1201,16 @@ namespace Apps
       //arrChar.add/remove/delete bu işlemler yapılamaz çünkü sabit boyutlu bir dizi 
       
       // Ama bizim genişleyecek bir ifadeye ihtiyacımız var, o zman dinamik boyutlu bir dizi tanımı yaparız
-      // ArrayList                  // ama burda da Type-safe (tip güvenliği) kaybedilir. hem integer hem de char şeklinde bir değer saklayabildik.
+      // ekleme silme yapabilmek için collections gidilir hem numeric he mede generic koleksiyonlar
+      // ve bu koleksiyonların count özellikleri var count gibi third situationda
+      // 02. ArrayList                  // ama burda da Type-safe (tip güvenliği) kaybedilir. hem integer hem de char şeklinde bir değer saklayabildik.
       var arrObj = new ArrayList();   
       arrObj.Add(10);
       arrObj.Add('b');              // ama bizim aynı tipten verileri organize etmemiz gerekiyor.
       arrObj.Insert
       arrObj.Remove
-      
+      arrObj.Count;
+      Console.WriteLine(arrObj.Count)       // bu dizi üzerinde kaç eleman var gibisinden ekrana yazdırır
       // yukardaki 10 değeri kutulanır(boxing) sonrasında object haline getirilir
       // b değerine de boxing yapılıp object haline getirilir.
       // eğer geri almak istersek
@@ -1220,7 +1226,7 @@ namespace Apps
       // bu da bizi unboxing yapmaya götürür. sonuç olarak performans kaybına neden olur
       
 
-Third Situation
+// Third Situation
 using System;
 using System.Collections;
 using System.Collections.Generic;
@@ -1229,18 +1235,40 @@ namespace Apps
 {
   ...
   
-      // type-safe'i sağlamak için generic ifadelere geçiş yaparız
+      // type-safe'i sağlamak için generic ifadelere geçiş yaparız --> List<T>
       // List<T>
       // int sayılar üzerinde işlem yapan bir dizi tanımlanır
       var arrInt = new List<int>();            // bir liste oluşturduk bunu da int bağlı olarak oluştuğunu söyledim
-      arrInt.Add(10);
-      // ama char gibi string gibi ifadeler ekleyemeyiz. çünkü bu yapı tip güvenliğini garanti eder
-      
+      arrInt.Add(10);                          
+      arrInt.Add('b')                          // b'nin karşılığı olan ifade gelir 98
+      arrInt.Add(false)                         // burda hata alırız sıfır olmaz çünkü tür farkı var - boolean - integer
+      // ama char gibi string gibi ifadeler ekleyemeyiz. 
+      //çünkü bu yapı tip güvenliğini garanti eder
+      // fakat karakterden dönüş mümkün olduğu için 'b' için dönüş alabiliyoruz
+      arrInt.AddRange(new int[] {1, 2, 3});      // add metodunun bu yapıyla kullanıldığı gibi diğer methodlar da kullanılabilir.
+      arrInt.RemoveAt(0);                       // bir elemanı silmek istediğimiz zaman mesela sıfırıncı eleman - 10 değeri silinir
+      arrInt.Count
+      Console.WriteLine(arrInt.Count);          // ekrana yazdırmak
+      foreach (var item in arrInt)
+      {
+        Console.WriteLine(item);
+      }
       Console.ReadKey();
     }
   }
 }
 
+
+// Veri Yapılarını ya da algoritmalrı organize ettiğimizde ağaç yapısı kuyruk ya da bağlı liste olsa kullandığımızda biz onu kolleksiyon yapısına çekmeye çalışcz
+// Koleksiyonların ortak özelliklerinde incelenecek
+
+
+
+// Yeni Konu
+// Koleksiyonların ortak Özellikleri
+  // Bir grup nesnenin organize şekilde yönetildiği yapılar collections olarak ifade edilebilir.
+  // Bu yapılarda ilgili veri yapısına ekleme yapma, araya ekleme yapma, arama,sıralama ya da özel bir takım fonksiyonlar içerir.
+  // Collections ifadeleri generic ya da non-generic olarak tanımlanabilirler.
 
 
 
