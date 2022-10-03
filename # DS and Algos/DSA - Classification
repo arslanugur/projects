@@ -1,0 +1,76 @@
+Primitive Types
+  - Boolean Data Type
+  - Floating-Point Arithmetic
+  - Fixed Point Numbers
+  - Other Primitive Data Types 
+      (Character, Integer, Reference, Enumarated Type)
+
+Non-Primitive Types
+  - Array           --> An array is a ds that contains a group of elements. Typically these elements are all of the same data type.
+  - Records
+  - Union
+
+
+Abstract Data Type
+  - Container
+  - List            --> A linear ds, in which the elements arent stored at contiguous memory locations and the elements are linked with each other.
+  - Graph
+  - Other Abstract Data Types include 
+      (Tuple, Multimap, Set, Multiset, Stack, Queue, Double-ended Queue)
+                    --> Stack: Follows LIFO(Last In First Out) principle. In this, the last element in the stack will be removed first.
+                    --> Queue: Follows FIFO(First In First Out), in this, the first element stored is removed first.
+                    --> Linked List: Consists of nodes where each node contains a data field and a reference(link) to the next node in the list.
+                                     Operations in Linked List
+                                        - Traversal: Access each element of the linked list
+                                        - Insertion: Adds a new element to the linked list
+                                        - Deletion: Removes the existing elements
+                                        - Search: Find a node in the linked list
+                                        - Sort: Sort the nodes of the linked list
+                                     
+                                     Types of Linked List
+                                        - Singly Linked List: Contains nodes which have a data field as well as a next field, which points to the next node in the sequence 
+                                                              Operations: Insertion, Deletion, Traversal
+                                        - Doubly Linked List: Contains node which have data field, next field and another link field prev pointing to the previous node in the sequence.
+                                        - Circular Linked List: Is a singly linked list in which last node, next field points to first node in the sequence
+                                        - Doubly Circular Linked List: Has the features of both the circular linked list and doubly linked list..
+
+
+
+
+
+Linear Data Structures
+  - Control Table
+  - Image
+  - Matrix
+  - Other Data structures are
+      (Array, Bit Array, Bit Field, Parallel Array, Sparse Matrix, 
+       Gap Buffer, Dope Vector, Circular Buffer, Zipper ..)
+
+
+Tree Types
+  - Binary Trees
+  - Decision Trees
+  - Other Tree Types include
+      (B-trees, Dancing trees, Fusion trees, Heap, Leonardo Heap, Radix Tree)
+            Tree: A tree is a widely used abstract data type that presents a hierarchical tree structure with a set of connected nodes.  
+
+
+Hash Based Data Structures
+  - Hash List
+  - Double Hashing
+  - Other include
+      (Ctrie, Koorde, Minhash, Rolling Hash, DynamicPerfect Hash Table, 
+       Bloom Filter, Distributed Hash Table, Count-Min Table, Rolling Hash and many more.)
+            Hash Table: This is a type of ds that stores values which have keys related to each of them.
+
+
+Graph
+  - Multigraph
+  - Adjacency Matrix
+  - Other types of graphss are
+      (Hypergraph, Directed Graph, Scene Graph, Directed Acyclic Graph, and inventer graph and many more)
+            Graph: A graph ds is a collection of nodes that have data and are connected to other nodes.     
+
+
+
+  
