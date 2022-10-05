@@ -1266,9 +1266,94 @@ namespace Apps
 
 // Yeni Konu
 // Koleksiyonların ortak Özellikleri
+  // Koleksiyon = Veri Yapısı
   // Bir grup nesnenin organize şekilde yönetildiği yapılar collections olarak ifade edilebilir.
   // Bu yapılarda ilgili veri yapısına ekleme yapma, araya ekleme yapma, arama,sıralama ya da özel bir takım fonksiyonlar içerir.
   // Collections ifadeleri generic ya da non-generic olarak tanımlanabilirler.
+  // Generic kodlama, genelde boxing ya da unboxing yapmamak ve type safe'i kaybetmemek için tercih edilir
+                      yani objeler üzerinde iş yapılmaz
+
+
+
+// Array, en çok sabit sayıda güçlü biçimde yazılmış nesneler oluşturmak ve bunlarla çalışmak için kullanışlıdır.
+// Collections, nesne gruplarıyla çalışmak için daha esnek bir yol sağlar.
+
+// Dizilerden farklı olarak, birlikte çalıştığınız çalıştığınız nesne grubu,
+      uygulamanın ihtiyaçları değiştikçe dinamik olarak büyüyebilir ve  küçülebilir
+                                                          (growing and shrinking).
+
+
+// Bazı koleksiyonlarda,koleksiyona eklediğiniz herhangi bir nesneye bir anahtar atayabilirsiniz,
+//  böylece anahtarı kullanarak nesneyi hızlı bir şekilde alabilirsiniz.
+
+      <TKey,TValue>
+
+
+
+
+System.Collections                    ---> Altındaki ifadeler, Objeye bağlı olarak çalışır
+    ArrayList, Hashtable, Queue, Stack
+System.Collections.Generic            ---> Generic olarak çalışır
+    Dictionary<TKey, TValue>, List<T>, Queue<T>,
+    SortedList<TKey, TValue>, Stack<T>,
+    SortedSet<TKey, Tvalue>, HashSet<TKey,TValue>
+System.Collections.Concurrent
+System.Collections.Specialized
+System.Collections.Immutable
+
+
+
+Ortak Koleksiyon Özellikleri (Common Collections Features)
+  01. Koleksiyonu numaralandırma yeteneği
+      • System.Collection.IEnumerable (Objeye bağlı olarak iş yapılıyorsa) veya
+        System.Collections.Generic.IEnumerable<T> (Generic olarak iş yapılıyorsa)
+      
+      Bu iki kontratları kabul edersek bir enumerator ifademiz olur. sırayla move next deyip bir sonraki elemanı alabiliriz.
+      foreach ifadesi de koleksiyonda doğrudan kullanılabilir. her defasında getenumerator ile bir örnek alınır.
+  Bir Enumerator, koleksiyondaki herhangi bir öğeye taşınabilir, bir işaretçi olarak düşünülebilir.
+  Bir foreach döngüsü GetEnumerator metodu kullanarak taşınabilir işaretçi yardımyla koleksiyondaki öğeler üzerinde dolaşabilir.
+
+
+  System.Collections.Generic.IEnumerable<T> 
+      sorgulanabilir bir tip olarak düşünülebilir ve LINQ ifadeleriyle sorgulanabilir.
+      LINQ sorguları, verilere erişim için ortak bir model sağlar.
+      LINQ filtreleme, sıralama, gruplama yetenekleriyle veri erişim performansını arttırır.
+
+
+
+  02. Koleksiyon içeriğini bir diziye kopyalama yeteneği
+      • Tüm koleksiyonlar CopyTo yöntemi kullanılarak bir diziye kopyalanabilir;
+        ancak,yeni dizideki öğelerin sırası, numaralandırıcının onları döndürdüğü sıraya bağlıdır.
+
+  03. Capacity and Count Propert
+      • Bir koleksiyonun kapasitesi, içerebileceği öğe sayısıdır.
+        Bir koleksiyon için Count,aslında içerdiği öğelerin sayısıdır.
+        Bazı koleksiyonlar Capacity veya Count veya her ikisini birden gizler.
+
+  04. Tutarlı bir alt sınır
+      • Bir koleksiyonun alt sınırı, ilk öğesinin dizinidir. 
+        System.Collections ad alanlarındaki tüm dizinlenmiş koleksiyonların alt sınırı sıfırdır, yani O dizinlidir.
+
+      • Birden çok iş parçacığındań erişim için senkronizasyon
+        System.Collections ad alanındaki genel olmayan koleksiyon türleri,
+        senkronizasyonla birlikte bazı iş parçacığı güvenliği sağlar; 
+        genellikle SyncRoot ve Is Synchronized üyeler aracılığıyla gösterilir.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
