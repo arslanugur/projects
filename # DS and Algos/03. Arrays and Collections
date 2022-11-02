@@ -284,7 +284,7 @@ namespace DataStructures.Array                              // klasör adresi
 {
   public class Array<T> : IEnumerable<T>     // array klasörünün altında array olarak ifade edilen bir sınıf var buna da public bir sınıf olarak tanımlıcaz
   {                                          // boxing/unboxing gibi işlemlerle uğraşmak istemiyoruz, <T> ile de tip güvenliğini kaybetmek istemiyoruz
-  }                                          // numaralandırma arayüzünü kullanacağız.koleksiyon böylelikle numaralandırılabilir bi duruma geliyor. böylelikle LINQ sorgularını da kullanabiliyoruz
+  }                                          // koleksiyonun - numaralandırma arayüzünü kullanacağız.koleksiyon böylelikle numaralandırılabilir bi duruma geliyor. böylelikle LINQ sorgularını da kullanabiliyoruz
 }
 
   // Böyle bir arayüzü kalıtım(inheritance) ile devraldığımız zaman,
@@ -299,7 +299,7 @@ namespace DataStructures.Array
 {
   public class Array<T> : IEnumerable<T>
   {
-    public IEnumerator<T> GetEnumerator()       // iki adet tanımlanan method; biri obje mantığıyla diğeri generic mantığıyla çalışacak
+    public IEnumerator<T> GetEnumerator()       // inheritance sebebiyle: iki adet tanımlanan method; biri obje mantığıyla diğeri generic mantığıyla çalışacak
     {
       throw new NotImplementedException();
     }
@@ -319,8 +319,21 @@ using System.Text;
 
 namespace DataStructures.Array
 {
-  public class Array<T> : IEnumerable<T>
+  public class Array<T> : IEnumerable<T>, Icloneable
   {
+    private T[] InnerList;                             // bir diğer ifade ise verinin organizasyonunu sağlayacak sınıf dışından erişimi olmayan bi dizi
+                                                       // ismine de innerlist dedik
+                                                       
+    public int MyProperty { get; set; }               // prop yazıp, count ve capacity gibi collection özelliklerini tanımlarsak
+    public int Count { get; private set; }                    // myproperty'i Count olarak değiştirdik
+                                                        // dışardan okunabilir ama sınıf içerisinden yazılabilir ifade olcak public ve private ..                            
+                                                        // dizi 8 elemanlı ama biz üçünü kullanacağız bu noktada bize yardımcı olacak bi eleman olcak
+    
+    public object Clone() ...                        // ilgili nesnenin bir kopyası oluşturulur
+    {
+       throw new NotImplementedException();
+    }
+    
     public IEnumerator<T> GetEnumerator() ...       // iki adet tanımlanan method; biri obje mantığıyla diğeri generic mantığıyla çalışacak
     
     IEnumerator IEnumerator.GetEnumerator() ...
