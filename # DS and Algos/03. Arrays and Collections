@@ -1,0 +1,338 @@
+YENİ ÜNİTE
+YENİ KONU
+DİZİLERE GENEL BAKIŞ
+
+
+Single Variable:      1
+
+Array: Indexes        0   1  2   3   4
+       Values         1   3  8   23  99
+
+      Dizi tanımı yaparken hafızada belli bir alana allocate edeyoruz yani yerini ayırıyoruz
+      Sonrasında, bu alanların her birine erişebilmek için bir indexleme mekanizması kuruyoruz. 
+      Bazı prog dilleri zero based index yani sıfır tabanlı indexleme kullanır. genelde öyle oluyor ama bazıları 1 tabanlı indisleme mekanizması kullanır.
+      Dizileri incelediğimiz de bu tek boyutlu diziler üzerinde sıralama vardır.
+      Diziler tek ya da çok boyutlu olabilir tabi ki. Graf, çizge gibi yapılar çok boyutlu olur. 
+      
+      • En temel veri yapılarından biridir.
+      • Dizi elemanlarına erişmek üzere genellikle sıfır-tabanlı indisleme (zero-based indexing) kullanılır.
+      • Tek boyutlu (single-dimension) ya da çok-boyutlu (multi dimension)olabilir.
+      • Düzenli (regular) ya da düzensiz (jagged) olarak tanımlanabilir.
+      • En büyük dezavantajı sabit boyutlu olmasıdır. Mutable-immutable durumu gibi. 
+      • Dizinin sabit boyutlu olmasından dolayı ekleme ve silme gibi işlemlerin maliyeti artar.
+      • En büyük avantajı ise bellek gözlerine doğrudan erişimin olmasıdır.
+
+      Dizilerin kullanıldığı yerler:
+        Obilet vs sistemlerde otobüs ya da uçak içindeki dolu ve boş koltukları görebilmek
+        Alışveriş sitesinde sepetini görebilmek
+        Veri tabanında bir grup kayıt üzerinde işlem yaparken
+        
+
+    Dizinin sabit boyutlu olması bizi kısıtlar bunu yönetmek için koleksiyon yapılarına ihtiyacımız var.
+    add(arr[],item)
+    
+    <-------N-------->
+    -    -    -     -
+    arr
+    
+    add(arr[], item)
+    
+            N+1
+    -   -   -   -   - <--- new item        
+    arr
+    
+            0(N)
+
+
+YENİ KONU
+PROJE ŞABLONU OLUŞTURMAK VSCODE'da mevcut
+
+
+
+
+C# dilinde dizi tanımlamanın alternatif yolları
+Example:
+// First Situation
+namespace Apps
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // 01.  Array 
+      char[] arrChar = new char[3];         // açık değişken tanımı, örtülü olsaydı var derdik
+                                            // üç elemanlı bir char dizisi oluşturduk (doğrudan ilgili elemanların değerlerini tanımlarsak char[] arrChar = new char[3]; {'a','b','c'})
+      // koleksiyonlardaki gibi count methodu yoktur ama length vardır
+      Console.WriteLine(arrChar.Length);    // dizinin uzunluğu bu şekilde yakalanır
+      
+      var arrInt = Array.CreateInstance(typeof(int),5)   // Beş elemanlı bir integer dizisi oluşturmak istediğimizi belli eder.bu da bize bir dizi verir
+                                                         // var arrInt =  bu şekilde tanım yapılabilir
+      arrInt.SetValue(10, 0);               // ilk değere 10 değerini verebilliriz
+      arrInt.SetValue(5, 2);                // ikinci göze de 5 değerini verebiliriz
+        // Kaç eleman varsa burda 0dan başlayıp4e kadar gider index anlamında
+      // eğer bir dizinin mevcut değerini getirmek istersek get metodunu kullanabiliriz
+      arrInt.GetValue(0)                    // Sıfırıncı indexi verir
+        // bu aslında arrInt[0] = 10        // bu yapı 10 değerini koyduğunu görürüz, çıktısı 10dur
+        
+      // 02. ArrayList
+    
+      // 03. List<T>
+
+      Console.ReadKey();
+    }
+  }
+}
+
+
+// Second Situation
+using System;
+
+namespace Apps
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      // Array 
+      var arrChar = new char[]; {'b','t','k'}
+      //arrChar.add/remove/delete bu işlemler yapılamaz çünkü sabit boyutlu bir dizi 
+      
+      // Ama bizim genişleyecek bir ifadeye ihtiyacımız var, o zman dinamik boyutlu bir dizi tanımı yaparız
+      // ekleme silme yapabilmek için collections gidilir hem numeric he mede generic koleksiyonlar
+      // ve bu koleksiyonların count özellikleri var count gibi third situationda
+      // 02. ArrayList                  // ama burda da Type-safe (tip güvenliği) kaybedilir. hem integer hem de char şeklinde bir değer saklayabildik.
+      var arrObj = new ArrayList();   
+      arrObj.Add(10);
+      arrObj.Add('b');              // ama bizim aynı tipten verileri organize etmemiz gerekiyor.
+      arrObj.Insert
+      arrObj.Remove
+      arrObj.Count;
+      Console.WriteLine(arrObj.Count)       // bu dizi üzerinde kaç eleman var gibisinden ekrana yazdırır
+      // yukardaki 10 değeri kutulanır(boxing) sonrasında object haline getirilir
+      // b değerine de boxing yapılıp object haline getirilir.
+      // eğer geri almak istersek
+      var c = (arrObj[0] + 20);             // örneğin sıfırıncı index ile 20 değerini toplayalım 
+                                            // bunu da var c gibi bir değişkene atarsak
+                                            // integerlı objeyi toplayamadığını söyler
+                                            // bu şunu gerektirir
+                                            // objectyi integere geri döndürmemiz gerekir.
+                                            // bu dönüşün olayını da unboxing deriz.
+      var c = ((int)arrObj[0] + 20);        // başına int yazarsak bu ifadenin int olduğunu anlayıp işlemi gerçekleştirir.
+
+      // Array list yapısında objeye göre çalışırız tip güvenliğini kaybederiz. 
+      // bu da bizi unboxing yapmaya götürür. sonuç olarak performans kaybına neden olur
+      
+
+// Third Situation
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+namespace Apps
+{
+  ...
+  
+      // type-safe'i sağlamak için generic ifadelere geçiş yaparız --> List<T>
+      // List<T>
+      // int sayılar üzerinde işlem yapan bir dizi tanımlanır
+      var arrInt = new List<int>();            // bir liste oluşturduk bunu da int bağlı olarak oluştuğunu söyledim
+      arrInt.Add(10);                          
+      arrInt.Add('b')                          // b'nin karşılığı olan ifade gelir 98
+      arrInt.Add(false)                         // burda hata alırız sıfır olmaz çünkü tür farkı var - boolean - integer
+      // ama char gibi string gibi ifadeler ekleyemeyiz. 
+      //çünkü bu yapı tip güvenliğini garanti eder
+      // fakat karakterden dönüş mümkün olduğu için 'b' için dönüş alabiliyoruz
+      arrInt.AddRange(new int[] {1, 2, 3});      // add metodunun bu yapıyla kullanıldığı gibi diğer methodlar da kullanılabilir.
+      arrInt.RemoveAt(0);                       // bir elemanı silmek istediğimiz zaman mesela sıfırıncı eleman - 10 değeri silinir
+      arrInt.Count
+      Console.WriteLine(arrInt.Count);          // ekrana yazdırmak
+      foreach (var item in arrInt)
+      {
+        Console.WriteLine(item);
+      }
+      Console.ReadKey();
+    }
+  }
+}
+
+
+// Veri Yapılarını ya da algoritmalrı organize ettiğimizde ağaç yapısı kuyruk ya da bağlı liste olsa kullandığımızda biz onu kolleksiyon yapısına çekmeye çalışcz
+// Koleksiyonların ortak özelliklerinde incelenecek
+
+
+
+// Yeni Konu
+// Koleksiyonların ortak Özellikleri
+  // Koleksiyon = Veri Yapısı
+  // Bir grup nesnenin organize şekilde yönetildiği yapılar collections olarak ifade edilebilir.
+  // Bu yapılarda ilgili veri yapısına ekleme yapma, araya ekleme yapma, arama,sıralama ya da özel bir takım fonksiyonlar içerir.
+  // Collections ifadeleri generic ya da non-generic olarak tanımlanabilirler.
+  // Generic kodlama, genelde boxing ya da unboxing yapmamak ve type safe'i kaybetmemek için tercih edilir
+                      yani objeler üzerinde iş yapılmaz
+
+
+
+// Array, en çok sabit sayıda güçlü biçimde yazılmış nesneler oluşturmak ve bunlarla çalışmak için kullanışlıdır.
+// Collections, nesne gruplarıyla çalışmak için daha esnek bir yol sağlar.
+
+// Dizilerden farklı olarak, birlikte çalıştığınız çalıştığınız nesne grubu,
+      uygulamanın ihtiyaçları değiştikçe dinamik olarak büyüyebilir ve  küçülebilir
+                                                          (growing and shrinking).
+
+
+// Bazı koleksiyonlarda,koleksiyona eklediğiniz herhangi bir nesneye bir anahtar atayabilirsiniz,
+//  böylece anahtarı kullanarak nesneyi hızlı bir şekilde alabilirsiniz.
+
+      <TKey,TValue>
+
+
+
+
+System.Collections                    ---> Altındaki ifadeler, Objeye bağlı olarak çalışır
+    ArrayList, Hashtable, Queue, Stack
+System.Collections.Generic            ---> Generic olarak çalışır
+    Dictionary<TKey, TValue>, List<T>, Queue<T>,
+    SortedList<TKey, TValue>, Stack<T>,
+    SortedSet<TKey, Tvalue>, HashSet<TKey,TValue>
+System.Collections.Concurrent
+System.Collections.Specialized
+System.Collections.Immutable
+
+
+
+Ortak Koleksiyon Özellikleri (Common Collections Features)
+  01. Koleksiyonu numaralandırma yeteneği
+      • System.Collection.IEnumerable (Objeye bağlı olarak iş yapılıyorsa) veya
+        System.Collections.Generic.IEnumerable<T> (Generic olarak iş yapılıyorsa)
+      
+      Bu iki kontratları kabul edersek bir enumerator ifademiz olur. sırayla move next deyip bir sonraki elemanı alabiliriz.
+      foreach ifadesi de koleksiyonda doğrudan kullanılabilir. her defasında getenumerator ile bir örnek alınır.
+  Bir Enumerator, koleksiyondaki herhangi bir öğeye taşınabilir, bir işaretçi olarak düşünülebilir.
+  Bir foreach döngüsü GetEnumerator metodu kullanarak taşınabilir işaretçi yardımyla koleksiyondaki öğeler üzerinde dolaşabilir.
+
+
+  System.Collections.Generic.IEnumerable<T> 
+      sorgulanabilir bir tip olarak düşünülebilir ve LINQ ifadeleriyle sorgulanabilir.
+      LINQ sorguları, verilere erişim için ortak bir model sağlar.
+      LINQ filtreleme, sıralama, gruplama yetenekleriyle veri erişim performansını arttırır.
+
+
+
+  02. Koleksiyon içeriğini bir diziye kopyalama yeteneği
+      • Tüm koleksiyonlar CopyTo yöntemi kullanılarak bir diziye kopyalanabilir;
+        ancak,yeni dizideki öğelerin sırası, numaralandırıcının onları döndürdüğü sıraya bağlıdır.
+
+  03. Capacity and Count Propert
+      • Bir koleksiyonun kapasitesi, içerebileceği öğe sayısıdır.
+        Bir koleksiyon için Count,aslında içerdiği öğelerin sayısıdır.
+        Bazı koleksiyonlar Capacity veya Count veya her ikisini birden gizler.
+
+  04. Tutarlı bir alt sınır
+      • Bir koleksiyonun alt sınırı, ilk öğesinin dizinidir. 
+        System.Collections ad alanlarındaki tüm dizinlenmiş koleksiyonların alt sınırı sıfırdır, yani O dizinlidir.
+
+      • Birden çok iş parçacığındań erişim için senkronizasyon
+        System.Collections ad alanındaki genel olmayan koleksiyon türleri,
+        senkronizasyonla birlikte bazı iş parçacığı güvenliği sağlar; 
+        genellikle SyncRoot ve Is Synchronized üyeler aracılığıyla gösterilir.
+
+
+  Summary
+  System.Collections.Generic. IEnumerable<T>
+    sorgulanabilir bir tip olarak düşünülebilir ve LINQ ifadeleriyle sorgulanabilir.
+  
+  LINQ sorguları, verilere erişim için ortak bir model sağlar.
+  LINQ filtreleme, sıralama, gruplama yetenekleriyle veri erişim performansını arttırır.
+
+  https://learn.microsoft.com/en-us/dotnet/standard/collections/
+  
+  
+  
+YENİ KONU
+  Kendi Array sınıfımızı tasarlayıp bunun üzerinde birkaç tane method ekleyeceğiz.
+  - Diziler sabit boyutlu ve immutable (değişen bi yapıda değil)
+  - Dinamik yapıda bir diziye ihtiyacımız var, 
+      yani belli bir aşamadan sonra boyut anlamında kendini katlamasını ya da tek tek artmasını istersek
+      bu noktada bir maliyet durumu söz konusu oluyor yani yeniden bellek üzerinde bir organizasyon yapmak gerekiyor
+      bu noktada koleksiyon yapılarına gideriz. bu sayede bir dizinin büyümesini genişlemesini/daralmasını sağlayabiliriz.
+      koleksiyonların ortak özellikleri: count, capacity, enumerate gibi ifadeleri kullanarak 
+      
+using System;
+using System.Collections;                   //arraylist için koleksiyon
+using System.Collections.Generic;           //arraylist generic şekildeki koleksiyonu
+
+namespace Apps                              // klasör adresi
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.ReadKey();
+    }
+  }
+}
+
+
+
+  --> Generic Dizi sınıfı
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array                              // klasör adresi
+{
+  public class Array<T> : IEnumerable<T>     // array klasörünün altında array olarak ifade edilen bir sınıf var buna da public bir sınıf olarak tanımlıcaz
+  {                                          // boxing/unboxing gibi işlemlerle uğraşmak istemiyoruz, <T> ile de tip güvenliğini kaybetmek istemiyoruz
+  }                                          // numaralandırma arayüzünü kullanacağız.koleksiyon böylelikle numaralandırılabilir bi duruma geliyor. böylelikle LINQ sorgularını da kullanabiliyoruz
+}
+
+  // Böyle bir arayüzü kalıtım(inheritance) ile devraldığımız zaman,
+  //  IEnumerable arayüzün zorunlu kıldığı birtakım metodların olacağını göreceğiz 
+  //  IEnumerable implement ettiğimiz zaman iki tane metod tanımlanır
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array
+{
+  public class Array<T> : IEnumerable<T>
+  {
+    public IEnumerator<T> GetEnumerator()       // iki adet tanımlanan method; biri obje mantığıyla diğeri generic mantığıyla çalışacak
+    {
+      throw new NotImplementedException();
+    }
+    
+    IEnumerator IEnumerator.GetEnumerator()
+    {
+      throw new NotImplementedException();
+    }
+  }
+}
+
+// Şu anda koleksiyonumuza numaralandırma niteliği kazandırdık. bir öğe istediğimizdde her defasında bize bir öğe verecek şekilde ifadeyi kullanabileceğiz
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array
+{
+  public class Array<T> : IEnumerable<T>
+  {
+    public IEnumerator<T> GetEnumerator() ...       // iki adet tanımlanan method; biri obje mantığıyla diğeri generic mantığıyla çalışacak
+    
+    IEnumerator IEnumerator.GetEnumerator() ...
+
+  }
+}
+  
+  
+  
+.....
+
+
+
+
+
