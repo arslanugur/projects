@@ -274,7 +274,7 @@ namespace Apps                              // klasör adresi
 
 
 
-  --> Generic Dizi sınıfı
+  --> Yeni konu: Generic Dizi sınıfı
 
 using System;
 using System.Collections.Generic;
@@ -322,12 +322,25 @@ namespace DataStructures.Array
   public class Array<T> : IEnumerable<T>, Icloneable
   {
     private T[] InnerList;                             // bir diğer ifade ise verinin organizasyonunu sağlayacak sınıf dışından erişimi olmayan bi dizi
-                                                       // ismine de innerlist dedik
-                                                       
+                                                       // ismine de innerlist dedik, çünkü diziye sınıf içinde erişmek mümkün olmayacak
+                                                        // verinin organizasyonu T[] üzerinden gerçekleştircez                                                       
     public int MyProperty { get; set; }               // prop yazıp, count ve capacity gibi collection özelliklerini tanımlarsak
     public int Count { get; private set; }                    // myproperty'i Count olarak değiştirdik
                                                         // dışardan okunabilir ama sınıf içerisinden yazılabilir ifade olcak public ve private ..                            
                                                         // dizi 8 elemanlı ama biz üçünü kullanacağız bu noktada bize yardımcı olacak bi eleman olcak
+    public int Capacity => Innerlist.Length;             //Capacity ifadesi doğrudan lambda ifadesiyle tanımlanır, tanımlamış olduğumuz dizinin innerlistin uzunluğuyla,boyutuyla dönüş yapmış olcaz 
+    
+    
+    // OOPnin en temel özelliklerinden biri de bir nesne oluşturulduktan sonra onun otomatik olarak çalışan  yapılandırıcı bi sınıfa sahip olmasıdır
+    default olarak boş bir yapılandırıcı hali hazırda vardır yazmamıza gerek yoktur.
+    ctor      // bu constructor yani yapılandırıcıdır. ctor yazıp tab tuşuna basarsak..
+    public Array()          // sınıfla aynı isme sahip olan, geriye dönüş anlamında herhangi bir tipi olmayan özel bir metodu oluşturmuş olursunuz
+    {
+       InnerList = new T[2];      //innerlist zaten tanımlanmıştı reerans tipli bi ifadeydi bunu çalışmaya başlatmak için new kullanılır, // her hangi bir boyut bilgisi elimizde yok ise doğrudan 2 olarak yazarız.
+       Count = 0;                  // count ifadesi de 0 olarak başlar count propertysi tanımlanır
+    }                              
+    
+    
     
     public object Clone() ...                        // ilgili nesnenin bir kopyası oluşturulur
     {
@@ -343,11 +356,171 @@ namespace DataStructures.Array
   
   
   
-.....
+// Özetle: Generic Array sınıfının ilk adımları atılmış olundu
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
 
-https://www.btkakademi.gov.tr/portal/course/player/deliver/algoritma-ve-veri-yapilari-ileri-seviye-17824
-6:58
+namespace DataStructures.Array
+{
+       public class Array<T> : IEnumerable<T>, ICloneable
+       {
+              private T[] InnerList;
+              
+              public int Count { get; private set; }
+              public int Capacity => InnerList. Length;
+
+              public Array()
+              {
+                     InnerList = new T[2];
+                     Count = 0;
+              }
+              
+              public object Clone() ...
+              
+              public IEnumerator<T> GetEnumerator() ...
+              
+              
+              
+              
+Yeni Konu: Generic Dizi Ekleme işlevi    
+bir önceki derste gördüğümüz yerlerden devam edersek
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array
+{
+       public class Array<T> : IEnumerable<T>, ICloneable
+       {
+              private T[] InnerList;
+              
+              public int Count { get; private set; }
+              public int Capacity => InnerList. Length;
+
+              public Array()
+              {
+                     InnerList = new T[2];                     // new anahtar kelimesiyle Array için sınıftan nesne üretebilir.
+                     Count = 0;
+              }
+              
+              public object Clone() ...
+              
+              public IEnumerator<T> GetEnumerator() ...
+              
+              
+# Generic Dizi Ekleme işlevi              
+using System;
+using System.Collections;
+using System.Collections.Generic;
+
+nameespace Apps
+{
+       class Program
+       {
+              static void Main(string[] args)
+              {
+                     var arr = new DataStructures               // var ile örtülü değişken tipinin sağ tarafa göre belirlenmesi sağlanır. yani arr'ın tipi
+                            .Array
+                            .Array<int>()
+                                                                // new anahtar sözcüğüyle generic array ifadesine gidilir
+                                                               // bizim projemiz DataStructures projesiydi, altında Array klasörü var onun da altında generic olarak çalışan array adında bir sınıf var.
+                                                               // integer ifadeler üzerinde çalışıldı söylenecek
+                                                               // artık array üzerinden bi takım işler yapabiliriz
+                     arr.Add(23);                              // 23 değeri parametre olarak gönderilir. 1/2 olarak gösterir bunun anlamı 2 eleman saklayabilirsin ve 1 hakkını kullandın demek
+                     arr.Add(55);                              // 2/2 oldu bu kapasite dolduğunu gösterir
+                     arr.Add(44);                              //System.IndexOutOfRangeException hatası ile karşılaşırız
+                                                               // dizinin boyutunu dinamik olarak genişletebilirsek bunu önüne geçebiliriz
+                     Console.WriteLine(=)($"{arr.Count} / {arr.Capacity}");            // örneğin count ve capacity bilgisini almak istersek 0/2 gibi sonuç çıkar 2 eleman saklanabilir ama şu an 0 hiç saklamamışsınız                          
+                     Console.ReadKey()              
+              }
+              
+        }
+}
+
+# Diziye nasıl Eleman eklenir?
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array
+{
+       public class Array<T> : IEnumerable<T>, ICloneable
+       {
+              private T[] InnerList;
+              
+              public int Count { get; private set; }
+              public int Capacity => InnerList. Length;
+
+              public Array()
+              {
+                     InnerList = new T[2];                     // new anahtar kelimesiyle Array için sınıftan nesne üretebilir.
+                     Count = 0;
+              }
+              
+              public void Add(T item)                                // void ile geriye değer vermez
+              {                                                       // dizinin tipini bilmiyorum bu yüzden T dedik, parametre item dedik. item üzerinden innerliste bi ekleme yapabiliriz
+                     // throw new NotImplementedException();
+                     InnerList[Count] = item; //Count ifademiz zaten sıfır, bunu index gibi kullanabiliriz. 0ıncı elemana gel, item değeriyle bu değeri ata
+                     Count++;       // değeri atadıktan sonra count ifadesini 1 artırıcaz, dizinin bir sonraki elemanını dizinin birinci gözüne yerleştirelim
+              }
+              
+              
+              
+              public object Clone() ...
+              
+              public IEnumerator<T> GetEnumerator() ...
+              
 
 
+              | item | item |_____|_____ dinamik olarak diziyi bu görseldekine benzer genişletebiliriz
+                 0       1
+               Count ++ Count
+
+
+
+Yeni Konu -- Generic dizi boyut arttırma işlevi
+              - Dizinin boyutunu nasıl değiştiririz?
+mevcut dizimiz iki elemanlıydı ve üçüncü elemanı eklerken hata aldık bunu nasıl dinamik olarak genişletiriz?
+using System;
+using System.Collections;
+using System.Collections.Generic;
+using System.Text;
+
+namespace DataStructures.Array
+{
+       public class Array<T> : IEnumerable<T>, ICloneable
+       {
+              private T[] InnerList;
+              
+              public int Count { get; private set; }
+              public int Capacity => InnerList. Length;
+
+              public Array()
+              {
+                     InnerList = new T[2];
+                     Count = 0;
+              }
+              
+              public void Add(T item)                                
+              {                                                       
+                     InnerList[Count] = item;
+                     Count++;
+              }
+              
+              
+              
+              public object Clone() ...
+              
+              public IEnumerator<T> GetEnumerator() ...
+
+
+
+
+
+              
 
 
