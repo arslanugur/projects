@@ -10,11 +10,52 @@ React - JS Kütüphanesi - Web Programlama
     post - ben sana data vereceğim
 1.3_BackEnd, FrontEnd, FullStack Developer Kimdir?
     SQL or MONGO - Veri tabanları
+    API
+    Web server
     Backend ile yapılabilen - Business/System, Cache, Validation, NodeJS
     Frontend - Arayüz için - Web: HTML, CSS, Bootstrap, JS. Android, Ios
                 Bootstrap - CSS'in kütüphanesi gibi düşünebilirsin
 1.4_Editor Nedir? Editörümüzü Tanıyalım ve Kuralım
     VS CODE
+
+
+"
+A network is made up of at least two devices that connect and communicate via a wired or wireless connection. 
+One network switch can connect to another switch to link two networks.
+Not only can two network switches be connected, 
+but multiple ones can be connected to form an interconnected network like the internet.
+"
+
+
+Data Center Servers
+Web Servers: Website Hosting, Databases, CMS Software, Control Panel, Email
+Web Requests: Device <---> Web Server <---> Website
+
+
+
+"
+A server is a computer that runs applications and services, ranging from websites to instant messaging. 
+You have just learned about a web server which is a specific type of server.
+
+Web servers can handle thousands of requests from clients per second.     
+Web servers have to be able to handle high volumes of web requests.
+
+A web server can function as website storage and administration.     
+Web servers have multiple functions and this is just two of them. 
+They can also handle security and manage emails.
+
+A web server can handle security.     
+Web servers have multiple functions and this is just one of them. 
+They can also function as website storage and administration and manage emails.
+"
+
+
+Websites and Webpages
+
+
+
+
+
 
 
 
@@ -65,8 +106,65 @@ React - JS Kütüphanesi - Web Programlama
 
 
 2.4_Linklerle Çalışmak
+<a></a> anchor - herhangi bir yere tıklayıp yönlendirme yapmak
+<a href="any link"> hyperlink reference </a>    - tıklandığı zman gideceği yeri verirsin
+
+attributes - href, target, img, src, alt
+<a href="index.html">Anasayfaya Git</a>         internal link
+<a href="website.com">Anasayfaya Git</a>         external link
+
+<a href="website.com" target= "_blank">Anasayfaya Git</a> linkin nerde açılacağına karar verirsin
+                               sayfam açık kalsın ama linke tıkladığında yeni bir sekmede aç
+<img></img>
+image tagi için referans verilir. bunun için src yani source kullanılır
+<img alt="No image" src=""></img> alt - srcde resim bulunamadığında usera gösterilmesini isteğin durum
+
+
+Example: links.html --> bağlantılı 2.sayfa
+<!DOCTYPE html>
+<html>
+
+<head>
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js"></script>
+</head>
+
+<body>
+<a href="index.html">Anasayfaya Git</a>
+<br>
+<a href="http://www.github.com/arslanugur" target= "_blank">Site Linki</a>
+<br>
+    <img alt="No image" src=""></img>
+    <img width="75" height="75" alt="No image" src="http://www.image.com"></img>
+</body>
+</html>
+
+Bütün html taglerini böylr içiçe yapılar şeklinde kullanabiliyoruz.
+
+
 2.5_Tablolarla Çalışmak
+    Exceldeki hücreler aslında bir tablo yapısıdır
+    tables.html dosyası oluştururuz
+<table></table>
+<tr></tr>               table row - tablo satırı
+<td></td>               table dimension - her satıra da hücre ekleriz
+tablolara başlık da ekleyebiliriz
+<th></th>               table heading - tablo başlığı
+caption bırakmak   
+<caption></caption>
+
 2.6_Formatlama
+html metinlerinin htmlde formatlanması
+formatting.html
+<b></b>         kalın punto
+<strong></strong>  kalın punto
+<em></em>       emphasize - vurgulamak
+<i></i>             emphasis
+<small></small>
+<sub></sub>         metin biraz daha aşağıda yazılır
+
+
+
 2.7_Layout
 2.8_Form Tagleri
 2.9_Html 5 İle Gelen Form Tagleri
