@@ -156,20 +156,62 @@ caption bırakmak
 2.6_Formatlama
 html metinlerinin htmlde formatlanması
 formatting.html
-<b></b>         kalın punto
-<strong></strong>  kalın punto
-<em></em>       emphasize - vurgulamak
+<b></b>             kalın punto
+<strong></strong>   kalın punto
+<em></em>           emphasize - vurgulamak
 <i></i>             emphasis
 <small></small>
 <sub></sub>         metin biraz daha aşağıda yazılır
-
+<sup></sup>
+<ins></ins>         inserted
+<del></del>
+<mark></mark>
 
 
 2.7_Layout
+Mobil cihazların gelmesiyle yeni tagler
+sayfanın görüntüsüyle yapısıyla ilgilenir
+<header></header>
+
+Header
+Navigation (Menu)
+Article    (Ana kısım)
+Footer      (Bottom)
+
+
 2.8_Form Tagleri
+Web sayfalarında çalışırken static dediğimiz dataları gösterdik
+Ama userdan data almamız gerek. Buna form denir.
+Kullanıcıdan bilgi kayıt almak
+<form></form> ilk etapda form olduğunu belirtmememiz gerekli
+<input name="firstName" type="text"/>   --> kapanış tagi sonuna bırakılır
+<label></label> ---> box'ın yanına bilgilendirici etiket basıyor
+İnputlar için belirli koşulllarda belirtebiliyoruz --> required --> lütfen bu alanı doldurun gibisinden
+<label>Password: </label><input name="password" type="password" required/>
+bu form nasıl gönderilir?
+<button>Kaydet</button>
+ama input daha mantıklıdır
+<input type="submit"/>
+Gideceği yeri de formun içerisinde belirtiyor olacağız
+<form action="somesite.html"> <!--action ile kayıtın nereye gideceğini belirleriz-->
+Bir input submit formatındaysa hangi formun içerisindeyse ordaki aksiyon nereyi gösteriyorsa oraya yönlendirme yapacaktır.
+
+Açılır kutu oluşturmak için select tagi kullanırız
+<select></select>
+<select name="gender">
+    <option>Male</option>    Select değerleri verilir. Yani açılır kutuyu açtığında ne görecek
+    <option>Female</option>
+</select>
+...
+
+
 2.9_Html 5 İle Gelen Form Tagleri
-
-
+w3schools.com
+--HTML 5 <datalist> element - jquery teknolojisinde işe yarayabilir.
+aslında selecte benzer ama tarayıcı desteklemiyor
+--HTML 5 <output> element
+oninput="işlem"
+bu işlemler react js ve angular ile daha kolay yapılır
 
 
 
@@ -178,171 +220,4 @@ QR Sistemi
 Restoran websitesinde restorantın haritasını çıkartmak (tıpkı otobüsteki koltuk rezervasyonu gibi)
                                   Haritadan bir masa seçip akşam ne içmek ya da yemek istediğini seçmek (Restoranın menüsü)
 Buna benzer bir fikri Otel oda rezervasyonunda da uygulayabilirsin.
-
-
-
-
-
-3.CSS 3
-3.1_CSS Nedir ?
-3.2_Temel CSS Kullanımları
-3.3_CSS Özellikleriyle Çalışmak
-3.4_Tablolarla Eventlerle Çalışmak
-3.5_Inputlarla Çalışmak
-3.6_Class Yapısı
-3.7_Id Yapısı
-
-
-4.Bootstrap 4
-4.1_Bootstrap Nedir? - Neler Yapabiliriz?
-4.2_Bootstrap Yaşam Döngüsünü Anlamak Ve Şablon Giydirmek
-4.3_Container - Layout Ve Grid Mimarisi
-4.4_Tablolarla Çalışmak
-4.5_Dropdown İle Çalışmak
-4.6_Formlarla Çalışmak
-4.7_İnputlarla Çalışmak
-4.8_Listelerle Çalışmak
-
-
-5.Javascript ES6+
-5.1_Temel Operasyonlar Ve Tiplerle Çalışmak 1
-5.2_Temel Operasyonlar Ve Tiplerle Çalışmak 2
-5.3_Şart Bloklarına Giriş
-5.4_Şart Bloklarıyla Çalışmak 2
-5.5_Fonksiyonlarla Çalışmak
-5.6_Diziler
-5.7_Dizi Fonksiyonlarıyla Çalışmak
-5.8_Nesnelerle Çalışmak
-5.9_Recap Demo 1
-5.10_Döngülerle Çalışmak
-5.11_Recap Demo 2
-5.12_DOM Manipulasyonu Nedir?
-5.13_Demo YouTube Üzerinde DOM Manipulasyonu
-5.14_Demo GetElementsByTagName
-5.15_Demo GetElementsByClassName
-5.16_Demo QuerySelectorAll
-5.17_Demo GetElementsByName
-5.18_Demo AddEventListener
-5.19_Demo Nodlarla Çalışmak
-5.20_Demo ReplaceChild İle Çalışmak
-5.21_EcmaScript Nedir?
-5.22_Önemli - Scope Kavramı - Var Let Const
-5.23_İleri Fonksiyonlar
-5.24_İleri Diziler
-5.25_İleri Nesneler - Referanslar Ve This İle Çalışmak
-5.26_Classlarla Çalışmak
-
-6.Kurulum
-6.1_Node Ve Visual Studio Code Kurulumu
-7. React Dünyasına Giriş
-7.1_Create-React-App Kurulumu
-7.2_İlk React Projemizin Oluşturulması
-
-
-8.Component Mimarisiyle Çalışmak
-8.1_Component Mimarisini Derinlemesine Anlamak
-8.2_İlk Componentlerimizi Oluşturalım
-9. Reactstrap İle Çalışmak
-9.1_ReactStrap İle Çalışmak
-10. Props İle Çalışmaya Başlamak
-10.1_Props İle Çalışmaya Başlamak
-10.2_Best Practice - Props ile Encapsulation
-11. State İle Çalışmaya Başlamak
-11.1_State ile Çalışmaya Başlamak
-12.Eventlerle Çalışmaya Başlamak
-12.1_Eventlerle Çalışmaya Başlamak
-12.2_Componentler Arası Veri Ve Event Transferi
-
-
-13. Api Altyapısının Hazırlanması
-13.1_JsonServer ile Api Kurulumu
-
-
-14. React Yaşam Döngüsüyle Çalışmaya Başlamak
-14.1_ComponentDidMount Ve Fetch İle Çalışmak
-14.2_Ürünlerin Listelenmesi
-14.3_Componentler Arası İletişim Trafiğinin Yönetilmesi
-
-
-15.Şartlı İfadelerle Çalışmak
-15.1_Şartlı İfadelerle Çalışmak
-15.2_Sepete Ürün Eklemek
-
-
-16. Component Drilling
-16.1_Component Drilling
-16.2_Component Drilling İle Event Taşıma
-
-
-17.Alertifyjs İmplementasyonu
-17.1_AlertifyJs İmplementasyonu
-
-
-18. React Rounting
-18.1_Routing İmplementasyonu
-18.2_Sepet Detay Sayfasının Yazılması
-18.3_Sepetten Silme İşleminin Yapılması
-
-
-19. Formlarla Çalışmaya Başlamak
-19.1_Formlarla Çalışmaya Başlamak
-19.2_Form Submit İşlemleriyle Çalışmaya Başlamak
-19.3_Çoklu Form Elemanlarıyla Çalışmak
-19.4_Zengin Form Demosu
-
-
-20.Redux İle Çalışmak ve İlk Küçük Proje
-20.1_Redux Nedir?
-20.2_Redux Projesinin Oluşturulması Ve Paketler
-20.3_Action Yapısını Anlamak
-20.4_Reducer Ve Store İle Çalışmak
-20.5_Genel Tekrar Ve ConfigureStore
-20.6_Componentin Reducera Bağlanması
-20.7_Dispatch İle Çalışmak
-20.8_Projenin Tamamlanması
-
-
-21. Redux Büyük Proje
-21.1_Redux Projesinin Kurulması
-21.2_Klasör Yapılandırmasının Yapılması
-21.3_Temel Bileşenlerin Yapılandırılması
-21.4_Action İle Çalışmak
-21.5_Reducer İle Çalışmaya Başlamak
-21.6_Redux Store Konfigurasyonu
-21.7_Connect İle Çalışmak
-21.8_Özel Tekrar
-
-
-22.Redux Thunk
-22.1_Redux Thunk İle Çalışmak
-22.2_Seçili Kategorinin Yönetilmesi
-22.3_Ürünlerin Listelenmesi
-22.4_Sepete Ekleme Redux
-22.5_Sepete Ekleme React
-22.6_Sepet Özetinin Yazılması
-22.7_Sepetten Ürün Silinmesi
-22.8_Routing Altyapısının Kurulması
-22.9_Sepet Detayının Gösterilmesi
-
-
-23. React Hata Yönetimi
-23.1_Hata Yönetimi Yapmak
-23.2_Reducer Yazılması
-
-
-24. React Hooks
-24.1_React Hooksa Giriş
-24.2_UseEffect ve Redux ile Çalışmak 1
-24.3_UseEffect ve Redux ile Çalışmak 2
-24.4_Detay Sayfasının Yazılması
-24.5_Select Inputun Yazılması
-24.6_Ürün Detaylarının Tamamlanması
-24.7_Küçük Hataların Düzeltilmesi
-24.8_Uygulamanın Test Edilmesi
-24.9_Validasyonun Yapılması
-
-
-
-
-
 
