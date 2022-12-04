@@ -1,0 +1,22 @@
+<form action="formatting.html"> <!--action ile kayıtın nereye gideceğini belirleriz-->
+  <label>First Name: </label><input name="firstName" type="text"><br>
+  <label>Password: </label><input name="Password" type="password" required><br>
+  <label>Gender: </label>
+  <select name="gender">
+    <option>Male</option>    <!--Select değerleri verilir. Yani açılır kutuyu açtığında ne görecek-->
+    <option>Female</option>
+  </select>
+  <label>Car You like?: </label>
+  <select name="car" size="2" multiple> <!--Bir diğer select örneği, size iki iki gösterir. Multiple kullanırsak da cntl ile birden fazla seçim yapabiliriz-->
+    <option>Ferrari</option>
+    <option>Mercedes</option>
+    <option>Renault</option>
+    <option>BMW</option>
+  </select><br>
+  <label>About Yourself: </label>                               <!--Kullanıcıdan bir bio istersek-->
+  <textarea name="biography" rows="4" cols="30"></textarea><br>  
+  <input type="submit" value="Save it"/><br>                    <!--value ile default durumu değiştirdik-->
+  <button onClick="alert('Pushed to send!')">Send it</button>   <!--Buton genellikle JS aksiyonları/çağrıları yazmak için oluşturulur-->
+</form>
+
+
