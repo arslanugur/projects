@@ -465,6 +465,12 @@ ALGORITHM
         An array is a collection of items that are stored sequentially.
         Each item in an array is indexed starting with 0
         
+        array name (a) ---> | 1 | 2 | 3 | <--- Elements
+                              0   1   2   <--- Index
+                            -------------
+                               size = 3
+        
+        
 ---> Linked Lists
         A linked list is a sequence of items arranged in a linear order all connected to each other
         
@@ -504,7 +510,10 @@ ALGORITHM
                         the nodes that hold the data need extra memory to hold the pointer to the next node.
                         each element hence takes slightly more memory than an array
 
-
+        |head| ---> |key|next| -----------> |key|next| ---> |key|next| ---> NULL
+         head          node    next pointer                    tail
+        
+        
 ---> Stacks
         A stack works almost exactly as it sounds.
         It is like stacking elements with a tall container
@@ -518,16 +527,27 @@ ALGORITHM
 ---> Hash Tables
         A hash table structure associates each value with a key and then stores them.
         Hash tables are commonly used to create database indexes
-
+        
+                                                Index     Hash Value
+                                                --------------------
+        key_1                                     1        h(key_1)
+        key_2   --->   | Hash Function |   --->   2        h(key_3)
+        key_3                                     3        h(key_4)
+        key_4                                     4        h(key_2)
+        
+        
 ---> Trees
         A tree is a structure similar to a linked list because each item is linked.
         But in a tree items are linked in a hierarchal fashion, just like you might see in a visual representation of someone's family tree
-
----> Heaps
+        
+        01. Graphs
+        02. Heaps
+        
+        ---> Heaps
         A heap is a type of binary tree in which the parent nodes are compared to their children
         Heaps can be represented as trees, but they can also be represented as binary arrays
 
----> Graphs
+        ---> Graphs
         A graph is an abstract, non-linear data structure that is made of a finite set of nodes that are connected by edges
 
 
