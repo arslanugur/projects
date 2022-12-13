@@ -1,0 +1,121 @@
+
+                                                      CALCULUS I
+Tek değişkenli Fonksiyonlar                           - Limit ve Süreklilik
+f(x)                                                  - Türev
+                                                      - İntegral
+
+
+                                                      CALCULUS II
+İki veya fazal değişkenli fonksiyonlar                - Limit ve Süreklilik
+f(x,y)                                                - Türev
+f(x,y,z)                                              - İntegral
+
+
+# Bilinmesi gerekenler
+01. Fonksiyonlar
+- Tanım ve Görüntü Kümesi Bulma
+- Ters Fonksiyon
+- Bileşke Fonksiyon
+- Parçalı fonksiyonlar ve Grafikleri çizme
+
+02. Analitik (Geometri)
+- Eğim Bulma
+- Doğru Denklemi yazma
+- Doğru Grafiklerini çizmeyi bilme
+- Doğruların birbirilerine göre durumları (Dik ya da parallel olursa ne olur?)
+
+03. Trigonometri
+- 30, 45, 60 derece değerlerini bulma
+- 0, 90, 180, 270, 360 derece değerlerini bulma
+- Trigonometrik Bağıntılar
+- Yarım Açı formülleri (İntegral için)
+- Ters trigonometrik fonksiyonlar
+
+
+
+
+
+
+
+
+
+KONU: Parçalı Fonksiyonların Grafini Çizme
+  Birden fazla kurala sahip olan fonksiyonlardır
+
+f(x) = {2x+1, x>3}              bu parçalı fonksiyonun, x=3 değeri parçalanma noktasıdır.
+       {x^2+1, x<=3}
+
+    f(4) = 2.4+1 = 9    --> ilk kuralı uygularız
+    f(1) = 1^2+1 = 2    --> ikinci kuralı uygularız
+
+
+  Bu örnekte üç tane kural verildi. Kurallar istediğimiz kadar artırılabilir.
+f(x) = {x+1, x<2}
+       {2x-1, 2<=x<5}
+       {x^2+3, 5 <= x}
+
+        Bu parçalı fonksiyon ik tane parçalanma noktasına sahip
+        ilk olarak 2'de parçalanıyor, ikinci olarak 5'de parçalanma var
+        x = 2, x=5 parçalanma noktaları
+        
+Örnek Soru:
+f(x) = {x+1, x<2}
+       {x^2, x>=2}        grafini çiz?
+       
+       x=2 parçalanma noktası
+                          y
+                          |
+                          |
+                          |
+                          |
+                          |
+  x <---------------------|-----2---------------> x
+                          |
+                          |
+                          |
+                          |
+                          |       
+                          y
+       
+  1. Adım: Parçalanma noktasını ya da noktalarını kesikli çizgiyle gösterdik. --> 2
+  2. Adım: Mevcut fonksiyonları y= biçiminde çıkarmak 
+        y=x+1, x<2 iken
+        y=x^2, x>=2 iken
+        
+        x=2 dersek ve yerine koyarsak y=2+1 == 3      Dahiliyet olmadığı için: ❍
+                                      y=2^2 == 4      Dahiliyet olduğu için  : ●
+                                   
+                          y
+                          |
+                          4     ●                       
+                          3     ❍
+                          |
+                          1
+  x <---------------- -1--|-----2---------------> x
+                          |
+                          |
+                          |
+                          |         
+                          |         
+                          y        
+
+      İlk İnceleme: y=x+1 yani doğru grafi ise diğer tarafta olur.
+          x=0 verdiğimizde y eksenin kestiği noktayı buluruz   y=1 olur
+          y=0 verdiğimizde x ekseninin kestiği noktayı buluruz x=-1 olur
+          
+          Bu doğrunun denklemi -1 ve 1den geçecek ama x<2 olduğu zmaan geçerli 
+            Parçalı foksiyonun bu bölümü 3'den başlar -1'e kadar giden bir çizgiyi çizer
+            Bu şekilde fonksiyonun ilk kuralının grafiğini bitirmiş olduk.
+
+      İkinci İnceleme:
+          y=x^2 grafiği sağ tarafta olur.
+          y=x^2 bir parabol'dur. eğimli U şeklinde geçer ve 4 noktasına kadar kesikli sonrasında bir çizgi olur
+          Bu şekilde fonksiyonun ikinci kuralının grafiğini bitirmiş olduk.
+
+
+
+
+Diğer Soru: 11:53
+https://www.youtube.com/watch?v=aJqqnng3gE4&list=PLcNWqzWzYG2v5_R_uPyLRzGXSoYgjfd8C&index=2
+
+
