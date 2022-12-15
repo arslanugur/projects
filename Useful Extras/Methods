@@ -1,3 +1,446 @@
+---> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER
+🔻 Stratejik Öngörü Konisi - Mümkün senaryolar neler olabilir?
+
+🔻 Reason/Logic
+	Mantık
+	you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
+	axiom - aksiyom
+	reasoning rules - akıl yürütme kuralları
+	inference rules - çıkarım kuralları
+
+🔻 Aristoteles'in dört Neden Öğretisi
+	Herhangi bir şeyin ve bir bütün olarak evrende ortaya çıkmasını, varlık kazanmasını sağlayan dört neden vardır. 
+	Maddi neden (causa materialis)	- Ağaç (Kaynak)		Yatırımı nereye yapacağız?
+	Formal neden (causa formalis)	- Masa (Biçim, Şekil)	Ürün ne olacak?
+	Etken neden (causa efficiens)	- Marangoz (Faili) 	İşi kim yapacak?		Ağacın o forma gelmesi kendiliğinden gerçekleşmez.
+	Ereksel neden (causa finalis)	- Yemek masası (Amacı)	Nasıl pazarlayacağız?		Bir amaç bulunmalı (Para, Satış vs)
+
+
+🔻 Gamification
+	Oyunlaştırma
+	"Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
+	Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
+	
+	Tanım:
+		Oyun mekaniklerini oyun olmayan alanlarda kullanarak 'kişilerin davranışlarını etkilemek'
+		Oyun dinamikleri (motivasyonları) ve mekanikleri kullanılarak katılım ve etkileşim sağlanıyor.
+		Şirketler, Bunun için genellikle bir web site, app, social network ya da kampanya kullanıyor
+	
+	Başlıca Oyun Dinamikleri:	Başlıca Oyun Mekanikleri:	
+		Ödül				Puan Kazanma		
+		Statü				Düzey (Level) atlama
+		Rekabet				Zorluklar
+		Başarı				Sanal Kazanımlar
+		Kendini İfade Etme		Sıralamada yer alma
+		Yardımseverlik			Ödül v Destekler (Yardım)
+
+
+	----> OYUN MODELLEME
+									Oyun Mekanikleri		
+	*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
+	----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
+				------------	--------------------	---------	----------------	-------------------	--------------	
+	Ödül			     000				   ###		       ###			
+	Statü			     ###		OOO		   ###		       ###			###		       ###
+	Başarı			     ###		###		   OOO		       ###			###		       ###
+	Kendini İfade Etme						   ###		       OOO
+	Rekabet			     ###		###		   ###		       ###			OOO		       ###	
+	Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
+	
+					000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
+				
+				
+	Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
+					2008de uygulamayı iPod ile birleştirerek, 
+					RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
+					İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
+					Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
+
+🔻 Bu bir Soygun!
+	Bir soygun sırasında hırsızlardan biri bağırır:
+		"Kıpırdamayın! para devletin, hayatınız ise sizin.."	---> Anlık Akılla İkna
+	Soygun sonrası hırsızlardan biri diğerine sorar: 
+		"Kaç para aldık", diğeri cevaplar: "Çok para, sayılmaz akşam evde haberlerden öğreniriz" ---> Tecrübe
+	Hırsızlar gittikten, Banka müdürü de kendi için bir miktar sakladı.	--> Akışına yüzmek, durumu lehine çevirmek
+
+
+🔻 Situational Awareness
+	Durumsal Farkındalık
+	be aware of your surroundings, identify specific problems or threats, 
+	and be prepared to execute a tactical plan to deal with each threat as it presents itself
+	Arkandaki resmi hatırlıyor musun?
+	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
+	
+
+🔻 S.T.A.R. Technique
+	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
+
+	Situation	-- set the scene		sahneyi ayarla / oyunu kur
+	Task		-- describe the purpose		amacını tarif et
+	Action		-- explain what you did		ne yaptığını açıkla
+	Result		-- share the outcome		sonucu paylaş
+	
+	
+🔻 Eisenhower Matrix
+	How to manage your time - To Evaluate each task
+	Herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi
+	
+				    important
+				     	|
+		can I do it now?	|	delay / drop / delete 
+		   			|		(can I decide when to do it?)
+					|		(schedule a time to do it)
+					|
+	urgent	<-----------------------|------------------------> not urgent
+					|
+			delegate it	|	delete (should I dump it?)
+	     (who can do it for you?)	|	       (eliminate it)
+	     				|
+				   not important
+	
+
+
+🔻 Gambler's fallacy
+	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+
+🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
+
+
+🔻 Watson-Glaser Critical Thinking Test
+	Eleştirel Düşünme Ölçeği, birisini işe alacak olduğumuzda karar verme ve yargılamayı hem ölçer hem de gelişimini sağlamaktadır.
+	Çalışanların baskı altında soru sorma, analiz etme ve karar verme yöntemlerinden daha önemli bir şey yoktur.
+	Yüksek potansiyelli çalışanlar yaratmak ve öğrencileri iddialı programlara kabul etmek amacıyla kullanıyor. 
+		KEYS:	
+		- Recognize Assumptions		Varsayımları Tanı
+		- Evaluate Arguments		İddiaları/Görüşleri Değerlendir
+		- Draw Conclusions		Sonuca Var 
+
+	https://www.assessmentday.co.uk/
+
+
+🔻 Proactive ile Reactive insan arasındaki fark;
+		Özellikle İşe alımda anlaşılan durumlar.
+		Reactive olduğunu belli eden hareketler: Geçmişte başına gelen olumsuz durumlardan söylenen insan. Çözümü sonradan bulan ya da bulamayan.
+		Proactive olduğunu belli eden hareketler: Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
+
+
+
+🔻 False Positive vs. False Negative (Steve Yegge's Rule)
+		Boolean Algebra
+		
+			Expected:
+				System:       Input		 Output   Result
+				Computer <--- Image: Fish   ---> True     True  
+				Computer <--- Image: Sea    ---> False    True
+
+			Computer Vision Error: Verilen cevap pozitif/negatif ama yanlış
+				System:       Input		 Output   Result
+				Computer <--- Image: Fish   ---> False    False   #if the computer outputs no fish ---> False Negative
+				Computer <--- Image: Flower ---> True     False   #if the computer outputs fish    ---> False Positive
+
+		İşe Alım(Recruitment): 
+			Kötü bir aday işe alınırsa ve kötü bir çalışan çıkarsa ---> False Positive   (avoid this in Tech Recruitment!)
+			İyi bir adayı işe alınmazsa yani kaçırılırsa           ---> False Negative
+			http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1
+
+
+🔻 S.W.O.T. Business Analysis
+	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
+
+				helpful					harmful
+				(to achieving the objective)		(to achieving the objective)
+								|
+	internal origin						|
+	(attributes of the organization)	strengthes	|	weaknesses 
+			   					|
+								|
+					------------------------|-----------------------
+								|
+	external origin				opportunities	|	threats
+	(attributes of the environment)				|
+		     						|
+			
+🔻 Failure Mode Effects Analysis (FMEA)
+	Hata Türleri Etki Analizi
+	Proaktive Thinking feat. Engineering
+	Bir üründe oluşabilecek design veya process kökenli.. 
+		.. potansiyel tüm hata türlerinin sistematik olarak yapılan bir analiz ile öncesinde önlem almak için kullanılan  metod.
+	
+		1. Design FMEA (DFMEA)		2. System		3. Service		4. Process FMEA (PFMEA) 
+	
+			Failure		- Potential
+			Mode		- Types, Ways, Possibilities 
+			Effect		- Negative Effect on Process under Study
+			Analysis	- Study Risk and Reduce it
+	
+	
+	Formula:
+		Risk Öncelik İndeksi (Risk Öncelik Sayısı) = (hataların ortaya çıkma olasılığı) * (hatanın şiddeti) * (hatanın saptanabilirliği)
+			Genel kabulde;
+			• rös < 40 ise önlem almaya gerek yoktur.
+			• 40 =< rös =< 100 önlem alınmasında fayda vardır.
+			• rös > 100 ise mutlaka önlem alınması gerekir.
+	
+	Failure Modes, Effects, and Diagnostic Analysis (FMEDA)		-- Bu oranın 1'e yaklaşması, sistemin mükemmele yaklaşması anlamında
+	Failure Mode, Effects, and Criticality Analysis (FMECA)
+	
+	IN A LOOP
+		Team of the experts			Uzmanlardan oluşan ekip
+		Data for Analysis			Analiz için Veriler
+		Failures, Effects, Causes		Başarısızlıklar, Etkiler, Nedenler
+		Asset Criticality Assessment		Varlık Kritiklik Değerlendirmesi
+		Risk Mitigation Actions			Risk Azaltma Eylemleri
+		Effectiveness Analysis			Etkinlik Analizi 
+
+
+			İç-Dış Hata Maliyeti -------FMEA------- Hata Önleme Maliyeti
+				+		     O			+
+						Kalite Maliyeti
+
+
+🔻 How to value a company
+	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
+	
+		Formula:
+		Share price = Expected Dividend Per Share (EDPS) / (Cost of Capital Equity (CCE) - Divident Growth Rate (DGR))
+		
+		Let's look at Coca-Cola (NYSE: KO)
+		
+		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
+
+
+🔻 Politically Correct ...
+	"Bazı kavramları/durumları tabu haline getirerek .. değişmesi gereken şeylerin değişmesini, üstlerini sahte bir şekilde örterek geciktirmek, engellemek."
+	"Aman kimse hakkında yanlış laf etmeyelim, kimseyi laflarımızla zedelemeyelim, 
+	 bir şey hakkında yorum yapacaksak kesin doğru olanını söyleyelim, aynı zamanda kibar davranalım .."
+	"Söylemek mi, yoksa söyleyememek mi?"
+	"Sadece saygını hak eden kişilere, saygını göster .."
+	
+
+🔻 AIDA Modeli
+	Pazarlama ve reklamcılıkta kullanılan bir modeldir.
+	Tüketicilerin dört aşamadan geçerek ürün satın almaya karar verdikleri bir teoridir.
+	Farkına Varmak / İlgi Göstermek / İstemek / Harekete Geçmek eylemlerini kapsar.
+	
+	AIDA modeli aşamaları nelerdir?
+		SATIŞTA AIDA MODELİ
+		    - Attention (Dikkat)
+		    - # Search
+		    - Interest (İlgi)
+		    - Desire (Arzu)
+		    - Action (Aksiyon)
+		    - # Share
+
+
+🔻 FIVE TOP IDEAS IN THE WORLD
+	1. Murphy's Law:	The more you fear sth, the more it will happen
+	2. Kidlin's Law:	If you can write the problem down clearly, then the matter is half solved
+	3. Gilbert's Law:	The biggest Problem at work is that noone tells what you do
+	4. Flip Walson's Law:	If you put information and intelligence first at all times, then the money keeps coming in
+				You can't expect to hit the jackpot, if you don't put a few nickles in the machine
+	5. Falkland's Law:	When it is not necessary to make a decision, it is necessary not to make a decision
+
+
+
+🔻 Psychology Hacks you should know to control any situation
+	01- when someone answers your questions partially. wait and dont interrupt. Chances are high that they will complete the answer when you say nothing
+		01- Birisi sorularınızı kısmen yanıtladığında. bekle ve kesme. Hiçbir şey söylemediğinizde cevabı tamamlama ihtimalleri yüksek.
+
+	02- when you want to get something from someone, frame it as an offer/oppurtunity instead of a request. Anyone will be ready to accept an offer/opportunity.
+		02- Birinden bir şey almak istediğinizde, bunu bir istek yerine teklif/fırsat olarak çerçeveleyin. Herkes bir teklifi/fırsatı kabul etmeye hazır olacaktır.
+			- Telefonu kullanabilir miyim - benim çıkarım ne? - daha tuzlu bir fatura))
+			
+	03- When asking for favours use the word "because." No matter how simple the reason. The word "because" makes them think it must be okay because there is a reason.
+		03- İyilik isterken "çünkü" kullanın. Nedeni ne kadar basit olursa olsun. "Çünkü", bir nedeni olduğu için her şeyin yolunda olduğunu düşünmelerini sağlar.
+
+	04- Have zero expectations, when you are first trying something new, it prevents dissappoinment.
+		04- Sıfır beklentiye sahip olun, yeni bir şey denerken hayal kırıklığı yaşamanızı engeller.
+			
+	05- To judge a person's character, notice the way they treat people - who cant do anything for them.
+		05- Bir kişinin karakterini yargılamak için, onlar için hiçbir şey yapamayan insanlara nasıl davrandığına dikkat edin.
+
+	06- After you state your position in a negotiation. Wait for a while. If you continue to speak, you are not speaking in your favor.
+		06- Bir görüşmede pozisyonunuzu belirttikten sonra. Biraz bekle. Konuşmaya devam ederseniz, lehinize konuşmuyorsunuz.
+
+	07- Chewing gum while doing nerve-racking things calm your brain.
+		07- Sinir bozucu şeyler yaparken sakız çiğnemek beyninizi sakinleştirir.
+
+	08- When you are learning something, teach someone about it. You will remember it easily and explore more in the process of teaching.
+		08- Bir şey öğrendiğin zaman onu birine öğret. Bunu kolayca hatırlayacak ve öğretme sürecinde daha fazlasını keşfedeceksiniz.
+
+	09- Most people's favorite subject to talk about is themselves. If you don't know what to talk about, or have awkward silence, just ask them questions.
+	**	09- Çoğu insanın konuşmayı en sevdiği konu kendileridir. Ne hakkında konuşacağınızı bilmiyorsanız / garip bir sessizlik yaşıyorsanız, onlara sorular sorun.
+
+	10- when you meet people, notice their eye color while you smile at them. Dont mention anything about it. it is a good way to make sure that you really look them in the eyes.
+	**	10- İnsanlarla tanıştığınızda, onlara gülümserken göz rengine dikkat edin. Bununla ilgili bir şeyden bahsetme. Gözler içine baktığından emin olmanın iyi bir yolu.
+
+	11- A person's name is the sweetest sound in the world to that person. To make a person feel very special, remember and repeat their name.
+		11- Bir kişinin adı, o kişi için dünyanın en tatlı sesidir. Bir insanı çok özel hissettirmek, adını hatırlamak ve tekrarlamak.
+			
+	12- Emotional expression causes emotion. If you force yourself to smile, your mood will actually improve.
+	**		12- Duygusal ifade duyguya neden olur. Kendinizi gülümsemeye zorlarsanız, ruh haliniz gerçekten iyileşir.
+
+	13- Stand up straight. It makes you look more confident and you will actually feel more confident.
+			13- Dik durun. Bu sizi daha kendinden emin gösterir ve aslında daha kendinden emin hissedeceksiniz.
+
+	14- With kids, frame things in a way that always gives them a choice. It makes them feel like they are in control.
+	**	E.g. "Do you want to wear red shirt or blue shirt?". Either way, they know it is time to put on a shirt.
+			14- Çocuklarla, her şeyi onlara her zaman bir seçenek sunacak şekilde çerçeveleyin. Kontrolde olduklarını hissettirir.
+				Örneğin. "Kırmızı gömlek mi yoksa mavi gömlek mi giymek istersin?". Her iki durumda da, bir gömlek giymenin zamanının geldiğini biliyorlar.
+
+	
+
+
+
+🔻 Bilgisayar Biliminin Temel Yasaları
+	Moore Yasası:	Bu yasa, İşlemci hızlarının ve bilgisayar için toplam işlem gücününher iki yılda bir ikiye katlanacağını belirtir.
+	Amdahl Yasası:	Bu yasa, Bir sistemin belirli bir bölümünün geliştirerek mümkün olan maksimum iyileştirmeyi bulmak için kullanılan bir formüldür.
+	Brooks Yasası:	Bu yasa, Gecikmiş bir yazılım projesine insan gücü eklemenin onu daha da geciktireceğini belirtir.
+	Linus Yasası:	Bu yasa, Bir projeye yeterince büyük bir test takımı ve geliştirici sağlandığında, 
+			hemen hemen her sorunun hızlı bir şekilde tanımlanacağını ve çözümün kolayca bulunabileceğini söyler. 
+	Groosch Yasası:	Bu yasa, Bilgisayar performansının maliyetin karesi kadar arttığı belirtir.
+			A bilgisayarı B bilgisayarından iki kat daha pahalıysa, A bilgisayarının B bilgisayarından 4 kat daha hızlı olması beklenir.
+	Wirth Yasası:	BU yasa, Yazılımın donanımın hızlanmasından daha hızlı yavaşladığını belirtir.
+
+
+
+
+
+
+
+
+	Yeni insanlara ve doğaçlama sohbetlere girmek gerekli
+	ağzına geleni söyle
+	topu yumuşat - yanlış bi iddiayı çürütmek - bi mesaja odakla
+	düşünme kır geç - kırılan alınan insanı kimse mutsuz edemez
+	hazır cevap insanı değil, durumu konuşur - fikrini söyle
+	beden dili önemli - tepki ver -  söyleyecek bişeyin olsun gbi davran - seyirciyi topla
+	orjinal ol - herkese göre eğik bükme - sana göre
+	kapanıp savunmaya girme- yasla yumuşat daha büyüğüyle saldır - çek cımbızla büyütüp karşı tarafa saldır. seyirciyi kazan
+	havalı kelimeleri cümleleri kullan ki karşı taraf kelimeye takılıp kalsın
+	hmm de geç konuşmana kaldığın yerden devam et - o yokmuş gibi davran
+	konu seç - aynen, ne alakası var, 
+	
+	
+	kör dünyası değil, gör dünyası bu. olanları görmezlikten gelmektense, aç gözünü uyum sağla ya da oyununu oyna
+	
+	
+
+
+
+
+
+
+
+https://www.16personalities.com/tr	
+	
+
+
+	host = işi kuran sen değilsin ama o işi başkası para kazansın diye yapan maaşlı elemansın 
+		--> teacher, beyaz yaka, muavin, danışman, zoomda toplantı ayarlayan
+		
+	
+Mistakes that kill startups
+	Bad location
+	Single Founder -> Finding a co-founder is better
+	Lack of Money
+	Hiring bad employees
+	Lack of Effort
+	Bad Planning
+	Wrong platform
+	Poor management
+	
+	
+
+DARK PSYCHOLOGY
+While talking w someone, pay attention his/her eye color, Eye contact makes you likeable
+Stay calm in a discussion, probably they would get angrier but then they would blame themselves
+people who refused a big favour, then they feel they should approve a smaller favour. %50 discount they say no, but %30 to persuade
+when you see someone, you really look happy and excited, they also feel like the same way. Dogs use this trick
+Chew a gum to decrease stress or being nervous or eat. Primitive brain will be convinced it isnt in danger.
+Dont use I think or I believe. these words shows lack of self-confidence
+
+
+İnsanlar kazanarak öğrenmez, kaybederek öğrenir
+Şans bulduklarınızdır, başarı değiştirebildiklerinizdir
+Kalburüstü ülkeler - ingiltere, almanya
+Ateş ede ede nişan almayı öğrenirsin, nişan almayı öğrendiğinde hazırsın
+Bisiklet düşünerek öğrenilmez, sürerek öğrenilir, düşersin ama öğrenirsin                                                  
+insanlar sana gelmez, senin gidip bulman gerek ki işleri düştüğünde seni bulsunlar
+çöle eskimoyla, kutuplara bedeviyle gidilmez
+Hacı olmak değil, hacı kalmak önemli
+Parayla kalite mıknatıs gibidir, birbirini çeker
+Zaman iyileştirmez. İyileştiren şey zamanla ne yaptığınızdır. Edith Eger
+Eğer kendine evini temizlemek için kendine 25 gün verirsen, işi birmen 25 gün sürecektir.
+	eğer 2 saat verirsen, tüm işlerin bitmesi 2 saat sürecektir.
+
+
+Hız her işin püf noktasıdır. Bunun için iyi bir algoritma geliştirmek gerekir. iş yükünü azaltabildiğin kadar azalt
+Tenis Kortunda mcdonalds hizmet stratejisi. verimlilik için en iyi versiyonu bulmak. Özel tasarlanmış mutfak.
+	elemana göre iş değil, işe göre eleman bulmak
+uzaktan kalite kontrol bir işin en zor kısmıdır. kolayca güvenemezsin kimseye
+
+Bana hikayeni anlat, birini tanımak için bu iyi bir dinleyici olduğun algısını yaratır
+
+u cant talk life goals around ppl who dont have the same hunger as u, it will just sound like ure bragging - Drake
+
+
+boast yourself		kendinle övün		be proud of urself
+stop bragging yourself	kendini övmeyi bırak
+u're boastful		övünen, böbürlenen
+It's flattering		pohpolayıcı
+I'm flattered		pohpohlandım
+
+
+Most clever psychology facts
+	Around 80% of human talk in groups is complaining
+	Being a perfectionist can result in stress and depression
+	Ships dont sink because of the water around them. 
+		Ships sink because of the water that gets in them.
+		Don't let what's happening around you get inside you and weigh u down
+	Some day's gap is very necessary in a relationship, 
+	so both the partner can realize and appreciate the value of each other presence.	
+	It's not the song that makes you emotional, it's the people and things that come to your mind when you hear it.
+	The best things in life is finding someone who knows all your laws, mistakes and weakness and still thinks youre completely amazing
+	People who overthink actually makes better friends, Overthinking is associated with empathy, the ability to care for others.
+	All birds find shelter during the rain 
+		but eagle avoids rain by flying above the clouds, problems are common, 
+		but the attitude makes the difference.
+
+
+
+
+
+	
+
+Ethos, Pathos, Logos
+
+
+Being Mysterious
+	Be calm
+	Talk less
+	Avoid drama
+	Be less drama
+	Make eye contact
+	Use correct body language
+	Listen more than you speak
+	Think outside the box
+	Think before you speak
+	Don't always be available
+	Speak less about yourself
+
+
+All time Travel Paradoxes
+	Bootstrap Paradox
+	Predestination Paradox
+	Grandpa Paradox
+	Polchinski's Paradox
+	
+
+
+
+
+
 LOST BOYS
 	Fight Club
 	Taxi Driver
@@ -351,438 +794,12 @@ Zor bir hayat istiyorsan kolay seçimler yapmalısın. Kolay bir hayat istiyorsa
 
 
 
-- Yurtdışına çıkmak, döviz almak ve yatırım yaparak zengin olmak
 
 
 
 
 
 
----> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER
-
-🔻 Psychology Hacks you should know to control any situation
-	01- when someone answers your questions partially. wait and dont interrupt. Chances are high that they will complete the answer when you say nothing
-		01- Birisi sorularınızı kısmen yanıtladığında. bekle ve kesme. Hiçbir şey söylemediğinizde cevabı tamamlama ihtimalleri yüksek.
-
-	02- when you want to get something from someone, frame it as an offer/oppurtunity instead of a request. Anyone will be ready to accept an offer/opportunity.
-		02- Birinden bir şey almak istediğinizde, bunu bir istek yerine teklif/fırsat olarak çerçeveleyin. Herkes bir teklifi/fırsatı kabul etmeye hazır olacaktır.
-			- Telefonu kullanabilir miyim - benim çıkarım ne? - daha tuzlu bir fatura))
-			
-	03- When asking for favours use the word "because." No matter how simple the reason. The word "because" makes them think it must be okay because there is a reason.
-		03- İyilik isterken "çünkü" kullanın. Nedeni ne kadar basit olursa olsun. "Çünkü", bir nedeni olduğu için her şeyin yolunda olduğunu düşünmelerini sağlar.
-
-	04- Have zero expectations, when you are first trying something new, it prevents dissappoinment.
-		04- Sıfır beklentiye sahip olun, yeni bir şey denerken hayal kırıklığı yaşamanızı engeller.
-			
-	05- To judge a person's character, notice the way they treat people - who cant do anything for them.
-		05- Bir kişinin karakterini yargılamak için, onlar için hiçbir şey yapamayan insanlara nasıl davrandığına dikkat edin.
-
-	06- After you state your position in a negotiation. Wait for a while. If you continue to speak, you are not speaking in your favor.
-		06- Bir görüşmede pozisyonunuzu belirttikten sonra. Biraz bekle. Konuşmaya devam ederseniz, lehinize konuşmuyorsunuz.
-
-	07- Chewing gum while doing nerve-racking things calm your brain.
-		07- Sinir bozucu şeyler yaparken sakız çiğnemek beyninizi sakinleştirir.
-
-	08- When you are learning something, teach someone about it. You will remember it easily and explore more in the process of teaching.
-		08- Bir şey öğrendiğin zaman onu birine öğret. Bunu kolayca hatırlayacak ve öğretme sürecinde daha fazlasını keşfedeceksiniz.
-
-	09- Most people's favorite subject to talk about is themselves. If you don't know what to talk about, or have awkward silence, just ask them questions.
-	**	09- Çoğu insanın konuşmayı en sevdiği konu kendileridir. Ne hakkında konuşacağınızı bilmiyorsanız / garip bir sessizlik yaşıyorsanız, onlara sorular sorun.
-
-	10- when you meet people, notice their eye color while you smile at them. Dont mention anything about it. it is a good way to make sure that you really look them in the eyes.
-	**	10- İnsanlarla tanıştığınızda, onlara gülümserken göz rengine dikkat edin. Bununla ilgili bir şeyden bahsetme. Gözler içine baktığından emin olmanın iyi bir yolu.
-
-	11- A person's name is the sweetest sound in the world to that person. To make a person feel very special, remember and repeat their name.
-		11- Bir kişinin adı, o kişi için dünyanın en tatlı sesidir. Bir insanı çok özel hissettirmek, adını hatırlamak ve tekrarlamak.
-			
-	12- Emotional expression causes emotion. If you force yourself to smile, your mood will actually improve.
-	**		12- Duygusal ifade duyguya neden olur. Kendinizi gülümsemeye zorlarsanız, ruh haliniz gerçekten iyileşir.
-
-	13- Stand up straight. It makes you look more confident and you will actually feel more confident.
-			13- Dik durun. Bu sizi daha kendinden emin gösterir ve aslında daha kendinden emin hissedeceksiniz.
-
-	14- With kids, frame things in a way that always gives them a choice. It makes them feel like they are in control.
-	**	E.g. "Do you want to wear red shirt or blue shirt?". Either way, they know it is time to put on a shirt.
-			14- Çocuklarla, her şeyi onlara her zaman bir seçenek sunacak şekilde çerçeveleyin. Kontrolde olduklarını hissettirir.
-				Örneğin. "Kırmızı gömlek mi yoksa mavi gömlek mi giymek istersin?". Her iki durumda da, bir gömlek giymenin zamanının geldiğini biliyorlar.
-
-	
-															Guide to Self-Discipline.pdf
-
-🔻 Reason/Logic
-	Mantık
-	you use another truth to find out a truth - bir gerçeği öğrenmek için başka bir gerçeği kullanırsın --> boolean algebra
-	axiom - aksiyom
-	reasoning rules - akıl yürütme kuralları
-	inference rules - çıkarım kuralları
-
-🔻 Aristoteles'in dört Neden Öğretisi
-	Herhangi bir şeyin ve bir bütün olarak evrende ortaya çıkmasını, varlık kazanmasını sağlayan dört neden vardır. 
-	Maddi neden (causa materialis)	- Ağaç (Kaynak)		Yatırımı nereye yapacağız?
-	Formal neden (causa formalis)	- Masa (Biçim, Şekil)	Ürün ne olacak?
-	Etken neden (causa efficiens)	- Marangoz (Faili) 	İşi kim yapacak?		Ağacın o forma gelmesi kendiliğinden gerçekleşmez.
-	Ereksel neden (causa finalis)	- Yemek masası (Amacı)	Nasıl pazarlayacağız?		Bir amaç bulunmalı (Para, Satış vs)
-
-
-🔻 Gamification
-	Oyunlaştırma
-	"Oyunlaştırmayı, müşteriler ve çalışanlar arasındaki etkileşimi artırıcı bir araç olarak kullanan şirketler var.
-	Böylelikle daha rekabetçi oluyorlar, satışlar ve karlılık da doğal şekilde artıyor" -- David Edery, Changing the Game
-	
-	Tanım:
-		Oyun mekaniklerini oyun olmayan alanlarda kullanarak 'kişilerin davranışlarını etkilemek'
-		Oyun dinamikleri (motivasyonları) ve mekanikleri kullanılarak katılım ve etkileşim sağlanıyor.
-		Şirketler, Bunun için genellikle bir web site, app, social network ya da kampanya kullanıyor
-	
-	Başlıca Oyun Dinamikleri:	Başlıca Oyun Mekanikleri:	
-		Ödül				Puan Kazanma		
-		Statü				Düzey (Level) atlama
-		Rekabet				Zorluklar
-		Başarı				Sanal Kazanımlar
-		Kendini İfade Etme		Sıralamada yer alma
-		Yardımseverlik			Ödül v Destekler (Yardım)
-
-
-	----> OYUN MODELLEME
-									Oyun Mekanikleri		
-	*** Motivasyonlar	----------------------------------------------------------------------------------------------------------------------
-	----------------------- Puan Kazanma	Düzey (Level) atlama	Zorluklar	Sanal Kazanımlar	Sıralamada yer alma	Ödül v Yardım	
-				------------	--------------------	---------	----------------	-------------------	--------------	
-	Ödül			     000				   ###		       ###			
-	Statü			     ###		OOO		   ###		       ###			###		       ###
-	Başarı			     ###		###		   OOO		       ###			###		       ###
-	Kendini İfade Etme						   ###		       OOO
-	Rekabet			     ###		###		   ###		       ###			OOO		       ###	
-	Yardımseverlik (Takım Oyunu) ###				   ###						###		       OOO
-	
-					000 --> Kişinin Oyundaki Öncelikli Motivasyonlar	### --> Diğer Etkili Alanlar
-				
-				
-	Örnek Uygulama --> NIKE Run --> her egzersiz oyunlaştırıldı v her başarı için badge kazandırıldı
-					2008de uygulamayı iPod ile birleştirerek, 
-					RUN app ile kullanıcıları başarılı bir ödüllendirme sistemi ile motive etmeye devam ediyor
-					İyi bir takip sistemi ile ZAMAN SINIRLI OYUNLAŞTIRMALAR sunuyor.
-					Eğitmeni dinleyerek koşmak, önemli bilgiler verilmesi, ürün tanıtımlarının yapılması
-
-🔻 Bu bir Soygun!
-	Bir soygun sırasında hırsızlardan biri bağırır:
-		"Kıpırdamayın! para devletin, hayatınız ise sizin.."	---> Anlık Akılla İkna
-	Soygun sonrası hırsızlardan biri diğerine sorar: 
-		"Kaç para aldık", diğeri cevaplar: "Çok para, sayılmaz akşam evde haberlerden öğreniriz" ---> Tecrübe
-	Hırsızlar gittikten, Banka müdürü de kendi için bir miktar sakladı.	--> Akışına yüzmek, durumu lehine çevirmek
-
-
-🔻 Situational Awareness
-	Durumsal Farkındalık
-	be aware of your surroundings, identify specific problems or threats, 
-	and be prepared to execute a tactical plan to deal with each threat as it presents itself
-	Arkandaki resmi hatırlıyor musun?
-	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
-	
-
-🔻 S.T.A.R. Technique
-	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
-
-	Situation	-- set the scene		sahneyi ayarla / oyunu kur
-	Task		-- describe the purpose		amacını tarif et
-	Action		-- explain what you did		ne yaptığını açıkla
-	Result		-- share the outcome		sonucu paylaş
-	
-	
-🔻 Eisenhower Matrix
-	How to manage your time - To Evaluate each task
-	Herhangi bir görevin yapılması ya da yapılmaması üzerine karar yöntemi
-	
-				    important
-				     	|
-		can I do it now?	|	delay / drop / delete 
-		   			|		(can I decide when to do it?)
-					|		(schedule a time to do it)
-					|
-	urgent	<-----------------------|------------------------> not urgent
-					|
-			delegate it	|	delete (should I dump it?)
-	     (who can do it for you?)	|	       (eliminate it)
-	     				|
-				   not important
-	
-
-
-🔻 Gambler's fallacy
-	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
-
-🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
-
-
-🔻 Watson-Glaser Critical Thinking Test
-	Eleştirel Düşünme Ölçeği, birisini işe alacak olduğumuzda karar verme ve yargılamayı hem ölçer hem de gelişimini sağlamaktadır.
-	Çalışanların baskı altında soru sorma, analiz etme ve karar verme yöntemlerinden daha önemli bir şey yoktur.
-	Yüksek potansiyelli çalışanlar yaratmak ve öğrencileri iddialı programlara kabul etmek amacıyla kullanıyor. 
-		KEYS:	
-		- Recognize Assumptions		Varsayımları Tanı
-		- Evaluate Arguments		İddiaları/Görüşleri Değerlendir
-		- Draw Conclusions		Sonuca Var 
-
-	https://www.assessmentday.co.uk/
-
-
-🔻 Proactive ile Reactive insan arasındaki fark;
-		Özellikle İşe alımda anlaşılan durumlar.
-		Reactive olduğunu belli eden hareketler: Geçmişte başına gelen olumsuz durumlardan söylenen insan. Çözümü sonradan bulan ya da bulamayan.
-		Proactive olduğunu belli eden hareketler: Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
-
-
-
-🔻 False Positive vs. False Negative (Steve Yegge's Rule)
-		Boolean Algebra
-		
-			Expected:
-				System:       Input		 Output   Result
-				Computer <--- Image: Fish   ---> True     True  
-				Computer <--- Image: Sea    ---> False    True
-
-			Computer Vision Error: Verilen cevap pozitif/negatif ama yanlış
-				System:       Input		 Output   Result
-				Computer <--- Image: Fish   ---> False    False   #if the computer outputs no fish ---> False Negative
-				Computer <--- Image: Flower ---> True     False   #if the computer outputs fish    ---> False Positive
-
-		İşe Alım(Recruitment): 
-			Kötü bir aday işe alınırsa ve kötü bir çalışan çıkarsa ---> False Positive   (avoid this in Tech Recruitment!)
-			İyi bir adayı işe alınmazsa yani kaçırılırsa           ---> False Negative
-			http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html?m=1
-
-
-🔻 S.W.O.T. Business Analysis
-	Bir işin ya da aklındaki bir durumun sana getirisi / götürüsü
-
-				helpful					harmful
-				(to achieving the objective)		(to achieving the objective)
-								|
-	internal origin						|
-	(attributes of the organization)	strengthes	|	weaknesses 
-			   					|
-								|
-					------------------------|-----------------------
-								|
-	external origin				opportunities	|	threats
-	(attributes of the environment)				|
-		     						|
-			
-🔻 Failure Mode Effects Analysis (FMEA)
-	Hata Türleri Etki Analizi
-	Proaktive Thinking feat. Engineering
-	Bir üründe oluşabilecek design veya process kökenli.. 
-		.. potansiyel tüm hata türlerinin sistematik olarak yapılan bir analiz ile öncesinde önlem almak için kullanılan  metod.
-	
-		1. Design FMEA (DFMEA)		2. System		3. Service		4. Process FMEA (PFMEA) 
-	
-			Failure		- Potential
-			Mode		- Types, Ways, Possibilities 
-			Effect		- Negative Effect on Process under Study
-			Analysis	- Study Risk and Reduce it
-	
-	
-	Formula:
-		Risk Öncelik İndeksi (Risk Öncelik Sayısı) = (hataların ortaya çıkma olasılığı) * (hatanın şiddeti) * (hatanın saptanabilirliği)
-			Genel kabulde;
-			• rös < 40 ise önlem almaya gerek yoktur.
-			• 40 =< rös =< 100 önlem alınmasında fayda vardır.
-			• rös > 100 ise mutlaka önlem alınması gerekir.
-	
-	Failure Modes, Effects, and Diagnostic Analysis (FMEDA)		-- Bu oranın 1'e yaklaşması, sistemin mükemmele yaklaşması anlamında
-	Failure Mode, Effects, and Criticality Analysis (FMECA)
-	
-	IN A LOOP
-		Team of the experts			Uzmanlardan oluşan ekip
-		Data for Analysis			Analiz için Veriler
-		Failures, Effects, Causes		Başarısızlıklar, Etkiler, Nedenler
-		Asset Criticality Assessment		Varlık Kritiklik Değerlendirmesi
-		Risk Mitigation Actions			Risk Azaltma Eylemleri
-		Effectiveness Analysis			Etkinlik Analizi 
-
-
-			İç-Dış Hata Maliyeti -------FMEA------- Hata Önleme Maliyeti
-				+		     O			+
-						Kalite Maliyeti
-
-
-🔻 How to value a company
-	The dividend Discount Model (DDM) is one of the many methods used to value a company's share price
-	
-		Formula:
-		Share price = Expected Dividend Per Share (EDPS) / (Cost of Capital Equity (CCE) - Divident Growth Rate (DGR))
-		
-		Let's look at Coca-Cola (NYSE: KO)
-		
-		Coca-Cola = $1.64 (DPS) / (5.63% (CCE) - 2.52% (DGR)) = $2.73 	---> Current Coca-Cola Stock Price: $46.30 ---> Undervalue
-
-
-🔻 Politically Correct ...
-	"Bazı kavramları/durumları tabu haline getirerek .. değişmesi gereken şeylerin değişmesini, üstlerini sahte bir şekilde örterek geciktirmek, engellemek."
-	"Aman kimse hakkında yanlış laf etmeyelim, kimseyi laflarımızla zedelemeyelim, 
-	 bir şey hakkında yorum yapacaksak kesin doğru olanını söyleyelim, aynı zamanda kibar davranalım .."
-	"Söylemek mi, yoksa söyleyememek mi?"
-	"Sadece saygını hak eden kişilere, saygını göster .."
-	
-
-🔻 AIDA Modeli
-	Pazarlama ve reklamcılıkta kullanılan bir modeldir.
-	Tüketicilerin dört aşamadan geçerek ürün satın almaya karar verdikleri bir teoridir.
-	Farkına Varmak / İlgi Göstermek / İstemek / Harekete Geçmek eylemlerini kapsar.
-	
-	AIDA modeli aşamaları nelerdir?
-		SATIŞTA AIDA MODELİ
-		    - Attention (Dikkat)
-		    - # Search
-		    - Interest (İlgi)
-		    - Desire (Arzu)
-		    - Action (Aksiyon)
-		    - # Share
-
-
-🔻 FIVE TOP IDEAS IN THE WORLD
-	1. Murphy's Law:	The more you fear sth, the more it will happen
-	2. Kidlin's Law:	If you can write the problem down clearly, then the matter is half solved
-	3. Gilbert's Law:	The biggest Problem at work is that noone tells what you do
-	4. Flip Walson's Law:	If you put information and intelligence first at all times, then the money keeps coming in
-				You can't expect to hit the jackpot, if you don't put a few nickles in the machine
-	5. Falkland's Law:	When it is not necessary to make a decision, it is necessary not to make a decision
-
-
-
-🔻 Bilgisayar Biliminin Temel Yasaları
-	Moore Yasası:	Bu yasa, İşlemci hızlarının ve bilgisayar için toplam işlem gücününher iki yılda bir ikiye katlanacağını belirtir.
-	Amdahl Yasası:	Bu yasa, Bir sistemin belirli bir bölümünün geliştirerek mümkün olan maksimum iyileştirmeyi bulmak için kullanılan bir formüldür.
-	Brooks Yasası:	Bu yasa, Gecikmiş bir yazılım projesine insan gücü eklemenin onu daha da geciktireceğini belirtir.
-	Linus Yasası:	Bu yasa, Bir projeye yeterince büyük bir test takımı ve geliştirici sağlandığında, 
-			hemen hemen her sorunun hızlı bir şekilde tanımlanacağını ve çözümün kolayca bulunabileceğini söyler. 
-	Groosch Yasası:	Bu yasa, Bilgisayar performansının maliyetin karesi kadar arttığı belirtir.
-			A bilgisayarı B bilgisayarından iki kat daha pahalıysa, A bilgisayarının B bilgisayarından 4 kat daha hızlı olması beklenir.
-	Wirth Yasası:	BU yasa, Yazılımın donanımın hızlanmasından daha hızlı yavaşladığını belirtir.
-
-
-
-	Yeni insanlara ve doğaçlama sohbetlere girmek gerekli
-	ağzına geleni söyle
-	topu yumuşat - yanlış bi iddiayı çürütmek - bi mesaja odakla
-	düşünme kır geç - kırılan alınan insanı kimse mutsuz edemez
-	hazır cevap insanı değil, durumu konuşur - fikrini söyle
-	beden dili önemli - tepki ver -  söyleyecek bişeyin olsun gbi davran - seyirciyi topla
-	orjinal ol - herkese göre eğik bükme - sana göre
-	kapanıp savunmaya girme- yasla yumuşat daha büyüğüyle saldır - çek cımbızla büyütüp karşı tarafa saldır. seyirciyi kazan
-	havalı kelimeleri cümleleri kullan ki karşı taraf kelimeye takılıp kalsın
-	hmm de geç konuşmana kaldığın yerden devam et - o yokmuş gibi davran
-	konu seç - aynen, ne alakası var, 
-	
-	
-	kör dünyası değil, gör dünyası bu. olanları görmezlikten gelmektense, aç gözünü uyum sağla ya da oyununu oyna
-	
-	
-	
-https://www.16personalities.com/tr	
-	
-
-
-	host = işi kuran sen değilsin ama o işi başkası para kazansın diye yapan maaşlı elemansın 
-		--> teacher, beyaz yaka, muavin, danışman, zoomda toplantı ayarlayan
-		
-	
-Mistakes that kill startups
-	Bad location
-	Single Founder -> Finding a co-founder is better
-	Lack of Money
-	Hiring bad employees
-	Lack of Effort
-	Bad Planning
-	Wrong platform
-	Poor management
-	
-	
-
-DARK PSYCHOLOGY
-While talking w someone, pay attention his/her eye color, Eye contact makes you likeable
-Stay calm in a discussion, probably they would get angrier but then they would blame themselves
-people who refused a big favour, then they feel they should approve a smaller favour. %50 discount they say no, but %30 to persuade
-when you see someone, you really look happy and excited, they also feel like the same way. Dogs use this trick
-Chew a gum to decrease stress or being nervous or eat. Primitive brain will be convinced it isnt in danger.
-Dont use I think or I believe. these words shows lack of self-confidence
-
-
-İnsanlar kazanarak öğrenmez, kaybederek öğrenir
-Şans bulduklarınızdır, başarı değiştirebildiklerinizdir
-Kalburüstü ülkeler - ingiltere, almanya
-Ateş ede ede nişan almayı öğrenirsin, nişan almayı öğrendiğinde hazırsın
-Bisiklet düşünerek öğrenilmez, sürerek öğrenilir, düşersin ama öğrenirsin                                                  
-insanlar sana gelmez, senin gidip bulman gerek ki işleri düştüğünde seni bulsunlar
-çöle eskimoyla, kutuplara bedeviyle gidilmez
-Hacı olmak değil, hacı kalmak önemli
-Parayla kalite mıknatıs gibidir, birbirini çeker
-Zaman iyileştirmez. İyileştiren şey zamanla ne yaptığınızdır. Edith Eger
-Eğer kendine evini temizlemek için kendine 25 gün verirsen, işi birmen 25 gün sürecektir.
-	eğer 2 saat verirsen, tüm işlerin bitmesi 2 saat sürecektir.
-
-
-Hız her işin püf noktasıdır. Bunun için iyi bir algoritma geliştirmek gerekir. iş yükünü azaltabildiğin kadar azalt
-Tenis Kortunda mcdonalds hizmet stratejisi. verimlilik için en iyi versiyonu bulmak. Özel tasarlanmış mutfak.
-	elemana göre iş değil, işe göre eleman bulmak
-uzaktan kalite kontrol bir işin en zor kısmıdır. kolayca güvenemezsin kimseye
-
-Bana hikayeni anlat, birini tanımak için bu iyi bir dinleyici olduğun algısını yaratır
-
-u cant talk life goals around ppl who dont have the same hunger as u, it will just sound like ure bragging - Drake
-
-
-boast yourself		kendinle övün		be proud of urself
-stop bragging yourself	kendini övmeyi bırak
-u're boastful		övünen, böbürlenen
-It's flattering		pohpolayıcı
-I'm flattered		pohpohlandım
-
-
-Most clever psychology facts
-	Around 80% of human talk in groups is complaining
-	Being a perfectionist can result in stress and depression
-	Ships dont sink because of the water around them. 
-		Ships sink because of the water that gets in them.
-		Don't let what's happening around you get inside you and weigh u down
-	Some day's gap is very necessary in a relationship, 
-	so both the partner can realize and appreciate the value of each other presence.	
-	It's not the song that makes you emotional, it's the people and things that come to your mind when you hear it.
-	The best things in life is finding someone who knows all your laws, mistakes and weakness and still thinks youre completely amazing
-	People who overthink actually makes better friends, Overthinking is associated with empathy, the ability to care for others.
-	All birds find shelter during the rain 
-		but eagle avoids rain by flying above the clouds, problems are common, 
-		but the attitude makes the difference.
-
-
-
-
-
-	
-
-Ethos, Pathos, Logos
-
-
-Being Mysterious
-	Be calm
-	Talk less
-	Avoid drama
-	Be less drama
-	Make eye contact
-	Use correct body language
-	Listen more than you speak
-	Think outside the box
-	Think before you speak
-	Don't always be available
-	Speak less about yourself
-
-
-All time Travel Paradoxes
-	Bootstrap Paradox
-	Predestination Paradox
-	Grandpa Paradox
-	Polchinski's Paradox
-	
 
 
 
