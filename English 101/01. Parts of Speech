@@ -43,11 +43,14 @@ be as a main verb (Future Simple)			      will be					* he = at home, he = in Lo
 be as a main verb (Present Perfect)			   has/have been				* this = Jack, that = ship, these = people, those = ships
 be as a main verb (Past Perfect)			      had been					* there = three people, there = a building, there = a car
 
+
 --------------------------------------------------------------------------------------------------------
 be as an auxiliary (Present Continuous)		am		is		are	  +	Ving	* s/he is watching television		-- iyor
 be as an auxiliary (Past Continuous)		was		was		were	  +	Ving	* s/he was watching television		-- iyordu
 be as an auxiliary (Future Continuous)		will be		will be		will be	  +	Ving	* s/he will be watching television	-- iyor olacak
 
+
+--------------------------------------------------------------------------------------------------------
 be as an auxiliary (Passive Voice)
 		    Present Simple	A house is built by me
 		    Past Simple		A house was built
@@ -55,8 +58,12 @@ be as an auxiliary (Passive Voice)
 		    Future - going to	A house is going to be built
 
 
+
+
+
 ---> DURUM CÜMLESİ
 					Present			Past			Future
+					---------------------------------------------------------------
 		to be		--->	am, is, are		was, were		will be
 					---------------------------------------------------------------
 		x = 5			x is five		x was five		x will be five
@@ -71,8 +78,8 @@ be as an auxiliary (Passive Voice)
 		
 	Fiil Cümlesi
 		he is working hard -- pre cont.
-		
 
+			
 
 
 
@@ -172,6 +179,22 @@ S + V + O + ADVERB	She puts her phone in her pocket.
 
 	he talks with students about computer science for learning in a fun way in the uni every morning, because he wants to improve yourself
 	she drinks green tea for health slowly with her mother at home before sleep, because she likes talking with parents
+		    
+		    		SIMPLE PAST				PRESENT PERFECT
+		   	 	I saw					I have seen
+	what - object		I saw a flower				I have seen a flower	    
+	adjective		I saw a beautiful flower		I have seen a beautiful flower 
+	when			I saw a beau flower last day		I have seen a beau flower recently/these days
+	where			I saw a beau flower in the garden last day	I have seen a beau flower in the garden recently/these days
+	who with		I saw a beau flower with my friend in the garden last day
+	how			I saw a beau flower coincidentally with my friend in the garden last day
+	why (because, for)	why did you see a beautiful flower coincidentally with your friend in the garden last day			
+				
+				I saw a beau flower coincidentally with my friend in the garden last day for her birthday
+				because i feel like to see the flower		because ek bir cümle gelir	bağlaç
+				for her birthday 				for isim gelir			edat
+				
+
 
 
 ---> MEZZOFANTI METHOD: How to start learning a new language?
@@ -181,10 +204,12 @@ S + V + O + ADVERB	She puts her phone in her pocket.
 		I have a book         --> aitlik kullanımı
 		I read a book         --> geniş zaman basit cümle
 		Do I read a book?     --> geniş zaman soru cümlesi
-		I give James the book --> nesne kullanımı
-		I give it to him      --> nesne kullanımı
+		I give James the book --> nesne kullanımı		noun - isim
+		I give it to him      --> nesne kullanımı		pronoun - zamir
 		I should/can/will go  --> yardımcı fiil kullanımı * Modals Her zaman V1
 
+
+		
 
 
 --> TWO OBJECTS
@@ -200,11 +225,14 @@ S + V + O + ADVERB	She puts her phone in her pocket.
 
 
 ---> QUESTION WORDS - 5 W 1 H
-		what = thing		who = people			how many = number
-		which = choice		why = reason			how much = quantity
+		what = thing, object	who = people			how many = number
+		which = choice		why = reason (because, for)	how much = quantity
 		where = place		whose = possession		how often = frequency
 		when = time		how = method / manner
 			* WH sonrası preposition gelirse cümle sonuna atılır.
+			* preposition sonrası her zaman noun/pronoun
+			
+			
 			
 		-----------------------------------------------------------------------------------------------------------	
 		
@@ -215,6 +243,7 @@ what         	ne 		What are you talking about?			I am talking about information 
              			What colour are your eyes?			My eyes are black
 what kind of .. ne tür		What kind of music do you like?			I like Rock songs
              			What kind of cars do you want to drive?		I want to drive self-driving cars
+				what kind of places do you prefer to visit?
 which        	hangi		Which one was your car?				The red one was mine		one = car
 										The red one of the cars was my car
              			Which one do you prefer?			I prefer coffee americano	one = coffee
@@ -229,8 +258,8 @@ where .. from  	nereden		Where is he from?				He is from Turkey
 				Where are they coming from?			They are coming from İstanbul
 				
 	    	------------------------------------------------------------------------------------------------------------
-why         	neden		Why will I have to clean up? 			Because, there will be guests soon
-										You will have to clean up for guests
+why         	neden		Why will I have to clean up? 			Because, there will be guests soon		clause
+										You will have to clean up for guests		noun
 	    			Why do you sleep early? 			Because, I have got to get up early
 				
 what .. for    	niçin		What do you come to the course for? 		I come to the course for English
@@ -251,14 +280,24 @@ whose       	kimin		Whose book did you borrow? 			I borrowed his book			borrow !
             			Whose is this book? 				It is Charlotte's
 				Whose side are you on? 				I am on your side			sen kimin tarafıdasın?
 				
+				who --- sent the message?		he sent the message
+				who did he send the message to?		he sent the message to you
+				who did you send the message with?	I sent the message with her
+				
+				who --- is talking with you?		she is talking with me		kim seninle konuşuyor?
+				who are you talking with?		I am talking with her		sen kiminle konuşuyorsun?
+													
 	    	------------------------------------------------------------------------------------------------------------
-when        	ne zaman	When do you wake up every day?			I wake up at six 	(am/pm)
-            			When do you go to work?				I go to work in the morning
-since when  	ne zmandan beri	Since when have you been working there?		I have been working there since 2020	    
+when        	ne zaman	When do you go to work?				I go to work in the morning
+
 what time   	ne zaman	What time is it?				it's five to seven (it is five minutes to seven o'clock)
+																of clock
 					* it - hava ve saat ifadelerinde kullanılabilir
+				what time do you wake up every day		I wake up at six 	(am/pm) 	
 				I guess, everybody else knew what time rehearsal was for.
 	    			Sanırım, provanın ne zaman olacağını herkes biliyordu.
+
+since when  	ne zmandan beri	Since when have you been working there?		I have been working there since 2020	    
 
 	    	------------------------------------------------------------------------------------------------------------
 how         	nasıl		How do you get to places?			I get to places by car
@@ -285,9 +324,11 @@ how         	nasıl		How do you get to places?			I get to places by car
 		are        were	       you	you	(sizi, size)	    	your ...(sizin)      	... yours.    	yourselves
 		are        were       they	them	(onları, onlara)    	their ..(onların)     	... theirs.   	themselves
 										* ismin önüne gelir			
+				       S    V	O
 
 
-
+					
+	
 ---> EXAMPLES
 He is going to teach him								o, ona öğretecek
 He is going to teach himself								o, kendisine öğretecek
@@ -311,6 +352,26 @@ Is this Carol’s bicycle? – No, that red one over there is hers.
 --> We also use possessive pronouns after a noun + ‘of’.
 I’m a friend of his.
 You’re a student of mine.
+
+
+						ACTIVE VOICE
+						FİİL CÜMLESİ
+time 	+ aspect 	= tense				S			V	O
+------------------------------------------------------------------------------------------------------------------------------
+past + simple 		= past simple tense		S			V2/Ved	O		I saw you
+past + continuous	= past continuous tense		S  was/were		Ving	O		I was seeing you		
+past + perfect		= past perfect tense		S  had			V3/Ved	O		I had seen you
+past + perfect continuous				S  had 		been	Ving	O		I had been seeing with her
+
+present + simple 	= present simple tense		S			V1	O		I see you
+present + continuous	= present continuous tense	S  am/is/are		Ving	O		I'm seeing you		
+present + perfect	= present perfect tense		S  has/have		V3/Ved	O		I have seen you
+present + perfect continuous				S  has/have 	been	Ving	O		I have been seeing with her
+
+future + simple 	= future simple tense		S  will			V1	O		I will see you
+future + continuous	= future continuous tense	S  will be		Ving	O		I will be seeing you		
+future + perfect	= future perfect tense		S  will have		V3/Ved	O		I will have seen you
+future + perfect continuous				S  will have 	been	Ving	O		I will have been seeing with her
 
 
 
@@ -822,3 +883,19 @@ seeing people is quite strange
 		road - herkes için yol
 		
 
+	kimin sahip olduğu belli - has/have/had		SVO
+		S	V1	O
+	does	I 	go 	to the university
+		
+	noun	Fatma	has	a computer		she had 
+	pronoun	she	has	a computer
+		I have a car outside			I had
+		
+	kimin sahip olduğu belli değil
+		vardır
+		there 	is				there was
+		there 	are				there were
+		there is a car outside			there was a car
+		
+		
+		
