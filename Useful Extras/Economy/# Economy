@@ -1,5 +1,5 @@
 Ekonomi: Arzın talep ile birleştiği yer
-
+12 
   finans - paramı nasıl yönetiyim? Ekonomiden farklı
 İnsan ihtiyaçları sınırsızdır, bu ihtiyaçları kıt kaynaklarla nasıl karşılayacağız?
   ihtiyaçları gidermek için ya daha fazla üret ya da insanlara ihtiyacı olmadığını öğret
@@ -145,7 +145,8 @@ Devlette iki kalem var: hazine ve hükümet
                                 dövizlerimiz de merkez bankasındadır, 
                                 hazinenin de bir bölümü merkez bankasındadır. 
                                 buna rezerv deniyor. 
-                        
+
+
 Fiziki para: Merkez bankası basıyor.
 Kaydi Para: Fiziki paradan daha çok.. yani sistemde gözüken para daha fazla.
             Ali 1000 lira bankaya yatırdı, banka paranın yüzde bilmem kaçını zorunlu karşılık olarak merkez bankasına yatırdı.
@@ -155,9 +156,37 @@ Kaydi Para: Fiziki paradan daha çok.. yani sistemde gözüken para daha fazla.
             merkez banakası 100 lira bastı ama sistemdeki para bunun kat be katı.
             
             Altında da aynı durum geçerli. ekran şu kadar var diyorlar var mı ki acaba
+            Buna literatürde türev işlemler deniyor. yalanın bir adı denilebilir (türev = ona dayalı)
+
+            Ekonomin büyüdükçe daha çok para basman gerekli.
+            Bitcoin miktarı sınırlı dendiğinde bu iyi mi?. 
+            çünkü büyüyen ekonomide bitcoin yetmiyor, fiyatı artıyor. 
+            bu da bitcoini spekülatif yapar
             
-Ekonomin büyüdükçe daha çok para basman gerekli.
-Bitcoin miktarı sınırlı dendiğinde bu iyi mi?. çünkü büyüyen ekonomide bitcoin yetmiyor, fiyatı artıyor. bu da bitcoini spekülatif yapar
+            Türev altın mevzusu:
+            Diyelim ki ülkenin birinde biri 20 kilo altın alacak.
+            Bankaya gidilir. Banka londrayı arar, 20 kilo altını sistemine internetine koyar.
+            londranın iddiası bende 20 kilo var, al sende şimdi, bizim banka o bende şimdi, altını alan o bende şimdi diyor.
+            altın nerde diye sorsan herkes birbirine sertifika gösteriyor.
+            pratik olarak bu işe yarar çünkü başka türlü yürümez işler. fiziken zor yani
+            
+            İnsanlar bu sisteme güvenmeli mi? Pek değil..
+            Bu kağıdı elinde tutan arkadaşa istemesi halinde 5 pound vermeyi taahüt ederim.
+            I promise to pay the beaere on demand the sum of five pounds
+            Bu söz üzerine kraliçeye güveniyoruz. 
+            yoksa herşey türev işlemler üzerine kurulu gibi
+
+            Bitcoindeki durum da bu benzer - nerde param dijital...
+            Cash is the king
+
+            ama full dijitale geçilecek
+            
+            Fort Knox - Tüm ülkelerin altınlarının durduğu yer.
+              İngiltere, Amerika, İsviçre, Fransa Merkez bankarında da altınlar duruyor.
+              Devletin parasını en sağlam bankalarda tutmalalısın merkez bankan olarak
+              De goule gemisi - Fransa
+              
+      Benim altınları teminat olarak al bana şu kadar kredi ver, ödeyince teminatı kaldırırsın
 
 
 ****
@@ -246,24 +275,54 @@ gayri safi milli hasıla - ülkenin toplam üretimi
 Lorenz eğrisi ve Gini Katsayısı - gelir dağılımının bozukluğunu ölçer
 
 
+İnkalardan altın getiren ispanyollar
+  dünya tarihinin en büyük altın rezervi
+  ispanyaya geldin at sayısı belli arazi belli yemek ev sayısı belli, para miktarı belli
+  birden kaç katı kadar miktarı sisteme koyuyorsun
+  bu da hiperenflasyona neden oldu
+  at sayısı artmıyor ama para sayısı artıyor...
+  
+  aynı şeyi fed de yaptı aniden para basıldı ve dağıtıldı
+  ispanya olayından farkı para tek bi yere gitmedi, her yere dağıldı sınırı yok local değil
+  malların imtiyaların bir sınırı var. durduk yere para gelirse şeylerin değeri artıyor
+  
+  altının peak yapması - iran devrimi, 2008 krizi
+  keynes - in the long run, we are all dead
+  uzun vadede herşeyin değeri artar, uzun vadede dengeye varır da 
+  24 ayar saf altın
+
+  
+
+
+
+****
+Döviz nasıl yükselir? Seneye nolcak?
+    biz şirket olarak kurulduğumuzda şu kadar ciroydu, şimdi bu kadar ciro. her yıl %5 büyüyoruz. 
+    demek ki 10 yıl içinde şurda oluruz diyebilirsin. buna benzer çıkarım dövizde de geçerli. 
+    iki ülkenin faiz oranları arasındaki fark nedir?
+    ya da enflasyonları arasındaki fark kadar biri değerlenir.
+    dolardaki enflasyon %3 diyelim
+    liradaki enflasyon kaç %13 demek ki dolarda tlye karşı %10luk bir değerlenme olcak
+    bu mantıkla teorik olarak seneye dolar şu olmalı diyebiliriz. tutmasa bile uçmadın en azından
 
 
 
 
 
+William Sharp - Risk ve Getiri kardeştir.
+Markowitz (MPT) - portföy riski, menkul kıymet çeşidi - Nobel 1990
+    çeşitlendir 3e-5e böl portföy yap riskin az olsun.
+Belirsizlik ve risk farklı şeyler
+    bu işe girersek karşımıza çıkan olasılıklar neler olacak 2 mi ok 5 mi eh 20 mi belirsizlik yüksek..
+
+Bir işe önceden hazır olmak gerekli, japonca öğrenen finansçı hikayesi. Şansını şimdi birşeyler yaparak değiştirebilirsin.
 
 
 
 
-
-
-
-
-
-Krizler tarihi
 benchmark: ölçüm ve karşılaştırma için kullanılacak referans noktası
 
-https://yatirimkurusu.com/
+
 
 Tarihteki En Sansasyonel 15 Fraud Olayı :https://www.accafin.com/muhasebe/muhasebe-skandallari/tum-zamanlarin-en-onemli-onbes-fraud-olayi?utm_source=pocket_reader
 - Roma İmparatorluğu'nun Satılması
@@ -412,7 +471,7 @@ Tarihteki En Sansasyonel 15 Fraud Olayı :https://www.accafin.com/muhasebe/muhas
 
 https://www.accafin.com/
 ACFE Yıllara göre Fraud Raporu
-https://yatirimkurusu.com/
+
 
 
 
