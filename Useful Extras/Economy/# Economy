@@ -1,5 +1,5 @@
  Ekonomi: Arzın talep ile birleştiği yer
-12 
+
   finans - paramı nasıl yönetiyim? Ekonomiden farklı
 İnsan ihtiyaçları sınırsızdır, bu ihtiyaçları kıt kaynaklarla nasıl karşılayacağız?
   ihtiyaçları gidermek için ya daha fazla üret ya da insanlara ihtiyacı olmadığını öğret
@@ -304,6 +304,81 @@ Döviz nasıl yükselir? Seneye nolcak?
     dolardaki enflasyon %3 diyelim
     liradaki enflasyon kaç %13 demek ki dolarda tlye karşı %10luk bir değerlenme olcak
     bu mantıkla teorik olarak seneye dolar şu olmalı diyebiliriz. tutmasa bile uçmadın en azından
+
+
+
+BORSA - pazar
+ fiyatın sabit olmadığı pazarların organize haline borsa
+ - alış satışı kontrollü yapalım, saat üç beş arası, kimse kimseyi kazıklamasın diye --> tek fiyat çıkması gerek
+ ülkedeki borsa sayıları ne kadar ve bunlar neler? polatlı canlı hayvan borsası gibi
+ borsa denilince hemen borsa istanbul ya da nasdaq gelmesin
+ 
+ Menkul - taşınır/taşınabilir 
+          Hisse senedi --> şirketi bin parçaya bölünmüş, bir parçasını al (şirketin binde biri) --> hisse senedi
+          Tahvil -->       borçlanmak için bir kağıt çıkarır şirket, bunu satın alırsın bu şirkete borç para veriyorsun demektir. --> şirket tahvili
+ Gayrimenkul - taşınmaz  ev
+ 
+ Şirket türleri:
+  hisse senedi --> anonim şirketi kurduğunda hisse senedin çıkarabilirsin
+  Sermaye piyasaları kurulu -> SPK - şirketleri denetler.
+   şirketten hisse alan küçük yatırımcıların da hakları korunmalı bu yüzden spk var
+   yüzbinlerce ortağı olan şirket var sonuçta, mali tabloyu bilmez. üç ayda bir açıklanmalı
+   küçük yatırımcı ne bilecek bilançosunun karının zararının bu olduğunu
+   
+   Crowdsourcing - bir proje ya da şirket için geniş kitlelerdeni bilgi, beceri, ürün vb. gibi hemen her türlü kaynağı elde etmek
+              - bir sürü insandan mikro yatırım alarak bir şey yapmak
+** Crowdfunding - çok sayıda küçük yatırımcının bir araya gelerek, genelde birbirlerinden habersiz bir şekilde, ellerindeki finansal kaynaklarla bir projeyi ya da şirketi finanse etmesi
+             ** - borsaya açılacak boyutta olmayan, o kriteleri sağlamayan şirketler bu tip bir fonlamayı tercih eder.
+
+
+Hollanda Doğu Hint Şirketi - gemiler ve baharat. 
+     filo halinde hindistana gitmek     - gemiler birbirlerine destek olması için
+     bir kişi bir gemiyi alamaz ama hissesi olur. üç kişi bir gemi alalım gibi
+     gemi firması kurulur. sen firmanın binde birine sahipsin olur
+     bir gemi batsa bile toplamın binde birine sahip olduğun için yine kazanırsın.
+     bu firma da, hollanda Doğu hint şirketi.
+
+mevzu aslında; bir kişiye ya da şirkete yatırımda bulunmak ve sonrasında onun değer kazanması ya da kaybetmesi üzerine kurulu
+    bu her yere adapte edilebilir.
+    kripto borsası gibi mesela
+    
+*** şirketin %30unu 1000e bölüp satmak aslında
+    şirketin %70 halen senin old için batırmamaya çalışırsın
+    
+ŞİRKET GENEL KURULU - tüm ortaklar - hissesi olan herkes --> yılda bir kere
+ŞİRKET YÖNETİM KURULU - yüzdesi yüksek olan baba ortaklar --> burda karar mekanizmalarını daha hızlı harekete geçirmek için
+
+hostile takeover - kötü nüyetli satın alma, şirketi ele geçirme
+   sermayeyi on katına çıkaralım diyorsun, ama diğer ortağın limiti belli olduğu için çıkamıyor. eleniyor 
+   adamı yönetimden atamıyorsun ama kifayetsiz kalıyor. çünkü şirket 60a 40 dı 95 5 oldu birden.
+
+spekülasyon ve manipülasyon - reklam gibi ama borsada yasak
+bunu ülke bazına vurduğunda enflasyonla oynama yaptığında manipülasyon yani yabancı yatırımcı gelmez
+
+
+** KOTE OLMAK
+   Belli şartları yerine getiren şirketlerin borsaya kayıt edilmesi, listeleme.
+   Başka bir ülkedeki borsada şirketin kayıt olması
+   Turkcell - amerikan borsasında işlem gördü, türk borsasısının yanı sıra
+   Turkcell imaj yaptı yurtdışından ortak bulma fırsatı
+   Amerikada işlem gören hisseleri teminat göstermek - yurtdışından kredi aldığın zaman
+   
+ Sermayenin her 1 lirası için bir hisse basıyorsun
+ sermaye 1000 lira, bu bastığımız hisselerin 800ü ortaklarda, 100ü istanbul borsasında, 100ü amerika borsasında
+ sıkıntı şurda;
+ ist millet al sat yaptı 5 lira oldu amerikada 1 dolar çıkarsa o 8,5 lira
+ piyasanın açık olduğu saatler denk düştüğü için iki tarafta da fiyatlar aynı oluyor.
+ çünkü ist kapandıktan sonra new york açılıyor. bu şekil olmazsa zaten türkiyeden aldığın hisseleri orda satmayı denersin bu da problem olur
+ yani burdan 5e alıp ordan 8den satamıyorsun--> buna arbitraj imkanı deniyor.
+ bu şu anlama geliyor bütün borsalar birbirine bağlı ya da entegre oluyor.
+ EURO DOLAR --> hiç kapanmayan bir piyasa, uyurken de çalışıyor yani
+ 
+ 
+ 
+ 
+ 
+13
+
 
 
 
