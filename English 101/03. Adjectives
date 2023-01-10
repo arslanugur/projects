@@ -115,13 +115,14 @@ verb		noun			adjective				adjective
 		-tion			-tive					-ed
 ------------------------------------------------------------------------------------------
 attract		attraction		attractive				attracted
-subtract	subtraction		subtractive				subtracted
-distract	distraction		distractive				distracted
+subtract	subtraction		subtractive				subtracted	subtracting
+distract	distraction		distractive				I am distracted	by you	I am distracting
 comprehend	comprehension		comprehensive - kapsamlı
 		distinctiveness		distinctive - ayırt edici, belirgin
 investigate	investigation		investigative
 conclude	conclusion		conclusive - kesin
-include		inclusion		inclusive
+include		inclusion		inclusive				all-inclusive
+exclude		exclusion		exclusive
 persuade	persuasion		persuasive - ikna edici
 protect		protection		protective
 explode		explosion		explosive
@@ -129,16 +130,21 @@ cooperate	cooperation		cooperative
 inquire		inquiry			inquisitive = curious
 affect		effect			effective - etkili
 		effect			efficient - verimli, tasarruflu != inefficient
-		sense			sensitive - duyarlı, hassas
+		sense			sensitive - duyarlı, hassas		fragile
 		sense			sensible - mantıklı, makul, duyarlı
+		
+progress	progression		progressive
+		program
 aggressive, progressive, combative
 primitive, incentive - teşvik edici, successive - ardışık, positive != negative
-
+		priority		prior
+					previous
 
 
 -ANT / -ENT
 noun			adjective
 ---------------------------------------------------
+study			student
 patience		patient != impatient, 		sabır
 fluency			fluent				akıcılık
 vibrancy		vibrant				canlılık		vibe - mood
@@ -156,7 +162,6 @@ relevance		relevant != irrelevant		ilgili, uyumlu != alakasız
 effect			efficient != inefficient	verim, etki, tasarruf
 consistency		consistent			tutarlılık, uyum, istikrar
 distance		distant
-appearance		apparent
 urgency			urgent				aciliyet, zorunluluk
 
 
@@ -169,17 +174,26 @@ rely		reliance	reliability		reliable
 renew		renewal		renewability		renewable - yenilenebilir
 sustain				sustainability		sustainable - sürdürülebilir
 bear							unbearable - çekilmez
-observe		observation	observability		observable - gözlemlenebilir	observably
+observe		observation	observative 
+		observability	observable - gözlemlenebilir	observably
 break		break		break up		un-breakable
-separate	separation				in-separable - ayrılmaz		inseparably		separator
+separate	separation	separative						ayrılmaz şekilde
+		separability	in-separable - ayrılmaz					inseparably		separator
 discern		discernment	discernibility		discernible						fark edilebilirlik 
 		vision		visibility		in-visible
 		horror					horrible
 trust		trust					un-trustable			trustably
 agree		agreement				agreeable
+admit		admission
+permit		permission
+submit		submission
+commit		commitment
+comment
+transmit	transmit
 adore							adorable
 		comfort					comfortable			comfortably
-
+				-ability		-able
+		
 sensible - mantıklı, makul, duyarlı, available, gullible, inevitable - kaçınılmaz
 
 
@@ -194,6 +208,7 @@ danger			dangerous = perilous		tehlikeli
 adventure		adventurous			maceralı
 caution			cautious			ihtiyatlı
 curiosity		curious cat			meraklı kedi
+			nosy
 anxiety			anxious demeanor		endişeli tavır
 contamination		contagious disease		bulaşıcı hastalık
 variation		various artists			çeşitli sanatçılar		to vary - çeşitlendirmek	variety
@@ -223,7 +238,7 @@ alliance		ally		ittifak, müteffik
 merry, cloudy, rainy, snowy, foggy, hazy, steamy, soapy - yağcı, fairy - perili, fancy - süslü, dizzy, cherry, gritty - cesur, dayanıklı, quirky - ilginç, kurnaz
 jolly, lousy - berbat, clumsy, goofy, easy, creepy, spooky, fuzzy, fizzy, bubbly, bloody, hasty - aceleci, scary 
 pesky - çetinceviz, chessy - basmakalıp, ucuz, snoppy - meraklı, sloppy - ihtiyatsız, snobby, naughty, sassy, nasty, raunchy, gory 
-
+darkness
 
 
 -IC
@@ -232,12 +247,12 @@ noun			adjective
 reality			realistic
 fantasy			fantastic
 pedagogy		pedagogic
-romance			romantic
+romance			romantic	chivalry code
 science			scientific
 tragedy			tragic
 authenticity		authentic - özgün
 ---------------------------------
-monarchy		monarchic
+monarchy		monarchic		monologue	dialogue
 democracy		democratic
 bureaucracy		bureaucratic 
 diplomacy		diplomatic 
@@ -253,7 +268,8 @@ noun			adjective
 nature			natural
 industry		industrial
 office			official
-nation			national
+			formal
+nation			national		nationality
 economy			economical
 education		educational
 relation		relational
@@ -273,20 +289,20 @@ accuracy		accurate		kesinlik, tamlık
 lemon			lemonade
 appropriateness		appropriate		appropriation
 intimacy		intimate
-moderation		moderate		ölçülü, ılıman
+moderation		moderate		ölçülü, ılıman		moderator
 desperation		desperate
 
 
 
 -SOME
 handsome - yakışıklı
-troublesome - baş belası, musibet
+troublesome - baş belası, musibet		pester - bir şeyin bela olması.
 cumbersome - kullanışsız, hantal
 quarrelsome - geçimsiz
 awesome - müthiş, harika
 fearsome - korkunç
 wholesome - sağlığa yararlı
-lonesome - yapayalnız
+lonesome - yapayalnız			a lone wolf	lonely boy 
 burdensome - külfetli
 loathsome - nefret uyandıran
 worrisome - endişe verici
@@ -345,6 +361,10 @@ to vacate		vacancy
 		embrassed # embrassing - utanç verici	bewildered # bewildering - sersemleten, şaşırtan
 		embraced # embracing - kucaklayan
 
+I am distracted	by you = You are distracting me
+passive voice		 
+she is attracted by him	= he is attracting her
+he is attractive
 
 --->  GET + ADJECTIVE = VERB (SIFAT FİİL)
 I got confused					kafam karıştı
