@@ -143,7 +143,9 @@ England   Minimum Wage                36 hcw -> 1500 birim  (pound)     9.50 pou
     TR  Barber  Haircut 75-100 lira           4 bardak kahve fiyatına berbere gidebiliyorsun
                                               4 kilo domates fiyatı
                                               10 kilo domates parasına traş olsan pahalı yani
-    GB  Barber  Haircut 15-20 pound           10 bardak kahve fiyatı  --> ingiltere dinamikleri içinde berber pahalı. kahve ya da domates ile karşılaştırınca da aynısı olcak
+    GB  Barber  Haircut 15-20 pound           10 bardak kahve fiyatı
+                                              --> ingiltere dinamikleri içinde berber pahalı. kahve ya da domates ile karşılaştırınca da aynısı olcak
+                                              --> ama berber sürekli olan bir alışveriş değil
                                               10 kilo domates parası
     
     İngilterede Mobilya çok pahalı - hem ingilizlere hem de bana da pahalı
