@@ -16,10 +16,12 @@
 							Demand
 							Business	Consumer	Goveernment	Administration	Employees	Manager
 							------------------------------------------------------------------------------------------
-				Business		B2B		B2C		B2G		B2A		B2E		B2M
+				Business/Organization	B2B		B2C		B2G		B2A		B2E		B2M
 		Supply		Consumer		C2B		C2C		C2G		C2A
 				Government/Agencies	G2B		G2C		G2G				G2E
 				
+				Traditional Way:
+					Business --Price and Products--> B2C --> C1, C2, C3 ..
 				
 				Business --Commission--> Affiliates
 				Seller --Products--> Buyer --Fees--> Platform Holder
