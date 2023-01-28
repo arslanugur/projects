@@ -1,5 +1,37 @@
 ---> DURUM YAPILARININ İŞLEYİŞİ üzerine YÖNTEMLER
 
+🔻 Proactivity versus Reactivity
+		
+		Özellikle İşe alımda anlaşılan durumlar.
+		Reactive olduğunu belli eden hareketler: 
+			Geçmişte başına gelen olumsuz durumlardan söylenen insan. 
+			Çözümü sonradan bulan ya da bulamayan.
+		Proactive olduğunu belli eden hareketler: 
+			Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
+			Beklenmedik birşey olmadan önce tüm olasılıkları görebilmek.
+			Belki de hiç olmayacak bir şeye kendini hazırlamak ama olursa çok güzel olcak..
+			
+	Laplace Şeytanı - Günümüzün şeytanları, Algoritmalar.. Analysis
+      		Differansiyel denklemler olasılıkların hesaplanması.
+		Değişkenlerin çoğunu bilebilmek
+		Heisenberg Belirsizlik İlkesi tarafından çürütülmüş sayılabilir ama o kadar basit değil.
+	Determinizm:
+		Dünyadaki yaşanmış olayların sonuçlarına bakıp gelecek için bir hesaplama yapma.
+
+	Tyche/Fortuna is the goddess and personification of good/bad luck, chance, fortune and unexpected events...
+      		Hak edene de hak etmeyene de iyi ya da kötü şansı vermek..
+	
+	Nedensellik: Neden-Sonuç İlişkisi
+	Probability
+	Statistics
+	
+	🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
+
+	🔻 Gambler's fallacy
+	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
+
+	
+	
 🔻 Stratejik Öngörü Konisi - Mümkün senaryolar neler olabilir?
 	# Verileri analiz edip bir sürü varsayım kafada oluşmalı. Baktın bi yöntem işe yaramıyor. Diğer varsayıma geç.
 	Yaptığın şeyleri deney olarak gör, bilimsel bir yöntem uygulamak.
@@ -7,64 +39,14 @@
 	Fikri, duyguyu tabulaştıran kişilerden kaç.
 	Yapılan ile yetinme.
 	Thomas Jefferson, Alexander Hamilton, John (Quincy) Adams, Franklin gibiler aydınlanma, olaylara bilimsel yaklaşmak.
+
+🔻 Situational Awareness
+	Durumsal Farkındalık
+	be aware of your surroundings, identify specific problems or threats, 
+	and be prepared to execute a tactical plan to deal with each threat as it presents itself
+	Arkandaki resmi hatırlıyor musun?
+	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
 	
-
-🔻	E-Commerce Business Models
-	
-				Different existing e-commerce models of any industry 
-				
-							Demand
-							Business	Consumer	Government	Administration	Employees	Manager
-							------------------------------------------------------------------------------------------
-				Business/Organization	B2B		B2C		B2G		B2A		B2E		B2M
-		Supply		Consumer		C2B		C2C		C2G		C2A
-				Government/Agencies	G2B		G2C		G2G				G2E
-				
-				Traditional Way:
-					Business --Price and Products--> B2C --> C1, C2, C3 ..
-				
-				Business --Commission--> Affiliates
-				Seller --Products--> Buyer --Fees--> Platform Holder
-				
-				
-				
-				Service Type
-				---------------------------------------------
-				On-Premises	Şirket-İçi
-				(SaaS)		Software as a Service		
-				(PaaS)		Platform as a Service 		
-				(IaaS)		Infrastructure as a Service	
-		
-		
-					On-Premises	(SaaS)		(PaaS)		(IaaS)
-		-------------------------------------------------------------------------------------
-		Applications		You Manage	Others Manage	You Manage	You Manage	
-		Virtualization		You Manage	Others Manage	You Manage	Others Manage
-		Data			You Manage	Others Manage	You Manage	You Manage
-		Servers			You Manage	Others Manage	Others Manage	Others Manage
-		Runtime			You Manage	Others Manage	Others Manage	You Manage
-		Storage			You Manage	Others Manage	Others Manage	Others Manage
-		Middleware		You Manage	Others Manage	Others Manage	You Manage
-		Networking		You Manage	Others Manage	Others Manage	Others Manage
-		O/S			You Manage	Others Manage	Others Manage	You Manage
-		
-		
-		Doğru bir ürün ile, doğru satış kanallarını oluşturabilmek, kendi kontrol altında firmanla yapabilmek.
-		
-		
-		Uber drivers are independent contractors, not employees, and can log on or off whenever they want.
-		Uber		--> The world's largest taxi company, owns no vehicles.
-		Facebook	--> The world's most popular media owner, creates no content
-		Alibaba		--> The most valuable retailer, has no inventory.
-		Airbnb		--> The world's largest accommodation provider, owns no real estate.
-		Amazon		--> has almost no stores
-		Netflix		--> is not a TV channel
-		Tİnder		--> requires no marriage
-		Fiat Currencies	--> are backed by no gold
-		Bitcoin		--> has no physical coins
-
-		"Something interesting is happening." Tom Goodwin
-
 
 🔻 Reason/Logic
 	Mantık
@@ -72,6 +54,7 @@
 	axiom - aksiyom
 	reasoning rules - akıl yürütme kuralları
 	inference rules - çıkarım kuralları
+
 
 🔻 Aristoteles'in dört Neden Öğretisi
 	Herhangi bir şeyin ve bir bütün olarak evrende ortaya çıkmasını, varlık kazanmasını sağlayan dört neden vardır. 
@@ -191,13 +174,6 @@
 	Hırsızlar gittikten, Banka müdürü de kendi için bir miktar sakladı.	--> Akışına yüzmek, durumu lehine çevirmek
 
 
-🔻 Situational Awareness
-	Durumsal Farkındalık
-	be aware of your surroundings, identify specific problems or threats, 
-	and be prepared to execute a tactical plan to deal with each threat as it presents itself
-	Arkandaki resmi hatırlıyor musun?
-	2 v 2+ kişi arasındaki ilişkiyi tanımlamak (birbirileri üzerinde zamanlamaları nasıl?, ne amaçla bir araya geliyorlar?)
-	
 
 🔻 S.T.A.R. Technique
 	Mevcut olan ya da ihtiyaç olarak kendi uydurduğun problemi, analiz edip kendine göre oyunu/sahneyi kurmak ve problemi çözmek
@@ -227,11 +203,6 @@
 	
 
 
-🔻 Gambler's fallacy
-	Kumarbazın yanılgısı: Bir olayın sonradan gerçekleşecek diğer olayın sonucunu etkileyeceğine dair yanlış inanış, önyargı
-
-🔻 Correlation - Değişkenler arası ilişki, bu ilişkinin yönü ve şiddeti ile ilgili bilgiler sağlayan istatistik yöntem
-
 
 🔻 Watson-Glaser Critical Thinking Test
 	Eleştirel Düşünme Ölçeği, birisini işe alacak olduğumuzda karar verme ve yargılamayı hem ölçer hem de gelişimini sağlamaktadır.
@@ -243,12 +214,6 @@
 		- Draw Conclusions		Sonuca Var 
 
 	https://www.assessmentday.co.uk/
-
-
-🔻 Proactive ile Reactive insan arasındaki fark;
-		Özellikle İşe alımda anlaşılan durumlar.
-		Reactive olduğunu belli eden hareketler: Geçmişte başına gelen olumsuz durumlardan söylenen insan. Çözümü sonradan bulan ya da bulamayan.
-		Proactive olduğunu belli eden hareketler: Başına gelen şeyleri anlatmak yerine didactic şekilde konuşma yapan kişi.
 
 
 
@@ -287,6 +252,7 @@
 	(attributes of the environment)				|
 		     						|
 			
+
 🔻 Failure Mode Effects Analysis (FMEA)
 	Hata Türleri Etki Analizi
 	Proaktive Thinking feat. Engineering
@@ -368,7 +334,64 @@
 	5. Falkland's Law:	When it is not necessary to make a decision, it is necessary not to make a decision
 
 
+🔻	E-Commerce Business Models
+	
+				Different existing e-commerce models of any industry 
+				
+							Demand
+							Business	Consumer	Government	Administration	Employees	Manager
+							------------------------------------------------------------------------------------------
+				Business/Organization	B2B		B2C		B2G		B2A		B2E		B2M
+		Supply		Consumer		C2B		C2C		C2G		C2A
+				Government/Agencies	G2B		G2C		G2G				G2E
+				
+				Traditional Way:
+					Business --Price and Products--> B2C --> C1, C2, C3 ..
+				
+				Business --Commission--> Affiliates
+				Seller --Products--> Buyer --Fees--> Platform Holder
+				
+				
+				
+				Service Type
+				---------------------------------------------
+				On-Premises	Şirket-İçi
+				(SaaS)		Software as a Service		
+				(PaaS)		Platform as a Service 		
+				(IaaS)		Infrastructure as a Service	
+		
+		
+					On-Premises	(SaaS)		(PaaS)		(IaaS)
+		-------------------------------------------------------------------------------------
+		Applications		You Manage	Others Manage	You Manage	You Manage	
+		Virtualization		You Manage	Others Manage	You Manage	Others Manage
+		Data			You Manage	Others Manage	You Manage	You Manage
+		Servers			You Manage	Others Manage	Others Manage	Others Manage
+		Runtime			You Manage	Others Manage	Others Manage	You Manage
+		Storage			You Manage	Others Manage	Others Manage	Others Manage
+		Middleware		You Manage	Others Manage	Others Manage	You Manage
+		Networking		You Manage	Others Manage	Others Manage	Others Manage
+		O/S			You Manage	Others Manage	Others Manage	You Manage
+		
+		
+		Doğru bir ürün ile, doğru satış kanallarını oluşturabilmek, kendi kontrol altında firmanla yapabilmek.
+		
+		
+		Uber drivers are independent contractors, not employees, and can log on or off whenever they want.
+		Uber		--> The world's largest taxi company, owns no vehicles.
+		Facebook	--> The world's most popular media owner, creates no content
+		Alibaba		--> The most valuable retailer, has no inventory.
+		Airbnb		--> The world's largest accommodation provider, owns no real estate.
+		Amazon		--> has almost no stores
+		Netflix		--> is not a TV channel
+		Tİnder		--> requires no marriage
+		Fiat Currencies	--> are backed by no gold
+		Bitcoin		--> has no physical coins
 
+		"Something interesting is happening." Tom Goodwin
+		
+		
+		
 
 🔻 Bilgisayar Biliminin Temel Yasaları
 	Moore Yasası:	Bu yasa, İşlemci hızlarının ve bilgisayar için toplam işlem gücününher iki yılda bir ikiye katlanacağını belirtir.
