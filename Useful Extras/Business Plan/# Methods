@@ -14,7 +14,7 @@
 				Different existing e-commerce models of any industry 
 				
 							Demand
-							Business	Consumer	Goveernment	Administration	Employees	Manager
+							Business	Consumer	Government	Administration	Employees	Manager
 							------------------------------------------------------------------------------------------
 				Business/Organization	B2B		B2C		B2G		B2A		B2E		B2M
 		Supply		Consumer		C2B		C2C		C2G		C2A
@@ -26,9 +26,45 @@
 				Business --Commission--> Affiliates
 				Seller --Products--> Buyer --Fees--> Platform Holder
 				
-		SaaS - Software as Service
-		PaaS
-		IaaS
+				
+				
+				Service Type
+				---------------------------------------------
+				On-Premises	Şirket-İçi
+				(SaaS)		Software as a Service		
+				(PaaS)		Platform as a Service 		
+				(IaaS)		Infrastructure as a Service	
+		
+		
+					On-Premises	(SaaS)		(PaaS)		(IaaS)
+		-------------------------------------------------------------------------------------
+		Applications		You Manage	Others Manage	You Manage	You Manage	
+		Virtualization		You Manage	Others Manage	You Manage	Others Manage
+		Data			You Manage	Others Manage	You Manage	You Manage
+		Servers			You Manage	Others Manage	Others Manage	Others Manage
+		Runtime			You Manage	Others Manage	Others Manage	You Manage
+		Storage			You Manage	Others Manage	Others Manage	Others Manage
+		Middleware		You Manage	Others Manage	Others Manage	You Manage
+		Networking		You Manage	Others Manage	Others Manage	Others Manage
+		O/S			You Manage	Others Manage	Others Manage	You Manage
+		
+		
+		Doğru bir ürün ile, doğru satış kanallarını oluşturabilmek, kendi kontrol altında firmanla yapabilmek.
+		
+		
+		Uber drivers are independent contractors, not employees, and can log on or off whenever they want.
+		Uber		--> The world's largest taxi company, owns no vehicles.
+		Facebook	--> The world's most popular media owner, creates no content
+		Alibaba		--> The most valuable retailer, has no inventory.
+		Airbnb		--> The world's largest accommodation provider, owns no real estate.
+		Amazon		--> has almost no stores
+		Netflix		--> is not a TV channel
+		Tİnder		--> requires no marriage
+		Fiat Currencies	--> are backed by no gold
+		Bitcoin		--> has no physical coins
+
+		"Something interesting is happening." Tom Goodwin
+
 
 🔻 Reason/Logic
 	Mantık
