@@ -96,11 +96,7 @@ N --> no, he/she doesn't go on holiday every summer
 				S	M		V	O
 				
 				
-				
 
-				
-				
-				
 				
 		
 			- things don't always go with the way you want them to be		işler her zaman istediğin gibi gitmez		
@@ -149,6 +145,9 @@ How much gas is left in the car?	Half depot of gas is left in the car
 How long do you learn English in the course?	I learn English in the course for a month
 
 
+
+
+
 --> STATIC VERBS
 MENTAL STATE      EMOTIONAL STATE      POSSESSION STATE      SENSE PERCEPTIONS       OTHERS
 -----------------------------------------------------------------------------------------------
@@ -170,6 +169,22 @@ remember                                                                        
 want                                                                                 
 need
 
+
+
+			static = non-progressive 		!= 	dynamic = progressive
+			---------------------------------------------------------------------
+			simple						continuous
+			perfect						perfect continuous
+			---------------------------------------------------------------------
+	think		sanmak						düşünmek		
+	see		görmek						görüşmek
+	smell		kokmak						koklamak
+	taste		tadından bahsetmek				tatmak
+	look		gibi gözükmek					bakmak
+	appear		gibi görünmek					ortaya çıkmak
+	weigh		ağırlığından bahsetmek				tartmak
+	
+	
 
 -> think
           sanmak, zannetmek	---> I think this city is really beautiful
@@ -212,6 +227,7 @@ need
           genel bir durum	---> You are very rude				Kabasın
           anlık değişen durum	---> You are being rude				Kabalaşıyorsun
 	  			     He is just being modest			Mütavazi oluyor sadece
+				     
 -> have
           sahiplik bildiriyorsa	---> she doesn't have much money now. She has two brothers.
           eylem bildiriyorsa    ---> he is having breakfast now.
@@ -246,8 +262,8 @@ N --> no, we/you/they are not coming...
 		nowadays	(bu günlerde)		- he is repairing cars nowadays 
 		still		(halen)			- I am still studying for tomorrow's exam
 		today		(bugün)			- I am baking a big cake for my friend's birthday
-		tonight 	(bu gece)		- I am watching telly tonight		(for present use)
-							- I will watch telly tonight	(for future use)
+		tonight 	(bu gece)		- I am watching telly tonight				(for present use)
+							- I will watch telly tonight				(for future use)
 
 ---> MAKING A QUESTION FOR PRESENT CONTINUOUS
 				        |	    S		|	V	|	O	|
@@ -316,8 +332,26 @@ N --> no, I have not/(never) been in Madrid
 		in the past/last few years				- I’ve met a lot of people in the last few days.
 		before							- nothing like this has happened before
 	 
-		 
-		 
+
+
+present perfect	dı, di		I have lost my wallet	lately (belli değil, etkisi halen var ki bu muhabbeti bana)
+past simple	dı, di		I lost my wallet 	yesterday (olmuş bitmiş)
+
+past perfect	mış, miş	I had lost my wallet
+						
+					eylem öncelliği
+						1. eylem
+						2. eylem
+			 
+			 	cüzdanımı kaybetmiştim, .... ağladım.
+				1				2
+				after I had lost my purse, I cried
+				
+				before I cried, I had lost my purse
+				
+		 		after 1, 2
+				before 2, 1
+				
 
 ---> MAKING A QUESTION FOR PRESENT PERFECT
 				        |	    S		|	V	|	O	|
