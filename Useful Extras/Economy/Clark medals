@@ -25,13 +25,70 @@ John Bates Clark Medal The Clark medal brings notable professional benefits, and
 1985: Jerry A. Hausman
 1983: James J. Heckman
 1981: A. Michael Spence
-1979: Joseph E. Stiglitz
+
+
+
+1979: Joseph E. Stiglitz                        ikinci el piyasası
+        # Bilgi Asimetrisi Teorisi
+        - teoriye göre; ters seçim , ahlaki tehlike ve temsilcilik sorunu gibi sorunlara neden olmaktadır. i
+        alım satım işlemlerinde bir tarafın diğerine göre daha iyi veya daha fazla bilgiye sahip olmasıdır.
+        ticarette bilgi güçtür— alisveris yapilirken, taraflardan birisinin vakif oldugu bilgilere diger tarafin erisimi olmamasina “bilgi asimetrisi” meydana geldi denir. 
+        ideal bir durum degildir.
+        dünyanın bug'ı. bunu anlayan adamın sırtı yere gelmez.
+        
+        tam bilgi sahibi olmadan yapılan tercihler etkin olmayabilir. eksik bilgi durumunda tüketiciler 
+        ve firmalar ters seçim problemleriyle karşılaşabilir. 
+        alıcılar ve satıcılar diğer tarafın daha fazla bilgiye sahip olduğu bir piyasaya girdiğinde, 
+        düşük kaliteli mallar, yüksek kaliteli mallara göre daha büyük sayılarda değişime tabi olur.
+        
+        diyelim ki bir sağlık sigortası şirketini yönetiyorsunuz. sigorta için gelen adamın aslında hasta mı sağlam mı olduğunu anlamanıza imkan yok.
+        bu durumda potansiyel müşterinizin hastalıklı olmasıyla sağlıklı olması aynı olasılık sizin için: 0,5
+        hastalıklı adamı sigortalamanın müessesenize maliyeti 600 tl olsun, sağlıklıyı sigortalamanın 300 tl.
+        buna göre risk priminiz 0,5(600)+0,5(300)=450 olmalı.
+        fakat bu fiyata sağlıklı adamı sigortalayamazsınız, sağlıklı adam 300 tl'ye razı gelir sigorta için. 
+        hastalıklı adam ise 600 tl'den daha ucuz olduğu için 450 tl'yi bayıla bayıla kabul eder. 
+        sonuç olarak sizin sigortanızı sağlıklı adamlar satın almaz sadece hastalıklılar satın alır. 
+        batar gidersiniz. ocağınız kurur. allah belanızı verir.
+
+        müsterinin ve saticinin ayni bilgiye vakif olmamasinin yarattigi garip durumun olusturdugu sikintili pozisyona “adverse selection” adi verilir.
+        
+        george akerlof 'un kalite belirsizliği'ne ilişkin modeli:
+        akerlof, bir malın satıcısının alıcısına göre o malın kalitesine ilişkin daha fazla bilgiye sahip olduğunu söyler. 
+        alıcı ile satıcı arasındaki bu enformasyon asimetrisi nedeniyle alıcıların mallar için bir ayrım yapmadan tümü için tek bir fiyat belirleyeceğini 
+        ve bu fiyattan sadece kötü mal sahiplerinin mallarını satmayı kabul edeceklerini, 
+        bu nedenle de piyasada sadece kalitesiz malların kalacağını söyler.
+
+        
+        
 1977: Martin S. Feldstein
-1975: Daniel McFadden
+
+1975: Daniel McFadden                   Nobel
+         ayrık seçimlerin analizi için teori ve metod geliştirdiği için 2000 nobel ekonomi ödülü almıştır
+
 1973: Franklin M. Fisher
+
 1971: Dale W. Jorgenson
+        jorgenson modeli
+
 1969: Marc Leon Nerlove
-1967: Gary S. Becker
+        distributed lag modellerde koyck modeli rasyonalize ederek stock adjustment (partial adjustment) adlı modeli geliştirmiştir.
+
+1967: Gary S. Becker                            NOBEL
+        kendisi bir gun doktora ogrencilerine yeterlilik sinavi vermeye giderken, gec kalmis olmasindan oturu arabasini yasak bir noktaya park etmistir.
+        binaya yuruyune kadar da sinavin tahmini ne kadar surecegini, bu kadar surede arabasina ceza yazilip yazilmadigini dusunurken, 
+        bir anda suc isleme kararinin rasyonelce alinabildigini farketmistir. 
+        buna gore suc islemenin beklenen getirisi, beklenen maliyetinden fazla olmadigi surece suc islemek anlamsizdir. 
+        
+        rational addiction theory
+        
+        suc islemenin rasyonelliginde oldugu gibi bagimli olan insanin, 
+        bu bagimliliktan aldigi marjinal fayda ve marjinal maliyeti karsilastirarak karar verdigini ileri surmustur. 
+        
+        sigaraya uygulanan bu teori standard talep modellerine gore daha gercekci sonuclar vermistir. 
+        bu teoriye gore becker, bagimli insanin su anki talebini su an varoldugu durumdaki degiskenlerin (yas,egitim,fiyat, gelir vs) yani sira 
+        gecmis ve gelecekteki tuketim miktarininda etkili oldugunu ve rasyonel bagimlinin bunlari gozonune bulundurdugunu belirtir.
+        
+         
 1965: Zvi Griliches
 1963: Hendrik S. Houthakker
 
@@ -43,7 +100,8 @@ John Bates Clark Medal The Clark medal brings notable professional benefits, and
         teknolojik gelisim buyumenin yegane aracidir solow'un modelinde. 
         ee tabi zirt pirt kafamiza estiginde teknoloji gelistiremeyegine gore, uzun vadede milli gelir artisi zordur biraz..
         "everything reminds milton friedman of the money supply. well, everything reminds me of sex, but i keep it out of the paper."
-
+        McDonalds Konsepti - Teknik - The founder filmi
+        
 
 1959: Lawrence R. Klein             Nobel
         "ekonomik trendlerin bilgisayar yardımı ile tahmin edilmesi"
