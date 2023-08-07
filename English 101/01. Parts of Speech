@@ -6,8 +6,8 @@
 Noun	      	İsim		--> person or thing called             	Jack, London, England, computer, cat
 Pronoun	      	Zamir		--> replaces a noun	              	🔵 SUBJECT PRONOUNS: I, You, He, She, It, We, You, They
                                        	              			🔴 OBJECT PRONOUNS: me, you, him, her, it, us, you, them
-Verb	      	Fiil		--> action / state	            	go, come, arrive, study, think, drink, fall, buy, sell
-Adverb	      	Zarf		--> describe a verb, adjective, adverb	silently, badly, really, quickly, well
+Verb	      	Fiil		--> action/state	            	go, come, arrive, study, think, drink, fall, buy, sell
+Adverb	      	Zarf		--> describes a verb, adjective, adverb	silently, badly, really, quickly, well
 Adjective     	Sıfat		--> describes a noun	                big, silent, bad, good
 Preposition   	Edat		--> links a noun to another word	in, at, on
 Conjunction   	Bağlaç		--> joins clauses or sentences	        but, because, and, while, when
@@ -642,30 +642,37 @@ Num + (Prep) + Numeral		three of four
 
 
 
---- 
-				S			modal/frequency		V		prep	O
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+
+				S			Modal/Frequency		V			Prep	O
+							
 				
-W and H		Questions	SUBJECT			TENSES	     		VERB		    	OBJECT (what?/which?)	ADVERB			     	 ( in , at, on )
---------	---------	--------------------	-----------------------------------------	---------------------	------------------------------------------------
-Questions	Auxiliary	adj + noun / pronoun	Time + Aspect		regular/irregular	adj + noun / pronoun	manner (how?)	place (where?)	 time (when?)
---------	---------	--------------------	-----------------------------------------	---------------------	------------------------------------------------
-what		do/does				I	Present Simple		talk-s / speak-s			me	carefully	on a bus	 in the evening
-what kind of ..	am/is/are			---	Present Continuous	talking / speaking			---	slowly		in our garden	 at six
-which		has/have			he	Present Perfect		talked / spoken				him	quickly		in Ankara	 this afternoon 
-where		has/have	singular 	she	Present Perfect Cont.	been talking / speaking			her	openly		on the street	 on Tuesday morning
-when		did				it	Past 	Simple		talked / spoke				it	silently	at home		 right now
-since when	was/were			---	Past 	Continuous	talking / speaking			---	early		in a car	 in Summer
-what time	had				we	Past 	Perfect		talked / spoken				us	hard		on the floor	 in five weeks
-who .. to/with	had		plural		you	Past 	Perfect Cont.	been talking / speaking			you	happily 	at the station	 at (the) weekend
-whom		will				they	Future 	Simple		talk / speak				them	eagerly		on television	 at midnight
-whose		will					Future 	Cont.		be talking / speaking				willingly	in the cafe	 ten minutes ago
-why             will                			Future 	Perfect         have talked / spoken                    	surprisingly    at breakfast     at this hour
-what .. for     will                			Future 	Perfect Cont.   have been talking / speaking            	especially      in the classroom every weekend (the weekends)
+W and H		Questions	SUBJECT			TENSES	     		VERB		    		OBJECT (what?/which?)	ADVERB			     	 ( in, at, on )
+--------	---------	--------------------	------------------------------------------------	---------------------	------------------------------------------------
+Questions	Auxiliary	adj + noun / pronoun	Time + Aspect		regular/irregular		adj + noun / pronoun	manner (how?)	place (where?)	 time (when?)
+--------	---------	--------------------	------------------------------------------------	---------------------	------------------------------------------------
+what		do/does				I	Present Simple		talk-s/speak-s					me	carefully	on a bus	 in the evening
+what kind of ..	am/is/are			---	Present Continuous	am/is/are talking/speaking			---	slowly		in our garden	 at six
+which		has/have			he	Present Perfect		have talked/spoken				him	quickly		in Ankara	 this afternoon 
+where		has/have	singular 	she	Present Perfect Cont.	have been talking/speaking			her	openly		on the street	 on Tuesday morning
+when		did				it	Past 	Simple		talked/spoke					it	silently	at home		 right now
+since when	was/were			---	Past 	Continuous	was/were talking/speaking			---	early		in a car	 in Summer
+what time	had				we	Past 	Perfect		had talked/spoken				us	hard		on the floor	 in five weeks
+who .. to/with	had		plural		you	Past 	Perfect Cont.	had been talking/speaking			you	happily 	at the station	 at (the) weekend
+whom		will				they	Future 	Simple		will talk/speak					them	eagerly		on television	 at midnight
+whose		will					Future 	Cont.		will be talking/speaking				willingly	in the cafe	 ten minutes ago
+why             will                			Future 	Perfect         will have talked/spoken                    		surprisingly    at breakfast     at this hour
+what .. for     will                			Future 	Perfect Cont.   will have been talking/speaking            		especially      in the classroom every weekend (the weekends)
 how		can
 how much	could
 how many	may
 how often	might
 how long	should
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 
 
 	geniş zaman - present simple - er, ar		NOUN/PRONOUN			VERB		prep	what/which/what kind of
