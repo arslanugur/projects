@@ -104,6 +104,8 @@ Least Efficient
 
 > ALGORITHMS' CLASSES
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # SORTING ALGORITHMS
         Sort Algorithms: This is used to rearrange arrays or a given list of elements according to a comparison operator function.
                          The Comparison operator is used to decide the new order of elements.                    
@@ -131,8 +133,27 @@ Least Efficient
         - Tim Sort
         - Shell Sort                                      O(n(logn)²)
 
-       
 
+
+
+       https://www.bigocheatsheet.com/
+
+                                                                                                          # Big O Notation is a way
+                                                                                                              to measure how quickly an algo grow.... by worldofivo on insta
+        Running Time Complexity in terms of Big-O O(f[n])                                                 # Example Algos
+        -----------------------     ---------------------------      -------------------------------      -----------------------------------
+        Most Complexity  (Worst)    O(n!)                            factorial                            Travelling Salesman Problem  
+                         (Worst)    O(2^n)        O(C^n)             exponential                          Recursive Fibonacci
+                         (Worst)    O(n^3)        O(n^C)             cubic
+                                    O(n^2)                           quadratic                            Selection Sort 
+                         (Bad)      O(n log n)    n * log n          lineararitmetic/quasilinear          Quick Sort             
+                         (Fair)     O(n)                             linear time                          Array Traversal, Simple search
+                         (Good)     O(log n)                         logarithmic time                     Binary Search
+        Least Complexity (Best)     O(1)                             constant time                        Accessing Array Index
+      
+        n = input size
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
 
 
