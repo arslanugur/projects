@@ -959,15 +959,15 @@ Age    Class *                           W1 W3 W5              W2 W4 W6
 Primary      	-------------------------------------
 6-7     	1.          	W1      	W2            1.sınıf sts yapılmadan ---> W1 
 8-9     	2.          	W2      	W3            Anaokul geçmişi varsa  ---> W2'den başlar
-        	3.	W2     	W3      	W4
-        	4.   	W4     	W5      	W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
+8-9        	3.	W2     	W3      	W4
+9-10        	4.   	W4     	W5      	W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
 Secondary    	-------------------------------------
-        	5.          	T1      	T2
-        	6.   	T2     	T3      	T4	T5 (Wunderkind)
+10-11        	5.          	T1      	T2
+11-12       	6.   	T2     	T3      	T4	T5 (Wunderkind)
 12-13-14   	7.          	T3      	T4
-        	8.          	T5      	T6            Teen Advanced        A1 kitabı kullanabiliyorsa başlat, kullanamıyorsa T3 T4
+14        	8.          	T5      	T6            Teen Advanced        A1 kitabı kullanabiliyorsa başlat, kullanamıyorsa T3 T4
 Adult        	------------------------------------
-        	9.          	A1		A2
+15+        	9.          	A1		A2
 
 
                           Online ise en az 30 saat dil eğitimi   
@@ -977,8 +977,9 @@ Adult        	------------------------------------
 yaşıtlarına yetişmesi gerek
 müfredattan ileri gitmesi
 
-gold paket - 4 kur         2si güz 2 yaz                 arkadaşlarından öne geçecek
-Sadece 2 kur düşünüyorsa
+
+gold paket - 4 kur         	2si güz 2 yaz                 arkadaşlarından öne geçecek
+Sadece 2 kur düşünüyorsa	2+1 Kampanya
 
 
 kelimeleri biliyor mu
