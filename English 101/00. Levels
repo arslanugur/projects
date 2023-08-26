@@ -876,7 +876,7 @@ If a student answers these questions confidently and free of (or with few) mista
   04. What do you do? 
       Are you a student?
       What grade are you?  ---
-  05. Do you have a bRother or sister? 
+  05. Do you have a brother or sister? 											mistake: big sister
       How old is your sister/brother?        
   06. Tell me about your best friend. What's s/he like?    ---
   07. What is your favourite subject at school?          ---
@@ -943,8 +943,6 @@ BT hakim dolmuş
 Uygun olan ders saatleri
 
 
-
-
                                           Eylül
                                           Ekim
                                           Kasım
@@ -954,19 +952,19 @@ Uygun olan ders saatleri
 Age    Class *                           W1 W3 W5              W2 W4 W6
                                          T1 T3 T5              T2 T4 T6
 --------------------------------------------------------------------------------
-            
-Primary      -----------------
-6-7     1.          W1      W2            1.sınıf sts yapılmadan ---> W1 
-8-9     2.          W2      W3            Anaokul geçmişi varsa  ---> W2'den başlar
-        3.   W2     W3      W4
-        4.   W4     W5      W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
-Secondary    -----------------
-        5.          T1      T2
-        6.   T2     T3      T4      T5
-        7.          T3      T4
-        8.          T5      T6            Teen Advanced        A1 kitabı kullanabiliyorsa başlat, kullanamıyorsa T3 T4
-Adult        -----------------
-        9.          A1      A2
+		
+Primary      	-----------------
+6-7     	1.          W1      W2            1.sınıf sts yapılmadan ---> W1 
+8-9     	2.          W2      W3            Anaokul geçmişi varsa  ---> W2'den başlar
+        	3.   W2     W3      W4
+        	4.   W4     W5      W6            orta okula gelene kadar Welcome bitmeli, 4.sınıfta Teen başlayabilir. ama önceden varsa yoksa W5 W6
+Secondary    	-----------------
+        	5.          T1      T2
+        	6.   T2     T3      T4      T5
+12-13-14   	7.          T3      T4
+        	8.          T5      T6            Teen Advanced        A1 kitabı kullanabiliyorsa başlat, kullanamıyorsa T3 T4
+Adult        	-----------------
+        	9.          A1      A2
 
                           Online ise en az 30 saat dil eğitimi   
                           Özel ise en az 20 saat dil eğitimi
