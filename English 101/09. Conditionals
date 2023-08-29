@@ -1,17 +1,9 @@
-CONDITIONALS                                                                            prepared by Uğur ARSLAN, @arslanuguur
-- Type Zero   (0) -       Certain
-- Type One    (1) --      Possible
-- Type Two    (2) ----    Less Possible
-- Type Three  (3) ------  Impossible
+# CONDITIONALS                                                                            prepared by Uğur ARSLAN, @arslanuguur
 
-Extra Conditionals
-- What if
-- Wish
-- If only
-- Only if
-- Even if
-- Unless
-- Whether (.. or not)
+      Type Zero   (0) -       Certain
+      Type One    (1) --      Possible
+      Type Two    (2) ----    Less Possible
+      Type Three  (3) ------  Impossible
 
 
 Type Zero (0): (General Truth)
@@ -19,12 +11,12 @@ Type Zero (0): (General Truth)
 
                 If + Present Simple, Present Simple
 
-                - if it snows, the roads get slippery.                                kar yağarsa yollar kayganlaşır
-                - if you don’t eat your meal, your mother gets angry.                 yemeğini yemezsen annen kızar
-                - if you drink cold water, you get sick.                              soğuk su içersen hasta olursun
-                - if the satellite is slightly closer, the tidal bulge grows          eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
-                - if water boils at 100 degree centigrade, it starts to evaporate     eğer su 100 derecede kaynarsa, buharlaşır
-                - If the margin of error is brought close to zero, the process works almost flawlessly
+                If it snows, the roads get slippery.                                kar yağarsa yollar kayganlaşır
+                If you don’t eat your meal, your mother gets angry.                 yemeğini yemezsen annen kızar
+                If you drink cold water, you get sick.                              soğuk su içersen hasta olursun
+                If the satellite is slightly closer, the tidal bulge grows          eğer ay biraz daha yaklaşırsa, gelgit şişkinliği büyür
+                If water boils at 100 degree centigrade, it starts to evaporate     eğer su 100 derecede kaynarsa, buharlaşır
+                If the margin of error is brought close to zero, the process works almost flawlessly
                              hata payı sıfıra yaklaştırılırsa, süreç neredeyse kusursuz şekilde işler
 
 
@@ -33,13 +25,13 @@ Type One (1): (Real Present)
 
                 If + Present Time, Future Simple / Present and Past Modals + Present Bare Infinitive
               
-                - if you are adding value to others, the result will come       eğer diğer insanlara değer katıyorsan, sonucu gelir
-                - if you don’t get off the tree, you will fall                  ağaçtan inmezsen düşeceksin
-                - if we have worked hard, we can finish the project             çok çalışırsak projeyi bitirebiliriz
-                - if he has money, he will travel. he is broke in debt          parası olsa seyahat eder, borç batağında beş kuruşu yok
-                - I bet, if it snows, schools will be closed                    bahse varım, kar yağarsa, okullar kapanacak
-                - if he wins the lottery, he'll get you a phone                 lotoyu tutturursa/kazanırsa, sana telefon alacak
-                - if you are brave enough to say goodbye, life wüll reward you with a new hello.
+                If you are adding value to others, the result will come       eğer diğer insanlara değer katıyorsan, sonucu gelir
+                If you don’t get off the tree, you will fall                  ağaçtan inmezsen düşeceksin
+                If we have worked hard, we can finish the project             çok çalışırsak projeyi bitirebiliriz
+                If he has money, he will travel. he is broke in debt          parası olsa seyahat eder, borç batağında beş kuruşu yok
+                I bet, if it snows, schools will be closed                    bahse varım, kar yağarsa, okullar kapanacak
+                If he wins the lottery, he'll get you a phone                 lotoyu tutturursa/kazanırsa, sana telefon alacak
+                If you are brave enough to say goodbye, life wüll reward you with a new hello.
 
 
 Type Two (2): (Unreal Present)
@@ -49,21 +41,21 @@ Type Two (2): (Unreal Present)
               
                 If + Past Simple/ Past Continuous,  Would/ Could/ Might + Present Bare Infinitive
               
-                - if there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
-                - If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım
-                - if we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik
-                - if she earned a lot money, she might go to France             çok kazansaydı Fransa’ya giderdi
-                - if he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi
-                - I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum
-                - if he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu
+                If there was a zombie invasion, we would eat each other       zombi istilası olsaydı, birbirimizi yerdik
+                If I were on vacation now, I would probably be swimming       şu an tatilde olsaydım muhtemelen yüzüyor olacaktım
+                If we bought two tickets, we would watch the film             iki bilet satın alsaydık filmi izlerdik
+                If she earned a lot of money, she might go to France             çok kazansaydı Fransa’ya giderdi
+                If he were listening to you, he couldn’t make a mistake       seni dinlemiş olsaydı hata yapmayabilirdi
+                I would sleep until noon if I didn’t go to school             okula gitmeseydim öğleye kadar uyurdum
+                If he were taller, he could be a basketball player            daha uzun olsaydı, basketbol oyuncusu olurdu
 
               
-           Not: Tip 2 formlarında past simple ve past continuous tenslerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
+                Not: Tip 2 formlarında past simple ve past continuous tenselerinde geçen was/were yardımcı fiilleri yerine sadece ‘were’ tercih edilir. 
                 Gündelik dilde ‘were’ daha sık kullanılmaktadır. 
                 Bu nedenle, ‘was’ geçmesi gereken he, she it öznelerinde de ’was’ yerine ‘were’ kullanılır.
-                - I guess I'd wonder too, if I were in your shoes
-                - if I were the type of man to run away from responsibility, would I be here right now?
-                - If it were totally innocent, he would have volunteered more information
+                    I guess I'd wonder too, if I were in your shoes
+                    If I were the type of man to run away from responsibility, would I be here right now?
+                    If it were totally innocent, he would have volunteered more information
                 
 
 Type Three (3): (Unreal Past)
@@ -72,13 +64,23 @@ Type Three (3): (Unreal Past)
 
                 If + Past Perfect/ Past Perfect Continuous,  Would/ Could/ Might + Perfect Bare Infinitive (have + V3)
                 
-                - if your mom had given birth to you as a daughter, you would still have run away from home   Annen seni kız olarak doğursaydı, yine evden kaçardın
-                - if you had locked the door, the thief wouldn’t have got in                                  Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi – eleştiri
-                - if you had studied hard enough, you could have passed the exam                              Yeteri kadar çalışmış olsaydın sınavı geçebilirdin – eleştiri
-                - if I had been more careful, I would have won the race                                       Daha dikkatli olsaydım yarışı kazanabilirdim – pişmanlık
+                If your mom had given birth to you as a daughter, you would still have run away from home   Annen seni kız olarak doğursaydı, yine evden kaçardın
+                If you had locked the door, the thief wouldn’t have got in                                  Kapıyı kilitlemiş olsaydın içeri hırsız girmezdi – eleştiri
+                If you had studied hard enough, you could have passed the exam                              Yeteri kadar çalışmış olsaydın sınavı geçebilirdin – eleştiri
+                If I had been more careful, I would have won the race                                       Daha dikkatli olsaydım yarışı kazanabilirdim – pişmanlık
 
 
----> EXTRA CONDITIONS
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# EXTRA CONDITIONALS
+    What if
+    Wish
+    If only
+    Only if
+    Even if
+    Unless
+    Whether (.. or not)
+
 What if --> peki ya .. sa
                   - what if he calls the doctor
                   - what if the seller still insisted the discount was impossible?
@@ -129,8 +131,8 @@ Whether....or not --> olsa da... olmasa da..
 
 
 
-
-Koşul Cümlelerinde Özel Durumlar
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Koşul Cümlelerinde Özel Durumlar
 Koşul cümlelerindeki 4 tip kullanımın dışında bazı özel durumlar da olabiliyor. Çünkü if ile farklı kullanımlar da söz konusu.
 
 Durum 1: Normal formlarda if kalıbı ile ‘will’, ‘would’ ve ‘should’ kullanılmaz. 
@@ -152,3 +154,4 @@ Durum 3: If clause’ta ‘if’ yerine ‘when’ gelmesi gereken durumlar olab
 
 
 
+.
