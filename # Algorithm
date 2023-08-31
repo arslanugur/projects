@@ -734,3 +734,66 @@ eg: int arr[3][3]
 2D Array representation(a[3][3])
 
       a[0][0]   a[0][1]   a[0][2]
+
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Algoritma, bir problemi çözmek için bir fikirdir.
+    iyi bir algoritmanın özelliği
+      1. doğru sonuç vermeli: doğru çalışıyor mu?
+      2. ne kadar hızlı çalışıyor?
+
+      vücut algoritmaları...
+      iki ileri, bir geri komutunu bilgisayara yaptırmak
+      sağ elinle sol kulağını tutmak (kulağını bırakmadan) sol dizini kaldır...
+
+      Bilgisayar, net bir şekilde tanımlanmış görevleri sonlana dek tekrar etmek için mükemmel bir alettir.
+
+
+Öklid Algo
+    EBOB
+Page Rank Algo
+    google aslında arama değil, sıralama yapıyor. aradığın en muhtemel site
+    bu sayfaya, başka sayfalardan gelen linklere ve baaşka sayfalar için ne kadar önemli olduğu önemli
+    sayfanın önemi, ona bağlanan sayfaların önemine bağlı
+    yani bir futbol oyununda sıradan bir oyuncudan pas almak ile popüler bir oyuncudan pas almak aynı değerde değil.
+    bir oyuncu(websitesi) ne kadar pas(link) alırsa sıralamada o kadar üste çıkar..
+    oyun sırasında bu durum sürekli güncellenmeli
+    bu şekilde takımın key player'ı belirliyorsun. kilit oyuncu...
+
+  Bubble Sort Algo
+      objelerin sayısı az ise olabilir.
+  Merge Sort / collation (Divide and Conquer)  by John von Neumann
+     objelerin sayısı arttıkça merge işe yarıyor....
+      what is the most efficient way to sort a million 32-bit integers?
+
+problemin özelliklerine göre sıralama algoritmaları seçilebilir? her birinin avantaj ve dezavantajları iyi bilmek gerekli
+
+bazı problemler algo ile de çözülemiyor...
+dama, rasgele tahta beyaz oyunu kazanır... dama için algoritma yok
+rubik kübü algoritma olabiliyor.
+
+gezgin satıcı için en kısa yol hangisi? şu an için brute force algosu ile problem gözülmeye çalışılıyor.. ama daha iyisi bulunmak isteniyor..
+  bütün farklı olasılıkları gözden geçirme/deneme yöntemi de bir tür algoritma ---> brute force algoritması
+  şehir sayıları arttıkça gidilebilecek rota sayısı da artıyor...
+  algoritma diyelim ki 10 şehir arasındaki en uygun rotayı bulması baya bir zaman alır...
+  gerçek hayat örnekleri: devre levhaları lehimlemek, supermarket siparişleri için rota planlama..
+
+
+
+  
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
+
+
+
+    
+
+
+
+
+
