@@ -1,9 +1,9 @@
 # CONDITIONALS                                                                            prepared by Uğur ARSLAN, @arslanuguur
 
-      Type Zero   (0) -       Certain
-      Type One    (1) --      Possible
+      Type Zero   (0) -       Certain                  Certainty
+      Type One    (1) --      Possible                 Possibility
       Type Two    (2) ----    Less Possible
-      Type Three  (3) ------  Impossible
+      Type Three  (3) ------  Impossible               Impossibility
 
 
 Type Zero (0): (General Truth)
