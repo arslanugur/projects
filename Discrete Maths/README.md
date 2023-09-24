@@ -2,7 +2,7 @@
 
 	1. Logic 				(Mantık)
 	2. Proof Methods 			(İspat Yöntemleri)
-	3. Set Theory 			(Küme Teorisi)
+	3. Set Theory 				(Küme Teorisi)
 	4. Relations 				(Bağıntılar)
 	5. Functions 				(Fonksiyonlar)
 	6. Number Theory 			(Sayı Teorisi - Modüler Aritmetik, Bölme-Kalan Hesabı)
