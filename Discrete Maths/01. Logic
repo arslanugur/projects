@@ -1,20 +1,29 @@
-DISCRETE MATHS (AYRIK MATEMATİK): https://youtube.com/playlist?list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp
+# LOGIC (MANTIK)
 
-	1. Logic 				(Mantık)
-	2. Proof Methods 			(İspat Yöntemleri)
-	3. Set Theory 				(Küme Teorisi)
-	4. Relations 				(Bağıntılar)
-	5. Functions 				(Fonksiyonlar)
-	6. Number Theory 			(Sayı Teorisi - Modüler Aritmetik, Bölme-Kalan Hesabı)
-	7. Cryptography 			(Şifreleme)
-	8. Counting, Permutation, Combination
-	9. Graph Theory
-	
+	Önerme (Proposition) Kavramı Nedir?
+	Bir Önermenin Olumsuzu (Negation of a Proposition)
+	Açık Önerme (Open Proposition)
+	Bileşik Önerme (Compound Proposition) ve Bağlaçlar (Logical Operators)
+		VE Bağlacı (AND)
+		VEYA Bağlacı (OR)
+		VE ile VEYA Bağlaçlarına Ait Ortak Özellikler
+		İSE Bağlacı (IF) (Implication)
+		Karşıtı, Tersi ve Karşıt Tersi (converse, inverse, contrapositive)
+		Ancak ve Ancak Bağlacı (if and only if) (Biconditional)
+		Yada Bağlacı (exclusive or)
 
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
-		LOGIC (MANTIK)
+Mantık : Mantık Sadeleştirme Soruları (Başlangıç Düzeyi)
+Mantık : Mantık Sadeleştirme Soruları (Orta Düzey)
+Mantık : Mantık Sadeleştirme Soruları (İleri Düzey)
+Mantık : Totoloji (Tautology) ve Çelişki (Contradiction)
+Mantık : Doğruluk Tablosu ile Totoloji veya Çelişki Belirleme
+Ayrık Matematik : Mantıksal Olarak Eşdeğer (Logically Equivalent)
+Mantık : Niceleyiciler (Quantifiers)
+Mantık : Mantık ile Elektrik Devreleri İlişkisi
 
-Önerme (Preposition)
+
+
+# Önerme (Preposition)
 	Boolean Mantığı: Bir ifade ya doğru ya da yanlıştır
 	"Bugün hava güzel" --> Önerme değildir (Görmediğimiz için true/false diyemeyiz)
 	"Yaşın kaç?" --> Önerme değildir (Soru cümlesi)
@@ -59,9 +68,8 @@ DISCRETE MATHS (AYRIK MATEMATİK): https://youtube.com/playlist?list=PLcNWqzWzYG
 				== temsil ettiği true ifadesi sadece önermenin doğru olduğunu gösterir.
 				
 						
-##############################
-
-Önermenin Olumsuzu (Negation of a Preposition)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Önermenin Olumsuzu (Negation of a Preposition)
 	p ---> "Türkiye'nin başkenti İstanbul" ---> Yanlış, bu nedenle bir önerme oluyor.
 		Bunun doğruluk değeri ---> 0
 		Peki önermenin, olumsuzu nasıl olur ---> "Türkiye'nin başkenti İstanbul değildir"
@@ -88,9 +96,8 @@ DISCRETE MATHS (AYRIK MATEMATİK): https://youtube.com/playlist?list=PLcNWqzWzYG
 					         Tam tersini yazıp geçmek hata olur
 		
 		
-##############################
-
-Açık Önerme (Open Proposition)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Açık Önerme (Open Proposition)
 	Önermenin, fonksiyon haline getirilmiş biçimine açık önerme denir
 	
 	Önermeler:
@@ -120,9 +127,8 @@ Açık Önerme (Open Proposition)
 			p(x) : x + 3 <  7  olumsuzu ne?
 			p'(x): x + 3 >> 7  ---> Olumsuzu bu şekilde olur 
 			
-##############################
-
-Bileşik Önerme (Compound Proposition)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bileşik Önerme (Compound Proposition)
 	Bileşik önerme, iki veya daha fazla önermenin bağlaçlar yardımıyla birleştirilmesiyle ortaya çıkan yeni önerme
 	
 	Bağlaçlar (Mantık İşlemleri)
@@ -139,9 +145,8 @@ Bileşik Önerme (Compound Proposition)
 		p(x), q(x), r(x) ---> Açık Önerme
 		p v q , p <-> q  ---> Bileşik Önerme
 
-##############################
-
-		BAĞLAÇLAR (LOGICAL OPERATIONS)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# BAĞLAÇLAR (LOGICAL OPERATIONS)
 
 VE Bağlacı
 	p ^ q 
@@ -181,8 +186,7 @@ VE Bağlacı
 	5. p ^ 0  # VE Bağlacında 0 baskındır. Sonuç p ile değil, 0 ile bağlıdır.
 		    p ^ 0 == 0
 		    
-##############################
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 VEYA Bağlacı
 	p v q
 	# VEYA bağlacında 1 baskındır.
@@ -218,10 +222,11 @@ VEYA Bağlacı
 	4. p v 1, p ne olursa olsun(0, 1), 1 VEYA bağlacında baskı old için sonuç her zaman 1 olur
 	
 	5. p v 0, p == 0 olursa sonuç 0 olur, p == 1 olursa sonuç 1 olur. yani sonuç p ile eşit
-		
-##############################
 
-Ve ile veya bağlacındaki ait ortak özellikler
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+VE ile VEYA bağlacındaki ait ortak özellikler
 
     1. Dağılma Özelliği
               ve     p ^ (q v r) == (p ^ q) v (p ^ r)     #bazen dağıtılmamış şekilde de gelebilir dağıtılmış şekilde de
@@ -277,8 +282,7 @@ Ve ile veya bağlacındaki ait ortak özellikler
               [ p v (q' ^ r)]' == (p' ^ q v r') --> ifadenin olumsuzu bu şekilde olur             
   
   
-##############################
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 İSE -> bağlacı (IF) (Implication)
        #iki önerme bu bağlaç ile birleşirse bu bileşik önerme
        p -> q
@@ -339,9 +343,9 @@ Ve ile veya bağlacındaki ait ortak özellikler
           p -> 0 == 
           1      == 0
           0      == 1
-          
-##############################
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 İSE Bağlacıyla ilgili
 Karşıtı, Tersi, Karşıt Tersi (Converse, Inverse, Contrapositive)
 
@@ -385,10 +389,11 @@ Karşıtı, Tersi, Karşıt Tersi (Converse, Inverse, Contrapositive)
                     
                     #Sonuçlar, İki bileşik önermede de aynı üretildi. ---> Logically Equivalent (Mantıksal Olarak Denk)
                     #p -> q ispatlanması için, p' -> q' ispatlamak yeterli
-                    #Logically Euivalent kavramı önemli, ileriki konularda görülür.
-                    
-##############################
+                    #Logically Equivalent kavramı önemli, ileriki konularda görülür.
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 ANCAK ve ANCAK Bağlacı (If and Only If) <-> (Çift yönlü kosullu olasilik - Biconditional)
             
                     p <-> q    -> p ancak ve ancak q biçimiyle okunur
@@ -439,8 +444,7 @@ ANCAK ve ANCAK Bağlacı (If and Only If) <-> (Çift yönlü kosullu olasilik - 
 
 
 
-##############################
-
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 YA DA Bağlacı (Exclusive OR)  (yuvarlak +)(büyük V altına bir çizgi çekilir)
 	    
         p o+ == p ya da q biçiminde okunur
@@ -488,17 +492,17 @@ YA DA Bağlacı (Exclusive OR)  (yuvarlak +)(büyük V altına bir çizgi çekil
                     0      == 0
 
 
-##############################
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 MANTIK SADELEŞTİRME SORULARI (Beginner)
             1.  p v (q v p')  bileşik önermesinin en sade biçimi ne?
 		
-		#Parantez içindeki ve dışındaki bağlaç VEYA ise ilk olarak parantezi kaldır
+		# Parantez içindeki ve dışındaki bağlaç VEYA ise ilk olarak parantezi kaldır
 		
 		== p v p v p'
 		
-		#p veya p' birbirinin yanına gelirse işlemlerinin sonucu anlamlı bir değer üretir
-		#VEYA bağlacının değişme özelliği vardır
+		# p veya p' birbirinin yanına gelirse işlemlerinin sonucu anlamlı bir değer üretir
+		# VEYA bağlacının değişme özelliği vardır
 		
 		== p v p' v q
 		
@@ -512,26 +516,26 @@ MANTIK SADELEŞTİRME SORULARI (Beginner)
 		
 		== 1 v q == 1 
 		
-		p v (q v p') == 1   bileşik önermenin en sade şekli
+		p v (q v p') == 1   # bileşik önermenin en sade şekli
 		
 		
             2.  p ^ (q ^ p')  bileşik önermesinin en sade biçimi ne?
 	    
-	    	#VE bağlacında da parantez kalkar
+	    	# VE bağlacında da parantez kalkar
 		
 		== p ^ q ^ p' 
 		
-		== p ^ p' ^ q    #iki farklı harfin yanyanayken sonucu kesin değil, bu yüzden aynı harfleri yan yana getirmek daha uygun
-				 #VE bağlacının değişme özelliği kullanılır
-				 #VE bağlacında 0 baskındır
+		== p ^ p' ^ q    # iki farklı harfin yanyanayken sonucu kesin değil, bu yüzden aynı harfleri yan yana getirmek daha uygun
+				 # VE bağlacının değişme özelliği kullanılır
+				 # VE bağlacında 0 baskındır
 		
 		p ^ p' == 
 		1   0  == 0
 		0   1  == 0
 		
-		== 0 ^ q #VE bağlacında 0 baskın q ne olursa olsun yanında 0 varsa sonuç 0 olur
+		== 0 ^ q 		# VE bağlacında 0 baskın q ne olursa olsun yanında 0 varsa sonuç 0 olur
 		
-		p ^ (q ^ p') == 0   bileşik önermenin en sade şekli 
+		p ^ (q ^ p') == 0   	# bileşik önermenin en sade şekli 
 				 
 		
 
@@ -558,13 +562,13 @@ MANTIK SADELEŞTİRME SORULARI (Beginner)
 		(p' v q') v q == p' v q' v q == p' v 1 == 1 #VEYA ile 1 varsa yanda ne olursa olsun sonuç 1
 				      q' v q == 1
 				
-		(p ^ q) -> q == 1 	#bileşik önermesinin en sade biçimi
+		(p ^ q) -> q == 1 	# bileşik önermesinin en sade biçimi
 
             5.  (p v q) ^ (p v q')  bileşik önermesinin en sade biçimi ne?                    
 
-		#Bu soruda dağılma özelliği uygulanmış bir bileşik önerme var
+		# Bu soruda dağılma özelliği uygulanmış bir bileşik önerme var
 		
-		#p önermesi, VEYA bağlacı kullanılarak q VE q' üzerine dağıtılmış.
+		# p önermesi, VEYA bağlacı kullanılarak q VE q' üzerine dağıtılmış.
 
 		
 
@@ -573,6 +577,9 @@ MANTIK SADELEŞTİRME SORULARI (Beginner)
 	    
 	    
             5.  (p v q) ^ (p v q')  bileşik önermesinin en sade biçimi ne?  
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 MANTIK SADELEŞTİRME SORULARI (Intermediate)
 
 
@@ -582,6 +589,102 @@ MANTIK SADELEŞTİRME SORULARI (Intermediate)
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Mantık : Mantık ile Elektrik Devreleri İlişkisi
+
+	Elektrik Devreleri			Mantık
+	------------------			------------------
+		Anahtarlar		=	Önermeler (0, 1)
+		Seri Bağlama		=	Bağlaç: VE (^)
+		Paralel Bağlama		=	Bağlaç: VEYA (v)
+
+	Anahtar: akımın geçebilmesi için kapalı olmalıdır.
+
+		p == 0		bir anahtarın açık olması, bu önermenin doğruluk değerinin 0 olması demek.
+				akım geçmez.
+
+				anahtar:	_______/ ._______
+
+		p == 1		bir elektrik devresinde anahtarın kapalı olması, bu önermenin doğruluk değerinin 1 olması demek
+				akım geçer.
+
+				anahtar:	_______.__._______
+
+
+	Anahtarların Seri Bağlamaları:
+
+		Seri Bağlama, VE bağlacıyla temsil edilir. (^)
+		Nedeni, VE bağlacında 0 baskındır.
+		Bir tane bile 0 olması toplam sonucun 0 olmasını sağlar.
+
+				p anahtarı ve q anahtarı
+
+			akım	_______/ .______________/ ._______
+					p		 q
+
+		p ^ q == 0	off
+		p ^ q == 1	on
+
+		Akımın geçebilmesi için iki anahtarın da doğruluk değerinin 1 olması gerekli.
+
+
+
+	Anahtarların Paralel Bağlanması:
+
+		Paralel Bağlama, VEYA bağlacıyla temsil edilir.	(v)
+		Nedeni, VEYA bağlacında 1 baskındır.
+		Bir tane bile 1 olması toplam sonucun 1 olmasını sağlar.
+						
+						p
+				 	 _______/ ._______
+					|		  |
+			akım	________|		  |_________
+					|		  |
+					|_______/ ._______|
+						q
+
+		p v q == 1	on
+
+		Akımın geçebilmesi için iki anahtardan en az birinin doğruluk değerinin 1 olması gerekli.
+
+
+	Bize verilen elektrik devresinde akımın geçip geçmediğine mantık ile karar verirsek:
+	Soru:
+						q
+				 	 _______/ ._______
+					|		  |
+		akım	 _______.__.____|		  |_____________
+			|	 p	|		  |		|
+			|		|_______._._______|		|
+			|			r			A (Lamba)
+			|						|
+			|_________________| |___________________________|
+					  pil
+
+			Bu devrede, elektrik üretilip, akacak ve lamba yanacak.
+
+		Elektrik devresini mantık ile ifade edip, lambanın yanıp yanmayacağına karar vermek.
+				   (bağlaçlar)
+
+		üç önerme: p, q, r	q ve r önermeleri birbiriyle paralel bağlanmış durumda.
+					bu nedenle q,r , VEYA bağlacıyla ifade edilir.
+					
+						q v r
+
+					p anahtarı ise q ve r anahtarıyla seri bağlanmış durumda..
+					bu nedenle p, VE bağlacı ile ifade edilir.
+
+						p ^ (q v r)
+
+		Şimdi lambanın yanıp yanmadığına karar vereceğiz:
+			p anahtarı kapalı, doğruluk değeri 1
+			q anahtarı açık, doğruluk değeri 0
+			r anahtarı kapalı, doğruluk değeri 1
+
+					p ^ (q v r) = 1 ^ (0 v 1)
+
+			(0 v 1) == 1	--->	1 ^ 1 == 1	on  - devreden akım geçecek ve lamba yanacak.
+								off - eğer sonuç 0 olsaydı, devreden akım geçmez.
 
 
 
@@ -591,7 +694,4 @@ MANTIK SADELEŞTİRME SORULARI (Intermediate)
 
 
 
-
-
-
-
+.
