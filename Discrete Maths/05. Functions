@@ -1,0 +1,150 @@
+5. Functions (Fonksiyonlar)
+
+	matematikte birçok amaç için foksiyon üretilir. yani bir makine üretilir.
+	makinenin temel fikri... amaca hizmet eden bir işlem olmalı
+
+		biz ona bir girdi veririz o da bize bir çıktı verir.
+		çamaşır makinesi -> kirli verilir temiz alınır..
+
+		x (input) --> makine --> y (output)
+
+	örnek:
+			      makine
+			   	|
+		5 -->	     3 ile çarp		--> 15		
+			(fonksiyon tanımlandı)
+
+			    f(x) = (3x)	--> matematikteki denklemsel şekli
+
+	Örnek:
+		3 -->	   2 ile çarp, 1 çıkar  --> 5		f(x) = 2x-1
+
+								f(3) = 2.3-1 --> 5 = y
+								  x
+
+		input (x) = tanım kümesi			output (y) = değer/görüntü kümesi
+
+
+	Örnek:
+		f(x) = 3x+1		Makine, girdiyi 3 ile çarpar ve 1 ekler.
+			y
+
+
+		   (girdiler)				(çıktı olabilecekler)
+		  tanım kümesi				  değer kümesi
+		 ---------------			 ---------------
+		|		|			|      ___	|
+		|	a	|	------>		|     |	d |	|
+		|	b	|	------>		|     | e | --------> görüntü kümesi (çıktı olmuşlar)
+		|	c	|	------>		|     |	f |	|
+		|		|			|     |___|	|
+		|		|			|	g	|
+		|_______________|			|_______________|
+
+
+# Fonksiyon Olma Şartları
+
+	örnek:
+		f: a --> b	fonksiyonumuz a'dan b'ye tanımlandı.
+		f(x) = ...	her denklem fonksiyon olamaz. Fonksiyon olma şartları..	
+
+		    a kümesi				     b kümesi
+		 ---------------			 ---------------
+		|		|			|      ___	|
+		|	a	|	------>		|     |	d |	|
+		|	b	|	------>		|     | e | --------> görüntü kümesi (çıktı olmuşlar)
+		|	c	|	------>		|     |	f |	|
+		|		|			|     |___|	|
+		|		|			|	g	|
+		|_______________|			|_______________|
+
+
+	Şartlar:
+		- tanım kümesinde eşlenmemiş hiç bir eleman bulunmamalı
+			tanım kümesindeki her bir elemanın değer kümesinde gidebileceği bir eleman olması şart.
+		- tanım kümesindeki her eleman, sadece bir kez eşlenmeli. ama değer kümesinde ikinci eşleşme olabilir.
+			iki farklı tanım kümesi elemaları, aynı değer kemesinin elemanına gidebilir.
+			ama bir tanımdan iki değere gidemez. değer kümesinde eleman kalabilir.
+		bu iki şartı sağlayan bağıntılara fonksiyon denir.
+
+# Grafiği verilen bağıntıların fonksiyon olup olmadığını belirleme
+	koordinat düzlemine çizilmiş herhangi bir bağıntının fonksiyon belirtip belirmediğini kontrol etmek
+
+					^ y (değer kümesi)
+					|
+					|
+					|
+					|
+					|
+			---------------------------------> x (tanım kümesi)
+					|
+					|
+					|
+					|
+					|
+
+		düşey doğru testi:
+			grafiğe çizilen düşey doğrular, grafiği her zaman 1 noktada kesmelidir.
+			eğer 1'den fazla noktada grafiği keserse o fonksiyon belirtmez.
+			düşey çizgiyi neresinden atarsak atalım hep bir noktada keşişmeli.
+			eğer iki noktada keşisirse grafikteki tanım kümesi elemanı, iki farklı değer kümesi elemanına gidiyor demek.
+
+# Kuralı verilen bağıntının fonksiyon olup olmadığını belirleme
+	üni sınavlarından  1-2 defa gelmiş
+
+	Örnek:
+					fonksiyonun formülü/kuralı
+			 değer kümesi
+		f: N --> N		ve 	f(x) = 3x-1	
+		   tanım kümesi
+
+		N - doğal sayılar	N = {0,1,2,3 ...}
+
+		    N kümesi				     N kümesi
+		 ---------------			 ---------------
+		|		|			|      		|
+		|	0	|	------>		|     	0	|
+		|	1	|	------>		|     	1 	|
+		|	2	|	------>		|     	2	|
+		|	3	|			|     	3	|
+		|	...	|			|	...	|
+		|_______________|			|_______________|
+
+		tanım kümesindeki her eleman eşleşmek zorundadır.
+		tanım kümesindeki her eleman bir kez eşlenmelidir.
+		doğal sayı girdisi verildiğinde her zaman doğal sayı elde edilmeli.
+		herhangi bir tanım kümesindeki eleman 3x-1'i tanımsız yaparsa o x değerini değer kümesine koyamayız.
+
+		f(0) koyarsak = -1 çıkar	bu bir doğal sayı değildir.. yani fonksiyon değil... -1 tanım kümesinde yok ki...
+		f(1) = 2	
+
+		Yani 0, yukarıda verilen kurala göre eşlenemeyeceği için bu bir fonksiyon değildir.
+
+
+	Örnek:
+		f: N --> Z	değer kümesini tam sayı olarak değiştirdik.
+		f(x) = 3x-1	kurala/formüle şimdi uyması beklenir..
+
+	Örnek:
+		f: Z --> Z
+		f(x) = 3x+1 / x-2
+
+		burda bakacağımız durum: 
+			herhangi bir tanım kümesi elemanı, kuralı tanımsız yapar mı?
+			x'e 2 dersek burayı tanımsız yapar...
+			x = 2 bu kuralı tanımsız yapar.. bir şeyin paydası 0 olunca tanımsız olur.
+			yani bu kurala göre tanım kümesi tam sayı olamaz.. değer kümesini kontrol etmeye bile gerek yok. aşamayı geçemedi.
+
+	Örnek:
+		f: Z --> Z
+		f(x) = x+1 / 3
+			herhangi bir tanım kümesi elemanı, kuralı tanımsız yapmıyor... paydayı 0 yapan birşey yok.
+
+			ikinci aşamaya baktığımızda yani değer kümesine
+		f(1) = 1+1 / 3	= 2/3 ama bu da tam sayı üretmemiş, tam sayı değil... bu fonksiyon olamaz.
+
+
+# Fonksiyon Sayısı bulma
+	https://www.youtube.com/watch?v=EIt8BGsy0x4&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=106
+			
+
