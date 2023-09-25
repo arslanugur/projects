@@ -1,0 +1,41 @@
+# 04. Relations (Bağıntılar)
+
+      Bağıntı (Relations) Nedir?
+      Bağıntı Sayısı Bulma
+      Bağıntıların Gösterim Biçimleri
+      Bir Bağıntının Tersi
+      Bir Bağıntının Fonksiyon Olma Şartları
+      A'da Bağıntı Kavramı
+      A'da Bağıntının Özel Gösterim Biçimleri (Directed Graph and Relation Matrix)
+      Yansıma Özelliği (Reflexivity)
+      Simetri Özelliği (Symmetric)
+      Ters Simetri Özelliği (Antisymmetric)
+      Geçişme Özelliği (Transitive)
+      Denklik Bağıntısı (Equivalence Relation)
+      Sıralama Bağıntısı (Partial Ordering) (Partial Order Relation)
+      Bağıntılarda Bileşke Kavramı (Composite Relations)
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bağıntı (Relations) Nedir?
+    İki küme arasındaki ilişkiyi gösteren bilgidir.
+
+    AxB'nin her bir alt kümesi A'dan B'ye bir bağıntı olur.
+
+    A kartezyen B (AxB), sıralı ikili oluşturmaya yarayan matematiksel bir araç.
+    Bağıntı ise, iki küme arasındaki bilgiyi vermeye yarayan matematiksel bir araç.
+
+    AxB= {(1,a),(1,b),(1,c),(2,a),(2,b),(2,c)}        buna benzer durum, B'den A'ya da olabilir.
+
+    Bağıntı, beta harfi (ß) ya da R ile gösterilir.
+
+      ß_1 = ∅        A kümesi ile B kümesi arasında hiç bir ilişki yok.
+      ß_2 = {(1,a)}  A kümesi ile B kümesi arasında sadece birer eleman ilişkisi var.
+
+      İki özel şartı karşılayan bağıntılar da, fonksiyonu belirtir..
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Bağıntı Sayısı Bulma
+
+
