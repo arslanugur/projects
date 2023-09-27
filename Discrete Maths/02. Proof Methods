@@ -19,21 +19,127 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tüme Varım Yöntemi ile İspat (Mathematical Induction)
-https://www.youtube.com/watch?v=MdQ9yqyf88o&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=28
+    
+    1. Genellikle, eşitliklerin hepsinin doğruluğunun ispatlanmasında kullanılır.
+
+    Equation Example 1:
+        1+2+3+ ... +n = n*(n+1) / 2  ve n hangi sayı kümesinin elemanı olduğu söylenmeli. n ∈ N+
+
+        Bu eşitlik tüme varım yöntemiyle çözülebilir.
+
+        Bu eşitliğin doğruluğunu gösterirsek:
+          n, nereden başlayıp nereye gidiyor ve hangi kümeye ait verilmek zorunda. 
+                                                               verilmezse bu tüme varım yöntemiyle çözülemez..
+
+    Equation Example 2:
+        1^2+2^2+3^2+ ... +n^2 = n*(n+1)*(2n+1) / 6      n ∈ Z+
+
+        Bu eşitlik tüme varım yöntemiyle çözülebilir.
+
+
+    2. Eşitlik olmayan durumlarda da bu yöntem kullanılır. İstisnai durumdur. her durumu çözemez.
+
+    Example 3:
+        3 böler 4^n-1                 n ∈ N          (n, nerden başlayıp nereye kadar gittiğini biliyoruz.)
 
 
 
+  Tümevarım yöntemi üç adımlı ispat yöntemidir..
+
+                                                 n ∈ N+                n ∈ N
+                                                 n ∈ Z+
+  1. Adım  ---> ilk/en küçük değere bakılır..    n = 1 doğru mu?       n = 0 doğru mu?
+           doğruysa 2. adıma geçilir.
+
+  2. Adım  ---> n = k doğru olduğu kabul edilir. yani n yerine k koyabiliriz.
+           sonrasında en kritik adıma geçilir.
+
+  3. Adım  ---> n = k+1 ifadesinin doğru olduğu gösterilmeye çalışılır.
+
+    Example:
+      1+2+3+ ... +n = n*(n+1) / 2       n ∈ N+        doğruluğunu ispatlayın?
+
+          1. Adım  ---> en küçük değer: 1
+                        n yerine 1 koyarsak        1 = 1*(1+1) / 2 = 1         eşitlik doğru...
+                        n yerine 2 koyarsak (bu adıma gerek yok ama kontrol etmek sana kalmış.. ve ilk ikiyi alırsın)
+                                                   1 + 2 = 2*(2+1) / 2 = 3     eşitlik doğru...
+
+          2. Adım  ---> n = k doğru kabul edilir. Bu adımda işlem yapılmaz. Sadece yerine yazılır.
+                        1+2+3+ ... +k = k*(k+1) / 2 
+  
+          3. Adım  ---> n=k+1 doğru mu?
+                        
+                        1+2+3+ ... + k + k+1 = (k+1)*((k+1)+1) / 2          unutma, k+1'den önce k vardır...
+                        1+2+3+ ... + k + k+1 = (k+1)*(k+2) / 2              bu doğru mu kontrol et...
+                        --------------
+                          k*(k+1) / 2
+                        bu ifadenin yerine 2. adıımdaki formüle eşit olduğu kabul edilip onun yerine konulur...
+
+                        (k*(k+1) / 2) + k+1 = (k+1)*(k+2) / 2               sağ kısma dokunulmayacak, sol tarafta işlemler yapılır, sağ tarafla aynı çıkarsa bu doğrudur.
+
+                        (k*(k+1) / 2) + k+1 = (k+1)*(k+2) / 2
+                                        / 2 ---> payda eşitlenir..
+
+                        k*(k+1) + 2*k+1 / 2 ---> bu kısmı k+1 parantezine alırsak
+                        (k+1)*(k+2) / 2 = (k+1)*(k+2) / 2          eşitlik doğru çıktı.
+
+                        n=k+1 doğru. bu nedenle bu eşitlik doğru.     eşitlik ---> 1+2+3+ ... +n = n*(n+1) / 2       n ∈ N+
+
+
+
+    Example:
+        1^2 + 2^2 + 3^2 + ... + n^2 = n*(n+1)*(2n+1) / 6      n ∈ Z+    bu eşitliğin doğruluğunu ispatlayın?
+
+          1. Adım  ---> ilk/en küçük değer: 1
+                        n yerine 1 koyarsak        1^2 = 1*(1+1)*(2*1+1) / 6
+                                                   1*1 = 1*2*3 / 6 = 1        eşitlik doğru...           
+                        
+          2. Adım  ---> n = k doğru kabul edilir. Bu adımda işlem yapılmaz. Sadece yerine yazılır.
+                        n yerine k koyarsak        1^2 + 2^2 + 3^2 + ... + k^2 = k*(k+1)*(2*k+1) / 6   --------------->---------------
+                                                                                                                                      |
+          3. Adım  ---> n=k+1 doğru mu?                                                                                               |
+                        n yerine k+1 koyarsak                                                                                         |
+                        1^2 + 2^2 + 3^2 + ... + n^2 = n*(n+1)*(2n+1) / 6                                                              |
+                                                                                                                                      |
+                        1^2 + 2^2 + 3^2 + ... + k^2 + (k+1)^2 = (k+1)*(k+2)*(2k+3) / 6        k+1'den önce k var                      |
+                        ---------------------------                                                                                   |
+                          k*(k+1)*(2*k+1) / 6      <----------------------------------------------------------------------------------
+                        bu ifadenin yerine 2. adıımdaki formüle eşit olduğu kabul edilip onun yerine konulur...
+
+                        (k*(k+1)*(2*k+1) / 6) + (k+1)^2 = (k+1)*(k+2)*(2k+3) / 6               sağ kısma dokunulmayacak, sol tarafta işlemler yapılır, sağ tarafla aynı çıkarsa bu doğrudur.
+
+                        (k*(k+1)*(2*k+1) / 6) + (k+1)^2 = (k+1)*(k+2)*(2k+3) / 6
+                                                -------
+                                                altına 1 koyar 6 ile genişlet, yani payda eşitle...
+
+                        (k*(k+1)*(2*k+1) / 6) + (6*(k+1)^2 / 6) = (k+1)*(k+2)*(2k+3) / 6
+                        ---------------------------------------
+                        bu kısmı k+1 parantezine alırsak
+
+                        (k+1)*(2k^2+k+6k+6) / 6 = (k+1)*(k+2)*(2k+3) / 6
+                               ------------
+                               2k^2+7k+6 ------> bu çarpanlara ayrılır... 6'nın çarpanları 2 ve 3 bunu hatırla...
+
+                        (k+1)*(k+2)*(2k+3) / 6 = (k+1)*(k+2)*(2k+3) / 6             eşitlik doğru çıktı.
+
+                        n=k+1 doğru. bu nedenle bu eşitlik doğru.     eşitlik ---> 1^2 + 2^2 + 3^2 + ... + n^2 = n*(n+1)*(2n+1) / 6      n ∈ Z+
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tüme Varım Yöntemi ile İspat Örnek Soru-1 (Mathematical Induction)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tüme Varım Yöntemi ile İspat Örnek Soru-2 (Mathematical Induction)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tüme Varım Yöntemi ile İspat Örnek Soru-3 (Mathematical Induction)
-- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Tüme Varım Yöntemi ile İspat Örnek Soru-4 (Mathematical Induction)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Doğrudan İspat Yöntemi (Direct Proofs)
+https://www.youtube.com/watch?v=Rb6R4ZA2ZzU&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=33
+
+
+
+
+
+
+
+
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Olmayana Ergi Yöntemi ile İspat (Indirect Proof) (contrapositive)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -42,4 +148,30 @@ https://www.youtube.com/watch?v=MdQ9yqyf88o&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSY
 # Aksine Örnek Vererek İspat (Counter Example)
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Deneme Yöntemi ile İspat (Proof with Trial)
+
+
+
+
+
+
+# Dictionary...
+
+Simge	Simgenin açıklaması	    Simge	Simgenin açıklaması
+-------------------------------------------------------
+∈	    Elemanıdır	            ∪	    Birleşim
+∉	    Elemanı değildir      	∩	    Kesişim
+∋	    Eleman olarak kapsar	  ⊎	    Birden fazla küme bileşenleri
+⊂	    Alt kümesi	            ∅	    Boş küme
+⊃	    Üst kümesi	            ≇	    Ne yaklaşık ne de fiili olarak
+⊆	    Alt küme veya eşit	    ≤	    Küçük veya eşit
+⊇	    Üst küme veya eşit	    ≥	    Büyük veya eşit
+≠	    Eşit değil	            ≮	    Küçük değil
+<	    Küçüktür	              ≰	    Küçük veya eşit değil
+>	    Büyüktür              	≱	    Büyük veya eşit değil
+≡	    Denktir	                ≢	    Denk değil
+≈	    Hemen hemen eşit	      ≅	    Yaklaşık olarak eşit
+∼	    Benzer	                ⋚	    Küçük eşit veya büyük
+≫	    Çok daha büyük	        ≪	    Çok daha küçük
+=	    Eşit                  	≠	    Eşit değil
+
 
