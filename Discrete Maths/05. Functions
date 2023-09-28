@@ -42,6 +42,8 @@
 		|_______________|			|_______________|
 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fonksiyon Olma Şartları
 
 	örnek:
@@ -67,6 +69,8 @@
 			ama bir tanımdan iki değere gidemez. değer kümesinde eleman kalabilir.
 		bu iki şartı sağlayan bağıntılara fonksiyon denir.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Grafiği verilen bağıntıların fonksiyon olup olmadığını belirleme
 	koordinat düzlemine çizilmiş herhangi bir bağıntının fonksiyon belirtip belirmediğini kontrol etmek
 
@@ -89,6 +93,8 @@
 			düşey çizgiyi neresinden atarsak atalım hep bir noktada keşişmeli.
 			eğer iki noktada keşisirse grafikteki tanım kümesi elemanı, iki farklı değer kümesi elemanına gidiyor demek.
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Kuralı verilen bağıntının fonksiyon olup olmadığını belirleme
 	üni sınavlarından  1-2 defa gelmiş
 
@@ -144,7 +150,70 @@
 		f(1) = 1+1 / 3	= 2/3 ama bu da tam sayı üretmemiş, tam sayı değil... bu fonksiyon olamaz.
 
 
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fonksiyon Sayısı bulma
-	https://www.youtube.com/watch?v=EIt8BGsy0x4&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=106
-			
+	bir kümeden diğer bir kümeye tanımlanabilecek farklı fonksiyonların sayılarını bulmak
+
+	A'nın eleman sayısı = s(A)
+	B'nın eleman sayısı = s(B) gösterir.
+
+	A'dan B'ye tanımlanabilecek farklı fonksiyon sayısı s(B)^s(A) formülü ile hesaplanır.
+
+	Örnek:
+		    A kümesi				     B kümesi
+		 ---------------			 ---------------
+		|		|			|      		|
+		|	1	|	------>		|     	a	|
+		|	2	|	------>		|     	b 	|
+		|	3	|	------>		|     	c	|
+		|		|			|     	d	|
+		|		|			|		|
+		|_______________|			|_______________|
+
+		A'dan B'ye kaç farklı fonksiyon tanımlanabilir.
+			1 sayısının gitmeye 4 aday şansı var.
+			2 sayısının gitmeye 4 aday şansı var. (2, 1'in gittiği yere gidebilir, fonksiyona engel değil)
+			3 sayısının da gitmeye 4 adayı var..
+
+				4*4*4 = 64
+
+		Mantık yerine formülü uygularsak yine benzer bir yol izlenir..
+				s(B)^s(A) = 4^3 = 64
+
+
+
+	Örnek:
+		s(A)=2 s(B)=5 olmak üzere A'dan B'ye tanımlaanabilecek fonksiyon sayısı kaç?
+					  B'den A'ya tanımlanabilecek fonksiyon sayısı kaç?
+
+		5^2 = 25 farklı fonksiyon/eşleme A'dan B'ye tanımlanabilir..
+		2^5 = 32 farklı fonksiyon/eşleme B'den A'ya tanımlanabilir..
+
+	Örnek:
+
+		    A kümesi				     B kümesi
+		 ---------------			 ---------------
+		|		|			|      		|
+		|	1	| -------------------->	|     	a	|
+		|	2	|			|     	b 	|
+		|	3	|			|     	c	|
+		|	4	|			|     		|
+		|		|			|		|
+		|_______________|			|_______________|
+
+		Şekilde verilen koşullar altında A'dan B'ye kaç farklı fonksiyon tanımlanabilir? 
+			1, a ile eşlenmiş zaten
+			2, gitmeye 3 tane değeri var
+			3, gitmeye 3 tane değeri var
+			4, gitmeye 3 tane değeri var
+
+			3*3*3 = 27 tane A'dan B'ye farklı fonksiyon tanımlanabilir.
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fonksiyonlarda Görüntü Kümesi Özellikleri
+
+https://www.youtube.com/watch?v=g-VADhXcziE&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=107			
 
