@@ -90,14 +90,17 @@
             olduğuna göre, a*b çarpımının alabileceği en büyük değer?
 
     keşke (a+b)'i bilseydik diye durmak yerine a ve b'yi toplarsın... sabitleme işleme...
-      Sabitleme işleminde x'ler birbirini götürdü... 15-5 kaldı... artık sabit değer...
-    a + b = 10      a * b 
-    ----------      -----
-    0   10          0         toplamları uzak değer = çarpımları küçük değer
-    1   9           9
-    2   8           16
-    .....
-    5   5           25        toplamları yakın değer = çarpımları büyük değer
+        a = 15-x
+    +   b = x-5
+    -------------    Sabitleme işleminde x'ler birbirini götürdü... 15-5 kaldı... artık sabit değer...
+
+        a + b = 10      a * b 
+        ----------      -----
+        0   10          0         toplamları uzak değer = çarpımları küçük değer
+        1   9           9
+        2   8           16
+        .....
+        5   5           25        toplamları yakın değer = çarpımları büyük değer
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
