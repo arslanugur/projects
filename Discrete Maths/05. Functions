@@ -1,5 +1,9 @@
 5. Functions (Fonksiyonlar)
 
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fonksiyonlar
 	matematikte birçok amaç için foksiyon üretilir. yani bir makine üretilir.
 	makinenin temel fikri... amaca hizmet eden bir işlem olmalı
 
@@ -8,7 +12,7 @@
 
 		x (input) --> makine --> y (output)
 
-	örnek:
+	🔴 
 			      makine
 			   	|
 		5 -->	     3 ile çarp		--> 15		
@@ -16,7 +20,7 @@
 
 			    f(x) = (3x)	--> matematikteki denklemsel şekli
 
-	Örnek:
+	🔴 
 		3 -->	   2 ile çarp, 1 çıkar  --> 5		f(x) = 2x-1
 
 								f(3) = 2.3-1 --> 5 = y
@@ -25,7 +29,7 @@
 		input (x) = tanım kümesi			output (y) = değer/görüntü kümesi
 
 
-	Örnek:
+	🔴 
 		f(x) = 3x+1		Makine, girdiyi 3 ile çarpar ve 1 ekler.
 			y
 
@@ -46,7 +50,7 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fonksiyon Olma Şartları
 
-	örnek:
+	🔴 
 		f: a --> b	fonksiyonumuz a'dan b'ye tanımlandı.
 		f(x) = ...	her denklem fonksiyon olamaz. Fonksiyon olma şartları..	
 
@@ -98,7 +102,7 @@
 # Kuralı verilen bağıntının fonksiyon olup olmadığını belirleme
 	üni sınavlarından  1-2 defa gelmiş
 
-	Örnek:
+	🔴 
 					fonksiyonun formülü/kuralı
 			 değer kümesi
 		f: N --> N		ve 	f(x) = 3x-1	
@@ -127,11 +131,11 @@
 		Yani 0, yukarıda verilen kurala göre eşlenemeyeceği için bu bir fonksiyon değildir.
 
 
-	Örnek:
+	🔴 
 		f: N --> Z	değer kümesini tam sayı olarak değiştirdik.
 		f(x) = 3x-1	kurala/formüle şimdi uyması beklenir..
 
-	Örnek:
+	🔴 
 		f: Z --> Z
 		f(x) = 3x+1 / x-2
 
@@ -141,7 +145,7 @@
 			x = 2 bu kuralı tanımsız yapar.. bir şeyin paydası 0 olunca tanımsız olur.
 			yani bu kurala göre tanım kümesi tam sayı olamaz.. değer kümesini kontrol etmeye bile gerek yok. aşamayı geçemedi.
 
-	Örnek:
+	🔴 
 		f: Z --> Z
 		f(x) = x+1 / 3
 			herhangi bir tanım kümesi elemanı, kuralı tanımsız yapmıyor... paydayı 0 yapan birşey yok.
@@ -160,7 +164,7 @@
 
 	A'dan B'ye tanımlanabilecek farklı fonksiyon sayısı s(B)^s(A) formülü ile hesaplanır.
 
-	Örnek:
+	🔴 
 		    A kümesi				     B kümesi
 		 ---------------			 ---------------
 		|		|			|      		|
@@ -183,14 +187,14 @@
 
 
 
-	Örnek:
+	🔴 
 		s(A)=2 s(B)=5 olmak üzere A'dan B'ye tanımlaanabilecek fonksiyon sayısı kaç?
 					  B'den A'ya tanımlanabilecek fonksiyon sayısı kaç?
 
 		5^2 = 25 farklı fonksiyon/eşleme A'dan B'ye tanımlanabilir..
 		2^5 = 32 farklı fonksiyon/eşleme B'den A'ya tanımlanabilir..
 
-	Örnek:
+	🔴 
 
 		    A kümesi				     B kümesi
 		 ---------------			 ---------------
@@ -215,5 +219,111 @@
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Fonksiyonlarda Görüntü Kümesi Özellikleri
 
-https://www.youtube.com/watch?v=g-VADhXcziE&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=107			
+		  tanım kümesi				  değer kümesi
+		 ---------------			 ---------------
+		|		|			|      		|
+		|	1	|	------> b	|      _a_	|
+		|	2	|	------>	b	|     | b | --------> görüntü kümesi (çıktı olmuşlar)
+		|	3	|	------>	c	|     |	c |	|
+		|	4	|	------>	d	|     |_d_|	|
+		|		|			|	e	|
+		|_______________|			|_______________|
+			A					B
+
+	görüntü kümesi, her zaman değer kümesinin alt kümesidir.
+			f(A) biçiminde yazılır.
+			f(A) = {b,c,d}
+
+	bu fonksiyonu (eşlenmeleri) yazarsak;
+			f(1)=b
+			f(2)=b
+			f(3)=c
+			f(4)=d			aynı tanım kümesi elemanı, farklı değer kümesi elemanına gidebilir.
+		ya da	f={(1,b), (2,b), (3,c), (4,d)}
+
+🔴 f: {(1,3), (2,-1), (4,0), (5,0)}
+	f'in tanım kümesi: {1,2,4,5}
+	f'in görüntü kümesi: {3,-1,0}
+	f(1)+f(4) = 3 + 0 = 3 
+	f'in değer kümesi: {3,-1,0,...}		bu yazımdan değer kümesi bulunamaz, sadece en az 3 eleman old tespit edilir.
+	f(A)⊂B	---> B'nin altkümesidir
+
+
+🔴 f: {1,2,3,4} --> B şeklinde f(x)=2x-3 fonksiyonu tanımlanıyor.
+	f'in görüntü kümesi nedir?
+
+	tanım kümesi belirli ama B yani değer kümesi belirsiz verilmiş...
+	fonksiyonda tek tek yerine koyarız..
+
+		f(1)= 2*1-3 = -1
+		f(2)= 2*2-3 = 1
+		f(3)= 2*3-3 = 3
+		f(4)= 2*4-3 = 5
+
+	f(A)={-1,1,3,5}		görüntü kümesi	
+
+🔴 görüntü kümesi verilip tanım kümesi sorulabilir..
+	f(A) = {1,2,3,4} olan f(x)=2x+1 fonksiyonunun tanım kümesi nedir?
+	eşitleme yapılır...
+	2x+1=1	2x=0	x=0	f(0)=1
+	2x+1=2	2x=1	x=1/2	f(1/2)=2
+	2x+1=3	2x=2	x=1	f(1)=3
+	2x+1=4	2x=3	x=3/2	f(3/2)=4
+
+	tanım kümesi elemanları: {0, 1/2, 1, 3/2}
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Grafiği verilen fonksiyonların tanım ve görüntü kümelerini bulma
+https://www.youtube.com/watch?v=GS4hFCRmDw4&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=108
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Dictionary...
+
+Simge	Simgenin açıklaması	    Simge	Simgenin açıklaması
+-------------------------------------------------------
+∈	    Elemanıdır              ∪	    Birleşim
+∉	    Elemanı değildir        ∩	    Kesişim
+∋	    Eleman olarak kapsar    ⊎	    Birden fazla küme bileşenleri
+⊂	    Alt kümesi              ∅	    Boş küme
+⊃	    Üst kümesi              ≇	    Ne yaklaşık ne de fiili olarak
+⊆	    Alt küme veya eşit      ≤	    Küçük veya eşit
+⊇	    Üst küme veya eşit      ≥	    Büyük veya eşit
+≠	    Eşit değil              ≮	    Küçük değil
+<	    Küçüktür                ≰	    Küçük veya eşit değil
+>	    Büyüktür                ≱	    Büyük veya eşit değil
+≡	    Denktir                 ≢	    Denk değil
+≈	    Hemen hemen eşit        ≅	    Yaklaşık olarak eşit
+∼	    Benzer                  ⋚	    Küçük eşit veya büyük
+≫	    Çok daha büyük          ≪	    Çok daha küçük
+=	    Eşit                    ≠	    Eşit değil
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
