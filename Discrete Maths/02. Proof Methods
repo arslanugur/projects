@@ -154,24 +154,23 @@ https://www.youtube.com/watch?v=Rb6R4ZA2ZzU&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSY
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Dictionary...
 
 Simge	Simgenin açıklaması	    Simge	Simgenin açıklaması
 -------------------------------------------------------
-∈	    Elemanıdır	            ∪	    Birleşim
-∉	    Elemanı değildir      	∩	    Kesişim
-∋	    Eleman olarak kapsar	  ⊎	    Birden fazla küme bileşenleri
-⊂	    Alt kümesi	            ∅	    Boş küme
-⊃	    Üst kümesi	            ≇	    Ne yaklaşık ne de fiili olarak
-⊆	    Alt küme veya eşit	    ≤	    Küçük veya eşit
-⊇	    Üst küme veya eşit	    ≥	    Büyük veya eşit
-≠	    Eşit değil	            ≮	    Küçük değil
-<	    Küçüktür	              ≰	    Küçük veya eşit değil
->	    Büyüktür              	≱	    Büyük veya eşit değil
-≡	    Denktir	                ≢	    Denk değil
-≈	    Hemen hemen eşit	      ≅	    Yaklaşık olarak eşit
-∼	    Benzer	                ⋚	    Küçük eşit veya büyük
-≫	    Çok daha büyük	        ≪	    Çok daha küçük
-=	    Eşit                  	≠	    Eşit değil
-
-
+∈	    Elemanıdır              ∪	    Birleşim
+∉	    Elemanı değildir        ∩	    Kesişim
+∋	    Eleman olarak kapsar    ⊎	    Birden fazla küme bileşenleri
+⊂	    Alt kümesi              ∅	    Boş küme
+⊃	    Üst kümesi              ≇	    Ne yaklaşık ne de fiili olarak
+⊆	    Alt küme veya eşit      ≤	    Küçük veya eşit
+⊇	    Üst küme veya eşit      ≥	    Büyük veya eşit
+≠	    Eşit değil              ≮	    Küçük değil
+<	    Küçüktür                ≰	    Küçük veya eşit değil
+>	    Büyüktür                ≱	    Büyük veya eşit değil
+≡	    Denktir                 ≢	    Denk değil
+≈	    Hemen hemen eşit        ≅	    Yaklaşık olarak eşit
+∼	    Benzer                  ⋚	    Küçük eşit veya büyük
+≫	    Çok daha büyük          ≪	    Çok daha küçük
+=	    Eşit                    ≠	    Eşit değil
