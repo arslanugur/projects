@@ -1,5 +1,39 @@
 5. Functions (Fonksiyonlar)
-
+	Fonksiyon Nedir?
+	Fonksiyonlarda Tanım Kümesi, Değer Kümesi ve Görüntü Kümesi Nedir?
+	Fonksiyon Olma Şartları
+	Grafiği Verilen Bağıntıların Fonksiyon Olup Olmadığını Belirleme
+	Kuralı Verilen Bağıntının Fonksiyon Olup Olmadığını Belirleme
+	Fonksiyon Sayısı Bulma
+	Fonksiyonlarda Görüntü Kümesi Özellikleri
+	Grafiği Verilen Fonksiyonların Tanım ve Görüntü Kümelerini Bulma
+	İçine Fonksiyon Nedir?
+	Örten Fonksiyon Nedir?
+	Birebir Fonksiyon Nedir?
+	Grafiği Verilen Fonksiyonların Birebir Olup Olmadığını Belirleme
+	Kuralı Verilen Fonksiyonun Birebir Olup Olmadığını Belirleme
+	Birebir Fonksiyon Sayısı Bulma
+	Birebir ve Örten Fonksiyonun Önemi
+	Sabit Fonksiyon
+	Birim Fonksiyon
+	Doğrusal Fonksiyon
+	Çift Fonksiyon (Even Function)
+	Tek Fonksiyon (Odd Function)
+	Çift ve Tek Fonksiyonlar Arasında Dört İşlemin Sonuçları
+	Parçalı Fonksiyon
+	Fonksiyonlarda Değer Hesaplama
+	Fonksiyonlarda Türünden Yazma Soruları
+	Özyineli Fonksiyonlar
+	Özyineli Fonksiyonlar Örnek Soru-1
+	Özyineli Fonksiyonlar Örnek Soru-2
+	Özyineli Fonksiyonlar Örnek Soru-3
+	Fonksiyonlarda Dört İşlem
+	Fonksiyonların Tersini Bulma (inverse function)
+	Fonksiyonların Tersini Kısa Yoldan Bulma
+	Bileşke Fonksiyon (Composition of Functions)
+	Bileşke Fonksiyon Özellikleri
+	Kesirli Fonksiyonların Tanım ve Görüntü Kümesini Bulma
+	Permütasyon Fonksiyonu
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
@@ -78,6 +112,7 @@
 # Grafiği verilen bağıntıların fonksiyon olup olmadığını belirleme
 	koordinat düzlemine çizilmiş herhangi bir bağıntının fonksiyon belirtip belirmediğini kontrol etmek
 
+	Fonksiyon Grafiği:
 					^ y (değer kümesi)
 					|
 					|
@@ -275,8 +310,58 @@
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Grafiği verilen fonksiyonların tanım ve görüntü kümelerini bulma
-https://www.youtube.com/watch?v=GS4hFCRmDw4&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=108
 
+ 	Fonksiyon Grafiği:
+							^ y ekseni (değer kümesi)
+							| 7
+		y eksenindeki en üst limit --->		| 6		o f(x) fonksiyonu
+							| 5
+							| 4
+							| 3
+					    ●		| 2
+					    		| 1
+					 |--|--|--|--|--|--|--|--|--|--|--|--|--> x ekseni (tanım kümesi)
+					 -5-4 -3 -2 -1  0  1  2  3  4  5  6  7
+							| -1
+							• -2
+							| -3
+						     	| -4
+				      		     •	| -5		---> y eksenindeki en alt limit
+							| -6
+							| -7
+
+	Bunların tanım ve görüntü kümelerini sorulur.
+	Tanım kümesi x eksenine konumlanmış olan noktalardır.		x ekseninin sınırlandığı alan. -4'den 5'e kadar değerler konulmuş.. var olan her sayı alır.	
+	Görüntü kümesi y eksenine konumlanmış olan noktalardır.		y ekseninin sınırlandığı alan.
+	içi boş değer dahil değildir. aslında ok vardır. bunun anlamı o değer bir noktaya kadar ya da sonsuza kadar gidebilir...
+	bütün x ya da y değerleriyle eşlenme varsa bu R (Reel sayılar) olur. bu da belli bir nokta değilde sonsuza giden ok ile ifade edilir..
+
+	Tanım kümesi = [-4,5)
+	Görüntü kümesi = [-5,6)
+
+
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# İçine Fonksiyon
+
+
+🔴 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.youtube.com/watch?v=iGlNOm5Qr4A&list=PLcNWqzWzYG2syBEQheDOG_5T8NplSYRyp&index=109
 
 
 
