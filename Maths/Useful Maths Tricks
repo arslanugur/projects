@@ -1,4 +1,12 @@
-🔻 
+🔻 BODMAS TECHNIQUE by cuemath the math expert
+  36 / 6 * 3 - 2^2 + (3 + 5)
+= 36 / 6 * 3 - 2^2 + (8)                1. Bracelet        : (3+5)
+= 36 / 6 * 3 - 4 + 8                    2. Order of power  : 2^2
+= 6 * 3 - 4 + 8                         3. Division        : 36 / 6
+= 18 - 4 + 8                            4. Multiplication  : 6 * 3
+= 26 - 4                                5. Addition        : 18 + 8
+= 22                                    6. Subtraction     : 26 - 4
+
 
 
 
