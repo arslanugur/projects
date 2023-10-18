@@ -1,4 +1,9 @@
-🔻 BODMAS TECHNIQUE by cuemath the math expert
+Formulas:
+    https://www.cuemath.com/math-formulas/
+
+
+
+🔻 BODMAS TECHNIQUE
   36 / 6 * 3 - 2^2 + (3 + 5)
 = 36 / 6 * 3 - 2^2 + (8)                1. Bracelet        : (3+5)
 = 36 / 6 * 3 - 4 + 8                    2. Order of power  : 2^2
@@ -32,6 +37,16 @@
 7/4 - 4/3
     4*4=16  -  7*3=21   ---> 5/12
     4*3=12                              
+
+
+🔻 Ratio Division
+    Value     Division     Process                 Result
+    ----------------------------------------------------
+    5.0%    = 5/100    --> / 5                   = 1/20
+    10 %    = 10/100   --> 1/10                  = 1/10
+    20 %    = 20/100   --> 2/10  --> / 2         = 1/5
+    25 %    = 25/100   --> / 5   = 5/20 --> / 5  = 1/4
+
 
 🔻 Percentage
 20% of 60 = 12
