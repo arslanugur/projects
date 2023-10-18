@@ -1,17 +1,28 @@
 Formulas:
     https://www.cuemath.com/math-formulas/
 
+Numbers:
+    https://www.cuemath.com/numbers/
 
+
+🔻 PEMDAS TECHNIQUE                                                    BEDMAS in Canada               GEMDAS
+                                        1. Parentheses                 1. Brackets                    1. Grouping
+                                        2. Exponents                   2. Exponents                   2. Exponents
+                                        3. Multiplication              3. Division                    3. Multiplication/Division    in order from left to right
+                                        4. Division                    4. Multiplication              4. Addition/Subtraction       in order from left to right
+                                        5. Addition                    5. Addition
+                                        6. Subtraction                 6. Subtraction
+
+https://www.cuemath.com/numbers/pemdas/
 
 🔻 BODMAS TECHNIQUE
   36 / 6 * 3 - 2^2 + (3 + 5)
-= 36 / 6 * 3 - 2^2 + (8)                1. Bracelet        : (3+5)
-= 36 / 6 * 3 - 4 + 8                    2. Order of power  : 2^2
-= 6 * 3 - 4 + 8                         3. Division        : 36 / 6              / = but
-= 18 - 4 + 8                            4. Multiplication  : 6 * 3
-= 26 - 4                                5. Addition        : 18 + 8
-= 22                                    6. Subtraction     : 26 - 4
-
+= 36 / 6 * 3 - 2^2 + (8)                : (3+5)        1. Bracelet
+= 36 / 6 * 3 - 4 + 8                    : 2^2          2. Order of power / Indice / Order / Off
+= 6 * 3 - 4 + 8                         : 36 / 6       3. Division                                  / = but
+= 18 - 4 + 8                            : 6 * 3        4. Multiplication
+= 26 - 4                                : 18 + 8       5. Addition
+= 22                                    : 26 - 4       6. Subtraction
 
 
 
@@ -97,6 +108,9 @@ Formulas:
       +
 
 🔻 Division
+      numerator / denominator
+
+
 
       9396 / 3 = 3132
       ---|-|-|---|---|-|-|---|-|---------
