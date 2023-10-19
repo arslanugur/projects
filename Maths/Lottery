@@ -1,0 +1,205 @@
+permütasyon 
+kombinasyon
+Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedir?
+
+Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedir?
+02:30 Türkiye'de Lotoda Büyük İkramiyeyi Tutturma İhtimali Nedir?
+03:25 Birden Fazla Bilet Almak Mantıklı mı?
+03:56 Unutmayın: %70 Kazanma İhtimali, %30 Kaybetme İhtimali Demek!
+05:02 "Herhangi Birinin Kazanma İhtimali" ile "SİZİN Kazanma İhtimaliniz" Aynı Şey Değil!
+06:14 Var Mısın Yok Musun: "Kutumda Büyük Hissediyorum!"
+07:47 Finansal Sağlık: Lotoya Yatıracağınız Parayla Yatırım Yapın!
+08:29 Beklenen Değer: Lotoda Ne İhtimalle Ne Kadar Kazanacağınızı Nasıl Hesaplarsınız?
+10:01 Sayısal Lotoda GERÇEKTE Ne Kazanıyorsunuz?
+11:20 Finansal Disiplin: İkramiye Kazananların %70'i Neden Batıyor?
+
+12:26 Shelbee Çifti: Winfall Oyununu Farklı Kılan Neydi?
+ 13:49 Roll-down: Piyango GARANTİLİ Olarak Nasıl Kazanılır?
+17:39 Jerry and Marge Go Large: Gerçek Piyango Dahileri!
+19:24 MIT Matematik Bölümü Öğrencileri de Milyonlarca Dolar Kazandı!
+20:19 Kapanış: Bir Şeyleri Neden Öğreniriz?
+
+
+
+
+
+
+1- 49 kadar olan sayılardan 6 farklı seçmek ve çekilişte çıkan sayılarla tuturmak
+49un 6lı kombinasyonu
+    nasıl hesaplanır   49! / 43! * 6!
+        49un bütün 6lı permütasyonlarını verir
+    perm dizdiğiniz şeylerin sırası önemliyse kullandığımız bir araç
+      ama loto önemsizse kombinasyona başvurulur
+    komb dizdiğiniz şeylerin sırası önemli değilse kullandığımız bir araç
+
+    fakt 1den osayıya kadar olan bütündoğal sayıların çarpımı
+        10!=1.2.3.4.5.6.7.8.9.10 = 3.628.800
+
+49un 6lı kombinasyonu hesaplandığında 13.983.816
+  yani kazanma şansı 14milyonda bir        1/14M
+
+trde ise 90 sayıdan 6 tanesini bilmek gerekiyor...
+      90 / 84! * 6!
+  yani kazanma şansı 622.614.630            622mda 1    1/622m
+
+  yani 80 milyon kişinin her biri bir tane bilet alsa herhangibir çekilişte 6 sayıyı bilen kişi ihtimal %11
+  yani %89 ihtimalle büyük ikramiye bir sonraki çekilişe kalır
+
+  %11 ihtimalle biri kazanacak ama o kişinin sen olma ihtimali daha da düşük... yani %11 senin değil trnin şansı
+
+
+
+%70lik bir kazanma ihtimali aynı zamanda %30luk bir kaybetme ihtimali demek
+yani her 5 denemeden biri başarısız olacak yola çıktığında
+o deneme ilk de olabilir 3üncü de 7inci de olabilir.
+
+herhangi birinin yapmasının bizim de yapacağımız anlamına gelmiyor... uniqueness
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+üst üste 8 kere yazı atarsanız kazanacaksınız ama 8 kere üst üste yazı atabilme ihtimali  1/2^8 =%0,4   yani 1000de 4 küçük ihtimal
+
+ama 100 kişiyi diz...  tura atanları ele
+                        yazı atanları devam ettir
+      %50 ihtimalli bir oyunda 
+            1. tur   100 kişi
+            2. tur   50 kişi
+            3. tur   25 kişi
+            4. tur   12 kişi
+            5. tur   6 kişi
+            6. tur   3 kişi
+            7. tur   2 kişi
+            8. tur   1 kişi kalır bu kişi 8 tur üst üste yazı atmış oluyor...%0,4 olasılığı gerçekleştirir.
+
+            burda da uniqueness yok. çünkü oynamaya devam edilse o kazanan kişi hep kazanmayacak..
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+loto peşinde koşmaktansa...
+1993den beri her hafta 10 lirayı biste yatırsan 2023 yılına kadar yaklaşık 10m lira olacaktı
+
+
+
+
+
+# Beklenen değer
+    bir oyun her yazı attığında sana 20lira ödüyor
+             her tura attığınızda 10 liranı alıyor.
+    bu durumda ort kazanmayı beklediğin miktar değer ne kadar ?
+          yazı gelme ihtimali * kazanacağınız miktar                %50*(+20)=10lira        yüzde elli kere yirmi 10 lira
+          tura gelme ihtimali * kaybedeceğiniz miktar               %50*(-10)=5 lira
+
+          çıkan sonuçları toplamak gerekiyor.                       10-5=5 bu oyunda ortalmada 5 lira kazanmayı beklersiniz...
+
+    bu oyunu 1000 kere oynarsan ortalama 5000 lira kazanacağınız beklenir..
+              500 kere yazı  10000 lira kazanırsın
+              500 kere tura   5000 lira kaybedersin bu yüzden 5000 lira beklenen değer/kazanç...
+
+
+    loto için de aynısını yaparsan 
+              trde kazanılan en büyük ikramiye --> 247.659.000 lira         bu miktar 60 liralık bir kupona vurdu.
+                                                  tabi bu miktar küçük olabilir....
+
+              1/622.000.000 * 247.659.000                kazanma ihtimalin * kazanacağıın miktar
+              1/621.999.999*60                            kaybetme ihtimalin * kaybedeceğin miktar
+            + -----------------------------
+              beklenen değer = -59 lira.60kuruş
+
+              yani sayısal lotoya her 60 lira koyduğunda zaten bu beklenen değeri kaybetmeyi beklemelisin...
+              5 numara bilen ya da 4 numara bilen için bile beklenen değeri pozitife çıkarmaya yetmiyor.
+
+              house always win
+
+AMA beklenen değeri pozitif olan bir oyun bulabilirsen talihi alt etmen kolay olabilir...
+            Win fall oyunu
+                shelbee couple
+                46 sayıdan 6 tanesini doğru bilmen gerek
+                
+              roll down - kimse bilemezse 5 4 3 bilenelere ikramiye dağıtılır... (normal piyangoda ise devreder. hafta hafta)
+                5 ya da 4 sayıyı bilmenin değerini birden arttırıyor...
+            bu oyundaki beklenen kazanç bi anada pozitif oluyor...
+              2milyon dollar sınırı aşılıp roll down yaşanırsa ve yeterince çok bilet alırsanız
+                  koyduğunuzdan fazlasını kazanmanız sadece mümkün değil, istatiki olarak nerdeyse kaçınılmaz..
+
+            büyük ikramiye 1.6 milyon dolar ulaşır. kimse 6 sayıyı bilemedi.
+            sıradaki çekilişte 2m sınırının aşılması çok yüksekti... ve roll down duyurusu yapıldı
+            büyük ikramiye 2.9milyona ulaştı...
+                tanesi 2$ * 200.000 tane bilet alırsan
+                yani 400.000 dolar harcadın   bundan fazlasını kazanabilir misin?
+
+            winfall oyununda 46 sayıdan 2 3 4 5 6 tanesini bilmen gerekli
+                46! / 40! * 6! = 1 / 9.400.000    bir bilet ile büyük ikramiyeyi kazanma sanşın
+                ama 200bin bilet aldın.... şansın 200.000 kat artar.....  şansın %2 civarına ulaşıyor...
+                bunu 2.900.000$ * %2 = 61.920$ elde ediyorsun....  bu harcadığınız 400.000 doları karşılamıyor...
+        
+            ama peki ya 5 sayıyı bilme ihtimali, 6 sayıyı bilme ihtimalinden daha yüksek
+                1/39.028
+
+                6 sayıdan 5 sayıyı bilmenizi 6nın 5li kombinasyonlarıyla bulabiliyorsun...  = 6 sonuç
+                seçtiğin kırk sayı ise geriye kalan sayıdan herhangibiri olacak ki 6 sayıdan 5ini doğru biliş ol
+                yani 40ın 1 ile kombinasyonu = 40
+                bu ikisini çarparsak olasılık kısmının pay kısmını elde ediyorsunuz.     
+                          40*6=240
+                payda da ise bütün olasılıklar var... yani 46nın 6lı kombinasyonu = 1/39.028 yapıyor...
+                ve şunu da unutma win fallde beş bilene 4000dolar ödül veriliyor...
+                yani rolldown olmadığı bir zamanda oynarsan.... 200bin tane bilet bile alsanız... beklenen değerin sadece 583 dolar olurdu...
+                rolldown olduğunda 5 sayıyı bilene 22.096$ verilecekti.
+                dolayısıyla beklenen değer 583 dolardan 110bin dolara çıkıyor...
+                ama 4 ve üç bilmeyi de bu şekilde hesaplarsan.... tablo aşağıda 
+
+                tutturulan sayı    olasılık      standart ödül      roll-down ödülü          200bin biletten kaçına çıkar?    beklenen kazanç/değer
+                ---------------    --------      -------------      ----------------         -----------------------------    ---------------------
+                6/6                1/9366819     $2.900.000                                  0.02                             $ 61,920
+                5/6                1/39028       $4.000             $ 22.096                 5                                $ 110,480
+                4/6                1/800         $150               $ 807,52                 250                              $ 201,880
+                3/6                1/47.4        $5                 $ 26.85                  4219                             $ 113,280
+                2/6                1/6.83        bedava bilet       -                        29283                            $ 58,566
+                                                                                                                              $ 546,126 ---> total --> beklenen getiri....
+                hatta 6 bilme ve 2 bilme - bedava bile alma ihtimalini göz ardı etsek bile...
+                          toplam -- 425,640$ ediyor.... beklenen getiri -- harcamanı geçti bile.... başta koyduğun 400bin doları geçti...
+
+                sırf istatistiği kullanarak kasa alt ediliyor...
+                Jerry and Marge - go large
+
+
+
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
+
+
+
+                
+              
+
+
+
+    
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
