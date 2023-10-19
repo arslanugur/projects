@@ -23,7 +23,6 @@ Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedi
 
 
 
-
 1- 49 kadar olan sayılardan 6 farklı seçmek ve çekilişte çıkan sayılarla tuturmak
 49un 6lı kombinasyonu
     nasıl hesaplanır   49! / 43! * 6!
@@ -166,6 +165,9 @@ AMA beklenen değeri pozitif olan bir oyun bulabilirsen talihi alt etmen kolay o
 
 
 
+Binom Dağılımı, sadece iki faktörü dikkate alır
+                insan hatası ve biletleri doldururken geçen süreyi dikkate almaz.
+                kuponu makineye oynatmak daha iyi böyle bir durumda
 
 
 
