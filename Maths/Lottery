@@ -1,4 +1,63 @@
-permütasyon 
+Permutation - Permüütasyon
+Combination - Kombinasyon
+Probability - Olasılık
+Operational Research - Yöneylem Araştırması 
+
+
+
+# Permutation
+   Toplam Seçenek istiyorsan = Seçenekleri Çarp
+   6 seçenek var             = 3 * 2
+
+   4 Pants, 2 Shirt, 3 Shoes ---> Options / Combinations
+   4 * 2 * 3 = 24 seçenek var...
+
+# Plakalar yedi karakter içerir..
+  bunlardan ilk ikisi - rakam, ortadaki üçü - harf, son ikisi - rakam
+  ilk ikisi şehire ait bu yüzden seçeneklerden çıkarıyoruz..
+  şehirde en fazla kaç araba var...
+
+  City Code   Second Code  Third Code
+  ----------  -----------  ----------
+     - -        -  -  -       -  -
+   fixed no     29 29 29      10 10       =  29^3 * 10^2 = 2.438.900 plaque
+
+# Number Generation
+  Seçenekleri yazmaya kritik/bağlayıcı sayıdan başla...  ''
+  Ne kadar spesifik/özel/bağlayıcı olursa sonuçların sayısı azalır...
+                                                                                 seçenek miktarı
+                                                                                 ---   ---   ---
+  1, 2, 3, 4, 5 rakamları kullanarak 3 basamaklı kaç sayı?                        5     5     5     = 5^3 = 125 farklı sayı
+                                                 kaç çift sayı?                   5     5    '2'    = 5^2 * 2 = 50
+                                                 300den büyük kaç sayı?          '3'    5     5     = 3 * 5^2 = 75
+                                                 rakamları farklı kaç sayı?       5     4     3     = 60                            her bir bas. bir seçeneğini bıraktın.    
+                                                 rakamları farklı kaç tek sayı?   4     3    '3'    = 36                            kritik bas. başladığımız için ilk basamağa 4 sayı gelir. geriye 3 adet sayı kalır.
+
+
+                                                                                 seçenek miktarı
+                                                                                 ---   ---   ---
+  0, 1, 2, 3, 4, 5 rakamları kullanarak 3 basamaklı kaç sayı?                     5     6     6     = farklı sayı
+                                                 kaç çift sayı?                   5     6    '3'    =
+                                                 ilk bas. 4 olan kaç sayı?       '1'    6     6
+                                                 300den büyük kaç sayı?          '3'    6     6     = 3 * 5^2 = 75
+                                                 rakamları farklı kaç sayı?       5     5     4     = 100                           başa 0 yazılmıyor, bu yüzden 5 sayımız olur. her bir bas. bir seçeneğini bıraktın.    
+                                                 rakamları farklı kaç tek sayı?   4     4    '3'    = 36                            
+                                                                                                        kritik bas. başladığımız için ilk basamağa 3 tane sayı gelir. 
+                                                                                                        geriye 5 adet sayı kalır. ama 0 başa gelmez. başa 4 yazılır. 
+                                                                                                        0 ortaya gelebilir geriye de 3 adet sayı kaldığı için toplam 4 adet sayı yazarız.
+                                                                                 sonu 0 rakamı olanlar  sonu 2 rakamı olanlar  sonu 4 sayısı olanlar
+                                                 en tehlikeli olan...            ---   ---   ---        ---   ---   ---        ---   ---   ---
+                                                 rakamları farklı kaç çift sayı?  5     4     '1'        4     4    '1'         4     4    '1'
+                                                                                  5  *  4   *  1     +   4  *  4  *  1     +    4  *  4  *  1   = 20 + 16 + 16 = 52 adet sayı var.
+
+                                                                                  veya denilince akla toplama gelsin ---> toplama (+)
+
+
+
+
+
+
+
 kombinasyon
 Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedir?
 
@@ -6,7 +65,6 @@ Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedi
 02:30 Türkiye'de Lotoda Büyük İkramiyeyi Tutturma İhtimali Nedir?
 03:25 Birden Fazla Bilet Almak Mantıklı mı?
 03:56 Unutmayın: %70 Kazanma İhtimali, %30 Kaybetme İhtimali Demek!
-05:02 "Herhangi Birinin Kazanma İhtimali" ile "SİZİN Kazanma İhtimaliniz" Aynı Şey Değil!
 06:14 Var Mısın Yok Musun: "Kutumda Büyük Hissediyorum!"
 07:47 Finansal Sağlık: Lotoya Yatıracağınız Parayla Yatırım Yapın!
 08:29 Beklenen Değer: Lotoda Ne İhtimalle Ne Kadar Kazanacağınızı Nasıl Hesaplarsınız?
@@ -14,10 +72,8 @@ Permütasyon, Kombinasyon ve Faktöriyel: Sayısal Lotoyu Kazanma İhtimali Nedi
 11:20 Finansal Disiplin: İkramiye Kazananların %70'i Neden Batıyor?
 
 12:26 Shelbee Çifti: Winfall Oyununu Farklı Kılan Neydi?
- 13:49 Roll-down: Piyango GARANTİLİ Olarak Nasıl Kazanılır?
+13:49 Roll-down: Piyango GARANTİLİ Olarak Nasıl Kazanılır?
 17:39 Jerry and Marge Go Large: Gerçek Piyango Dahileri!
-19:24 MIT Matematik Bölümü Öğrencileri de Milyonlarca Dolar Kazandı!
-20:19 Kapanış: Bir Şeyleri Neden Öğreniriz?
 
 
 
@@ -71,6 +127,8 @@ ama 100 kişiyi diz...  tura atanları ele
             8. tur   1 kişi kalır bu kişi 8 tur üst üste yazı atmış oluyor...%0,4 olasılığı gerçekleştirir.
 
             burda da uniqueness yok. çünkü oynamaya devam edilse o kazanan kişi hep kazanmayacak..
+
+"Herhangi Birinin Kazanma İhtimali" ile "SİZİN Kazanma İhtimaliniz" Aynı Şey Değil!
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 loto peşinde koşmaktansa...
 1993den beri her hafta 10 lirayı biste yatırsan 2023 yılına kadar yaklaşık 10m lira olacaktı
@@ -181,17 +239,13 @@ Binom Dağılımı, sadece iki faktörü dikkate alır
                 
 
 
-
-                
-              
-
-
-
-    
-
-
-
-
+Üniversitede yöneylem dersi alana kadar matematiğe hep sayıları birbiri ile işleme sokma şeklinde bakıyordum. 
+Yöneylem dersinde öğrendim ki bir bardağı alıp başka yere koymak bile aslında iyi bir matematik bilgisi istiyor. 
+Problemlere matematiksel yaklaşmak (eğer modellediğiniz sorunun matematik kısmını çözebiliyorsanız) hatayı neredeyse sıfıra yaklaştırıyor. 
+Zaten günümüzde bunu çoğu insan ve şirket borsa gibi yerlerde kullanıyor. 
+Absürt bir olay olmadıkça (pandemi, savaşlar vs) matematik yanılmaz. 
+Matematik aynı zamanda felsefeye iter. 
+Bu nerden geldi, şu niye böyle derken bir bakmışsınız o konuda müthiş bilgi birikiminiz olmuş.
 
 
 
