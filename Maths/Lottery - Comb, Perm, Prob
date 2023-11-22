@@ -4,6 +4,19 @@ Probability - Olasılık
 Operational Research - Yöneylem Araştırması 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+3 ekmek alacaksın, Fırında 3 çeşit ekmek var
+
+A, B, C = 3 çeşit ekmek
+        Yapılacak seçimler:  AAA  AAB  AAC  ABC
+                             BBB  BBA  BBC  
+                             CCC  CCA  CCB
+10 durum, dizilimleri farklı olsaydı başka olurdu.
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+
 
 # Permutation
    Toplam Seçenek istiyorsan = Seçenekleri Çarp
@@ -215,7 +228,6 @@ AMA beklenen değeri pozitif olan bir oyun bulabilirsen talihi alt etmen kolay o
 
                 sırf istatistiği kullanarak kasa alt ediliyor...
                 Jerry and Marge - go large
-
 
 
             
