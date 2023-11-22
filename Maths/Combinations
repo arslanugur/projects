@@ -1,8 +1,0 @@
-3 ekmek alacaksın, Fırında 3 çeşit ekmek var
-
-A, B, C = 3 çeşit ekmek
-        Yapılacak seçimler:  AAA  AAB  AAC  ABC
-                             BBB  BBA  BBC  
-                             CCC  CCA  CCB
-10 durum, dizilimleri farklı olsaydı başka olurdu.
-
