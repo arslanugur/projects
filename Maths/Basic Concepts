@@ -116,23 +116,40 @@ https://www.youtube.com/watch?v=8-BzDm0-LHM&list=PLVoSZ0D0CB3ptCiA8ZWPKGNpNNzCyf
 
 
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    230 cm
+B   |
+    |
+    |                200 cm            B=?
+A   |            A   |
+    |                |
+    |                |
+    |                |
+    |              B |
 
 
-      
+First Way:
+    İki uzunluğu toplayıp, ikiye bölersen = A object            (230+200)/2=215
+    İki uzunluğun farkını al, ikiye bölersen = B Object         (230-200)/2=15
 
+Second Way:
+    A object = x
+    B object = y
 
+    x + y = 230
+    x - y = 200
+    Taraf tarafa topla
+    2x = 430
+    x = 215
+    x = 215 ise y = 15 olacaktır.
+    yani A object = 15 cm
 
-
-
-
-
-
-
-
-
-
-
-
+Third Way:
+    A + B = 230
+    A - B = 200
+    2B = 30
+    B = 15
 
 
 
