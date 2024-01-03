@@ -4,6 +4,44 @@ Formulas:
 Numbers:
     https://www.cuemath.com/numbers/
 
+🔻 FOIL (first outer inner last)
+            
+         |-------->
+         |----->  |
+         |     |  |
+        (2x+3)(4x-5)
+            |->|  |
+            |----->
+
+    (2x)(4x) + (2x)(-5) + (3)(4x) + (3)(-5)
+     8x^2    - 10x      + 12x     - 15
+             ----------------
+                combine
+    8x^2         + 12x     - 15
+
+Example:
+
+         |------>
+         |--->  |
+         |    | |
+        (x+8)(x+5)
+           |->| |
+           |---->
+
+    x^2+5x+8x+40    --->    x^2+13x+40
+
+Example:
+
+         |------->
+         |-----> |
+         |     | |
+        (2y-6)(y+7)
+           |-->| |
+           |----->
+
+    2y^2+14y-6y+42    --->    2y^2+8y+42
+
+
 
 🔻 PEMDAS TECHNIQUE                                                    BEDMAS in Canada               GEMDAS
                                         1. Parentheses                 1. Brackets                    1. Grouping
@@ -24,6 +62,33 @@ https://www.cuemath.com/numbers/pemdas/
 = 26 - 4                                : 18 + 8       5. Addition
 = 22                                    : 26 - 4       6. Subtraction
 
+
+
+🔻 Changing Fraction, Decimal, Percentage 
+
+        Decimal    Percentage    Fraction    Simplify
+        ---------------------------------------------
+        0.23       23%           23/100      -
+        0.05       5%            5/100       1/20
+            * 100     out of 100
+
+        Percentage Decimal       Fraction    Simplify
+        ---------------------------------------------
+        7%         0.07          7/100      -
+        12%        0.12          12/100     3/25
+            / 100     out of 100
+
+
+
+🔻 Median, Mode, Mean, Range
+    Median (Middle)
+        Middle of Series
+    Mode (Most)
+        Most Used Number in Series
+    Mean (Average)
+        Series Sum / Number = Mean
+    Range (Difference)
+        Large Number - Small Number = Range
 
 
 
