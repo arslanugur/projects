@@ -1,0 +1,124 @@
+# MATH SKILLS (why you need them)
+
+- Arithmetic
+    Cooking
+    Estimating
+    Shopping
+    Planning
+
+    A dress that is regularly $25 is now 20% off
+      price * %off = $off
+      25    * 0.20 = 5.0
+
+      price - $off = sale price
+      25    - 5    = 20
+
+- Algebra
+  if phone A costs $500 and has a plan of $4 a month
+  and phone B costs $200 and has a plan of $20 a month
+  which one should you get if you plan on owning the phone for 2 years (24 months)?
+
+  c = cost
+  m = months
+
+  Phone A                    Phone B
+  c = 500 + 5m               c = 200 + 20m
+
+  500 + 5(24) = 620$         200 + 20(24) = 680$
+        5*24=120                   20*24=480
+
+  Phone A would be cheaper over 2 years
+
+- Geometry
+  A pizza shop makes 100 pizzas per day.
+  Each pizza is 16 inches in diameter.
+  A can of tomato sauce covers 4 square feet.
+  how many cans of sauce does the store per day?
+
+  pi*r^2 = A
+  pi*8^2 = 201in^2
+
+  (201in^2 / 1) * (1ft^2 / 144in^2) = 1.395ft^2
+
+  1.395ft^2 * 100_pizzas = 139.5ft^2
+
+  139.5ft^2 / 4ft^2 = 34.9_cans    ---> 35 cans
+
+- Trigonometry
+  A $100 bill is stuck 12 feet up on the side of a building.
+  you could go to the store to buy a 15 foot ladder that can be safely leaned at a 60° angle.
+  could you reach the $100 bill?
+
+              |\                            sin  cos  tan
+              | \                           soh  cah  toa
+              |  \
+              |   \
+              |    \                        opposite / hypotenuse = sin(60°)
+              |     \  hypotenuse
+              |      \                      x / 15 = sin(60°)
+ opposite = ? |       \ 15_ft               12.990 = 15 * sin(60°)
+              |        \                    12.990 > 12  ---> Yes. Reachable!
+              |         \
+              |          \
+              |           \
+              |        60° \
+              |____________/\
+                  adjacent
+
+
+- Calculus
+  A spherical baloon is inflated with air.
+  the radius increases by 1 cm per second.
+  when the baloon has a diameter of of 30cm, at what rate will the volume of the baloon be increasing by?
+  
+  r' = 1cm / sec
+
+  V  = (4/3)pi*r^3
+  V' = 4*pi*r^2
+
+  4*pi(30)^2 = 3600*picm^3 / sec
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+# Slope
+  Positive Slope
+    4-2 / 3-1 = 2/2 = 1
+    y-y / x-x = y/x = 1
+
+  Negative Slope
+    0-2 / 3-1 = -2/2 = -1
+    y-y / x-x = y/x = -1
+
+  Zero Slope
+    2-2 / 5-1 = 0/4 = 0
+    y-y / x-x = y/x = 0
+
+  Undefined Slope
+    5-2 / 1-1 = 3/0 = undefined (error)
+    y-y / x-x = x/y = undefined (error)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+# Fractions
+  Proper Fraction
+    The numerator is smaller than the denominator
+      1/5
+  
+  Improper Fraction
+    The numerator is greater than the denominator
+      6/2
+
+  Mixed Fraction
+    The whole number and a proper fraction together
+      2*1/2
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Extras:
+Millimetrik hesabı
+Millimetriğin kökü
+Faktörler - factoriyel
+Cubit - küpünü al
+Square - karesini al
+Ark tanjantı almak
+Logaritması
+Karşıtı - reciprocal
