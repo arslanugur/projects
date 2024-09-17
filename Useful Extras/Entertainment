@@ -75,28 +75,84 @@ Probability of winning
 # Lottery
 
 # Giant Playing Cards
-                                                            Bacak Dam    Rua
-                                                            Vale  Kız    Papaz
-                           Ace                              Jack  Queen  King
-    ♡  Hearts    Kupa      A    2  3  4  5  6  7  8  9  10  J      Q      K      Asiller
-    ♠  Spades    Maça      A    2  3  4  5  6  7  8  9  10  J      Q      K      Tüccarlar - Askerler
-    ♢  Diamonds  Karo      A    2  3  4  5  6  7  8  9  10  J      Q      K      Askerler - Tüccarlar
-    ♣  Clubs     Sinek     A    2  3  4  5  6  7  8  9  10  J      Q      K      Fakir Halk - Palamutlar
+                                                               Bacak Dam    Rua
+                                                               Vale  Kız    Papaz
+                              Ace                              Jack  Queen  King
+    ♡  Hearts    13 Kupa      A          2  3  4  5  6  7  8  9  10  J      Q      K      Asiller
+    ♠  Spades    13 Maça      A          2  3  4  5  6  7  8  9  10  J      Q      K      Tüccarlar - Askerler
+    ♢  Diamonds  13 Karo      A          2  3  4  5  6  7  8  9  10  J      Q      K      Askerler - Tüccarlar
+    ♣  Clubs     13 Sinek     A          2  3  4  5  6  7  8  9  10  J      Q      K      Fakir Halk - Palamutlar
+                              one god
 
 
-      Ace: one God.
-      Deuce: the Old Testament and New Testament in the Bible.
-      Trey (three): the Holy Trinity.
-      Four: St. Matthew, St. Mark, St. Luke, and St. John.
-      Five: the five wise virgins in the parable of the Ten Virgins.[2]
-      Six: the number of days taken by God to create the earth according to the Genesis creation narrative.
-      Seven: the day on which God rested, now known as the Sabbath.
-      Eight: The people God saved during the Great Flood: Noah, his wife, their three sons and their wives.
-      Nine: out of the ten lepers cleansed by Jesus, according to the Gospel of Luke (see Luke 17:11-19), who did not thank Him.
-      Ten: the Ten Commandments handed down by Moses.
-      King: Jesus Christ; King of Kings, Lord of Lords.
-      Queen: Mary, the mother of Jesus.
-      Jack or knave: Satan or the Devil.
+.
+.
+.
+      .[2]
+      
+      .
+      .
+      .
+      .
+      .
+      .
+      .
+
+
+      ♡ Hearts        ♠ Spades        ♢ Diamonds          ♣ Clubs
+        Kupa 13         Maça 13         Karo 13             Sinek 13
+        2               2               2                   2                      Deuce:        the Old Testament and New Testament in the Bible
+        3               3               3                   3                      Trey:         the Holy Trinity
+        4               4               4                   4                      Four:         St. Matthew, St. Mark, St. Luke, and St. John
+        5               5               5                   5                      Five:         the five wise virgins in the parable of the Ten Virgins
+        6               6               6                   6                      Six:          the number of days taken by God to create the earth according to the Genesis creation narrative
+        7               7               7                   7                      Seven:        the day on which God rested, now known as the Sabbath
+        8               8               8                   8                      Eight:        The people God saved during the Great Flood: Noah, his wife, their three sons and their wives
+        9               9               9                   9                      Nine:         out of the ten lepers cleansed by Jesus, according to the Gospel of Luke (see Luke 17:11-19), who did not thank Him
+        10              10              10                  10                     Ten:          the Ten Commandments handed down by Moses
+        J               J               J                   J                      Jack / Knave: Satan or the Devil
+        Q               Q               Q                   Q                      Queen:        Mary, the mother of Jesus
+        K               K               K                   K                      King:         Jesus Christ; King of Kings, Lord of Lords
+        A               A               A                   A                      Ace:          one God
+
+
+      Games
+        Pişti: kağıt takibi önemli
+        Pis Yedili: 2 farklı joker dahil..
+                    7li dağıtım
+                    sinek başlangıç kağıdı olmalı
+                    ace önemli gelecek oyuncuya pass gönderirisin
+                    joker varsa: 10 kağıt çeker, sonraki oyuncu da joker atarsa diğer 20 kağıt çeker
+                    unoya benziyor..
+                    10 atarsan el bir turluğuna geri gider
+                    pis 7li üç kağıt çektirir attıkça bir el de 12 kağıt çekilir...
+
+                    Ceza yedirtme: Ellerindeki kartın kaç katını yerler..
+                    Any card x 1                    elinde kalırsa
+                    Jack x 2                        ace 11 sayı puanlama, jack - 20
+                    7 card x 3                      30
+                    Joker x 10                      100
+
+        Batak:
+                Batak çeşitleri
+                  standart, ihale, eşli, herkes tek, koz maça, 3 5 8, koz king (iki kişilik), gömmeli 
+                4, 3, 3, 3 şeklinde: 13 kağıt dağıtılır (bu 13 el demektir, herkes en az 4 demeli)
+                türleri bir araya topla
+                61e ulaşınca kazanırç
+        Poker:
+                5li dağıtım
+                  ikili yakalamak
+                  < 2 tane ikili yakalamak 
+                  < üçlü yakalamak 
+                  < kent (sıralı 5 kağıt dizilmesi)  
+                  < renk,tür yapmak
+                  < full (1 ikili, 1 üçlü)
+                  < dörtlü kağıt yakalamak
+                  < flush yakalamak (Kupa < Maça < Karo < Sinek )
+                yerden kağıt istemek (max 3/4 kart istenir)
+                benzemezler
+
+        Blackjack (21)
 
 
 
