@@ -75,28 +75,14 @@ Probability of winning
 # Lottery
 
 # Giant Playing Cards
-                                                               Bacak Dam    Rua
-                                                               Vale  Kız    Papaz
-                              Ace                              Jack  Queen  King
-    ♡  Hearts    13 Kupa      A          2  3  4  5  6  7  8  9  10  J      Q      K      Asiller
-    ♠  Spades    13 Maça      A          2  3  4  5  6  7  8  9  10  J      Q      K      Tüccarlar - Askerler
-    ♢  Diamonds  13 Karo      A          2  3  4  5  6  7  8  9  10  J      Q      K      Askerler - Tüccarlar
-    ♣  Clubs     13 Sinek     A          2  3  4  5  6  7  8  9  10  J      Q      K      Fakir Halk - Palamutlar
-                              one god
-
-
-.
-.
-.
-      .[2]
-      
-      .
-      .
-      .
-      .
-      .
-      .
-      .
+                                                          Jilet
+                                                          Bacak  Dam    Rua
+                                                          Vale   Kız    Papaz
+                                                          Jack   Queen  King  Ace
+    ♡  Hearts    13 Kupa      2  3  4  5  6  7  8  9  10  J      Q      K     A       Asiller
+    ♠  Spades    13 Maça      2  3  4  5  6  7  8  9  10  J      Q      K     A       Tüccarlar - Askerler
+    ♢  Diamonds  13 Karo      2  3  4  5  6  7  8  9  10  J      Q      K     A       Askerler - Tüccarlar
+    ♣  Clubs     13 Sinek     2  3  4  5  6  7  8  9  10  J      Q      K     A       Fakir Halk - Palamutlar
 
 
       ♡ Hearts        ♠ Spades        ♢ Diamonds          ♣ Clubs
@@ -138,24 +124,30 @@ Probability of winning
                   standart, ihale, eşli, herkes tek, koz maça, 3 5 8, koz king (iki kişilik), gömmeli 
                 4, 3, 3, 3 şeklinde: 13 kağıt dağıtılır (bu 13 el demektir, herkes en az 4 demeli)
                 türleri bir araya topla
-                61e ulaşınca kazanırç
+                61e ulaşınca kazanır
         Poker:
                 5li dağıtım
-                  ikili yakalamak
-                  < 2 tane ikili yakalamak 
-                  < üçlü yakalamak 
-                  < kent (sıralı 5 kağıt dizilmesi)  
-                  < renk,tür yapmak
-                  < full (1 ikili, 1 üçlü)
-                  < dörtlü kağıt yakalamak
-                  < flush yakalamak (Kupa < Maça < Karo < Sinek )
                 yerden kağıt istemek (max 3/4 kart istenir)
-                benzemezler
+
+                benzemez:  hiç benzer olmayan el yakalamak
+                ikili:     bir adet ikili yakalamak
+                ikili:     iki adet ikili yakalamak
+                üçlü:      bir adet üçlü yakalamak
+                kent:      rakamları sıralı beş kağıt yakalamak
+                renk:      aynı tür/cins beş adet kağıt yakalamak
+                full:      bir adet üçlü, bir adet ikili yakalamak
+                dörtlü:    dört tane aynı rakamdan yakalamak
+                flush:     aynı tür/cins kağıtın sıralı yakalanması (Kupa < Maça < Karo < Sinek)
+                royal:     A, K, Q, J, 10
 
         Blackjack (21)
+            2+ people
+              Herkese iki kağıt
+              +17 = risky
+              A = 1, 11
+              K, Q, J = 10 point 
 
-
-
+https://youtu.be/P9OYwnI102o?si=WXptNyOQpwhFcZ8P
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 # Shows
                 Duration:
